@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 925,
+  "TotalResults": 929,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "forbes.com",
+      "Title": "Silent Movie Star Myrtle Gonzalez Memorialized With Google Doodle",
+      "Description": "She made 80 films in just five years, but silent movie star Myrtle Gonzalez faded into oblivion... until now. Today’s Google Doodle celebrates the pioneer Mexican American actress on the anniversary of the 1914 release of The Level, one of her most well-known…",
+      "Url": "https://biztoc.com/x/38d61fba65e9597c",
+      "UrlToImage": "https://c.biztoc.com/p/38d61fba65e9597c/og.webp",
+      "PublishedAt": "2022-11-23T20:20:12Z",
+      "Content": "She made 80 films in just five years, but silent movie star Myrtle Gonzalez faded into oblivion... until now.\r\nTodays Google Doodle celebrates the pioneer Mexican American actress on the anniversary … [+982 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "Machine Gun Kelly Delivers Title Track From Semi-Autobiographical Film 'Taurus'",
+      "Description": "Machine Gun Kelly has dropped off a new track, titled \"Taurus,\" featuring Naomi Wild. The single, which arrives with a music video, is the feature song from the major motion picture Taurus, in which Kelly stars under his real name, Colson Baker.In the semi-au…",
+      "Url": "https://hypebeast.com/2022/11/machine-gun-kelly-new-track-video-taurus",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F11%2Fmachine-gun-kelly-new-track-video-taurus-TW.jpg?w=960&cbr=1&q=90&fit=max",
+      "PublishedAt": "2022-11-23T20:06:24Z",
+      "Content": "Machine Gun Kelly has dropped off a new track, titled “Taurus,” featuring Naomi Wild. The single, which arrives with a music video, is the feature song from the major motion picture Taurus, in which … [+1239 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Gavia Baker-Whitelaw",
+      "Title": "What to watch next if you love ‘Andor’: Political thrillers, dystopian dramas, and more",
+      "Description": "In a landscape of formulaic franchise spinoffs, Andor is a shock to the system: An ambitious political thriller with a sharper, more mature view of the Star Wars universe. It's startlingly radical for a show airing on Disney+. \n\n\nAs season 1 draws to a close,…",
+      "Url": "https://www.dailydot.com/upstream/movies-tv-like-andor-recommendations/",
+      "UrlToImage": "https://uploads.dailydot.com/2022/11/if-you-liked-andor.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2022-11-23T20:00:00Z",
+      "Content": "In a landscape of formulaic franchise spinoffs, Andor is a shock to the system: An ambitious political thriller with a sharper, more mature view of the Star Warsuniverse. It’s startlingly radical for… [+6111 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -15,6 +54,19 @@
       "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
       "PublishedAt": "2022-11-23T19:35:44Z",
       "Content": "So I've built an API for movies dataset which contain following structure:\r\nModels.py\r\nclass Directors(models.Model):\r\n id = models.IntegerField(primary_key=True)\r\n first_name = models.CharField(max_… [+5428 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Anglotopia.net"
+      },
+      "Author": "Anglotopia Staff",
+      "Title": "After Life star Ashley Jensen to lead hit BBC drama Shetland",
+      "Description": "Ashley Jensen will lead the cast of popular BBC One crime drama Shetland, taking over from Douglas Henshall, who appeared in the TV show since its inception in 2013. The 53-year-old Scottish actress will star as Detective Inspector Ruth Calder in the eighth s…",
+      "Url": "https://anglotopia.net/british-entertainment/after-life-star-ashley-jensen-to-lead-hit-bbc-drama-shetland/",
+      "UrlToImage": null,
+      "PublishedAt": "2022-11-23T19:26:26Z",
+      "Content": "Ashley Jensen will lead the cast of popular BBC One crime drama Shetland, taking over from Douglas Henshall, who appeared in the TV show since its inception in 2013.\r\nThe 53-year-old Scottish actress… [+2752 chars]"
     },
     {
       "Source": {
@@ -1250,58 +1302,6 @@
       "UrlToImage": "https://s.hdnux.com/photos/01/30/35/56/23190438/3/rawImage.jpg",
       "PublishedAt": "2022-11-21T15:40:32Z",
       "Content": "Celebrity birthdays for the week of Nov. 27-Dec. 3:Nov. 27: Director Kathryn Bigelow (The Hurt Locker) is 71. TV personality Bill Nye (Bill Nye the Science Guy) is 67. Actor William Fichtner (Mom, In… [+7164 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "James Whitbrook and Gordon Jackson",
-      "Title": "Marvel's Thunderbolts Movie Might Have Found Its Villain",
-      "Description": "Image: Marvel Studios\r\nNicholas Hoult teases a Maximum Cage performance for Renfield’s Dracula. Disney+’s Percy Jackson finds itself some more gods. Daredevil: Born Again could feature another street-level hero. Plus, what’s coming on the next Rick and Morty.…",
-      "Url": "https://gizmodo.com/marvel-thunderbolts-villain-hyperion-squadron-supreme-1849806573",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9e3bd07f8f0b11cb2300e06a41fecbea.png",
-      "PublishedAt": "2022-11-21T15:30:00Z",
-      "Content": "Nicholas Hoult teases a Maximum Cage performance for Renfields Dracula. Disney+s Percy Jackson finds itself some more gods. Daredevil: Born Again could feature another street-level hero. Plus, whats … [+3013 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Jessica Fisher",
-      "Title": "Chris Hemsworth to Slow Down His Acting Career Since Finding His Predisposition to Alzheimer's",
-      "Description": "Actor Chris Hemsworth, best known for playing Thor in the Marvel movies, has decided to slow his acting career down since he found out that he has a predisposition to Alzheimer’s Disease. The news was revealed to Hemsworth in an episode of his new Disney+ doc…",
-      "Url": "https://geektyrant.com/news/chris-hemsworth-to-slow-down-his-acting-career-since-finding-his-predisposition-to-alzheimers",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/637a48e6581e303e18195311/1669044611937/chris-hemsworth-limitless.jpg?format=1500w",
-      "PublishedAt": "2022-11-21T15:30:00Z",
-      "Content": "Actor Chris Hemsworth, best known for playing Thor in the Marvel movies, has decided to slow his acting career down since he found out that he has a predisposition to Alzheimers Disease. The news was… [+1831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Daniel Craig Explains Why He Wanted His James Bond Character To Be Killed Off",
-      "Description": "It was a pretty shocking moment in the 007 franchise when James Bond was killed in No Time To Die. One of the things that makes these films so fun is all the different actors that have stepped into the role of Bond over the course of 25 films. When one actor …",
-      "Url": "https://geektyrant.com/news/daniel-craig-explains-why-he-wanted-his-james-bond-character-to-be-killed-off",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6377c9c7dbf85c5584c23dbc/1669042821253/daniel-craig-explains-why-he-wanted-his-james-bond-character-to-be-killed-off.jpg?format=1500w",
-      "PublishedAt": "2022-11-21T15:00:00Z",
-      "Content": "It was a pretty shocking moment in the 007 franchise when James Bond was killed in No Time To Die. One of the things that makes these films so fun is all the different actors that have stepped into t… [+1527 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Jessica Fisher",
-      "Title": "Timothée Chalamet Has Been Prepping to Play Bob Dylan for Two Years - Says Biopic Isn't Dead and Is Heading in a \"Positive Direction\"",
-      "Description": "Oscar-nominated actor Timothée Chalamet (Call Me By Your Name, Dune) has been preparing for the role of iconic folk musician Bob Dylan for the past two and a half years. The film, Going Electric, was first announced in early 2020 with filmmaker James Mangold …",
-      "Url": "https://geektyrant.com/news/timothe-chalamet-has-been-prepping-to-play-bob-dylan-for-two-years-says-biopic-isnt-dead-and-is-heading-in-a-positive-direction",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63752d1ccaa5cd2cbd091efc/1669035621097/Screenshot%252B%252528123%252529.jpg?format=1500w",
-      "PublishedAt": "2022-11-21T13:00:00Z",
-      "Content": "Oscar-nominated actor Timothée Chalamet (Call Me By Your Name, Dune) has been preparing for the role of iconic folk musician Bob Dylan for the past two and a half years. The film, Going Electric, was… [+1564 chars]"
     }
   ]
 }
