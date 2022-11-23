@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 924,
+  "TotalResults": 925,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "Is there a way to add custom data into ListAPIView in django rest framework",
+      "Description": "So I've built an API for movies dataset which contain following structure:\nModels.py\nclass Directors(models.Model):\n id = models.IntegerField(primary_key=True)\n first_name = models.CharField(max_length=100, blank=True, null=True)\n last_name = models.CharField…",
+      "Url": "https://stackoverflow.com/questions/74552043/is-there-a-way-to-add-custom-data-into-listapiview-in-django-rest-framework",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2022-11-23T19:35:44Z",
+      "Content": "So I've built an API for movies dataset which contain following structure:\r\nModels.py\r\nclass Directors(models.Model):\r\n id = models.IntegerField(primary_key=True)\r\n first_name = models.CharField(max_… [+5428 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63752d1ccaa5cd2cbd091efc/1669035621097/Screenshot%252B%252528123%252529.jpg?format=1500w",
       "PublishedAt": "2022-11-21T13:00:00Z",
       "Content": "Oscar-nominated actor Timothée Chalamet (Call Me By Your Name, Dune) has been preparing for the role of iconic folk musician Bob Dylan for the past two and a half years. The film, Going Electric, was… [+1564 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Raw Story"
-      },
-      "Author": "Agence France-Presse",
-      "Title": "'Back to the Future' star and Parkinson's activist Fox gets honorary Oscar",
-      "Description": "Michael J. Fox was awarded an honorary Oscar Saturday for his campaign to fund Parkinson's research since being diagnosed with the neurodegenerative disease at the peak of his acting career.Fox received the Academy of Motion Picture Arts and Sciences' annual …",
-      "Url": "https://www.rawstory.com/back-to-the-future-star-and-parkinson-s-activist-fox-gets-honorary-oscar/",
-      "UrlToImage": "https://www.rawstory.com/media-library/michael-j-fox.png?id=32129796&width=1200&height=600&coordinates=0%2C0%2C0%2C131",
-      "PublishedAt": "2022-11-21T11:37:39Z",
-      "Content": "In spite of the controversy, the World Cup will be the most-watched sporting event of the year. Heres a guide to some of what to watch out for.\r\n1. Backing Team USA (or perhaps not)\r\nThe U.S. mens na… [+5966 chars]"
     }
   ]
 }
