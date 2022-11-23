@@ -1,8 +1,476 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1277,
+  "TotalResults": 1273,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hipertextual"
+      },
+      "Author": "Aglaia Berlutti",
+      "Title": "¿Por qué ‘1899’ ocurre precisamente en ese año?",
+      "Description": "La serie 1899 se ha convertido en el gran éxito de final de año de Netflix. En especial, por su mezcla elaborada y bien construida de suspense, terror e incluso toques filosóficos. Todo lo relacionado con 1899 es una mezcla de diferentes puntos de vista acerc…",
+      "Url": "https://hipertextual.com/2022/11/serie-1899-netflix-ano",
+      "UrlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/11/1899-Netflix-2.jpeg?fit=2000%2C1333&quality=60&strip=all&ssl=1",
+      "PublishedAt": "2022-11-23T17:02:00Z",
+      "Content": "La serie 1899 se ha convertido en el gran éxito de final de año de Netflix. En especial, por su mezcla elaborada y bien construida de suspense, terror e incluso toques filosóficos. Todo lo relacionad… [+3040 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Noel Ceballos",
+      "Title": "Descubre Los tres caballeros, la gran joya oculta de Disney+",
+      "Description": "Antes que una película, Los tres caballeros fue una misión diplomática. A principios de 1941, antes incluso de que Estados Unidos entrase en la Segunda Guerra Mundial, la administración Roosevelt veía con cierta preocupación los lazos que la Alemania nazi est…",
+      "Url": "https://www.revistagq.com/noticias/articulo/los-tres-caballeros-disney",
+      "UrlToImage": "https://media.revistagq.com/photos/637e176125640a99b05d8672/16:9/w_1280,c_limit/05_Feb3-1.jpeg",
+      "PublishedAt": "2022-11-23T16:38:34Z",
+      "Content": "Si bien Saludos Amigos contiene ciertos aspectos de sumo interés, es en Los tres caballeros donde la Política de Buena Vecindad acabó alumbrando algunas de las secuencias más imaginativas y poderosas… [+2868 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "María Barba",
+      "Title": "Con este cepillo de vapor no tendremos que planchar nunca más (o casi) y cuesta menos de 12 euros en el Black Friday de Lidl",
+      "Description": "Lo confieso, odio planchar, tanto que elijo la ropa -o más bien la descarto- con tejidos que requieren poco mantenimiento, de esos que no se arrugan ni un poquito aunque lo intentes o que, por el contrario, llevan la arruga de serie, como el lino.\n<!-- BREAK …",
+      "Url": "https://www.trendencias.com/shopping/este-cepillo-vapor-no-tendremos-que-planchar-nunca-casi-cuesta-12-euros-black-friday-lidl",
+      "UrlToImage": "https://i.blogs.es/07905d/315313134_808323297051044_6740149518260674519_n/840_560.jpeg",
+      "PublishedAt": "2022-11-23T16:20:13Z",
+      "Content": "Lo confieso, odio planchar, tanto que elijo la ropa -o más bien la descarto- con tejidos que requieren poco mantenimiento, de esos que no se arrugan ni un poquito aunque lo intentes o que, por el con… [+2091 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xatakamovil.com"
+      },
+      "Author": "Samuel Fernández",
+      "Title": "El final de 'Andor', el loco especial navideño de 'Guardianes de la Galaxia' y 'X': los 48 estrenos en plataformas de la semana",
+      "Description": "Cada vez están más cerca las vacaciones de Navidad, al menos para aquellos que puedan disfrutarlas, pero eso no impide que podamos invertir cada fin de semana en hacer algunos palomitas en el microondas (o en la sarten, hacedme caso) y sentarnos a ver una pel…",
+      "Url": "https://www.xatakamovil.com/streaming/final-andor-loco-especial-navideno-guardianes-galaxia-x-48-estrenos-plataformas-semana",
+      "UrlToImage": "https://i.blogs.es/ab7e1c/portada/840_560.jpg",
+      "PublishedAt": "2022-11-23T16:01:52Z",
+      "Content": "Cada vez están más cerca las vacaciones de Navidad, al menos para aquellos que puedan disfrutarlas, pero eso no impide que podamos invertir cada fin de semana en hacer algunos palomitas en el microon… [+2506 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xatakahome.com"
+      },
+      "Author": "Antonio Vallejo",
+      "Title": "'1899' es la nueva gran serie de Netflix. Te recomendamos activar esta opción en tu Smart TV para entenderla al completo",
+      "Description": "Los usuarios de Netflix llevan unos días pudiendo disfrutar de '1899', una de las series más esperadas de los últimos años. Esto es debido a que sus creadores ya nos sorprendieron con 'Dark', otra de las obras más exitosas de la plataforma. En este caso, Bara…",
+      "Url": "https://www.xatakahome.com/centro-multimedia/1899-nueva-gran-serie-netflix-te-recomendamos-activar-esta-opcion-tu-smart-tv-para-entenderla-al-completo",
+      "UrlToImage": "https://i.blogs.es/0fe209/840_560/840_560.jpeg",
+      "PublishedAt": "2022-11-23T15:45:19Z",
+      "Content": "Los usuarios de Netflix llevan unos días pudiendo disfrutar de '1899', una de las series más esperadas de los últimos años. Esto es debido a que sus creadores ya nos sorprendieron con 'Dark', otra de… [+2697 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "'Stranger Things 5': los hermanos Duffer desvelan de dónde les ha venido la idea para la temporada final de la serie de Netflix",
+      "Description": "Mientras esperamos ansiosos el regreso de 'Stranger Things' con su temporada 5 y final a Netflix, poco a poco vamos teniendo un poco de idea de lo que les espera a los muchachos de Hawkins en su lucha contra las fuerzas oscuras del Otro Lado o upside down.\n<!…",
+      "Url": "https://www.espinof.com/directores-y-guionistas/stranger-things-5-hermanos-duffer-desvelan-donde-les-ha-venido-idea-para-temporada-final-serie-netflix",
+      "UrlToImage": "https://i.blogs.es/1e0896/st_208-209_unit_5095_r_crop/840_560.jpeg",
+      "PublishedAt": "2022-11-23T15:31:53Z",
+      "Content": "Mientras esperamos ansiosos el regreso de 'Stranger Things' con su temporada 5 y final a Netflix, poco a poco vamos teniendo un poco de idea de lo que les espera a los muchachos de Hawkins en su luch… [+2034 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Reuters",
+      "Title": "Muere Wilko Johnson, m�sico de Dr. Feelgood y verdugo de 'Game of Thrones'",
+      "Description": "Wilko Johnson, guitarrista de la banda de rock setentera Dr. Feelgood e influyente en el movimiento del punk rock brit�nico, muri� a los 75 a�os.Un comunicado en la p�gina de Twitter de Johnson dijo que el m�sico falleci� en su casa el lunes. No se dieron m�s…",
+      "Url": "https://www.milenio.com/espectaculos/famosos/wilko-johnson-muere-musico-dr-feelgood-verdugo-game-of-thrones",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/11/23/wilko-johnson-murio-a-los.jpg",
+      "PublishedAt": "2022-11-23T15:29:00Z",
+      "Content": "Wilko Johnson, guitarrista de la banda de rock setentera Dr. Feelgood e influyente en el movimiento del punk rock británico, murió a los 75 años.\r\nUn comunicado en la página de Twitter de Johnson dij… [+1108 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Formulatv.com"
+      },
+      "Author": "FormulaTV",
+      "Title": "Tráiler de 'La casa de papel: Corea - Parte 2', con un traidor que pone en jaque un golpe que muestra fisuras",
+      "Description": "TODO ESTALLA La adaptación coreana de la serie regresa a el 9 de diciembre a Netflix con nuevas aventuras.Tráiler de 'La casa de papel: Corea - Parte 2', con un traidor que pone en jaque un golpe que muestra fisuras",
+      "Url": "https://www.formulatv.com/videos/la-casa-de-papel-corea-segunda-parte-atraco-25949/",
+      "UrlToImage": "https://www.formulatv.com/images/videos/25000/25949_4HciUW8kY5-t.jpg",
+      "PublishedAt": "2022-11-23T15:23:00Z",
+      "Content": "Volvemos a vivir el atraco más famoso del mundo con la segunda parte de 'La Casa de Papel: Corea'. La serie se adentra de lleno en los conflictos de su trama al acercarse a su ecuador, enfrentando a … [+1575 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Redacción verTele",
+      "Title": "Los creadores de '1899' ya trabajan en potenciales nuevas temporadas de la serie, con un final en mente",
+      "Description": "No ha pasado ni una semana desde el estreno de 1899 y sus creadores, Baran bo Odar y Jantje Friese, han afirmado estar trabajando en futuras temporadas deafirmado estar trabajando en las futuras temporadas de la serie de Netflix. Los creadores alemanes parece…",
+      "Url": "https://vertele.eldiario.es/series/creadores-1899-potenciales-nuevas-temporadas-serie-final-mente_1_9737024.html",
+      "UrlToImage": "https://static.eldiario.es/clip/dcf0d514-5012-427d-a76d-7d8e27b13e8c_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2022-11-23T15:14:05Z",
+      "Content": "No ha pasado ni una semana desde el estreno de 1899 y sus creadores, Baran bo Odar y Jantje Friese, han afirmado estar trabajando en futuras temporadas deafirmado estar trabajando en las futuras temp… [+4876 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mariló Delgado",
+      "Title": "'FLCL': las nuevas temporadas del anime de culto llegan a HBO Max, y por fin con doblaje en castellano",
+      "Description": "Cada vez nos llegan más series y películas de anime a streaming, y todas las plataformas quieren su pedacito del pastel. Por ahora HBO Max se estaba quedando un poco rezagada, con apenas contenido de anime en su catálogo aparte de 'Doraemon' y varias de sus p…",
+      "Url": "https://www.espinof.com/anime/flcl-nuevas-temporadas-anime-culto-llegan-a-hbo-max-fin-doblaje-castellano",
+      "UrlToImage": "https://i.blogs.es/2f4660/flcl-progressive/840_560.jpeg",
+      "PublishedAt": "2022-11-23T15:01:51Z",
+      "Content": "Cada vez nos llegan más series y películas de anime a streaming, y todas las plataformas quieren su pedacito del pastel. Por ahora HBO Max se estaba quedando un poco rezagada, con apenas contenido de… [+1728 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Levelup.com"
+      },
+      "Author": "Daniel Laguna",
+      "Title": "Netflix hará un RPG de acción para PC con una narrativa digna de una serie",
+      "Description": "Netflix no ha parado de invertir en la industria de videojuegos y ya tiene en sus manos a talentosos estudios de desarrollo. Sin embargo, no ha revelado muchos detalles sobre los primeros proyectos que hará para llamar la atención de los jugadores.\nContinuar …",
+      "Url": "https://www.levelup.com/noticias/711269/Netflix-hara-un-RPG-de-accion-para-PC-con-una-narrativa-digna-de-una-serie",
+      "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/772072/772072_600x315.jpg",
+      "PublishedAt": "2022-11-23T14:30:00Z",
+      "Content": "Netflix no ha parado de invertir en la industria de videojuegos y ya tiene en sus manos a talentosos estudios de desarrollo. Sin embargo, no ha revelado muchos detalles sobre los primeros proyectos q… [+2018 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "'The Devil's Hour' tendrá dos temporadas más: Amazon Prime Video renueva el siniestro thriller protagonizado por Peter Capaldi",
+      "Description": "Desde Amazon están muy contentos con una de sus últimas producciones británicas y la plataforma ha anunciado que renueva 'The Devil's Hour', el thriller protagonizado por Peter Capaldi y Jessica Raine, por dos temporadas más.\n<!-- BREAK 1 -->\nDe esta manera, …",
+      "Url": "https://www.espinof.com/series-de-ficcion/the-devils-hour-tendra-dos-temporadas-amazon-prime-video-renueva-siniestro-thriller-protagonizado-peter-capaldi",
+      "UrlToImage": "https://i.blogs.es/288c96/devils-hour/840_560.jpeg",
+      "PublishedAt": "2022-11-23T13:31:50Z",
+      "Content": "Desde Amazon están muy contentos con una de sus últimas producciones británicas y la plataforma ha anunciado que renueva 'The Devil's Hour', el thriller protagonizado por Peter Capaldi y Jessica Rain… [+1255 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Redacción verTele",
+      "Title": "Así es 'El búnker', la nueva serie de Álex Pina para Netflix",
+      "Description": "Netflix y Álex Pina están trabajando en una nueva serie. El creador de La casa de papel tiene entre manos una historia sobre millonarios que huyen a un refugio para escapar del apocalipsis que se cierne sobre el resto de la humanidad. La serie se llamará El b…",
+      "Url": "https://vertele.eldiario.es/series/el-bunker-nueva-serie-alex-pina-netflix_1_9736886.html",
+      "UrlToImage": "https://static.eldiario.es/clip/d04eaf3a-e9c3-4258-8480-32a611ff65a5_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2022-11-23T13:29:18Z",
+      "Content": "Netflix y Álex Pina están trabajando en una nueva serie. El creador de La casa de papel tiene entre manos una historia sobre millonarios que huyen a un refugio para escapar del apocalipsis que se cie… [+1608 chars]"
+    },
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "La que se avecina planea visitas guiadas a los decorados de la serie",
+      "Description": "La que se avecina ha vuelto con su temporada 13, estrenada en Amazon Prime Video el viernes 18 de noviembre con tres episodios. Telecinco emitió el primero de ellos en abierto el...",
+      "Url": "https://www.elmundo.es/television/series/2022/11/23/637e1f0bfdddff1aa88b45a9.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/2b88440818facef96376d5cbe8b6b230/resize/1200/f/jpg/assets/multimedia/imagenes/2022/11/23/16692095451885.jpg",
+      "PublishedAt": "2022-11-23T13:25:12Z",
+      "Content": "La que se avecina ha vuelto con su temporada 13, estrenada en Amazon Prime Video el viernes 18 de noviembre con tres episodios. Telecinco emitió el primero de ellos en abierto el lunes 21. Alberto Ca… [+2019 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Carmen Cocina",
+      "Title": "Sebastián Lelio, director de The Wonder: “El patriarcado es una historia que ha triunfado y se ha convertido en poder político, y ha sido tan exitosa que nos fue invisible hasta hace muy poco”",
+      "Description": "Un cineasta como Sebastián Lelio lo sabe mejor que nadie: Necesitamos contarnos historias que encajen con nuestra visión del mundo. Cuando surge algo que entra en conflicto con esta idea, y no digamos si es con nuestra idea del yo (proceso que en psicología c…",
+      "Url": "https://www.revistagq.com/hombres-gq-del-ano/articulo/sebastian-lelio-director-de-the-wonder",
+      "UrlToImage": "https://media.revistagq.com/photos/6375181b66647a816434e30d/16:9/w_1280,c_limit/Sebastian-Lelio_GQ-Montaje-Web.jpg",
+      "PublishedAt": "2022-11-23T13:12:33Z",
+      "Content": "Es la indeseada del pueblo. Mi objetivo era analizar las dinámicas de esta comunidad cargada de fervor religioso, de gente que ha encontrado una verdad y no está dispuesta a moverse de esa postura: l… [+3128 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Randy Meeks",
+      "Title": "HBO Max empieza a rodar 'Dune: The Sisterhood', una precuela que pisará Arrakis mucho antes de lo que vimos en la película de Denis Villeneuve",
+      "Description": "Para el Hollywood de 2022, todo es franquiciable. Y si no es franquiciable, no interesa. Desde el 'The Batman' de Matt Reeves hasta cualquier película de Pixar, no hay nada que no pueda convertirse en una serie dirigida al streaming. La última en caer es 'Dun…",
+      "Url": "https://www.espinof.com/en-rodaje/hbo-max-empieza-a-rodar-dune-the-sisterhood-precuela-que-pisara-arrakis-mucho-antes-que-vimos-pelicula-denis-villeneuve",
+      "UrlToImage": "https://i.blogs.es/5bfc66/sisterhood/840_560.jpeg",
+      "PublishedAt": "2022-11-23T12:31:50Z",
+      "Content": "Para el Hollywood de 2022, todo es franquiciable. Y si no es franquiciable, no interesa. Desde el 'The Batman' de Matt Reeves hasta cualquier película de Pixar, no hay nada que no pueda convertirse e… [+1129 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "Todo lo que sabemos de la precuela de Dune que llegará en forma de serie a HBO Max",
+      "Description": "Puede que entre tanto estreno y cambios en HBO Max no te hayas enterado, pero se acerca una precuela de Dune a la plataforma que se presentará en forma de serie y que tendrá un reparto que nada envidiará a la de las cintas de Denis Villeneuve.\r\n\nYa te enganch…",
+      "Url": "https://www.revistagq.com/noticias/articulo/precuela-dune-serie-hbo-max-estreno",
+      "UrlToImage": "https://media.revistagq.com/photos/637e0764313e437d9e881f75/16:9/w_1280,c_limit/precuela-dune-hbo-max.jpeg",
+      "PublishedAt": "2022-11-23T11:49:31Z",
+      "Content": "Puede que entre tanto estreno y cambios en HBO Max no te hayas enterado, pero se acerca unaprecuela deDune a la plataforma que se presentará en forma de serie y que tendrá un reparto que nada envidia… [+1896 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hipertextual"
+      },
+      "Author": "Rubén Chicharro",
+      "Title": "Apple podría convertir el libro de Michael Lewis sobre FTX en un largometraje",
+      "Description": "El libro en el que trabaja Michael Lewis (escritor de ‘La gran apuesta’, sobre Sam Bankman-Fried y FTX, pronto podría convertirse en un largometraje de Apple TV+. La compañía de Cupertino, según informa Deadline, estaría a la cabeza en las negociaciones para …",
+      "Url": "https://hipertextual.com/2022/11/apple-podria-convertir-el-libro-de-michael-lewis-sobre-ftx-en-un-largometraje",
+      "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/11/Sam-Bankman-Fried-ftx.jpg",
+      "PublishedAt": "2022-11-23T10:52:47Z",
+      "Content": "El libro en el que trabaja Michael Lewis (escritor de La gran apuesta, sobre Sam Bankman-Fried y FTX, pronto podría convertirse en un largometraje de Apple TV+. La compañía de Cupertino, según inform… [+2101 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Meneame.net"
+      },
+      "Author": "ChesterCopperpot",
+      "Title": "Netflix riza el rizo del streaming con una nueva serie de atracos cuyos episodios se pueden ver en cualquier orden",
+      "Description": "La novedad es que los episodios de la serie se pueden ver en cualquier orden, y narran eventos que suceden desde 24 años antes del atraco hasta 6 meses más tarde. Eric Garcia, showrunner de la serie y guionista de otra película reciente de atracos, 'Los impos…",
+      "Url": "https://www.meneame.net/m/ocio/netflix-riza-rizo-streaming-nueva-serie-atracos-cuyos-episodios",
+      "UrlToImage": null,
+      "PublishedAt": "2022-11-23T10:50:52Z",
+      "Content": ""
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Compradiccion.com"
+      },
+      "Author": "Jose Manuel Gallego",
+      "Title": "Black Friday 2022: Ofertas anticipadas del día de hoy (23 de noviembre)",
+      "Description": "Sólo dos días para el gran día de las rebajas de 2022: el Black Friday. Aunque el lunes llegará Cyber Monday, este viernes, encontraremos grandes descuentos en MediaMarkt, PcComponentes, El Corte Inglés, Amazon y muchas otras. Además, muchas de ellas ya tiene…",
+      "Url": "https://www.compradiccion.com/electrodomesticos-y-hogar/black-friday-2022-ofertas-anticipadas-dia-hoy-23-noviembre",
+      "UrlToImage": "https://i.blogs.es/64c325/p-black_friday_2022-tec_post_recopilatorio-3-/840_560.jpg",
+      "PublishedAt": "2022-11-23T10:44:49Z",
+      "Content": "Sólo dos días para el gran día de las rebajas de 2022: el Black Friday. Aunque el lunes llegará Cyber Monday, este viernes, encontraremos grandes descuentos en MediaMarkt, PcComponentes, El Corte Ing… [+2888 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "John Tones",
+      "Title": "Netflix riza el rizo del streaming con una nueva serie de atracos cuyos episodios se pueden ver en cualquier orden",
+      "Description": "A Netflix le gusta jugar. Es prácticamente la única plataforma que ha experimentado con nuevas formas de ver sus series aprovechando las posibilidades que ofrece el streaming. A veces con resultados mejores ('Bandersnatch', 'El gato caco'), a veces peores (la…",
+      "Url": "https://www.xataka.com/cine-y-tv/netflix-riza-rizo-streaming-nueva-serie-atracos-cuyos-episodios-se-pueden-ver-cualquier-orden",
+      "UrlToImage": "https://i.blogs.es/315711/kaleidoscope_red_unit_00992rc-10/840_560.jpeg",
+      "PublishedAt": "2022-11-23T10:31:50Z",
+      "Content": "A Netflix le gusta jugar. Es prácticamente la única plataforma que ha experimentado con nuevas formas de ver sus series aprovechando las posibilidades que ofrece el streaming. A veces con resultados … [+2002 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "La serie de Netflix que Stephen King ama es la que deberías estar viendo ya",
+      "Description": "Ya lo había avisado, pero lo ha vuelto a dejar claro otra vez. Hay una serie de Netflix que Stephen King no puede parar de ver, que ha recomendado a todo el mundo, y es la única de la que está hablando en sus redes sociales ahora mismo, así que tienes que apu…",
+      "Url": "https://www.revistagq.com/noticias/articulo/serie-netflix-stephen-king-recomendada-manifest",
+      "UrlToImage": "https://media.revistagq.com/photos/637df1d04dd8e3c0c84e65c8/16:9/w_1280,c_limit/Manifest_S4_E1_00_30_41_13.jpg",
+      "PublishedAt": "2022-11-23T10:20:25Z",
+      "Content": "Ya lo había avisado, pero lo ha vuelto a dejar claro otra vez. Hay una serie de Netflix que Stephen King no puede parar de ver, que ha recomendado a todo el mundo, y es la única de la que está hablan… [+1456 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Alberto García",
+      "Title": "Black Friday en MediaMarkt: esta Smart TV QLED 65\" de Samsung es un chollazo que se queda casi a mitad de precio y además viene con modo Filmmaker",
+      "Description": "Si has estado esperando con ganas el Black Friday para llevarte un televisor muy potente, con gran angular de pantalla y un precio muy ajustado, mucho ojo con este modelo. La Smart TV Samsung QE65Q70BATXXC se queda casi a mitad de precio, y mínimo histórico, …",
+      "Url": "https://www.espinof.com/seleccion/black-friday-mediamarkt-esta-smart-tv-qled-65-samsung-chollazo-que-se-queda-casi-a-mitad-precio-viene-modo-filmmaker",
+      "UrlToImage": "https://i.blogs.es/f493ca/samsung-qe65q70batxxc-/840_560.jpeg",
+      "PublishedAt": "2022-11-23T10:01:46Z",
+      "Content": "Si has estado esperando con ganas el Black Friday para llevarte un televisor muy potente, con gran angular de pantalla y un precio muy ajustado, mucho ojo con este modelo. La Smart TV Samsung QE65Q70… [+2950 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hipertextual"
+      },
+      "Author": "Aglaia Berlutti",
+      "Title": "‘1899’ se basa en una historia real y quizá no te hayas dado cuenta",
+      "Description": "La serie 1899 de Netflix es, quizás, una de las historias más complicadas y enigmáticas de la plataforma. Con su mezcla de suspense, horror y planteamientos filosóficos se ha convertido en la nueva obsesión de los fans. A la vez, en una pieza bien construida …",
+      "Url": "https://hipertextual.com/2022/11/1899-historia-real",
+      "UrlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/11/1899-barco-scaled.jpg?fit=2560%2C1429&quality=60&strip=all&ssl=1",
+      "PublishedAt": "2022-11-23T10:01:00Z",
+      "Content": "La serie 1899 de Netflix es, quizás, una de las historias más complicadas y enigmáticas de la plataforma. Con su mezcla de suspense, horror y planteamientos filosóficos se ha convertido en la nueva o… [+4188 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Carlos Moral",
+      "Title": "Cinco modelos de coche que salvaron de la ruina a sus respectivas marcas",
+      "Description": "La industria del automóvil ha estado sometida a numerosos vaivenes a lo largo de su historia. Estados Unidos cuenta con una cincuentena de fabricantes de coches que han sobrevivido a numerosas crisis. Reino Unido ha asistido a la rotación de unas 60 compañías…",
+      "Url": "https://www.revistagq.com/la-buena-vida/articulo/cinco-coches-que-salvaron-de-la-ruina-a-sus-respectivas-marcas",
+      "UrlToImage": "https://media.revistagq.com/photos/61951f25f38c05dac053ddec/16:9/w_1280,c_limit/52113051",
+      "PublishedAt": "2022-11-23T09:59:52Z",
+      "Content": "La industria delautomóvil ha estado sometida a numerosos vaivenes a lo largo de su historia. Estados Unidos cuenta con una cincuentena de fabricantes de coches que han sobrevivido a numerosas crisis.… [+3076 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ELLE.com"
+      },
+      "Author": "Begoña Alonso",
+      "Title": "'Miércoles', la primera serie de Tim Burton para Netflix, ya está en la plataforma, pero... ¿vale la pena?",
+      "Description": "Hoy se ha estrenado 'Miércoles', la serie sobre la hija de la familia Addams que ha preparado Tim Burton para Netflix. ¿VAle la pena que nos detengamos en esta ficción de ocho episodios? Sigue leyendo.",
+      "Url": "https://www.elle.com/es/living/ocio-cultura/a40213056/miercoles-serie-netflix/",
+      "UrlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/miercoles-1669194619.jpg?crop=0.883xw:0.886xh;0.0358xw,0.114xh&resize=1200:*",
+      "PublishedAt": "2022-11-23T09:31:00Z",
+      "Content": "<ol></ol>\r\nFue en febrero de 2021 cuando Netflix dio luz verde a uno de sus proyectos más relevantes de los últimos tiempos: la serie en live action 'Miércoles', dirigida por el cineasta Tim Burton c… [+5542 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Faq-mac.com"
+      },
+      "Author": "Alf",
+      "Title": "Qué viene en Apple TV+: Echo 3",
+      "Description": "Si estás preparado para una nueva serie de acción donde los americanos se auto-dan permiso para cualquier medio que justifique su fin, parece que vas a quedar satisfecho. Ya sabes, si disfrutas con series como Jack Ryan, donde el mero hecho de ser americano y…",
+      "Url": "https://www.faq-mac.com/2022/11/que-viene-en-apple-tv-echo-3/",
+      "UrlToImage": null,
+      "PublishedAt": "2022-11-23T08:51:35Z",
+      "Content": "Si estás preparado para una nueva serie de acción donde los americanos se auto-dan permiso para cualquier medio que justifique su fin, parece que vas a quedar satisfecho.\r\nYa sabes, si disfrutas con … [+1651 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Computerhoy.com"
+      },
+      "Author": "Carolina González",
+      "Title": "En qué puedes invertir el tiempo de publicidad de Netflix, YouTube y otros servicios de streaming",
+      "Description": "Netflix perdió suscriptores durante el primer y segundo trimestre de 2022, poniendo fin a una década de crecimiento y haciendo caer la cotización de sus acciones. Y aunque Netflix es omnipresente en América del Norte, está teniendo problemas para ganar tracci…",
+      "Url": "https://computerhoy.com/noticias/life/puedes-invertir-tiempo-publicidad-netflix-youtube-otros-servicios-streaming-1159105",
+      "UrlToImage": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2022/11/puedes-invertir-tiempo-publicidad-netflix-youtube-resto-servicios-streaming-2879949.jpg?itok=zv3dO5Hu",
+      "PublishedAt": "2022-11-23T08:41:07Z",
+      "Content": "Netflix perdió suscriptores durante el primer y segundo trimestre de 2022, poniendo fin a una década de crecimiento y haciendo caer la cotización de sus acciones. Y aunque Netflix es omnipresente en … [+4400 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "liliana.moscoso",
+      "Title": "Premios Emmy Internacionales 2022: Reino Unido, a la cabeza",
+      "Description": "nancy méndez\r\n \r\n\nA pesar de que Latinoamérica estuvo presente en las categorías de los Premios Emmy Internacionales 2022, otros fueron los títulos galardonados en esta 50 Edición que se realizó en la ciudad de Nueva York y Reino Unido se llevó diferentes pre…",
+      "Url": "https://www.excelsior.com.mx/funcion/premios-emmy-internacionales-2022-reino-unido-a-la-cabeza/1554168",
+      "UrlToImage": "https://cdn2.excelsior.com.mx/media/pictures/2022/11/23/2861016.jpg",
+      "PublishedAt": "2022-11-23T08:41:00Z",
+      "Content": "A pesar de que Latinoamérica estuvo presente en las categorías de los Premios Emmy Internacionales 2022, otros fueron los títulos galardonados en esta 50 Edición que se realizó en la ciudad de Nueva … [+2441 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "Estrenos (23 de noviembre): 47 series, películas y documentales en Netflix, HBO Max, Filmin, Movistar Plus+, Amazon, Disney+ y Apple TV+",
+      "Description": "Aunque el Mundial ocupa gran parte de nuestro rato para ver cosas, no nos olvidemos de que cada semana se nos inunda la agenda con decenas de estrenos... y es hora de repasar qué está llegando a las plataformas de streaming.\n<!-- BREAK 1 -->\nAsí tenemos 47 se…",
+      "Url": "https://www.espinof.com/estrenos/estrenos-23-noviembre-series-peliculas-documentales-netflix-hbo-max-filmin-movistar-plus-amazon-disney-plus-apple-tv",
+      "UrlToImage": "https://i.blogs.es/f8eb50/ptart_002a_g_spa-es_4x5_-1-/840_560.jpeg",
+      "PublishedAt": "2022-11-23T08:01:44Z",
+      "Content": "Aunque el Mundial ocupa gran parte de nuestro rato para ver cosas, no nos olvidemos de que cada semana se nos inunda la agenda con decenas de estrenos... y es hora de repasar qué está llegando a las … [+4057 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ELLE.com"
+      },
+      "Author": "Begoña Alonso",
+      "Title": "'Alguien está mintiendo 2': el final de la segunda temporada de la serie de Netflix indigna a los fans",
+      "Description": "El final de nueva temporada de la serie de suspense adolescente de Netflix, 'Alguien está mintiendo 2', parece no convencer a los fans a pesar de que ha entrado en el top 10 nada más estrenarse. Esta es nuestra crítica.",
+      "Url": "https://www.elle.com/es/living/ocio-cultura/a42038717/alguien-esta-mintiendo-2-serie-netflix/",
+      "UrlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alguien-esta-mintiendo-1669131806.jpg?crop=1.00xw:0.755xh;0,0.0907xh&resize=1200:*",
+      "PublishedAt": "2022-11-23T06:30:00Z",
+      "Content": "<ol></ol>\r\n(Ojo, spóilers)\r\nSí, el tiempo pasa rapidísimo, pero... ¿no se ha hecho una eternidad desde que se estrenara la primera temporada de 'Alguien está mintiendo' en Netflix, a finales del pasa… [+3671 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sopitas.com"
+      },
+      "Author": "Stephania Carmona",
+      "Title": "Jenna Ortega nos cuenta sobre cómo ayudó a musicalizar la serie ‘Merlina’ de Netflix",
+      "Description": "Tim Burton es uno de de los pocos directores capaces de crear productos que son aterradores y adorables al mismo tiempo, y sin duda eso nos...\nThe post Jenna Ortega nos cuenta sobre cómo ayudó a musicalizar la serie ‘Merlina’ de Netflix appeared first on Sopi…",
+      "Url": "https://www.sopitas.com/cine-y-tv/jenna-ortega-merlina-entrevista-serie-netflix-wednesday/",
+      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2022/11/entrevista-wednesday-merlina.jpeg",
+      "PublishedAt": "2022-11-23T06:28:08Z",
+      "Content": "Tim Burton es uno de de los pocos directores capaces de crear productos que son aterradores y adorables al mismo tiempo, y sin duda eso nos queda claro al ver su más reciente serie ‘Merlina’ (‘Wednes… [+5168 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hipertextual"
+      },
+      "Author": "Aglaia Berlutti",
+      "Title": "Las grandes preguntas que deberá responder la segunda temporada de la serie ‘1899’",
+      "Description": "La serie 1899 de Netflix se ha convertido en el más reciente éxito de la plataforma y también en fuente de todo tipo de especulaciones. Con una segunda temporada todavía sin confirmar y muchas preguntas que responder, el argumento continúa siendo en su mayor …",
+      "Url": "https://hipertextual.com/2022/11/preguntas-segunda-temporada-1899-netflix",
+      "UrlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/11/1899-protagonistas.jpg?fit=2398%2C1348&quality=60&strip=all&ssl=1",
+      "PublishedAt": "2022-11-23T06:02:00Z",
+      "Content": "La serie 1899 de Netflix se ha convertido en el más reciente éxito de la plataforma y también en fuente de todo tipo de especulaciones. Con una segunda temporada todavía sin confirmar y muchas pregun… [+5749 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sopitas.com"
+      },
+      "Author": "Stephania Carmona",
+      "Title": "¿Quién es quién en la nueva serie ‘Merlina’ de Netflix?",
+      "Description": "Este 23 de noviembre llegará al catálogo de Netflix una de las series más esperadas del año: ‘Merlina’ (o ‘Wednesday’, en inglés), una producción del mismísimo...\nThe post ¿Quién es quién en la nueva serie ‘Merlina’ de Netflix? appeared first on Sopitas.com.",
+      "Url": "https://www.sopitas.com/cine-y-tv/quien-es-quien-personajes-serie-merlina-netflix-addams/",
+      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2022/11/quien-es-quien-merlina-netflix.jpeg",
+      "PublishedAt": "2022-11-23T01:12:06Z",
+      "Content": "Este 23 de noviembre llegará al catálogo de Netflix una de las series más esperadas del año: ‘Merlina’ (o ‘Wednesday’, en inglés), una producción del mismísimo Tim Burton que en esta ocasión se enfoc… [+5548 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Verdad Noticias"
+      },
+      "Author": "Abril Mendez",
+      "Title": "¿“1899” de Netflix es un plagio? Piensan que copió la historia de un cómic",
+      "Description": "La exitosa serie de “1899” que está arrasando en Netflix desde su estreno podría ser el plagio de la historia de un cómic publicado en el 2016.",
+      "Url": "https://laverdadnoticias.com/entretenimiento/1899-de-Netflix-es-un-plagio-Piensan-que-copio-la-historia-de-un-comic-20221122-0282.html",
+      "UrlToImage": "https://laverdadnoticias.com/__export/1669164893085/sites/laverdad/img/2022/11/22/x1899x_de_netflix_es_un_plagio_piensan_que_copix_la_historia_de_un_cxmic.jpg_1485808388.jpg",
+      "PublishedAt": "2022-11-23T00:56:38Z",
+      "Content": "¿1899 de Netflix es un plagio? Piensan que copió la historia de un cómic\r\nA pesar del éxito que está teniendo la nueva serie de Netflix titulada 1899, ahora podría enfrentar un serio problema, pues e… [+2109 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Miércoles, la diva de Tim Burton, despierta el mejor gótico de moda",
+      "Description": "El look totalmente negro está muy de moda, pero en el lado oscuro hay tantos estilos como propuestas, desde la futurista de Stella McCartney a la punk o gótica de Simone Rocha. En este último apartado llega ahora una nueva diva: Miércoles . La hija de la fami…",
+      "Url": "https://www.abc.es/estilo/moda/miercoles-diva-burton-despierta-mejor-gotico-moda-20221123015340-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2022/11/22/miercoles-netflix-U53128723867TsB-1024x512@abc.jpg",
+      "PublishedAt": "2022-11-23T00:53:41Z",
+      "Content": "El look totalmente negro está muy de moda, pero en el lado oscuro hay tantos estilos como propuestas, desde la futurista de Stella McCartney a la punk o gótica de Simone Rocha. En este último apartad… [+2675 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -834,474 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/ef6fe9/namor/840_560.jpeg",
       "PublishedAt": "2022-11-21T18:31:13Z",
       "Content": "Es cierto que uno de los mayores males de la fase 4 de Marvel ha sido la presentación de personajes sin parar, desde los Eternos hasta los cameos de Starfox o Hércules... Y la tendencia no ha parado … [+5010 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Theclinic.cl"
-      },
-      "Author": "Claudio Villalobos",
-      "Title": "Artista brasileña acusa que serie de Netflix 1899 le habría copiado todo un cómic que publicó en 2016",
-      "Description": "La artista supone que su historia pudo haber llegado a los directores, luego de haber expuesto algunas ediciones de su obra en una feria del libro a la que fue invitada en 2017. \nThe post Artista brasileña acusa que serie de Netflix 1899 le habría copiado tod…",
-      "Url": "https://www.theclinic.cl/2022/11/21/artista-brasilena-acusa-netflix-1899-copiado/",
-      "UrlToImage": "https://static.theclinic.cl/media/2022/11/21-155758_nf17_captura.jpg",
-      "PublishedAt": "2022-11-21T17:49:41Z",
-      "Content": "La artista supone que su historia pudo haber llegado a los directores, luego de haber expuesto algunas ediciones de su obra en una feria del libro a la que fue invitada en 2017. Netflix se lanzó con … [+2841 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "Armando Manzano Martínez",
-      "Title": "'Machos alfa', de los creadores de 'LQSA', anuncia su fecha de estreno y publica las primeras imágenes",
-      "Description": "MASCULINIDAD FRÁGIL Netflix ha comunicado que la serie, protagonizada por Fele Martínez, Gorka Otxoa, Raúl Tejón y Fernando Gil, se estrena el 30 de diciembre.'Machos alfa', de los creadores de 'LQSA', anuncia su fecha de estreno y publica las primeras imágen…",
-      "Url": "https://www.formulatv.com/noticias/machos-alfa-creadores-lqsa-fecha-estreno-119448/",
-      "UrlToImage": "https://www.formulatv.com/images/articulos/119000/119448_ckeLzqERYxPsaFWN938o50c2t1H67JgUB-hog.jpg",
-      "PublishedAt": "2022-11-21T17:07:00Z",
-      "Content": "Un grupo de cuarentones compone una nueva ficción de los creadores de 'La que se avecina', Laura y Alberto Caballero. Netflix ha anunciado que 'Machos Alfa' se estrena en la plataforma el 30 de dicie… [+1617 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Ferran Monegal",
-      "Title": "La crítica de Monegal: Ante la Pujol’s family’ de HBO, en TV-3 hay inquietud",
-      "Description": "Dentro de dos días la plataforma HBO Max va a lanzar su serie documental La sagrada familia’ dirigida por David Trueba dedicada a la vida y milagros de la Pujol’s family’. El estreno no se ha producido todavía no obstante en el programa Col.lapse’ del sábado …",
-      "Url": "https://www.elperiodico.com/es/tele/20221121/critica-monegal-pujol-s-family-78869218",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/c07cd94b-4c89-4b8c-9516-1f5e2c096ea8_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2022-11-21T17:00:02Z",
-      "Content": "Dentro de dos días la plataforma HBO Max va a lanzar su serie documental ‘La sagrada familia’ –dirigida por David Trueba– dedicada a la vida y milagros de la ‘Pujol’s family’. El estreno no se ha pro… [+2162 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Willy Toledo vuelve a la TV española con su fichaje por 'El Romancero' de Amazon Prime Video",
-      "Description": "Willy Toledo vuelve a la televisión española. El actor y activista político será uno de los integrantes de El Romancero, la nueva ficción de Amazon Prime Video cuyo rodaje acaba de comenzar en Almería, informa Yotele.El actor acompañará en el reparto a los jó…",
-      "Url": "https://vertele.eldiario.es/series/willy-toledo-vuelve-tv-espanola-fichaje-romancero-amazon-prime-video_1_9731028.html",
-      "UrlToImage": "https://static.eldiario.es/clip/7682f8fa-948e-4325-abad-48592088a643_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2022-11-21T16:52:12Z",
-      "Content": "Willy Toledo vuelve a la televisión española. El actor y activista político será uno de los integrantes de El Romancero, la nueva ficción de Amazon Prime Video cuyo rodaje acaba de comenzar en Almerí… [+1613 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Victor M. González",
-      "Title": "Ander Puig (Élite): “Hay mucha gente que apoya a los chicos trans, pero luego no quieren tener una relación con nosotros. Nos invalidan como hombres por ser trans\"",
-      "Description": "Nuestra entrevista con Ander Puig (Barcelona, 2001) ha tenido lugar en dos ocasiones diferentes. Como si fueran dos entrevistas diferentes, vaya. La primera se produjo el pasado junio, a través de llamada telefónica, cuando seleccionamos al actor catalán para…",
-      "Url": "https://www.revistagq.com/noticias/articulo/ander-puig-entrevista-elite-ser-o-no-ser-referente-trans",
-      "UrlToImage": "https://media.revistagq.com/photos/637ba4abd0c4118304bd080d/16:9/w_1280,c_limit/elite-1.jpg",
-      "PublishedAt": "2022-11-21T16:36:58Z",
-      "Content": "Aunque Ander insiste en que él siempre ha tenido el apoyo de sus familiares y amigos, y en que no ha sufrido obstáculos profesionales por ser trans, admite que en ocasiones sí ha temido la incomprens… [+2875 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Upsocl.com"
-      },
-      "Author": "Javiera González Dinamarca",
-      "Title": "Acusan a nueva serie de Netflix “1899” de plagiar cómic de una artista brasileña. Fans no lo creen",
-      "Description": "Los autores de la obra audiovisual rachazaron las acusaciones diciendo: \"ni siquiera sabíamos de la existencia de esa novela gráfica\".",
-      "Url": "https://www.upsocl.com/muvi/acusan-a-nueva-serie-de-netflix-1899-de-plagiar-comic-de-una-artista-brasilena-fans-no-lo-creen/",
-      "UrlToImage": "https://cdnb.upsocl.com/wp-content/uploads/2022/11/Acusan-a-nueva-serie-de-netflix-1899-de-plagiar-comic-de-una-artista-brasileña-no-la-reconocieron.jpg",
-      "PublishedAt": "2022-11-21T16:04:05Z",
-      "Content": "Los autores de la obra audiovisual rachazaron las acusaciones diciendo: “ni siquiera sabíamos de la existencia de esa novela gráfica”.El plagio en el arte es algo bastante común, pues hay una línea m… [+2475 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakahome.com"
-      },
-      "Author": "Silvia Cabrero",
-      "Title": "Ikea contraataca al Black Friday con su mesa de escritorio más valorada: es barata, funcional y cómoda (y lo mejor, por menos de 90 euros)",
-      "Description": "Encontrar una mesa de escritorio que se adapte bien a cualquier espacio de casa es importante, por eso, Ikea siempre tiene muebles funcionales con muy buena relación calidad-precio, como esta mesa de escritorio en color blanco por solo 89 euros.\n\n\n\n\n\n\n\n \n \n \n…",
-      "Url": "https://www.xatakahome.com/seleccion/ikea-contraataca-al-black-friday-su-mesa-escritorio-valorada-barata-funcional-comoda-mejor-90-euros",
-      "UrlToImage": "https://i.blogs.es/befaa1/ikea-11-2-/840_560.jpg",
-      "PublishedAt": "2022-11-21T15:56:57Z",
-      "Content": "Encontrar una mesa de escritorio que se adapte bien a cualquier espacio de casa es importante, por eso, Ikea siempre tiene muebles funcionales con muy buena relación calidad-precio, como esta mesa de… [+1819 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Imma Sust",
-      "Title": "Dopamina y pa’lante",
-      "Description": "Me llevó solo cuatro horas ver el documental Dulceida al desnudo’ en Amazon Prime y un mes asimilarlo. Sin saber muy bien quién era ella, me dispuse a ver la serie para entender cómo nace y se hace una estrella con tres millones de seguidores. Primer disgusto…",
-      "Url": "https://www.elperiodico.com/es/opinion/20221121/dopamina-serotonina-dulceida-influencer-docuserie-amazon-prime-articulo-imma-sust-78877242",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/2a53bb75-830b-4a9a-88b7-330ee596f58c_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2022-11-21T15:09:14Z",
-      "Content": "Me llevó solo cuatro horas ver el documental ‘Dulceida al desnudo’ en Amazon Prime y un mes asimilarlo. Sin saber muy bien quién era ella, me dispuse a ver la serie para entender cómo nace y se hace … [+2056 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "TRESB",
-      "Title": "HBO retrasa Pobre diablo: nueva fecha y todo lo que hay que saber",
-      "Description": "Estaba previsto que HBO Max lanzara el 2 de diciembre Pobre diablo, serie de animación creada por Miguel Esteban, Joaquín Reyes y Ernesto Sevilla. Sin embargo, la plataforma de...",
-      "Url": "https://www.elmundo.es/television/series/2022/11/21/637b8af3fc6c83b3078b457c.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/cc92dc18d9e68eaf3c9f9da8e2ae17f9/resize/1200/f/jpg/assets/multimedia/imagenes/2022/11/21/16690416936049.jpg",
-      "PublishedAt": "2022-11-21T15:09:09Z",
-      "Content": "Estaba previsto que HBO Max lanzara el 2 de diciembre Pobre diablo, serie de animación creada por Miguel Esteban, Joaquín Reyes y Ernesto Sevilla. Sin embargo, la plataforma de streaming ha decidido … [+1910 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Huffingtonpost.es"
-      },
-      "Author": "Álvaro Palazón",
-      "Title": "¿Qué fue de Clive Arrindell, el ‘calvo’ de lotería de Navidad y que no tuvo tanta suerte?",
-      "Description": "Anuncio de la Lotería de NavidadSi hay una persona ligada a la Lotería de Navidad en España es Clive Arrindell. Quizá su nombre no te suene mucho porque durante años fue conocido como “el calvo de la lotería”. \r\nDesde 1998 a 2005 este simpático señor nacido e…",
-      "Url": "https://www.huffingtonpost.es/entry/que-fue-de-clive-arrindell-el-calvo-de-loteria-de-navidad-y-que-no-tuvo-tanta-suerte_es_637b8998e4b0e771d95672f1",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/637b93252400001d004bd1e9.png?ops=1200_630",
-      "PublishedAt": "2022-11-21T15:04:48Z",
-      "Content": "Anuncio de la Lotería de Navidad\r\nSi hay una persona ligada a la Lotería de Navidad en España es Clive Arrindell. Quizá su nombre no te suene mucho porque durante años fue conocido como el calvo de l… [+1821 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "Prometedor tráiler de 'The Seven Deadly Sins: Grudge of Edimburgh' para Netflix: la película de anime presenta un nuevo avance lleno de magia y por fin tiene fecha de estreno",
-      "Description": "{\"videoId\":\"x8fp811\",\"autoplay\":true,\"title\":\"The Seven Deadly Sins Grudge of Edinburgh Part 1 Official Trailer Netflix\",\"tag\":\"\"}\n \r\n\n\r\n\n 'The Seven Deadly Sins' fue uno de los primerísimos animes que se pudieron ver en Netflix en su momento, y aunque la ser…",
-      "Url": "https://www.espinof.com/trailers/prometedor-trailer-the-seven-deadly-sins-grudge-of-edimburgh-para-netflix-pelicula-anime-presenta-nuevo-avance-lleno-magia-fin-tiene-fecha-estreno",
-      "UrlToImage": "https://i.blogs.es/f5b209/x720/840_560.jpeg",
-      "PublishedAt": "2022-11-21T15:01:13Z",
-      "Content": "'The Seven Deadly Sins' fue uno de los primerísimos animes que se pudieron ver en Netflix en su momento, y aunque la serie se cerró el año pasado tras cinco temporadas la plataforma todavía no está l… [+1571 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hipertextual"
-      },
-      "Author": "Aglaia Berlutti",
-      "Title": "‘1899’ podría ser un plagio de un cómic publicado en el 2016",
-      "Description": "La serie 1899, de Netflix, se convirtió en el centro de la conversación virtual en plataformas sociales. Pero no solamente por su estupenda historia y apartado visual. También porque la artista brasileña Mary Cagnin denunció a través de Twitter que la mayor p…",
-      "Url": "https://hipertextual.com/2022/11/serie-1899-netflix-plagio",
-      "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/11/1899-scaled.jpg",
-      "PublishedAt": "2022-11-21T14:46:43Z",
-      "Content": "La serie 1899, de Netflix, se convirtió en el centro de la conversación virtual en plataformas sociales. Pero no solamente por su estupenda historia y apartado visual. También porque la artista brasi… [+4656 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Anabel Palomares",
-      "Title": "Qué ver esta semana: la serie de Netflix que he devorado con mi mejor amiga en un fin de semana de chill",
-      "Description": "La lluvia repiqueteando en las ventanas. El frío colándose en el salón y el placer cobijarte en la manta más calentita que tienes junto a tu mejor amiga, dispuestas a disfrutar de una larga conversación, unas palomitas y una serie. El planazo chill de mi fin …",
-      "Url": "https://www.trendencias.com/series-de-television/que-ver-esta-semana-serie-netflix-que-he-devorado-mi-mejor-amiga-fin-semana-chill",
-      "UrlToImage": "https://i.blogs.es/95d260/que-ver-esta-semana-1899/840_560.jpeg",
-      "PublishedAt": "2022-11-21T13:01:40Z",
-      "Content": "La lluvia repiqueteando en las ventanas. El frío colándose en el salón y el placer cobijarte en la manta más calentita que tienes junto a tu mejor amiga, dispuestas a disfrutar de una larga conversac… [+2637 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "'The English' es espectacular: la serie en HBO Max es un sórdido western liderado por una soberbia Emily Blunt",
-      "Description": "Una de las cosas que se ve a simple vista con esta miniserie es que a Hugo Blick ('Black Earth Rising', 'The Honourable Woman') se le nota un apasionado del western. Y 'The English' —raro caso de coproducción entre BBC y Prime Video que al final termina en HB…",
-      "Url": "https://www.espinof.com/criticas/the-english-espectacular-serie-hbo-max-sordido-western-liderado-soberbia-emily-blunt",
-      "UrlToImage": "https://i.blogs.es/daa1f5/the-english-blunt/840_560.jpeg",
-      "PublishedAt": "2022-11-21T13:01:02Z",
-      "Content": "Una de las cosas que se ve a simple vista con esta miniserie es que a Hugo Blick ('Black Earth Rising', 'The Honourable Woman') se le nota un apasionado del western. Y 'The English' raro caso de copr… [+2827 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": null,
-      "Title": "'1899': Mary Cagnin, ilustradora brasileña, se queja de que la serie copia a uno de sus cómics",
-      "Description": "¿COPIA O INSPIRACIÓN? Una dibujante de cómics acusa a los creadores de '1899' de haber plagiado su idea, y Netflix defiende a los cineastas explicando que es una historia original creada por \"dos personas increíblemente talentosas\".'1899': Mary Cagnin, ilustr…",
-      "Url": "https://www.ecartelera.com/noticias/1899-mary-cagnin-ilustradora-denuncia-serie-netflix-plagiado-71299/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/71200/71299-m.jpg",
-      "PublishedAt": "2022-11-21T12:28:00Z",
-      "Content": "Este jueves 17 de noviembre llegó a Netflix la esperada '1899', la nueva serie de los creadores de uno de los hits de la plataforma, 'Dark'. Baran bo Odar y Jantje Friese regresan con una historia qu… [+6060 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Begoña Alonso",
-      "Title": "Cómo es '1899', la nueva e inquietante serie con Miguel Bernardeau que arrasa en Netflix",
-      "Description": "'1899', la nueva serie de los creadores de 'Dark', ha enamorado a público de medio mundo.",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a42021769/1899-serie-netflix-miguel-bernardeau/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1899-1669029207.jpg?crop=1.00xw:0.893xh;0,0&resize=1200:*",
-      "PublishedAt": "2022-11-21T12:27:00Z",
-      "Content": "<ol></ol>\r\nUn actor que me fascina es Ciarán Hinds, ¿te suena? Su físico es inolvidable, un hombre fortachón, alto, con una mirada inolvidable que el año pasado recibió su primera nominación al Oscar… [+4201 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Anabel Palomares",
-      "Title": "La razón por la que Chris Hemsworth se ha retirado va más allá de su predisposición genética al Alzheimer",
-      "Description": "Chris Hemsworth nació en Melbourne en 1983 y cuando era un niño seguro que no imaginaba el futuro que le esperaba: se convirtió en Thor, uno de los personajes más queridos de Marvel; es uno de los hombres más guapos del mundo\r\n; y tiene una preciosa familia j…",
-      "Url": "https://www.trendencias.com/salud/razon-que-chris-hemsworth-se-ha-retirado-va-alla-su-predisposicion-genetica-al-alzheimer",
-      "UrlToImage": "https://i.blogs.es/da65b8/chris-hemsworth-alzehimer/840_560.jpeg",
-      "PublishedAt": "2022-11-21T12:10:23Z",
-      "Content": "Chris Hemsworth nació en Melbourne en 1983 y cuando era un niño seguro que no imaginaba el futuro que le esperaba: se convirtió en Thor, uno de los personajes más queridos de Marvel; es uno de los ho… [+4555 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "La conexión entre 1899 y Dark que has pasado por alto",
-      "Description": "Con el primer tráiler, la conexión entre 1899 y Dark fue obvia. El capitán del barco, Eyk, es Andreas Pietschmann, el actor que interpretó al Jonas adulto de la anterior obra. Ese fue el único vínculo entre las dos series, porque la historia no tiene nada que…",
-      "Url": "https://www.revistagq.com/noticias/articulo/1899-dark-netflix-bosque-winden",
-      "UrlToImage": "https://media.revistagq.com/photos/637b68e89749ffe8a917fc57/16:9/w_1280,c_limit/1899_S1_E3_00_06_38_21%20(1).jpg",
-      "PublishedAt": "2022-11-21T12:05:20Z",
-      "Content": "Con el primer tráiler, la conexiónentre1899yDark fue obvia. El capitán del barco, Eyk, es Andreas Pietschmann, el actor que interpretó al Jonas adultode la anterior obra. Ese fue el único vínculo ent… [+719 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "Quentin Tarantino confiesa cuáles fueron las tres películas que le traumatizaron de pequeño",
-      "Description": "Hoy tenemos buenas y malas noticias para los fans de Tarantino. Empecemos por el trago amargo: durante una entrevista concedida a la CNN, el director de Érase una vez… en Hollywood (2019) ha vuelto a insistir con lo de su retiro de los platós, asegurando que …",
-      "Url": "https://www.revistagq.com/noticias/articulo/tarantino-peliculas-trauma-infantil",
-      "UrlToImage": "https://media.revistagq.com/photos/637b513f394e57654e2fda18/16:9/w_1280,c_limit/GettyImages-1441729274.jpg",
-      "PublishedAt": "2022-11-21T11:39:02Z",
-      "Content": "Hoy tenemos buenas y malas noticias para los fans de Tarantino. Empecemos por el trago amargo: durante una entrevista concedida a la CNN, el director de Érase una vez en Hollywood (2019) ha vuelto a … [+4377 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Compradiccion.com"
-      },
-      "Author": "Vega Ramos",
-      "Title": "Black Friday en Amazon tira el precio del robot aspirador Rowenta X-plorer más deseado: te ahorrarás 350 euros",
-      "Description": "El Black Friday nos está dejando grandes ofertas como, por ejemplo, este robot aspirador Rowenta X-plorer Serie 120 AI RR7877 a la venta en Amazon que dejará el suelo de tu hogar reluciente. En este caso, este robot aspirador está rebajado en un 54%, por lo q…",
-      "Url": "https://www.compradiccion.com/electrodomesticos-y-hogar/black-friday-amazon-tira-precio-robot-aspirador-rowenta-x-plorer-deseado-te-ahorraras-350-euros",
-      "UrlToImage": "https://i.blogs.es/0410be/aspirador/840_560.jpg",
-      "PublishedAt": "2022-11-21T11:31:07Z",
-      "Content": "El Black Friday nos está dejando grandes ofertas como, por ejemplo, este robot aspirador Rowenta X-plorer Serie 120 AI RR7877 a la venta en Amazon que dejará el suelo de tu hogar reluciente. En este … [+2365 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Michelle Avís",
-      "Title": "Catherine Zeta-Jones impacta con un mega vestido de corte sirena en el estreno de 'Miércoles' junto a Christina Ricci y Jenna Ortega",
-      "Description": "Las actrices Catherine Zeta-Jones, Christina Ricci y Jenna Ortega han arrasado en el estreno de la nueva serie de Netflix, 'Miércoles Addams', sorprendiendo con un despliegue de originalidad enfundadas en disfraces.",
-      "Url": "https://www.elle.com/es/star-style/el-estilo-de/a42020789/catherine-zeta-jones-mega-vestido-corte-sirena-miercoles-christina-ricci-y-jenna-ortega/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/catherine-zeta-jones-1669023788.jpg?crop=0.865xw:0.288xh;0.0718xw,0.180xh&resize=1200:*",
-      "PublishedAt": "2022-11-21T11:01:00Z",
-      "Content": "Catherine Zeta-Jones, Christina Ricci y Jenna Ortega se han convertido en las auténticas protagonistas del estreno de 'Miércoles Addams', la nueva serie de Netflix que se estrena este miércoles con l… [+2427 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Carlos Zahumenszky",
-      "Title": "Una artista brasileña acusa a los creadores de 1899 de copiar su cómic para hacer la nueva serie de Netflix",
-      "Description": "Si te gustó Dark, es posible que estos días estés viendo 1899, la nueva serie de misterio surgida de la imaginación de Jantje Friese y Baran bo Odar, ¿o deberíamos decir surgida de la imaginación de Mary Cagnin? El estreno de la nueva serie de Netflix se ha v…",
-      "Url": "https://es.gizmodo.com/una-artista-brasilena-acusa-a-los-creadores-de-1899-de-1849807331",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/76c0d6f5cd5c46fe9b1ed3d2d63181ae.png",
-      "PublishedAt": "2022-11-21T11:00:00Z",
-      "Content": "Si te gustó Dark, es posible que estos días estés viendo 1899, la nueva serie de misterio surgida de la imaginación de Jantje Friese y Baran bo Odar, ¿o deberíamos decir surgida de la imaginación de … [+3053 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Compradiccion.com"
-      },
-      "Author": "Jose Manuel Gallego",
-      "Title": "Black Friday 2022: Ofertas anticipadas del día de hoy (21 de noviembre)",
-      "Description": "Comienza la cuenta atrás para el Black Friday. En cuatro días llegaremos al día grande de las rebajas pero ya puedes disfrutar de multitud de descuentos. Tiendas como Amazon, MediaMarkt o El Corte Inglés ya han dado el pistolezado de salida a sus promociones.…",
-      "Url": "https://www.compradiccion.com/otros/black-friday-2022-ofertas-anticipadas-dia-hoy-21-noviembre",
-      "UrlToImage": "https://i.blogs.es/74fdba/p-black_friday_2022-tec_post_recopilatorio/840_560.jpg",
-      "PublishedAt": "2022-11-21T10:51:34Z",
-      "Content": "Comienza la cuenta atrás para el Black Friday. En cuatro días llegaremos al día grande de las rebajas pero ya puedes disfrutar de multitud de descuentos. Tiendas como Amazon, MediaMarkt o El Corte In… [+2425 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fotogramas.es"
-      },
-      "Author": "María Aller",
-      "Title": "Los 10 mejores capítulos de 'The Crown' que deberías volver a ver",
-      "Description": "Repasamos los episodios más aplaudidos y recordados de la serie de Netflix a lo largo de sus cinco temporadas. ¿Está tu favorito?",
-      "Url": "https://www.fotogramas.es/series-tv-noticias/g41853837/the-crown-mejores-capitulos-ranking/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-crown-1669027397.jpg?crop=1.00xw:0.753xh;0,0&resize=1200:*",
-      "PublishedAt": "2022-11-21T10:49:00Z",
-      "Content": "<ol></ol>\r\n¿Cuál es el mejor episodio de la historia de 'The Crown', la premiada serie de Netflix? ¿El 'Cuento de Hadas' del príncipe Carlos y Diana en la temporada 4? ¿El desastre de Aberfan en la t… [+11137 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Alberto García",
-      "Title": "El Black Friday deja a mitad de precio esta espectacular Smart TV de Samsung: solo hoy, aprovecha esta ofertaza y llévate a casa la Neo QLED de 55 pulgadas",
-      "Description": "Si has estado esperando al Black Friday para llevarte un televisor con un precio que nunca antes habíamos visto, mucho ojo con este modelo que estará disponible de oferta solo hoy. Se trata de la Smart TV Samsung QE55QN95B, un televisor de la gama Neo QLED qu…",
-      "Url": "https://www.espinof.com/seleccion/black-friday-deja-a-mitad-precio-esta-espectacular-smart-tv-samsung-solo-hoy-aprovecha-esta-ofertaza-llevate-a-casa-neo-qled-55-pulgadas",
-      "UrlToImage": "https://i.blogs.es/05e9d4/samsung-qe55qn95b/840_560.jpeg",
-      "PublishedAt": "2022-11-21T10:15:23Z",
-      "Content": "Si has estado esperando al Black Friday para llevarte un televisor con un precio que nunca antes habíamos visto, mucho ojo con este modelo que estará disponible de oferta solo hoy. Se trata de la Sma… [+3187 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "El final de 1899, explicado",
-      "Description": "No se puede esperar más, tenemos que hablar del final de 1899, la serie de Netflix de Baran Bo Odar y Jantje Friese, los creadores de Dark. Como era de esperar con ellos, todo lo que creíamos saber en los primeros episodios, acaba siendo completamente falso a…",
-      "Url": "https://www.revistagq.com/noticias/articulo/1899-final-explicado-temporada-1-netflix",
-      "UrlToImage": "https://media.revistagq.com/photos/637b4e7ed0c4118304bd07b2/16:9/w_1280,c_limit/1899_S1_E5_00_08_31_01.jpg",
-      "PublishedAt": "2022-11-21T10:13:25Z",
-      "Content": "No se puede esperar más, tenemos que hablar del final de1899, la serie de Netflix de Baran Bo Odar y Jantje Friese, los creadores de Dark. Como era de esperar con ellos, todo lo que creíamos saber en… [+3240 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "Alan Smithee vive: Muerte y resurrección del director inexistente con más pelis en la historia del cine",
-      "Description": "Filmografía selecta de Alan Smithee, sin duda el director más ecléctico (y, todo ha que decirlo, menos constante) de la historia de Hollywood:\r\n\n<ul>\n<li>El cowboy de hierro (1968), protagonizada por Burt Reynolds, quien tuvo esto que decir sobre el tema: “Le…",
-      "Url": "https://www.revistagq.com/noticias/cultura/articulos/muere-alan-smithee-director-falso",
-      "UrlToImage": "https://media.revistagq.com/photos/637b3f969749ffe8a917fbee/16:9/w_1280,c_limit/MV5BMjIxMzcxNTA3MV5BMl5BanBnXkFtZTcwMjIzNzIwNA@@._V1_.jpg",
-      "PublishedAt": "2022-11-21T10:05:00Z",
-      "Content": "Una vez inventado Smithee, el sindicato lo empieza a usar como comodín para casos en los que el producto final no representa la visión del director. En la mayor parte de ocasiones, eso se traduce en … [+3105 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Poprosa.com"
-      },
-      "Author": "Pablo Naranjo",
-      "Title": "Ponen a parir a este famoso personaje de 'La que se avecina' por su disfraz en la temporada 13: \"Es gravísimo\"",
-      "Description": "El pasado viernes 18 de noviembre llegaron a 'Amazon Prime Video' los tres primeros episodios de la temporada 13 de 'La que se avecina'. Y es que el team de propietarios venenosos ha dejado atrás a Mirador de Montepinar para trasladarse a la calle céntrica de…",
-      "Url": "https://www.poprosa.com/television/ponen-a-parir-a-este-famoso-personaje-que-se-avecina-su-disfraz-temporada-13-gravisimo",
-      "UrlToImage": "https://i.blogs.es/e32fc1/lqsa-t13-visita-periodistas-nuevo-plato-1-1-1/840_560.jpeg",
-      "PublishedAt": "2022-11-21T09:54:50Z",
-      "Content": "El pasado viernes 18 de noviembre llegaron a 'Amazon Prime Video' los tres primeros episodios de la temporada 13 de 'La que se avecina'. Y es que el team de propietarios venenosos ha dejado atrás a M… [+1733 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "Manu García (Visnuh)",
-      "Title": "Black Friday 2022: ofertas anticipadas del día de hoy (21 de noviembre)",
-      "Description": "Ya estamos en la semana del Black Friday y siguen lloviendo las ofertas en tecnología en tiendas como Amazon, PcComponentes, MediaMarkt o El Corte Inglés. Hoy venimos con portátiles, para jugar o trabajar, con smartphones o televisores a precios increíbles. N…",
-      "Url": "https://www.xataka.com/seleccion/black-friday-2022-ofertas-anticipadas-dia-hoy-21-noviembre",
-      "UrlToImage": "https://i.blogs.es/2d146e/ofertas_bf/840_560.jpg",
-      "PublishedAt": "2022-11-21T09:51:14Z",
-      "Content": "Ya estamos en la semana del Black Friday y siguen lloviendo las ofertas en tecnología en tiendas como Amazon, PcComponentes, MediaMarkt o El Corte Inglés. Hoy venimos con portátiles, para jugar o tra… [+5414 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "'The White Lotus' tendrá temporada 3: HBO renueva su estupenda antología vacacional con nuevo cambio de hotel y reparto",
-      "Description": "Los ricos tendrán nuevas vacaciones no tan idílicas y es que HBO ha anunciado la renovación de 'The White Lotus' por una temporada 3. Unos nuevos episodios que, como era de esperar, traerán consigo un nuevo reparto en lo que viajamos a otro destino.\n<!-- BREA…",
-      "Url": "https://www.espinof.com/hbo/the-white-lotus-tendra-temporada-3-hbo-renueva-su-estupenda-antologia-vacacional-nuevo-cambio-hotel-reparto",
-      "UrlToImage": "https://i.blogs.es/d838e6/white-lotus-201/840_560.jpeg",
-      "PublishedAt": "2022-11-21T09:41:27Z",
-      "Content": "Los ricos tendrán nuevas vacaciones no tan idílicas y es que HBO ha anunciado la renovación de 'The White Lotus' por una temporada 3. Unos nuevos episodios que, como era de esperar, traerán consigo u… [+772 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "El fracaso de 'Café con aroma de mujer' confirma que Telecinco no se da cuenta de que lo mismo de siempre ya no funciona",
-      "Description": "Hay alguien en Telecinco ahora mismo tirándose de los pelos sin entender lo que ha podido pasar con su plan perfecto para ir sustituyendo 'Sálvame' de forma paulatina por otro contenido. Primero lo intentaron con la segunda parte de 'Pasión de gavilanes', que…",
-      "Url": "https://www.espinof.com/telecinco/fracaso-cafe-aroma-mujer-confirma-que-telecinco-no-se-da-cuenta-que-siempre-no-funciona",
-      "UrlToImage": "https://i.blogs.es/7505e5/cafe/840_560.jpeg",
-      "PublishedAt": "2022-11-21T08:31:11Z",
-      "Content": "Hay alguien en Telecinco ahora mismo tirándose de los pelos sin entender lo que ha podido pasar con su plan perfecto para ir sustituyendo 'Sálvame' de forma paulatina por otro contenido. Primero lo i… [+1472 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Huffingtonpost.es"
-      },
-      "Author": "Elena Santos",
-      "Title": "Qué es el 'vishing' y cómo puedes protegerte",
-      "Description": "- Hola, muy buenas tardes, ¿es usted el titular de la línea XXX-XXX-XXX?\r\n- Sí, soy yo.\r\n- Le llamo de la compañía telefónica TELEFUN2 en relación a su última factura. Parece que ha habido un error, pues debería habérsele descontado una parte. Esto es debido …",
-      "Url": "https://www.huffingtonpost.es/entry/vishing-estafa-telefono_es_6373be52e4b0e818be467bd2",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/6373bf021f00005d00de5879.jpeg?cache=9FL1gmUR4X&ops=1200_630",
-      "PublishedAt": "2022-11-21T07:32:09Z",
-      "Content": "- Hola, muy buenas tardes, ¿es usted el titular de la línea XXX-XXX-XXX?\r\n- Sí, soy yo.\r\n- Le llamo de la compañía telefónica TELEFUN2 en relación a su última factura. Parece que ha habido un error, … [+4522 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Marita Alonso",
-      "Title": "El vestuario de 'The White Lotus 2', la serie de HBO viral",
-      "Description": "Descubre los secretos de los looks de los personajes protagonistas de la aclamada serie, cuya segunda temporada ya está en HBO Max",
-      "Url": "https://www.vanitatis.elconfidencial.com/estilo/moda/2022-11-21/white-lotus-2-armario_3523230/",
-      "UrlToImage": "https://images.ecestaticos.com/S9ueg_7uKqiafXrAeBzKbVqIqPc=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/0f2/6d9/13e/0f26d913e1b27ca111e62b656aa354da.png,0,275,1)/f.elconfidencial.com/original/b65/535/850/b65535850ab8f24a513b518cdca258ba.jpg",
-      "PublishedAt": "2022-11-21T04:00:00Z",
-      "Content": "Incluso si no estás viendo la segunda temporada de The White Lotus, es probable que en las redes sociales te hayas topado con una captura de la serie en la que la infatigable e icónica Jennifer Cooli… [+3685 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Racismo en ‘Los anillos de poder’: la polémica fractura la Tierra Media",
-      "Description": "Los estudios cada vez se esfuerzan más por incluir diversidad en sus películas y series, pero los esfuerzos no siempreson bien recibidos. ‘El señor de los anillos: Los anillos de poder’ dio un paso de gigante en este sentido, pero generó muchas críticas entre…",
-      "Url": "https://www.abc.es/play/series/noticias/abci-racismo-anillos-poder-polemica-fractura-tierra-media-202211210106_noticia.html",
-      "UrlToImage": "https://static4.abc.es/media/play/2022/11/21/elfo-kDZE--1024x512@abc.jpg",
-      "PublishedAt": "2022-11-21T00:06:09Z",
-      "Content": "María Estévez\r\nLos Ángeles\r\n Actualizado:21/11/2022 01:06h\r\nGuardar\r\n Los estudios cada vez se esfuerzan más por incluir diversidad en sus películas y series, pero los esfuerzos no siempreson bien re… [+3079 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Verdad Noticias"
-      },
-      "Author": "Aarón Ucán",
-      "Title": "Netflix: ¿1899 tendrá segunda temporada?",
-      "Description": "La nueva serie de Netflix, 1899,  está dando mucho de qué hablar, por lo que muchos fans se han preguntando si tendrá segunda temporada.",
-      "Url": "https://laverdadnoticias.com/entretenimiento/Netflix-1899-tendra-segunda-temporada-20221120-0200.html",
-      "UrlToImage": "https://laverdadnoticias.com/__export/1668987010449/sites/laverdad/img/2022/11/20/1899_netflix_.png_391715802.png",
-      "PublishedAt": "2022-11-20T23:30:20Z",
-      "Content": "Netflix: ¿1899 tendrá segunda temporada?\r\nNo cabe duda que Netflix se ha convertido en la plataforma de streaming más importante del mundo, motivo por el que mes con mes trae nuevas series y película… [+2857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier P. Martín",
-      "Title": "Del “estamos todos contentos” al “voy a acabar cucú”: los artistas de efectos visuales buscan un equilibrio laboral",
-      "Description": "“A largo plazo quizá acabe loco y tirándome por el balcón”. Dice la frase medio sonriendo, lo suficiente como para que nadie se alarme al oírla, pero sin ocultar cierta amargura. Prefiere no revelar su nombre real, así que le llamaremos Andrés. Está hablando …",
-      "Url": "https://www.eldiario.es/cultura/cine/contentos-acabar-cucu-artistas-efectos-visuales-buscan-equilibrio-laboral_1_9725402.html",
-      "UrlToImage": "https://static.eldiario.es/clip/3ab4fdb0-f4f3-4481-aebd-8f214023d9f0_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2022-11-20T21:28:23Z",
-      "Content": "“A largo plazo quizá acabe loco y tirándome por el balcón”. Dice la frase medio sonriendo, lo suficiente como para que nadie se alarme al oírla, pero sin ocultar cierta amargura. Prefiere no revelar … [+12535 chars]"
     }
   ]
 }
