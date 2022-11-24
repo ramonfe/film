@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 796,
+  "TotalResults": 797,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Dan Heching",
+      "Title": "Alan Menken on 'Aladdin' turning 30 and the journey of an animated classic",
+      "Description": "It might be hard to believe, but this holiday weekend marks 30 years since the release of \"Aladdin\" -- the animated classic that set the stage for multiple sequels, a live-action reimagining released in 2019 and even a Broadway musical. To mark the occasion, …",
+      "Url": "https://www.cnn.com/2022/11/24/entertainment/aladdin-anniversary-alan-menken-disney/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221123180311-aladdin-1992.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2022-11-24T19:50:39Z",
+      "Content": "It might be hard to believe, but this holiday weekend marks 30 years since the release of Aladdin the animated classic that set the stage for multiple sequels, a live-action reimagining released in 2… [+6961 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://variety.com/wp-content/uploads/2021/09/Last-Film-Show1.jpg?w=1000&h=563&crop=1",
       "PublishedAt": "2022-11-21T08:01:24Z",
       "Content": "“Last Film Show” (aka “Chhello Show”), India’s Oscar contender, was this weekend named winner of the Asian World Film Festival in Los Angeles.\r\nWriter-director Pan Nalin and producer Dheer Momaya wer… [+3165 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Bob Iger is returning as Disney CEO in a dramatic shakeup",
-      "Description": "Bob Iger is returning as Disney CEO in a shocking leadership shakeup, with current CEO Bob Chapek stepping down, the company announced in a press release. Iger is set to return temporarily for two years, with a mandate for \"renewed growth\" and to find and gro…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=168276211",
-      "UrlToImage": null,
-      "PublishedAt": "2022-11-21T07:12:10Z",
-      "Content": "Bob Iger is returning as Disney CEO in a shocking leadership shakeup, with current CEO Bob Chapek stepping down, the company announced in a press release. Iger is set to return temporarily for two ye… [+2132 chars]"
     }
   ]
 }

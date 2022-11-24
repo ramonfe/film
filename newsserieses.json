@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1310,
+  "TotalResults": 1316,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": "https://www.facebook.com/bbcnews",
+      "Title": "The Crown | La amiga de la reina Isabel II que está furiosa con la serie de Netflix",
+      "Description": "Lady Glenconner, quien fue dama de honor en la coronación de la reina, es retratada en la serie de Netflix.",
+      "Url": "https://www.bbc.com/mundo/noticias-63748992",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/F801/production/_127598436_thecrown_s05_image_tudum1_2.jpg",
+      "PublishedAt": "2022-11-24T20:09:53Z",
+      "Content": "Fuente de la imagen, Netflix\r\nPie de foto, Imelda Staunton interpreta a la reina Isabel II y Jonathan Pryce al príncipe Felipe en la nueva temporada de \"The Crown\".\r\nUna amiga de toda la vida de la f… [+2914 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Criptonoticias.com"
+      },
+      "Author": "Jesús Herrera",
+      "Title": "Amazon Prime prepara serie sobre el colapso de FTX con apoyo de los hermanos Russo",
+      "Description": "La firma AGBO, de los creadores del multiverso cinematográfico de Marvel, producirá la serie enfocada en la crisis del exchange FTX.\nLeer más",
+      "Url": "https://www.criptonoticias.com/comunidad/amazon-prime-prepara-serie-colapso-ftx-apoyo-hermanos-russo/",
+      "UrlToImage": "https://www.criptonoticias.com/wp-content/uploads/2022/10/serie-Amazon-Prime-Colapso-FTX.jpg",
+      "PublishedAt": "2022-11-24T19:58:02Z",
+      "Content": "Hechos clave:\r\n<ul><li>Habría conversaciones preliminares para que actores de Marvel participen en la serie sobre FTX.\r\n</li><li>La serie estaría basada en informes y reportes de periodistas que han … [+3680 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Perfil.com"
+      },
+      "Author": "Vanesa Odino",
+      "Title": "Moria Casán y Sofía Gala sobre su relación de madre e hija: \"Somos como Morticia y Merlina\"",
+      "Description": "Madre e hija hablaron sobre \"Merlina\", la nueva serie de Netflix y sobre su historia personal Leer más",
+      "Url": "https://caras.perfil.com/noticias/celebridades/moria-casan-y-sofia-gala-sobre-su-relacion-de-madre-e-hija-somos-como-morticia-y-merlina.phtml",
+      "UrlToImage": "https://fotos.perfil.com/2022/11/24/trim/1140/641/moria-casan-y-sofia-gala-sobre-su-relacion-de-madre-e-hija-somos-como-morticia-y-merlina-1459562.jpg",
+      "PublishedAt": "2022-11-24T19:46:17Z",
+      "Content": "Este semana, Netflix estrenó Merlina, la serie de Tim Burton inspirada en el personaje de la familia Addams.\r\nPara promocionar el lanzamiento, la plataforma invitó a Moria Casán y Sofía Gala Castigli… [+1662 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Redacción verTele",
+      "Title": "'The Crown' enfada a la dama de honor de la reina Isabel II: \"Es tan irritante\"",
+      "Description": "The Crown sigue generando quejas en el entorno de Buckingham Palace. La serie sobre el reinado de Isabel II parece haber tomado una deriva que no ha gustado a Lady Glenconner, quien fuera dama de honor en la coronación de la monarca. \"Es tan irritante... No v…",
+      "Url": "https://vertele.eldiario.es/series/the-crown-criticas-temporada-5-lady-glenconner-dama-honor-reina-isabel_1_9742319.html",
+      "UrlToImage": "https://static.eldiario.es/clip/1e236125-c0c2-4b00-a818-fcefbeb91466_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2022-11-24T19:40:31Z",
+      "Content": "The Crown sigue generando quejas en el entorno de Buckingham Palace. La serie sobre el reinado de Isabel II parece haber tomado una deriva que no ha gustado a Lady Glenconner, quien fuera dama de hon… [+2428 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Poprosa.com"
+      },
+      "Author": "Pablo Naranjo",
+      "Title": "Jennifer López se enfrenta a los rumores de manipuladora marcando el territorio de Ben Affleck en este vídeo: fíjate en el careto del actor",
+      "Description": "Desde que Jennifer López y Ben Affleck iniciaran su noviazgo 2.0 en 2021 y pasaran por el altar hasta en dos ocasiones el pasado verano, son continuos los rumores que aseguran que la parejita ni es tan feliz como aparenta ni comen perdices para desayunar.\n<!-…",
+      "Url": "https://www.poprosa.com/parejas/jennifer-lopez-se-enfrenta-a-rumores-manipuladora-marcando-territorio-ben-affleck-este-video-fijate-careto-actor",
+      "UrlToImage": "https://i.blogs.es/bce680/jgsaf2gvhvcqfiy4ry66ams7kq/840_560.jpeg",
+      "PublishedAt": "2022-11-24T19:03:16Z",
+      "Content": "Desde que Jennifer López y Ben Affleck iniciaran su noviazgo 2.0 en 2021 y pasaran por el altar hasta en dos ocasiones el pasado verano, son continuos los rumores que aseguran que la parejita ni es t… [+1682 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -851,6 +916,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Inés Álvarez",
+      "Title": "Carla Díaz, Ander Puig y Adam Nourou: \"Élite' trata el tema de la transexualidad con mucho cuidado y respeto\"",
+      "Description": "Con la marcha de los personajes iniciales de 'Élite', Carla Díaz (Madrid, 1998), que aterrizó en la serie de Netflix en la cuarta temporada, se ha convertido en una de las veteranas, junto con Manu Ríos y Martina Cariddi. En esta sexta entrega, Ari, su person…",
+      "Url": "https://www.elperiodico.com/es/series/20221123/carla-diaz-ander-puig-adam-nourou-elite-netflix-temporada-6-79001655",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/237b3527-2fa5-4e20-b2d5-9144b2bfd9d8_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2022-11-23T16:31:17Z",
+      "Content": "Con la marcha de los personajes iniciales de'Élite',Carla Díaz (Madrid, 1998), que aterrizó en la serie de Netflix en la cuarta temporada, se ha convertido en una de las veteranas, junto con Manu Río… [+5339 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Trendencias.com"
       },
       "Author": "María Barba",
@@ -1224,84 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/f8eb50/ptart_002a_g_spa-es_4x5_-1-/840_560.jpeg",
       "PublishedAt": "2022-11-23T08:01:44Z",
       "Content": "Aunque el Mundial ocupa gran parte de nuestro rato para ver cosas, no nos olvidemos de que cada semana se nos inunda la agenda con decenas de estrenos... y es hora de repasar qué está llegando a las … [+4057 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Begoña Alonso",
-      "Title": "'Alguien está mintiendo 2': el final de la segunda temporada de la serie de Netflix indigna a los fans",
-      "Description": "El final de nueva temporada de la serie de suspense adolescente de Netflix, 'Alguien está mintiendo 2', parece no convencer a los fans a pesar de que ha entrado en el top 10 nada más estrenarse. Esta es nuestra crítica.",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a42038717/alguien-esta-mintiendo-2-serie-netflix/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alguien-esta-mintiendo-1669131806.jpg?crop=1.00xw:0.755xh;0,0.0907xh&resize=1200:*",
-      "PublishedAt": "2022-11-23T06:30:00Z",
-      "Content": "<ol></ol>\r\n(Ojo, spóilers)\r\nSí, el tiempo pasa rapidísimo, pero... ¿no se ha hecho una eternidad desde que se estrenara la primera temporada de 'Alguien está mintiendo' en Netflix, a finales del pasa… [+3671 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sopitas.com"
-      },
-      "Author": "Stephania Carmona",
-      "Title": "Jenna Ortega nos cuenta sobre cómo ayudó a musicalizar la serie ‘Merlina’ de Netflix",
-      "Description": "Tim Burton es uno de de los pocos directores capaces de crear productos que son aterradores y adorables al mismo tiempo, y sin duda eso nos...\nThe post Jenna Ortega nos cuenta sobre cómo ayudó a musicalizar la serie ‘Merlina’ de Netflix appeared first on Sopi…",
-      "Url": "https://www.sopitas.com/cine-y-tv/jenna-ortega-merlina-entrevista-serie-netflix-wednesday/",
-      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2022/11/entrevista-wednesday-merlina.jpeg",
-      "PublishedAt": "2022-11-23T06:28:08Z",
-      "Content": "Tim Burton es uno de de los pocos directores capaces de crear productos que son aterradores y adorables al mismo tiempo, y sin duda eso nos queda claro al ver su más reciente serie ‘Merlina’ (‘Wednes… [+5168 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hipertextual"
-      },
-      "Author": "Aglaia Berlutti",
-      "Title": "Las grandes preguntas que deberá responder la segunda temporada de la serie ‘1899’",
-      "Description": "La serie 1899 de Netflix se ha convertido en el más reciente éxito de la plataforma y también en fuente de todo tipo de especulaciones. Con una segunda temporada todavía sin confirmar y muchas preguntas que responder, el argumento continúa siendo en su mayor …",
-      "Url": "https://hipertextual.com/2022/11/preguntas-segunda-temporada-1899-netflix",
-      "UrlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/11/1899-protagonistas.jpg?fit=2398%2C1348&quality=60&strip=all&ssl=1",
-      "PublishedAt": "2022-11-23T06:02:00Z",
-      "Content": "La serie 1899 de Netflix se ha convertido en el más reciente éxito de la plataforma y también en fuente de todo tipo de especulaciones. Con una segunda temporada todavía sin confirmar y muchas pregun… [+5749 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sopitas.com"
-      },
-      "Author": "Stephania Carmona",
-      "Title": "¿Quién es quién en la nueva serie ‘Merlina’ de Netflix?",
-      "Description": "Este 23 de noviembre llegará al catálogo de Netflix una de las series más esperadas del año: ‘Merlina’ (o ‘Wednesday’, en inglés), una producción del mismísimo...\nThe post ¿Quién es quién en la nueva serie ‘Merlina’ de Netflix? appeared first on Sopitas.com.",
-      "Url": "https://www.sopitas.com/cine-y-tv/quien-es-quien-personajes-serie-merlina-netflix-addams/",
-      "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2022/11/quien-es-quien-merlina-netflix.jpeg",
-      "PublishedAt": "2022-11-23T01:12:06Z",
-      "Content": "Este 23 de noviembre llegará al catálogo de Netflix una de las series más esperadas del año: ‘Merlina’ (o ‘Wednesday’, en inglés), una producción del mismísimo Tim Burton que en esta ocasión se enfoc… [+5548 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Verdad Noticias"
-      },
-      "Author": "Abril Mendez",
-      "Title": "¿“1899” de Netflix es un plagio? Piensan que copió la historia de un cómic",
-      "Description": "La exitosa serie de “1899” que está arrasando en Netflix desde su estreno podría ser el plagio de la historia de un cómic publicado en el 2016.",
-      "Url": "https://laverdadnoticias.com/entretenimiento/1899-de-Netflix-es-un-plagio-Piensan-que-copio-la-historia-de-un-comic-20221122-0282.html",
-      "UrlToImage": "https://laverdadnoticias.com/__export/1669164893085/sites/laverdad/img/2022/11/22/x1899x_de_netflix_es_un_plagio_piensan_que_copix_la_historia_de_un_cxmic.jpg_1485808388.jpg",
-      "PublishedAt": "2022-11-23T00:56:38Z",
-      "Content": "¿1899 de Netflix es un plagio? Piensan que copió la historia de un cómic\r\nA pesar del éxito que está teniendo la nueva serie de Netflix titulada 1899, ahora podría enfrentar un serio problema, pues e… [+2109 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Miércoles, la diva de Tim Burton, despierta el mejor gótico de moda",
-      "Description": "El look totalmente negro está muy de moda, pero en el lado oscuro hay tantos estilos como propuestas, desde la futurista de Stella McCartney a la punk o gótica de Simone Rocha. En este último apartado llega ahora una nueva diva: Miércoles . La hija de la fami…",
-      "Url": "https://www.abc.es/estilo/moda/miercoles-diva-burton-despierta-mejor-gotico-moda-20221123015340-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2022/11/22/miercoles-netflix-U53128723867TsB-1024x512@abc.jpg",
-      "PublishedAt": "2022-11-23T00:53:41Z",
-      "Content": "El look totalmente negro está muy de moda, pero en el lado oscuro hay tantos estilos como propuestas, desde la futurista de Stella McCartney a la punk o gótica de Simone Rocha. En este último apartad… [+2675 chars]"
     }
   ]
 }
