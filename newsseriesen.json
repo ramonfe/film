@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The best early Black Friday tech deals for 2022",
+      "Description": "Black Friday may still be a few hours away, but we're already seeing a bunch of great deals on our favorite tech. This comes after a slow trickle of deals popping up across the web ever since the start of November. While we don't have the supply chain issues …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=168383668",
+      "UrlToImage": null,
+      "PublishedAt": "2022-11-24T17:53:20Z",
+      "Content": "Black Friday may still be a few hours away, but we're already seeing a bunch of great deals on our favorite tech. This comes after a slow trickle of deals popping up across the web ever since the sta… [+13125 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
@@ -516,9 +529,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "リリース 2023.1.0a18",
+      "Title": "Release 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -529,9 +542,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "Release 2023.1.0a18",
+      "Title": "リリース 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://bgr.com/wp-content/uploads/2021/12/rsz_acapulco_photo_010606.jpg?quality=82&strip=all",
       "PublishedAt": "2022-10-25T01:55:00Z",
       "Content": "For those of you who love a show like Ted Lasso for its sunniness and uplifting vibe, there’s absolutely no reason for you to feel bereft while you await its (still unannounced) Season 3 debut on App… [+3371 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Coleman Spilde",
-      "Title": "How Is a George Clooney and Julia Roberts Romantic Comedy So Bad?",
-      "Description": "Vince Valitutti/Universal Studios\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are roughly 47,000—oh, wait, a new Netflix Original just dro…",
-      "Url": "https://www.thedailybeast.com/obsessed/george-clooney-and-julia-roberts-ticket-to-paradise-is-so-bad",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1666649251/221024-skip-see-it-tease_fidhrh",
-      "PublishedAt": "2022-10-24T23:02:19Z",
-      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+6887 chars]"
     }
   ]
 }
