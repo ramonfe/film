@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Andrew Wyrich",
+      "Title": "Newsletter: Health inspector warns where they’d never eat",
+      "Description": "Hello fellow citizens of the internet! Andrew here. Welcome to today's edition of web_crawlr. \n\n\nI hope you had a good holiday and that you tried to get our latest seasonal shirt yesterday! \n\n\nMeanwhile, our top stories today are about: WikiLeaks struggling t…",
+      "Url": "https://www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-11-25-2022/",
+      "UrlToImage": "https://uploads.dailydot.com/2022/11/Daily-Dot-newsletter-web_crawlr-image-11-25-2022.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2022-11-25T17:00:00Z",
+      "Content": "Hello fellow citizens of the internet! Andrew here. Welcome to today’s edition of web_crawlr. \r\nI hope you had a good holiday and that you tried to get our latest seasonal shirt yesterday! \r\nMeanwhil… [+4412 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -594,9 +607,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "リリース 2023.1.0a18",
+      "Title": "Release 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -607,9 +620,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "Release 2023.1.0a18",
+      "Title": "リリース 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-10-27T22:09:02Z",
       "Content": "<li>2D: Improved User Experience for creating Tile Palettes\r\n</li><li>Android: Application.memoryUsageChanged is now powered by https://developer.android.com/games/sdk/memory-advice/start.\r\n</li><li>… [+70986 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "Disney unveils centenary events at London 'Mary Poppins' mansion",
-      "Description": "Fiction's most famous English nanny with magical powers was on hand to greet arriving celebrity attendees, urging them to \"run along\" through the venue's columned hall filled with projections of Disney cartoons.\n\nEvents previewed at the show include a \"Disney…",
-      "Url": "https://www.france24.com/en/live-news/20221027-disney-unveils-centenary-events-at-london-mary-poppins-mansion",
-      "UrlToImage": "https://s.france24.com/media/display/9fa7b618-5627-11ed-8177-005056bf30b7/w:1280/p:16x9/b206c79ecb0006c43a5f5d9c7e0bc44fa8eb145f.jpg",
-      "PublishedAt": "2022-10-27T18:46:10Z",
-      "Content": "London (AFP) Disney on Thursday held a glitzy presentation of planned European events for the Hollywood studio's 100th anniversary next year, returning to a London mansion used in its 2018 \"Mary Popp… [+1938 chars]"
     }
   ]
 }
