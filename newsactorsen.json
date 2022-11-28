@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 891,
+  "TotalResults": 893,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PinkNews"
+      },
+      "Author": "Amelia Hansford",
+      "Title": "Strange World: Jake Gyllenhaal says queer Disney film is ‘how every movie should be’",
+      "Description": "Jake Gyllenhaal has channelled his inner ally by commending Strange World for its portrayal of queer people. The actor praised the film’s direction for trying to “normalise the normal” in an interview with Variety on 16 November. The film, which is the first …",
+      "Url": "https://www.pinknews.co.uk/2022/11/28/jake-gyllenhaal-strange-world-variety/",
+      "UrlToImage": "https://www.pinknews.co.uk/wp-content/uploads/2022/11/GettyImages-1442735411-scaled.jpg",
+      "PublishedAt": "2022-11-28T21:19:36Z",
+      "Content": "Jake Gyllenhaal attends the Strange World premiere. (Getty)Jake Gyllenhaal has channelled his inner ally by commending Strange World for its portrayal of queer people.\r\nThe actor praised the film’s d… [+2104 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Kevin Spacey Lands First Movie Role Since Sexual Battery Lawsuit",
+      "Description": "Kevin Spacey is set to take on a new role amid legal trouble. Following the news that the 63-year-old actor will be facing more sexual assault charges in the United Kingdom, and after his victory in the $40 million sexual battery lawsuit in the United States,…",
+      "Url": "http://www.justjared.com/2022/11/28/kevin-spacey-lands-first-movie-role-since-sexual-battery-lawsuit/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2022/11/kevin-spacey-granted-bail-1.jpg",
+      "PublishedAt": "2022-11-28T21:08:44Z",
+      "Content": "Kevin Spacey is set to take on a new role amid legal trouble.\r\nFollowing the news that the 63-year-old actor will be facing more sexual assault charges in the United Kingdom, and after his victory in… [+1124 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
       "PublishedAt": "2022-11-23T19:35:44Z",
       "Content": "So I've built an API for movies dataset which contain following structure:\r\nModels.py\r\nclass Directors(models.Model):\r\n id = models.IntegerField(primary_key=True)\r\n first_name = models.CharField(max_… [+5428 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Anglotopia.net"
-      },
-      "Author": "Anglotopia Staff",
-      "Title": "After Life star Ashley Jensen to lead hit BBC drama Shetland",
-      "Description": "Ashley Jensen will lead the cast of popular BBC One crime drama Shetland, taking over from Douglas Henshall, who appeared in the TV show since its inception in 2013. The 53-year-old Scottish actress will star as Detective Inspector Ruth Calder in the eighth s…",
-      "Url": "https://anglotopia.net/british-entertainment/after-life-star-ashley-jensen-to-lead-hit-bbc-drama-shetland/",
-      "UrlToImage": null,
-      "PublishedAt": "2022-11-23T19:26:26Z",
-      "Content": "Ashley Jensen will lead the cast of popular BBC One crime drama Shetland, taking over from Douglas Henshall, who appeared in the TV show since its inception in 2013.\r\nThe 53-year-old Scottish actress… [+2752 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Blake Lively Has The Best Reaction To Ryan Reynolds & Will Ferrell's 'Spirited' Dance Rehearsal Footage",
-      "Description": "No one is a bigger fan of Ryan Reynold‘s dancing abilities than Blake Lively. In case you weren’t aware, the 46-year-old Deadpool actor starred alongside Will Ferrell in the new Apple TV+ movie Spirited, in which they both sing and dance. Ryan shared a video …",
-      "Url": "http://www.justjared.com/2022/11/23/blake-lively-has-the-best-reaction-to-ryan-reynolds-will-ferrells-spirited-dance-rehearsal-footage/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2022/11/blake-ryan.jpg",
-      "PublishedAt": "2022-11-23T18:46:01Z",
-      "Content": "No one is a bigger fan of Ryan Reynold‘s dancing abilities than Blake Lively. \r\nIn case you weren’t aware, the 46-year-old Deadpoolactor starred alongside Will Ferrell in the new Apple TV+ movie Spir… [+946 chars]"
     }
   ]
 }
