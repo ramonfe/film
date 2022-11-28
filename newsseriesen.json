@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The best Cyber Monday tech deals for 2022: discounts on earbuds, laptops, smartwatches and more",
+      "Description": "For the past couple of years, Cyber Monday has been almost an extension of Black Friday. In the tech deals space, lots of the discounts and sales we saw at the end of last week are still available now as Cyber Monday deals. There are some new ones, though, wh…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=168490474",
+      "UrlToImage": null,
+      "PublishedAt": "2022-11-28T12:54:38Z",
+      "Content": "For the past couple of years, Cyber Monday has been almost an extension of Black Friday. In the tech deals space, lots of the discounts and sales we saw at the end of last week are still available no… [+13249 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Engadget",
+      "Title": "The best Cyber Monday tech deals for 2022: discounts on earbuds, laptops, smartwatches and more",
+      "Description": "For the past couple of years, Cyber Monday has been almost an extension of Black Friday. In the tech deals space, lots of the discounts and sales we saw at the end of last week are still available now as Cyber Monday deals. There are some new ones, though, wh…",
+      "Url": "https://www.engadget.com/best-cyber-monday-tech-deals-for-2022-123003326.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/31ffdba1-21ed-11ec-bd7b-62669876f802",
+      "PublishedAt": "2022-11-28T12:30:03Z",
+      "Content": "For the past couple of years, Cyber Monday has been almost an extension of Black Friday. In the tech deals space, lots of the discounts and sales we saw at the end of last week are still available no… [+14152 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Katherine Stevenson",
+      "Title": "Best Cyber Monday deals on Amazon: TVs, SSDs, laptops, and more",
+      "Description": "Cyber Monday is here, bringing an abundance of tech deals from a variety of retailers—especially Amazon.\r\n\n\n\n\nWe get it: The sheer scope of discounted products on Amazon can be daunting. But our guide to the best Amazon Cyber Monday tech deals will help point…",
+      "Url": "https://www.pcworld.com/article/1384292/cyber-monday-amazon-tech-deals.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2022/11/800-32-9.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2022-11-28T10:15:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nCyber Monday is here… [+3851 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Alaina Yee",
+      "Title": "Best Buy’s best Cyber Monday deals: Laptops, TVs, tablets and more",
+      "Description": "Cyber Monday is in full effect, and the deals are hopping. If you haven’t already started your shopping, now’s the time—wait even just a little too long and you could miss out on fantastic discounts. Stock can and does run out early, as Best Buy warns in its …",
+      "Url": "https://www.pcworld.com/article/1383415/cyber-monday-best-buy-deals.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2022/11/Best_Buy_logo_large-9.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2022-11-28T10:05:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nCyber Monday is in f… [+10215 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -607,9 +659,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "Release 2023.1.0a18",
+      "Title": "リリース 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -620,9 +672,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "リリース 2023.1.0a18",
+      "Title": "Release 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -1250,58 +1302,6 @@
       "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/10/HowtoWatchGreatPumpkingOctober2022Featured.jpg",
       "PublishedAt": "2022-10-28T18:46:55Z",
       "Content": "With it being Halloween weekend, this is a great time to remind readers that Apple TV+ is giving audiences the chance to watch the Peanuts holiday special Its the Great Pumpkin, Charlie Brown for fre… [+2370 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Mac Observer"
-      },
-      "Author": "Nick deCourville",
-      "Title": "Apple TV+ Wants Families and Kids to Explore the Challenges of Growing Up with Trailer for ‘Circuit Breakers’",
-      "Description": "Today Apple TV+ has announced the trailer for the new kids anthology series Circuit Breakers.\n\nMaking it’s global debut Friday, Nov. 11, the sci-fi series features 7 stories involving the challenges kids may face as they make their way through their adolescen…",
-      "Url": "https://www.macobserver.com/news/apple-tv-wants-families-and-kids-to-explore-the-challenges-of-growing-up-with-trailer-for-circuit-breakers/",
-      "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/10/CircuitBreakersTrailerRevealAppleTVOctober2022Featured.jpg",
-      "PublishedAt": "2022-10-28T16:11:00Z",
-      "Content": "Today Apple TV+ has announced the trailer for the new kids anthology series Circuit Breakers.\r\nMaking its global debut Friday, Nov. 11, the sci-fi series features 7 stories involving the challenges k… [+3056 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "World Soccer Talk",
-      "Title": "New MLS Apple TV details revealed: WST Podcast",
-      "Description": "On this week’s episode, we discuss one major change to look out for during the World Cup, we discuss news about MLS’s Apple deal, our thoughts about CBS’s Destination Brooklyn, why MLS are planning on changing their playoffs next year, and two new documentari…",
-      "Url": "https://worldsoccertalk.com/new-mls-apple-tv-details-revealed-wst-podcast-20221028-WST-406091.html",
-      "UrlToImage": "https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fwebp%2FWST_20221028_WST_406091_apple-mls-tv-details.webp&width=1200&height=740",
-      "PublishedAt": "2022-10-28T00:54:02Z",
-      "Content": "On this weeks episode, we discuss one major change to look out for during the World Cup, we discuss news about MLSs Apple deal, our thoughts about CBSs Destination Brooklyn, why MLS are planning on c… [+813 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity3d.com"
-      },
-      "Author": null,
-      "Title": "Release 2023.1.0a16",
-      "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/unity/alpha/2023.1.0a16",
-      "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
-      "PublishedAt": "2022-10-27T22:09:02Z",
-      "Content": "<li>2D: Improved User Experience for creating Tile Palettes\r\n</li><li>Android: Application.memoryUsageChanged is now powered by https://developer.android.com/games/sdk/memory-advice/start.\r\n</li><li>… [+70986 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity3d.com"
-      },
-      "Author": null,
-      "Title": "リリース 2023.1.0a16",
-      "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a16",
-      "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
-      "PublishedAt": "2022-10-27T22:09:02Z",
-      "Content": "<li>2D: Improved User Experience for creating Tile Palettes\r\n</li><li>Android: Application.memoryUsageChanged is now powered by https://developer.android.com/games/sdk/memory-advice/start.\r\n</li><li>… [+70986 chars]"
     }
   ]
 }
