@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 893,
+  "TotalResults": 895,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "WWD"
+      },
+      "Author": "Kristopher Fraser",
+      "Title": "Zoe Saldaña Goes Minimalist in Purple Lafayette 148 Slip Dress for ‘The View’ Arrival",
+      "Description": "The actress is in the midst of promoting her new movie \"Avatar: The Way of Water.\"",
+      "Url": "https://wwd.com/fashion-news/fashion-scoops/zoe-saldana-the-view-purple-slip-dress-lafayette-1235431089/",
+      "UrlToImage": "https://wwd.com/wp-content/uploads/2022/11/zoe-saldana-purple-dress-the-view.jpg?w=1024",
+      "PublishedAt": "2022-11-28T22:23:45Z",
+      "Content": "Zoe Saldaña arrived at the studios for ABC’s “The View” on Monday, wearing a purple slip dress.\r\nThe actress wore a minimalist purple slip dress from Lafayette 148 with a black blazer coat and brown … [+1479 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -28,6 +41,19 @@
       "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2022/11/kevin-spacey-granted-bail-1.jpg",
       "PublishedAt": "2022-11-28T21:08:44Z",
       "Content": "Kevin Spacey is set to take on a new role amid legal trouble.\r\nFollowing the news that the 63-year-old actor will be facing more sexual assault charges in the United Kingdom, and after his victory in… [+1124 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Timeofgistng.com"
+      },
+      "Author": "Sesan Onabanwo",
+      "Title": "Please let me live for the sake of my son, consider my mental health - Actress Habibat Jinad calls out Yetunde Bakare, others in the movie Industry for ruining her reputation",
+      "Description": "Nollywood actress, Habibat Jinad has called out her colleague, Yetunde Bakare, and some others in the movie industry for backbiting her. According to Jinad, Yetunde has been backbiting her and",
+      "Url": "https://timeofgistng.com/2022/11/28/please-let-me-live-for-the-sake-of-my-son-consider-my-mental-health-actress-habibat-jinad-calls-out-yetunde-bakare-others-in-the-movie-industry-for-ruining-her-reputation/",
+      "UrlToImage": "http://timeofgistng.com/wp-content/uploads/2022/11/Habibat-Jinad-and-Yetunde-Bakare.jpeg",
+      "PublishedAt": "2022-11-28T20:28:38Z",
+      "Content": "Nollywood actress, Habibat Jinad has called out her colleague, Yetunde Bakare, and some others in the movie industry for backbiting her.\r\nAccording to Jinad, Yetunde has been backbiting her and ruini… [+1659 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2022/11/if-you-liked-andor.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2022-11-23T20:00:00Z",
       "Content": "In a landscape of formulaic franchise spinoffs, Andor is a shock to the system: An ambitious political thriller with a sharper, more mature view of the Star Warsuniverse. It’s startlingly radical for… [+6111 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Extra"
-      },
-      "Author": "Extra Staff",
-      "Title": "Justin Hartley on Life After ‘This Is Us’ (Exclusive)",
-      "Description": "Actor Justin Hartley is getting ready to spread some holiday cheer in his new Netflix film “The Noel Diary.”\n The movie is one of Justin’s first projects since wrapping six tear-filled seasons of “This is Us.”\n Justin has no regrets about “This Is Us,” saying…",
-      "Url": "https://extratv.com/2022/11/23/justin-hartley-on-life-after-this-is-us-exclusive/",
-      "UrlToImage": "https://extra-images.akamaized.net/image/00/16by9/2022/11/21/0091b04eb5a14d2a93a3321aa9853151_xl.jpg",
-      "PublishedAt": "2022-11-23T19:58:13Z",
-      "Content": "Actor Justin Hartley is getting ready to spread some holiday cheer in his new Netflix film “The Noel Diary.”\n The movie is one of Justin’s first projects since wrapping six tear-filled seasons of “Th… [+608 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Stackoverflow.com"
-      },
-      "Author": "Stack Overflow",
-      "Title": "Is there a way to add custom data into ListAPIView in django rest framework",
-      "Description": "So I've built an API for movies dataset which contain following structure:\nModels.py\nclass Directors(models.Model):\n id = models.IntegerField(primary_key=True)\n first_name = models.CharField(max_length=100, blank=True, null=True)\n last_name = models.CharField…",
-      "Url": "https://stackoverflow.com/questions/74552043/is-there-a-way-to-add-custom-data-into-listapiview-in-django-rest-framework",
-      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
-      "PublishedAt": "2022-11-23T19:35:44Z",
-      "Content": "So I've built an API for movies dataset which contain following structure:\r\nModels.py\r\nclass Directors(models.Model):\r\n id = models.IntegerField(primary_key=True)\r\n first_name = models.CharField(max_… [+5428 chars]"
     }
   ]
 }
