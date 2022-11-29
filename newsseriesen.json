@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "David Wolinsky",
+      "Title": "Wednesday Becomes Netflix's Most-Watched Show In A Week With 341 Million Hours",
+      "Description": "Netflix's Wednesday arrived last with some pretty impressive numbers to show for it, according to the streaming service. The fantasy series starring Jenna Ortega as Wednesday Addams has topped the Netflix Top 10 chart for the week of Nov. 21-27 with 341.2 mil…",
+      "Url": "https://www.gamespot.com/articles/wednesday-becomes-netflixs-most-watched-show-in-a-week-with-341-million-hours/1100-6509561/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1600/16003485/4069530-cropped.jpeg",
+      "PublishedAt": "2022-11-29T20:48:00Z",
+      "Content": "Netflix's Wednesday arrived last with some pretty impressive numbers to show for it, according to the streaming service. The fantasy series starring Jenna Ortega as Wednesday Addams has topped the Ne… [+2103 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -750,9 +763,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "リリース 2023.1.0a18",
+      "Title": "Release 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -763,9 +776,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "Release 2023.1.0a18",
+      "Title": "リリース 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1667258908/221031-see-skip-tease2_tcg3zr",
       "PublishedAt": "2022-11-01T09:16:05Z",
       "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+6758 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Mac Observer"
-      },
-      "Author": "Nick deCourville",
-      "Title": "Apple TV+ Officially Announces Filming for Season 2 of ‘Severance’, New Additions to Cast",
-      "Description": "Praise Kier! Today Apple TV+ has officially announced that season 2 of Severance has begun principal photography.\n\nIn addition to this news, the streaming service has also announced 8 new stars that are set to join the award-winning cast.\n\nApple TV+'s 'Severa…",
-      "Url": "https://www.macobserver.com/news/apple-tv-officially-announces-filming-for-season-2-of-severance-new-additions-to-cast/",
-      "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/10/SeveranceSeasonTwoAppleTVAnnouncementOctober2022Featured.jpg",
-      "PublishedAt": "2022-10-31T21:15:49Z",
-      "Content": "Praise Kier! Today Apple TV+ has officially announced that season 2 of Severance has begun principal photography.\r\nIn addition to this news, the streaming service has also announced 8 new stars that … [+2619 chars]"
     }
   ]
 }
