@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 735,
+  "TotalResults": 736,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Eddie Makuch",
+      "Title": "Top Gun: Maverick Returns To Theaters This Week",
+      "Description": "Top Gun: Maverick is returning to theaters this week ahead of its release on streaming platforms. Paramount has announced that Maverick will be back in cinemas across the United States beginning this Friday, December 2.The film debuted back in May after numer…",
+      "Url": "https://www.gamespot.com/articles/top-gun-maverick-returns-to-theaters-this-week/1100-6509576/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4069827-topgun.jpg",
+      "PublishedAt": "2022-11-30T17:13:00Z",
+      "Content": "Top Gun: Maverick is returning to theaters this week ahead of its release on streaming platforms. Paramount has announced that Maverick will be back in cinemas across the United States beginning this… [+1095 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221123180311-aladdin-1992.jpg?c=16x9&q=w_800,c_fill",
       "PublishedAt": "2022-11-24T19:50:39Z",
       "Content": "It might be hard to believe, but this holiday weekend marks 30 years since the release of Aladdin the animated classic that set the stage for multiple sequels, a live-action reimagining released in 2… [+6961 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Variety"
-      },
-      "Author": "Varietybrentlang",
-      "Title": "Box Office: ‘Black Panther 2‘ Rules as Disney’s ‘Strange World’ Stumbles With $4.2 Million Opening Day",
-      "Description": "“Black Panther: Wakanda Forever” continued to rule over the Thanksgiving holiday box office. Faced with only token opposition, the superhero sequel picked up $10 million on Wednesday. The Marvel and Disney release is on pace to earn roughly $63 million over t…",
-      "Url": "https://variety.com/2022/film/news/box-office-black-panther-2-disney-strange-world-bombs-1235441630/",
-      "UrlToImage": "https://variety.com/wp-content/uploads/2022/11/Strange-World-Review.jpg?w=1000&h=563&crop=1",
-      "PublishedAt": "2022-11-24T16:51:03Z",
-      "Content": "“Black Panther: Wakanda Forever” continued to rule over the Thanksgiving holiday box office. Faced with only token opposition, the superhero sequel picked up $10 million on Wednesday. The Marvel and … [+2781 chars]"
     }
   ]
 }
