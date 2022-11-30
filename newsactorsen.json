@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 914,
+  "TotalResults": 915,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "jlianfnchbrnd",
+      "Title": "Julian Brand- His Early Life as An Actor& Role in Movie Critique",
+      "Description": "Julian Finch Brand is a star of the American film industry and an inspiring figure for many aspiring actors. Julian, who was born and raised in San Francisco, had been dreaming of becoming an actor since his childhood years. During his school days Julian woul…",
+      "Url": "https://slashdot.org/submission/16961626/julian-brand--his-early-life-as-an-actor-role-in-movie-critique",
+      "UrlToImage": null,
+      "PublishedAt": "2022-11-30T03:13:54Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.fox13memphis.com/pf/resources/images/sites/cmg-tv-10060/station-fallback.png?d=572",
       "PublishedAt": "2022-11-26T15:35:30Z",
       "Content": "NEW YORK — (AP) Oscar, Golden Globe and two-time Grammy winning singer-actress Irene Cara, who starred and sang the title cut from the 1980 hit movie Fame and then belted out the era-defining hit Fla… [+3358 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "MARK KENNEDY AP Entertainment Writer",
-      "Title": "'Fame' and 'Flashdance' singer-actor Irene Cara dies at 63",
-      "Description": "Oscar, Golden Globe and two-time Grammy winning singer-actress Irene Cara, who starred in and sang the title cut from the 1980 hit movie “Fame” and then belted out the era-defining hit “Flashdance",
-      "Url": "https://abcnews.go.com/Entertainment/wireStory/fame-flashdance-singer-actor-irene-cara-dies-63-93995739",
-      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-      "PublishedAt": "2022-11-26T15:34:56Z",
-      "Content": "NEW YORK -- Oscar, Golden Globe and two-time Grammy winning singer-actress Irene Cara, who starred and sang the title cut from the 1980 hit movie Fame and then belted out the era-defining hit Flashda… [+2932 chars]"
     }
   ]
 }
