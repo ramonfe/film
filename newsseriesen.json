@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "seattlepi.com"
+      },
+      "Author": "By ALICIA RANCILIO, Associated Press",
+      "Title": "Holiday TV: New musicals, romcoms, specials arrive in flurry",
+      "Description": "It's December and pretty much every network and streaming service seemingly has a show aimed at spreading holiday cheer. For those looking to skip re-runs of Christmases past, there's a bounty of fresh shows and specials targeted to traditionalists, romantics…",
+      "Url": "https://www.seattlepi.com/news/article/Holiday-TV-New-musicals-romcoms-specials-17623986.php",
+      "UrlToImage": "https://s.hdnux.com/img/modules/siteheader/brand.png",
+      "PublishedAt": "2022-12-01T16:20:03Z",
+      "Content": "This image released by Lifetime shows Kelsey Grammer, left, and his daughter, Spencer Grammer in a scene from “The 12 Days of Christmas Eve.\" (Lifetime via AP)AP\r\nThis image released by HBO Max shows… [+8835 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -867,9 +880,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "Release 2023.1.0a18",
+      "Title": "リリース 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -880,9 +893,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "リリース 2023.1.0a18",
+      "Title": "Release 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.aintitcool.com/media/_versions/article_images_2022/houseofmacleod/10802_7660_huge.jpg",
       "PublishedAt": "2022-11-02T15:36:54Z",
       "Content": "Disney has premiered the second trailer and poster for famed director James Cameron’s long-awaited sequel, Avatar: The Way of Water. Starring returning cast Sigourney Weaver, Stephen Lang, Zoe Saldan… [+810 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MacRumors"
-      },
-      "Author": "Hartley Charlton",
-      "Title": "QMS VRR Support Coming to Apple TV 4K to Prevent Blackouts When Changing Content Frame Rate",
-      "Description": "Initial reviews of the new Apple TV 4K highlighted that Apple will add support for Quick Media Switching Variable Refresh Rate (QMS VRR) via a software update to tvOS.\n\n\n\n\n\nQMS VRR prevents momentary blackouts that occur when switching between content playing…",
-      "Url": "https://www.macrumors.com/2022/11/02/qms-vrr-support-coming-to-apple-tv-4k/",
-      "UrlToImage": "https://images.macrumors.com/t/KrNLjmGnptCUVBzzHI3bfULhtY4=/2500x/article-new/2022/10/Apple-TV-2022-Feature-Blue.jpg",
-      "PublishedAt": "2022-11-02T14:32:59Z",
-      "Content": "Initial reviews of the new Apple TV 4K highlighted that Apple will add support for Quick Media Switching Variable Refresh Rate (QMS VRR) via a software update to tvOS.\r\nQMS VRR prevents momentary bla… [+1328 chars]"
     }
   ]
 }
