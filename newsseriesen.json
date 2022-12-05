@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slickdeals.net"
+      },
+      "Author": "PeterParker13",
+      "Title": "Amazon prime video free $6 streaming credit YMMV - $0",
+      "Description": "Got this in my email: \n \n \nMake time for a feature film in your holiday countdown. Rent or buy a holiday movie or TV show with your $6 credit. \n \nClick the button below to claim your $6 rent or buy cr ...",
+      "Url": "https://slickdeals.net/f/16281463-amazon-prime-video-free-6-streaming-credit-ymmv-0",
+      "UrlToImage": "https://slickdeals.net/images/avatar/sd/new/sd-facebook-5-2.png",
+      "PublishedAt": "2022-12-05T19:13:30Z",
+      "Content": "Got this in my email:Make time for a feature film in your holiday countdown. Rent or buy a holiday movie or TV show with your $6 credit.\r\nClick the button below to claim your $6 rent or buy credit. O… [+2027 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-04T17:51:11Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by https://developer.android.com/games/sdk/memory-advice/start.\r\n</li><li… [+78073 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Roku's Streaming Stick 4K hits a new low of $25, plus the rest of the week's best tech deals",
-      "Description": "Black Friday doesn't officially arrive for a few more weeks, but we're already starting to see retailers run early holiday sales on several gadgets we recommend. Roku's Streaming Stick 4K, for instance, has fallen to a new low of $25, while Sony's WH-1000XM5 …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=167396439",
-      "UrlToImage": null,
-      "PublishedAt": "2022-11-04T17:32:05Z",
-      "Content": "Black Friday doesn't officially arrive for a few more weeks, but we're already starting to see retailers run early holiday sales on several gadgets we recommend. Roku's Streaming Stick 4K, for instan… [+16376 chars]"
     }
   ]
 }
