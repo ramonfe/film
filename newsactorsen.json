@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 909,
+  "TotalResults": 911,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "/FILM"
+      },
+      "Author": "Devin Meenan",
+      "Title": "Jim Carrey's Riddler In Batman Forever Was Written In Robin Williams' 'Voice'",
+      "Description": "A couple of long shadows cast themselves over Jim Carrey's performance as the Riddler in \"Batman Forever.\" For one, there's the legacy of Jack Nicholson, who so memorably played the Joker in the first major \"Batman\" movie from 1989. Casting Carrey — an actor …",
+      "Url": "https://www.slashfilm.com/1127240/jim-carreys-riddler-in-batman-forever-was-written-in-robin-williams-voice/",
+      "UrlToImage": "https://www.slashfilm.com/img/gallery/jim-carreys-riddler-in-batman-forever-was-written-in-robin-williams-voice/l-intro-1670182242.jpg",
+      "PublishedAt": "2022-12-05T21:42:04Z",
+      "Content": "Robin Williams was always known as a theatrical performer, going back to his time as a stand-up comic. Even if he never abandoned comedy, he proved throughout his career that he could play dramatic p… [+1490 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -145,6 +158,19 @@
       "UrlToImage": "https://etcanada.com/wp-content/uploads/2022/12/GettyImages-1446676025.jpg?quality=80&strip=all&w=720&h=480&crop=1",
       "PublishedAt": "2022-12-05T13:14:49Z",
       "Content": "Kate Winslet reunited with James Cameron as the pair posed for photographers at the photocall for “Avatar: The Way of Water” in London, U.K. on Sunday.\r\nWinslet famously starred in director Cameron’s… [+1558 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cisa.gov"
+      },
+      "Author": "CISA",
+      "Title": "Vulnerability Summary for the Week of November 28, 2022",
+      "Description": "Original release date: December 5, 2022 \n\n\nHigh Vulnerabilities\r\n\n\n<table>\n\n<tr>\n<th>Primary\nVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source & Patch Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>acer -- aspire_a315-22g_firmware</t…",
+      "Url": "https://us-cert.cisa.gov/ncas/bulletins/sb22-339",
+      "UrlToImage": null,
+      "PublishedAt": "2022-12-05T12:24:10Z",
+      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1127 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://www.slashfilm.com/img/gallery/jim-carrey-fought-through-the-flu-for-one-of-the-masks-most-memorable-scenes/l-intro-1669911643.jpg",
       "PublishedAt": "2022-12-01T16:26:22Z",
       "Content": "Adapted from a decidedly more violent Dark Horse comic book series, 1994's \"The Mask,\" much like its star, is a one-of-a-kind superhero comedy that plays wholly to Carrey's strengths as a physical co… [+1554 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Lan Pitts",
-      "Title": "Christopher Judge Wants To Play Kratos In The God Of War TV Show And He Should Do It",
-      "Description": "God of War's Kratos has become an iconic video game character over the almost two decades since arriving in the first God of War game back in 2005. Originally voiced by Terrence C. Carson from 2005 to 2013, Stargate actor Christopher Judge took over the role …",
-      "Url": "https://www.gamespot.com/articles/christopher-judge-wants-to-play-kratos-in-the-god-of-war-tv-show-and-he-should-do-it/1100-6509626/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15976769/4070383-who-is-kratos.jpg",
-      "PublishedAt": "2022-12-01T16:03:00Z",
-      "Content": "God of War's Kratos has become an iconic video game character over the almost two decades since arriving in the first God of War game back in 2005. Originally voiced by Terrence C. Carson from 2005 t… [+1191 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Cathal Gunning",
-      "Title": "The Mean One: Will The Grinch Horror Movie Be As Big As Terrifier 2?",
-      "Description": "The Mean One's slasher spin on the Grinch stars Art the Clown actor David Howard Thornton. Can the Christmas horror recreate Terrifier 2's success?",
-      "Url": "https://screenrant.com/mean-one-grinch-horror-cant-copy-terrifier-2-success-why/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/12/the-mean-one_-will-the-grinch-horror-movie-be-as-big-as-terrifier-2.jpg",
-      "PublishedAt": "2022-12-01T15:20:14Z",
-      "Content": "While The Mean One may have Terrifier 2 star David Howard Thornton leading its cast, there is almost no way the movie can replicate the slasher sequel’s outsized success. Terrifier was not a major hi… [+3000 chars]"
     }
   ]
 }
