@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Coleman Spilde",
+      "Title": "Is Will Smith Good Enough in ‘Emancipation’ to Get That Controversial Oscar Nom?",
+      "Description": "Quantrell Colbert/Apple TV+\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are roughly 47,000—oh, wait, a new Netflix Original just dropped; …",
+      "Url": "https://www.thedailybeast.com/obsessed/is-will-smith-good-enough-in-emancipation-for-an-oscar-nomination",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1670278715/221205-emancipation-tease_pp9djh",
+      "PublishedAt": "2022-12-06T00:06:13Z",
+      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+6250 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.maketecheasier.com/assets/uploads/2022/09/turn-pc-media-center-plex-featured.jpg",
       "PublishedAt": "2022-11-04T21:25:00Z",
       "Content": "With giants like Netflix, Amazon Prime Video, Hulu, and even some free streaming services offering unlimited content on demand, you’ll probably never run out of stuff to watch. But maybe you’d like t… [+4761 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity3d.com"
-      },
-      "Author": null,
-      "Title": "Release 2023.1.0a17",
-      "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/unity/alpha/2023.1.0a17",
-      "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
-      "PublishedAt": "2022-11-04T17:51:11Z",
-      "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by https://developer.android.com/games/sdk/memory-advice/start.\r\n</li><li… [+78073 chars]"
     }
   ]
 }
