@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 703,
+  "TotalResults": 704,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "",
+      "Title": "Kyrie Irving's partnership with Nike is officially terminated",
+      "Description": "Following an initial suspension of its partnership with Kyrie Irving and the upcoming release of the Kyrie 8 signature shoe, Nike has now terminated its contract with Irving.\n\"Kyrie Irving is no longer a Nike Athlete,\" a Nike spokesperson told NPR.\nThe signat…",
+      "Url": "https://www.npr.org/2022/12/05/1140830753/kyrie-irving-nike-contract-terminated",
+      "UrlToImage": "https://media.npr.org/assets/img/2022/12/05/gettyimages-1438265492_wide-b1254f4c4fac97ce49e87934518dda46676d3ecc-s1400-c100.jpg",
+      "PublishedAt": "2022-12-06T00:49:50Z",
+      "Content": "Kyrie Irving is pictured during a game against the Chicago Bulls on Nov. 1 in New York City. Nike has terminated its contract with Irving.\r\nDustin Satloff/Getty Images\r\nFollowing an initial suspensio… [+2652 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/96e247cb0a7b93a7b02fe91209343aab.jpg",
       "PublishedAt": "2022-12-01T15:00:00Z",
       "Content": "Steven Soderberg is a filmmaker who can really do it all. From experimental storylines (Schizopolis) to experiments in cameras (Unsane, High Flying Bird, both shot on iPhones) to heist films (the Oce… [+1150 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "msmash",
-      "Title": "Netflix To Let Tens of Thousands of Subscribers Preview Content",
-      "Description": "Streaming giant plans global expansion of program that helped make 'Don't Look Up' less serious. From a report: Before Netflix's 2021 release of \"Don't Look Up,\" a small group of its U.S. subscribers previewed the film and told the streaming giant that the mo…",
-      "Url": "https://entertainment.slashdot.org/story/22/12/01/145204/netflix-to-let-tens-of-thousands-of-subscribers-preview-content",
-      "UrlToImage": "https://a.fsdn.com/sd/topics/tv_64.png",
-      "PublishedAt": "2022-12-01T14:04:00Z",
-      "Content": "Before Netflix's 2021 release of \"Don't Look Up,\" a small group of its U.S. subscribers previewed the film and told the streaming giant that the movie came across as too serious, according to people … [+1130 chars]"
     }
   ]
 }
