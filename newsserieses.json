@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1203,
+  "TotalResults": 1172,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Poprosa.com"
+      },
+      "Author": "Darío del Alcázar",
+      "Title": "Miguel Bernardeau se ofrece a hacer una canción con Aitana tras 'La Última': ahora es él quien quiere probar la profesión de su novia",
+      "Description": "El fenómeno Aitana Ocaña se ha extendido hasta Disney Plus con el estreno de 'La Última' en la plataforma de streaming. Su historia de amor con Miguel Bernardeau camuflada en la trama de Candela y Diego (sus personajes en la serie) ha creado más hype si cabe …",
+      "Url": "https://www.poprosa.com/parejas/miguel-bernardeau-se-ofrece-a-hacer-cancion-aitana-ultima-ahora-quien-quiere-probar-profesion-su-novia",
+      "UrlToImage": "https://i.blogs.es/4b1568/dl_u523095_010/840_560.jpeg",
+      "PublishedAt": "2022-12-06T15:56:50Z",
+      "Content": "El fenómeno Aitana Ocaña se ha extendido hasta Disney Plus con el estreno de 'La Última' en la plataforma de streaming. Su historia de amor con Miguel Bernardeau camuflada en la trama de Candela y Di… [+1377 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/37696b/x720/840_560.jpeg",
       "PublishedAt": "2022-12-03T21:30:10Z",
       "Content": "Ojo a esto: HBO acaba de lanzar el fabuloso tráiler final de 'The Last of Us', la esperadísima adaptación del popular del videojuego. Ya los anteriores habían dejado buenas sensaciones, pero cada vez… [+1257 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Adam Bankhurst",
-      "Title": "Nuevo tráiler de The Witcher: El origen de la sangre, que nos muestra la presencia del Jaskier de Joey Batey",
-      "Description": "La serie que llegará a Netflix.\nNetflix ha presentado un nuevo tráiler de The Witcher: El origen de la sangre, que nos presenta a un personaje muy especial.",
-      "Url": "https://es.ign.com/the-witcher-blood-origin-1/185958/news/nuevo-trailer-de-the-witcher-el-origen-de-la-sangre-que-nos-muestra-la-presencia-del-jaskier-de-joey",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/news/t/the-witche/the-witcher-blood-origins-latest-trailer-teases-the-arrival_1eeq.1200.jpg",
-      "PublishedAt": "2022-12-03T21:19:13Z",
-      "Content": "El nuevo tráiler de The Witcher: El origen de la sangre ha revelado que el Jaskier de Joey Batey formará parte de la serie precuela de cuatro partes.\r\nEl último tráiler de The Witcher: El origen de l… [+1898 chars]"
     }
   ]
 }
