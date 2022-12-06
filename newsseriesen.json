@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The A.V. Club"
+      },
+      "Author": "Saloni Gajjar",
+      "Title": "Apple TV Plus' Little America returns with a moving, profound season 2",
+      "Description": "Little America kicked off in early 2020 when Apple TV+ had existed for roughly two months and had barely carved a space in the streaming era. Sure, the platform boasted big names in the lousy The Morning Show and cult favorites like For All Mankind and Dickin…",
+      "Url": "https://www.avclub.com/little-america-season-2-review-apple-tv-comedy-1849843984",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/86335d666cb93315dd0a998acd3ae719.jpg",
+      "PublishedAt": "2022-12-06T15:00:00Z",
+      "Content": "Little Americakicked off in early 2020 when Apple TV+ had existed for roughly two months and had barely carved a space in the streaming era. Sure, the platform boasted big names in the lousy The Morn… [+4932 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://images.macrumors.com/t/DPdWswxceW4lCurCNDQQPPMtayE=/1960x/article-new/2022/06/Apple-MLS-partnership-June-2022.jpeg",
       "PublishedAt": "2022-11-04T21:32:12Z",
       "Content": "Apple is building a live television ad network in preparation for streaming Major League Soccer games, reports Bloomberg. Apple has agreed to expand its advertising as part of its deal with MLS.\r\nBac… [+1096 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Maketecheasier.com"
-      },
-      "Author": "Tanveer Singh",
-      "Title": "How to Turn Your PC Into a Media Server With Plex",
-      "Description": "With giants like Netflix, Amazon Prime Video, Hulu, and even some free streaming services offering unlimited content on demand, you’ll probably never run out of stuff to watch. But maybe you’d like to access your PC library containing movies and TV series on …",
-      "Url": "https://www.maketecheasier.com/turn-pc-into-media-server-with-plex/",
-      "UrlToImage": "https://www.maketecheasier.com/assets/uploads/2022/09/turn-pc-media-center-plex-featured.jpg",
-      "PublishedAt": "2022-11-04T21:25:00Z",
-      "Content": "With giants like Netflix, Amazon Prime Video, Hulu, and even some free streaming services offering unlimited content on demand, you’ll probably never run out of stuff to watch. But maybe you’d like t… [+4761 chars]"
     }
   ]
 }
