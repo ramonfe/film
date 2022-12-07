@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "Author": "David Smith in Washington",
+      "Title": "Emancipation: the true story behind Will Smith’s slavery drama",
+      "Description": "The Oscar-winner’s much-anticipated new Apple movie follows an enslaved man fighting for his freedomWhen Will Smith made a guest appearance last week on Comedy Central’s The Daily Show, there was no avoiding The Slap – his eruption of anger at comedian Chris …",
+      "Url": "https://www.theguardian.com/film/2022/dec/07/emancipation-will-smith-slavery-drama",
+      "UrlToImage": "https://i.guim.co.uk/img/media/94b2489a2c616cc5ed95b05347db17b0a0c54fcc/0_211_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eca60a0ae5ff74e24f4efcc272316514",
+      "PublishedAt": "2022-12-07T07:03:33Z",
+      "Content": "When Will Smith made a guest appearance last week on Comedy Centrals The Daily Show, there was no avoiding The Slap his eruption of anger at comedian Chris Rock during the Oscars. But first, host Tre… [+6324 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/11/AppleCausewayOscarPushNovember2022Featured.jpeg",
       "PublishedAt": "2022-11-07T21:26:11Z",
       "Content": "Reports indicate that Apple is already looking for Oscar gold by beginning to push Jennifer Lawrences new film Causeway for the 2023 Academy Awards.\r\nSeeing release this past Friday, the new film is … [+2171 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gameinformer.com"
-      },
-      "Author": "Marcus Stewart",
-      "Title": "Netflix Announces Gears Of War Live-Action Film And Animated Series",
-      "Description": "The first Gear of War game was released 16 years ago today, and Netflix is celebrating by announcing plans to adapt the series into both a live-action film and an adult animated series. \n\nThe streaming giant revealed the news in a tweet that's light on detail…",
-      "Url": "https://www.gameinformer.com/2022/11/07/netflix-announces-gears-of-war-live-action-film-and-animated-series",
-      "UrlToImage": "https://s3.amazonaws.com/prod-media.gameinformer.com/styles/thumbnail/s3/2019/08/20/09f048db/g5_marcus_solo.jpg",
-      "PublishedAt": "2022-11-07T19:56:00Z",
-      "Content": "The first Gear of War game was released 16 years ago today, and Netflix is celebrating by announcing plans to adapt the series into both a live-action film and an adult animated series. \r\nThe streami… [+2178 chars]"
     }
   ]
 }
