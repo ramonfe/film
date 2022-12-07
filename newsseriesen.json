@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "MobileSyrup"
+      },
+      "Author": "Dean Daley",
+      "Title": "Echo Show 15 update brings Amazon Fire TV to the smart display",
+      "Description": "Amazon Canada is launching the Amazon Fire TV experience on all new and existing Echo Show 15 devices with a free update on December 7th. Now, Echo Show 15 users can find and watch more than a million movies and TV episodes through streaming services like Ama…",
+      "Url": "https://mobilesyrup.com/2022/12/07/echo-show-15-amazon-fire-tv/",
+      "UrlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2021/12/Echo-Show-15-scaled.jpg",
+      "PublishedAt": "2022-12-07T14:00:13Z",
+      "Content": "Amazon Canada is launching the Amazon Fire TV experience on all new and existing Echo Show 15 devices with a free update on December 7th.\r\nNow, Echo Show 15 users can find and watch more than a milli… [+689 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1153,9 +1166,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "リリース 2023.1.0a18",
+      "Title": "Release 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -1166,9 +1179,9 @@
         "Name": "Unity3d.com"
       },
       "Author": null,
-      "Title": "Release 2023.1.0a18",
+      "Title": "リリース 2023.1.0a18",
       "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/unity/alpha/2023.1.0a18",
+      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
       "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
       "PublishedAt": "2022-11-10T20:25:01Z",
       "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1667862605/221107-see-skip-tease_vtsldx",
       "PublishedAt": "2022-11-08T00:23:48Z",
       "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+6679 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Mac Observer"
-      },
-      "Author": "Nick deCourville",
-      "Title": "Apple Making a Big Push for Jennifer Lawrence’s ‘Causeway’ to Take Gold at the Oscars",
-      "Description": "Reports indicate that Apple is already looking for Oscar gold by beginning to push Jennifer Lawrence’s new film Causeway for the 2023 Academy Awards.\n\nSeeing release this past Friday, the new film is likely to be a strong contender at the 95th Academy Awards,…",
-      "Url": "https://www.macobserver.com/news/apple-making-a-big-push-for-jennifer-lawrences-causeway-to-take-gold-at-the-oscars/",
-      "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/11/AppleCausewayOscarPushNovember2022Featured.jpeg",
-      "PublishedAt": "2022-11-07T21:26:11Z",
-      "Content": "Reports indicate that Apple is already looking for Oscar gold by beginning to push Jennifer Lawrences new film Causeway for the 2023 Academy Awards.\r\nSeeing release this past Friday, the new film is … [+2171 chars]"
     }
   ]
 }
