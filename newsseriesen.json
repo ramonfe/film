@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Jeff Dunn",
+      "Title": "Apple's iPad Air drops to $500, plus the rest of the week's best tech deals",
+      "Description": "We're in the thick of the holiday season, so we're still seeing good deals on a number of gadgets and tech gear we recommend. Apple's iPad Air, for instance, is down to its second-lowest price to date at $500, while Amazon's Fire HD 8 is down to an all-time l…",
+      "Url": "https://www.engadget.com/apple-ipad-air-drops-to-500-best-tech-deals-this-week-170140530.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-03/548fd670-a47e-11ec-b9ef-ef1d74d381f2",
+      "PublishedAt": "2022-12-09T17:01:40Z",
+      "Content": "We're in the thick of the holiday season, so we're still seeing good deals on a number of gadgets and tech gear we recommend. Apple's iPad Air, for instance, is down to its second-lowest price to dat… [+14927 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021614/rs_1200x1200-210714062639-1200-Harry-Potter-Deathly-Hallows-2-LT-71421-20110101_zva_a90_3366.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
       "PublishedAt": "2022-11-11T00:31:00Z",
       "Content": "Harry Potter fans shouldn't head to Platform 9 and 3/4 just yet.\r\nDespite previous reports suggesting that a live-action Harry Potter series was in the works at HBO Max, the streaming service has mad… [+715 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity3d.com"
-      },
-      "Author": null,
-      "Title": "リリース 2023.1.0a18",
-      "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/jp/unity/alpha/2023.1.0a18",
-      "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
-      "PublishedAt": "2022-11-10T20:25:01Z",
-      "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+81876 chars]"
     }
   ]
 }
