@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1019,
+  "TotalResults": 1021,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Martín Fernández Cruz",
+      "Title": "Jamie Campbell Bower, el villano de Stranger Things: la mala decisión que lo dejó fuera de Harry Potter y qué aprendió de Tim Burton y Johnny Depp",
+      "Description": "En el marco de la Comic Con Argentina, el intérprete que compuso a Vecna en la serie de Netflix dialogó con LA NACIÓN y reflexionó acerca de su carrera como actor y de lo que busca dentro del mundo de la música",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/jamie-campbell-bower-el-villano-de-stranger-things-la-mala-decision-que-lo-dejo-fuera-de-harry-nid09122022/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/VU42__iqaQL6bf6v4kidMyhKgec=/1920x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/P4Y22MCZIBEN3GJKL67D3TSKHA.JPG",
+      "PublishedAt": "2022-12-09T22:08:39Z",
+      "Content": "9 de diciembre de 202219:08La última temporada de Stranger Things fue uno de los mayores eventos televisivos del 2022. La ficción creada por Matt y Ross Duffer es un éxito que combina aventuras y ter… [+5393 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Javier Zurro",
+      "Title": "Kate Winslet: “'Avatar' habla de diversidad e inclusión, y eso es realmente importante”",
+      "Description": "En 1997, los nombres de Kate Winslet y Leonardo DiCaprio se hicieron famosos en todo el mundo. Fue el éxito de Titanic lo que les aupó a un estrellato del que no se han bajado desde entonces. La historia de amor en medio de la tragedia rompió todos los récord…",
+      "Url": "https://www.eldiario.es/cultura/cine/kate-winslet-avatar-habla-diversidad-e-inclusion-realmente-importante_1_9781223.html",
+      "UrlToImage": "https://static.eldiario.es/clip/ff637c74-72a5-479d-9c24-d1879178a4f7_facebook-watermarked-aspect-ratio_default_1062098.jpg",
+      "PublishedAt": "2022-12-09T21:57:37Z",
+      "Content": "En 1997, los nombres de Kate Winslet y Leonardo DiCaprio se hicieron famosos en todo el mundo. Fue el éxito de Titaniclo que les aupó a un estrellato del que no se han bajado desde entonces. La histo… [+612 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://cdn2.excelsior.com.mx/media/pictures/2022/12/06/2869364.jpg",
       "PublishedAt": "2022-12-07T03:28:40Z",
       "Content": "Zoe Saldaña debutó en el Universo Cinematográfico Marvel como Gamora en Guardianes de la Galaxia. La actriz, que también ha participado en las anteriores entregas de la saga y otras producciones de M… [+1739 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Reuters",
-      "Title": "Premian a Harry y Meghan por su trabajo contra el racismo y a favor de la salud mental",
-      "Description": "El pr�ncipe Harry y su esposa Meghan llegaron a la alfombra roja en Nueva York, solo unos d�as antes del lanzamiento de un documental muy esperado de Netflix sobre ellos y su viaje real.El duque y la duquesa de Sussex recibieron el premio Robert F. Kennedy Ri…",
-      "Url": "https://www.milenio.com/estilo/harry-meghan-markle-reciben-premio-racismo",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/12/06/meghan-y-harry-durante-alfombra.jpg",
-      "PublishedAt": "2022-12-07T02:41:39Z",
-      "Content": "El príncipe Harry y su esposa Meghan llegaron a la alfombra roja en Nueva York, solo unos días antes del lanzamiento de un documental muy esperado de Netflix sobre ellos y su viaje real.\r\nEl duque y … [+1688 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hola"
-      },
-      "Author": "hola.com",
-      "Title": "Ester Expósito: la actriz más deseada nos habla del ‘lado oscuro’ de la fama",
-      "Description": "Estrena ‘Venus’, donde se confirma como la nueva musa del cine de terror",
-      "Url": "https://www.hola.com/actualidad/20221207340075/ester-exposito-lado-oscuro-fama/",
-      "UrlToImage": "https://images.hola.com/images/027c-16c4468c9b19-65778fa5c94f-1000/horizontal-800/ester-exp-sito-posa-para-hola-fashion.jpg",
-      "PublishedAt": "2022-12-06T23:00:00Z",
-      "Content": "A los magos del terror les encanta que sus musas pasen las de Caín. A ver, al final, siempre se salvan. De los asesinos múltiples, los zombies o los fantasmas que viven en los desvanes, pero no se qu… [+2588 chars]"
     }
   ]
 }
