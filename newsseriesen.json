@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Netflix and HBO Max led streaming services in the 2023 Golden Globes nominees",
+      "Description": "The Hollywood Foreign Press Association announced the 2023 Golden Globes nominations today. Streaming services dominated television categories, while direct-to-streaming films were recognized as well. Netflix and HBO Max had the best showings among streamers,…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=168844656",
+      "UrlToImage": null,
+      "PublishedAt": "2022-12-12T20:14:18Z",
+      "Content": "The Hollywood Foreign Press Association announced the 2023 Golden Globes nominations today. Streaming services dominated television categories, while direct-to-streaming films were recognized as well… [+2948 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Will Shanklin",
+      "Title": "Netflix and HBO Max led streaming services in the 2023 Golden Globes nominees",
+      "Description": "The Hollywood Foreign Press Association announced the 2023 Golden Globes nominations today. Streaming services dominated television categories, while direct-to-streaming films were recognized as well. Netflix and HBO Max had the best showings among streamers,…",
+      "Url": "https://www.engadget.com/golden-globes-nominations-2023-streaming-services-netflix-hbo-max-195109970.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/6348b650-7a52-11ed-b6fa-1e5121e7f0c2",
+      "PublishedAt": "2022-12-12T19:51:09Z",
+      "Content": "The Hollywood Foreign Press Association announced the 2023 Golden Globes nominations today. Streaming services dominated television categories, while direct-to-streaming films were recognized as well… [+2935 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F11%2Fseth-rogen-starring-developing-apple-tv-plus-film-industry-comedy-series-tw.jpg?w=960&cbr=1&q=90&fit=max",
       "PublishedAt": "2022-11-15T08:00:14Z",
       "Content": "Seth Rogen is set to start in a new Apple TV+ comedy series about the entertainment industry, as well as develop the half-hour project alongside Evan Goldberg, Peter Huyck and Alex Gregory.\r\nAccordin… [+820 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "nuikj872",
-      "Title": "Amazon Prime Video",
-      "Description": "If you're looking for a good place to watch TV online for less, Amazon Prime Video is the place to go. If you're a big fan of Netflix or Hulu, you'll love Prime Video, and there are a number of free trials available. It also offers a variety of deals on popul…",
-      "Url": "https://slashdot.org/submission/16876445/amazon-prime-video",
-      "UrlToImage": null,
-      "PublishedAt": "2022-11-13T14:35:07Z",
-      "Content": "If you're looking for a good place to watch TV online for less, Amazon Prime Video is the place to go. If you're a big fan of Netflix or Hulu, you'll love Prime Video, and there are a number of free … [+2138 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Mac Observer"
-      },
-      "Author": "Nick deCourville",
-      "Title": "Apple TV+ Premieres Season Three of ‘Mythic Quest’, Here’s How to Stream the New Episodes",
-      "Description": "Today, the first two episodes for season three of Mythic Quest are now streaming on Apple TV+, and users can access the premiere through a variety of methods.\n\nWe’re going to take a look at where you can watch the latest episodes of the series, along with the…",
-      "Url": "https://www.macobserver.com/news/apple-tv-premieres-season-three-of-mythic-quest-heres-how-to-stream-the-new-episodes/",
-      "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/11/MythicQuestStreamingAppleTVNovember2022Featured.jpeg",
-      "PublishedAt": "2022-11-11T18:09:37Z",
-      "Content": "Today, the first two episodes for season three of Mythic Quest are now streaming on Apple TV+, and users can access the premiere through a variety of methods.\r\nWere going to take a look at where you … [+2245 chars]"
     }
   ]
 }
