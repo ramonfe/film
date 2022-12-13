@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Michelle Jaworski",
+      "Title": "‘Westworld’ is among the shows being pulled off HBO Max",
+      "Description": "HBO may have canceled Westworld—the cerebral sci-fi drama from Jonathan Nolan and Lisa Joy—last month after four seasons (nixing a planned fifth and final season), but cancelation isn’t the only death knell being delivered to the series, one that has both fan…",
+      "Url": "https://www.dailydot.com/unclick/westworld-pulled-hbo-max/",
+      "UrlToImage": "https://uploads.dailydot.com/2022/12/westworld-removed-hbo-max.jpeg?auto=compress&fm=pjpg",
+      "PublishedAt": "2022-12-13T21:24:59Z",
+      "Content": "HBO may have canceled Westworldthe cerebral sci-fi drama from Jonathan Nolan and Lisa Joylast month after four seasons (nixing a planned fifth and final season), but cancelation isnt the only death k… [+4710 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20221116_WST_408593_Apple-MLS-Season-Pass.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2022-11-16T18:56:55Z",
       "Content": "Apple and Major League Soccer have announced its MLS Season Pass streaming app to debut on February 1, 2023. As part of the 2023-2032 rights deal, this is the platform MLS fans will need for the next… [+2670 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Macworld"
-      },
-      "Author": "Jason Cross",
-      "Title": "Apple’s MLS Season Pass subscription will be cheaper for TV+ subscribers",
-      "Description": "Apple and Major League Soccer have released new details for its MLS Season Pass subscription service launching next year. For $14.99 per month or $99 per season, fans in more than 100 countries and regions can watch every live MLS regular-season match, the en…",
-      "Url": "https://www.macworld.com/article/1382408/mls-season-pass-subscription-apple-tv-plus.html",
-      "UrlToImage": "https://www.macworld.com/wp-content/uploads/2022/11/Apple-TV-MLS.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2022-11-16T18:39:18Z",
-      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nApple and Major Leag… [+2074 chars]"
     }
   ]
 }
