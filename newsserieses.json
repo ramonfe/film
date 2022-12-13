@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1148,
+  "TotalResults": 1153,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ELLE.com"
+      },
+      "Author": "Begoña Alonso",
+      "Title": "Jenna Ortega: respondemos a todo lo que la gente está buscando sobre ella en Google",
+      "Description": "¿Quién es Jenna Ortega? ¿Cuántos años tiene? ¿Es lesbiana? ¿Cuánto mide? ¿Ha trabajado en otras películas y series? ¿Tiene Instagram? Los fans de 'Miércoles', la serie de Netflix dirigida por Tim Burton, no dejan de buscar información sobre su protagonista. A…",
+      "Url": "https://www.elle.com/es/living/ocio-cultura/a42226784/jenna-ortega/",
+      "UrlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jenna-ortega-attends-the-world-premiere-of-netflixs-news-photo-1670931343.jpg?crop=1.00xw:0.753xh;0,0&resize=1200:*",
+      "PublishedAt": "2022-12-13T15:16:00Z",
+      "Content": "<ol></ol>\r\nTodos sabíamos que 'Miércoles' iba a ser un completo éxito, como así fue desde el día de su estreno: fue directa al número 1 del top de Netflix. La mezcla de la sabia dirección de Tim Burt… [+7386 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Huffingtonpost.es"
+      },
+      "Author": "Redacción El HuffPost",
+      "Title": "El mago que está detrás de Cosa desvela lo difícil que fue grabar la serie ‘Miércoles’ de Netflix",
+      "Description": "Jenna Ortega como Miércoles junto a 'Cosa'.Desde su estreno, Miércoles se ha colocado como una de las series más vistas en Netflix. La ficción, dirigida por Tim Burton, está protagonizada por Jenna Ortega como Miércoles Addams, pero hay otro personaje que tam…",
+      "Url": "https://www.huffingtonpost.es/entry/cosa-miercoles-netflix_es_639878a2e4b015bb573eca4f",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/639879f92600001b00eb02b4.jpg?cache=YOylmQhkOJ&ops=1200_630",
+      "PublishedAt": "2022-12-13T15:14:21Z",
+      "Content": "Jenna Ortega como Miércoles junto a 'Cosa'.\r\nDesde su estreno, Miércoles se ha colocado como una de las series más vistas en Netflix. La ficción, dirigida por Tim Burton, está protagonizada por Jenna… [+1247 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Víctor López G.",
+      "Title": "\"He escuchado a los fans\". La showrunner de 'The Witcher' capea el temporal asegurando que la temporada 3 de la serie de Netflix será más fiel a los libros",
+      "Description": "Puede que, con la que ha caído durante las últimas semanas, 'The Witcher' sea una de las producciones televisivas más convulsas del momento. La sustitución de Henry Cavill por Liam Hemsworth para dar vida a Geralt de Rivia después de que el británico anuncias…",
+      "Url": "https://www.espinof.com/series-de-ficcion/he-escuchado-a-fans-showrunner-the-witcher-capea-temporal-asegurando-que-temporada-3-serie-netflix-sera-fiel-a-libros",
+      "UrlToImage": "https://i.blogs.es/fc8945/1366_2000/840_560.jpeg",
+      "PublishedAt": "2022-12-13T15:00:27Z",
+      "Content": "Puede que, con la que ha caído durante las últimas semanas, 'The Witcher' sea una de las producciones televisivas más convulsas del momento. La sustitución de Henry Cavill por Liam Hemsworth para dar… [+2048 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Somosxbox.com"
+      },
+      "Author": "Joel Castillo",
+      "Title": "HBO Max retirará Westworld de su catálogo tras haber cancelado la serie",
+      "Description": "La cancelación de Westworld a falta de solo una temporada para su conclusión es una de las noticias más duras en materia televisiva de los últimos meses. Sin",
+      "Url": "https://www.somosxbox.com/hbo-max-retirara-westworld-de-su-catalogo-tras-haber-cancelado-la-serie/971961",
+      "UrlToImage": "https://www.somosxbox.com/wp-content/uploads/2022/11/01_iso-negro.png",
+      "PublishedAt": "2022-12-13T15:00:14Z",
+      "Content": "La cancelación de Westworld a falta de solo una temporada para su conclusión es una de las noticias más duras en materia televisiva de los últimos meses. Sin embargo, aún no han terminado las malas n… [+1453 chars]"
+    },
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Álex Pareja, Adele-Ankers 1",
+      "Title": "HBO Max retirará directamente Westworld y otras series del servicio tras haber sido canceladas",
+      "Description": "La serie se canceló en noviembre.\nTampoco se podrán ver las anteriores previas a la cancelación en este nuevo movimiento de HBO.",
+      "Url": "https://es.ign.com/westworld/186213/news/hbo-max-retirara-directamente-westworld-y-otras-series-del-servicio-tras-haber-sido-canceladas",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/news/w/westworld-/westworld-removed-from-hbo-max-for-some-reason_a2vc.1200.jpg",
+      "PublishedAt": "2022-12-13T14:55:51Z",
+      "Content": "Westworld, el exitoso drama de ciencia ficción de HBO, será retirado de la biblioteca de streaming de HBO Max tras la reciente cancelación de la serie.\r\nSegún Deadline, WarnerMedia planea retirar de … [+1929 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1237,71 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/5957e8/diseno-fire-tv-cube/840_560.jpg",
       "PublishedAt": "2022-12-10T15:01:21Z",
       "Content": "Amazon quiere tener el mejor reproductor multimedia del mercado. Mientras los Fire TV Stick se centran en el precio, el Fire TV Cube busca ofrecer la experiencia más completa y rápida que se puede di… [+13471 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Ryanleston, Estrella Gomez",
-      "Title": "La Temporada 2 de Sombra y Hueso confirma su fecha de estreno en Netflix y muestra nuevas imágenes",
-      "Description": "Alina vuelve en la segunda temporada de Sombra y Hueso.\nNetflix anuncia que la segunda temporada de su serie Sombra y Hueso llegará en muy pocos meses.",
-      "Url": "https://es.ign.com/sombra-y-hueso/186054/news/la-temporada-2-de-sombra-y-hueso-confirma-su-fecha-de-estreno-en-netflix-y-muestra-nuevas-imagenes",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/news/s/shadow-and/shadow-and-bone-season-2-premieres-in-march_6zsx.1200.jpg",
-      "PublishedAt": "2022-12-10T12:00:25Z",
-      "Content": "Sombra y Hueso, la serie de fantasía de Netflix, regresará el 16 de marzo de 2023 con su segunda temporada.\r\nDespués de que Sombra y Hueso fuese renovada en junio, Netflix ha revelado finalmente que … [+1872 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "Yúbal Fernández",
-      "Title": "Alternativas TDT Channels: 24 webs y aplicaciones para ver la TDT en tu dispositivo",
-      "Description": "Te traemos una lista con las mejores alternativas a TDT Channels, con las que vas a poder ver todos los canales de la TDT en tu móvil o tu navegador. TDT Channels bajó la persiana el pasado noviembre, y aunque aun no hay una alternativa para poder ver toda la…",
-      "Url": "https://www.xataka.com/basics/alternativas-tdt-channels-24-webs-aplicaciones-para-ver-tdt-tu-dispositivo",
-      "UrlToImage": "https://i.blogs.es/4bd358/tdt/840_560.jpg",
-      "PublishedAt": "2022-12-10T11:01:20Z",
-      "Content": "Te traemos una lista con las mejores alternativas a TDT Channels, con las que vas a poder ver todos los canales de la TDT en tu móvil o tu navegador. TDT Channels bajó la persiana el pasado noviembre… [+10530 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.lozano",
-      "Title": "Mariah Carey, la única y auténtica reina de la Navidad",
-      "Description": "Fernanda Palacios\r\n \r\n\nCada vez que la Navidad se acerca existe una artista que como si fuera una especie de milagro navideño aparece para musicalizar y ambientar la temporada y ésa es Mariah Carey.\r\n\nDesde el lanzamiento de su sencillo All I Want for Christm…",
-      "Url": "https://www.excelsior.com.mx/funcion/mariah-carey-la-unica-y-autentica-reina-de-la-navidad/1557861",
-      "UrlToImage": "https://cdn2.excelsior.com.mx/media/pictures/2022/12/10/2871433.jpg",
-      "PublishedAt": "2022-12-10T10:54:21Z",
-      "Content": "Cada vez que la Navidad se acerca existe una artista que como si fuera una especie de milagro navideño aparece para musicalizar y ambientar la temporada y ésa es Mariah Carey.\r\nDesde el lanzamiento d… [+6471 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "Todo el anime de invierno que llega: 'Tokyo Revengers', 'Vinland Saga', 'Trigun Stampede' y todas las series con las que arranca 2023 y que podremos ver en streaming",
-      "Description": "Con el nuevo año se acerca otra temporada de anime con muchos estrenos por delante y cargadita de nuevas series, remakes, y retornos esperadísimos. En enero empieza la temporada de invierno de 2023, y justo para empezar el año con buen pie se nos vienen varia…",
-      "Url": "https://www.espinof.com/listas/todo-anime-invierno-que-llega-tokyo-revengers-vinland-saga-trigun-stampede-todas-series-que-arranca-2023-que-podremos-ver-streaming",
-      "UrlToImage": "https://i.blogs.es/3bfb54/animes-de-invierno/840_560.jpeg",
-      "PublishedAt": "2022-12-10T10:31:20Z",
-      "Content": "Con el nuevo año se acerca otra temporada de anime con muchos estrenos por delante y cargadita de nuevas series, remakes, y retornos esperadísimos. En enero empieza la temporada de invierno de 2023, … [+9423 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.lozano",
-      "Title": "Little America llega a Apple TV; cuestiona sobre el ‘sueño americano’",
-      "Description": "Vanessa Arteaga / AFP\r\n \r\n\nOcho episodios e igual número de fragmentos de Estados Unidos a través del retrato de sus inmigrantes. La segunda temporada de la serie Little America llegó a Apple TV+ con la intención de cuestionar el “sueño americano”, explicó Si…",
-      "Url": "https://www.excelsior.com.mx/funcion/little-america-llega-a-apple-tv-cuestiona-sobre-el-sueno-americano/1557864",
-      "UrlToImage": "https://cdn2.excelsior.com.mx/media/pictures/2022/12/10/2871440.jpg",
-      "PublishedAt": "2022-12-10T10:24:47Z",
-      "Content": "Ocho episodios e igual número de fragmentos de Estados Unidos a través del retrato de sus inmigrantes. La segunda temporada de la serieLittle Americallegó a Apple TV+ con la intención de cuestionar e… [+1548 chars]"
     }
   ]
 }
