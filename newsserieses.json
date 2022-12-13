@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1126,
+  "TotalResults": 1127,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Merlina: cómo es por dentro el castillo de la serie del momento de Netflix",
+      "Description": "La exitosa adaptación moderna de “Los locos Addams” se filmó en el castillo de Cantacuzino en Rumania",
+      "Url": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/merlina-como-es-por-dentro-el-castillo-de-la-serie-del-momento-de-netflix-nid12122022/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/g2V49ekTx8bri7C6YG7hlUwJDlc=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/75WKIFNOPFDV5HOGZTWZQCW56A.jpg",
+      "PublishedAt": "2022-12-12T23:39:15Z",
+      "Content": "Tim Burton trajo de vuelta al universo de Los Locos Addamscon la nueva serie de Netflix bajo el nombre de Merlina, hija de Gomez y Morticia Addams. Este particular personaje protagonizado por Jenna O… [+3077 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/episode-1365-pictured-actress-catherine-zeta-jones-during-news-photo-1670585842.jpg?crop=1xw:0.75027xh;center,top&resize=1200:*",
       "PublishedAt": "2022-12-09T12:33:00Z",
       "Content": "Hace solo dos semanas se estrenaba 'Miércoles', la serie de Tim Burton sobre la familia Addams, que nos ha descubierto a Jenna Ortega y nos ha hecho admirar aún más a Catherine Zeta-Jones, en su pape… [+1583 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "FormulaTV",
-      "Title": "Del 'Smiley' a la berenjena y el melocotón: Así ven Carlos Cuevas y Miki Esparbé estos divertidos emojis",
-      "Description": "JUEGO Los protagonistas de la serie de Netflix desvelan qué significan para ellos estos emojis.Del 'Smiley' a la berenjena y el melocotón: Así ven Carlos Cuevas y Miki Esparbé estos divertidos emojis",
-      "Url": "https://www.formulatv.com/videos/smiley-berenjena-carlos-cuevas-miki-ersparbe-emoji-26039/",
-      "UrlToImage": "https://www.formulatv.com/images/videos/26000/26039_iPH3Ftocz9-t.jpg",
-      "PublishedAt": "2022-12-09T11:57:00Z",
-      "Content": "'Smiley', la adaptación de la obra homónima de Guillem Clua, ya está disponible en Netflix y está siendo todo un éxito, situándose en el puesto cinco del Top 10 de España. La serie apuesta por los tó… [+1074 chars]"
     }
   ]
 }
