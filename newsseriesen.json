@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "cnbc.com",
+      "Title": "'Harry & Meghan' becomes Netflix's biggest-ever documentary debut",
+      "Description": "Netflix's series about Prince Harry and Meghan has become the streaming giant's biggest documentary debut yet. - \"Harry & Meghan\" racked up 81.55 million viewing hours globally in its first week of release, Netflix said Tuesday. - The show appeared in the Top…",
+      "Url": "https://biztoc.com/x/1a8327e684f0f314",
+      "UrlToImage": "https://c.biztoc.com/p/1a8327e684f0f314/og.webp",
+      "PublishedAt": "2022-12-14T16:22:05Z",
+      "Content": "Netflix's series about Prince Harry and Meghan has become the streaming giant's biggest documentary debut yet.- \"Harry &amp; Meghan\" racked up 81.55 million viewing hours globally in its first week o… [+221 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.indiewire.com/wp-content/uploads/2022/11/Quentin-Tarantino-1.jpg?w=780",
       "PublishedAt": "2022-11-17T17:30:45Z",
       "Content": "Quentin Tarantino doesn’t recognize the film industry anymore.\r\nThe “Once Upon a Time in Hollywood” auteur opened up about the state of cinema while on the New York City leg of his book tour for essa… [+2452 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Kyle Fansler",
-      "Title": "Apple, MLS announce 'Season Pass' for 2023 season",
-      "Description": "Apple and Major League Soccer have announced its MLS Season Pass streaming app to debut on February 1, 2023. As part of the 2023-2032 rights deal, this is the platform MLS fans will need for the next ten years to watch MLS games anywhere in the world. MLS Sea…",
-      "Url": "https://worldsoccertalk.com/tv/apple-mls-announce-season-pass-for-2023-season-20221116-WST-408593.html",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20221116_WST_408593_Apple-MLS-Season-Pass.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2022-11-16T18:56:55Z",
-      "Content": "Apple and Major League Soccer have announced its MLS Season Pass streaming app to debut on February 1, 2023. As part of the 2023-2032 rights deal, this is the platform MLS fans will need for the next… [+2670 chars]"
     }
   ]
 }
