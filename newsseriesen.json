@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-verge",
+        "Name": "The Verge"
+      },
+      "Author": "Jennifer Pattison Tuohy",
+      "Title": "The Echo Show 15 with Fire TV: a major upgrade with a major flaw",
+      "Description": "The Fire TV update brings more streaming apps to the Echo Show 15, including YouTube, Disney Plus, and HBO Max. But the update removes some touch functions.",
+      "Url": "https://www.theverge.com/23510820/amazon-echo-show-15-fire-tv-update-hands-on",
+      "UrlToImage": "https://cdn.vox-cdn.com/thumbor/qZn32C_6rwlYTgGvjhlX4zEk1w8=/0x0:2040x1360/1200x628/filters:focal(935x608:936x609)/cdn.vox-cdn.com/uploads/chorus_asset/file/24276986/226439_Echo_Show_15_FireTV_JTuohy_0003.jpg",
+      "PublishedAt": "2022-12-15T18:15:46Z",
+      "Content": "The Echo Show 15 with Fire TV: a major upgrade with a major flaw\r\nThe Echo Show 15 with Fire TV: a major upgrade with a major flaw\r\n / Amazons largest smart display gets the Fire TV interface, adding… [+7829 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/11/AppleTedLassoSeasonThreeFilmingNovember2022Featured.jpeg",
       "PublishedAt": "2022-11-18T21:30:46Z",
       "Content": "Reports are circulating that filming for season three of Ted Lasso is now complete. With this likely being the shows last season, cast members of the series are taking to social media to potentially … [+1807 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity3d.com"
-      },
-      "Author": null,
-      "Title": "Release 2023.1.0a19",
-      "Description": "Install this version with Unity Hub.\n\nAdditional downloads\n\nSelect the runtime platforms of your choice from the list below (the desktop runtime is included as standard) or, to install the full complement of runtime platforms, use the download assistant insta…",
-      "Url": "https://unity3d.com/unity/alpha/2023.1.0a19",
-      "UrlToImage": "https://unity3d.com/files/images/ogimg.jpg?1",
-      "PublishedAt": "2022-11-18T19:44:57Z",
-      "Content": "<li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>2D: Improved user experience for creating Tile Palettes.\r\n</li><li>Android: Application.memoryUsageChanged is now powered by htt… [+89659 chars]"
     }
   ]
 }
