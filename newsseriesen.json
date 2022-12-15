@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "'Mythic Quest' is getting an Apple TV+ spinoff series",
+      "Description": "Apple TV+ has announced a Mythic Quest spinoff show. The streaming service hasn't revealed too many details about Mere Mortals just yet. However, it did say the so-called \"extension series\" will delve deeper into the lives of the employees, players and fans w…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=168936134",
+      "UrlToImage": null,
+      "PublishedAt": "2022-12-15T19:35:16Z",
+      "Content": "Apple TV+ has announced a Mythic Quest spinoff show. The streaming service hasn't revealed too many details about Mere Mortals just yet. However, it did say the so-called \"extension series\" will delv… [+816 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Kris Holt",
+      "Title": "'Mythic Quest' is getting an Apple TV+ spinoff series",
+      "Description": "Apple TV+\r\n has announced a Mythic Quest\r\n spinoff show. The streaming service hasn't revealed\r\n too many details about Mere Mortals just yet. However, it did say the so-called \"extension series\" will delve deeper into the lives of the employees, players and …",
+      "Url": "https://www.engadget.com/mythic-quest-spinoff-apple-tv-plus-meme-mortals-192207925.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/89faddb0-7ca9-11ed-bfb5-bc1ef772ee25",
+      "PublishedAt": "2022-12-15T19:22:07Z",
+      "Content": "Apple TV+\r\n has announced a Mythic Quest\r\n spinoff show. The streaming service hasn't revealed\r\n too many details about Mere Mortals just yet. However, it did say the so-called \"extension series\" wil… [+826 chars]"
+    },
     {
       "Source": {
         "Id": "the-verge",
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://mgoblog.com/sites/default/files/2022-11/52497051510_a194e2d860_o.jpg",
       "PublishedAt": "2022-11-19T12:47:21Z",
       "Content": "Nebraska Links: Preview, The Podcast, FFFF Offense (chart), FFFF Defense (chart)\r\nSomething's been missing from Michigan gamedays since the free programs ceased being economically viable: scientific … [+9711 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Guardian"
-      },
-      "Author": "Lucy Knight",
-      "Title": "Heartstopper author Alice Oseman: ‘If you don’t have sex and romance, you feel like you haven’t achieved’",
-      "Description": "The writer and illustrator on turning her ‘weird hobby’ into a bestselling YA series and Netflix hit, the importance of asexual representation and lessons from her fans on love bitesAt 28, the author and illustrator Alice Oseman recently achieved what so many…",
-      "Url": "https://www.theguardian.com/books/2022/nov/19/alice-oseman-author-heartstopper-sex-romance-asexuality",
-      "UrlToImage": "https://i.guim.co.uk/img/media/ca519ba089023781f6d0fe7b12069282fa730b1a/0_9_2480_1488/master/2480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02653562e4113e968175054b7b653bc5",
-      "PublishedAt": "2022-11-19T09:00:53Z",
-      "Content": "At 28, the author and illustrator Alice Oseman recently achieved what so many of her peers cannot: she bought a flat. But instead of giving up Netflix so she could save for a deposit, as Kirstie Alls… [+13176 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Mac Observer"
-      },
-      "Author": "Nick deCourville",
-      "Title": "Season Three of ‘Ted Lasso’ Completes Filming as Cast Says Goodbye Over Social Media",
-      "Description": "Reports are circulating that filming for season three of Ted Lasso is now complete. With this likely being the show’s last season, cast members of the series are taking to social media to potentially say their goodbyes.\n\nWhile there is no official release dat…",
-      "Url": "https://www.macobserver.com/news/season-three-of-ted-lasso-completes-filming-as-cast-says-goodbye-over-social-media/",
-      "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/11/AppleTedLassoSeasonThreeFilmingNovember2022Featured.jpeg",
-      "PublishedAt": "2022-11-18T21:30:46Z",
-      "Content": "Reports are circulating that filming for season three of Ted Lasso is now complete. With this likely being the shows last season, cast members of the series are taking to social media to potentially … [+1807 chars]"
     }
   ]
 }
