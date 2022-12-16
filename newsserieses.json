@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1203,
+  "TotalResults": 1204,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "Camille Razat ('Emily in Paris'), irreconocible tras su cambio de look al estilo de Julia Fox",
+      "Description": "Camille Razat es la parisina mejor vestida de la serie de Netflix, pero ahora está emulando el look de la exnovia de Kanye West",
+      "Url": "https://www.hola.com/moda/tendencias/20221216222989/camille-razat-emily-in-paris-nuevo-estilo/",
+      "UrlToImage": "https://images.hola.com/imagenes/moda/tendencias/20221216222989/camille-razat-emily-in-paris-nuevo-estilo/1-178-796/camille-razat-emily-paris-t.jpg",
+      "PublishedAt": "2022-12-16T14:07:19Z",
+      "Content": "Las mujeres parisinas han sostenido durante décadas la reputación de ser las más elegantes sin prácticamente esforzarse. En este tópico se basa el personaje de Camille Razat en la exitosísima serieEm… [+3713 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/6ef42d/mv5bnmvjodzlzjatztvizs00mti1ltkwmzutoddingiwmtk0nzvkxkeyxkfqcgdeqxvynza0ntq2ntc-._v1_/840_560.jpeg",
       "PublishedAt": "2022-12-14T18:30:44Z",
       "Content": "En la trayectoria de todo intérprete de primera línea hay un papel determinante que supone la transición al estrellato y, lo que es más importante, a la necesidad de adquirir una agenda con muchas má… [+1799 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Juan Sanmartín",
-      "Title": "God of War: Amazon confirma la serie con el showrunner de La Rueda del Tiempo y Cory Barlog como productores",
-      "Description": "Hasta el momento era un rumor más que fuerte, pero no había nada oficial. Eso se ha terminado, pues Amazon Prime Video acaba de confirmar que la serie de God of War será una realidad ya que ha dado luz verde al proyecto. Lo mejor es que la producción contará …",
-      "Url": "https://www.vidaextra.com/series/god-of-war-amazon-confirma-serie-showrunner-rueda-tiempo-cory-barlog-como-productores",
-      "UrlToImage": "https://i.blogs.es/8dd7ab/843016/840_560.jpeg",
-      "PublishedAt": "2022-12-14T18:25:59Z",
-      "Content": "Hasta el momento era un rumor más que fuerte, pero no había nada oficial. Eso se ha terminado, pues Amazon Prime Video acaba de confirmar que la serie de God of War será una realidad ya que ha dado l… [+2053 chars]"
     }
   ]
 }
