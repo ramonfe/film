@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 165,
+  "TotalResults": 166,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Balance de la taquilla del año 2022: Santiago Segura vende una de cada cuatro entradas de cine español",
+      "Description": "La euforia por la excelente cosecha de cine español de esta temporada se ha convertido en amargo regusto por la fría acogida del público. A falta de los datos de los últimos días del año, que apenas alterarán unos miles de euros el resultado, la taquilla glob…",
+      "Url": "https://www.abc.es/play/cine/noticias/abci-balance-taquilla-2022-santiago-segura-vende-cada-cuatro-entradas-cine-espanol-202212262345_noticia.html",
+      "UrlToImage": "https://static1.abc.es/media/play/2022/12/27/taquilla-2022-kREB--1024x512@abc.jpg",
+      "PublishedAt": "2022-12-26T22:45:25Z",
+      "Content": "Fernando MuñozSEGUIR\r\nActualizado:26/12/2022 23:45h\r\nGuardar\r\n Noticias relacionadas\r\nLa euforia por la excelente cosecha de cine español de esta temporada se ha convertido en amargo regusto por la f… [+766 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/6392ff10cae20edc7f519d13/16:9/w_1280,c_limit/mejor-pelicula-2022-top-gun-maverick.jpg",
       "PublishedAt": "2022-12-09T09:30:08Z",
       "Content": "Este año hemos tenido grandísimos estrenos, pero según la National Board of Review, la mejor película de 2022 no es ninguna de esas historias independientes que encandilaron a la crítica en los festi… [+1998 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Víctor López G.",
-      "Title": "El Vermut de Sitges llega para dejarnos mal cuerpo durante la Navidad: lo mejor y lo peor de los estrenos de cine",
-      "Description": "¿Tener las navidades a la vuelta de la esquina os agria el carácter? ¿El frío os pone de mal humor? ¿Lleváis currando desde el lunes sin parar porque puente sólo el de Brooklyn? No os preocupéis, que las penas, con cine, son menos, y este 9 de diciembre las s…",
-      "Url": "https://www.espinof.com/estrenos/vermut-sitges-llega-para-dejarnos-mal-cuerpo-durante-navidad-mejor-peor-estrenos-cine",
-      "UrlToImage": "https://i.blogs.es/66fd51/mv5bngjhmgm2m2mtzmq0os00ymmxlthinzqtmtkzmju3mty5ngvlxkeyxkfqcgdeqxvymta0mju0ng-._v1_/840_560.jpeg",
-      "PublishedAt": "2022-12-09T08:00:55Z",
-      "Content": "¿Tener las navidades a la vuelta de la esquina os agria el carácter? ¿El frío os pone de mal humor? ¿Lleváis currando desde el lunes sin parar porque puente sólo el de Brooklyn? No os preocupéis, que… [+3559 chars]"
     }
   ]
 }
