@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 854,
+  "TotalResults": 855,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "JAVIER ESTRADA",
+      "Title": "Eric Bogosian: \"Trump es sin duda la persona que más miedo me da en el mundo. Y todavía le queda para un rato\"",
+      "Description": "El actor que ha dado vida al candidato demócrata de 'Succession' se convierte ahora en el periodista de los vampiros en la serie 'Entrevista con el vampiro, de Anne Rice' Leer",
+      "Url": "https://www.elmundo.es/television/series/2022/12/28/63aaf025fdddfff49b8b456f.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/7567804478444e95a6505ff317acdf0f/crop/460x117/2613x1553/resize/1200/f/jpg/assets/multimedia/imagenes/2022/12/27/16721463132851.jpg",
+      "PublishedAt": "2022-12-28T00:43:43Z",
+      "Content": "Vampiros hay muchos. Más de los que creemos. Eso es, al menos, lo que manifiesta Eric Bogosian (Boston, EEUU, 1953) cuando se habla del tema. \"A lo largo de mi vida he conocido gente con un carisma t… [+5856 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2022-12-22T16:12:20Z",
       "Content": "Al principio me la colaron, pensé \"este tío es un suicida en potencia por promocionar su película\""
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "Javier Pastor",
-      "Title": "El doblaje de películas tiene un problema, se llama inteligencia artificial y ya tiene alucinantes resultados",
-      "Description": "Demasiadas palabrotas. Ese era el problema de 'Fall', la última película del director Scott Mann. Lionsgate, la productora de este thriller de supervivencia, quería conseguir una calificación PG-13 para abrir la producción a un público mucho más amplio. ¿Cómo…",
-      "Url": "https://www.xataka.com/cine-y-tv/doblaje-peliculas-tiene-problema-se-llama-inteligencia-artificial-tiene-alucinantes-resultados",
-      "UrlToImage": "https://i.blogs.es/a580d2/captura-de-pantalla-2022-12-22-a-las-11.43.54/840_560.jpeg",
-      "PublishedAt": "2022-12-22T15:00:21Z",
-      "Content": "Demasiadas palabrotas. Ese era el problema de 'Fall', la última película del director Scott Mann. Lionsgate, la productora de este thriller de supervivencia, quería conseguir una calificación PG-13 p… [+3611 chars]"
     }
   ]
 }
