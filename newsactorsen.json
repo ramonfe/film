@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 958,
+  "TotalResults": 959,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Boardgamegeek.com"
+      },
+      "Author": "Lou_Crazy",
+      "Title": "This Week in Geek History January 1-7",
+      "Description": "by RPGG Newscaster Lou Crazy\n\n\nJanuary 1 - Happy New Year!\n 45 BC\r\n - Julian calendar takes effect for the 1st time [microbadge=8140]\n1752\r\n - Betsy Ross (maker of the first American flag) [microbadge=25704]\n1863\r\n - Emancipation Proclamation issued, freeing …",
+      "Url": "https://boardgamegeek.com/blogpost/140445/week-geek-history-january-1-7",
+      "UrlToImage": "https://cf.geekdo-images.com/_fb6PKluob0Ri1DKa2OxYw__opengraph_letterbox/img/yYGEmXbtJUtjEoMUK66Bcfu1CqE=/fit-in/1200x630/filters:fill(auto):strip_icc()/pic6325365.png",
+      "PublishedAt": "2023-01-01T06:00:01Z",
+      "Content": "January 1 - Happy New Year! 45 BC - Julian calendar takes effect for the 1st time 1752 - Betsy Ross (maker of the first American flag) 1863 - Emancipation Proclamation issued, freeing all slaves 1879… [+3002 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1671649567/remote control oscars.jpg",
       "PublishedAt": "2022-12-27T10:25:11Z",
       "Content": "The 2023 Oscar nominations will be revealed in January, so if you're interested in following this year's race, now's the time to start catching up on movies. But where can the average person watch al… [+22517 chars]"
-    },
-    {
-      "Source": {
-        "Id": "independent",
-        "Name": "Independent"
-      },
-      "Author": "Philippa Snow",
-      "Title": "Adam Driver: The neurotic, twitchy, deeply uncomfortable genius of a very modern movie star",
-      "Description": "As the Oscar-nominated star of ‘Marriage Story’ and ‘Star Wars’ plays a death-obsessed schlub in Noah Baumbach’s adaptation of ‘White Noise’, Philippa Snow salutes an actor whose unusual, idiosyncratic eroticism has always helped him stand out from the pack",
-      "Url": "https://www.independent.co.uk/arts-entertainment/films/features/adam-driver-white-noise-movies-b2244237.html",
-      "UrlToImage": "https://static.independent.co.uk/2022/12/16/16/Adam%20Driver%20comp%20copy.jpg?quality=75&width=1200&auto=webp",
-      "PublishedAt": "2022-12-27T06:30:00Z",
-      "Content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nIn spite of my never having seen a recent Star Wars film… [+6624 chars]"
     }
   ]
 }
