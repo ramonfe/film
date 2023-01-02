@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 170,
+  "TotalResults": 171,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "LUIS MARTÍNEZ",
+      "Title": "El cine en 2023: importa el tamaño de las ideas, no de las pantallas",
+      "Description": "Mientras la taquilla mundial no se recuperará hasta 2024, el mercado experimenta una ruptura radical entre las superproducciones y las películas indies de festival (adiós a la clase media) Leer",
+      "Url": "https://www.elmundo.es/cultura/cine/2023/01/02/63aeddebfdddff0fa28b45ec.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/0f64d5ab479aa22918451ca0f6752cb3/resize/1200/f/jpg/assets/multimedia/imagenes/2022/12/30/16724148236814.jpg",
+      "PublishedAt": "2023-01-02T21:03:11Z",
+      "Content": "Mucho antes de que el género de catástrofes arrasara en los 70, el cine era ya un desastre. Y no es tanto un juicio moral como, si quieren, un hecho. El cine ha vivido en crisis desde prácticamente s… [+6911 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/4cbf17/slack-imgs/840_560.jpeg",
       "PublishedAt": "2022-12-15T18:01:10Z",
       "Content": "Poca duda queda a un día de su lanzamiento que 'Avatar: El sentido del agua' es el último gran estreno de 2022 y, probablemente, la película que insufle la vida y el dinero necesario a una taquilla q… [+3517 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "El mayor fracaso de James Cameron es un precedente directo de 'Avatar' y él mismo reconoce que 'Titanic' sería peor de no existir esta película de ciencia ficción",
-      "Description": "La carrera de James Cameron está repleta de grandes éxitos de taquilla, pero en su filmografía también hay una película dirigida por él que fracasó en cines -como productor sí que tiene más batacazos-, lo cual no quita para que sea una obra muy importante den…",
-      "Url": "https://www.espinof.com/directores-y-guionistas/mayor-fracaso-james-cameron-precedente-directo-avatar-reconoce-que-titanic-seria-peor-no-existir-esta-pelicula-ciencia-ficcion",
-      "UrlToImage": "https://i.blogs.es/d8c305/abyss/840_560.jpeg",
-      "PublishedAt": "2022-12-15T17:01:09Z",
-      "Content": "La carrera de James Cameron está repleta de grandes éxitos de taquilla, pero en su filmografía también hay una película dirigida por él que fracasó en cines -como productor sí que tiene más batacazos… [+3238 chars]"
     }
   ]
 }
