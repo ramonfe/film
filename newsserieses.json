@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1042,
+  "TotalResults": 1044,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Enter.co"
+      },
+      "Author": "Alejandra Betancourt",
+      "Title": "¿Por qué Netflix canceló la serie «1899»?",
+      "Description": "Cuando Netflix anunció una nueva serie dirigida por Baran bo Odar, el mismo director de Dark, la fanaticada se entusiasmó de inmediato. De hecho, desde la",
+      "Url": "https://www.enter.co/cultura-digital/entretenimiento/por-que-netflix-cancelo-la-serie-de-1899/",
+      "UrlToImage": "https://www.enter.co/wp-content/uploads/2023/01/1899-serie-netflix.jpg",
+      "PublishedAt": "2023-01-04T21:00:09Z",
+      "Content": "Cuando Netflix anunció una nueva serie dirigida por Baran bo Odar, el mismo director de Dark, la fanaticada se entusiasmó de inmediato. De hecho, desde la primera semana que 1899, la serie de Odar, l… [+2204 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -314,6 +327,19 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2023/01/04/ganswein-U46352351633Mmx-1024x512@abc.JPG",
       "PublishedAt": "2023-01-04T13:59:54Z",
       "Content": "Georg Gänswein lleva desde el sábado velando el cuerpo de Benedicto XVI. Se le puede ver en oración, sentado o arrodillado en la capilla ardiente de San Pedro del Vaticano y recibiendo el pésame de l… [+6668 chars]"
+    },
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "Netflix cancela una de sus grandes apuestas: 1899",
+      "Description": "En 2022 Netflix estrenó 1899, serie creada por Baran bo Odar y Jantje Friese. Pese a la buena acogida del público, el servicio de streaming ha decidido cancelar la producción...",
+      "Url": "https://www.elmundo.es/television/series/2023/01/04/63b57745fc6c837a398b458c.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/9a205912d4cb97f965c607be712fa405/resize/1200/f/jpg/assets/multimedia/imagenes/2023/01/04/16728400417403.jpg",
+      "PublishedAt": "2023-01-04T13:50:02Z",
+      "Content": "En 2022 Netflix estrenó 1899, serie creada por Baran bo Odar y Jantje Friese. Pese a la buena acogida del público, el servicio de streaming ha decidido cancelar la producción tras una única temporada… [+1958 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/01/Caleidoscopio_Netflix1-scaled.jpg?fit=2560%2C1442&quality=60&strip=all&ssl=1",
       "PublishedAt": "2023-01-02T19:03:45Z",
       "Content": "La serie Caleidoscopio, de Netflix, está en camino de convertirse en el más reciente éxito de la plataforma. La producción, cuyos capítulos pueden verse en cualquier orden sin perder el sentido, es u… [+4841 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Camila Fabbri",
-      "Title": "El poder de la ficción televisiva para escapar de nosotros",
-      "Description": "No hay edad para esa alarma que nos estremece cuando vemos a una actriz famosa caminando por la calle. Puede ocurrir en la infancia, del mismo modo que ocurre en un adulto de más de cincuenta años. Los ojos se expanden, el gesto cambia, la sorpresa es algo qu…",
-      "Url": "https://cronicaglobal.elespanol.com/letraglobal/letras/manuscritos/netflix-amazon-prime-star-plus-ficcion-audiovisual-camila-fabbri_743882_102.html",
-      "UrlToImage": "https://cronicaglobal.elespanol.com/uploads/s1/24/79/42/91/sin-titulo-1_2_505x267.jpeg",
-      "PublishedAt": "2023-01-02T19:00:00Z",
-      "Content": "No hay edad para esa alarma que nos estremece cuando vemos a una actriz famosa caminando por la calle. Puede ocurrir en la infancia, del mismo modo que ocurre en un adulto de más de cincuenta años. L… [+5661 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La serie que volvió a Netflix, a 18 años de su estreno original, y ya se metió en el top 10 de las más vistas",
-      "Description": "Creada por Ricky Gervais, The Office se convirtió en un verdadero fenómeno global con su versión norteamericana, protagonizada por Steve Carell",
-      "Url": "https://www.lanacion.com.ar/espectaculos/la-serie-que-volvio-a-netflix-a-18-anos-de-su-estreno-original-y-ya-se-metio-en-el-top-10-de-las-mas-nid02012023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/u2B0tibkrYskWpFpFAH5INZLugM=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/767PV3ZH4VGS5KHXKYIRGLAKHY.jpg",
-      "PublishedAt": "2023-01-02T18:34:26Z",
-      "Content": "The Office, la exitosa serie protagonizada por Steve Carell aterrizó de nuevo en Netflix, a 18 años de su estreno original. The Officese instaló en la plataforma de streaming el 1° de enero. \r\nDispon… [+3050 chars]"
     }
   ]
 }
