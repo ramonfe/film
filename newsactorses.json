@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 801,
+  "TotalResults": 802,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "AFP",
+      "Title": "Hoy hace 50 años: Murió actor tico radicado en México",
+      "Description": "Una revista llamada Cine Mundial de Azteca, reveló muchas curiosidades sobre la personalidad del artista, quien debutó profesionalmente con la obra “Cándida” siendo el protagonista en el Teatro Principal de Puebla.",
+      "Url": "https://www.nacion.com/viva/cine/hoy-hace-50-anos-murio-actor-tico-radicado-en/WQZEWRYSBJCF3ASFMJS5S2EOV4/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/QPniPQAsi-VUZyROkOaJwnwyEos=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/IRA7LONSW5BLNIV3ZTMSQEXYH4.jpg",
+      "PublishedAt": "2023-01-04T23:03:30Z",
+      "Content": "Texto original publicado por La Nación el 4 de noviembre de 1972\r\nJorge Beirute (nombre artístico), actor costarricense, falleció en México. Una revista llamada Cine Mundial que se edita en la capita… [+2616 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/adb4e3/star-wars/840_560.jpeg",
       "PublishedAt": "2022-12-31T17:31:19Z",
       "Content": "Carrie Fisher saltó al estrellato mundial como la Princesa Leia, una de las principales protagonistas de las tres películas originales de 'Star Wars' con las que George Lucas cambió la industria a fi… [+3523 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "Charlie Cox deja caer que Daredevil: Born Again no estará inspirado en el cómic del mismo nombre y apunta a una trama totalmente distinta",
-      "Description": "Daredevil ya está dando sus primeros pasos por el Universo Cinematográfico de Marvel, pero no llegará de lleno hasta que aterrice con su nueva serie, Born Again, a Disney +. Tras sus pequeñas apariciones en She-Hulk, Matt Murdock está listo para contar nuevas…",
-      "Url": "https://www.vidaextra.com/series/charlie-cox-deja-caer-que-daredevil-born-again-no-estara-inspirado-comic-nombre-apunta-a-trama-totalmente-distinta",
-      "UrlToImage": "https://i.blogs.es/a88aee/daredevill-born-again/840_560.jpeg",
-      "PublishedAt": "2022-12-31T17:01:19Z",
-      "Content": "Daredevil ya está dando sus primeros pasos por el Universo Cinematográfico de Marvel, pero no llegará de lleno hasta que aterrice con su nueva serie, Born Again, a Disney +. Tras sus pequeñas aparici… [+1123 chars]"
     }
   ]
 }
