@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1086,
+  "TotalResults": 1087,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "El País (Uruguay)",
+      "Title": "Netflix también quiere ser tu entrenador personal: así funciona su nuevo servicio",
+      "Description": "La serie de entrenamiento fue realizada junto a Nike y está dividida en 5 temporadas y 48 episodios con rutinas que cubren cada necesidad; hay desde yoga hasta ejercicios avanzados",
+      "Url": "https://www.lanacion.com.ar/lifestyle/netflix-tambien-quiere-ser-tu-entrenador-personal-asi-funciona-su-nuevo-servicio-nid06012023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/u8ut4Q3bcTDQNO4tYehIUH3Nbx4=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/A4YG6YAAPVCEJMFC7GQ6YZCKQI.jpg",
+      "PublishedAt": "2023-01-06T22:26:49Z",
+      "Content": "Hacer ejercicio desde cualquier lugar ahora va a ser más posible con la ayuda de Netflix, ya que la plataforma hizo una colaboración con la marca de ropa deportiva Nike, con la cual presentarán difer… [+2848 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/97c38a/atv/840_560.jpeg",
       "PublishedAt": "2023-01-04T15:00:26Z",
       "Content": "Comprar una Smart TV, aparte de ser en ocasiones un desembolso importante y una compra que hay que estudiar, es también la oportunidad para llevar a casa un centro multimedia. Los televisores actuale… [+2740 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "Por qué la temporada 5 de 'Sherlock' sigue sin hacerse: Steven Moffat explica qué hace falta para ponerse con ella y \"escribirla mañana\"",
-      "Description": "Seis años han pasado ya desde el estreno de la cuarta tanda de episodios de 'Sherlock' y desde entonces se habla de vez en cuando sobre una posible temporada 5 de la serie basada en el mítico personaje creado por Arthur Conan Doyle. Steven Moffat, uno de sus …",
-      "Url": "https://www.espinof.com/series-de-ficcion/que-temporada-5-sherlock-sigue-hacerse-steven-moffat-explica-que-hace-falta-para-ponerse-ella-escribirla-manana",
-      "UrlToImage": "https://i.blogs.es/8b1cc9/sherlock/840_560.jpeg",
-      "PublishedAt": "2023-01-04T14:58:12Z",
-      "Content": "Seis años han pasado ya desde el estreno de la cuarta tanda de episodios de 'Sherlock' y desde entonces se habla de vez en cuando sobre una posible temporada 5 de la serie basada en el mítico persona… [+1688 chars]"
     }
   ]
 }
