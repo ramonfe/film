@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1043,
+  "TotalResults": 1044,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Boston Globe"
+      },
+      "Author": "Karen Campbell",
+      "Title": "A new view of a classic movie inspired choreographer Stefanie Batten Bland’s ‘Look Who’s Coming to Dinner’",
+      "Description": "Fifty years after its release, Bland rewatched \"Guess Who's Coming to Dinner,\" and \"it blew my mind open,\" she says.",
+      "Url": "https://www.bostonglobe.com/2023/01/05/arts/new-view-classic-movie-inspired-choreographer-stefanie-batten-blands-look-whos-coming-dinner/",
+      "UrlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Lfv31rQrLChYGFn9kRqKqdYzWqc=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/7XJFW3BIGZCDVLESY3M7RORQ5Q.jpg",
+      "PublishedAt": "2023-01-05T23:19:55Z",
+      "Content": "Then five years ago, around the 50th anniversary of the film, Batten Bland rewatched the movie. I started seeing that it was all a vehicle to have a conversation not only about skin color, but also a… [+4661 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.the-digital-picture.com/Images/News/Static/Canon-Logo.gif",
       "PublishedAt": "2023-01-03T21:26:14Z",
       "Content": "From Canon USA:\r\nCanon Innovations Push the Boundaries of Storytelling With a First-Of-Its-Kind Immersive Movie Experience at CES® 2023\r\nCanon U.S.A. has partnered with renowned filmmaker and directo… [+9725 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HYPEBEAST"
-      },
-      "Author": "info@hypebeast.com (Hypebeast)",
-      "Title": "'Glass Onion: A Knives Out Mystery' Becomes Netflix's Third Most-Watched Movie",
-      "Description": "Rian Johnson's Glass Onion: A Knives Out Mystery has become Netflix's third most-watched movie based on hours viewed in its first 10 days. Between December 26 and January 1, the film accumulated 127 million hours watched.Following its release on December 23, …",
-      "Url": "https://hypebeast.com/2023/1/glass-onion-a-knives-out-mystery-netflix-third-most-watched-movie",
-      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F01%2Fglass-onion-a-knives-out-mystery-netflix-third-most-watched-movie-TW.jpg?w=960&cbr=1&q=90&fit=max",
-      "PublishedAt": "2023-01-03T21:25:11Z",
-      "Content": "Rian Johnson’s Glass Onion: A Knives Out Mystery has become Netflix’s third most-watched movie based on hours viewed in its first 10 days. Between December 26 and January 1, the film accumulated 127 … [+1280 chars]"
     }
   ]
 }
