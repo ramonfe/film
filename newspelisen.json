@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1055,
+  "TotalResults": 1056,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Gabriele Di Donfrancesco",
+      "Title": "Is AI photography as ethically plagued as AI art?",
+      "Description": "After disrupting the world of illustrators, artificial intelligence is causing controversy with a new type of machine-generated content: AI photography.\n\n\nWhile many artists were furious about the impact of AI on their authorship—both commercially and ethical…",
+      "Url": "https://www.dailydot.com/debug/ai-photography/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/01/photography.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-01-06T15:59:21Z",
+      "Content": "After disrupting the world of illustrators, artificial intelligence is causing controversy with a new type of machine-generated content: AI photography.\r\nWhile many artists were furious about the imp… [+6509 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-04T12:53:34Z",
       "Content": "Google has been working on giving its Pixel phone users access to spatial audio since at least September last year. Now, the tech giant is finally rolling out the feature with the rest of the January… [+1401 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Kris Holt",
-      "Title": "Google brings spatial audio to Pixel 7 and Pixel 6 phones",
-      "Description": "Google has been working on giving its Pixel phone users access to spatial audio since at least September last year. Now, the tech giant is finally rolling out the feature with the rest of the January 2023 security updates for its flagship devices. In the list…",
-      "Url": "https://www.engadget.com/google-spatial-audio-pixel-7-pixel-6-123543544.html",
-      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/4f449bb0-8c1d-11ed-bfbd-68997b18e442",
-      "PublishedAt": "2023-01-04T12:35:43Z",
-      "Content": "Google has been working on giving its Pixel phone users access to spatial audio since at least September last year. Now, the tech giant is finally rolling out the feature with the rest of the January… [+1404 chars]"
     }
   ]
 }
