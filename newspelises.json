@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 175,
+  "TotalResults": 176,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Huffingtonpost.es"
+      },
+      "Author": "Redacción El HuffPost",
+      "Title": "Quién es Beltrán Iraburu, el atractivo rey Gaspar que enamora a todos en la Cabalgata de Madrid",
+      "Description": "El rey Gaspar saluda a los niños durante la Cabalgata de los Reyes Magos celebrada este jueves en MadridVolvió a ser el gran protagonista, y no sólo por representar a uno de los tres reyes magos de Oriente que llevaron oro, incienso y mirra al niño Jesús. Bel…",
+      "Url": "https://www.huffingtonpost.es/entry/quien-es-beltran-iraburu-el-atractivo-rey-gaspar-que-enamora-a-todos-en-la-cabalgata-de-madrid_es_63b7be15e4b0cbfd55e8276b",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/63b7c05e25000038001a4e3c.jpg?ops=1200_630",
+      "PublishedAt": "2023-01-06T06:35:49Z",
+      "Content": "El rey Gaspar saluda a los niños durante la Cabalgata de los Reyes Magos celebrada este jueves en Madrid\r\nVolvió a ser el gran protagonista, y no sólo por representar a uno de los tres reyes magos de… [+2125 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.huffingtonpost.com/asset/639cbb7e2700001e00411f63.jpg?ops=1200_630",
       "PublishedAt": "2022-12-18T08:11:36Z",
       "Content": "Los puentes de Madison\r\nLa cartelera madrileña ofrece estas navidades más de veinte espectáculos musicales. Es decir, obras teatrales en las que la historia, la trama y el contenido de lo que cuentan… [+12595 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia AFP",
-      "Title": "'Avatar 2' atrae en su estreno a un 25% ms de espectadores que primera parte",
-      "Description": "El estreno de Avatar: El sentido del agua ha atrado en su estreno este pasado viernes a 285.000 espectadores, un 25 % ms que su primera parte, que se mantiene como la pelcula ms taquillera de todos los tiempos.El dato lo ha facilitado hoy la consultora Comsco…",
-      "Url": "https://www.milenio.com/espectaculos/cine/avatar-sentido-agua-recauda-53-millones-dolares-estreno",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/12/17/avatar-el-sentido-del-agua.jpg",
-      "PublishedAt": "2022-12-17T23:36:38Z",
-      "Content": "El estreno de Avatar: El sentido del aguaha atraído en su estreno este pasado viernes a 285.000 espectadores, un 25 % más que su primera parte, que se mantiene como la película más taquillera de todo… [+1437 chars]"
     }
   ]
 }
