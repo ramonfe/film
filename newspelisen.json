@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 989,
+  "TotalResults": 992,
   "Articles": [
+    {
+      "Source": {
+        "Id": "vice-news",
+        "Name": "Vice News"
+      },
+      "Author": "Adam Rothbarth, Gregory Babcock, Hilary Pollack",
+      "Title": "Vizio’s M-Series Sound Bar Turned My Apartment Into a Movie Theater",
+      "Description": "Want to feel like you’re scaling Mount Doom or racing against Vin Diesel? Get this affordable but surprisingly powerful speaker set.",
+      "Url": "https://www.vice.com/en/article/bvm49w/vizio-m-series-sound-bar-review",
+      "UrlToImage": "https://video-images.vice.com/articles/63b8a91833a711edae6d2ee2/lede/1673046297674-vizio-1.jpeg?image-resize-opts=Y3JvcD0wLjk4ODl4dzoxeGg7MC4wMDV4dywweGgmcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq",
+      "PublishedAt": "2023-01-09T17:33:04Z",
+      "Content": "I remember the first flat screen TV my family got. It was in the late 2000s, when “nice TVs”—aka TVs with fancy remotes, on-screen guides, and slimmer profiles—were becoming ubiquitous. At the time, … [+5949 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "Black Panther: Wakanda Forever 4K and Blu-ray Release Date & Special Features",
+      "Description": "Marvel fans can celebrate as the official Black Panther: Wakanda Forever 4K and Blu-ray release dates have been set, alongside its digital release. The Ryan Coogler-directed movie will hit the domestic and digital market in February. Starting on February 1, f…",
+      "Url": "https://www.comingsoon.net/?p=1259644",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/Black-Panther-Wakanda-Forever-4K.jpg?resize=1200,630",
+      "PublishedAt": "2023-01-09T17:30:00Z",
+      "Content": "Marvel fans can celebrate as the official Black Panther: Wakanda Forever 4K and Blu-ray release dates have been set, alongside its digital release.\r\nThe Ryan Coogler-directed movie will hit the domes… [+3334 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nerdist"
+      },
+      "Author": "Tai Gooden",
+      "Title": "How Popcorn Became the Premier Movie Theater Snack",
+      "Description": "Popcorn and movies go together like peanut butter and jelly; however, the ever-popular snack was once banned from theaters before later saving the industry. \nThe post How Popcorn Became the Premier Movie Theater Snack appeared first on Nerdist.",
+      "Url": "https://nerdist.com/article/how-popcorn-became-a-movie-theater-snack-full-history/",
+      "UrlToImage": "https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2021/01/13004807/Popcorn-Image.jpg",
+      "PublishedAt": "2023-01-09T17:20:00Z",
+      "Content": "Some foods, like popcorn, are inextricably tied to American culture. We love our precious popcorn with salt, butter, cheese, caramel, and a litany of other flavors. It has its own national holiday, m… [+5883 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -721,19 +760,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "James Gunn Reveals He's Writing an Unannounced DC Series for DC Studios",
-      "Description": "With all of the work that James Gunn has on his plate right now with running DC Studios, writing a new Superman movie, and various other projects we don’t know about, I don’t see where he finds the time to continue to spend more time on social media. But, he …",
-      "Url": "https://geektyrant.com/news/james-gunn-reveals-hes-writing-an-unannounced-dc-series-for-dc-studios",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63b868cddadd0575f03c4350/1673038849409/Screen+Shot+2023-01-06+at+10.47.06+AM.jpg?format=1500w",
-      "PublishedAt": "2023-01-06T21:00:00Z",
-      "Content": "With all of the work thatJames Gunn has on his plate right now with running DC Studios, writing a new Superman movie, and various other projects we dont know about, I dont see where he finds the time… [+1538 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "ComingSoon.net"
       },
       "Author": "Spencer Legacy",
@@ -743,6 +769,19 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/hunchback-header.png?resize=1200,630",
       "PublishedAt": "2023-01-06T21:00:00Z",
       "Content": "Many Disney animated classics have retained immense relevance in the years since their release. Films like Aladdin, Beauty and the Beast, and The Little Mermaid have a timeless quality that has led t… [+6304 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "James Gunn Reveals He's Writing an Unannounced DC Series for DC Studios",
+      "Description": "With all of the work that James Gunn has on his plate right now with running DC Studios, writing a new Superman movie, and various other projects we don’t know about, I don’t see where he finds the time to continue to spend more time on social media. But, he …",
+      "Url": "https://geektyrant.com/news/james-gunn-reveals-hes-writing-an-unannounced-dc-series-for-dc-studios",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63b868cddadd0575f03c4350/1673038849409/Screen+Shot+2023-01-06+at+10.47.06+AM.jpg?format=1500w",
+      "PublishedAt": "2023-01-06T21:00:00Z",
+      "Content": "With all of the work thatJames Gunn has on his plate right now with running DC Studios, writing a new Superman movie, and various other projects we dont know about, I dont see where he finds the time… [+1538 chars]"
     },
     {
       "Source": {
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://www.slashfilm.com/img/gallery/regal-owner-cineworld-told-to-fast-track-theater-closings-and-new-business-plan-by-bankruptcy-judge/l-intro-1672938688.jpg",
       "PublishedAt": "2023-01-05T17:13:42Z",
       "Content": "Last year, Cineworld was forced to enter into Chapter 11 bankruptcy, with crippling debt and slower-than-anticipated recovery in the aftermath of the pandemic putting the theater chain in a bad place… [+1524 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Real Deal"
-      },
-      "Author": "By TRD Staff",
-      "Title": "Southampton’s shuttered cinema sold, reopening",
-      "Description": "Popcorn may soon be popping at the Southampton movie theater, which was sold to a mystery buyer in mid-November. Hill Street Cinema LLC purchased the shuttered cinema for $8 million, Behind the Hedges reported. The limited liability corporation agreed to buy …",
-      "Url": "https://therealdeal.com/tristate/2023/01/04/southamptons-shuttered-cinema-sold-reopening/",
-      "UrlToImage": "https://therealdeal.com/wp-content/uploads/2023/01/crosspost-20230104065819.jpg",
-      "PublishedAt": "2023-01-05T17:00:39Z",
-      "Content": "Southold Properties’ Ken Karlin with 43 Hill Street (Getty, LinkedIn, Hill Street Cinema)\r\nPopcorn may soon be popping at the Southampton movie theater, which was sold to a mystery buyer in mid-Novem… [+1779 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Winter is Coming"
-      },
-      "Author": "Dan Selcke",
-      "Title": "How the Rock’s plan to get Henry Cavill back as Superman fell apart",
-      "Description": "No studio had a more tumultuous 2022 than DC Studios. Remember when Ezra Miller was tearing around the country as a one-person crime wave, imperiling the future of their Flash movie? Or how about when Warner Bros. Discovery opted not to release the Batgirl mo…",
-      "Url": "https://winteriscoming.net/2023/01/05/how-the-rock-plan-get-henry-cavill-back-superman-fell-apart/",
-      "UrlToImage": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fwinteriscoming.net%2Ffiles%2Fimage-exchange%2F2022%2F10%2Fie_90807.jpeg",
-      "PublishedAt": "2023-01-05T16:32:40Z",
-      "Content": "No studio had a more tumultuous 2022 than DC Studios. Remember when Ezra Miller was tearing around the country as a one-person crime wave, imperiling the future of their Flash movie? Or how about whe… [+2968 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Wire"
-      },
-      "Author": null,
-      "Title": "Brident Dental & Orthodontics Expands Access to Dental Care in Lewisville, Texas",
-      "Description": "DALLAS--(BUSINESS WIRE)--Brident Dental & Orthodontics, a member of the Sonrava Health family of wellness companies, announces its first new office opening of 2023, in Lewisville, Texas. With convenient access for North Texas residents, Brident’s Lewisville o…",
-      "Url": "https://www.businesswire.com/news/home/20230105005298/en/Brident-Dental-Orthodontics-Expands-Access-to-Dental-Care-in-Lewisville-Texas",
-      "UrlToImage": "https://mms.businesswire.com/media/20230105005298/en/1559029/23/brident_logo_desc_cmyk_pos_R-CS5-01.jpg",
-      "PublishedAt": "2023-01-05T16:09:49Z",
-      "Content": "DALLAS--(BUSINESS WIRE)--Brident Dental &amp; Orthodontics, a member of the Sonrava Health family of wellness companies, announces its first new office opening of 2023, in Lewisville, Texas.\r\nWith co… [+2656 chars]"
     }
   ]
 }
