@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 993,
+  "TotalResults": 995,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stereogum"
+      },
+      "Author": "Rachel Brodsky",
+      "Title": "Watch SZA’s Quentin Tarantino-Inspired “Kill Bill” Video",
+      "Description": "One month since its release, SZA’s new album SOS has spent four weeks at #1 on the Billboard 200. Today, SZA has shared a super-detailed, Quentin Tarantino-inspired music video for album track “Kill Bill.” Bookended by snippets of album tracks “Nobody Gets Me…",
+      "Url": "https://www.stereogum.com/2210120/watch-szas-quentin-tarantino-inspired-kill-bill-video/news/",
+      "UrlToImage": "https://static.stereogum.com/uploads/2023/01/sza-1673398582.jpeg",
+      "PublishedAt": "2023-01-11T01:23:06Z",
+      "Content": "One month since its release, SZA’s new album SOS has spent four weeks at #1 on the Billboard 200. Today, SZA has shared a super-detailed, Quentin Tarantino-inspired music video for album track “Kill … [+505 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Siliconera"
+      },
+      "Author": "Daniel Bueno",
+      "Title": "One Piece Film: Red Art Shared After 19 Billion Yen Milestone",
+      "Description": "As of January 10, 2023, One Piece Film: Red surpassed 19 billion yen in the Japanese box office, with over 13.79 million tickets sold. The official website revealed the news, along with a special piece of art drawn by author Eiichiro Oda to celebrate One Piec…",
+      "Url": "https://www.siliconera.com/one-piece-film-red-celebrates-over-19-billion-yen-with-illustration-art/",
+      "UrlToImage": "https://www.siliconera.com/wp-content/uploads/2023/01/one-piece-film-red-19-billion-yen.png",
+      "PublishedAt": "2023-01-11T01:00:19Z",
+      "Content": "As of January 10, 2023, One Piece Film: Red surpassed 19 billion yen in the Japanese box office, with over 13.79 million tickets sold. The official website revealed the news, along with a special pie… [+1347 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
       "PublishedAt": "2023-01-07T16:39:31Z",
       "Content": "I have a Model named Ad and it has a field named location_details and it's a JSON field.\r\nwhile fetching the list of objects from Model A, I am applying filter for the location_details field\r\nhttp://… [+1935 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "Bofuri Season 2 Episode 1 Release Date & Time",
-      "Description": "Maple, Sally, and the others’ adventures in NewWorld Online continue. Here are the details for Bofuri Season 2 Episode 1. When Bofuri Season 2 Episode 1 Releases Bofuri Season 2 Episode 1’s release date is Wednesday, January 11. The episode will be out in Jap…",
-      "Url": "https://www.comingsoon.net/anime/news/1258996-bofuri-season-2-episode-1-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/bofuri.png?resize=1200,630",
-      "PublishedAt": "2023-01-07T15:59:24Z",
-      "Content": "Maple, Sally, and the others adventures in NewWorld Online continue. Here are the details for Bofuri Season 2 Episode 1.\r\nWhen Bofuri Season 2 Episode 1 Releases\r\nBofuri Season 2 Episode 1s release d… [+1668 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Justin Carter",
-      "Title": "Netflix's 2022 Darling The Sea Beast is Getting a Sequel",
-      "Description": "Netflix’s most high-profile animated movie of 2022 was perhaps understandably Pinocchio, but the streamer did release some other pretty solid animated features and shows throughout last year. One of those was The Sea Beast, a fun throwback CG film about sailo…",
-      "Url": "https://gizmodo.com/netflix-the-sea-beast-sequel-film-1849961504",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f981ce3acbdba2f27bed51f34ae5ea31.jpg",
-      "PublishedAt": "2023-01-07T15:45:00Z",
-      "Content": "Netflixs most high-profile animated movie of 2022 was perhaps understandably Pinocchio, but the streamer did release some other pretty solid animated features and shows throughout last year. One of t… [+2310 chars]"
     }
   ]
 }
