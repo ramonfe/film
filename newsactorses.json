@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 828,
+  "TotalResults": 830,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Sofía Benavides",
+      "Title": "Jennifer Coolidge se robó el show en los Globo de Oro",
+      "Description": "Jennifer Coolidge, quien interpreta a Tanya McQuoid en la serie de HBO \"White Lotus\", encantó al publico de los Globo de Oro tanto cuando subió a presentar un premio como cuando recibió el suyo propio, como mejor actriz de reparto.",
+      "Url": "https://cnnespanol.cnn.com/2023/01/11/jennifer-coolidge-globo-de-oro-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/01/Jennifer-goldeb-globes.jpg?quality=100&strip=info",
+      "PublishedAt": "2023-01-11T14:30:42Z",
+      "Content": "(CNN) -- Como era de esperar, Jennifer Coolidge protagonizó uno de los momentos más destacados de la noche de este martes, tanto cuando presentó un premio como cuando ganó su propio trofeo en la 80ª … [+2217 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Redacción verTele",
+      "Title": "Dónde ver y de qué va 'Colegio Abbott', la serie que ha triunfado en los Globos de Oro",
+      "Description": "Los Globos de Oro coronaron este martes a Colegio Abbott (Abbott Elementary) como la Mejor serie de Comedia de 2022. La ficción de ABC se impuso a la ganadora del año pasado (Hacks, de HBO Max), a otra de las nominadas de aquella edición (Solo asesinatos en e…",
+      "Url": "https://vertele.eldiario.es/noticias/donde-ver-de-que-va-colegio-abbott-serie-triunfado-globos-oro_1_9858191.html",
+      "UrlToImage": "https://static.eldiario.es/clip/aba19ee7-c1cf-47d1-bafa-704e2563781d_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-01-11T14:04:46Z",
+      "Content": "Los Globos de Oro coronaron este martes a Colegio Abbott (Abbott Elementary) como la Mejor serie de Comedia de 2022. La ficción de ABC se impuso a la ganadora del año pasado (Hacks, de HBO Max), a ot… [+4074 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/01/09/meghan-markle-y-harry-reuters.jpg",
       "PublishedAt": "2023-01-09T22:14:37Z",
       "Content": "El príncipe Harry acusó a la familia real británica de ser corresponsable de la angustia que sufrió su esposa Meghan, y afirmó que su madrastra Camila, la reina consorte, filtró conversaciones privad… [+5127 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "César Aguilla",
-      "Title": "Con la salida de Henry Cavill de la serie de 'The Witcher', en Netflix lo repiten sin cesar: la tercera temporada será la más fiel al libro",
-      "Description": "La tercera temporada de 'The Witcher' será la última en la que veremos a Henry Cavill interpretando a Geralt de Rivia, el icónico protagonista de esta franquicia. Sin embargo, en Netflix tienen claro cuál será su enganche para la despedida de Cavill, ser la t…",
-      "Url": "https://www.xataka.com.mx/videojuegos/salida-henry-cavill-serie-the-witcher-netflix-repiten-cesar-tercera-temporada-sera-fiel-al-libro",
-      "UrlToImage": "https://i.blogs.es/0cc093/cavill_witcher_01/840_560.jpeg",
-      "PublishedAt": "2023-01-09T20:46:30Z",
-      "Content": "La tercera temporada de 'The Witcher' será la última en la que veremos a Henry Cavill interpretando a Geralt de Rivia, el icónico protagonista de esta franquicia. Sin embargo, en Netflix tienen claro… [+2330 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Motorpasión"
-      },
-      "Author": "Álvaro Ruiz",
-      "Title": "Ni Netflix, ni Amazon. Para ver la película de Gran Turismo tendrás que ir al cine",
-      "Description": "La película Gran Turismo ya tiene fecha de estreno. Será el 11 de agosto de 2023 y narrará la historia de un joven que se convierte en piloto profesional después de pasar por la GT Academy.\n<!-- BREAK 1 -->\nSolo se podrá ver en el cine y ya sabemos cuáles son…",
-      "Url": "https://www.motorpasion.com/cine-tv-juegos/playstation-al-cine-gran-turismo-se-pasa-a-gran-pantalla-orlando-bloom-nos-da-motivo-para-ir-a-verla",
-      "UrlToImage": "https://img.remediosdigitales.com/3d3ded/gran-turismo-pelicula-4/840_560.jpeg",
-      "PublishedAt": "2023-01-09T20:01:57Z",
-      "Content": "La película Gran Turismo ya tiene fecha de estreno. Será el 11 de agosto de 2023 y narrará la historia de un joven que se convierte en piloto profesional después de pasar por la GT Academy.\r\nSolo se … [+3615 chars]"
     }
   ]
 }

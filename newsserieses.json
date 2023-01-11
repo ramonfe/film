@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1077,
+  "TotalResults": 1079,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Sofía Benavides",
+      "Title": "Jennifer Coolidge se robó el show en los Globo de Oro",
+      "Description": "Jennifer Coolidge, quien interpreta a Tanya McQuoid en la serie de HBO \"White Lotus\", encantó al publico de los Globo de Oro tanto cuando subió a presentar un premio como cuando recibió el suyo propio, como mejor actriz de reparto.",
+      "Url": "https://cnnespanol.cnn.com/2023/01/11/jennifer-coolidge-globo-de-oro-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/01/Jennifer-goldeb-globes.jpg?quality=100&strip=info",
+      "PublishedAt": "2023-01-11T14:30:42Z",
+      "Content": "(CNN) -- Como era de esperar, Jennifer Coolidge protagonizó uno de los momentos más destacados de la noche de este martes, tanto cuando presentó un premio como cuando ganó su propio trofeo en la 80ª … [+2217 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Redacción verTele",
+      "Title": "Dónde ver y de qué va 'Colegio Abbott', la serie que ha triunfado en los Globos de Oro",
+      "Description": "Los Globos de Oro coronaron este martes a Colegio Abbott (Abbott Elementary) como la Mejor serie de Comedia de 2022. La ficción de ABC se impuso a la ganadora del año pasado (Hacks, de HBO Max), a otra de las nominadas de aquella edición (Solo asesinatos en e…",
+      "Url": "https://vertele.eldiario.es/noticias/donde-ver-de-que-va-colegio-abbott-serie-triunfado-globos-oro_1_9858191.html",
+      "UrlToImage": "https://static.eldiario.es/clip/aba19ee7-c1cf-47d1-bafa-704e2563781d_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-01-11T14:04:46Z",
+      "Content": "Los Globos de Oro coronaron este martes a Colegio Abbott (Abbott Elementary) como la Mejor serie de Comedia de 2022. La ficción de ABC se impuso a la ganadora del año pasado (Hacks, de HBO Max), a ot… [+4074 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/2503fc/sin-titulo-1/840_560.jpeg",
       "PublishedAt": "2023-01-09T17:00:28Z",
       "Content": "Si necesitas accesorios para tu hogar sin gastar mucho, en Xataka Selección ya tenemos para ti una lista con 15 productos de Aliexpress que puedes encontrar desde solo 1 peso y con envío gratis.\r\nUn … [+1589 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Atomix"
-      },
-      "Author": "Sebastian Quiroz",
-      "Title": "Obtén una suscripción de HBO Max con dos meses gratis",
-      "Description": "Nos encontramos a solo unos días del estreno de la serie de The Last of Us para HBO. De esta forma, la compañía quiere que más personas tengan la oportunidad de experimentar esta adaptación de las aventuras de Joel y Ellie. Es así que actualmente puedes ahorr…",
-      "Url": "https://atomix.vg/obten-una-suscripcion-de-hbo-max-con-dos-meses-gratis/",
-      "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2023/01/hbo-max.jpg",
-      "PublishedAt": "2023-01-09T16:56:09Z",
-      "Content": "Nos encontramos a solo unos días del estreno de la serie de The Last of Us para HBO. De esta forma, la compañía quiere que más personas tengan la oportunidad de experimentar esta adaptación de las av… [+1207 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Genbeta.com"
-      },
-      "Author": "José Alberto Lizana",
-      "Title": "Consigue dos meses gratis de Apple TV+ gracias a la nueva película de Will Smith: te contamos cómo canjearlo online",
-      "Description": "En la actualidad la presencia de diferentes servicios de retransmisión de contenidos en línea es un problema, sobre todo para el bolsillo, haciendo que en muchas ocasiones se tenga que ir cambiando de plataforma y hacer maratones en el mes. Una de estas plata…",
-      "Url": "https://www.genbeta.com/multimedia/consigue-dos-meses-gratis-apple-tv-gracias-a-nueva-pelicula-will-smith-te-contamos-como-canjearlo-online",
-      "UrlToImage": "https://i.blogs.es/38378a/apple-tv-/840_560.jpg",
-      "PublishedAt": "2023-01-09T16:46:50Z",
-      "Content": "En la actualidad la presencia de diferentes servicios de retransmisión de contenidos en línea es un problema, sobre todo para el bolsillo, haciendo que en muchas ocasiones se tenga que ir cambiando d… [+2227 chars]"
     }
   ]
 }
