@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1082,
+  "TotalResults": 1083,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hipertextual"
+      },
+      "Author": "Aglaia Berlutti",
+      "Title": "El doloroso paralelo entre ‘The Last of Us’ y ‘Mandalorian’",
+      "Description": "The Last of Us y The Mandalorian comparten una narrativa clave que abre la puerta a un nuevo tipo de héroe en la ficción. En la nueva serie de HBO, la paternidad es importante. Tanto como para convertirse en el símbolo de la esperanza en un mundo hecho pedazo…",
+      "Url": "http://hipertextual.com/2023/01/the-last-of-us-the-mandalorian-comun",
+      "UrlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/01/mandalorian-last-of-us-scaled.jpg?fit=2560%2C1707&quality=60&strip=all&ssl=1",
+      "PublishedAt": "2023-01-11T16:02:10Z",
+      "Content": "The Last of Us y The Mandalorian comparten una narrativa clave que abre la puerta a un nuevo tipo de héroe en la ficción. En la nueva serie de HBO, la paternidad es importante. Tanto como para conver… [+5384 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/01/Diseno-sin-titulo-9.jpg?quality=100&strip=info",
       "PublishedAt": "2023-01-09T17:21:57Z",
       "Content": "\"The Last Of Us\": así se ve Pedro Pascal ve el primer tráiler de la serie 1:05\r\n(CNN Español) -- \"The Last of Us\" es la nueva y ambiciosa serie de HBO Max que se estrenará el domingo 15 de junio. La … [+3108 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": null,
-      "Title": "'Stranger Things': El reparto principal ganará más dinero que nunca en la quinta temporada",
-      "Description": "SUELDAZOS Los salarios del reparto principal de la serie más vista de Netflix recibirán en la temporada final un gigantesco aumento en comparación con las temporadas anteriores.'Stranger Things': El reparto principal ganará más dinero que nunca en la quinta t…",
-      "Url": "https://www.ecartelera.com/noticias/stranger-things-reparto-principal-salarios-quinta-temporada-71825/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/71800/71825-m.jpg",
-      "PublishedAt": "2023-01-09T17:15:00Z",
-      "Content": "'Stranger Things' llegará a su fin con la quinta temporada, que aún no tiene fecha de estreno pero que indudablemente será un final por todo lo grande. Esto se traduce también en el increíble aumento… [+2103 chars]"
     }
   ]
 }
