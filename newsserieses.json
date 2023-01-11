@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1090,
+  "TotalResults": 1091,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "De superviviente a superhéroe: Pedro Pascal tiene ganas de debutar en el Universo Cinematográfico de Marvel",
+      "Description": "The Last of Us de HBO es una de las series más esperadas del 2023. La crítica la ha catalogado como una de las mejores adaptaciones jamás hechas y la actuación de Pedro Pascal y Bella Thorne parece que darán de que hablar, siendo dos actores muy experimentado…",
+      "Url": "https://www.vidaextra.com/cine/superviviente-a-superheroe-pedro-pascal-tiene-ganas-debutar-universo-cinematografico-marvel",
+      "UrlToImage": "https://i.blogs.es/9733fd/pedro-pascal/840_560.jpeg",
+      "PublishedAt": "2023-01-11T18:31:46Z",
+      "Content": "The Last of Us de HBO es una de las series más esperadas del 2023. La crítica la ha catalogado como una de las mejores adaptaciones jamás hechas y la actuación de Pedro Pascal y Bella Thorne parece q… [+1035 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.remediosdigitales.com/3d3ded/gran-turismo-pelicula-4/840_560.jpeg",
       "PublishedAt": "2023-01-09T20:01:57Z",
       "Content": "La película Gran Turismo ya tiene fecha de estreno. Será el 11 de agosto de 2023 y narrará la historia de un joven que se convierte en piloto profesional después de pasar por la GT Academy.\r\nSolo se … [+3615 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Jesús Bastante",
-      "Title": "El Vaticano reabre el caso de Emanuela Orlandi 40 años después de su extraña desaparición",
-      "Description": "Emanuela Orlandi sigue viva. O, al menos, el recuerdo de la adolescente italiana, hija de un funcionario de la Santa Sede, que desapareció sin dejar rastro el 22 de junio de 1983, cuando acudía a la basílica de Sant'Apollinare, en el centro de Roma, a dar cla…",
-      "Url": "https://www.eldiario.es/sociedad/cuarenta-anos-despues-extrana-desaparicion-vaticano-reabre-caso-orlandi_1_9853188.html",
-      "UrlToImage": "https://static.eldiario.es/clip/2c0d8f45-0088-4284-b325-59f3ddb93a92_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-01-09T19:44:46Z",
-      "Content": "Emanuela Orlandi sigue viva. O, al menos, el recuerdo de la adolescente italiana, hija de un funcionario de la Santa Sede, que desapareció sin dejar rastro el 22 de junio de 1983, cuando acudía a la … [+5141 chars]"
     }
   ]
 }
