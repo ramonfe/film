@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1150,
+  "TotalResults": 1151,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Machos Alfa: la serie española que se volvió un inesperado éxito en Netflix y ya confirmó una segunda temporada",
+      "Description": "Tras conseguir un lugar en el ránking de las producciones más vistas a nivel internacional, el gigante del streaming sorprendió a los fans con un esperado anuncio",
+      "Url": "https://www.lanacion.com.ar/espectaculos/machos-alfa-la-serie-espanola-que-se-volvio-un-inesperado-exito-en-netflix-y-ya-confirmo-una-segunda-nid13012023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/jk-o-JRjckNG51bP3fgqg4PTAYg=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/4ASSWNAREZBKPI5KSVHZD7UHPI.jpg",
+      "PublishedAt": "2023-01-13T23:35:36Z",
+      "Content": "En una época en la que tanto los valores como los discursos sociales cambian y evolucionan a pasos agigantados, algunas personas se adaptan a los nuevos códigos con mayor facilidad que otros. En el c… [+2738 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/01/11/jenna-ortega-globos-de-oro.jpg",
       "PublishedAt": "2023-01-12T04:10:33Z",
       "Content": "El pasado martes 10 de enero se llevó a cabo la edición 80 de los Globos de Oro en donde después de ser boicoteados el año pasado, regresaron con una gran ceremonia que tuvo a Guillermo del Toro,Stev… [+1531 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "‘Break Point’, la serie del tenis que buscar tener el mismo efecto que ‘Fórmula 1: Drive To Survive’: depresión, egos, éxito, oscuridad y adicciones",
-      "Description": "Este viernes, por Netflix, se lanzarán los primeros cinco episodios de un trabajo que se involucra en el detrás de escena de las raquetas; Kyrgios confesó su problema con el alcohol",
-      "Url": "https://www.lanacion.com.ar/deportes/tenis/break-point-la-serie-del-tenis-que-buscar-tener-el-mismo-efecto-que-formula-1-drive-to-survive-nid11012023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/RznM33d4ybUWrv0Juuv3jcW6dE4=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/WMFLR4ID2BC4BP2DK7M3QDSEVU.JPG",
-      "PublishedAt": "2023-01-12T02:59:09Z",
-      "Content": "Está comprobado: F1: Drive To Survive fue (es) una serie documental (en la plataforma Netflix) que ayudó a la máxima categoría del automovilismo a potenciar su marca y su difusión, que colaboró direc… [+8888 chars]"
     }
   ]
 }
