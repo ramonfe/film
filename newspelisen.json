@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1001,
+  "TotalResults": 1002,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "/FILM"
+      },
+      "Author": "Anya Stanley",
+      "Title": "Futuristic London Could Have Served As The Setting For Army Of Darkness 2",
+      "Description": "With the release of the trailer for the fifth \"Evil Dead\" installment, \"Evil Dead Rise,\" fans are surprised to see the influential cabin-in-the-woods element that the Sam Raimi-created splatter-horror movies are known for (in addition to mainstay hero Bruce C…",
+      "Url": "https://www.slashfilm.com/1161861/futuristic-london-could-have-served-as-the-setting-for-army-of-darkness-2/",
+      "UrlToImage": "https://www.slashfilm.com/img/gallery/futuristic-london-could-have-served-as-the-setting-for-army-of-darkness-2/l-intro-1673320147.jpg",
+      "PublishedAt": "2023-01-14T23:00:00Z",
+      "Content": "With the release of the trailer for the fifth \"Evil Dead\" installment, \"Evil Dead Rise,\" fans are surprised to see the influential cabin-in-the-woods element that the Sam Raimi-created splatter-horro… [+1348 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-11T19:23:37Z",
       "Content": "<li>2D: Enabled Sprite Library Assets to now be dragged and dropped into the scene, hierarchy, and inspector.\r\n</li><li>2D: Enabled the ability to select mipmap streaming for textures imported with t… [+149835 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Spotlight Special",
-      "Title": "‘The Magician’s Elephant’: See cast members, expected release date of this upcoming animation movie",
-      "Description": "Netflix is going to come up with a new animated feature film ‘The Magician’s Elephant’. It seems to be a part of the streaming platform’s effort to ramp up its output of animated content in recent years.",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/the-magicians-elephant-see-cast-members-expected-release-date-of-this-upcoming-animation-movie/articleshow/96920565.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-96920598,width-1070,height-580,imgsize-954774,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-01-11T19:21:49Z",
-      "Content": "A new animated feature film The Magicians Elephant may get released on Netflix this year. This Netflix Original family film is being directed by Wendy Rogers and has been written by Martin Hynes, who… [+1853 chars]"
     }
   ]
 }
