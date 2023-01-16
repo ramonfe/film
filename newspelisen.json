@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 951,
+  "TotalResults": 952,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "The Associated Press",
+      "Title": "The Italian film legend Gina Lollobrigida has died at age 95",
+      "Description": "ROME — Italian film legend Gina Lollobrigida, who achieved international stardom during the 1950s and was dubbed \"the most beautiful woman in the world\" after the title of one of her movies, died in Rome on Monday, her agent said. She was 95.\nThe agent, Paola…",
+      "Url": "https://www.npr.org/2023/01/16/1149393116/italian-film-legend-gina-lollobrigida-dies-at-age-95",
+      "UrlToImage": "https://media.npr.org/assets/img/2023/01/16/ap230164366932431_wide-87578851f9139fe271fa71e0ddf4bf3425bce83b-s1400-c100.jpg",
+      "PublishedAt": "2023-01-16T16:01:34Z",
+      "Content": "A photo taken in the 50s of Italian actress Gina Lollobrigida. Lollobrigida, who embodied the Italian stereotype of Mediterranean beauty and was dubbed \"the most beautiful woman in the world\" after t… [+4749 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.slashfilm.com/img/gallery/john-wayne-early-b-movie-westerns-taught-him-an-acting-lesson-hed-never-forget/l-intro-1673490098.jpg",
       "PublishedAt": "2023-01-12T02:24:58Z",
       "Content": "In the realm of film criticism, people tend to put too much emphasis on classifying cinema as either the \"best\" or the \"worst.\" Movies can certainly be bad or good, but often there are enough things … [+1114 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Times Of India",
-      "Title": "Veera Simha Reddy release LIVE updates",
-      "Description": "Nandamuri Balakrishna is back on the big screen with his most-awaited movie of the year, 'Veera Simha Reddy'. The film, which casts a gamut of stars,",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/veera-simha-reddy-movie-review-box-office-collect-and-release-live-updates-vsr-review-nandamuri-balakrishna-honey-rose-shruti-haasan-veera-simha-reddy-review/liveblog/96925442.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-96925442,width-1070,height-580,imgsize-116168,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2023-01-12T02:18:49Z",
-      "Content": "Technical crew of 'Veera Simha Reddy'\r\nRishi Punjabi is taking care of the cinematography, National Award-winning Navin Nooli is presiding over the editing table and A.S. Prakash is the production de… [+3439 chars]"
     }
   ]
 }
