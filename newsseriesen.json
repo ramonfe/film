@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The tech industry still has a long way to go when it comes to accessibility",
+      "Description": "As many in the accessibility community will tell you, inclusive design isn’t an endeavor that’s “one and done.” It’s a continuous, ongoing effort to ensure that as new products and services are made, people with different needs or disabilities aren’t left out…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170131654",
+      "UrlToImage": null,
+      "PublishedAt": "2023-01-16T15:14:03Z",
+      "Content": "As many in the accessibility community will tell you, inclusive design isn’t an endeavor that’s “one and done.” It’s a continuous, ongoing effort to ensure that as new products and services are made,… [+14000 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
