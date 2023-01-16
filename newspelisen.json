@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 955,
+  "TotalResults": 956,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "WBUR"
+      },
+      "Author": "Mia Estrada, NPR",
+      "Title": "This 'Popcorn Guy' wows Texas movie-goers and TikTok",
+      "Description": "At a theater in Texas, the “Popcorn Guy” is a new TikTok sensation working behind the counter, making popcorn of a particularly buttery variety.\nNPR’s Mia Estrada reports.\nThis article was originally published on WBUR.org. Copyright 2023 NPR. To see more, vis…",
+      "Url": "https://www.wbur.org/hereandnow/2023/01/16/texas-popcorn-guy-tiktok",
+      "UrlToImage": "https://media.wbur.org/wp/2016/06/HereandNow-3000b.jpg",
+      "PublishedAt": "2023-01-16T18:33:00Z",
+      "Content": "At a theater in Texas, the \"Popcorn Guy\" is a new TikTok sensation working behind the counter, making popcorn of a particularly buttery variety.\r\nNPR's Mia Estrada reports."
+    },
     {
       "Source": {
         "Id": "fox-news",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://nextcity.org/images/daily/_resized/vadim-morozov-GsonNDSTGE0-unsplash.jpeg",
       "PublishedAt": "2023-01-12T11:00:00Z",
       "Content": "This story was originally republished by Reasons to be Cheerful.\r\nWhen Andy Johansen first visited Helsinkis Oodi Library in early 2020 he was struck with amazement by the elegant three-story mass of… [+8963 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Rediff.com"
-      },
-      "Author": "SUKANYA VERMA",
-      "Title": "The Best Vishal Bhardwaj Movie? VOTE!",
-      "Description": "Before Kuttey's release, co-produced and co-penned by VB, Sukanya Verma takes a look back at the filmmaker's unique body of work.",
-      "Url": "https://www.rediff.com/movies/special/the-best-vishal-bhardwaj-movie-vote/20230112.htm",
-      "UrlToImage": "https://im.rediff.com/movies/2023/jan/11vishal-bhardwaj-best1.jpg",
-      "PublishedAt": "2023-01-12T06:48:29Z",
-      "Content": "Versatile not just in thought but talent too, Vishal Bhardwaj's prowess at composing melodies, singing sublime tunes, writing scripts along with masterful direction makes him one of the most consumma… [+6831 chars]"
     }
   ]
 }
