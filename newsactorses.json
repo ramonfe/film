@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 882,
+  "TotalResults": 883,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": "https://www.facebook.com/bbcnews",
+      "Title": "Brendan Fraser: el emotivo discurso del actor después de ganar un premio por su primer papel en 12 años",
+      "Description": "Fraser se llevó el premio que entregan en Hollywood los críticos de cine a mejor actor y hay expectativas sobre la posibilidad de que reciba una nominacón al Óscar de la Academia.",
+      "Url": "https://www.bbc.com/mundo/noticias-64296365",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/EFB1/production/_128316316_gettyimages-1456678429.jpg",
+      "PublishedAt": "2023-01-16T17:19:50Z",
+      "Content": "<ul><li>Emma Saunders</li><li>Corresponsal de entretenimiento</li></ul>\r\nFuente de la imagen, Getty Images\r\nPie de foto, El rol en La Ballena es el primer gran papel de Fraser en 12 años.\r\nLa estrell… [+1802 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn2.excelsior.com.mx/media/pictures/2023/01/13/2888319.jpg",
       "PublishedAt": "2023-01-14T03:33:41Z",
       "Content": "Continuando con la narrativa visual lanzada en otoño 2022 con la actriz y cantante Maya Hawke y el futbolista profesional Romelu Lukaku, Calvins or Nothing ha sido protagonizada por otros talentos de… [+1243 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Marcelo Stiletano",
-      "Title": "Y el Oscar es para... el actor que rechazó el premio con las palabras más duras jamás dirigidas contra la Academia de Hollywood",
-      "Description": "George C. Scott, consagrado por su personificación del general Patton en el film homónimo de 1970, calificó a la distinción más importante de la industria del cine como “obscena, bárbara e intrínsecamente corrupta”, pero el reconocimiento nunca fue retirado",
-      "Url": "https://suscripciones.lanacion.com.ar/suscripcion/E/1/1/?callback=aHR0cHM6Ly93d3cubGFuYWNpb24uY29tLmFyL2VzcGVjdGFjdWxvcy9jaW5lL3ktZWwtb3NjYXItZXMtcGFyYS1lbC1hY3Rvci1xdWUtcmVjaGF6by1lbC1wcmVtaW8tY29uLWxhcy1wYWxhYnJhcy1tYXMtZHVyYXMtamFtYXMtZGlyaWdpZGFzLWNvbnRyYS1uaWQxNDAxMjAyMy8/Uj05YzVlNmI=",
-      "UrlToImage": null,
-      "PublishedAt": "2023-01-14T03:00:00Z",
-      "Content": "¿Qué es el Acceso Digital?\r\nEs la opción para navegar sin límites en LA NACION desde el sitio web o con la app, acceder a la edición impresa del diario y las revistas (OHLALÁ!, Lugares, Living, ¡HOLA… [+280 chars]"
     }
   ]
 }
