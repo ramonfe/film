@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 954,
+  "TotalResults": 955,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Associated Press",
+      "Title": "Pennsylvania teen dies after being shot in movie theater in what police believe was a 'targeted' attack",
+      "Description": "A 19-year-old who was shot at a movie theater in Pennsylvania has died of his injuries. Police believe the victim of the shooting was \"specifically targeted.\"",
+      "Url": "https://www.foxnews.com/us/pennsylvania-teen-dies-being-shot-movie-theater-police-believe-targeted-attack",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/ALL_CUSTOM_FS_LOCAL_NEWS_PA_GENERAL.png",
+      "PublishedAt": "2023-01-16T18:13:59Z",
+      "Content": "Authorities say a man shot in a movie theater in eastern Pennsylvania over the weekend has died of his injuries and a suspect is being sought.\r\nState police in Luzerne County said the victim was stru… [+1273 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://im.rediff.com/movies/2023/jan/11vishal-bhardwaj-best1.jpg",
       "PublishedAt": "2023-01-12T06:48:29Z",
       "Content": "Versatile not just in thought but talent too, Vishal Bhardwaj's prowess at composing melodies, singing sublime tunes, writing scripts along with masterful direction makes him one of the most consumma… [+6831 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "Disney+ Hotstar to release Avatar- The Way of Water soon. Here are all the details about dates and plans",
-      "Description": "After mega success in theaters worldwide, the movie fans are eagerly waiting for its release on online streaming apps. As per reports, like its first installment, Avatar: The Way of Water or Avatar 2 will be released on Disney Plus Hotstar soon. However, ther…",
-      "Url": "https://economictimes.indiatimes.com/industry/media/entertainment/disney-hotstar-to-release-avatar-the-way-of-water-soon-here-are-all-the-details-about-dates-and-plans/articleshow/96930640.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-96931952,width-1070,height-580,imgsize-44356,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-01-12T06:47:43Z",
-      "Content": "There is a good news for the fans of Avatar movie fans. As per reports, the much-anticipated Avatar, The Way of Water, is expected to be released on OTTs for online streaming. The James Cameron-direc… [+1800 chars]"
     }
   ]
 }
