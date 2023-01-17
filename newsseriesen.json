@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 85,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Mac Observer"
+      },
+      "Author": "Ken_Ray",
+      "Title": "It Used to Be a Rumor",
+      "Description": "It’s new Mac Tuesday, notes from financial folk, and Apple honors MLK.\n\n\n\nApple Brings M2 Pro and M2 Max to MacBook Pro and Mac mini\n\n\n\nApple unwrapped new 14-inch and 16-inch MacBook models today, powering them with the M2 Pro and M2 Max chipsets. We’d heard…",
+      "Url": "https://www.macobserver.com/columns-opinions/observation-deck/it-used-to-be-a-rumor/",
+      "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/09/The-Daily-Observation-Deck-Feature.jpg",
+      "PublishedAt": "2023-01-17T16:32:37Z",
+      "Content": "Its new Mac Tuesday, notes from financial folk, and Apple honors MLK.\r\nApple Brings M2 Pro and M2 Max to MacBook Pro and Mac mini\r\nApple unwrapped new 14-inch and 16-inch MacBook models today, poweri… [+9811 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "'The Last of Us' is HBO's third largest debut of the streaming era",
+      "Description": "If you enjoyed HBO's take on The Last of Us , you're far from alone. WarnerMedia has revealed that the video game adaptation racked up 4.7 million viewers on conventional and streaming TV for its January 15th premiere, making it HBO's third largest debut of t…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170144528",
+      "UrlToImage": null,
+      "PublishedAt": "2023-01-17T16:13:20Z",
+      "Content": "If you enjoyed HBO's take on The Last of Us, you're far from alone. WarnerMedia has revealed that the video game adaptation racked up 4.7 million viewers on conventional and streaming TV for its Janu… [+1498 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Jon Fingas",
+      "Title": "'The Last of Us' is HBO's third largest debut of the streaming era",
+      "Description": "If you enjoyed HBO's take on The Last of Us, you're far from alone. WarnerMedia has revealed that the video game adaptation racked up 4.7 million viewers on conventional and streaming TV for its January 15th premiere, making it HBO's third largest debut of th…",
+      "Url": "https://www.engadget.com/the-last-of-us-hbo-debut-viewers-155019850.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/10d3a700-9680-11ed-a453-3404aadddd16",
+      "PublishedAt": "2023-01-17T15:50:19Z",
+      "Content": "If you enjoyed HBO's take on The Last of Us, you're far from alone. WarnerMedia has revealed that the video game adaptation racked up 4.7 million viewers on conventional and streaming TV for its Janu… [+1498 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -827,19 +866,6 @@
         "Id": null,
         "Name": "The Daily Dot"
       },
-      "Author": "Tiffany Kelly",
-      "Title": "The perfect streaming service",
-      "Description": "The Netflix activity log is one of the most frightening pieces of data you can access about yourself online. With a click of a button, you can see every piece of content you (and the people you share your account with) watched, even if it was a movie you put …",
-      "Url": "https://www.dailydot.com/unclick/ideal-streaming-service-2022-2023/",
-      "UrlToImage": "https://uploads.dailydot.com/2022/12/streaming-too-many-services.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2022-12-22T21:00:00Z",
-      "Content": "The Netflix activity log is one of the most frightening pieces of data you can access about yourself online. With a click of a button, you can see every piece of content you (and the people you share… [+4267 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
       "Author": "Michelle Jaworski",
       "Title": "What happens when your favorite TV show gets canceled?",
       "Description": "When it comes to saving shows from cancellation, connoisseurs of TV history or fandom stalwarts are familiar with the greatest hits. \n\n\nThey know about the letter-writing campaign that got NBC to change its mind about canceling Star Trek, which paved the way …",
@@ -847,6 +873,19 @@
       "UrlToImage": "https://uploads.dailydot.com/2022/12/streaming-campaigns.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2022-12-22T21:00:00Z",
       "Content": "When it comes to saving shows from cancellation, connoisseurs of TV history or fandom stalwarts are familiar with the greatest hits. \r\nThey know about the letter-writing campaign that got NBC to chan… [+25734 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Tiffany Kelly",
+      "Title": "The perfect streaming service",
+      "Description": "The Netflix activity log is one of the most frightening pieces of data you can access about yourself online. With a click of a button, you can see every piece of content you (and the people you share your account with) watched, even if it was a movie you put …",
+      "Url": "https://www.dailydot.com/unclick/ideal-streaming-service-2022-2023/",
+      "UrlToImage": "https://uploads.dailydot.com/2022/12/streaming-too-many-services.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2022-12-22T21:00:00Z",
+      "Content": "The Netflix activity log is one of the most frightening pieces of data you can access about yourself online. With a click of a button, you can see every piece of content you (and the people you share… [+4267 chars]"
     },
     {
       "Source": {
