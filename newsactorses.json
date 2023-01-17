@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 895,
+  "TotalResults": 896,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Javier Rigau: «Me despedí de Gina el viernes en Roma. Todo es muy triste»",
+      "Description": "Ayer falleció Gina Lollobrigida a los 95 años en Roma, en la clínica privada Pío XI, donde se encontraba ingresada. Fue el pasado mes de septiembre cuando la italiana se rompió el fémur, tras una caída en su domicilio. Una dolencia de la que no consiguió recu…",
+      "Url": "https://www.abc.es/gente/javier-rigau-despedi-gina-viernes-roma-triste-20230117204927-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2023/01/16/gina-rigau-U67607014732fcM-1024x512@abc.jpg",
+      "PublishedAt": "2023-01-17T02:37:47Z",
+      "Content": "Ayer falleció Gina Lollobrigida a los 95 años en Roma, en la clínica privada Pío XI, donde se encontraba ingresada. Fue el pasado mes de septiembre cuando la italiana se rompió el fémur, tras una caí… [+3120 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/01/14/consuelo-duval-instagram.jpg",
       "PublishedAt": "2023-01-15T05:02:02Z",
       "Content": "Consuelo Duval es una celebridad mexicana que actualmente goza de mucho reconocimiento por su labor como conductora del programa Netas Divinas, pero su salto a la fama ocurrió hace algunos años graci… [+1482 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Núria Navarro",
-      "Title": "Anabel Alonso, ganadora del 'talent' culinario: \"No he visto manos negras en 'MasterChef'\"",
-      "Description": "A flexibilidad (y atrevimiento) le ganan pocos. Tanto te protagoniza una telenovela de tarde, como te imita a Rafaella Carrà o al Chombo en un 'talent' musical, pone en pie una 'Celestina' estrena a finales de abril, le da chispa a una gala de cine o incendia…",
-      "Url": "https://www.elperiodico.com/es/la-contra/20230115/anabel-alonso-ganadora-masterchef-81147554",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/92c97dda-afaf-4b5d-96f0-9ec4e1bd31fa_source-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-01-15T05:00:14Z",
-      "Content": "A flexibilidad (y atrevimiento) le ganan pocos. Tanto te protagoniza una telenovela de tarde, como te imita a Rafaella Carrà o al Chombo en un 'talent' musical, pone en pie una 'Celestina' –estrena a… [+4283 chars]"
     }
   ]
 }
