@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1135,
+  "TotalResults": 1136,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Netflix canceló una serie animada para adultos y dejó a sus seguidores sin tercera temporada",
+      "Description": "La plataforma de streaming decidió finalizar la emisión de Dead End; su director, Hamish Steele, se encargó de darle la noticia a los seguidores mediante en su cuenta de Twitter",
+      "Url": "https://www.lanacion.com.ar/espectaculos/netflix-cancelo-una-serie-animada-para-adultos-y-dejo-a-sus-seguidores-sin-tercera-temporada-nid17012023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/eJKvuvLxPfVreemOgfurBd3W_bU=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UPZOAIVW2JFZ5KEPCFHBFE2III.jpg",
+      "PublishedAt": "2023-01-18T02:01:32Z",
+      "Content": "Los primeros días del 2023 comenzaron con novedades para los fanáticos de las series de Netflix. Es que la plataforma estadounidense, en su afán de cambiar su biblioteca digital para sus clientes, pr… [+2126 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.ecartelera.com/noticias/71900/71907-m.jpg",
       "PublishedAt": "2023-01-16T15:20:00Z",
       "Content": "Ya ha llegado a HBO Max el primer episodio de 'The Last of Us', la serie que la crítica internacional ha calificado como la mejor adaptación de un videojuego hasta la fecha. Los showrunners de la ser… [+2504 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Muycomputer.com"
-      },
-      "Author": "Eduardo Medina",
-      "Title": "HBO Max publica el tráiler de lanzamiento de la serie de «The Last of Us»",
-      "Description": "La plataforma HBO Max espera estrenar el año 2023 bien fuerte con la serie de The Last of Us, la adaptación del conocido videojuego desarrollado por Naughty Dog y que forma parte de Sony PlayStation. A estas alturas The Last of Us es un videojuego que no requ…",
-      "Url": "https://www.muycomputer.com/2023/01/16/the-last-of-us-serie-trailer-hbo-max/",
-      "UrlToImage": "https://www.muycomputer.com/wp-content/uploads/2023/01/The-Last-Of-Us-1000x600.jpg",
-      "PublishedAt": "2023-01-16T15:18:31Z",
-      "Content": "La plataforma HBO Max espera estrenar el año 2023 bien fuerte con la serie de The Last of Us, la adaptación del conocido videojuego desarrollado por Naughty Dog y que forma parte de Sony PlayStation.… [+2593 chars]"
     }
   ]
 }
