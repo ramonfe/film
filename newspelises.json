@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 175,
+  "TotalResults": 176,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Randy Meeks",
+      "Title": "'La piedad' de Eduardo Casanova se proyecta solo en 20 cines... pero no hay ninguna mano negra detrás (ni es necesariamente un fracaso)",
+      "Description": "Todo lo que tenga que ver con Eduardo Casanova trae polémica. Todo, menos sus películas. Y es que 'La piedad' ha conseguido en su estreno 7700 euros o, lo que es lo mismo, una media de 385 euros por sala. De nada ha valido su paseo por todos los programas hab…",
+      "Url": "https://www.espinof.com/estrenos/piedad-se-proyecta-solo-veinte-cines-no-hay-ninguna-mano-negra-detras-necesariamente-fracaso",
+      "UrlToImage": "https://i.blogs.es/76732f/la-piedad/840_560.jpeg",
+      "PublishedAt": "2023-01-18T18:01:01Z",
+      "Content": "Todo lo que tenga que ver con Eduardo Casanova trae polémica. Todo, menos sus películas. Y es que 'La piedad'ha conseguido en su estreno 7700 euros o, lo que es lo mismo, una media de 385 euros por s… [+2219 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/b7ce83/boiling-point-film-still/840_560.jpeg",
       "PublishedAt": "2022-12-31T07:01:16Z",
       "Content": "El arte de cocinar, comer y beber pisa fuerte en la ficción audiovisual. En paralelo a la eclosión de los talent-shows televisivos, las series documentales y los festivales especializados como el Cul… [+8998 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Marcelo Stiletano",
-      "Title": "Taquilla: en dos semanas, Avatar 2 superó el millón de entradas vendidas en los cines argentinos",
-      "Description": "En un diciembre atípico por el Mundial y las fiestas, la película de James Cameron acaparó la atención del público de manera excluyente: el último jueves la vieron ocho de cada 10 personas que fueron al cine en nuestro pais",
-      "Url": "https://www.lanacion.com.ar/espectaculos/cine/en-dos-semanas-avatar-2-supero-el-millon-de-entradas-vendidas-en-los-cines-argentinos-nid30122022/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/qU7y3HI9YDdGu-vG-nx0ujJ8KnI=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/CTACBQCLWVGL3LBYW3BVWKA5QU.jpg",
-      "PublishedAt": "2022-12-30T19:28:37Z",
-      "Content": "En apenas 15 días Avatar, el camino del agua alcanzó el millón de entradas vendidas y cerró de la mejor manera para el mercado del cine en la Argentina un año lleno de altibajos, en el que se alterna… [+4405 chars]"
     }
   ]
 }
