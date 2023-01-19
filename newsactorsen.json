@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1005,
+  "TotalResults": 1012,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "ABC News",
+      "Title": "Actor Alec Baldwin to be charged over Rust shooting",
+      "Description": "Halyna Hutchins was killed when a revolver Baldwin was rehearsing with during filming in New Mexico fired a live round that hit her and movie director Joel Souza, who survived.",
+      "Url": "https://www.abc.net.au/news/2023-01-20/actor-alec-baldwin-to-be-charged-over-fatal-on-set-shooting/101874676",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/d6564786085d7a0523dea3a31b5d0bda?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=226&width=862&height=485",
+      "PublishedAt": "2023-01-19T18:42:03Z",
+      "Content": "A New Mexico prosecutor has announced she will charge actor Alec Baldwin and others over the fatal shooting of cinematographer Halyna Hutchins during the filming of Rust.\r\n<ul><li>Actor Alec Baldwin … [+3243 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Worldsoccertalk.com"
+      },
+      "Author": "Kyle Fansler",
+      "Title": "Ted Lasso season three details announced",
+      "Description": "In Spring 2023, Apple TV+ releases season three of its hit TV show Ted Lasso. The two-time Emmy-Award-winning show captured hearts beyond just soccer fans. Now, it enters what could be its final season. Season two left fans on a cliffhanger. Spoilers ahead, i…",
+      "Url": "https://worldsoccertalk.com/tv/ted-lasso-season-three-details-announced-20230119-WST-416142.html",
+      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20230119_WST_416142_Ted-Lasso-season-three.jpg[ampersand]width=1200[ampersand]height=740",
+      "PublishedAt": "2023-01-19T18:13:28Z",
+      "Content": "In Spring 2023, Apple TV+ releases season three of its hit TV show Ted Lasso. The two-time Emmy-Award-winning show captured hearts beyond just soccer fans. Now, it enters what could be its final seas… [+1516 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tyler Treese",
+      "Title": "That ’90s Show Interview: Kurtwood Smith on Reprising Red Forman",
+      "Description": "ComingSoon Editor-in-Chief Tyler Treese spoke to That ’90s Show star Kurtwood Smith about Netflix’s sequel series, which is now streaming. The actor discussed reprising the role of Red Forman and how his character has changed. “Hello, Wisconsin! It’s 1995 and…",
+      "Url": "https://www.comingsoon.net/?p=1261793",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/kurtwood-smith-header.png?resize=1200,630",
+      "PublishedAt": "2023-01-19T18:00:09Z",
+      "Content": "ComingSoon Editor-in-Chief Tyler Treese spoke to That 90s Show star Kurtwood Smith about Netflixs sequel series, which is now streaming. The actor discussed reprising the role of Red Forman and how h… [+5141 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -19,6 +58,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Euronews"
+      },
+      "Author": null,
+      "Title": "Actor Alec Baldwin to be charged in 2021 on-set shooting",
+      "Description": "Prosecutors announced Thursday that actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer who was killed in 2021 on a New Mexico movie set.",
+      "Url": "https://www.euronews.com/2023/01/19/actor-alec-baldwin-to-be-charged-in-2021-on-set-shooting",
+      "UrlToImage": "https://static.euronews.com/articles/stories/07/31/72/30/1000x563_cmsv2_6c90fa78-81ed-5e71-91e7-6749f70885cf-7317230.jpg",
+      "PublishedAt": "2023-01-19T17:45:56Z",
+      "Content": "Prosecutors announced Thursday that actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer who was killed in 2021 on a Ne… [+2913 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Biztoc.com"
       },
       "Author": "nytimes.com",
@@ -28,6 +80,19 @@
       "UrlToImage": "https://c.biztoc.com/p/c6ba74fc7a9ee242/og.webp",
       "PublishedAt": "2023-01-19T17:45:09Z",
       "Content": "When You Finish Saving the World is, for better or worse, exactly the movie one would expect from the actor, writer and playwright Jesse Eisenberg: wordy, whiny and self-consciously wry. Adapted from… [+321 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Extra"
+      },
+      "Author": "Extra Staff",
+      "Title": "Alec Baldwin Facing Involuntary Manslaughter Charges in ‘Rust’ Shooting",
+      "Description": "Alec Baldwin and armorer Hannah Gutierrez-Reed are facing criminal charges in connection with the shooting death of cinematographer Halyna Hutchins on the set of the film “Rust” in 2021.\n New Mexico First Judicial District Attorney Mary Carmack-Altwies announ…",
+      "Url": "https://extratv.com/2023/01/19/alec-baldwin-facing-involuntary-manslaughter-charges-in-rust-shooting/",
+      "UrlToImage": "https://extra-images.akamaized.net/image/2c/16by9/2021/10/22/2c235906c1d043e9ad86c51bda89c956_xl.jpg",
+      "PublishedAt": "2023-01-19T17:29:52Z",
+      "Content": "Alec Baldwin and armorer Hannah Gutierrez-Reed are facing criminal charges in connection with the shooting death of cinematographer Halyna Hutchins on the set of the film Rust in 2021.\r\nNew Mexico Fi… [+6213 chars]"
     },
     {
       "Source": {
@@ -486,6 +551,19 @@
     },
     {
       "Source": {
+        "Id": null,
+        "Name": "Extra"
+      },
+      "Author": "Extra Staff",
+      "Title": "Julian Sands Reported Missing After Hiking California’s Mount Baldy",
+      "Description": "British actor Julian Sands, who starred in “A Room with a View” and “Arachnophobia,” has been missing for nearly a week after going for a hike in California’s Mount Baldy area in the San Gabriel Mountains.\n San Bernardino County Sheriff Department Corporal Na…",
+      "Url": "https://extratv.com/2023/01/19/julian-sands-reported-missing-after-hiking-california-s-mount-baldy/",
+      "UrlToImage": "https://extra-images.akamaized.net/image/66/16by9/2023/01/19/6611ef40427441eeb640de9d8b772968_xl.jpg",
+      "PublishedAt": "2023-01-19T15:59:14Z",
+      "Content": "British actor Julian Sands, who starred in “A Room with a View” and “Arachnophobia,” has been missing for nearly a week after going for a hike in California’s Mount Baldy area in the San Gabriel Moun… [+1957 chars]"
+    },
+    {
+      "Source": {
         "Id": "independent",
         "Name": "Independent"
       },
@@ -665,6 +743,19 @@
       "UrlToImage": "https://c.biztoc.com/p/ba71c09d3f619386/og.webp",
       "PublishedAt": "2023-01-19T12:52:05Z",
       "Content": "Aaron Taylor-Johnson, 32, is being tipped to be the next James Bond.\r\nThe British actor found fame in 2008 when he appeared as heartthrob Robbie in the movie Angus, Thongs and Perfect Snogging, based… [+321 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "WLWT Cincinnati"
+      },
+      "Author": "Morgan Lee Associated Press",
+      "Title": "Prosecutors weigh options in fatal shooting by Alec Baldwin",
+      "Description": "Cinematographer Halyna Hutchins died shortly after being shot by actor Alec Baldwin during a rehearsal on the set of the Western movie “Rust\" on Oct. 21, 2021.",
+      "Url": "https://www.wlwt.com/article/rust-fatal-shooting-alec-baldwin/42560329",
+      "UrlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1674129498.jpg?crop=1.00xw:0.782xh;0,0.0333xh&resize=1200:*",
+      "PublishedAt": "2023-01-19T12:32:31Z",
+      "Content": "SANTA FE, N.M. —Actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer who was killed on a New Mexico movie set, prosecut… [+5250 chars]"
     },
     {
       "Source": {
@@ -1211,97 +1302,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4087891-screenshot2023-01-18at10.42.36am.png",
       "PublishedAt": "2023-01-18T16:31:00Z",
       "Content": "Actor Vin Diesel seemed to suggest in 2019 that he would be in James Cameron's Avatar movie series, but that will not be the case. Producer Jon Landau told Empire that Diesel's visit to the Avatar mo… [+1358 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Channing Tatum Discusses His Hatred for the G.I. JOE Movie and How He Pushed to Be Killed off in the Sequel",
-      "Description": "Channing Tatum has been very vocal about how much he hated being a part of 2009’s G.I. Joe: The Rise of Cobra. In a recent interview, the actor revealed that he tried to stay out of the movie and passed on it seven times before he was forced to do it due to c…",
-      "Url": "https://geektyrant.com/news/channing-tatum-discusses-his-hatred-for-the-gi-joe-movie-and-how-he-pushed-to-be-killed-off-in-the-sequel",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63c766cb531c0d1de4f19c09/1674059443714/channing-tatum-discusses-his-hatred-for-the-gi-joe-movie-and-how-he-pushed-to-be-killed-off-in-the-sequel.jpg?format=1500w",
-      "PublishedAt": "2023-01-18T16:30:00Z",
-      "Content": "Channing Tatum has been very vocal about how much he hated being a part of 2009s G.I. Joe: The Rise of Cobra. In a recent interview, the actor revealed that he tried to stay out of the movie and pass… [+2083 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NPR"
-      },
-      "Author": "John Powers",
-      "Title": "'Saint Omer' is a complex courtroom drama about much more than the murder at hand",
-      "Description": "When I was a kid, I used to watch Perry Mason every day after school. I was drawn to the show's black-and-white clarity. Perry always found out who was lying, who was telling the truth, who was guilty — and why. \nAs I grew older, I naturally discovered that t…",
-      "Url": "https://www.npr.org/2023/01/18/1149654068/saint-omer-movie-review-alice-diop",
-      "UrlToImage": "https://media.npr.org/assets/img/2023/01/18/saintomer_05_wide-0880ca0ee579d31f5c7b77fd80d2a8738ae401bc-s1400-c100.jpg",
-      "PublishedAt": "2023-01-18T16:06:59Z",
-      "Content": "Laurence Coly (Guslagie Malanda) confesses to causing the death of her baby daughter Elise in Saint Omer.\r\nvia Toronto Film Fest\r\nWhen I was a kid, I used to watch Perry Mason every day after school.… [+4312 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Star Online"
-      },
-      "Author": "The Star Online",
-      "Title": "Skip ‘Pulau’ if you’re not keen, says actor Ikmal",
-      "Description": "ACTOR Ikmal Amry, who is among the lead actors for the movie Pulau, has been nonchalant and advised those who are not keen on watching the movie to skip it. Read full story",
-      "Url": "https://www.thestar.com.my/news/nation/2023/01/19/skip-pulau-if-youre-not-keen-says-actor-ikmal",
-      "UrlToImage": "https://apicms.thestar.com.my/uploads/images/2023/01/19/1907632.jpg",
-      "PublishedAt": "2023-01-18T16:00:00Z",
-      "Content": "Compiled by IYLIA MARSYA ISKANDAR, C. ARUNO and R. ARAVINTHAN\r\nACTOR Ikmal Amry (pic), who is among the lead actors for the movie Pulau, has been nonchalant and advised those who are not keen on watc… [+2730 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Hugh Jackman Reveals How He's Getting Ripped For Wolverine in DEADPOOL 3 and It Doesn't Involve Steroids",
-      "Description": "Every time Hugh Jackman jumps into the role of Wolverine, the guy gets completely ripped! It’s like he gets in better and better shape every time he plays the character, and with Deadpool 3 coming up, he’s going through that crazy process of getting into supe…",
-      "Url": "https://geektyrant.com/news/hugh-jackman-reveals-how-hes-getting-ripped-for-wolverine-in-deadpool-3-and-it-doesnt-involve-steroids",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63c6cc37259d32142dac74a4/1674054029304/hugh-jackman-reveals-how-hes-getting-ripped-for-wolverine-in-deadpool-3-and-it-doesnt-involve-steroids.jpg?format=1500w",
-      "PublishedAt": "2023-01-18T15:00:00Z",
-      "Content": "Every time Hugh Jackmanjumps into the role of Wolverine, the guy gets completely ripped! Its like he gets in better and better shape every time he plays the character, and with Deadpool 3 coming up, … [+1862 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "123telugu.com"
-      },
-      "Author": null,
-      "Title": "Noted actress’s wedding to stream on Hotstar soon as a reality show - 123telugu",
-      "Description": "<ol><li>Noted actress’s wedding to stream on Hotstar soon as a reality show  123telugu\r\n</li><li>Hansika Motwani's wedding to become a Disney Plus Hotstar show? Here's what we know  India TV News\r\n</li><li>Hansika Motwani turns her wedding with Sohael Kathuri…",
-      "Url": "https://www.123telugu.com/mnews/noted-actresss-wedding-to-stream-on-hotstar-soon-as-a-reality-show.html",
-      "UrlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
-      "PublishedAt": "2023-01-18T15:00:00Z",
-      "Content": "Last year Netflix announced that it would be streaming actress Nayanthara’s wedding as a documentary. Now popular OTT platform Disney Plus Hotstar revealed that it would be streaming actress Hansika … [+931 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Vin Diesel Has Not Joined James Cameron's AVATAR Sequels",
-      "Description": "A few years ago Vin Diesel shared a video from the set of James Cameron’s Avatar sequels and it sparked reports that the Fast and Furious actor might be joining the Avatar sequels. In the video, Cameron said, “Okay, so here we are on the set of Avatar 2, 3, 4…",
-      "Url": "https://geektyrant.com/news/vin-diesel-has-not-joined-james-camerons-avatar-sequels",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63c6c860c26f2957540cd3e7/1674052228991/image-asset.jpg?format=1500w",
-      "PublishedAt": "2023-01-18T14:30:00Z",
-      "Content": "A few years ago Vin Dieselshared a video from the set ofJames Camerons Avatarsequels and it sparked reports that the Fast and Furious actor might be joining the Avatar sequels. \r\nIn the video, Camero… [+1670 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cbs-news",
-        "Name": "CBS News"
-      },
-      "Author": "CBS News",
-      "Title": "Actress Aisha Tyler on reviving her role on fan-favorite TV show \"Criminal Minds: Evolution\"",
-      "Description": "Actress Aisha Tyler joins \"CBS Mornings\" to share details on her new TV show revival \"Criminal Minds: Evolution,\" how it felt to return to her character and directing an episode for the new season.",
-      "Url": "https://www.cbsnews.com/video/actress-aisha-tyler-on-reviving-her-role-on-fan-favorite-tv-show-criminal-minds-evolution/",
-      "UrlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/18/bacaeed5-832e-4f10-81c1-3e743eef3cba/thumbnail/1200x630/1e964540490e5d8b6ec9bfc9e5bc9bdc/0118-cbsm-criminalminds-aishatyler-1634395-640x360.jpg",
-      "PublishedAt": "2023-01-18T14:12:23Z",
-      "Content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     }
   ]
 }
