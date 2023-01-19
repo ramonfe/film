@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1024,
+  "TotalResults": 1031,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Jim Carrey confesses he needed CIA training to endure the torture of filming 'The Grinch'",
+      "Description": "Actor Jim Carrey was one of the most sought-after movie stars of the 1990s and early 2000s as the performer excelled mainly in the comedy genre, where he stood out for his unique s",
+      "Url": "https://www.marca.com/en/lifestyle/movies/2023/01/19/63c9af29268e3e6a508b4593.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/49b06eac7cde1ab0f6729d5cd3b00863/resize/1200/f/jpg/assets/multimedia/imagenes/2023/01/19/16741547969031.jpg",
+      "PublishedAt": "2023-01-19T21:15:32Z",
+      "Content": "Actor Jim Carrey was one of the most sought-after movie stars of the 1990s and early 2000s as the performer excelled mainly in the comedy genre, where he stood out for his unique sense of humour, his… [+1929 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Boston Herald"
+      },
+      "Author": "Todd Prussman",
+      "Title": "Alec Baldwin to be charged with manslaughter in set shooting",
+      "Description": "Actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer on a New Mexico movie set, prosecutors announced Thursday, citing a \"criminal disregard for safety.\"",
+      "Url": "https://www.bostonherald.com/2023/01/19/alec-baldwin-to-be-charged-with-manslaughter-in-set-shooting-3/",
+      "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/01/GettyImages-1447265343.jpg?w=1024&h=683",
+      "PublishedAt": "2023-01-19T20:58:12Z",
+      "Content": "SANTA FE, N.M. Actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer on a New Mexico movie set, prosecutors announced Th… [+2786 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Insurance Journal"
+      },
+      "Author": "admin",
+      "Title": "New Mexico DA Charging Baldwin, Armorer in Movie Set Death",
+      "Description": "New Mexico First Judicial District Attorney Mary Carmack-Altwies announced on Thursday that her office will file criminal charges in the “Rust” film-set shooting against actor and producer Alec Baldwin and armorer Hannah Gutierrez-Reed. Each will be charged w…",
+      "Url": "https://www.insurancejournal.com/news/west/2023/01/19/703785.htm",
+      "UrlToImage": "https://www.insurancejournal.com/app/uploads/2013/12/Gun1.jpg",
+      "PublishedAt": "2023-01-19T20:53:03Z",
+      "Content": "New Mexico First Judicial District Attorney Mary Carmack-Altwies announced on Thursday that her office will file criminal charges in the “Rust” film-set shooting against actor and producer Alec Baldw… [+2458 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -44,6 +83,19 @@
     },
     {
       "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Ray Sanchez",
+      "Title": "Why Santa Fe district attorney decided to charge Alec Baldwin over 'Rust' shooting",
+      "Description": "Actor Alec Baldwin will be charged with two counts of involuntary manslaughter in the fatal shooting of cinematographer  Halyna Hutchins on the set of the Western movie \"Rust,\" as will the armorer who oversaw all weapons used in the production.",
+      "Url": "https://www.cnn.com/2023/01/19/us/santa-fe-alec-baldwin-rust-charged/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230119093914-01-baldwin-rust-shooting-file-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2023-01-19T20:23:02Z",
+      "Content": "Actor Alec Baldwin will be charged with two counts of involuntary manslaughter in the fatal shooting of cinematographer Halyna Hutchins on the set of the Western movie Rust, as will the armorer who o… [+4096 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "KRGV"
       },
@@ -80,6 +132,32 @@
       "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/Y72Vrt9SRG7Qf1KN6kvf2fekQzM/0x447:3238x2147/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/01/19/834/n/1922153/73fae44463c993b1cfc4e1.23510611_.jpg",
       "PublishedAt": "2023-01-19T19:40:12Z",
       "Content": "Image Source: Getty / Axelle / Bauer-Griffin / Contributor\r\nJennifer Coolidge is providing nail inspiration that would make Tanya proud. On Jan. 18, the actor attended the premiere of the movie \"Shot… [+1031 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "Author": "Peter Bradshaw",
+      "Title": "Alec Baldwin remains brooding, defiant enigma in Rust shooting’s aftermath",
+      "Description": "Analysis: actor’s complex public persona remains intact as he faces charges in death of Halyna HutchinsWhatever else has happened, or will happen, in the vividly eventful career of movie star Alec Baldwin, his name is destined to be linked with that of cinema…",
+      "Url": "https://www.theguardian.com/film/2023/jan/19/alec-baldwin-rust-shooting-involuntary-manslaughter-charges-analysis",
+      "UrlToImage": "https://i.guim.co.uk/img/media/aa5284cf2afb57ceea3de6014f241fd95a6c3ef1/0_111_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9324bd269e3315729896c69325afaac4",
+      "PublishedAt": "2023-01-19T19:39:28Z",
+      "Content": "Whatever else has happened, or will happen, in the vividly eventful career of movie star Alec Baldwin, his name is destined to be linked with that of cinematographer Halyna Hutchins, whom he tragical… [+3612 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "WWD"
+      },
+      "Author": "Kristopher Fraser",
+      "Title": "Colton Haynes Gives ‘50s-Inspired Suit a Y2K-Approved Spin With Plaid Skirt at ’Teen Wolf: The Movie’ Premiere",
+      "Description": "The actor returns to the franchise that catapulted him to fame, reuniting with his former costars.",
+      "Url": "https://wwd.com/pop-culture/celebrity-news/colton-haynes-moschino-teen-wolf-movie-premiere-1235483797/",
+      "UrlToImage": "https://wwd.com/wp-content/uploads/2023/01/GF1_8785.jpg?w=717",
+      "PublishedAt": "2023-01-19T19:29:30Z",
+      "Content": "Colton Haynes arrived on the red carpet for the premiere of “Teen Wolf: The Movie” on Jan. 18 in Los Angeles, wearing a new-generation spin on ‘50s menswear.\r\nIn honor of the premiere of his new movi… [+1644 chars]"
     },
     {
       "Source": {
@@ -565,6 +643,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "WXYZ"
+      },
+      "Author": "Morgan Lee",
+      "Title": "Alec Baldwin to be charged with involuntary manslaughter in 'Rust' shooting",
+      "Description": "Prosecutors announced that actor Alec Baldwin will be charged with involuntary manslaughter in the fatal shooting of a cinematographer who was killed on a New Mexico movie set.",
+      "Url": "https://www.wxyz.com/news/alec-baldwin-to-be-charged-with-involuntary-manslaughter-in-rust-shooting",
+      "UrlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/2c661d3/2147483647/strip/true/crop/3500x1838+0+295/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F3e%2F59%2F73027a054da9aca8b5f2201d45bf%2Fap21322038150927.jpg",
+      "PublishedAt": "2023-01-19T16:16:34Z",
+      "Content": "SANTA FE, N.M. (AP) Prosecutors announced Thursday that actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer who was ki… [+4068 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Minneapolis Star Tribune"
       },
       "Author": "MORGAN LEE",
@@ -799,19 +890,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "CNA"
-      },
-      "Author": null,
-      "Title": "New Mexico to announce if Alec Baldwin to be charged in 'Rust' movie shooting",
-      "Description": "A New Mexico prosecutor on Thursday will announce a long-awaited decision on whether she will charge actor Alec Baldwin or others for fatally shooting cinematographer Halyna Hutchins in 2021 as Baldwin rehearsed a scene on the Western movie \"Rust.\"Hutchins wa…",
-      "Url": "https://www.channelnewsasia.com/cna-lifestyle/new-mexico-announce-if-alec-baldwin-be-charged-rust-movie-shooting-3218131",
-      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--A_ti4FLA--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-01-19t141843z_2_lynxmpej0i0kz_rtroptp_3_film-rust-shooting.jpg?itok=BS2r1ZE4",
-      "PublishedAt": "2023-01-19T14:05:05Z",
-      "Content": "A New Mexico prosecutor on Thursday will announce a long-awaited decision on whether she will charge actor Alec Baldwin or others for fatally shooting cinematographer Halyna Hutchins in 2021 as Baldw… [+1478 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Marketscreener.com"
       },
       "Author": "MarketScreener",
@@ -821,6 +899,19 @@
       "UrlToImage": "https://img.zonebourse.com/reuters/2023-01/2023-01-19T140505Z_1_LYNXMPEJ0I0L4_RTROPTP_3_BRITAIN-ROYALS-HARRY-MEGHAN.JPG",
       "PublishedAt": "2023-01-19T14:05:05Z",
       "Content": "Hutchins was killed and director Joel Souza was wounded when a gun Baldwin was using during a rehearsal in October 2021 fired off a live bullet.\r\nBaldwin has said he believed the gun was not loaded w… [+1261 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "New Mexico to announce if Alec Baldwin to be charged in 'Rust' movie shooting",
+      "Description": "A New Mexico prosecutor on Thursday will announce a long-awaited decision on whether she will charge actor Alec Baldwin or others for fatally shooting cinematographer Halyna Hutchins in 2021 as Baldwin rehearsed a scene on the Western movie \"Rust.\"Hutchins wa…",
+      "Url": "https://www.channelnewsasia.com/cna-lifestyle/new-mexico-announce-if-alec-baldwin-be-charged-rust-movie-shooting-3218131",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--A_ti4FLA--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-01-19t141843z_2_lynxmpej0i0kz_rtroptp_3_film-rust-shooting.jpg?itok=BS2r1ZE4",
+      "PublishedAt": "2023-01-19T14:05:05Z",
+      "Content": "A New Mexico prosecutor on Thursday will announce a long-awaited decision on whether she will charge actor Alec Baldwin or others for fatally shooting cinematographer Halyna Hutchins in 2021 as Baldw… [+1478 chars]"
     },
     {
       "Source": {
@@ -1155,10 +1246,10 @@
       "Author": "daily mail",
       "Title": "New Mexico DA will announce TOMORROW whether charges will be laid in fatal Rust shooting - more than one year after actor accidentally shot dead Halyna Hutchins on set",
       "Description": "Officials in New Mexico are set to deliver a decision on Thursday about whether or not they will pursue criminal charges against Alec Baldwin or others in the fatal shooting of a cinematographer on the set of Western movie Rust. Halyna Hutchins was killed by …",
-      "Url": "https://freerepublic.com/focus/f-chat/4124326/posts",
+      "Url": "https://freerepublic.com/focus/f-news/4124326/posts",
       "UrlToImage": null,
       "PublishedAt": "2023-01-18T23:42:41Z",
-      "Content": "Skip to comments.\r\nNew Mexico DA will announce TOMORROW whether charges will be laid in fatal Rust shooting - more than one year after actor accidentally shot dead Halyna Hutchins on setdaily mail ^P… [+6268 chars]"
+      "Content": "Skip to comments.\r\nNew Mexico DA will announce TOMORROW whether charges will be laid in fatal Rust shooting - more than one year after actor accidentally shot dead Halyna Hutchins on setdaily mail ^P… [+4033 chars]"
     },
     {
       "Source": {
@@ -1168,10 +1259,10 @@
       "Author": "daily mail",
       "Title": "New Mexico DA will announce TOMORROW whether charges will be laid in fatal Rust shooting - more than one year after actor accidentally shot dead Halyna Hutchins on set",
       "Description": "Officials in New Mexico are set to deliver a decision on Thursday about whether or not they will pursue criminal charges against Alec Baldwin or others in the fatal shooting of a cinematographer on the set of Western movie Rust. Halyna Hutchins was killed by …",
-      "Url": "https://freerepublic.com/focus/f-news/4124326/posts",
+      "Url": "https://freerepublic.com/focus/f-chat/4124326/posts",
       "UrlToImage": null,
       "PublishedAt": "2023-01-18T23:42:41Z",
-      "Content": "Skip to comments.\r\nNew Mexico DA will announce TOMORROW whether charges will be laid in fatal Rust shooting - more than one year after actor accidentally shot dead Halyna Hutchins on setdaily mail ^P… [+4033 chars]"
+      "Content": "Skip to comments.\r\nNew Mexico DA will announce TOMORROW whether charges will be laid in fatal Rust shooting - more than one year after actor accidentally shot dead Halyna Hutchins on setdaily mail ^P… [+6268 chars]"
     },
     {
       "Source": {
@@ -1211,97 +1302,6 @@
       "UrlToImage": "https://static.independent.co.uk/2023/01/18/23/Alec_Baldwin_Set_Shooting_07062.jpg?quality=75&width=1200&auto=webp",
       "PublishedAt": "2023-01-18T22:57:12Z",
       "Content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nA Santa Fe district attorney will announce Thursday … [+4555 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Knowyourmeme.com"
-      },
-      "Author": "Reddit Moments",
-      "Title": "Starter Packs | c74.jpg",
-      "Description": "KIDOSHERE\r\nWas an actor on\r\na successful\r\nmovie\r\nLooks good\r\nin red\r\nGORDY'S\r\nHOME!\r\nDeeply traumatic\r\nexpirence on a TV\r\nshow\r\nCowboy theme park\r\nowner starter pack\r\nSurvived a\r\nchimpanzee attack\r\nShil\r\nTheme park is\r\nfailing\r\nHas a\r\nloving\r\nwife and\r\nthree …",
-      "Url": "https://knowyourmeme.com/photos/2515987-starter-packs",
-      "UrlToImage": "https://i.kym-cdn.com/photos/images/facebook/002/515/987/c74.jpg",
-      "PublishedAt": "2023-01-18T22:03:20Z",
-      "Content": "PROTIP:\r\nPress the ← and → keys to navigate the gallery,\r\n'g'\r\nto view the gallery, or\r\n'r'\r\nto view a random image."
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "marca.com",
-      "Title": "The shocking secret behind Margot Robbie's nude scenes in the Wolf of Wall Street with DiCaprio",
-      "Description": "Margot Robbie has revealed a shocking secret behind her nude scenes on the set of her hit movie &apos;The Wolf of Wall Street&apos; alongside Leonardo DiCaprio. The actress said th",
-      "Url": "https://www.marca.com/en/lifestyle/movies/2023/01/18/63c8568a22601d072c8b45ab.html",
-      "UrlToImage": "https://phantom-marca.unidadeditorial.es/e6da37f829fac019022a5d92633b676d/resize/1200/f/jpg/assets/multimedia/imagenes/2023/01/18/16740625800036.jpg",
-      "PublishedAt": "2023-01-18T20:32:13Z",
-      "Content": "Margot Robbie has revealed a shocking secret behind her nude scenes on the set of her hit movie 'The Wolf of Wall Street' alongside Leonardo DiCaprio. The actress said there was a whole room full of … [+1265 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Entertainment Tonight"
-      },
-      "Author": "Aashna Shah",
-      "Title": "Raven-Symoné Reacts To Eddie Murphy Saying They Were ‘Too Old’ For ‘Dr. Dolittle 3’ (Exclusive)",
-      "Description": "Raven-Symoné is manifesting an onscreen reunion with her former movie dad! ET spoke with the actress at the Tuesday premiere of Netflix's new film, \"You People,\" which stars Raven-Symoné's former co-star, Eddie Murphy, as an overprotective dad. Murphy previou…",
-      "Url": "https://www.etonline.com/raven-symone-reacts-to-eddie-murphy-saying-they-were-too-old-for-dr-dolittle-3-exclusive-197551",
-      "UrlToImage": "https://etcanada.com/wp-content/uploads/2022/03/GettyImages-1329270968.jpg?quality=80&strip=all&w=720&h=480&crop=1",
-      "PublishedAt": "2023-01-18T20:27:30Z",
-      "Content": "Raven-Symoné is manifesting an onscreen reunion with her former movie dad! ET spoke with the actress at the Tuesday premiere of Netflix’s new film, “You People,” which stars Raven-Symoné’s former co-… [+2338 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tyler Treese",
-      "Title": "That ’90s Show Interview: Debra Jo Rupp on Returning as Kitty Forman",
-      "Description": "ComingSoon Editor-in-Chief Tyler Treese spoke to That ’90s Show star Debra Jo Rupp about Netflix’s sequel series, which begins streaming on January 19, 2023. The actress discussed returning to the role of Kitty Forman and working with a new generation of kids…",
-      "Url": "https://www.comingsoon.net/?p=1261406",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/debra-jo-rupp-interview-header.png?resize=1200,630",
-      "PublishedAt": "2023-01-18T20:00:00Z",
-      "Content": "ComingSoon Editor-in-Chief Tyler Treese spoke to That 90s Show star Debra Jo Rupp about Netflixs sequel series, which begins streaming on January 19, 2023. The actress discussed returning to the role… [+5269 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "SCREAM Creator Kevin Williamson Says That SCREAM VI Is a “Fresh Reinvention” and He Loves It",
-      "Description": "Scream franchise creator Kevin Williamson has seen Scream VI, and in a recent interview with SYFY Wire he shares his thoughts on the film, how much he loves it, and says it’s a “fresh reinvention” of the franchise.What makes this next chapter in the Scream fr…",
-      "Url": "https://geektyrant.com/news/scream-creator-kevin-williamson-says-that-scream-vi-is-a-fresh-reinvention-and-he-loves-it",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63c6da63b3a068657c021d61/1674072020375/Screen+Shot+2023-01-17+at+9.41.59+AM.jpg?format=1500w",
-      "PublishedAt": "2023-01-18T20:00:00Z",
-      "Content": "Scream franchise creator Kevin Williamsonhas seen Scream VI, and in a recent interview with SYFY Wire he shares his thoughts on the film, how much he loves it, and says its a fresh reinvention of the… [+2407 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Kvraudio.com"
-      },
-      "Author": null,
-      "Title": "What are you watching? (in: Off Topic)",
-      "Description": "By: mumpcake 18 Jan 19:52 My wife was watching coverage of the critics choice awards. They pointed out that these two: BEST ACTOR - Brendan Fraser – The Whale (A24) and BEST SUPPORTING ACTOR - Ke Huy Quan – Everything Everywhere All at Once (A24) Co-starred i…",
-      "Url": "https://www.kvraudio.com/forum/viewtopic.php?p=8599679&utm_source=my_latest_posts&utm_medium=rssfeed&utm_content=8599679#p8599679",
-      "UrlToImage": "https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png",
-      "PublishedAt": "2023-01-18T19:52:55Z",
-      "Content": "Pro Audio Forum - VST, AU, AAX Plugin and Audio Software Discussion\r\nSkip to content"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Taryn Ryder",
-      "Title": "Jeremy Renner's 'Mayor of Kingstown' poster altered after snowplow accident - Yahoo Canada",
-      "Description": "<ol><li>Jeremy Renner's 'Mayor of Kingstown' poster altered after snowplow accident  Yahoo Canada\r\n</li><li>911 calls released on actor Jeremy Renner snowplow accident near Reno  FOX5 Las Vegas\r\n</li><li>HAWKEYE Star Jeremy Renner's Recovery Could Take Years …",
-      "Url": "https://ca.news.yahoo.com/jeremy-renner-mayor-of-kingstown-snowplow-accident-192729903.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/yQvTSxxkVIiH0MZv8oC6gw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/8fe32a20-9784-11ed-bffe-26779bbbbccf",
-      "PublishedAt": "2023-01-18T19:27:29Z",
-      "Content": "A poster for Jeremy Renner's Mayor of Kingstown has been changed after his nearly fatal accident. (Photo: Reuters)\r\nMarketing images for Jeremy Renner's Paramount+ series Mayor of Kingstown have been… [+2792 chars]"
     }
   ]
 }
