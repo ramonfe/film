@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 987,
+  "TotalResults": 988,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "tclark@insider.com (Travis Clark)",
+      "Title": "'M3GAN' is getting a sequel after smashing the box office",
+      "Description": "The \"M3GAN\" sequel is set for release in 2025. The movie was made with a $12 million budget, and has earned nearly $100 million worldwide.",
+      "Url": "https://www.businessinsider.com/megan-2-m3gan-sequel-release-date-2023-1",
+      "UrlToImage": "https://i.insider.com/63c877a9eee94d001a78e032?width=1200&format=jpeg",
+      "PublishedAt": "2023-01-18T22:51:53Z",
+      "Content": "\"M3GAN\" is coming back.\r\nProduction studios Blumhouse and Atomic Monster announced on Wednesday that they've greenlit a sequel to their hit horror movie, about an AI-powered doll that torments any hu… [+1391 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/matt-reeves-interview-header.png?resize=1200,630",
       "PublishedAt": "2023-01-16T21:00:00Z",
       "Content": "ComingSoon Editor-in-Chief Tyler Treese spoke with Cloverfield and The Batman director Matt Reeves about found footage horror and meeting Steven Spielberg. Cloverfield is receiving a limited edition … [+6973 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Idris Elba's 'Luther: The Fallen Sun' Gets Netflix Release Date!",
-      "Description": "Idris Elba, alongside Netflix, have announced the date for his new Luther movie! In Luther: The Fallen Sun — an epic continuation of the award-winning television saga reimagined for film — a gruesome serial killer is terrorizing London while brilliant but dis…",
-      "Url": "http://www.justjared.com/2023/01/16/idris-elbas-luther-the-fallen-sun-gets-netflix-release-date/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/01/luther-date.jpg",
-      "PublishedAt": "2023-01-16T20:00:22Z",
-      "Content": "Idris Elba, alongside Netflix, have announced the date for his new Luther movie!\r\nIn Luther: The Fallen Sun an epic continuation of the award-winning television saga reimagined for film a gruesome se… [+647 chars]"
     }
   ]
 }
