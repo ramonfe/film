@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 92,
+  "TotalResults": 93,
   "Articles": [
     {
       "Source": {
@@ -15,6 +15,19 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-19T16:36:44Z",
       "Content": "Netflix has revealed it is releasing its first-ever Welsh language TV show on its platform.\r\nThe global streaming service said it has bought the licence for Dal y Mellt a gritty crime thriller which … [+3709 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DW (English)"
+      },
+      "Author": "Torsten Landsberg",
+      "Title": "The cult of the 90s: Everything old is new again",
+      "Description": "Remember \"That '70s Show\"? Netflix has revived the hit TV series with \"That '90s Show,\" a sequel that indulges in 1990s nostalgia. But what defined the era? The '90s: a decade when crop tops were in, casted boy bands were hot and the internet was still in the…",
+      "Url": "https://www.dw.com/en/the-cult-of-the-90s-everything-old-is-new-again/a-64451963",
+      "UrlToImage": "https://static.dw.com/image/64448954_6.jpg",
+      "PublishedAt": "2023-01-19T15:57:00Z",
+      "Content": "The '90s: a decade when crop tops were in, casted boy bands were hot and the internet was still in the early days of making its way into homes. On-demand streaming services like Netflix were still a … [+7622 chars]"
     },
     {
       "Source": {
@@ -132,6 +145,19 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20230118_WST_416015_uswnt-hbo-max-telemundo.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2023-01-18T17:54:16Z",
       "Content": "On this episode, we discuss US soccers debut on HBO Max and Telemundo, our thoughts on how TV broadcasters are getting more access during Premier League matches, your opinions about MLS Season Pass n… [+842 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.1.0a26",
+      "Description": "2023.1.0a26\n\n January 18, 2023\n \n unityhub://2023.1.0a26/dcd63ccf73a0\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL…",
+      "Url": "https://unity.com/releases/editor/alpha/2023.1.0a26",
+      "UrlToImage": null,
+      "PublishedAt": "2023-01-18T17:32:21Z",
+      "Content": "<li>2D: Enabled Sprite Library Assets to now be dragged and dropped into the scene, hierarchy, and inspector.\r\n</li><li>2D: Enabled the ability to select mipmap streaming for textures imported with t… [+155510 chars]"
     },
     {
       "Source": {
@@ -1185,19 +1211,6 @@
       "UrlToImage": "https://extra-images.akamaized.net/image/56/16by9/2022/05/31/565ba016df2d4168b32097d0e03cdb66_xl.jpeg",
       "PublishedAt": "2022-12-19T20:01:52Z",
       "Content": "IMDb has revealed its Top 10 TV Shows of 2022!\n Netflix show “Stranger Things” led the pack this year! Perennial hits like “Euphoria,” “The Boys,” “Ozark,” and “Better Call Saul” made the list too, w… [+506 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "EditorDavid",
-      "Title": "Streaming Services Are Ordering Fewer Series - Except for Amazon and Apple TV+",
-      "Description": "\"Peak TV has peaked,\" reports the new York Times:\n\nThe never-ending supply of new programming that helped define the streaming era — spawning shows at a breakneck pace but also overwhelming viewers with too many choices — appears to finally be slowing. The nu…",
-      "Url": "https://entertainment.slashdot.org/story/22/12/19/0418235/streaming-services-are-ordering-fewer-series---except-for-amazon-and-apple-tv",
-      "UrlToImage": "https://a.fsdn.com/sd/topics/tv_64.png",
-      "PublishedAt": "2022-12-19T04:55:00Z",
-      "Content": "The never-ending supply of new programming that helped define the streaming era — spawning shows at a breakneck pace but also overwhelming viewers with too many choices — appears to finally be slowin… [+2699 chars]"
     }
   ]
 }
