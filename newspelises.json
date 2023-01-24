@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 176,
+  "TotalResults": 177,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Melissa Velásquez Loaiza",
+      "Title": "Nominados a los Premios Oscar 2023: mira aquí la lista completa",
+      "Description": "Los nominados a los Premios de la Academia de este año reconocen tanto las películas como las actuaciones aclamadas por la crítica, al tiempo que muestran cierto amor por las películas populares en la taquilla. Además, la lista de nominados incluye un reconoc…",
+      "Url": "https://cnnespanol.cnn.com/2023/01/24/nominados-premios-oscar-2023-lista-completa-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/01/GettyImages-1314469760-e1674562062454.jpg?quality=100&strip=info",
+      "PublishedAt": "2023-01-24T14:35:22Z",
+      "Content": "Conoce la película argentina preseleccionada para los Oscar 0:53\r\n(CNN) -- Los nominados a los Premios de la Academia de este año reconocen tanto las películas como las actuaciones aclamadas por la c… [+5200 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-07T09:18:20Z",
       "Content": "#1 Creo que no. El otro era un artículo sobre la película y este envío es la película en la web de RTVE."
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Leonardo D'Esposito",
-      "Title": "Las razones del éxito de Avatar: el camino del agua, y por qué propone un futuro para el cine que lo conecta con la infancia",
-      "Description": "El film de James Cameron ya fue visto por 1.435.199 personas en la Argentina y superó los 1500 millones de dólares de taquilla a nivel global; la creación inmersiva del ecosistema acuático del planeta Pandora propone otro modo de narración y, por lo tanto, ot…",
-      "Url": "https://www.lanacion.com.ar/espectaculos/cine/las-razones-del-exito-de-avatar-el-camino-del-agua-y-por-que-propone-un-futuro-para-el-cine-que-lo-nid07012023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/hx9GpKqUnpojysQpmcU871G4bo4=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/N55S3ZIYI5GD3EI6SVWEGFBPTU.JPG",
-      "PublishedAt": "2023-01-07T09:00:00Z",
-      "Content": "Con los diarios del lunes (o de hoy), se puede decir que el éxito de Avatar: el camino del agua no sorprende a nadie. Máquina pensada y diseñada durante años con miles de millones de dólares encima, … [+3498 chars]"
     }
   ]
 }
