@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1288,
+  "TotalResults": 1291,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Republica.com"
+      },
+      "Author": "Republica.com",
+      "Title": "'La Chica de Nieve', de libro superventas a serie policíaca de Netflix",
+      "Description": "La Chica de Nieve, la serie basada en la exitosa novela homónima de Javier Castillo, llega este viernes a Netflix, transformada en un thriller que narra la misteriosa desaparición de una niña y reflexiona sobre cuestiones como la violencia contra las mujeres …",
+      "Url": "https://www.republica.com/cultura/la-chica-de-nieve-de-libro-superventas-a-serie-policiaca-de-netflix-20230125-20341892481/",
+      "UrlToImage": "https://www.republica.com/wp-content/uploads/2023/01/Fotograma-de-La-chica-de-nieve.jpg",
+      "PublishedAt": "2023-01-25T19:34:28Z",
+      "Content": "La Chica de Nieve, la serie basada en la exitosa novela homónima de Javier Castillo, llega este viernes a Netflix, transformada en un thriller que narra la misteriosa desaparición de una niña y refle… [+2798 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "\"Las grandes actuaciones vienen de dentro\": Neil Druckmann pidió a los actores de The Last of Us de HBO no jugar al título por una razón concreta",
+      "Description": "Con la llegada del segundo capítulo esta misma semana, The Last of Us de HBO sigue enamorando a todo aquel que la ve. Si bien aún quedan 7 capítulos por delante de esta magnífica obra, poco a poco siguen saliendo curiosidades acerca del rodaje que nos ha deja…",
+      "Url": "https://www.vidaextra.com/series/grandes-actuaciones-vienen-dentro-neil-druckmann-pidio-a-actores-the-last-of-us-hbo-no-jugar-al-titulo-razon-concreta",
+      "UrlToImage": "https://i.blogs.es/1e0126/tlou-joel/840_560.jpeg",
+      "PublishedAt": "2023-01-25T19:30:19Z",
+      "Content": "Con la llegada del segundo capítulo esta misma semana, The Last of Us de HBO sigue enamorando a todo aquel que la ve. Si bien aún quedan 7 capítulos por delante de esta magnífica obra, poco a poco si… [+1475 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Tres episodios de 45 minutos: la serie sobre la realeza que escala en el ranking de Netflix",
+      "Description": "La producción llegó al gigante de streaming el 23 de noviembre de 2022; con una mezcla del género documental y de ficción, relató lo sucedido entre Enrique VIII y Ana Bolena",
+      "Url": "https://www.lanacion.com.ar/espectaculos/tres-episodios-de-45-minutos-la-serie-sobre-la-realeza-que-escala-en-el-ranking-de-netflix-nid25012023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/Xxuh6zVz9rZTOXptlNxyPvVBzo8=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/2UAOZ22LWBFITO7STIYUU62DMU.jpg",
+      "PublishedAt": "2023-01-25T18:55:12Z",
+      "Content": "Sin lugar a dudas, The Crown fue todo un éxito en Netflix, en medio de las polémicas que generó sobre la Corona de Reino Unido y con un crecimiento exponencial tras el fallecimiento de la reina Isabe… [+2990 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2023/01/cosplay-1-2.jpg",
       "PublishedAt": "2023-01-23T20:21:00Z",
       "Content": "Consideran el enorme éxito que ha tenido la serie de Wednesday en Netflix, solo era cuestión de tiempo antes de que las modelos del mundo se dieran a la tarea de recrear el icónico traje de Merlina, … [+838 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Notimex",
-      "Title": "‘Made in México’ mostrará lado humano de sus protagonistas",
-      "Description": "Los integrantes de la serie que Netflix estrenará el 28 de septiembre, aseguran que ésta no está enfocada en los lujos, sino en el lado humano de sus vidas.",
-      "Url": "https://www.elfinanciero.com.mx/reflector/made-in-mexico-mostrara-lado-humano-de-sus-protagonistas/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/gnkuj1pWdaH4BFdgZiVTzPOiD0k=/1200x630/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GQNGVLB3U5QEFVAU4VNUM6OK7I.png",
-      "PublishedAt": "2023-01-23T20:05:07Z",
-      "Content": "Participantes de Made in México aclararon que en ese reality showno se le exhibe como integrantes de una sociedad que nacieron teniéndolo todo, sino como personas que se esfuerzan para tener un nivel… [+3523 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Frankie MB",
-      "Title": "The Last of Us en HBO esconde un Easter Egg de Uncharted por petición de Naughty Dog... pero hay que ser un lince para descubrirlo",
-      "Description": "Los universos de The Last of Us y Uncharted vuelven a coincidir, aunque en esta ocasión es en un medio completamente diferente: la televisión. El segundo episodio de The Last of Us, la serie ya emitido en HBO, ha sido dirigido, de hecho, por el propio Neil Dr…",
-      "Url": "https://www.vidaextra.com/series/the-last-of-us-hbo-esconde-easter-egg-uncharted-peticion-naughty-dog-hay-que-ser-lince-para-descubrirlo",
-      "UrlToImage": "https://i.blogs.es/72acc9/fnjmnj4acam3p52/840_560.jpeg",
-      "PublishedAt": "2023-01-23T19:58:22Z",
-      "Content": "Los universos de The Last of Us y Uncharted vuelven a coincidir, aunque en esta ocasión es en un medio completamente diferente: la televisión. El segundo episodio de The Last of Us, la serie ya emiti… [+3073 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "Javier Marquez",
-      "Title": "La serie de ‘The Last of Us’ ha despertado un interés inaudito: las ventas del juego para PS4 y PS5 se han disparado",
-      "Description": "Una de las principales características de ‘The Last of Us’ es su gran fidelidad con respecto al videojuego original. Esta particularidad, precisamente, puede ser la responsable de que muchos jugadores que están viendo el hasta ahora exitoso trabajo de HBO qui…",
-      "Url": "https://www.xataka.com/videojuegos/serie-the-last-of-us-ha-despertado-interes-inaudito-ventas-juego-para-ps4-ps5-se-han-disparado",
-      "UrlToImage": "https://i.blogs.es/2d0dd0/the-last-of-us-part-i/840_560.jpeg",
-      "PublishedAt": "2023-01-23T19:30:21Z",
-      "Content": "Una de las principales características de The Last of Us es su gran fidelidad con respecto al videojuego original. Esta particularidad, precisamente, puede ser la responsable de que muchos jugadores … [+2305 chars]"
     }
   ]
 }
