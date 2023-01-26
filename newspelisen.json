@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1001,
+  "TotalResults": 1004,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "Bina123",
+      "Title": "Rising Star Don Toliver",
+      "Description": "It's the year 2023 and Don Toliver's career is soaring. After the release of his debut album \"Heaven or Hell\" in 2020, he quickly became one of the most sought-after artists in the music industry. His unique blend of R&B and hip-hop had fans hooked and his sm…",
+      "Url": "https://slashdot.org/submission/17175391/rising-star-don-toliver",
+      "UrlToImage": null,
+      "PublishedAt": "2023-01-26T14:48:09Z",
+      "Content": "It's the year 2023 and Don Toliver's career is soaring. After the release of his debut album \"Heaven or Hell\" in 2020, he quickly became one of the most sought-after artists in the music industry. Hi… [+1582 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "Livemint",
+      "Title": "Pathaan's record-breaking Box Office numbers: Here's what has worked for the film",
+      "Description": "A movie whose release was marred by controversy from particular religious and political outfits, went through 12 CBFC recommended cuts, managed to create a whole new records just with its opening day earnings",
+      "Url": "https://www.livemint.com/industry/media/shah-rukh-khan-starrer-pathaan-s-record-breaking-box-office-numbers-here-s-what-has-worked-for-the-film-11674741419719.html",
+      "UrlToImage": "https://images.livemint.com/img/2023/01/26/600x338/PTI01-25-2023-000030B-0_1674741562079_1674741562079_1674741582512_1674741582512.jpg",
+      "PublishedAt": "2023-01-26T14:34:15Z",
+      "Content": "Shah Rukh Khan starrer Pathaan movie has been declared as the first Blockbuster of Bollywood in 2023. The entertaining spy thriller that also stars Deepika Padukone and John Abraham, has broken and c… [+2930 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Pooja Shah",
+      "Title": "Haley Bennett Relives Her Awkward Date Scene With Jonathan Majors in \"Magazine Dreams\"",
+      "Description": "(L-R) Elijah Bynum, Haley Bennett, Jonathan Majors, and Taylour Paige visit the IMDb Portrait Studio at Acura Festival Village at Sundance 2023. Image Source: Getty Images for IMDb /Corey Nickols\nImagine a dimly lit room in a small house that is covered with …",
+      "Url": "https://www.popsugar.com/entertainment/haley-bennett-magazine-dreams-interview-49071140",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/gsoEA2-wX7ldBEgVja6WvLtn1VQ/0x143:3592x2029/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/01/25/964/n/1922283/d1bbe00963d1a87cec22a4.44731879_.jpg",
+      "PublishedAt": "2023-01-26T14:00:14Z",
+      "Content": "(L-R) Elijah Bynum, Haley Bennett, Jonathan Majors, and Taylour Paige visit the IMDb Portrait Studio at Acura Festival Village at Sundance 2023. Image Source: Getty Images for IMDb /Corey Nickols\r\nIm… [+5404 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -253,19 +292,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "The Next Movie From BARBARIAN Director Zach Cregger is WEAPONS and New Line Won The Rights",
-      "Description": "After director Zach Cregger’s Barbarian became a huge hit, fans of the film have been wondering what Cregger’s next project would be. Well, that project has been revealed and it’s a new horror movie titled Weapons. As soon as the project was revealed a biddin…",
-      "Url": "https://geektyrant.com/news/the-next-movie-from-barbarian-director-zach-cregger-is-weapons-and-its-in-the-middle-of-a-bidding-war",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d18c86bb7c5d2a6d87424a/1674680405819/the-next-movie-from-barbarian-director-zach-cregger-is-weapons-and-its-in-the-middle-of-a-bidding-war.jpg?format=1500w",
-      "PublishedAt": "2023-01-25T21:00:00Z",
-      "Content": "After director Zach Creggers Barbarian became a huge hit, fans of the film have been wondering what Creggers next project would be. Well, that project has been revealed and its a new horror movie tit… [+1682 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "ComingSoon.net"
       },
       "Author": "Spencer Legacy",
@@ -275,6 +301,19 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/unexpected-header.png?resize=1200,630",
       "PublishedAt": "2023-01-25T21:00:00Z",
       "Content": "ComingSoon is debuting an exclusive Unexpected trailer for the upcoming comedy based on the Bob Tarte novel Enslaved by Ducks. The movie is set to release through video-on-demand platforms on Februar… [+622 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "The Next Movie From BARBARIAN Director Zach Cregger is WEAPONS and New Line Won The Rights",
+      "Description": "After director Zach Cregger’s Barbarian became a huge hit, fans of the film have been wondering what Cregger’s next project would be. Well, that project has been revealed and it’s a new horror movie titled Weapons. As soon as the project was revealed a biddin…",
+      "Url": "https://geektyrant.com/news/the-next-movie-from-barbarian-director-zach-cregger-is-weapons-and-its-in-the-middle-of-a-bidding-war",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d18c86bb7c5d2a6d87424a/1674680405819/the-next-movie-from-barbarian-director-zach-cregger-is-weapons-and-its-in-the-middle-of-a-bidding-war.jpg?format=1500w",
+      "PublishedAt": "2023-01-25T21:00:00Z",
+      "Content": "After director Zach Creggers Barbarian became a huge hit, fans of the film have been wondering what Creggers next project would be. Well, that project has been revealed and its a new horror movie tit… [+1682 chars]"
     },
     {
       "Source": {
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/01/richeset-mean.jpg",
       "PublishedAt": "2023-01-24T01:44:00Z",
       "Content": "Nearly 20 years after its release, Mean Girls remains a classic teen movie that viewers reference to this day. It’s just that fetch! \r\nAside from an iconic script with so many laugh-out-loud moments,… [+566 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xconomy.com"
-      },
-      "Author": "Troy Wilson",
-      "Title": "J!nx[HD]! Watch Avatar : The Way of Water (2022) FULL Movie Online Free on Putlocker",
-      "Description": "<p>Disney’s Movie! Avatar 2 film’s streaming release announced, and it’s clea when you can watch Avatar: The Way of Water film at home — and which service you’ll be able to stream it. . Where can fans watch Avatar: The Way of Water at home online? Though no o…",
-      "Url": "https://xconomy.com/boston/2023/01/23/avatar-2-streaming-disney-now-heres-how/",
-      "UrlToImage": null,
-      "PublishedAt": "2023-01-24T01:35:55Z",
-      "Content": "Disneys Movie! Avatar 2 films streaming release announced, and its clea when you can watch Avatar: The Way of Water film at home and which service youll be able to stream it. . Where can fans watch A… [+7122 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lesswrong.com"
-      },
-      "Author": "Akash",
-      "Title": "\"Status\" can be corrosive; here's how I handle it",
-      "Description": "Published on January 24, 2023 1:25 AM GMTDo you ever think about your social status? I do, and sometimes I find it corrosive\r\n. Examples of thoughts that might come up:<ul><li>Should I share X doc/idea with Alice? Her feedback might be useful, but it might ma…",
-      "Url": "https://www.lesswrong.com/posts/AjDbYfGhLtdyezFou/status-can-be-corrosive-here-s-how-i-handle-it",
-      "UrlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-      "PublishedAt": "2023-01-24T01:25:04Z",
-      "Content": "Do you ever think about your social status? I do, and sometimes I find it corrosive\r\n. \r\nExamples of thoughts that might come up:\r\n<ul><li>Should I share X doc/idea with Alice? Her feedback might be … [+9201 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Matthew Jacobs",
-      "Title": "‘Run Rabbit Run’: The Year of Sarah Snook Begins With One of Sundance’s Biggest Movies",
-      "Description": "Courtesy of Sundance\r\nIf you know Sarah Snook as the slick shark Shiv Roy on the quintessentially American Succession, hearing her Australian tongue is jarring. Even in a movie like Run Rabbit Run, which takes place down under, Snook's natural intonations fee…",
-      "Url": "https://www.thedailybeast.com/obsessed/run-rabbit-run-review-sarah-snook-is-brilliant-in-big-sundance-hit",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674511621/230123-run-rabbit-run-hero_ghbw3d",
-      "PublishedAt": "2023-01-24T00:02:01Z",
-      "Content": "If you know Sarah Snook as the slick shark Shiv Roy on the quintessentially American Succession, hearing her Australian tongue is jarring. Even in a movie like Run Rabbit Run, which takes place down … [+5295 chars]"
     }
   ]
 }
