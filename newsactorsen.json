@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1104,
+  "TotalResults": 1106,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fortune",
+        "Name": "Fortune"
+      },
+      "Author": "Chloe Berger",
+      "Title": "How ‘The Banshees of Inisherin’ actor made it from a childhood in 13 foster homes to an Oscar-nominated movie star",
+      "Description": "After a rough childhood in the Irish foster system, \"The Banshees of Inisherin\" actor Barry Keoghan broke into Hollywood with persistence and manifestation.",
+      "Url": "https://fortune.com/2023/01/26/how-banshees-of-inisherin-barry-keoghan-became-oscar-nominated-star/",
+      "UrlToImage": "https://content.fortune.com/wp-content/uploads/2023/01/GettyImages-1349811988-e1674762229328.jpg?resize=1200,600",
+      "PublishedAt": "2023-01-26T20:47:26Z",
+      "Content": "Theres a slim chance youve seen Barry Keoghans performance in The Banshees of Inisherin with dry eyes. Managing to break a heart in just under a minute, Keoghan paints his character Dominic with a vu… [+4548 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Tommy Williams",
+      "Title": "Everything Coming to and Leaving Netflix in February 2023",
+      "Description": "Netflix recently revealed the list of titles joining their streaming library for February 2023. Interestingly, there are no new games coming, just TV shows, movies, documentaries, etc. Some of the highlights include The Lord of the Rings trilogy, part two of …",
+      "Url": "https://geektyrant.com/news/everything-coming-to-and-leaving-netflix-in-february-2023",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d17caa842cd0148fee2e07/1674763226554/pokemon_journeys_series_p2.jpg?format=1500w",
+      "PublishedAt": "2023-01-26T20:00:00Z",
+      "Content": "Netflix recently revealed the list of titles joining their streaming library for February 2023. Interestingly, there are no new games coming, just TV shows, movies, documentaries, etc. Some of the hi… [+14683 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://images.macrumors.com/t/N_lwBjMXGu4QsTLyMbLAlecZ5Hc=/1600x/article-new/2023/01/Apple-iPhone-Privacy-Short-Film.jpg",
       "PublishedAt": "2023-01-24T16:54:11Z",
       "Content": "In celebration of Data Privacy Day on January 28, Apple has shared a short film in which actor Nick Mohammed from the hit Apple TV+ comedy series \"Ted Lasso\" learns about iPhone privacy features. Moh… [+1307 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Mail"
-      },
-      "Author": "Alesia Stanford",
-      "Title": "Angela Bassett, 64, is FIRST star to be Oscar nominated for a Marvel movie",
-      "Description": "Angela Bassett has gone where no Marvel character has gone before. The star received a Best Supporting Actress Academy Award nomination for her role as Queen Ramonda",
-      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-11671439/Angela-Bassett-64-star-Oscar-nominated-Marvel-movie.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/01/24/16/66918697-0-image-a-16_1674577666683.jpg",
-      "PublishedAt": "2023-01-24T16:50:03Z",
-      "Content": "Angela Bassett has gone where no Marvel character has gone before. On Tuesday the star received a Best Supporting Actress Academy Award nomination for her role as Queen Ramonda in Black Panther: Waka… [+2821 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "variety.com",
-      "Title": "‘DogMan’ Trailer Teases Another Towering Performance by Caleb Landry Jones (EXCLUSIVE)",
-      "Description": "After winning best actor at Cannes with Justin Kurzel’s “Nitram,” Caleb Landry Jones is poised to gain further international recognition with another towering and intense performance in “DogMan.” The anticipated movie, which is now in post and will mark Luc B…",
-      "Url": "https://biztoc.com/x/f8c111579977c564",
-      "UrlToImage": "https://c.biztoc.com/p/f8c111579977c564/og.webp",
-      "PublishedAt": "2023-01-24T15:56:09Z",
-      "Content": "After winning best actor at Cannes with Justin Kurzels Nitram, Caleb Landry Jones is poised to gain further international recognition with another towering and intense performance in DogMan.The antic… [+314 chars]"
     }
   ]
 }
