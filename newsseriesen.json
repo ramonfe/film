@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Amazon is reportedly making a Tomb Raider TV series",
+      "Description": "Hollywood may be taking another stab at a Tomb Raider production, but this time for the small screen. The Hollywood Reporter sources say Amazon is creating a Tomb Raider TV series for Prime Video, with Phoebe Waller-Bridge (of Fleabag fame) set to be an execu…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170214947",
+      "UrlToImage": null,
+      "PublishedAt": "2023-01-27T22:32:05Z",
+      "Content": "Hollywood may be taking another stab at a Tomb Raider production, but this time for the small screen. The Hollywood Reportersources say Amazon is creating a Tomb Raider TV series for Prime Video, wit… [+1528 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Jon Fingas",
+      "Title": "Amazon is reportedly making a Tomb Raider TV series",
+      "Description": "Hollywood may be taking another stab at a Tomb Raider production, but this time for the small screen. The Hollywood Reportersources say Amazon is creating a Tomb Raider TV series for Prime Video, with Phoebe Waller-Bridge (of Fleabag fame) set to be an execut…",
+      "Url": "https://www.engadget.com/tomb-raider-tv-series-amazon-phoebe-waller-bridge-221709550.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/9ea60f50-9e87-11ed-adbf-29c066a2fa6b",
+      "PublishedAt": "2023-01-27T22:17:09Z",
+      "Content": "Hollywood may be taking another stab at a Tomb Raider production, but this time for the small screen. The Hollywood Reportersources say Amazon is creating a Tomb Raider TV series for Prime Video, wit… [+1524 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://i.guim.co.uk/img/media/bf13bffa2e79edaabf3a671a0837851f60db3ca2/0_389_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8860a4c157b8ea1100a31beacd7c3f2f",
       "PublishedAt": "2022-12-27T11:00:20Z",
       "Content": "Dahmer Monster: The Jeffrey Dahmer Story\r\nOof, this $300m Netflix deal is not going well. Ryan Murphy once renowned as the very Midas of soapy, campy television has had a stock market crash this year… [+8202 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Coleman Spilde",
-      "Title": "How Is ‘Babylon’ Such an Epic Disaster?",
-      "Description": "Photo Illustration by Thomas Levinson/The Daily Beast/Getty/Netflix/HBOMax/Paramount\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are rough…",
-      "Url": "https://www.thedailybeast.com/obsessed/how-is-margot-robbie-movie-babylon-such-an-epic-disaster",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1672086136/221226-see-skip-tease_oabdty",
-      "PublishedAt": "2022-12-27T09:38:38Z",
-      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+4663 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MacRumors"
-      },
-      "Author": "Sami Fathi",
-      "Title": "First Season of Hit Apple TV+ Shows Free to Watch Until January 3",
-      "Description": "The first season of hit Apple TV+ shows, including Ted Lasso, The Morning Show, Bad Sisters, and others, will be free to watch on the streaming service until January 3.\n\n\n\n\n\nIn the United States, users who are not subscribed to ‌Apple TV+‌ will be able to wat…",
-      "Url": "https://www.macrumors.com/2022/12/26/apple-tv-plus-free-first-season/",
-      "UrlToImage": "https://images.macrumors.com/t/EPAYyPb_GaBjpEfuKN3dGnTLPTE=/1600x/article-new/2021/08/apple-tv-plus-banner.jpg",
-      "PublishedAt": "2022-12-27T04:37:26Z",
-      "Content": "The first season of hit Apple TV+ shows, including Ted Lasso, The Morning Show, Bad Sisters, and others, will be free to watch on the streaming service until January 3.\r\nIn the United States, users w… [+545 chars]"
     }
   ]
 }
