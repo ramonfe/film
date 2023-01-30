@@ -1,8 +1,775 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1033,
+  "TotalResults": 1016,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Adrienne Tyler",
+      "Title": "Every Movie Releasing In Theaters In February 2023",
+      "Description": "February 2023 will see the release of M. Night Shyamalan's latest movie, Mike Lane's final movie, Ant-Man's return, a gory Winnie-the-Pooh, and more.",
+      "Url": "https://screenrant.com/february-2023-movies-theaters-release-dates/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/01/february-2023-movies-coming-to-theaters.jpg",
+      "PublishedAt": "2023-01-30T14:30:14Z",
+      "Content": "February 2023 will see the release of some of this year’s most anticipated releases, such M. Night Shyamalan’s latest project, Mike Lane’s final dance, a gory take on a beloved bear, a bear who took … [+7725 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "Reuters",
+      "Title": "India's Inox Leisure reports quarterly profit as hits bring back moviegoers",
+      "Description": "Inox Leisure Ltd posted profit before exceptional items and tax for the third quarter, as movie buffs returned following a string of hits and splurged on pricier tickets and in-theater purchases",
+      "Url": "https://www.business-standard.com/article/companies/india-s-inox-leisure-reports-quarterly-profit-as-hits-bring-back-moviegoers-123013000947_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-09/20/full/1663671146-1288.jpg",
+      "PublishedAt": "2023-01-30T14:30:00Z",
+      "Content": "BENGALURU/CHENNAI (Reuters) - Indian multiplex operator INOX Leisure Ltd on Monday posted profit before exceptional items and tax for the third quarter, as movie buffs returned following a string of … [+1564 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Anthony Nash",
+      "Title": "Andrew Garfield Reflects on His Amazing Spider-Man Audition",
+      "Description": "Speaking to Marvel ahead of Titan Books’ release of the Spider-Man No Way Home: The Official Movie Special Book, Andrew Garfield reflected on his original audition, and what he had to do in order to give himself the best chance at securing the role in 2012’s …",
+      "Url": "https://www.comingsoon.net/?p=1263855",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/andrew-garfield-spider-man-no-way-home.png?resize=1200,630",
+      "PublishedAt": "2023-01-30T14:30:00Z",
+      "Content": "Speaking to Marvel ahead of Titan Books release of the Spider-Man No Way Home: The Official Movie Special Book, Andrew Garfield reflected on his original audition, and what he had to do in order to g… [+2148 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "newsweek.com",
+      "Title": "'The Proud Family: Louder and Prouder' release time, date and episode guide",
+      "Description": "The Proud Family: Louder and Prouder is back for a second season on Disney+, following the successful 2022 revival of the beloved animated series. The original The Proud Family series premiered in 2001 and ran for two seasons, before ending with the 2005 Disn…",
+      "Url": "https://biztoc.com/x/3a9dd02f0ef87281",
+      "UrlToImage": "https://c.biztoc.com/p/3a9dd02f0ef87281/og.webp",
+      "PublishedAt": "2023-01-30T14:18:05Z",
+      "Content": "The Proud Family: Louder and Prouder is back for a second season on Disney+, following the successful 2022 revival of the beloved animated series.The original The Proud Family series premiered in 200… [+294 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Germain Lussier",
+      "Title": "Watch an Exclusive Deleted Scene From Black Panther: Wakanda Forever",
+      "Description": "Black Panther: Wakanda Forever comes home this week and with it, you’ll find even more of the movie you already loved. The digital release, out February 1, as well as the Blu-ray, out February 7, includes four scenes deleted from the Ryan Coogler Marvel Studi…",
+      "Url": "https://gizmodo.com/black-panther-2-deleted-scene-martin-freeman-marvel-mcu-1850030025",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/196546620ac171b5287a30c958d6bbcc.jpg",
+      "PublishedAt": "2023-01-30T14:00:00Z",
+      "Content": "Black Panther: Wakanda Forever comes home this week and with it, youll find even more of the movie you already loved. The digital release, out February 1, as well as the Blu-ray, out February 7, incl… [+2373 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ET Spotlight Special",
+      "Title": "‘Metro…In Dino’ release date: Aditya Roy Kapur-Sara Ali Khan starrer movie to launch on December 8 this year",
+      "Description": "Anurag Basu directed ‘Metro…In Dino’ will hit the theatres on December 8, 2023. The movie stars Aditya Roy Kapur and Sara Ali Khan in lead roles.",
+      "Url": "https://economictimes.indiatimes.com/news/new-updates/metroin-dino-release-date-aditya-roy-kapur-sara-ali-khan-starrer-movie-to-launch-on-december-8-this-year/articleshow/97450643.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-97450656,width-1070,height-580,imgsize-38078,overlay-economictimes/photo.jpg",
+      "PublishedAt": "2023-01-30T13:23:29Z",
+      "Content": "Bollywood director Anurag Basu is set to release his next directorial venture MetroIn Dino this year on December 8. T-Series, the movie's production house, made an official announcement about the lau… [+1824 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Andy Behbakht",
+      "Title": "Arden Cho Has No Regrets Passing On Teen Wolf Movie",
+      "Description": "Arden Cho, who played Kira Yukimura on Teen Wolf, has no regrets over passing on Teen Wolf: The Movie following the film's release on Paramount+.",
+      "Url": "https://screenrant.com/teen-wolf-movie-arden-cho-passed-response/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/08/Kira-teen-wolf.jpg",
+      "PublishedAt": "2023-01-30T12:05:43Z",
+      "Content": "Arden Cho, who played Kira Yukimura in Teen Wolf, has no regrets over passing on Teen Wolf: The Movie. After being off the air for almost half a decade, MTV's Teen Wolf returned to the small screen i… [+3006 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "TV Spot For ANT-MAN AND THE WASP: QUANTUMANIA Reveals Exciting New Footage",
+      "Description": "Marvel Studios has released a new TV spot for Ant-Man and The Wasp: Quantumania and it reveals some exciting and intense new footage of Ant-Man facing off with Kang, and this new villain is sure to give Ant-Man and his crew a run for their money. Ant-Man is g…",
+      "Url": "https://geektyrant.com/news/tv-spot-for-ant-man-and-the-wasp-quantumania-reveals-exciting-new-footage",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d73986406d013dac232294/1675080005689/Screen+Shot+2023-01-29+at+8.48.03+PM.jpg?format=1500w",
+      "PublishedAt": "2023-01-30T12:00:00Z",
+      "Content": "Marvel Studios has released a new TV spot for Ant-Man and The Wasp: Quantumania and it reveals some exciting and intense new footage of Ant-Man facing off with Kang, and this new villain is sure to g… [+1445 chars]"
+    },
+    {
+      "Source": {
+        "Id": "reuters",
+        "Name": "Reuters"
+      },
+      "Author": null,
+      "Title": "India's INOX Leisure reports quarterly profit as hits bring back moviegoers",
+      "Description": "Indian multiplex operator INOX Leisure Ltd <a href=\"https://www.reuters.com/companies/INOL.NS\" target=\"_blank\">(INOL.NS)</a> on Monday posted profit before exceptional items and tax for the third quarter, as movie buffs returned following a string of hits and…",
+      "Url": "https://www.reuters.com/world/india/indias-inox-leisure-reports-quarterly-profit-hits-bring-back-moviegoers-2023-01-30/",
+      "UrlToImage": "https://www.reuters.com/resizer/Q92Q8M3k7lkH5uLbzFnpp90ZIC0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZOU3JNEH5BKHRNS2GLTZIQ2T2I.jpg",
+      "PublishedAt": "2023-01-30T11:55:35Z",
+      "Content": "BENGALURU/CHENNAI, Jan 30 (Reuters) - Indian multiplex operator INOX Leisure Ltd (INOL.NS) on Monday posted profit before exceptional items and tax for the third quarter, as movie buffs returned foll… [+1475 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": "MarketScreener",
+      "Title": "India's INOX Leisure reports quarterly profit as hits bring back moviegoers",
+      "Description": "(marketscreener.com) Indian multiplex operator INOX Leisure Ltd on Monday posted profit before exceptional items and tax for the third quarter, as movie buffs returned following a string of hits and splurged on pricier tickets and in-theater purchases.https:/…",
+      "Url": "https://www.marketscreener.com/quote/stock/INOX-LEISURE-LIMITED-9059611/news/India-s-INOX-Leisure-reports-quarterly-profit-as-hits-bring-back-moviegoers-42845966/?utm_medium=RSS&utm_content=20230130",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2023-01/2023-01-30T115511Z_1_LYNXMPEJ0T0GI_RTROPTP_3_INOX-LEISURE-PVR-STOCKS.JPG",
+      "PublishedAt": "2023-01-30T11:55:11Z",
+      "Content": "The company, which is in the process of merging with market leader PVR Ltd, reported profit before exceptional items and tax of 286.2 million Indian rupees ($3.51 million) for the third quarter ended… [+1133 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The New Republic"
+      },
+      "Author": "Timothy Noah",
+      "Title": "Stop Whining About Celebrity Nepotism",
+      "Description": "The world wide web is in a swivet about nepo babies. “Nepo” is short for “nepotism,” and nepo babies are the celebrity children of celebrity parents. New York magazine last month declared 2022 to be “the year of the nepo baby” and furnished a “(nearly) exhaus…",
+      "Url": "https://newrepublic.com/article/170264/stop-whining-celebrity-nepotism",
+      "UrlToImage": "https://images.newrepublic.com/da0015eba24ba0e891fd29fafc667c8bf5b036b7.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+      "PublishedAt": "2023-01-30T11:00:00Z",
+      "Content": "If a nepo has little or no talent, then his fame will very likely diminish over time. Even if this person has a great deal of talent, her fame may diminish rapidly. I see no urgent social need to glo… [+1732 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Destructoid"
+      },
+      "Author": "Chris Moyse",
+      "Title": "New Super Mario Bros. Movie clips debuts Seth Rogan’s Donkey Kong",
+      "Description": "No sign of the DK Rap, unfortunately\nThis weekend saw the production company Illumination release a short teaser for its fun-looking Super Mario Bros. Movie, an adaptation of one of gaming's most beloved and successful franchises of all time — Notably, the cl…",
+      "Url": "https://www.destructoid.com/super-mario-bros-movie-clip-seth-rogan-donkey-kong/",
+      "UrlToImage": "https://www.destructoid.com/wp-content/uploads/2023/01/mario-bros-movie-seth-rogan-donkey-kong.jpg?fit=1200%2C644",
+      "PublishedAt": "2023-01-30T10:08:49Z",
+      "Content": "This weekend saw the production company Illumination release a short teaser for its fun-looking Super Mario Bros. Movie, an adaptation of one of gaming’s most beloved and successful franchises of all… [+1386 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "FRANCE 24 English"
+      },
+      "Author": "FRANCE24",
+      "Title": "Shah Rukh Khan's 'Pathaan' smashes Indian box office records",
+      "Description": "\"Pathaan\" recorded the highest-ever box office collections for a Hindi film for its opening and second day in India, and raked in 2.5 billion rupees ($30 million) in its first five days, trade analyst Taran Adarsh tweeted Sunday.\n\nIts international ticket sal…",
+      "Url": "https://www.france24.com/en/live-news/20230130-shah-rukh-khan-s-pathaan-smashes-indian-box-office-records",
+      "UrlToImage": "https://s.france24.com/media/display/da1f5e74-a06c-11ed-9a71-005056a90284/w:1280/p:16x9/d75401380d1bf73a1e205637855bde9b80efc57d.jpg",
+      "PublishedAt": "2023-01-30T07:08:11Z",
+      "Content": "Mumbai (AFP) Superstar Shah Rukh Khan's new film \"Pathaan\" has smashed Indian box office records following its release last week, bringing hope to Bollywood after a spate of weak showings. \"Pathaan\" … [+1883 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forevergeek.com"
+      },
+      "Author": "Aparna Ukil",
+      "Title": "Black Panther 2 OTT Release date and Time Explained",
+      "Description": "Black Panther 2 (Wakanda Forever), the 30th film of the Marvel Cinematic Universe (MCU), had its theatrical release in November 2022. The fans received the movie well for its direction, music, story, and of course, the incredible acting from the cast. However…",
+      "Url": "https://www.forevergeek.com/black-panther-2-ott-release-date-and-time-explained/",
+      "UrlToImage": "https://cdn1.forevergeek.com/uploads/33/2022/11/025.jpg",
+      "PublishedAt": "2023-01-30T04:59:07Z",
+      "Content": "Black Panther 2 (Wakanda Forever), the 30th film of the Marvel Cinematic Universe (MCU), had its theatrical release in November 2022. The fans received the movie well for its direction, music, story,… [+2196 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "'Ant-Man and the Wasp: Quantumania' Reveals the Dangers of Kang",
+      "Description": "As the release for the upcoming Marvel film, Ant-Man and the Wasp: Quantumania nears, the studio has released another teaser trailer that focuses on the epic showdown between Kang and Scott Lang. The action-packed storyline sees the trailer give a sneak peek …",
+      "Url": "https://hypebeast.com/2023/1/marvel-ant-man-and-the-wasp-quantumania-kang-scott-lang-avengers-new-treaser-trailer-release",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F01%2Fmarvel-ant-man-and-the-wasp-quantumania-kang-scott-lang-avengers-new-treaser-trailer-release-twa.jpg?w=960&cbr=1&q=90&fit=max",
+      "PublishedAt": "2023-01-30T03:34:39Z",
+      "Content": "As the release for the upcoming Marvel film, Ant-Man and the Wasp: Quantumania nears, the studio has released another teaser trailer that focuses on the epic showdown between Kang and Scott Lang. \r\nT… [+956 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "Michael B. Jordan Uncovers His Past in New 'Creed III' Trailer",
+      "Description": "Just a little over one month until the release of Creed III, Warner Bros. and MGM has released another feature for the highly anticipated boxing threequel. The film is set to be Michael B. Jordan's directorial debut as he plays the lead role in the emotional …",
+      "Url": "https://hypebeast.com/2023/1/warner-bros-michael-b-jordan-creed-iii-new-trailer-release-info",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F01%2Fwarner-bros-michael-b-jordan-creed-iii-new-trailer-release-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "PublishedAt": "2023-01-30T02:53:10Z",
+      "Content": "Just a little over one month until the release of Creed III, Warner Bros. and MGM has released another feature for the highly anticipated boxing threequel. \r\nThe film is set to be Michael B. Jordan‘s… [+1270 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (VOA Persian Service)",
+      "Title": "Iranian Actor Ali Nasirian Withdraws From Fajr Film Festival",
+      "Description": "Ali Nassirian, a well-known Iranian cinema and theater actor, announced his withdrawal from the Fajr State Film Festival on Sunday. \n\n\nIn a letter published online, Nassirian wrote to the secretariat of the festival, \"I am excused from attending due to physic…",
+      "Url": "https://www.voanews.com/a/iranian-actor-ali-nasirian-withdraws-from-fajr-film-festival/6939424.html",
+      "UrlToImage": "https://gdb.voanews.com/E54927D6-6D8C-4C90-969D-0D9300AB5B1E_cx0_cy8_cw0_w1200_r1.jpg",
+      "PublishedAt": "2023-01-30T02:25:21Z",
+      "Content": "Ali Nassirian, a well-known Iranian cinema and theater actor, announced his withdrawal from the Fajr State Film Festival on Sunday. \r\nIn a letter published online, Nassirian wrote to the secretariat … [+1702 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "/FILM"
+      },
+      "Author": "Debopriyaa Dutta",
+      "Title": "How Joseph Kosinski's Oblivion Paid Homage To '60s And '70s Sci-Fi",
+      "Description": "Critical reactions to Joseph Kosinski's post-apocalyptic thriller, \"Oblivion,\" have either been begrudgingly appreciative or outright dismissive since its release in 2013. Most perceive it as a bland, hollow tentpole movie that regurgitates telltale action-th…",
+      "Url": "https://www.slashfilm.com/1177311/how-joseph-kosinskis-oblivion-paid-homage-to-60s-and-70s-sci-fi/",
+      "UrlToImage": "https://www.slashfilm.com/img/gallery/how-joseph-kosinskis-oblivion-paid-homage-to-60s-and-70s-sci-fi/l-intro-1674585600.jpg",
+      "PublishedAt": "2023-01-30T02:00:54Z",
+      "Content": "While Joseph Kosinski was grateful for the generous $120 million budget that allowed the story to blossom without restraints, with \"Oblivion,\" the director was trying to evoke ideas that were bigger … [+1526 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "/FILM"
+      },
+      "Author": "Joe Roberts",
+      "Title": "David Fincher Had To Wait Half A Decade To Make The Curious Case Of Benjamin Button",
+      "Description": "\"The Curious Case of Benjamin Button\" is perhaps David Fincher's strangest film (if you don't count that time he summoned a cursed CGI Orville Redenbacher). Strange not because of disturbing CGI resurrections of beloved cultural figures, but because it doesn'…",
+      "Url": "https://www.slashfilm.com/1176914/david-fincher-had-to-wait-half-a-decade-to-make-the-curious-case-of-benjamin-button/",
+      "UrlToImage": "https://www.slashfilm.com/img/gallery/david-fincher-had-to-wait-half-a-decade-to-make-the-curious-case-of-benjamin-button/l-intro-1674576823.jpg",
+      "PublishedAt": "2023-01-30T01:00:48Z",
+      "Content": "According to Reuters, William Faulkner wrote a script based on F. Scott Fitzgerald's story all the way back in 1943, before studio chief Jack Warner axed the whole thing. It was revived in the 1980s … [+1550 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'Avatar 2' Tops Box Office for 7th Weekend",
+      "Description": "\"Avatar: The Way of Water\" claimed the No. 1 spot on the domestic box office charts for the seventh weekend in a row with an additional $15.7 million, according to studio estimates on Sunday. \n\n\nIt was a quiet weekend overall, notable mostly for the Hindi lan…",
+      "Url": "https://www.voanews.com/a/avatar-2-tops-box-office-for-7th-weekend-/6939396.html",
+      "UrlToImage": "https://gdb.voanews.com/800f0000-c0a8-0242-3512-08db0258a5e4_w1200_r1.jpg",
+      "PublishedAt": "2023-01-30T00:30:10Z",
+      "Content": "\"Avatar: The Way of Water\" claimed the No. 1 spot on the domestic box office charts for the seventh weekend in a row with an additional $15.7 million, according to studio estimates on Sunday. \r\nIt wa… [+4574 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crunchyroll News"
+      },
+      "Author": "Humberto Saabedra",
+      "Title": "New Super Mario Bros. Movie TV Ad Unveils Cat Mario, Seth Rogen As Donkey Kong",
+      "Description": "TV ad released during NFL's NFC Championship game broadcast on FoxNintendo and Illumination saw fit to use the National Football League's NFC Championship game on Sunday afternoon to release a new TV ad for the forthcoming Super Mario Bros. Movie. Read on for…",
+      "Url": "https://www.crunchyroll.com/anime-news/2023/01/29-1/new-super-mario-bros-movie-tv-ad-unveils-seth-rogen-as-donkey-kong-and-cat-mario",
+      "UrlToImage": "https://img1.ak.crunchyroll.com/i/spire3/9188d7e7cc4947796f1f0efb62ae80511675032077_main.jpg",
+      "PublishedAt": "2023-01-29T22:48:34Z",
+      "Content": "Nintendo and Illumination saw fit to use the National Football League's NFC Championship game on Sunday afternoon to release a new TV ad for the forthcoming Super Mario Bros. Movie which reveals one … [+691 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vulture"
+      },
+      "Author": "Jennifer Zhan",
+      "Title": "Hey, Jennifer Aniston and Julia Roberts Are Gonna Swap Bodies",
+      "Description": "Jennifer Aniston and Julia Roberts will star in a body-swap comedy movie at Amazon Studios. Palm Springs director Max Barbakow will write and direct the film. Margot Robbie’s LuckyChap Entertainment will produce. No release date has been set.",
+      "Url": "http://www.vulture.com/article/jennifer-aniston-julia-roberts-body-swap-movie-amazon.html",
+      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/ccc/5ee/0cd4b46acd9b6508511d4988b07b9dac2d-jenniferjulia.1x.rsocial.w1200.jpg",
+      "PublishedAt": "2023-01-29T22:31:41Z",
+      "Content": "Jennifer Aniston and Julia Roberts are about to switch things up. No, literally per Deadline, the pair will star in a body-swap comedy that Amazon Studios just snatched up at a competitive auction. P… [+844 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The latest ‘Super Mario Bros. Movie’ trailer pits Cat Mario against Donkey Kong",
+      "Description": "Over the weekend, Nintendo shared a surprise trailer for The Super Mario Bros. Movie. The 30-second clip shows additional footage from a scene that was first featured in the trailer Nintendo released last November. More importantly, it marks our first chance …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170224163",
+      "UrlToImage": null,
+      "PublishedAt": "2023-01-29T22:14:06Z",
+      "Content": "Over the weekend, Nintendo shared a surprise trailer for TheSuper Mario Bros. Movie. The 30-second clip shows additional footage from a scene that was first featured in the trailer Nintendo released … [+905 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bleeding Cool News"
+      },
+      "Author": "Jeremy Konrad",
+      "Title": "The Boogeyman Trailer & Poster Debut During NFC Title Game",
+      "Description": "The Boogeyman was granted a theatrical release only a week ago, and the Stephen King adaptation already has a trailer and poster. The trailer debuted during today's NFC Championship Game. The film was initially supposed to debut on Hulu, but 20th Century Stud…",
+      "Url": "https://bleedingcool.com/movies/the-boogeyman-trailer-poster-june/",
+      "UrlToImage": "https://bleedingcool.com/wp-content/uploads/2023/01/download-1200x628.jpeg",
+      "PublishedAt": "2023-01-29T21:57:19Z",
+      "Content": "A week after it was granted a theatrical release, here is the trailer and poster for the Stephen King adaptation The Boogeyman.\r\nThe Boogeyman was granted a theatrical release only a week ago, and th… [+1830 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Igor Bonifacic",
+      "Title": "The latest ‘Super Mario Bros. Movie’ trailer pits Cat Mario against Donkey Kong",
+      "Description": "Over the weekend, Nintendo shared a surprise trailer for TheSuper Mario Bros. Movie. The 30-second clip shows additional footage from a scene that was first featured in the trailer Nintendo released last November\r\n. More importantly, it marks our first chance…",
+      "Url": "https://www.engadget.com/the-latest-super-mario-bros-movie-trailer-pits-cat-mario-against-donkey-kong-215133040.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/7e94fdf0-a01e-11ed-bf6d-571ad06d41fd",
+      "PublishedAt": "2023-01-29T21:51:33Z",
+      "Content": "Over the weekend, Nintendo shared a surprise trailer for TheSuper Mario Bros. Movie. The 30-second clip shows additional footage from a scene that was first featured in the trailer Nintendo released … [+898 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Spencer Legacy",
+      "Title": "The Boogeyman Trailer & Poster Preview Stephen King Adaptation",
+      "Description": "The first The Boogeyman trailer for the movie adaptation of Stephen King’s short story was released during today’s NFC championship game. It is set to release on June 2, 2023, exclusively in theaters nationwide. “High school student Sadie Harper and her young…",
+      "Url": "https://www.comingsoon.net/movies/trailers/1262941-the-boogeyman-trailer-poster",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/the-boogeyman-trailer.png?resize=1200,630",
+      "PublishedAt": "2023-01-29T21:41:13Z",
+      "Content": "The first The Boogeyman trailer for the movie adaptation of Stephen Kings short story was released during todays NFC championship game. It is set to release on June 2, 2023, exclusively in theaters n… [+1276 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Historynewsnetwork.org"
+      },
+      "Author": null,
+      "Title": "Latino Activists Changed San Antonio in the 1960s",
+      "Description": "Henry B. Gonzalez was elected to Congress from San Antonio's West Side in a 1961 special election, the first Mexican American to represent Texas in the House. \n\nDetail from mural \"Mi Teirra\" by Robert Ytuarte, photo by author.\n\n \n\n \n\nIn 1960 San Antonio’s Lat…",
+      "Url": "https://historynewsnetwork.org/article/184891",
+      "UrlToImage": "https://s3.amazonaws.com/hnn-bucket/sites/default/files/184891-HenryGonzalezMuralThumb.jpg",
+      "PublishedAt": "2023-01-29T19:41:25Z",
+      "Content": "Ricardo Romo is the author of books including Latinos in America and  East Los Angeles: History of a Barrio, a past president of the University of Texas at San Antonio, and an appointee to four Presi… [+8541 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "looper.com",
+      "Title": "The AARP Celebrates Top Gun: Maverick As The Best Movie Of The Year",
+      "Description": "Learn More The AARP Celebrates Top Gun: Maverick As The Best Movie Of The Year No trip to the multiplex this year was complete without a viewing of \"Top Gun: Maverick.\" Since its summer 2022 release, \"Maverick\" has emerged as an absolute cultural phenomenon, …",
+      "Url": "https://biztoc.com/x/1bef5cc5035867f8",
+      "UrlToImage": "https://c.biztoc.com/p/1bef5cc5035867f8/og.webp",
+      "PublishedAt": "2023-01-29T18:00:18Z",
+      "Content": "Learn MoreThe AARP Celebrates Top Gun: Maverick As The Best Movie Of The YearNo trip to the multiplex this year was complete without a viewing of \"Top Gun: Maverick.\" Since its summer 2022 release, \"… [+328 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aintitcool.com"
+      },
+      "Author": "Barbarella",
+      "Title": "Barbarella Says Spectacle THE WANDERING EARTH II Also Has Some Heart",
+      "Description": "Barbarella Says Spectacle THE WANDERING EARTH II Also Has Some Heart\nRead the full article on AICN\n\n Hey friends, Barbarella here to tell you why, despite its blatant flaws, I absolutely love the latest Well Go USA release, The Wandering Earth II. I’m a bit o…",
+      "Url": "https://www.aintitcool.com/thewanderingearth2review2023-83493/",
+      "UrlToImage": "https://media.aintitcool.com/media/_versions/article_images_2022/barbarella/thewanderingearth2_wellgousa_still4_huge.jpg",
+      "PublishedAt": "2023-01-29T17:34:00Z",
+      "Content": "Hey friends, Barbarella here to tell you why, despite its blatant flaws, I absolutely love the latest Well Go USA release, The Wandering Earth II. I’m a bit of a sap from time to time, and when a mov… [+5338 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Times of Israel"
+      },
+      "Author": "Sheldon Kirshner",
+      "Title": "Good Evening, Mr. Wallenberg",
+      "Description": "The release of Kjell Grede’s feature film, Good Evening, Mr. Wallenberg, was unfortunately timed, having come out in the same year as Steven Spielberg’s Schindler’s List. Which meant, in hindsight, that it was drowned out by the sheer power and popularity of …",
+      "Url": "https://blogs.timesofisrael.com/good-evening-mr-wallenberg/",
+      "UrlToImage": "https://static.timesofisrael.com/blogs/uploads/users/Sheldon-Kirshner-1530952616-400x400.jpg",
+      "PublishedAt": "2023-01-29T17:11:18Z",
+      "Content": "The release of Kjell Grede’s feature film, Good Evening, Mr. Wallenberg, was unfortunately timed, having come out in the same year as Steven Spielberg’s Schindler’s List. Which meant, in hindsight, t… [+4463 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "Prime Video Schedule January 30-February 5: New TV & Movies",
+      "Description": "The sophomore season of Harlem is premiering on Prime Video as part of the schedule for January 30-February 5. On Friday, February 3, Prime Video will release Harlem Season 2. The series is produced by Amazon Studios and Universal Television, a division of Un…",
+      "Url": "https://www.comingsoon.net/?p=1263372",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/Harlem-Season-2.jpg?resize=1200,630",
+      "PublishedAt": "2023-01-29T16:00:29Z",
+      "Content": "The sophomore season of Harlem is premiering on Prime Video as part of the schedule for January 30-February 5. \r\nOn Friday, February 3, Prime Video will release Harlem Season 2. The series is produce… [+3033 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ANI",
+      "Title": "'Pathaan' box office collection: Shah Rukh Khan-starrer movie collects Rs 429 crore worldwide in 4 days",
+      "Description": "Bollywood superstar Shah Rukh Khan's latest release 'Pathaan' is emerging as an unstoppable force at the global box office. The film, directed by Siddharth Raaj Anand, has earned Rs 429 crore gross worldwide in four days. The film collected another Rs 100 cro…",
+      "Url": "https://economictimes.indiatimes.com/news/et-tv/pathaan-box-office-collection-shah-rukh-khan-starrer-movie-collects-rs-429-crore-worldwide-in-4-days/videoshow/97420871.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-97420871,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "PublishedAt": "2023-01-29T14:10:38Z",
+      "Content": "Bollywood superstar Shah Rukh Khan's latest release \"Pathaan\" is emerging as an unstoppable force at the global box office. The film, directed by Siddharth Raaj Anand, has earned Rs 429 crore gross w… [+256 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ANI",
+      "Title": "'Pathaan' box office collection: Shah Rukh Khan-starrer movie collects Rs 429 crore worldwide in 4 days",
+      "Description": "Bollywood superstar Shah Rukh Khan's latest release 'Pathaan' is emerging as an unstoppable force at the global box office. The film, directed by Siddharth Raaj Anand, has earned Rs 429 crore gross worldwide in four days. The film collected another Rs 100 cro…",
+      "Url": "https://economictimes.indiatimes.com/magazines/panache/pathaan-box-office-collection-shah-rukh-khan-starrer-movie-collects-rs-429-crore-worldwide-in-4-days/videoshow/97420870.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-97420870,width-1070,height-580,overlay-etpanache/photo.jpg",
+      "PublishedAt": "2023-01-29T14:10:38Z",
+      "Content": "Bollywood superstar Shah Rukh Khan's latest release \"Pathaan\" is emerging as an unstoppable force at the global box office. The film, directed by Siddharth Raaj Anand, has earned Rs 429 crore gross w… [+256 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "Paramount+ Schedule January 30-February 5: New TV & Movies",
+      "Description": "The first three installments in the Scream franchise will hit Paramount+ as part of the January 30-February 5 schedule. A few months after the release of 2022’s Scream, Paramount+ (sign-up for Paramount+ here) is adding the original Scream trilogy to its avai…",
+      "Url": "https://www.comingsoon.net/movies/news/1263343-paramount-schedule-january-30-february-5-new-tv-movies",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/Scream-1996.jpg?resize=1200,630",
+      "PublishedAt": "2023-01-29T14:00:15Z",
+      "Content": "The first three installments in the Screamfranchise will hit Paramount+ as part of the January 30-February 5 schedule. \r\nA few months after the release of 2022s Scream, Paramount+ (sign-up for Paramo… [+5677 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Anna Williams",
+      "Title": "Sideshow Unboxes New Wonder Woman Figure From Hot Toys",
+      "Description": "Sideshow has shared a new video unboxing the Wonder Woman (Special Edition) ⅙ Scale Figure from Hot Toys just ahead of its release. Inspired by Wonder Woman 1984, the figure features a head sculpt in the likeness of Gal Gadot and has over 17 points of articul…",
+      "Url": "https://geektyrant.com/news/sideshow-unboxes-new-wonder-woman-figure-from-hot-toys",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d195432f03a72b82c63c2c/1674999004704/SideshowWonderWoman1984.jpg?format=1500w",
+      "PublishedAt": "2023-01-29T13:30:00Z",
+      "Content": "Sideshow has shared a new video unboxing the Wonder Woman (Special Edition) Scale Figure from Hot Toys just ahead of its release. \r\nInspired by Wonder Woman 1984, the figure features a head sculpt in… [+966 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "Livemint",
+      "Title": "Pathaan fastest to enter ₹250 crore club; earns whopping ₹400 crore in just 4 days",
+      "Description": "The movie Pathaan has became a record churner since it release. From adding shows at 6am to 12am for day 1, to recording the highest grossing opening weekend in the history of Hindi cinema, this movie amid massive opposition has only become the much needed br…",
+      "Url": "https://www.livemint.com/industry/media/pathaan-fastest-to-enter-rs-250-crore-club-earns-whopping-rs-400-crore-in-just-4-days-11674990428209.html",
+      "UrlToImage": "https://images.livemint.com/img/2023/01/29/600x338/fadd9f5a-5a70-11ed-9a94-6cdab0551c2a_1674990502940_1674990502940_1674990510175_1674990510175.jpg",
+      "PublishedAt": "2023-01-29T11:24:22Z",
+      "Content": "King Shah Rukh Khan's coma back movie Pathaan has continued to churn golden numbers in the box office, as the Sidhdharth Anand directed movie also starring Deepika Padukone and John Abraham, became t… [+3075 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "Lata Jha",
+      "Title": "Mohanlal’s 1995 classic ‘Spadikam’ to re-release in cinemas",
+      "Description": "Movie theatres are re-releasing old hits, and curating special screenings on birth anniversaries of popular yesteryear stars to bring audiences back to the cinemas as new films are failing to draw audiences.",
+      "Url": "https://www.livemint.com/industry/media/mohanlals-1995-classic-spadikam-to-re-release-in-cinemas-11674986115032.html",
+      "UrlToImage": "https://images.livemint.com/img/2023/01/29/600x338/The-Malayalam-language-action-drama-film-will-re-r_1674986113429.jpg",
+      "PublishedAt": "2023-01-29T09:55:14Z",
+      "Content": "Spadikam, a 1995 Malayalam-language action drama film written and directed by Bhadran and produced by R. Mohan, will re-release in cinemas on 9 February in 4K. The film stars Mohanlal and Thilakan wi… [+1854 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Tim Teeman",
+      "Title": "Arkansas Drag Ban Is the Cover for Bigger Anti-LGBTQ Attack, Activists Say",
+      "Description": "Photo Illustration by Erin O’Flynn/The Daily Beast/Getty Images\r\nIn the 1995 movie, To Wong Foo, Thanks for Everything! Julie Newmar, the straight residents of the fictional Midwest town of Snydersville—led by Stockard Channing—face down Sheriff Dollard (Chri…",
+      "Url": "https://www.thedailybeast.com/arkansas-drag-ban-is-the-cover-for-bigger-anti-lgbtq-attack-activists-say",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674943726/230128-teeman-anti-drag-arkansas-hero_y0k3nu",
+      "PublishedAt": "2023-01-29T04:56:41Z",
+      "Content": "In the 1995 movie, To Wong Foo, Thanks for Everything! Julie Newmar, the straight residents of the fictional Midwest town of Snydersvilleled by Stockard Channingface down Sheriff Dollard (Chris Penn)… [+21882 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Coleman Spilde",
+      "Title": "Lady Gaga’s ‘Hold My Hand’ Can’t Hold Up to Her Other Oscar-Nominated Songs",
+      "Description": "Samir Hussein/Getty\r\nBefore we begin, I’d like to get a couple of things out of the way up top. That sentence would be scary if you were meeting with your therapist or your boss, but we are all equals here. I’d like to think I can trust you.The first thing I …",
+      "Url": "https://www.thedailybeast.com/obsessed/oscars-2023-lady-gaga-top-gun-theme-cant-hold-up-to-her-other-oscar-nominated-songs",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2716,w_4828,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1674956415/230128-spilde-lady-gaga-oscars-hero_oexv1k",
+      "PublishedAt": "2023-01-29T01:43:23Z",
+      "Content": "Before we begin, Id like to get a couple of things out of the way up top. That sentence would be scary if you were meeting with your therapist or your boss, but we are all equals here. Id like to thi… [+5940 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Mj Bergin",
+      "Title": "Jonah Hill steps out for the night with girlfriend after the release of his new movie",
+      "Description": "The 38-year-old hit the streets in Malibu, California, with some friends and his girlfriend, Olivia Millar, as they made their way to a venue for their night out.",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-11687949/Jonah-Hill-steps-night-girlfriend-release-new-movie.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/01/28/22/67079355-0-image-a-4_1674944786316.jpg",
+      "PublishedAt": "2023-01-29T01:16:39Z",
+      "Content": "Jonah Hill was spotted out on Saturday after the recent release of his Netflix film You People.\r\nThe 39-year-old hit the streets in Malibu, California, with some friends and his girlfriend, Olivia Mi… [+3725 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Holly McFarlane",
+      "Title": "Winnie The Pooh: Blood & Honey May Be Bigger Than Anyone Expected",
+      "Description": "Winnie The Pooh: Blood &amp; Honey might have indie roots, but the highly hyped horror movie is primed to become a bigger release than initially expected.",
+      "Url": "https://screenrant.com/winnie-pooh-blood-honey-box-office-beat-expectations/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/01/winnie-the-pooh-blood-and-honey-piglett.jpg",
+      "PublishedAt": "2023-01-29T00:10:14Z",
+      "Content": "Winnie The Pooh: Blood &amp; Honey may have a bizarre premise, but the horror movie is shaping up to be much bigger than originally expected. The slasher movie has gained much notoriety for its child… [+4894 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "EditorDavid",
+      "Title": "'Avatar: the Way of Water' Beats 'The Force Awakens', Becomes 4th Highest-Grossing Film Ever",
+      "Description": "Avatar: The Way of Water \"has passed Star Wars: The Force Awakens as the fourth highest-grossing movie of all time,\" reports Variety:\n\nDirector James Cameron's sci-fi epic has now earned $2.075 billion at the global box office. Star Wars: The Force Awakens, a…",
+      "Url": "https://entertainment.slashdot.org/story/23/01/28/2221257/avatar-the-way-of-water-beats-the-force-awakens-becomes-4th-highest-grossing-film-ever",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/scifi_64.png",
+      "PublishedAt": "2023-01-28T22:34:00Z",
+      "Content": "Director James Cameron's sci-fi epic has now earned $2.075 billion at the global box office. Star Wars: The Force Awakens, another sci-fi sequel released long after previous installments, finished it… [+755 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cheezburger.com"
+      },
+      "Author": "RemyMill, RemyMill",
+      "Title": "'Alvin and the Chipmunks: Chipwrecked. I hated it so much that I wanted to cry': 35 Terrible movies that people regret seeing in theaters",
+      "Description": "What's the worst movie you've ever paid to see in a theater? \r\nOne poster in the r/Movies subreddit asked this burning question, and people had some incredible answers! A lot of people seemed to see \"Epic Movie\" in theaters, which is understandable, because i…",
+      "Url": "https://cheezburger.com/19145989/alvin-and-the-chipmunks-chipwrecked-i-hated-it-so-much-that-i-wanted-to-cry-35-terrible-movies-that",
+      "UrlToImage": "https://i.chzbgr.com/thumb1200/19145989/h98FF1190/i-hated-it-so-much-that-i-wanted-to-cry-35-terrible-movies-that-people-regret-seeing-in-theaters",
+      "PublishedAt": "2023-01-28T22:00:00Z",
+      "Content": "What's the worst movie you've ever paid to see in a theater? \r\nOne poster in the r/Movies subreddit asked this burning question, and people had some incredible answers! A lot of people seemed to see … [+806 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "New York Post"
+      },
+      "Author": "Angela Barbuti",
+      "Title": "‘Avatar: The Way of Water’ becomes 4th highest-grossing movie all-time",
+      "Description": "“Avatar: The Way of Water” is still number one at the box office seven weeks after its release.",
+      "Url": "https://nypost.com/2023/01/28/avatar-the-way-of-water-4th-highest-grossing-movie/",
+      "UrlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/01/box-office-230121-1.jpg?quality=75&strip=all&w=1024",
+      "PublishedAt": "2023-01-28T20:42:47Z",
+      "Content": "Avatar: The Way of Water is still number one at the box office, seven weeks after its release.\r\nOn Friday, it took in $3.57 million in sales, according to IMDBs Box Office Mojo\r\nThe reciepts lifted t… [+1043 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Crypto Daily"
+      },
+      "Author": "Crypto Daily",
+      "Title": "NFT Collection Turf Plots Price, Stats, and Review",
+      "Description": "Turf is a casual ultraverse city with 5041 plots, each uniquely great in their own way. The release of the genesis Turf NFTs will lay the foundation for a much broader concept.\nOfficial Links Turf.dev :: Turf Discord :: Turf Objects :: Turf Shop\nThe total num…",
+      "Url": "https://cryptodaily.co.uk/2023/01/nft-collection-turf-plots-price-stats-and-review",
+      "UrlToImage": "https://cryptodailycdn.ams3.digitaloceanspaces.com/nfts-analytics/turfnft.png",
+      "PublishedAt": "2023-01-28T20:30:00Z",
+      "Content": "Turf is a casual ultraverse city with 5041 plots, each uniquely great in their own way. The release of the genesis Turf NFTs will lay the foundation for a much broader concept.\r\nOfficial Links Turf.d… [+1720 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Marla Añonuevo",
+      "Title": "Legend of the Galactic Heroes: Die Neue These Season 3 Blu-ray Release Date",
+      "Description": "The Legend of the Galactic Heroes: Die Neue These Season 3 Blu-ray is arriving in April 2023. Excited fans can now pre-order a copy on the Crunchyroll Store website. “Doubt stirs among trusted officials when Reinhard — still grieving his recent loss — approve…",
+      "Url": "https://www.comingsoon.net/?p=1263626",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/legend-of-the-galactic-heroes-s3.png?resize=1200,630",
+      "PublishedAt": "2023-01-28T20:00:00Z",
+      "Content": "The Legend of the Galactic Heroes: Die Neue These Season 3 Blu-ray is arriving in April 2023. Excited fans can now pre-order a copy on the Crunchyroll Store website.\r\nDoubt stirs among trusted offici… [+1742 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Michelle Jaworski",
+      "Title": "Here are the best movies of Sundance 2023 so far",
+      "Description": "Analysis\n\n\nAfter two years of being fully virtual, the 2023 Sundance Film Festival opted for a hybrid in person and online experience for attendees. Fortunately, I got to experience both sides this year: I spent the first half of Sundance trekking all over Pa…",
+      "Url": "https://www.dailydot.com/upstream/here-are-the-best-movies-of-sundance-2023-so-far/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/01/newsletter-sundance-2023.jpeg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-01-28T20:00:00Z",
+      "Content": "Now Streaming is a weekly column that reviews and analyzes the latest streaming content for you and runs on Wednesdays in the Daily Dots web_crawlr newsletter. If you want to get this column a day be… [+4146 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "/FILM"
+      },
+      "Author": "Shae Sennett",
+      "Title": "Seth Rogen Reflects On That Time He Almost Started A War With North Korea",
+      "Description": "Lots of filmmakers push boundaries and raise eyebrows, but not every Hollywood production earns America threats of nuclear warfare. That honor almost exclusively belongs to Seth Rogen's \"The Interview,\" the 2014 movie that poked fun at the famously mercurial …",
+      "Url": "https://www.slashfilm.com/1181371/seth-rogen-reflects-on-that-time-he-almost-started-a-war-with-north-korea/",
+      "UrlToImage": "https://www.slashfilm.com/img/gallery/seth-rogen-reflects-on-that-time-he-almost-started-a-war-with-north-korea/l-intro-1674935587.jpg",
+      "PublishedAt": "2023-01-28T19:55:02Z",
+      "Content": "A tirade of Twitter hashtags was nothing compared to what Rogen endured when \"The Interview\" came out.\r\n\"We experienced an actual controversy with our film,\" the comedian explained. \"In a way, it was… [+1429 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "/FILM"
+      },
+      "Author": "Hannah Shaw-Williams",
+      "Title": "Avatar: The Way Of Water Rises Past Star Wars: The Force Awakens To Become Fourth-Biggest Movie Of All Time",
+      "Description": "Like a certain droid from \"Star Wars: The Force Awakens,\" or a certain song by Limp Bizkit, \"Avatar: The Way of Water\" just keeps rollin'. James Cameron's epic sci-fi sequel has remained comfortably in the No. 1 spot at the box office since its mid-December r…",
+      "Url": "https://www.slashfilm.com/1181345/avatar-the-way-of-water-rises-past-star-wars-the-force-awakens-to-become-fourth-biggest-movie-of-all-time/",
+      "UrlToImage": "https://www.slashfilm.com/img/gallery/avatar-the-way-of-water-rises-past-star-wars-the-force-awakens-to-become-fourth-biggest-movie-of-all-time/l-intro-1674932184.jpg",
+      "PublishedAt": "2023-01-28T19:16:33Z",
+      "Content": "Like a certain droid from \"Star Wars: The Force Awakens,\" or a certain song by Limp Bizkit, \"Avatar: The Way of Water\" just keeps rollin'. James Cameron's epic sci-fi sequel has remained comfortably … [+1541 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cheezburger.com"
+      },
+      "Author": "Emmy Ward, Emmy Ward",
+      "Title": "The Best Disney Memes of the Week (January 28, 2023)",
+      "Description": "There has been a lot of drama in the Disney community this week, and it's all because of one theme park ride closing. Splash Mountain is not going away forever, but instead getting rethemed from featuring characters from Song of the South to Princess and the …",
+      "Url": "https://cheezburger.com/19140357/the-best-disney-memes-of-the-week-january-28-2023",
+      "UrlToImage": "https://i.chzbgr.com/thumb1200/19140357/hED34695C/a-compilation-of-funny-memes-about-disney",
+      "PublishedAt": "2023-01-28T18:00:00Z",
+      "Content": "There has been a lot of drama in the Disney community this week, and it's all because of one theme park ride closing. Splash Mountain is not going away forever, but instead getting rethemed from feat… [+1013 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Ronny Reyes",
+      "Title": "Daughter of Eric Garner blasts officials for waiting to show Tyre Nichols' arrest video",
+      "Description": "Emerald Snipes-Garner  condemned Memphis officials' decision to wait nearly three weeks to release footage of Tyre Nichols' arrest, saying it was treated like a movie premiere.",
+      "Url": "https://www.dailymail.co.uk/news/article-11687159/Daughter-Eric-Garner-blasts-officials-waiting-Tyre-Nichols-arrest-video.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/01/28/16/67073415-0-image-a-43_1674924325022.jpg",
+      "PublishedAt": "2023-01-28T17:38:12Z",
+      "Content": "Eric Garner's daughter slammed Memphis officials for releasing the video of Tyre Nichols' arrest and beating 'like a movie premiere,' comparing it to a public lynching.\r\nThe set of videos was release… [+6365 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Corrin Rausch",
+      "Title": "Sundance Review: CAT PERSON is Yet Another Dismal Look at Dating",
+      "Description": "Based on the 2017 viral short story by Kristen Roupenian, Cat Person chronicles the perils of modern dating and asks: at what point can you really trust someone? I was curious to see how this could be anything more than a short film, seeing as the original st…",
+      "Url": "https://geektyrant.com/news/sundance-review-cat-person-is-yet-another-dismal-look-at-dating",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d19fa61ca05567aef40037/1674925205696/cat_person.png?format=1500w",
+      "PublishedAt": "2023-01-28T17:00:00Z",
+      "Content": "Based on the 2017 viral short story by Kristen Roupenian, Cat Person chronicles the perils of modern dating and asks: at what point can you really trust someone? I was curious to see how this could b… [+2767 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Wonkette.com"
+      },
+      "Author": "Robyn Pennacchia",
+      "Title": "Republicans Bravely Stand By Homophobic Paul Pelosi Narrative, Video Footage Be Damned",
+      "Description": "On Friday, The San Francisco Superior Court released the body cam footage and 911 audio from the violent attack on Nancy Pelosi's husband Paul in their home in October of last year. Shockingly (to some), the video does not show Paul Pelosi and attacker David …",
+      "Url": "https://www.wonkette.com/republicans-bravely-stand-by-homophobic-paul-pelosi-narrative-video-footage-be-damned",
+      "UrlToImage": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMjkxNTUxOS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY4Nzc5Nzk0N30.Kf-Vt7dsQEnVluZgrHKFYOTmMF6CJO89vVcx1-KqOUA/img.png?width=1200&height=600&coordinates=0%2C0%2C0%2C164",
+      "PublishedAt": "2023-01-28T17:00:00Z",
+      "Content": "On Friday, The San Francisco Superior Court released the body cam footage and 911 audio from the violent attack on Nancy Pelosi's husband Paul in their home in October of last year. Shockingly (to so… [+8200 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thegatewaypundit.com"
+      },
+      "Author": "Cassandra MacDonald",
+      "Title": "Eric Garner’s Daughter Blasts Release of Body Camera Footage of Tyre Nichols, Says It Was Treated Like the ‘Premiere of a Movie’",
+      "Description": "Emerald Garner, the daughter of Eric Garner, has criticized the release of body camera footage showing the beating that led to the death of Tyre Nichols. Nichols, 29, died in the hospital three days after being brutally assaulted by five Memphis police office…",
+      "Url": "https://www.thegatewaypundit.com/2023/01/eric-garners-daughter-blasts-release-body-camera-footage-tyre-nichols-says-treated-like-premiere-movie/",
+      "UrlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2-497.jpg",
+      "PublishedAt": "2023-01-28T16:00:00Z",
+      "Content": "Emerald Garner, the daughter of Eric Garner, has criticized the release of body camera footage showing the beating that led to the death of Tyre Nichols.\r\nNichols, 29, died in the hospital three days… [+2220 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "looper.com",
+      "Title": "Marketing Slip-Ups That Spoiled Famous Movies",
+      "Description": "Learn More Simply making a movie and putting it in theaters isn't enough. For a high-profile release, studios spend tens of millions (as per The Hollywood Reporter) on advertising, marketing, and promotions to make sure that public awareness of their newest f…",
+      "Url": "https://biztoc.com/x/9b522b9000eef51f",
+      "UrlToImage": "https://c.biztoc.com/p/9b522b9000eef51f/og.webp",
+      "PublishedAt": "2023-01-28T15:32:08Z",
+      "Content": "Learn More Simply making a movie and putting it in theaters isn't enough. For a high-profile release, studios spend tens of millions (as per The Hollywood Reporter) on advertising, marketing, and pro… [+335 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "marginalrevolution.com",
+      "Title": "Saturday assorted links",
+      "Description": "1. Forthcoming Netflix movie: “They Cloned Tyrone.” 2. “The Great Automatic Grammatizator,” by Roald Dahl 1954. 3. One account of how GPTs hallucinate. 4. More on MusicLM from Google. Yet Google won’t release the model. 5. An AI-generated image? This one is m…",
+      "Url": "https://biztoc.com/x/2c6ad4d300474de2",
+      "UrlToImage": "https://c.biztoc.com/p/2c6ad4d300474de2/og.webp",
+      "PublishedAt": "2023-01-28T15:04:10Z",
+      "Content": "1. Forthcoming Netflix movie: They Cloned Tyrone.2. The Great Automatic Grammatizator, by Roald Dahl 1954.3. One account of how GPTs hallucinate.4. More on MusicLM from Google. Yet Google wont releas… [+316 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Anthony Nash",
+      "Title": "Tobey Maguire Reflects on No Way Home, If He’d Return as Spider-Man",
+      "Description": "Tobey Maguire helped usher in the superhero movie craze by playing Spider-Man in the early 2000s original trilogy. In 2021’s Spider-Man: No Way Home, he got to reprise that role in the MCU. Speaking to Marvel ahead of Titan Books’ release of the Spider-Man No…",
+      "Url": "https://www.comingsoon.net/?p=1263727",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/tobey-maguire-header.png?resize=1200,630",
+      "PublishedAt": "2023-01-28T15:00:00Z",
+      "Content": "Tobey Maguire helped usher in the superhero movie craze by playing Spider-Man in the early 2000s original trilogy. In 2021s Spider-Man: No Way Home, he got to reprise that role in the MCU.\r\nSpeaking … [+1281 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Julia Musto",
+      "Title": "Tyre Nichols videos: Eric Garner's daughter criticizes release of footage like a 'premiere of a movie'",
+      "Description": "Emerald Snipes-Garner blasted the Memphis authorities' release of the Tyre Nichols footage on Friday, telling NewsNation's Chris Cuomo that it was like a movie premiere.",
+      "Url": "https://www.foxnews.com/us/tyre-nichols-videos-eric-garner-daughter-criticizes-release-premiere-movie",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/GARNER.jpg",
+      "PublishedAt": "2023-01-28T14:15:07Z",
+      "Content": "The daughter of Eric Garner blasted Memphis authorities' release of violent footage from the Jan.7 traffic stop that preceded the death of 29-year-old Tyre Nichols on Friday, saying it was like movie… [+2275 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Neatorama.com"
+      },
+      "Author": "Alex Santoso",
+      "Title": "9 Unusual Valentine's Day Bouquets",
+      "Description": " Roses have always been expensive on Valentine's Day, even before we live in the Age of Inflation. But thankfully, there are some creative alternatives to giving your lovey a bouquet of flowers. So, forget roses! Here are 9 unusual Valentine's Day Bouquets …",
+      "Url": "https://www.neatorama.com/2023/01/27/9-Unusual-Valentine-s-Day-Bouquets/",
+      "UrlToImage": "https://uploads.neatorama.com/images/posts/293/122/122293/9-Unusual-Valentine-s-Day-Bouquets_1-x.jpg?v=18684",
+      "PublishedAt": "2023-01-28T06:58:02Z",
+      "Content": "Roses have always been expensive on Valentine's Day, even before we live in the Age of Inflation. But thankfully, there are some creative alternatives to giving your lovey a bouquet of flowers. So, f… [+1506 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -266,6 +1033,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Marla Añonuevo",
+      "Title": "Bungo Stray Dogs Season 4 Episode 5 Release Date & Time",
+      "Description": "Ranpo meets up with Poe. They witness a crime, but Ranpo still manages to deduce what happened. Here are the details for Bungo Stray Dogs Season 4 Episode 5 titled “The Perfect Murder and Murderer (Part 2).” When Bungo Stray Dogs Season 4 Episode 5 Releases B…",
+      "Url": "https://www.comingsoon.net/anime/news/1263334-bungo-stray-dogs-season-4-episode-5-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/bungo-stray-dogs-season-4-ep-4.png?resize=1200,630",
+      "PublishedAt": "2023-01-27T14:03:21Z",
+      "Content": "Ranpo meets up with Poe. They witness a crime, but Ranpo still manages to deduce what happened. Here are the details for Bungo Stray Dogs Season 4 Episode 5 titled The Perfect Murder and Murderer (Pa… [+2131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Mediagazer.com"
       },
       "Author": null,
@@ -305,6 +1085,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Marla Añonuevo",
+      "Title": "Bofuri Season 2 Episode 4 Release Date & Time",
+      "Description": "Maple gets the item Sally wanted from the haunted mansion. The two of them decide to pair up for the seventh event. Here are the details for Bofuri Season 2 Episode 4. When Bofuri Season 2 Episode 4 Releases Bofuri Season 2 Episode 4’s release date is Wednesd…",
+      "Url": "https://www.comingsoon.net/anime/news/1263330-bofuri-season-2-episode-4-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/bofuri-season-2-ep-3.png?resize=1200,630",
+      "PublishedAt": "2023-01-27T13:11:19Z",
+      "Content": "Maple gets the item Sally wanted from the haunted mansion. The two of them decide to pair up for the seventh event. Here are the details for Bofuri Season 2 Episode 4.\r\nWhen Bofuri Season 2 Episode 4… [+2046 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "KENS5.com"
       },
       "Author": "Marvin Hurst",
@@ -340,6 +1133,19 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-27T12:36:01Z",
       "Content": "Skip to comments.\r\nMovie Theater Cinemapolis Launches Masked TuesdaysIthaca Times ^\r\n | January 26, 2023\r\n | Staff Report\r\nPosted on 01/27/2023 4:36:01 AM PST by Behind Liberal Lines\r\nTuesday, Januar… [+3013 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "Black Panther: Wakanda Forever Disney+ Release Date & Time",
+      "Description": "Black Panther: Wakanda Forever is finally coming to Disney+, its release time has been announced. The streaming service (sign-up for Disney+ here) will add the much-anticipated Black Panther sequel to its available content. Here’s when to watch it. When to Wa…",
+      "Url": "https://www.comingsoon.net/movies/news/1263815-black-panther-wakanda-forever-disney-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/Black-Panther-Wakanda-Forever-Disney-Time.jpg?resize=1200,630",
+      "PublishedAt": "2023-01-27T12:30:00Z",
+      "Content": "Black Panther: Wakanda Forever is finally coming to Disney+, its release time has been announced. \r\nThe streaming service (sign-up for Disney+ here) will add the much-anticipated Black Panther sequel… [+1025 chars]"
     },
     {
       "Source": {
@@ -496,812 +1302,6 @@
       "UrlToImage": "https://www.dailyherald.com/storyimage/DA/20230126/BUSINESS/230129447/AR/0/AR-230129447.jpg&updated=202301270901&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder",
       "PublishedAt": "2023-01-26T20:21:51Z",
       "Content": "Regal Cinemas in Lincolnshire showed its final movies Thursday night in an unannounced closure amid its parent company's bankruptcy.\r\nTheater employees were notified this week of the abrupt decision.… [+3352 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "marketwatch.com",
-      "Title": "AMC CEO Adam Aron touts ‘vote of confidence’ in the company by its bank lenders",
-      "Description": "AMC Entertainment Holdings Inc.’s deal with its bank lenders to extend the covenant suspension period of a loan for another year is a reflection of the company’s recovery, says CEO Adam Aron. In a tweet late Wednesday, the AMC AMC, CEO thanked the movie-theat…",
-      "Url": "https://biztoc.com/x/458c9487267928a3",
-      "UrlToImage": "https://c.biztoc.com/p/458c9487267928a3/og.webp",
-      "PublishedAt": "2023-01-26T20:10:06Z",
-      "Content": "AMC Entertainment Holdings Inc.s deal with its bank lenders to extend the covenant suspension period of a loan for another year is a reflection of the companys recovery, says CEO Adam Aron.In a tweet… [+296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dark Horizons"
-      },
-      "Author": "Garth Franklin",
-      "Title": "“Avatar” Sequel Overtakes “Avengers: Infinity War”",
-      "Description": "Including Wednesday’s worldwide box office grosses, James Cameron’s “Avatar: The Way of Water” has now surpassed $2.0547 billion globally. As a result, the sci-fi epic has passed “Avengers: Infinity War” at $2.052 billion to become the fifth highest-grossing …",
-      "Url": "https://www.darkhorizons.com/avatar-sequel-overtakes-avengers-infinity-war/",
-      "UrlToImage": "https://cdndh.darkhorizons.com/wp-content/uploads/2023/01/avatar-sequel-overtakes-avengers-infinity-war.jpg",
-      "PublishedAt": "2023-01-26T19:46:30Z",
-      "Content": "Including Wednesday’s worldwide box office grosses, James Cameron’s “Avatar: The Way of Water” has now surpassed $2.0547 billion globally.\r\nAs a result, the sci-fi epic has passed “Avengers: Infinity… [+632 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Eden Arielle Gordon",
-      "Title": "David Harbour Haunts Anthony Mackie and Jennifer Coolidge in \"We Have a Ghost\" Trailer",
-      "Description": "Most haunted house-related horror movies follow a particular blueprint: a family moves in, they find out their house is haunted, and they are terrorized until they either move out or die.\nNot many movies see the haunted house's new inhabitants catching the gh…",
-      "Url": "https://www.popsugar.com/entertainment/we-have-a-ghost-movie-49071997",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/gjq41BgjzL4DHTcmbNh0BVCGYf0/0x145:6000x3295/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/01/26/813/n/1922283/0caabbe763d2c6ee8c0681.85208380_.jpg",
-      "PublishedAt": "2023-01-26T19:40:04Z",
-      "Content": "Most haunted house-related horror movies follow a particular blueprint: a family moves in, they find out their house is haunted, and they are terrorized until they either move out or die.\r\nNot many m… [+918 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livejournal.com"
-      },
-      "Author": "scriptedending",
-      "Title": "Indie Film Release Guide: January 27th [An ONTD Original]",
-      "Description": "It seems as though major studios decided to forego this weekend entirely and wait for February, so new options at your local multiplex may be slim. However, as usual, there are a lot of releases from indie studios, plus Academy Award nominated films may have …",
-      "Url": "https://ohnotheydidnt.livejournal.com/125160361.html",
-      "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/488907?v=1674761720",
-      "PublishedAt": "2023-01-26T19:31:08Z",
-      "Content": "It seems as though major studios decided to forego this weekend entirely and wait for February, so new options at your local multiplex may be slim. However, as usual, there are a lot of releases from… [+5593 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "KUT"
-      },
-      "Author": "Https://www.kut.org/people/kailey-hunt",
-      "Title": "Grab your popcorn: Hutto is set to open its first movie theater next year",
-      "Description": "The $25 million entertainment venue will feature 12 movie screens, 12 bowling lanes and 7,200 square feet of gaming and attractions.",
-      "Url": "https://www.kut.org/business/2023-01-26/grab-your-popcorn-hutto-is-set-to-open-its-first-movie-theater-next-year",
-      "UrlToImage": "https://npr.brightspotcdn.com/dims4/default/83733f1/2147483647/strip/true/crop/2048x1075+0+38/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2Fd5%2F7a8c49cf4275a4871a6b1ce95bee%2Fevo-entertainment-center.jpeg",
-      "PublishedAt": "2023-01-26T19:15:18Z",
-      "Content": "Hutto is expected to open its first movie theater early next year. \r\nThe $25 million entertainment venue will feature 12 movie screens, with in-theater dining options and recliner seating, as well as… [+1873 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Centauri-dreams.org"
-      },
-      "Author": null,
-      "Title": "Food production on Mars: Dirt farming as the most scalable solution for settlement",
-      "Description": "Colonies on other worlds are a staple of science fiction and an obsession for rocket-obsessed entrepreneurs, but how do humans go about the business of living long-term once they get to a place like Mars? Alex Tolley has been pondering the question as part of…",
-      "Url": "https://www.centauri-dreams.org/2023/01/26/food-production-on-mars-dirt-farming-as-the-most-scalable-solution-for-settlement/",
-      "UrlToImage": null,
-      "PublishedAt": "2023-01-26T19:13:57Z",
-      "Content": "Colonies on other worlds are a staple of science fiction and an obsession for rocket-obsessed entrepreneurs, but how do humans go about the business of living long-term once they get to a place like … [+26932 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "/FILM"
-      },
-      "Author": "Chris Evangelista",
-      "Title": "The Best New Blu-Ray Releases: Bones And All, The Adventures Of Baron Munchausen, And More",
-      "Description": "We're back with another Blu-ray round-up! As always, I gather up the latest releases for you in one handy spot. You're welcome. This latest round-up includes Criterion's release of Terry Gilliam's \"The Adventures of Baron Munchausen,\" Taylor Russell and Timot…",
-      "Url": "https://www.slashfilm.com/1179216/the-best-new-blu-ray-releases-bones-and-all-the-adventures-of-baron-munchausen-and-more/",
-      "UrlToImage": "https://www.slashfilm.com/img/gallery/the-best-new-blu-ray-releases-bones-and-all-the-adventures-of-baron-munchausen-and-more/l-intro-1674735961.jpg",
-      "PublishedAt": "2023-01-26T19:00:31Z",
-      "Content": "Sleazy, gory, and silly, \"The Dentist\" films aren't exactly good. But they are fun, in a trashy sort of way. In both films, Corbin Bernsen is a dentist who has flipped, using his various dental tools… [+1777 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Joker 2: Lady Gaga Begins Filming for Folie à Deux",
-      "Description": "Grammy winner Lady Gaga took to Instagram to seemingly confirm that she has already started filming her scenes as Harley Quinn in Todd Phillips’ forthcoming DC sequel Joker: Folie à Deux. The film is currently slated for an October 4, 2024 theatrical release.…",
-      "Url": "https://www.comingsoon.net/?p=1263389",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/lady-gaga-header.png?resize=1200,630",
-      "PublishedAt": "2023-01-26T18:30:00Z",
-      "Content": "Grammy winner Lady Gaga took to Instagram to seemingly confirm that she has already started filming her scenes as Harley Quinn in Todd Phillips forthcoming DC sequel Joker: Folie à Deux. The film is … [+1218 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "ATTACK THE BLOCK Director Wants the Sequel to Hit the Same Highs as ALIENS and TERMINATOR 2",
-      "Description": "Attack The Block writer and director Joe Cornish is hard at work developing the long-awaited sequel to the sci-fi action-adventure movie. That first movie was just so much freakin’ fun, and it’s crazy that we’ve had to wait this long for a sequel, but it’s co…",
-      "Url": "https://geektyrant.com/news/attack-the-block-director-wants-the-sequel-to-hit-the-same-highs-as-aliens-and-terminator-2",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d16f0b35cf1b24ae463cac/1674757505482/attack-the-block-director-wants-the-sequel-to-hit-the-same-highs-as-aliens-and-terminator-2.jpg?format=1500w",
-      "PublishedAt": "2023-01-26T18:25:00Z",
-      "Content": "Attack The Blockwriter and directorJoe Cornish is hard at work developing the long-awaited sequel to the sci-fi action-adventure movie. That first movie was just so much freakin fun, and its crazy th… [+3257 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Adam Driver Battles Dinosaurs in New Trailer for the Sci-Fi Survival Film 65",
-      "Description": "A new trailer has dropped for the Sam Raimi-produced sci-fi survival action thriller 65. The trailer offers up some more exciting footage of Adam Driver battling prehistoric dinosaurs while protecting a young girl. This movie is gonna be awesome! 65 was direc…",
-      "Url": "https://geektyrant.com/news/adam-driver-battles-dinosaurs-in-new-trailer-for-the-sci-fi-survival-film-65",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d2b203e64ec37ccc15d0d3/1674756905618/Screen+Shot+2023-01-26+at+10.13.18+AM.jpg?format=1500w",
-      "PublishedAt": "2023-01-26T18:15:00Z",
-      "Content": "A new trailer has dropped for the Sam Raimi-produced sci-fi survival action thriller 65. The trailer offers up some more exciting footage of Adam Driver battling prehistoric dinosaurs while protectin… [+663 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Pockettactics.com"
-      },
-      "Author": "Nathan Ellingsworth",
-      "Title": "Pop Up Mario looks like a barrel of laughs",
-      "Description": "The Super Mario Bros. movie is mere months away from release, and as the hype train speeds up, we’re sure to receive much more movie merchandise. On that note, today Tomy and Nintendo announced a collaboration between the toy-makers and the video game titans …",
-      "Url": "https://www.pockettactics.com/mario/pop-up-mario",
-      "UrlToImage": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/01/pop-up-mario.jpg",
-      "PublishedAt": "2023-01-26T17:51:20Z",
-      "Content": "The Super Mario Bros. movie is mere months away from release, and as the hype train speeds up, we’re sure to receive much more movie merchandise. On that note, today Tomy and Nintendo announced a col… [+1253 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eonline.com"
-      },
-      "Author": "Daisy Maldonado",
-      "Title": "Gerard Butler Says He Almost Killed Co-Star Hilary Swank While Filming",
-      "Description": "This scary movie moment definitely didn't make the final cut.\nSixteen years after the release of P.S. I Love You, Gerard Butler is reflecting on an incident that landed co-star Hilary Swank in the...",
-      "Url": "https://www.eonline.com/news/1362783/gerard-butler-says-he-almost-killed-co-star-hilary-swank-while-filming-p-s-i-love-you",
-      "UrlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023026/rs_1200x1200-230126084931-1200-Gerard_Butler_and_Hillary_Swank.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "PublishedAt": "2023-01-26T17:41:00Z",
-      "Content": "This scary movie moment definitely didn't make the final cut.\r\nSixteen years after the release of P.S. I Love You, Gerard Butler is reflecting on an incident that landed co-star Hilary Swank in the h… [+930 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "New Trailer For DC's SHAZAM! FURY OF THE GODS Shows all The Exciting Footage",
-      "Description": "Warner Bros. has shared a new full trailer for DC Studios’ next film Shazam! Fury of the Gods, and when I say it shows all of the exciting footage, I mean that the trailer pretty much gives you the whole movie. I don’t understand why studios continue to relea…",
-      "Url": "https://geektyrant.com/news/new-trailer-for-dcs-shazam-fury-of-the-gods-shows-all-the-exciting-footage",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d2b61671e68b29efa73a48/1674754816838/Screen+Shot+2023-01-26+at+10.37.41+AM.jpg?format=1500w",
-      "PublishedAt": "2023-01-26T17:40:00Z",
-      "Content": "Warner Bros. has shared a new full trailer for DC Studios next film Shazam! Fury of the Gods, and when I say it shows all of the exciting footage, I mean that the trailer pretty much gives you the wh… [+1395 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "John Squires",
-      "Title": "‘Children of the Corn’ Remake Finally Getting March Release from RLJE Films and Shudder",
-      "Description": "One of the first movies to film during the early days of the pandemic back in 2020, director Kurt Wimmer‘s new take on Stephen King‘s horror novel Children of the Corn has been off the map completely for a while now, but Deadline breaks the silence this after…",
-      "Url": "https://bloody-disgusting.com/movie/3748784/children-of-the-corn-remake-finally-getting-march-release-from-rlje-films-and-shudder/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2020/10/children-of-the-corn-image.png?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2023-01-26T17:27:27Z",
-      "Content": "One of the first movies to film during the early days of the pandemic back in 2020, director Kurt Wimmers new take on Stephen Kings horror novel Children of the Corn has been off the map completely f… [+1556 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "Javed Farooqui",
-      "Title": "Pathaan first Hindi movie to pocket ₹100 cr at box office in a day",
-      "Description": "The production house added that the film has also become the biggest Bollywood opener with a net domestic box office collection of Rs 55 crore on the first day of its release.",
-      "Url": "https://economictimes.indiatimes.com/industry/media/entertainment/pathaan-first-hindi-movie-to-pocket-100-cr-at-box-office-in-a-day/articleshow/97357906.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-97357958,width-1070,height-580,imgsize-37946,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-01-26T17:23:31Z",
-      "Content": "Shah Rukh Khan-starrer 'Pathaan' has made more than Rs 106 crore in gross global box office collections on the opening day, the highest ever for a Hindi film, producer Yash Raj Films (YRF) has claime… [+3106 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "City A.M."
-      },
-      "Author": "Steve Dinneen",
-      "Title": "Gerard Butler new film Plane is a big dumb action movie",
-      "Description": "Amidst all the complicated emotions of Oscar season, it’s a nice change of pace to see something as straightforward as Plane, starring Gerard Butler, on the release slate. The all-action Scot plays Brodie Torrance, a pilot in charge of a routine flight that’s…",
-      "Url": "https://www.cityam.com/gerard-butler-new-film-plane-is-a-big-dumb-action-movie/",
-      "UrlToImage": "https://www.cityam.com/wp-content/uploads/2023/01/jungle-1.jpg",
-      "PublishedAt": "2023-01-26T17:13:24Z",
-      "Content": "Thursday 26 January 2023 5:13 pm\r\nBy: \r\nJames Luxford\r\nJames City A.M.'s film editor and a regular on both TV and radio discussing the latest movie releases\r\nAmidst all the complicated emotions of Os… [+1355 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "John Squires",
-      "Title": "‘Hunt Her, Kill Her’ – Survival Horror Movie Acquired by Welcome Villain Films for March Release",
-      "Description": "Just launched last year, the new label Welcome Villain Films has just made its first major acquisition, picking up the survival horror movie Hunt Her, Kill Her for early 2023 release. Variety reports, “The movie, originally titled Night Shift, will be release…",
-      "Url": "https://bloody-disgusting.com/movie/3748778/hunt-her-kill-her-survival-horror-movie-acquired-by-welcome-villain-films-for-march-release/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/01/HuntHerKillHer_COMING_SOON_Web.jpg?resize=1000%2C563&ssl=1",
-      "PublishedAt": "2023-01-26T17:09:21Z",
-      "Content": "One of the first movies to film during the early days of the pandemic back in 2020, director Kurt Wimmers new take on Stephen Kings horror novel Children of the Corn has been off the map completely f… [+1556 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "WGN TV Chicago"
-      },
-      "Author": "Dean Richards",
-      "Title": "Sneak peek of Alama Drafthouse Cinema in Wrigleyville",
-      "Description": "CHICAGO — There's a new neighbor surrounding the Friendly Confines of Wrigley Field. Alamo Drafthouse Cinema opens Friday, Jan. 27 at 3519 N. Clark Street in Wrigleyville. The six theater, 372-seat complex breaks away from the usual movie-going experience fro…",
-      "Url": "https://wgntv.com/news/deans-list/sneak-peek-of-alama-drafthouse-cinema-in-wrigleyville/",
-      "UrlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/01/alamodrafthouse.jpg?w=1280",
-      "PublishedAt": "2023-01-26T16:51:06Z",
-      "Content": "CHICAGO There’s a new neighbor surrounding the Friendly Confines of Wrigley Field.\r\nAlamo Drafthouse Cinema opens Friday, Jan. 27 at 3519 N. Clark Street in Wrigleyville. \r\nThe six theater, 372-seat … [+487 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Wild Hearts Gameplay Trailer Unleashes the Fearsome Golden Tempest",
-      "Description": "Koei Tecmo has released a new Wild Hearts trailer for the upcoming action game ahead of its release on February 17 for PlayStation 5, Xbox Series X|S, and PC. This new trailer gives players a look at the Golden Tempest — a giant mythical tiger creature that u…",
-      "Url": "https://www.comingsoon.net/games/trailers/1263381-wild-hearts-gameplay-trailer",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/kemono-header.png?resize=1200,630",
-      "PublishedAt": "2023-01-26T16:50:47Z",
-      "Content": "Koei Tecmo has released a new Wild Hearts trailer for the upcoming action game ahead of its release on February 17 for PlayStation 5, Xbox Series X|S, and PC.\r\nThis new trailer gives players a look a… [+564 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "/FILM"
-      },
-      "Author": "Jeremy Mathai",
-      "Title": "65 Trailer: Adam Driver Goes Full Planet Of The Dinos In Sony's New Sci-Fi Thriller",
-      "Description": "When we first heard about the upcoming \"65,\" all we officially knew about the project was its rather vague title, the fact that Adam Driver was installed as the lead, and that the story would follow an astronaut who \"crash lands on a mysterious planet only to…",
-      "Url": "https://www.slashfilm.com/1179403/65-trailer-adam-driver-goes-full-planet-of-the-dinos-in-sonys-new-sci-fi-thriller/",
-      "UrlToImage": "https://www.slashfilm.com/img/gallery/65-trailer-adam-driver-goes-full-planet-of-the-dinos-in-sonys-new-sci-fi-thriller/l-intro-1674750802.jpg",
-      "PublishedAt": "2023-01-26T16:39:58Z",
-      "Content": "When we first heard about the upcoming \"65,\" all we officially knew about the project was its rather vague title, the fact that Adam Driver was installed as the lead, and that the story would follow … [+1113 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tudor Leonte",
-      "Title": "The Last of Us Episode 3 HBO Max Release Date & Time",
-      "Description": "The Last of Us Episode 3 is just a few days away from hitting HBO Max. The situation is getting stickier than ever for Joel Miller (Pedro Pascal) and Ellie Williams (Bella Ramsey), who have experienced a close encounter with the Clickers. The Last of Us Episo…",
-      "Url": "https://www.comingsoon.net/tv/news/1263662-the-last-of-us-episode-3-hbo-max-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/The-Last-of-Us-Episode-3-HBO-Max.jpg?resize=1200,630",
-      "PublishedAt": "2023-01-26T16:34:00Z",
-      "Content": "The Last of Us Episode 3 is just a few days away from hitting HBO Max.\r\nThe situation is getting stickier than ever for Joel Miller (Pedro Pascal) and Ellie Williams (Bella Ramsey), who have experien… [+1720 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "INFINITY POOL Director Brandon Cronenberg Explains the Toned Down R-Rated Theatrical Cut",
-      "Description": "Brandon Cronenberg's new horror movie Infinity Pool was extremely twisted and completely messed up. It was a hard film for me to watch, and you can read my review of it here if you want. The movie has gotten mixed reviews at Sundance with people calling it \"p…",
-      "Url": "https://geektyrant.com/news/infinity-pool-director-brandon-cronenberg-explains-the-toned-down-r-rated-the-theatrical-cut",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d15b11339d1f6dfcfa1861/1674750655470/Screen+Shot+2023-01-25+at+10.04.26+AM.jpg?format=1500w",
-      "PublishedAt": "2023-01-26T16:30:00Z",
-      "Content": "Brandon Cronenberg's new horror movie Infinity Poolwas extremely twisted and completely messed up. It was a hard film for me to watch, and you can read my review of it here if you want. The movie has… [+2372 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Egotastic.com"
-      },
-      "Author": "Echo Lawrence",
-      "Title": "Salma Hayek Wears Mesh on The Red Carpet!",
-      "Description": "Salma Hayek is looking about 15 years younger this week as she made her way to the red carpet to celebrate the release of her latest movie, Magic Mike’s Last Dance. The actress was joined by her co-star Channing Tatum and wore a tight fitting black crochet me…",
-      "Url": "http://www.egotastic.com/salma-hayek-wears-mesh-on-the-red-carpet/",
-      "UrlToImage": "http://www.egotastic.com/wp-content/uploads/2023/01/Salma-Hayek.png",
-      "PublishedAt": "2023-01-26T16:27:48Z",
-      "Content": "Salma Hayek is looking about 15 years younger this week as she made her way to the red carpet to celebrate the release of her latest movie, Magic Mike's Last Dance. The actress was joined by her co-s… [+628 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Inside the Magic"
-      },
-      "Author": "Zach Gass",
-      "Title": "New Mickey Mouse Queue Puts Hollywood to Shame",
-      "Description": "Where the Great Movie Ride once stood at the center of Hollywood Studios, Mickey and Minnie have set up their Runaway Railway. But while the variation in Walt Disney World continues to use a Mickey-fied version of Grauman’s Chinese Theater, Disneyland’s versi…",
-      "Url": "https://insidethemagic.net/2023/01/new-mickey-queue-puts-hollywood-to-shame-zg1/",
-      "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2022/12/mickey-and-minnie-runaway-railway-at-disneyland-header.png",
-      "PublishedAt": "2023-01-26T15:56:20Z",
-      "Content": "Where the Great Movie Ride once stood at the center of Hollywood Studios, Mickey and Minnie have set up their Runaway Railway. But while the variation in Walt Disney World continues to use a Mickey-f… [+2519 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tyler Treese",
-      "Title": "We Have a Ghost Trailer Previews Anthony Mackie & David Harbour Comedy",
-      "Description": "The We Have a Ghost trailer for Netflix’s forthcoming horror comedy has been released, providing us with a better look at the movie starring David Harbour and Anthony Mackie. The project hails from Happy Death Day director Christopher Landon. It will release …",
-      "Url": "https://www.comingsoon.net/movies/trailers/1263348-we-have-a-ghost-trailer",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/We_Have_a_Ghost_00_41_55_17_R.jpg?resize=1200,630",
-      "PublishedAt": "2023-01-26T15:10:26Z",
-      "Content": "The We Have a Ghost trailer for Netflixs forthcoming horror comedy has been released, providing us with a better look at the movie starring David Harbour and Anthony Mackie. The project hails from Ha… [+1092 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cleveland Scene"
-      },
-      "Author": "Vince Grzegorek",
-      "Title": "Regal Great Northern Mall Movie Theater in North Olmsted Will Permanently Close This Week",
-      "Description": "The bad news for Northeast Ohio moviegoers continues this week as the Regal Great Northern Mall movie theater will permanently close at the end of business on Friday. The AMC in Solon closed earlier this month, as that chain deals with the fallout of hundreds…",
-      "Url": "https://www.clevescene.com/news/regal-great-northern-mall-movie-theater-in-north-olmsted-will-permanently-close-this-week-41293897",
-      "UrlToImage": "https://media1.clevescene.com/clevescene/imager/u/slideshow/41294138/regalnorth.jpeg",
-      "PublishedAt": "2023-01-26T15:04:20Z",
-      "Content": "The bad news for Northeast Ohio moviegoers continues this week as the Regal Great Northern Mall movie theater will permanently close at the end of business on Friday.The AMC in Solon closed earlier t… [+1033 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Exclusive Let It Be Morning Clip Shows a Wedding Slip-Up",
-      "Description": "ComingSoon is debuting an exclusive Let It Be Morning clip from writer and director Eran Kolirin’s upcoming drama film. The film will open theatrically in the United States on February 3 at the Laemmle Royal Theater and Landmark Pasadena in Los Angeles and th…",
-      "Url": "https://www.comingsoon.net/?p=1263009",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/let-it-be-morning-clip-header.png?resize=1200,630",
-      "PublishedAt": "2023-01-26T15:00:00Z",
-      "Content": "ComingSoon is debuting an exclusive Let It Be Morning clip from writer and director Eran Kolirins upcoming drama film. The film will open theatrically in the United States on February 3 at the Laemml… [+808 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "Bina123",
-      "Title": "Rising Star Don Toliver",
-      "Description": "It's the year 2023 and Don Toliver's career is soaring. After the release of his debut album \"Heaven or Hell\" in 2020, he quickly became one of the most sought-after artists in the music industry. His unique blend of R&B and hip-hop had fans hooked and his sm…",
-      "Url": "https://slashdot.org/submission/17175391/rising-star-don-toliver",
-      "UrlToImage": null,
-      "PublishedAt": "2023-01-26T14:48:09Z",
-      "Content": "It's the year 2023 and Don Toliver's career is soaring. After the release of his debut album \"Heaven or Hell\" in 2020, he quickly became one of the most sought-after artists in the music industry. Hi… [+1582 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livemint"
-      },
-      "Author": "Livemint",
-      "Title": "Pathaan's record-breaking Box Office numbers: Here's what has worked for the film",
-      "Description": "A movie whose release was marred by controversy from particular religious and political outfits, went through 12 CBFC recommended cuts, managed to create a whole new records just with its opening day earnings",
-      "Url": "https://www.livemint.com/industry/media/shah-rukh-khan-starrer-pathaan-s-record-breaking-box-office-numbers-here-s-what-has-worked-for-the-film-11674741419719.html",
-      "UrlToImage": "https://images.livemint.com/img/2023/01/26/600x338/PTI01-25-2023-000030B-0_1674741562079_1674741562079_1674741582512_1674741582512.jpg",
-      "PublishedAt": "2023-01-26T14:34:15Z",
-      "Content": "Shah Rukh Khan starrer Pathaan movie has been declared as the first Blockbuster of Bollywood in 2023. The entertaining spy thriller that also stars Deepika Padukone and John Abraham, has broken and c… [+2930 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Pooja Shah",
-      "Title": "Haley Bennett Relives Her Awkward Date Scene With Jonathan Majors in \"Magazine Dreams\"",
-      "Description": "(L-R) Elijah Bynum, Haley Bennett, Jonathan Majors, and Taylour Paige visit the IMDb Portrait Studio at Acura Festival Village at Sundance 2023. Image Source: Getty Images for IMDb /Corey Nickols\nImagine a dimly lit room in a small house that is covered with …",
-      "Url": "https://www.popsugar.com/entertainment/haley-bennett-magazine-dreams-interview-49071140",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/gsoEA2-wX7ldBEgVja6WvLtn1VQ/0x143:3592x2029/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/01/25/964/n/1922283/d1bbe00963d1a87cec22a4.44731879_.jpg",
-      "PublishedAt": "2023-01-26T14:00:14Z",
-      "Content": "(L-R) Elijah Bynum, Haley Bennett, Jonathan Majors, and Taylour Paige visit the IMDb Portrait Studio at Acura Festival Village at Sundance 2023. Image Source: Getty Images for IMDb /Corey Nickols\r\nIm… [+5404 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "Aoashi Season 1 Part 1 Blu-ray Release Date & Special Features",
-      "Description": "Fans of sports and slice of life anime can look forward to the home video release of Aoashi. The Aoashi Season 1 Part 1 Blu-ray is coming in April 2023. Pre-orders are now available on the Crunchyroll Store. “When Aoi Ashito tries out for the J. League youth …",
-      "Url": "https://www.comingsoon.net/?p=1263069",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/aoashi.png?resize=1200,630",
-      "PublishedAt": "2023-01-26T13:30:00Z",
-      "Content": "Fans of sports and slice of life anime can look forward to the home video release of Aoashi. The Aoashi Season 1 Part 1 Blu-ray is coming in April 2023. Pre-orders are now available on the Crunchyrol… [+1769 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "newsweek.com",
-      "Title": "'Shotgun Wedding' release date, trailer and cast led by Jennifer Lopez",
-      "Description": "Shotgun Wedding is the highly-anticipated new movie from Prime Video, starring Jennifer Lopez and Josh Duhamel in the lead roles. The movie, which was originally due to star Armie Hammer opposite Lopez before he stepped away from the project, follows a couple…",
-      "Url": "https://biztoc.com/x/c027ea9813c906dc",
-      "UrlToImage": "https://c.biztoc.com/p/c027ea9813c906dc/og.webp",
-      "PublishedAt": "2023-01-26T12:36:04Z",
-      "Content": "Shotgun Wedding is the highly-anticipated new movie from Prime Video, starring Jennifer Lopez and Josh Duhamel in the lead roles.The movie, which was originally due to star Armie Hammer opposite Lope… [+342 chars]"
-    },
-    {
-      "Source": {
-        "Id": "independent",
-        "Name": "Independent"
-      },
-      "Author": "Alistair Charlton",
-      "Title": "Where to watch Teen Wolf: The Movie on its UK release date",
-      "Description": "Teen Wolf: The Movie is coming to the UK on 27 January. Here’s where to watch it through the Paramount Plus streaming service",
-      "Url": "https://www.independent.co.uk/extras/indybest/gadgets-tech/television/teen-wolf-movie-uk-streaming-b2269664.html",
-      "UrlToImage": "https://static.independent.co.uk/2023/01/26/12/Teen%20Wolf.jpg?quality=75&width=1200&auto=webp",
-      "PublishedAt": "2023-01-26T12:25:10Z",
-      "Content": "Sign up to our free weekly newsletter for insider tips and product reviews from our shopping experts\r\nSign up for our free IndyBest email\r\nFans of MTV series Teen Wolf are in for a treat this Friday,… [+2543 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "What's on Netflix"
-      },
-      "Author": "Tigran Asatryan",
-      "Title": "‘Lift’ Kevin Hart Netflix Comedy Heist Movie Sets August 2023 Release Date & Everything Else We Know So Far",
-      "Description": "Kevin Hart's upcoming comedy-heist movie 'Lift' is coming to Netflix in August 2023.",
-      "Url": "https://www.whats-on-netflix.com/news/lift-kevin-harts-upcoming-netflix-movie-what-we-know-so-far-01-2023/",
-      "UrlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2022/03/kevin-hart-netflix-heist-movie-lift-coming-to-netflix-in-august-2023-png.png",
-      "PublishedAt": "2023-01-26T11:14:06Z",
-      "Content": "Lift – Picture. HartBeat Productions\r\nOver the past few years, Kevin Hart and Netflix have built a lucrative and fruitful relationship. This will continue with Hart’s next venture on the platform, th… [+4892 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Brit + Co"
-      },
-      "Author": "Chloe Williams​",
-      "Title": "55+ Fun Date Night Ideas You Can Do With A Partner And With Friends",
-      "Description": "Valentine's Day can be incredibly intimidating if you're in a new relationship, your first relationship, or if you're single. But there's no reason to not have the best day ever when February 14 rolls around, no matter your relationship status. If planning is…",
-      "Url": "https://www.brit.co/fun-date-night-ideas/",
-      "UrlToImage": "https://www.brit.co/media-library/fun-date-night-ideas-for-2023.png?id=32905118&width=1200&height=600&coordinates=0%2C114%2C0%2C114",
-      "PublishedAt": "2023-01-26T11:00:02Z",
-      "Content": "Valentine's Day can be incredibly intimidating if you're in a new relationship, your first relationship, or if you're single. But there's no reason to not have the best day ever when February 14 roll… [+5111 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "What's on Netflix"
-      },
-      "Author": "Jacob Robinson",
-      "Title": "‘Extraction 2’ Netflix Movie Sets June 2023 Release Date & Everything Else We Know",
-      "Description": "Everything we know about Chris Hemsworth's return as Tyler Rake.",
-      "Url": "https://www.whats-on-netflix.com/news/russo-brothers-extraction-2-everything-we-know-so-far-01-2023/",
-      "UrlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2022/09/extraction-2-netflix-movie.jpg",
-      "PublishedAt": "2023-01-26T10:22:56Z",
-      "Content": "Extraction 2 – Cr. Jason Boland/Netflix\r\nOne of Netflix’s biggest movies, Extraction, is returning with a sequel in the summer of 2023. Chris Hemsworth will be returning to reprise his role as Tyler … [+3781 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Spotlight Special",
-      "Title": "Tamil thriller 'Raangi' set to release on OTT platforms on January 29.",
-      "Description": "Trisha Krishnan-starrer Tamil thriller 'Raangi' is going to release on the OTT platforms on January 29, 2023. The movie was released in theatres on December 30,2022.",
-      "Url": "https://economictimes.indiatimes.com/news/new-updates/tamil-thriller-raangi-set-to-release-on-ott-platforms-on-january-29-/articleshow/97344709.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-97345099,width-1070,height-580,imgsize-385531,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-01-26T09:25:57Z",
-      "Content": "Raangi, Tamil action thriller starring Trisha Krishnan is set to release on OTT platforms from January 29, 2023. The movie will stream this weekend on Netflix which has got its post-theatrical digita… [+2144 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Den of Geek US"
-      },
-      "Author": "Don Kaye",
-      "Title": "Would 2023’s Oscar Movie Flops Have Been Box Office Hits Just a Few Years Ago?",
-      "Description": "There’s no question about it: the double whammy of streaming and COVID has permanently changed the landscape of traditional moviegoing. The discovery by audiences that they could watch all kinds of original new movies at home, both during and after a vicious …",
-      "Url": "https://www.denofgeek.com/movies/would-oscar-movie-flops-been-box-office-hits-years-ago/",
-      "UrlToImage": "https://www.denofgeek.com/wp-content/uploads/2023/01/Oscar-Movies-Box-Office-Flops.jpg?fit=1200%2C675",
-      "PublishedAt": "2023-01-26T08:15:00Z",
-      "Content": "But compare that to 2018s The Favourite, another English-language black comedy from a European director (Yorgos Lanthimos) about wealth, affluence and gender/sexual politics (except its set in the Br… [+3677 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livejournal.com"
-      },
-      "Author": "sandstorm",
-      "Title": "ontd original: the Best Animated Feature Roundup 2022",
-      "Description": "It’s that time of year again. Where I do this, and where you read it. The Academy was mostly predictable, except with that coveted 5th spot.Bonus, this year, I’m going to do the preferential voting thing that members of The Academy do. In case you don’t know …",
-      "Url": "https://ohnotheydidnt.livejournal.com/125154842.html",
-      "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/488886?v=1674701496",
-      "PublishedAt": "2023-01-26T02:51:24Z",
-      "Content": "It’s that time of year again. Where I do this, and where you read it. The Academy was mostly predictable, except with that coveted 5th spot.\r\nBonus, this year, I’m going to do the preferential voting… [+5946 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nep123.com"
-      },
-      "Author": "Nepalnews.com",
-      "Title": "Katrina Kaif urges people to not give out spoilers of SRK’s ‘Pathaan’",
-      "Description": "Ahead of the highly anticipated release of Shah Rukh Khan-starrer ‘Pathaan&rsquor;, Katrina Kaif on Tuesday urged audiences to not give out spoilers. Taking to Instagram Story, the actor posted a still from her movie ‘Tiger 3&rsquor; along with a caption, “My…",
-      "Url": "https://nep123.com/news/nepal-news/katrina-kaif-urges-people-to-not-give-out-spoilers-of-srks-pathaan-2/",
-      "UrlToImage": "https://web.nepalnews.com/storage/story/1024/ANI_202301242058181674645690_1024.jpg",
-      "PublishedAt": "2023-01-26T00:43:46Z",
-      "Content": "Ahead of the highly anticipated release of ShahRukh Khan-starrer ‘Pathaan&amp;rsquor;, KatrinaKaif on Tuesday urged audiences to not give out spoilers.\r\nTaking to Instagram Story, the actor posted a … [+225 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Aqua Teen Hunger Force Season 12 Announced Ahead of Plantasm HBO Max Release",
-      "Description": "Aqua Teen Hunger Force is headed back for another season, as its creators have announced that the series had been renewed for a 12th season. According to the announcement, the new season will comprise of five episodes. Creators Dave Willis and Matt Maiellaro …",
-      "Url": "https://www.comingsoon.net/tv/news/1263302-aqua-teen-hunger-force-season-12-announced-ahead-of-plantasm-hbo-max-release",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/aqua-teen-hunger-force.png?resize=1200,630",
-      "PublishedAt": "2023-01-25T23:00:34Z",
-      "Content": "Aqua Teen Hunger Force is headed back for another season, as its creators have announced that the series had been renewed for a 12th season.\r\nAccording to the announcement, the new season will compri… [+1633 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Complex"
-      },
-      "Author": "Joe Price",
-      "Title": "'Aqua Teen Hunger Force' Revived for Season 12 at Adult Swim",
-      "Description": "'Aqua Teen Hunger Force,' one of the first Adult Swim shows, has been revived for Season 12 following the release of its second direct-to-video movie.",
-      "Url": "https://www.complex.com/pop-culture/aqua-teen-hunger-force-season-12",
-      "UrlToImage": "https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/aelyisi6i9oxnoz3yrtt/aqua-teen-hunger-force",
-      "PublishedAt": "2023-01-25T22:33:18Z",
-      "Content": "Aqua Teen Hunger Force, one of the first original Adult Swim shows, has been revived for Season 12 following its initial cancellation back in 2015.\r\nPer Entertainment Weekly, the cult classic animate… [+1284 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dark Horizons"
-      },
-      "Author": "Garth Franklin",
-      "Title": "Gerard Butler-Led “Kandahar” Sets Release",
-      "Description": "Open Road Films has set a May 26th U.S. wide theatrical release date this year for the Gerard Butler-led action movie “Kandahar”. The feature, which hails from “Angel Has Fallen” helmer Ric Roman Waugh, joins other big theatrical titles over the four-day Memo…",
-      "Url": "https://www.darkhorizons.com/gerard-butler-led-kandahar-sets-release/",
-      "UrlToImage": "https://cdndh.darkhorizons.com/wp-content/uploads/2023/01/gerard-butler-led-kandahar-sets-release.jpg",
-      "PublishedAt": "2023-01-25T22:32:57Z",
-      "Content": "Open Road Films has set a May 26th U.S. wide theatrical release date this year for the Gerard Butler-led action movie “Kandahar”.\r\nThe feature, which hails from “Angel Has Fallen” helmer Ric Roman Wa… [+1335 chars]"
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "marca.com",
-      "Title": "Cate Blanchett net worth: How much does she earn and what is the fortune of the multi Oscar nominee?",
-      "Description": "Cate Blanchett is an Australian TV, movie and theater actress born in Melbourne on May 14, 1969, her father was an American Navy officer and her mother a property developer, with t",
-      "Url": "https://www.marca.com/en/lifestyle/celebrity-net-worth/2023/01/25/63d1a224e2704e2e708b45bd.html",
-      "UrlToImage": "https://phantom-marca.unidadeditorial.es/7c6b777d1484629eabad3d1429328f29/resize/1200/f/jpg/assets/multimedia/imagenes/2023/01/25/16746826341603.jpg",
-      "PublishedAt": "2023-01-25T22:12:06Z",
-      "Content": "Cate Blanchett is an Australian TV, movie and theater actress born in Melbourne on May 14, 1969, her father was an American Navy officer and her mother a property developer, with the two meeting when… [+1731 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nep123.com"
-      },
-      "Author": "Nepalnews.com",
-      "Title": "Katrina Kaif urges people to not give out spoilers of SRK’s ‘Pathaan’",
-      "Description": "Ahead of the highly anticipated release of Shah Rukh Khan-starrer ‘Pathaan&rsquor;, Katrina Kaif on Tuesday urged audiences to not give out spoilers. Taking to Instagram Story, the actor posted a still from her movie ‘Tiger 3&rsquor; along with a caption, “My…",
-      "Url": "https://nep123.com/news/nepal-news/katrina-kaif-urges-people-to-not-give-out-spoilers-of-srks-pathaan/",
-      "UrlToImage": "https://web.nepalnews.com/storage/story/1024/ANI_202301242058181674645690_1024.jpg",
-      "PublishedAt": "2023-01-25T22:09:36Z",
-      "Content": "Ahead of the highly anticipated release of ShahRukh Khan-starrer ‘Pathaan&amp;rsquor;, KatrinaKaif on Tuesday urged audiences to not give out spoilers.\r\nTaking to Instagram Story, the actor posted a … [+225 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "deadline.com",
-      "Title": "Open Road’s Gerard Butler Pic ‘Kandahar’ Sets Memorial Day Weekend Release",
-      "Description": "EXCLUSIVE: Add another wide release to the 2023 theatrical release calendar as Open Road has just dated the Gerard Butler action movie Kandahar for May 26, Memorial Day weekend. The Ric Roman Waugh-directed feature joins other big theatrical titles over the 4…",
-      "Url": "https://biztoc.com/x/b6c942264f13e5d5",
-      "UrlToImage": "https://c.biztoc.com/p/b6c942264f13e5d5/og.webp",
-      "PublishedAt": "2023-01-25T21:32:07Z",
-      "Content": "EXCLUSIVE: Add another wide release to the 2023 theatrical release calendar as Open Road has just dated the Gerard Butler action movie Kandahar for May 26, Memorial Day weekend.The Ric Roman Waugh-di… [+306 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Trailer For The Sci-Fi Adventure Film ALIENS ABDUCTED MY PARENTS AND NOW I FEEL KINDA LEFT OUT",
-      "Description": "Visit Films has released a trailer for an indie sci-fi adventure comedy titled Aliens Abducted My Parents And Now I Feel Kinda Left Out. This movie premiered at the Sundance Film Festival and I had a chance to watch it while there. This movie was silly ridicu…",
-      "Url": "https://geektyrant.com/news/trailer-for-the-sci-fi-adventure-film-aliens-abducted-my-parents-and-now-i-feel-left-out",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d04d8d99fe9f018d892440/1674682224514/trailer-for-the-sci-fi-adventure-film-aliens-abducted-my-parents-and-now-i-feel-left-out.jpg?format=1500w",
-      "PublishedAt": "2023-01-25T21:30:00Z",
-      "Content": "Visit Films has released a trailer for an indie sci-fi adventure comedy titled Aliens Abducted My Parents And Now I Feel Kinda Left Out. This movie premiered at the Sundance Film Festival and I had a… [+1332 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Theme Park Insider"
-      },
-      "Author": null,
-      "Title": "Take Two's a Keeper for Mickey & Minnie's Runway Railway",
-      "Description": "By Robert Niles: How do you follow a hit?In the modern entertainment business, hits demand sequels. But if you're the insider charged with making that sequel, what do you do? Do you lean in and double down on what made the original a success, or do you take a…",
-      "Url": "https://www.themeparkinsider.com/flume/202301/9356/",
-      "UrlToImage": "https://www.themeparkinsider.com/art/flume/9356.jpg",
-      "PublishedAt": "2023-01-25T21:24:00Z",
-      "Content": "January 25, 2023, 3:24 PM · \r\nHow do you follow a hit?\r\nIn the modern entertainment business, hits demand sequels. But if you're the insider charged with making that sequel, what do you do? Do you le… [+4810 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "anthonypauldalessandro",
-      "Title": "Open Road’s Gerard Butler Pic ‘Kandahar’ Sets Memorial Day Weekend Release",
-      "Description": "EXCLUSIVE: Add another wide release to the 2023 theatrical release calendar as Open Road has just dated the Gerard Butler action movie Kandahar for May 26, Memorial Day weekend. The Ric Roman Waugh-directed feature joins other big theatrical titles over the 4…",
-      "Url": "https://deadline.com/2023/01/gerard-butler-kandahar-theatrical-release-1235240970/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2023/01/kandahar.jpg?w=1024",
-      "PublishedAt": "2023-01-25T21:19:14Z",
-      "Content": "EXCLUSIVE: Add another wide release to the 2023 theatrical release calendar as Open Road has just dated the Gerard Butler action movie Kandaharfor May 26, Memorial Day weekend. \r\nThe Ric Roman Waugh-… [+1136 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Exclusive Unexpected Trailer Previews the Quirky Rom-Com",
-      "Description": "ComingSoon is debuting an exclusive Unexpected trailer for the upcoming comedy based on the Bob Tarte novel Enslaved by Ducks. The movie is set to release through video-on-demand platforms on February 1. “Bob and Amy are at a crossroad: she wants to adopt a b…",
-      "Url": "https://www.comingsoon.net/movies/trailers/1263197-exclusive-unexpected-trailer",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/unexpected-header.png?resize=1200,630",
-      "PublishedAt": "2023-01-25T21:00:00Z",
-      "Content": "ComingSoon is debuting an exclusive Unexpected trailer for the upcoming comedy based on the Bob Tarte novel Enslaved by Ducks. The movie is set to release through video-on-demand platforms on Februar… [+622 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "The Next Movie From BARBARIAN Director Zach Cregger is WEAPONS and New Line Won The Rights",
-      "Description": "After director Zach Cregger’s Barbarian became a huge hit, fans of the film have been wondering what Cregger’s next project would be. Well, that project has been revealed and it’s a new horror movie titled Weapons. As soon as the project was revealed a biddin…",
-      "Url": "https://geektyrant.com/news/the-next-movie-from-barbarian-director-zach-cregger-is-weapons-and-its-in-the-middle-of-a-bidding-war",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d18c86bb7c5d2a6d87424a/1674680405819/the-next-movie-from-barbarian-director-zach-cregger-is-weapons-and-its-in-the-middle-of-a-bidding-war.jpg?format=1500w",
-      "PublishedAt": "2023-01-25T21:00:00Z",
-      "Content": "After director Zach Creggers Barbarian became a huge hit, fans of the film have been wondering what Creggers next project would be. Well, that project has been revealed and its a new horror movie tit… [+1682 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "hollywoodreporter.com",
-      "Title": "Where to Watch Pixar’s Oscar-Nominated Animated Film, ‘Turning Red’ Online",
-      "Description": "Pixar decided to forgo Turning Red‘s theatrical release last year due to the Omicron variant, instead sending the film straight to streaming on Disney+ after a one-week screening for Los Angeles moviegoers at the Disney-owned El Capitan Theatre in Hollywood. …",
-      "Url": "https://biztoc.com/x/0b7e15a59397c867",
-      "UrlToImage": "https://c.biztoc.com/p/0b7e15a59397c867/og.webp",
-      "PublishedAt": "2023-01-25T20:10:07Z",
-      "Content": "Pixar decided to forgo Turning Reds theatrical release last year due to the Omicron variant, instead sending the film straight to streaming on Disney+ after a one-week screening for Los Angeles movie… [+322 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "M. Night Shyamalan Is Optimistic About the Future of Cinema - \"Audiences Are Dying to Come to Movie Theaters\"",
-      "Description": "With Knock on the Cabin coming out soon, director M. Night Shyamalan is excited for people to see it in theaters on a big screen. That’s how I enjoy watching my movies and so do a lot of other people. I’ve seen a lot of reports about cinema dying, and while i…",
-      "Url": "https://geektyrant.com/news/m-night-shyamalan-is-optimistic-about-the-future-of-cinema-audiences-are-dying-to-come-to-movie-theaters",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d05919424128645486965d/1674676806359/m-night-shyamalan-is-optimistic-about-the-future-of-cinema-audiences-are-dying-to-come-to-movie-theaters.jpg?format=1500w",
-      "PublishedAt": "2023-01-25T20:00:00Z",
-      "Content": "With Knock on the Cabin coming out soon, director M. Night Shyamalanis excited for people to see it in theaters on a big screen. Thats how I enjoy watching my movies and so do a lot of other people. … [+2611 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Michael Leri",
-      "Title": "GoldenEye 007 Releasing on Switch, Xbox Soon",
-      "Description": "Nintendo confirmed that GoldenEye 007 was coming to the Switch during the September 2022 Direct, which was then followed by an announcement stating it was headed to Xbox One and Xbox Series X|S, too. And now after a long wait, Xbox and Nintendo have finally a…",
-      "Url": "https://www.comingsoon.net/games/news/1263163-goldeneye-007-releasing-on-switch-xbox-soon",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/007.jpg?resize=1200,630",
-      "PublishedAt": "2023-01-25T19:50:38Z",
-      "Content": "Nintendo confirmed that GoldenEye 007 was coming to the Switch during the September 2022 Direct, which was then followed by an announcement stating it was headed to Xbox One and Xbox Series X|S, too.… [+1368 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Sundance Review: TALK TO ME Is an Awesome Horror Film That Delivers a Great, Terrifying Story!",
-      "Description": "Every time I go to Sundance, the films that I look forward to watching most are horror movies. I just love that genre, and there’s always a mixed bag of them at the film festival. Nothing really struck me through the first half of the festival, and then I saw…",
-      "Url": "https://geektyrant.com/news/sundance-review-talk-to-me-is-an-awesome-horror-film-that-delivers-a-great-terrifying-story",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63cf7fb351923b311fa0327c/1674675006587/sundance-review-talk-to-me-is-an-awesome-horror-film-that-delivers-a-great-terrifying-story.jpg?format=1500w",
-      "PublishedAt": "2023-01-25T19:30:00Z",
-      "Content": "Every time I go to Sundance, the films that I look forward to watching most are horror movies. I just love that genre, and theres always a mixed bag of them at the film festival. Nothing really struc… [+2912 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Gavia Baker-Whitelaw",
-      "Title": "The ‘Forspoken’ dialogue controversy is back with vengeance—and it’s more complicated than before",
-      "Description": "Square Enix's fantasy RPG Forspoken arrived this week, reigniting the furious discourse over its genre-savvy dialogue. Based on the isekai trope where a modern protagonist accidentally travels to a fantasy world, the game is earning mixed-to-positive reviews.…",
-      "Url": "https://www.dailydot.com/unclick/forspoken-dialogue-backlash-black-writers/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/01/forspoken2.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2023-01-25T19:25:49Z",
-      "Content": "Square Enix’s fantasy RPG Forspokenarrived this week, reigniting the furious discourse over its genre-savvy dialogue. Based on the isekai trope where a modern protagonist accidentally travels to a fa… [+3326 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "John Squires",
-      "Title": "‘Weapons’ – ‘Barbarian’ Director Zach Cregger Sets Up Next Horror Movie With New Line Cinema!",
-      "Description": "New Line Cinema has acquired the original screenplay Weapons from the filmmaking team behind the award-winning horror hit Barbarian, BD has learned this afternoon. Moving full speed ahead toward a theatrical release, production is anticipated to commence late…",
-      "Url": "https://bloody-disgusting.com/movie/3748612/weapons-barbarian-director-zach-cregger-sets-up-next-movie-with-new-line-cinema/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/12/Barbarian-Mother.jpg?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2023-01-25T19:14:56Z",
-      "Content": "New Line Cinema has acquired the original screenplay Weapons from the filmmaking team behind the award-winning horror hit Barbarian, BD has learned this afternoon.\r\nMoving full speed ahead toward a t… [+1835 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Simrin Purhar",
-      "Title": "A Michael Jackson Biopic is Happening - Everything We Know So Far",
-      "Description": "Image Source: Getty / Kevin Mazur / WireImage\nWith the explosion of celebrity biopics in recent years - \"Elvis,\" about rock legend Elvis Presley, \"Bohemian Rhapsody\" about Queen singer Freddie Mercury, and \"Rocketman\" about icon Elton John, to name a few - it…",
-      "Url": "https://www.popsugar.com/entertainment/michael-jackson-movie-49066736",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/GbiaC-5uLjJZ4O-beizvN2FKshI/11x371:4297x2621/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/01/25/812/n/1922283/e3c7778163d17527198359.36181791_.jpg",
-      "PublishedAt": "2023-01-25T19:00:08Z",
-      "Content": "Image Source: Getty / Kevin Mazur / WireImage\r\nWith the explosion of celebrity biopics in recent years \"Elvis,\" about rock legend Elvis Presley, \"Bohemian Rhapsody\" about Queen singer Freddie Mercury… [+3606 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "/FILM"
-      },
-      "Author": "Ryan Scott",
-      "Title": "The Revived Moviepass Has Opened Its Beta, New Pricing And Plan Details Revealed",
-      "Description": "For a certain breed of movie lover, Moviepass was, for a time, a true blessing -- before it became something of a curse. The movie theater subscription service rocked the industry by introducing the concept of unlimited moviegoing for a monthly fee (a rather …",
-      "Url": "https://www.slashfilm.com/1178467/the-revived-moviepass-has-opened-its-beta-new-pricing-and-plan-details-revealed/",
-      "UrlToImage": "https://www.slashfilm.com/img/gallery/the-revived-moviepass-has-opened-its-beta-new-pricing-and-plan-details-revealed/l-intro-1674672842.jpg",
-      "PublishedAt": "2023-01-25T18:55:34Z",
-      "Content": "Instead of a one-cost-fits-all approach, Moviepass will now offer a tiered pricing plan that utilizes a credit-based system. However, it will still be available nationwide for any 2D screening of any… [+1363 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xconomy.com"
-      },
-      "Author": "Troy Wilson",
-      "Title": "[M3GAN Free] Here’s Where To Stream Generative ‘New Movie Megan’ At Home Now",
-      "Description": "<p>M3GAN hits theaters on September 23, 2023. Tickets to see the film at your local movie theater are available online here. The film is being released in a wide release so you can watch it in person. Horror Fan’s! Here are options for downloading or watching…",
-      "Url": "https://xconomy.com/boston/2023/01/25/where-to-stream-generative-megan-athome-now/",
-      "UrlToImage": null,
-      "PublishedAt": "2023-01-25T18:08:47Z",
-      "Content": "M3GAN hits theaters on September 23, 2023. Tickets to see the film at your local movie theater are available online here. The film is being released in a wide release so you can watch it in person.\r\n… [+5896 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "KQED"
-      },
-      "Author": "Sarah Hotchkiss",
-      "Title": "An Illustrated Talk Brings the Richmond’s Rich History of Movie Theaters to Life",
-      "Description": "At the reopened 4 Star Theater, local historian Woody LaBounty talks about movie theaters past and present.",
-      "Url": "https://www.kqed.org/arts/13924146/4-star-theater-talk-movies-richmond-history-woody-labounty",
-      "UrlToImage": "https://ww2.kqed.org/app/uploads/sites/2/2023/01/LaBonita-1020x571.jpg",
-      "PublishedAt": "2023-01-25T17:00:46Z",
-      "Content": "But to properly celebrate the 4 Star’s reopening — and its place in the pantheon of Richmond movie theaters — look no further than a kind of meta-event scheduled for Sunday, Jan. 29 at 5 p.m. “Movies… [+1299 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Indian Express"
-      },
-      "Author": "IE Online",
-      "Title": "Pathaan Movie Release: Multiplexes Cancel Show; But SRK Delivers Rs 50 Crore Plus Opening",
-      "Description": "",
-      "Url": "https://indianexpress.com/videos/news-video/pathaan-movie-release-multiplexes-cancel-show-but-srk-delivers-rs-50-crore-plus-opening/",
-      "UrlToImage": "https://images.indianexpress.com/2023/01/maxresdefault-2.jpg",
-      "PublishedAt": "2023-01-25T17:00:37Z",
-      "Content": "Mindblowing, Super-Hit, Block-Buster This Is What Fans Said About SRK starrer Pathaan"
     }
   ]
 }
