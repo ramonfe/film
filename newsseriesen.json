@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "MacRumors"
+      },
+      "Author": "Juli Clover",
+      "Title": "Apple Smart Home Display: Everything We Know",
+      "Description": "Apple is working on a new Home accessory that is designed to serve as a central hub for smart home management. The Apple TV and the HomePod are already home hubs and almost all Apple devices can control a HomeKit setup, but Apple is designing an all-in-one ho…",
+      "Url": "https://www.macrumors.com/guide/apple-smart-home-display/",
+      "UrlToImage": "https://images.macrumors.com/t/B121rW0RKsIWG_4OsT0NEt40UbU=/1600x/article-new/2023/01/iPad-iOS-16-WP-Display-Feature-eric-edit.jpeg",
+      "PublishedAt": "2023-01-31T21:01:48Z",
+      "Content": "Apple is working on a new Home accessory that is designed to serve as a central hub for smart home management. The Apple TV and the HomePod are already home hubs and almost all Apple devices can cont… [+2603 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/d4593d20d91c8a0a/og.webp",
       "PublishedAt": "2022-12-30T18:32:08Z",
       "Content": "Over 10 years ago, Netflix launched the streaming revolution, rethinking how we watch TV and movies and forcing the rest of the industry to adapt or die trying. But in 2022, the company saw ups and d… [+441 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Linda Codega, Cheryl Eddy, Sabina Graves, James Whitbrook, and Justin Carter",
-      "Title": "The Biggest Michelle Yeoh-Ments of 2022 (and Beyond)",
-      "Description": "Michelle Yeoh with the Daniels (Daniel Scheinert and Daniel Kwan), directors of Everything Everywhere All at Once.\r\nImage: Robin L Marshall / Stringer (Getty Images)\r\nWe’ve loved her for decades, but 2022 brought Michelle Yeoh to new heights with a standout r…",
-      "Url": "https://gizmodo.com/michelle-yeoh-best-moments-2022-everything-everywhere-1849930971",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/36fb9a4b47c38d411ddb2de09d046ebf.png",
-      "PublishedAt": "2022-12-30T18:00:00Z",
-      "Content": "Time (correctly) named Yeoh its Icon of the Year, and in a chat with the publication she shared that she hopes this is only the beginning. I do look at all my peersCate Blanchett, Olivia Colman, Hele… [+394 chars]"
     }
   ]
 }
