@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Gavia Baker-Whitelaw",
+      "Title": "Netflix is failing because it can’t make a show like ‘The Last of Us’",
+      "Description": "This post includes spoilers for The Last of Us episode 3.\n\n\nEveryone is talking about Sunday's episode of The Last of Us. Right now that means the heartbreaking standalone story featuring Nick Offerman and Murray Bartlett, but this statement was equally true …",
+      "Url": "https://www.dailydot.com/unclick/the-last-of-us-episodic-format-hbo-netflix/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/01/the-last-of-us-nick-offerman.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-01-31T18:34:30Z",
+      "Content": "This post includes spoilers for The Last of Us episode 3.\r\nEveryone is talking about Sunday’s episode of The Last of Us. Right now that means the heartbreaking standalone story featuring Nick Offerma… [+4446 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/36fb9a4b47c38d411ddb2de09d046ebf.png",
       "PublishedAt": "2022-12-30T18:00:00Z",
       "Content": "Time (correctly) named Yeoh its Icon of the Year, and in a chat with the publication she shared that she hopes this is only the beginning. I do look at all my peersCate Blanchett, Olivia Colman, Hele… [+394 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Variety"
-      },
-      "Author": "Selome Hailu",
-      "Title": "Every Show Canceled by Netflix in 2022",
-      "Description": "Over 10 years ago, Netflix launched the streaming revolution, rethinking how we watch TV and movies and forcing the rest of the industry to adapt or die trying. But in 2022, the company saw ups and downs to say the least. Wins for Netflix in 2022 include thre…",
-      "Url": "https://variety.com/lists/netflix-shows-canceled-2022/",
-      "UrlToImage": "https://variety.com/wp-content/uploads/2022/12/Collage-Maker-29-Dec-2022-11.45-AM.jpg?w=1000&h=563&crop=1",
-      "PublishedAt": "2022-12-30T18:00:00Z",
-      "Content": "Over 10 years ago, Netflix launched the streaming revolution, rethinking how we watch TV and movies and forcing the rest of the industry to adapt or die trying. But in 2022, the company saw ups and d… [+1264 chars]"
     }
   ]
 }
