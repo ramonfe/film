@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 103,
+  "TotalResults": 109,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "polygon.com",
+      "Title": "Every movie and show coming to Netflix in February",
+      "Description": "Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming and going difficult to parse. The Lord of the Rings t…",
+      "Url": "https://biztoc.com/x/40948ca82f2815c0",
+      "UrlToImage": "https://c.biztoc.com/p/40948ca82f2815c0/og.webp",
+      "PublishedAt": "2023-02-01T13:08:24Z",
+      "Content": "Even with Netflixs recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming services fire hose of content makes whats com… [+311 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The Morning After: The verdict on Apple’s second-generation HomePod",
+      "Description": "Apple’s first HomePod in 2018 was late to the smart speaker game. Sure, it sounded good, but it lacked a lot of the basic functionality of its rivals. Yet again, with its second-generation $299 HomePod, the company delivers stellar sound quality, but this tim…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170244887",
+      "UrlToImage": null,
+      "PublishedAt": "2023-02-01T12:33:06Z",
+      "Content": "Apple’s first HomePod in 2018 was late to the smart speaker game. Sure, it sounded good, but it lacked a lot of the basic functionality of its rivals. Yet again, with its second-generation $299 HomeP… [+4648 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Mat Smith",
+      "Title": "The Morning After: The verdict on Apple’s second-generation HomePod",
+      "Description": "Apple’s first HomePod in 2018 was late to the smart speaker game. Sure, it sounded good, but it lacked a lot of the basic functionality of its rivals. Yet again, with its second-generation $299 HomePod, the company delivers stellar sound quality, but this tim…",
+      "Url": "https://www.engadget.com/the-morning-after-second-generation-homepod-review-121555907.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/61b77751-a107-11ed-bff2-03180772f1c4",
+      "PublishedAt": "2023-02-01T12:15:55Z",
+      "Content": "Apples first HomePod in 2018 was late to the smart speaker game. Sure, it sounded good, but it lacked a lot of the basic functionality of its rivals. Yet again, with its second-generation $299 HomePo… [+4373 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "How to stream every game with Apple's MLS Season Pass",
+      "Description": "Apple dabbled in live sports with weekly Major League Baseball games last year, but now the company is launching its most ambitious offering yet. Today, the company debuts MLS Season Pass, a subscription that gives soccer fans access to every game of the 2023…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170244819",
+      "UrlToImage": null,
+      "PublishedAt": "2023-02-01T12:14:25Z",
+      "Content": "Apple dabbled in live sports with weekly Major League Baseball games last year, but now the company is launching its most ambitious offering yet. Today, the company debuts MLS Season Pass, a subscrip… [+3169 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Billy Steele",
+      "Title": "How to stream every game with Apple's MLS Season Pass",
+      "Description": "Apple dabbled in live sports with weekly Major League Baseball games last year, but now the company is launching its most ambitious offering yet. Today, the company debuts MLS Season Pass, a subscription that gives soccer fans access to every game of the 2023…",
+      "Url": "https://www.engadget.com/apple-tv-mls-season-pass-launch-120017178.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/a5e0e6d0-a1d1-11ed-affb-91a77d59eaa2",
+      "PublishedAt": "2023-02-01T12:00:17Z",
+      "Content": "Apple dabbled in live sports with weekly Major League Baseball games last year, but now the company is launching its most ambitious offering yet. Today, the company debuts MLS Season Pass, a subscrip… [+3171 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Week Magazine"
+      },
+      "Author": "Brendan Morrow",
+      "Title": "What to watch in February, from Ant-Man and the Wasp: Quantumania to Cocaine Bear",
+      "Description": "February 2023 looks like a solid month for movie fans with a dark new thriller from M. Night Shyamalan, the kickoff of the next phase of the Marvel Cinematic Universe, and, most importantly, the true story of the bear that did cocaine. Plus, a cult favorite c…",
+      "Url": "https://theweek.com/culture/entertainment/1020399/what-to-watch-in-february-from-ant-man-and-the-wasp-quantumania-to",
+      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1675120891/FebruaryMovies .jpg",
+      "PublishedAt": "2023-02-01T10:10:10Z",
+      "Content": "February 2023 looks like a solid month for movie fans with a dark new thriller from M. Night Shyamalan, the kickoff of the next phase of the Marvel Cinematic Universe, and, most importantly, the true… [+14658 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1224,84 +1302,6 @@
       "UrlToImage": "https://img.podcastone.com/images/313/ACS_fb.png",
       "PublishedAt": "2023-01-03T08:00:00Z",
       "Content": "Adam is back in the studio following the holiday break and delivers his annual State of the Union where he announces some big changes for the new year, namely the departure of Gina and Bryan from the… [+559 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Rob Bricken",
-      "Title": "io9's Top 100 Posts of 2022",
-      "Description": "Image: BBC, Lucasfilm, Rich Polk/Getty Images, The Pokémon Company\r\nRoughly speaking, we write about 4,000 or so posts each year at io9. Sometimes it’s breaking news, like Marvel Studios announcing the entirety of its Phase 5 slate. Sometimes it’s things we w…",
-      "Url": "https://gizmodo.com/io9s-top-100-posts-of-2022-1849937580",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b280e178ba8033cf06bbc6aa3774a7ae.png",
-      "PublishedAt": "2023-01-02T18:00:00Z",
-      "Content": "The 2022 San Diego Comic-Con was held in person last week for the first time since 2019, and exhibitors made up for the long time away with a huge number of new movie and TV show trailers. The big co… [+688 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "WGN TV Chicago"
-      },
-      "Author": "Bill Shannon, Nexstar Media Wire",
-      "Title": "New Netflix show 'Kaleidoscope' can be watched in any order",
-      "Description": "Netflix could change how we watch TV with its new crime mystery show \"Kaleidoscope\" that landed on the streaming platform on Jan. 1.",
-      "Url": "https://wgntv.com/news/nexstar-media-wire/new-netflix-show-kaleidoscope-can-be-watched-in-any-order/",
-      "UrlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/01/Kaleidoscope.png?w=1280",
-      "PublishedAt": "2023-01-02T17:40:08Z",
-      "Content": "ALTOONA, Pa. (WTAJ) — Netflix could change how we watch TV with its new crime mystery show “Kaleidoscope” that landed on the streaming platform on Jan. 1.\r\nThe show seems like a standard crime drama/… [+1794 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Week Magazine"
-      },
-      "Author": "Brendan Morrow",
-      "Title": "The most anticipated TV shows of 2023",
-      "Description": "Ready for another year of avoiding your problems by binging 10 hours of Netflix? We've got you covered with a packed slate of 2023 shows to look forward to, including two hotly anticipated video game adaptations, new installments in the Marvel and Star Wars u…",
-      "Url": "https://theweek.com/tv/1019429/the-most-anticipated-tv-shows-of-2023",
-      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1671745752/tv shows 2023.jpg",
-      "PublishedAt": "2023-01-02T10:55:10Z",
-      "Content": "Ready for another year of avoiding your problems by binging 10 hours of Netflix? We've got you covered with a packed slate of 2023 shows to look forward to, including two hotly anticipated video game… [+19687 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Victoria Edel",
-      "Title": "5 Different Ways You Could Watch Netflix's Nonlinear Heist Series, \"Kaleidoscope\"",
-      "Description": "Netflix's \"Kaleidoscope\" might seem like the average thriller series, but it has one thing that sets it apart from other heist movies and shows: the series, released Jan. 1, is eight episodes long, but it's designed to be watched in any order. Every episode i…",
-      "Url": "https://www.popsugar.com/entertainment/kaleidoscope-episode-order-49050703",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/V7iLBSo-UTG2Dj7qgwGFyWCurZ0/0x125:3599x2014/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2022/12/28/936/n/1922283/c632336763acb4f1a58ef5.02383168_.jpg",
-      "PublishedAt": "2023-01-01T14:00:03Z",
-      "Content": "Netflix's \"Kaleidoscope\" might seem like the average thriller series, but it has one thing that sets it apart from other heist movies and shows: the series, released Jan. 1, is eight episodes long, b… [+3560 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "polygon.com",
-      "Title": "Every movie and show coming to Netflix in January",
-      "Description": "Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming and going difficult to parse. That ’90s Show, the seq…",
-      "Url": "https://biztoc.com/x/d0b64e3ba7449e2a",
-      "UrlToImage": "https://c.biztoc.com/p/d0b64e3ba7449e2a/og.webp",
-      "PublishedAt": "2023-01-01T13:08:09Z",
-      "Content": "Even with Netflixs recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming services fire hose of content makes whats com… [+435 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Week Magazine"
-      },
-      "Author": "Brendan Morrow",
-      "Title": "The most anticipated movies of 2023",
-      "Description": "That indescribable feeling you get when the lights begin to dim in the movie theater? You'll be feeling that a lot in 2023, because the \"coming soon\" docket is stacked with films you aren't going to want to miss. \nFrom several revivals of iconic franchises, t…",
-      "Url": "https://theweek.com/feature/1019148/the-most-anticipated-movies-of-2023",
-      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1671735457/movies 23.jpg",
-      "PublishedAt": "2023-01-01T10:52:10Z",
-      "Content": "That indescribable feeling you get when the lights begin to dim in the movie theater? You'll be feeling that a lot in 2023, because the \"coming soon\" docket is stacked with films you aren't going to … [+20286 chars]"
     }
   ]
 }

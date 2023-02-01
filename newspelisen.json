@@ -1,8 +1,177 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1091,
+  "TotalResults": 1104,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livemint"
+      },
+      "Author": "WSJ",
+      "Title": "Jennifer Lopez asks $42.5 million for 8-acre Los Angeles estate",
+      "Description": "The roughly 14,000-square-foot Bel-Air home includes a theater with movie posters of films in which the performer and husband Ben Affleck have starred",
+      "Url": "https://www.livemint.com/companies/news/jennifer-lopez-asks-42-5-million-for-8-acre-los-angeles-estate-11675258202700.html",
+      "UrlToImage": "https://images.livemint.com/img/2023/02/01/600x338/FILM-SHOTGUN-WEDDING-PREMIERE-91_1675258339350_1675258339350_1675258372207_1675258372207.JPG",
+      "PublishedAt": "2023-02-01T13:40:00Z",
+      "Content": "Six months after marrying actor Ben Affleck, the actress and singer Jennifer Lopez is asking $42.5 million for her Los Angeles estate, which comes complete with a private lake and sandy beach."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Macworld"
+      },
+      "Author": "Michael Simon",
+      "Title": "The ho-hum HomePod 2 should have been a killer soundbar",
+      "Description": "To say that the 2nd-generation HomePod announcement was a surprise is something of an understatement. While there had been some rumblings that a new model was in the works, the timing was completely unexpected, arriving on a Wednesday morning in the middle of…",
+      "Url": "https://www.macworld.com/article/1499144/homepod-second-generation-sound-bar-sonos-arc.html",
+      "UrlToImage": "https://www.macworld.com/wp-content/uploads/2023/02/homepod-home-theater.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2023-02-01T11:30:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nTo say that the 2nd-… [+4553 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "International Business Times"
+      },
+      "Author": "Anirban Sen",
+      "Title": "Analysis-AMC Sets Unusual Shareholder Vote For Meme Stock Sale Approval",
+      "Description": "AMC Entertainment Holdings Inc, the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder approval for stock sales that would raise cash, according to a regulatory filing and six cor…",
+      "Url": "https://www.ibtimes.com/analysis-amc-sets-unusual-shareholder-vote-meme-stock-sale-approval-3663319",
+      "UrlToImage": "https://d.ibtimes.com/en/full/4414111/screen-displays-logo-trading-information-amc-nyse-new-york.jpg",
+      "PublishedAt": "2023-02-01T11:18:30Z",
+      "Content": "A screen displays the logo and trading information for AMC on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., March 29, 2022. Reuters\r\nAMC Entertainment Holdings Inc, the movi… [+4402 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nintendo Life"
+      },
+      "Author": "Alana Hagues",
+      "Title": "Here's When The Super Mario Bros. Movie Releases In Cinemas In Your Region",
+      "Description": "Update: Some release dates revised.Update : It seems like the release date for the Super Mario Bros. Movie has been changed in some parts of the world, including the UK. Originally, we were getting the upcoming animated movie on 30th March, just over a week b…",
+      "Url": "https://www.nintendolife.com/news/2023/02/heres-when-the-super-mario-bros-movie-releases-in-cinemas-in-your-region",
+      "UrlToImage": "https://images.nintendolife.com/8bf5bfc8c83eb/1280x720.jpg",
+      "PublishedAt": "2023-02-01T11:15:00Z",
+      "Content": "Image: Nintendo / Illumination\r\nUpdate [Wed 1st Feb, 2023 11:15 GMT]: It seems like the release date for the Super Mario Bros. Movie has been changed in some parts of the world, including the UK. Ori… [+3498 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "reuters.com",
+      "Title": "Analysis: AMC sets unusual shareholder vote for meme stock sale approval",
+      "Description": "AMC Entertainment Holdings Inc (AMC.N), the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder approval for stock sales that would raise cash, according to a regulatory filing and…",
+      "Url": "https://biztoc.com/x/09ca5699fe7b1072",
+      "UrlToImage": "https://c.biztoc.com/p/09ca5699fe7b1072/og.webp",
+      "PublishedAt": "2023-02-01T11:14:05Z",
+      "Content": "AMC Entertainment Holdings Inc (AMC.N), the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder approval for stock sales… [+313 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "FX Empire"
+      },
+      "Author": "Reuters",
+      "Title": "Analysis-AMC sets unusual shareholder vote for meme stock sale approval",
+      "Description": "By Anirban Sen (Reuters) -   AMC Entertainment Holdings Inc, the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder approval for stock sales that would raise cash, according to a …",
+      "Url": "https://www.fxempire.com/news/article/analysis-amc-sets-unusual-shareholder-vote-for-meme-stock-sale-approval-1271476",
+      "UrlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2023/02/tagreuters.com2023newsml_LYNXMPEJ101HE1.jpg",
+      "PublishedAt": "2023-02-01T11:08:30Z",
+      "Content": "AMC raised more than $2 billion through stock sales in 2021, largely on the back of retail investors who sent its shares on a wild rally, along with other meme stocks such as GameStop Corp.\r\nThis hel… [+3878 chars]"
+    },
+    {
+      "Source": {
+        "Id": "reuters",
+        "Name": "Reuters"
+      },
+      "Author": null,
+      "Title": "AMC sets unusual shareholder vote for meme stock sale approval",
+      "Description": "AMC Entertainment Holdings Inc <a href=\"https://www.reuters.com/companies/AMC.N\" target=\"_blank\">(AMC.N)</a>, the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder approval for s…",
+      "Url": "https://www.reuters.com/business/media-telecom/amc-sets-unusual-shareholder-vote-meme-stock-sale-approval-2023-02-01/",
+      "UrlToImage": "https://www.reuters.com/resizer/49CZgKX7MB9XJjMTyzHr8C07Hrg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D4S3RUVWZJJQVAKVDAWWFZ62II.jpg",
+      "PublishedAt": "2023-02-01T11:05:12Z",
+      "Content": "Feb 1 (Reuters) - AMC Entertainment Holdings Inc (AMC.N), the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder approv… [+4330 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNA"
+      },
+      "Author": null,
+      "Title": "Analysis:AMC sets unusual shareholder vote for meme stock sale approval",
+      "Description": "AMC Entertainment Holdings Inc, the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder approval for stock sales that would raise cash, according to a regulatory filing and six cor…",
+      "Url": "https://www.channelnewsasia.com/business/analysisamc-sets-unusual-shareholder-vote-meme-stock-sale-approval-3246761",
+      "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--_lJMPf2H--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-02-01t110405z_1_lynxmpej101he_rtroptp_3_usa-stocks.jpg?itok=UHqBWSGU",
+      "PublishedAt": "2023-02-01T11:04:53Z",
+      "Content": "AMC Entertainment Holdings Inc, the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder approval for stock sales that wo… [+4252 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": "MarketScreener",
+      "Title": "Analysis-AMC sets unusual shareholder vote for meme stock sale approval",
+      "Description": "(marketscreener.com) AMC Entertainment Holdings Inc, the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder approval for stock sales that would raise cash, according to a regulato…",
+      "Url": "https://www.marketscreener.com/quote/stock/CINEWORLD-GROUP-PLC-9590220/news/Analysis-AMC-sets-unusual-shareholder-vote-for-meme-stock-sale-approval-42864789/?utm_medium=RSS&utm_content=20230201",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2022-09/2022-09-26T140120Z_1_LYNXMPEI8P0NA_RTROPTP_3_USA-STOCKS.JPG",
+      "PublishedAt": "2023-02-01T11:04:05Z",
+      "Content": "AMC raised more than $2 billion through stock sales in 2021, largely on the back of retail investors who sent its shares on a wild rally, along with other meme stocks such as GameStop Corp.\r\nThis hel… [+4059 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Anirban Sen",
+      "Title": "Analysis-AMC sets unusual shareholder vote for meme stock sale approval",
+      "Description": "AMC Entertainment Holdings Inc, the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win...",
+      "Url": "https://finance.yahoo.com/news/analysis-amc-sets-unusual-shareholder-110405860.html",
+      "UrlToImage": "https://media.zenfs.com/en/reuters.com/022e77071c86efc2f2dc7e13a6b1763c",
+      "PublishedAt": "2023-02-01T11:04:05Z",
+      "Content": "By Anirban Sen\r\n(Reuters) - AMC Entertainment Holdings Inc, the movie theater operator that became a \"meme stock\" during the COVID-19 pandemic, has come up with an unusual way to win shareholder appr… [+4364 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The New Republic"
+      },
+      "Author": "The Politics of Everything",
+      "Title": "The Fiery Gas Stove Wars",
+      "Description": "We’ve known for a while that gas stoves are bad for both your health and the environment. But a few weeks ago, the discourse went into overdrive. First, the Consumer Product Safety Commission announced it would consider regulations on indoor air pollution fro…",
+      "Url": "https://newrepublic.com/article/170246/fiery-gas-stove-wars",
+      "UrlToImage": "https://images.newrepublic.com/8c19808412044d7be54de043b67b3df4bd089073.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+      "PublishedAt": "2023-02-01T11:00:00Z",
+      "Content": "Marc: Exactly. Itll be interesting to track the sales numbers for gas stoves, over the next couple of years. I say that, you know, pretty much jokingly, but at the same time, certain products are dee… [+12246 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Week Magazine"
+      },
+      "Author": "Brendan Morrow",
+      "Title": "What to watch in February, from Ant-Man and the Wasp: Quantumania to Cocaine Bear",
+      "Description": "February 2023 looks like a solid month for movie fans with a dark new thriller from M. Night Shyamalan, the kickoff of the next phase of the Marvel Cinematic Universe, and, most importantly, the true story of the bear that did cocaine. Plus, a cult favorite c…",
+      "Url": "https://theweek.com/culture/entertainment/1020399/what-to-watch-in-february-from-ant-man-and-the-wasp-quantumania-to",
+      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1675120891/FebruaryMovies .jpg",
+      "PublishedAt": "2023-02-01T10:10:10Z",
+      "Content": "February 2023 looks like a solid month for movie fans with a dark new thriller from M. Night Shyamalan, the kickoff of the next phase of the Marvel Cinematic Universe, and, most importantly, the true… [+14658 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "FRANCE 24 English"
+      },
+      "Author": "FRANCE24",
+      "Title": "Boom times for francophone Africa's TV and film industry",
+      "Description": "\"The light makes all the difference,\" she says. \"Everything is beautiful -- the colour, the people, the energy.\"\n\nThe film director is shooting \"Banlieusard 2\", the sequel to a 2019 French hit starring French rapper Kery James.\n\nThe movie is scheduled for rel…",
+      "Url": "https://www.france24.com/en/live-news/20230201-boom-times-for-francophone-africa-s-tv-and-film-industry",
+      "UrlToImage": "https://s.france24.com/media/display/3b4afe4c-a1fd-11ed-88d3-005056a90284/w:1280/p:16x9/1cea21b94409b9e900c93a0c8e188fd15af9cb32.jpg",
+      "PublishedAt": "2023-02-01T06:54:11Z",
+      "Content": "Dakar (AFP) Standing in a barren schoolyard surrounded by baobab trees at the end of a dusty road in central Senegal, Leila Sy takes a look around and smiles. \"The light makes all the difference,\" sh… [+4163 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -973,8 +1142,8 @@
       "Author": "Mirror Now",
       "Title": "Pathaan collection: Shah Rukh Khan-starrer movie mints Rs 542 cr worldwide in just five days",
       "Description": "Bollywood superstar Shah Rukh Khan's latest release 'Pathaan', which also stars John Abraham and Deepika Padukone, is unstoppable as it has made a whopping Rs 542 crore gross worldwide in just five days since its release on January 25. 'Pathaan' hit another R…",
-      "Url": "https://economictimes.indiatimes.com/news/et-tv/pathaan-collection-shah-rukh-khan-starrer-movie-mints-rs-542-cr-worldwide-in-just-five-days/videoshow/97457357.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-97457357,width-1070,height-580,overlay-economictimes/photo.jpg",
+      "Url": "https://economictimes.indiatimes.com/magazines/panache/pathaan-collection-shah-rukh-khan-starrer-movie-mints-rs-542-cr-worldwide-in-just-five-days/videoshow/97457356.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-97457356,width-1070,height-580,overlay-etpanache/photo.jpg",
       "PublishedAt": "2023-01-30T17:02:55Z",
       "Content": "Bollywood superstar Shah Rukh Khan's latest release 'Pathaan', which also stars John Abraham and Deepika Padukone, is unstoppable as it has made a whopping Rs 542 crore gross worldwide in just five d… [+269 chars]"
     },
@@ -986,8 +1155,8 @@
       "Author": "Mirror Now",
       "Title": "Pathaan collection: Shah Rukh Khan-starrer movie mints Rs 542 cr worldwide in just five days",
       "Description": "Bollywood superstar Shah Rukh Khan's latest release 'Pathaan', which also stars John Abraham and Deepika Padukone, is unstoppable as it has made a whopping Rs 542 crore gross worldwide in just five days since its release on January 25. 'Pathaan' hit another R…",
-      "Url": "https://economictimes.indiatimes.com/magazines/panache/pathaan-collection-shah-rukh-khan-starrer-movie-mints-rs-542-cr-worldwide-in-just-five-days/videoshow/97457356.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-97457356,width-1070,height-580,overlay-etpanache/photo.jpg",
+      "Url": "https://economictimes.indiatimes.com/news/et-tv/pathaan-collection-shah-rukh-khan-starrer-movie-mints-rs-542-cr-worldwide-in-just-five-days/videoshow/97457357.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-97457357,width-1070,height-580,overlay-economictimes/photo.jpg",
       "PublishedAt": "2023-01-30T17:02:55Z",
       "Content": "Bollywood superstar Shah Rukh Khan's latest release 'Pathaan', which also stars John Abraham and Deepika Padukone, is unstoppable as it has made a whopping Rs 542 crore gross worldwide in just five d… [+269 chars]"
     },
@@ -1133,175 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/tokyo-revengers-s2-ep-4.png?resize=1200,630",
       "PublishedAt": "2023-01-30T15:21:36Z",
       "Content": "Mitsuya meets with Taiju to discuss a truce. Meanwhile, Takemichi and Chifuyu are still determined to crush Black Dragon. Here are the details for Tokyo Revengers Season 2 Episode 5.\r\nWhen Tokyo Reve… [+2295 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Adrienne Tyler",
-      "Title": "Every Movie Releasing In Theaters In February 2023",
-      "Description": "February 2023 will see the release of M. Night Shyamalan's latest movie, Mike Lane's final movie, Ant-Man's return, a gory Winnie-the-Pooh, and more.",
-      "Url": "https://screenrant.com/february-2023-movies-theaters-release-dates/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/01/february-2023-movies-coming-to-theaters.jpg",
-      "PublishedAt": "2023-01-30T14:30:14Z",
-      "Content": "February 2023 will see the release of some of this year’s most anticipated releases, such M. Night Shyamalan’s latest project, Mike Lane’s final dance, a gory take on a beloved bear, a bear who took … [+7725 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "Reuters",
-      "Title": "India's Inox Leisure reports quarterly profit as hits bring back moviegoers",
-      "Description": "Inox Leisure Ltd posted profit before exceptional items and tax for the third quarter, as movie buffs returned following a string of hits and splurged on pricier tickets and in-theater purchases",
-      "Url": "https://www.business-standard.com/article/companies/india-s-inox-leisure-reports-quarterly-profit-as-hits-bring-back-moviegoers-123013000947_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-09/20/full/1663671146-1288.jpg",
-      "PublishedAt": "2023-01-30T14:30:00Z",
-      "Content": "BENGALURU/CHENNAI (Reuters) - Indian multiplex operator INOX Leisure Ltd on Monday posted profit before exceptional items and tax for the third quarter, as movie buffs returned following a string of … [+1564 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Andrew Garfield Reflects on His Amazing Spider-Man Audition",
-      "Description": "Speaking to Marvel ahead of Titan Books’ release of the Spider-Man No Way Home: The Official Movie Special Book, Andrew Garfield reflected on his original audition, and what he had to do in order to give himself the best chance at securing the role in 2012’s …",
-      "Url": "https://www.comingsoon.net/?p=1263855",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/andrew-garfield-spider-man-no-way-home.png?resize=1200,630",
-      "PublishedAt": "2023-01-30T14:30:00Z",
-      "Content": "Speaking to Marvel ahead of Titan Books release of the Spider-Man No Way Home: The Official Movie Special Book, Andrew Garfield reflected on his original audition, and what he had to do in order to g… [+2148 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "Trigun Stampede Episode 5 Release Date & Time",
-      "Description": "Vash and his group end up inside a giant Worm. They also meet a suspicious man named Nicholas D. Wormwood. Here are the details for Trigun Stampede Episode 5. When Trigun Stampede Episode 5 Releases Trigun Stampede Episode 5’s release date is Saturday, Februa…",
-      "Url": "https://www.comingsoon.net/anime/news/1264377-trigun-stampede-episode-5-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/trigun-stampede-ep-4.png?resize=1200,630",
-      "PublishedAt": "2023-01-30T14:18:57Z",
-      "Content": "Vash and his group end up inside a giant Worm. They also meet a suspicious man named Nicholas D. Wormwood. Here are the details for Trigun Stampede Episode 5.\r\nWhen Trigun Stampede Episode 5 Releases… [+1871 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "newsweek.com",
-      "Title": "'The Proud Family: Louder and Prouder' release time, date and episode guide",
-      "Description": "The Proud Family: Louder and Prouder is back for a second season on Disney+, following the successful 2022 revival of the beloved animated series. The original The Proud Family series premiered in 2001 and ran for two seasons, before ending with the 2005 Disn…",
-      "Url": "https://biztoc.com/x/3a9dd02f0ef87281",
-      "UrlToImage": "https://c.biztoc.com/p/3a9dd02f0ef87281/og.webp",
-      "PublishedAt": "2023-01-30T14:18:05Z",
-      "Content": "The Proud Family: Louder and Prouder is back for a second season on Disney+, following the successful 2022 revival of the beloved animated series.The original The Proud Family series premiered in 200… [+294 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Germain Lussier",
-      "Title": "Watch an Exclusive Deleted Scene From Black Panther: Wakanda Forever",
-      "Description": "Black Panther: Wakanda Forever comes home this week and with it, you’ll find even more of the movie you already loved. The digital release, out February 1, as well as the Blu-ray, out February 7, includes four scenes deleted from the Ryan Coogler Marvel Studi…",
-      "Url": "https://gizmodo.com/black-panther-2-deleted-scene-martin-freeman-marvel-mcu-1850030025",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/196546620ac171b5287a30c958d6bbcc.jpg",
-      "PublishedAt": "2023-01-30T14:00:00Z",
-      "Content": "Black Panther: Wakanda Forever comes home this week and with it, youll find even more of the movie you already loved. The digital release, out February 1, as well as the Blu-ray, out February 7, incl… [+2373 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "PTI",
-      "Title": "‘Metro … In Dino’ - the much-awaited sequel to ‘Life In A Metro’ - eyes December release",
-      "Description": "The movie will star Sara Ali Khan, Anupam Kher, Neena Gupta, Ali Fazal etc.",
-      "Url": "https://economictimes.indiatimes.com/magazines/panache/metro-in-dino-the-much-awaited-sequel-to-life-in-a-metro-eyes-december-release/articleshow/97451947.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-97457062,width-1070,height-580,imgsize-38078,overlay-etpanache/photo.jpg",
-      "PublishedAt": "2023-01-30T13:51:25Z",
-      "Content": "Director Anurag Basu's upcoming movie 'Metro... In Dino' is set to be released in theatres on December 8, the makers announced on Monday. Billed as an anthology of \"heartwarming stories of contempora… [+895 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "Blue Lock Episode 17 Release Date & Time",
-      "Description": "Isagi reunites with Kunigami, Chigiri, and Reo. Their teams decide to play against each other for the next part of the selection. Here are the details for Blue Lock Episode 17. When Blue Lock Episode 17 Releases Blue Lock Episode 17’s release date in the Unit…",
-      "Url": "https://www.comingsoon.net/anime/news/1264049-blue-lock-episode-17-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/blue-lock-ep-16.png?resize=1200,630",
-      "PublishedAt": "2023-01-30T13:44:00Z",
-      "Content": "Isagi reunites with Kunigami, Chigiri, and Reo. Their teams decide to play against each other for the next part of the selection. Here are the details for Blue Lock Episode 17.\r\nWhen Blue Lock Episod… [+1879 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "My Hero Academia Season 6 Episode 18 Release Date & Time",
-      "Description": "The Todoroki family offers their support to Endeavor. Best Jeanist and Hawks do the same and suggest the top three heroes team up, considering the recent events. Here are the details for My Hero Academia Season 6 Episode 18 titled “Izuku Midoriya and Tomura S…",
-      "Url": "https://www.comingsoon.net/anime/news/1264044-my-hero-academia-season-6-episode-18-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/my-hero-academia-s6-ep-17.png?resize=1200,630",
-      "PublishedAt": "2023-01-30T13:34:00Z",
-      "Content": "The Todoroki family offers their support to Endeavor. Best Jeanist and Hawks do the same and suggest the top three heroes team up, considering the recent events. Here are the details for My Hero Acad… [+2258 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Spotlight Special",
-      "Title": "‘Metro…In Dino’ release date: Aditya Roy Kapur-Sara Ali Khan starrer movie to launch on December 8 this year",
-      "Description": "Anurag Basu directed ‘Metro…In Dino’ will hit the theatres on December 8, 2023. The movie stars Aditya Roy Kapur and Sara Ali Khan in lead roles.",
-      "Url": "https://economictimes.indiatimes.com/news/new-updates/metroin-dino-release-date-aditya-roy-kapur-sara-ali-khan-starrer-movie-to-launch-on-december-8-this-year/articleshow/97450643.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-97450656,width-1070,height-580,imgsize-38078,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-01-30T13:23:29Z",
-      "Content": "Bollywood director Anurag Basu is set to release his next directorial venture MetroIn Dino this year on December 8. T-Series, the movie's production house, made an official announcement about the lau… [+1824 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Andy Behbakht",
-      "Title": "Arden Cho Has No Regrets Passing On Teen Wolf Movie",
-      "Description": "Arden Cho, who played Kira Yukimura on Teen Wolf, has no regrets over passing on Teen Wolf: The Movie following the film's release on Paramount+.",
-      "Url": "https://screenrant.com/teen-wolf-movie-arden-cho-passed-response/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2022/08/Kira-teen-wolf.jpg",
-      "PublishedAt": "2023-01-30T12:05:43Z",
-      "Content": "Arden Cho, who played Kira Yukimura in Teen Wolf, has no regrets over passing on Teen Wolf: The Movie. After being off the air for almost half a decade, MTV's Teen Wolf returned to the small screen i… [+3006 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "TV Spot For ANT-MAN AND THE WASP: QUANTUMANIA Reveals Exciting New Footage",
-      "Description": "Marvel Studios has released a new TV spot for Ant-Man and The Wasp: Quantumania and it reveals some exciting and intense new footage of Ant-Man facing off with Kang, and this new villain is sure to give Ant-Man and his crew a run for their money. Ant-Man is g…",
-      "Url": "https://geektyrant.com/news/tv-spot-for-ant-man-and-the-wasp-quantumania-reveals-exciting-new-footage",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d73986406d013dac232294/1675080005689/Screen+Shot+2023-01-29+at+8.48.03+PM.jpg?format=1500w",
-      "PublishedAt": "2023-01-30T12:00:00Z",
-      "Content": "Marvel Studios has released a new TV spot for Ant-Man and The Wasp: Quantumania and it reveals some exciting and intense new footage of Ant-Man facing off with Kang, and this new villain is sure to g… [+1445 chars]"
-    },
-    {
-      "Source": {
-        "Id": "reuters",
-        "Name": "Reuters"
-      },
-      "Author": null,
-      "Title": "India's INOX Leisure reports quarterly profit as hits bring back moviegoers",
-      "Description": "Indian multiplex operator INOX Leisure Ltd <a href=\"https://www.reuters.com/companies/INOL.NS\" target=\"_blank\">(INOL.NS)</a> on Monday posted profit before exceptional items and tax for the third quarter, as movie buffs returned following a string of hits and…",
-      "Url": "https://www.reuters.com/world/india/indias-inox-leisure-reports-quarterly-profit-hits-bring-back-moviegoers-2023-01-30/",
-      "UrlToImage": "https://www.reuters.com/resizer/Q92Q8M3k7lkH5uLbzFnpp90ZIC0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZOU3JNEH5BKHRNS2GLTZIQ2T2I.jpg",
-      "PublishedAt": "2023-01-30T11:55:35Z",
-      "Content": "BENGALURU/CHENNAI, Jan 30 (Reuters) - Indian multiplex operator INOX Leisure Ltd (INOL.NS) on Monday posted profit before exceptional items and tax for the third quarter, as movie buffs returned foll… [+1475 chars]"
     }
   ]
 }
