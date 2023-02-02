@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vulture"
+      },
+      "Author": "Jason P. Frank",
+      "Title": "If You’re Reading This, Your Favorite Show Is Canceled",
+      "Description": "Many TV streaming services are cutting back and canceling more and more TV shows. Here is a list of all the canceled shows in 2023, from Netflix, HBO Max, AMC, and more.",
+      "Url": "http://www.vulture.com/article/tv-shows-canceled-ending-2023.html",
+      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/fa1/940/ee9a30945690d35a17372241ae4d4f9c21-cancelled.1x.rsocial.w1200.jpg",
+      "PublishedAt": "2023-02-02T15:32:50Z",
+      "Content": "Cancellation is so hot right now. Already in 2023, theres been a staggering amount of TV-show casualties across streaming services such as HBO Max, Netflix, and Hulu as well as cable-TV channels like… [+10749 chars]"
+    },
     {
       "Source": {
         "Id": "techradar",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1672776345/what to watch jan.jpg",
       "PublishedAt": "2023-01-04T10:55:09Z",
       "Content": "Who says January is a \"dump month?\" 2023 starts with a bang thanks to a highly anticipated HBO drama, a brand new Rian Johnson mystery, a fabulous killer doll who's coming for Chucky's throne and mor… [+15181 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "That ’90s Show Poster Highlights Sequel’s New Teenage Cast",
-      "Description": "Netflix has released another poster for That ’90s Show, the upcoming sequel series to the classic sitcom That ’70s Show. Featuring the return of Kurtwood Smith and Debra Jo Rupp, it will be available for streaming on January 19. The That ’90s Show poster high…",
-      "Url": "https://www.comingsoon.net/?p=1258499",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/90s-e1672765383398.jpg?resize=1200,630",
-      "PublishedAt": "2023-01-03T17:45:00Z",
-      "Content": "Netflix has released another poster for That 90s Show, the upcoming sequel series to the classic sitcom That 70s Show. Featuring the return of Kurtwood Smith and Debra Jo Rupp, it will be available f… [+1333 chars]"
     }
   ]
 }
