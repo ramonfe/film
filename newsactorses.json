@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1177,
+  "TotalResults": 1170,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Alejandra Ramos",
+      "Title": "Jessica Simpson revela romance secreto con 'gran estrella de cine'",
+      "Description": "Jessica Simpson lanzó una historia corta original en Amazon titulada “Movie Star: They Always Say They’re Single”. El proyecto describe un encuentro que Simpson dice que tuvo con un actor no identificado que \"creció pensando que era tan atractivo\".",
+      "Url": "https://cnnespanol.cnn.com/2023/02/02/jessica-simpson-revela-romance-secreto-con-gran-estrella-de-cine-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/02/230202100908-jessica-simpson-2020-file.jpeg?quality=100&strip=info",
+      "PublishedAt": "2023-02-02T20:57:41Z",
+      "Content": "Jessica Simpson: Nada ni nadie me robará mi alegría 1:16\r\n(CNN) -- Que empiecen los juegos de adivinanzas.\r\nJessica Simpson lanzó una historia corta original en Amazon titulada Movie Star: They Alway… [+2866 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn2.excelsior.com.mx/media/pictures/2023/01/30/2896169.jpg",
       "PublishedAt": "2023-01-31T04:03:09Z",
       "Content": "La actriz Lisa Loring, quien dio vida a la primera 'Merlina' en aparecer en televisión gracias a la serie'Los Locos Addams' falleció este fin de semana a causa de un derrame cerebral masivo.\r\nLaurie … [+1571 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Jenna Ortega reacciona a la muerte de la primera Merlina; \"absolutamente devastada\"",
-      "Description": "El pasado sbado 28 de enero se dio a conocer del sensible fallecimiento de la actriz Lisa Loring, quien fuera la primera en interpretar el papel de Merlina en Los Locos Adams. Lisa falleci en el Centro Mdico Providence St. Joseph en Burbank, California, por c…",
-      "Url": "https://www.milenio.com/espectaculos/jenna-ortega-despide-a-lisa-loring",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/01/30/jenna-ortega-instagram.jpg",
-      "PublishedAt": "2023-01-31T02:19:05Z",
-      "Content": "El pasado sábado 28 de enero se dio a conocer del sensible fallecimiento de la actriz Lisa Loring, quien fuera la primera en interpretar el papel de Merlina en Los Locos Adams.\r\nLisa falleció en el C… [+1553 chars]"
     }
   ]
 }
