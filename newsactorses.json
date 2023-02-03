@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1181,
+  "TotalResults": 1182,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Tras ser reemplazada en The Crown, Helena Bonham Carter defendió a la realeza británica y pidió que cancelen la serie",
+      "Description": "La actriz, que tiene un histórico vínculo con la monarquía inglesa, explicó por qué considera que Netflix debe dejar de producir el exitoso programa",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/tras-ser-reemplazada-en-the-crown-helena-bonham-carter-defendio-a-la-realeza-britanica-y-pidio-que-nid03022023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/LQkpghvTHUVsX043eYoO0R5EZoM=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/3POM4XWPTVHINEFJWLUCXW66RA.jpg",
+      "PublishedAt": "2023-02-03T05:45:19Z",
+      "Content": "Quizá sea difícil entender, desde países que abrazan el modo de vida republicano, la relación entre los plebeyos y la realeza. Mucho más extraños resultan, entonces, los vínculos entre los miembros d… [+3923 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/b709d6/x720/840_560.jpeg",
       "PublishedAt": "2023-01-31T11:46:46Z",
       "Content": "Disney+ ha lanzado el tráiler y el póster oficiales de La chica invisible, la serie inspirada en la exitosa trilogía homónima de Blue Jeans, que estará disponible en exclusiva en España a partir del … [+1339 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Pedro Gallego",
-      "Title": "Es una de las mejores películas recientes de Brendan Fraser: un estupendo thriller de atracos de la vieja escuela que se puede ver en HBO Max",
-      "Description": "Las plataformas de streaming se encuentran en una encrucijada después de una apuesta desaforada y hasta inconsciente por el contenido producido para generar catálogo, especialmente en lo que respecta a cine. La deceleración en suscripciones está replanteando …",
-      "Url": "https://www.espinof.com/hbo/uno-mejores-trabajos-recientes-brendan-fraser-estupendo-thriller-atracos-vieja-escuela-que-se-puede-ver-hbo-max",
-      "UrlToImage": "https://i.blogs.es/85ba63/sin-movimientos-bruscos-2021-brendan-fraser-steven-soderbergh/840_560.jpeg",
-      "PublishedAt": "2023-01-31T11:16:46Z",
-      "Content": "Las plataformas de streaming se encuentran en una encrucijada después de una apuesta desaforada y hasta inconsciente por el contenido producido para generar catálogo, especialmente en lo que respecta… [+3074 chars]"
     }
   ]
 }
