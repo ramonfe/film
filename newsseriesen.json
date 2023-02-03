@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "iMore"
+      },
+      "Author": "heyimjoew@gmail.com (Joe Wituschek)",
+      "Title": "This Apple TV Plus show just got the service back into streaming's top 10",
+      "Description": "Apple TV Plus is back in the top ten of streaming with Shrinking, the new comedy starring Jason Segel and Harrison Ford.",
+      "Url": "https://www.imore.com/music-movies-tv/apple-tv/this-apple-tv-plus-show-just-got-the-service-back-into-streamings-top-10",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/P37No36m7YXdDhTBUTnyKn-1200-80.jpg",
+      "PublishedAt": "2023-02-03T21:22:57Z",
+      "Content": "Apple TV Plus, after months of silence, is back in streaming's top 10 with its new comedy series.\r\nAccording to data from Reelgood, a streaming aggregator who regularly puts together some analytics a… [+1684 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-11T19:23:37Z",
       "Content": "<li>2D: Enabled Sprite Library Assets to now be dragged and dropped into the scene, hierarchy, and inspector.\r\n</li><li>2D: Enabled the ability to select mipmap streaming for textures imported with t… [+149835 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "'Banshees,' 'Fabelmans' and 'Everything Everywhere' rack up film nominations",
-      "Description": "Coming the morning after the Golden Globes, the nominations from the Screen Actors Guild (SAG) and Directors Guild of America (DGA) are seen as important stepping stones in the race to the Oscars, which take place on March 12.\n\n\"Banshees\" and \"Everything Ever…",
-      "Url": "https://www.france24.com/en/live-news/20230111-banshees-fabelmans-and-everything-everywhere-rack-up-film-nominations",
-      "UrlToImage": "https://s.france24.com/media/display/69eff3e8-91e4-11ed-8d54-005056bf30b7/w:1280/p:16x9/42ee5957a74ad4e0f7eefa282fec1203d4a3b2b2.jpg",
-      "PublishedAt": "2023-01-11T19:16:14Z",
-      "Content": "Los Angeles (AFP) \"The Banshees of Inisherin,\" \"The Fabelmans\" and \"Everything Everywhere All at Once\" racked up key nominations from Hollywood's actors and directors unions Wednesday, as the movie a… [+2947 chars]"
     }
   ]
 }
