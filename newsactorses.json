@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1198,
+  "TotalResults": 1199,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": "https://www.facebook.com/bbcnews",
+      "Title": "Michelle Rodríguez | \"Mi cuerpo es una revolución\": el desafiante mensaje de la actriz tras las críticas a la portada de revista que avivó el debate de la gordofobia en México",
+      "Description": "La actriz de la reconocida serie mexicana \"40 y 20\" publicó un video en YouTube como respuesta a los comentarios negativos sobre su aparición en la revista.",
+      "Url": "https://www.bbc.com/mundo/noticias-64515079",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/168AB/production/_128513329_gettyimages-1352786993.jpg",
+      "PublishedAt": "2023-02-03T15:09:24Z",
+      "Content": "Fuente de la imagen, Getty Images\r\nPie de foto, Michelle Rodríguez se ha destacado en el campo de la comedia.\r\n\"La gordofobia existe y en nuestro país es algo de lo que ni mínimamente hemos platicado… [+5008 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cronicaglobal.elespanol.com/uploads/s1/25/33/34/30/bela-sin-ti-tulo-1_2_505x267.jpeg",
       "PublishedAt": "2023-01-31T20:00:00Z",
       "Content": "La reciente aparición en España de una interesante novela gráfica sobre el actor Bela Lugosi (nacido Béla Blaskó en la provincia de Banat, en la actual Rumanía, que formaba parte del imperio austrohú… [+5865 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Atienza, Lorenzo Ayuso",
-      "Title": "Las series más destacadas de febrero: 'Cardo', los chanantes, la 'Élite' india y 'La chica invisible'",
-      "Description": "No hay visos de que febrero baje el ritmo con el que se iniciaba 2023 en materia de series. Hasta 57 ficciones contamos al repasar el calendario de previsiones que plataformas y cadenas plantean para el segundo mes del año. Un mes en el que parecen mantenerse…",
-      "Url": "https://vertele.eldiario.es/series/mes-febrero-cardo-chanantes-elite-india-la-chica-invisible-netflix-amazon-apple-disney-hbo-atresplayer-premium_1_9910666.html",
-      "UrlToImage": "https://static.eldiario.es/clip/c5702691-3bb3-4b9e-97c6-88da7fbb0627_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-01-31T19:45:31Z",
-      "Content": "No hay visos de que febrero baje el ritmo con el que se iniciaba 2023 en materia de series. Hasta 57 ficciones contamos al repasar el calendario de previsiones que plataformas y cadenas plantean para… [+14239 chars]"
     }
   ]
 }
