@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1314,
+  "TotalResults": 1315,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Brian Gallagher",
+      "Title": "Dan Aykroyd set to host A History Of the World In Six Glasses for Fox Nation",
+      "Description": "Just days after it was revealed Dan Aykroyd is reuniting with Ghostbusters stars for a new movie set in London, the actor has landed a new hosting gig.",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-11708411/Dan-Aykroyd-set-host-History-World-Six-Glasses-Fox-Nation.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/02/03/02/67277373-0-image-a-29_1675392712114.jpg",
+      "PublishedAt": "2023-02-03T03:01:57Z",
+      "Content": "Just days after it was revealed Dan Aykroyd is reuniting with Ghostbusters stars for a new movie set in London, the actor has landed a new hosting gig.\r\nThe 70-year-old actor will host the new series… [+3837 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63d848adc20f9c645ddd008d/1675204226409/Screenshot%2B%2528354%2529.jpg?format=1500w",
       "PublishedAt": "2023-01-31T22:30:00Z",
       "Content": "The 2017 dramedy The Upside was a film based on a true story in which a billionaire (played by Oscar-nominated and Emmy-winning actor Bryan Cranston) becomes a quadriplegic in a paragliding accident,… [+3208 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "pbs.org",
-      "Title": "Prosecutors file charges against Alec Baldwin in 'Rust' set shooting",
-      "Description": "Actor Alec Baldwin and a weapons specialist have been formally charged with involuntary manslaughter in the fatal shooting of a cinematographer on a New Mexico movie set, according to court documents filed by prosecutors Tuesday. Santa Fe District Attorney Ma…",
-      "Url": "https://biztoc.com/x/1ae5cdaa51ed539c",
-      "UrlToImage": "https://c.biztoc.com/p/1ae5cdaa51ed539c/og.webp",
-      "PublishedAt": "2023-01-31T22:22:08Z",
-      "Content": "Actor Alec Baldwin and a weapons specialist have been formally charged with involuntary manslaughter in the fatal shooting of a cinematographer on a New Mexico movie set, according to court documents… [+342 chars]"
     }
   ]
 }
