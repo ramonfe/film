@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Audra Schroeder",
+      "Title": "Why are there so many of these AI-generated show intros on YouTube now?",
+      "Description": "Over the last month, a new kind of uncanny content has been flooding YouTube: Intros to animated series and TV shows recreated with AI-produced images, made to look like they came from another decade. \n\n\nThere’s Family Guy, The Simpsons, Bob’s Burgers, Advent…",
+      "Url": "https://www.dailydot.com/unclick/ai-generated-show-intros-youtube/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/02/ai-80s-sitcom1.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-02-07T22:12:42Z",
+      "Content": "Over the last month, a new kind of uncanny content has been flooding YouTube: Intros to animated series and TV shows recreated with AI-produced images, made to look like they came from another decade… [+4835 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2023/01/97DYy52T-the-last-of-us-hbo-review.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2023-01-15T14:00:00Z",
       "Content": "On paper, The Last of Us is zombie apocalypse TV without a twist, set in a familiar landscape of gun-toting survivalists and grimy desperation. Coupled with the ever-popular trope of a grizzled antih… [+5326 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Thepinknews.com"
-      },
-      "Author": "Marcus Wratten",
-      "Title": "Netflix cancels Dead End: Paranormal Park as fans are mourning yet another queer TV show: ‘A sad day’",
-      "Description": "Another day, another LGBTQ+ Netflix show bites the dust: This time, it’s animated horror-comedy Dead End: Paranormal Park that has been cancelled by the streaming service. The series’ queer creator Hamish Steele confirmed the sad news in a statement on Friday…",
-      "Url": "https://www.thepinknews.com/2023/01/13/dead-end-paranormal-park-cancelled-netflix/",
-      "UrlToImage": "https://www.thepinknews.com/wp-content/uploads/2023/01/Dead-End-Paranormal-Park-cancelled.jpg",
-      "PublishedAt": "2023-01-13T15:42:29Z",
-      "Content": "Another day, another LGBTQ+ Netflix show bites the dust: This time, it’s animated horror-comedy Dead End: Paranormal Park that has been cancelled by the streaming service.\r\nThe series’ queer creator … [+3277 chars]"
     }
   ]
 }
