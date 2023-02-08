@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1194,
+  "TotalResults": 1195,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "FANTASTIC FOUR Director Matt Shakman Offers an Update on The Highly-Anticipated Marvel Project",
+      "Description": "The long-awaited Fantastic Four reboot is revving up its engines at Marvel Studios and we've got the latest scoop on when production is set to take off! In a recent interview with TheWrap, director Matt Shakman (of WandaVision fame and who was in line to dire…",
+      "Url": "https://geektyrant.com/news/fantastic-four-director-matt-shakman-offers-an-update-on-the-highly-anticipated-marvel-project",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63e2c0f236f2bd2572e822c3/1675870222866/marvel-studios-hires-writers-for-fantastic-four.jpg?format=1500w",
+      "PublishedAt": "2023-02-08T15:30:00Z",
+      "Content": "The long-awaited Fantastic Four reboot is revving up its engines at Marvel Studios and we've got the latest scoop on when production is set to take off! In a recent interview with TheWrap, director M… [+1435 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/amc-tickets-seats.jpg?quality=75&strip=all&1675692698&w=1024",
       "PublishedAt": "2023-02-06T20:05:59Z",
       "Content": "Middle seats at many US movie theaters just got more expensive.\r\nAMC Theaters, the nations largest movie theater chain, on Monday unveiled a new pricing scheme in which seat location determines how m… [+1442 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "msmash",
-      "Title": "AMC is About To Make Paying For Theater Seats More Like Booking an Airline Ticket",
-      "Description": "Starting pretty soon, some tickets at AMC locations are going to be getting cheaper and more expensive depending on where you sit as the movie theater chain introduces a new tiered pricing scheme called Sightline. From a report: Today, AMC announced its plans…",
-      "Url": "https://tech.slashdot.org/story/23/02/06/1843240/amc-is-about-to-make-paying-for-theater-seats-more-like-booking-an-airline-ticket",
-      "UrlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
-      "PublishedAt": "2023-02-06T20:01:00Z",
-      "Content": "Assigned seating in a movie is annoying when you don't arrive with your whole party. Instead of people grouping together as they arrive, they have to try to coordinate all the seats together. Sports … [+104 chars]"
     }
   ]
 }
