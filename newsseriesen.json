@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 116,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Macworld"
+      },
+      "Author": "Roman Loyola, Michael Simon",
+      "Title": "Will Apple use its Super Bowl spotlight for more than just Rihanna’s halftime show?",
+      "Description": "You might have heard that the biggest football game of the year happening this Sunday—that’s “American football” for those in the U.K. But it’s not just about the Philadelphia Eagles vs. the Kansas City Chiefs: The Super Bowl is the most-watched sporting even…",
+      "Url": "https://www.macworld.com/article/1504646/apple-music-super-bowl-halftime-show-ads-history.html",
+      "UrlToImage": "https://www.macworld.com/wp-content/uploads/2023/02/super-bowl-apple.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2023-02-10T12:15:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nYou might have heard… [+5660 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -28,6 +41,19 @@
       "UrlToImage": "https://c.biztoc.com/p/cbb12fa6e2f6d53d/og.webp",
       "PublishedAt": "2023-02-08T20:08:12Z",
       "Content": "When a program is available simultaneously on a subscription video on-demand (SVOD) streaming service and a live TV channel, adult U.S. SVOD viewers are on average more than twice as likely to prefer… [+283 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.1.0b3",
+      "Description": "2023.1.0b3\n\n February 8, 2023\n \n unityhub://2023.1.0b3/812fe9b8f2ae\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2C…",
+      "Url": "https://unity.com/releases/editor/beta/2023.1.0b3",
+      "UrlToImage": null,
+      "PublishedAt": "2023-02-08T16:02:45Z",
+      "Content": "<li>2D: Enabled Sprite Library Assets to now be dragged and dropped into the scene, hierarchy, and inspector.\r\n</li><li>2D: Enabled the ability to select mipmap streaming for textures imported with t… [+161918 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-16T15:14:03Z",
       "Content": "As many in the accessibility community will tell you, inclusive design isn’t an endeavor that’s “one and done.” It’s a continuous, ongoing effort to ensure that as new products and services are made,… [+14000 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Cherlynn Low",
-      "Title": "The tech industry still has a long way to go when it comes to accessibility",
-      "Description": "As many in the accessibility community will tell you, inclusive design isn’t an endeavor that’s “one and done.” It’s a continuous, ongoing effort to ensure that as new products and services are made, people with different needs or disabilities aren’t left out…",
-      "Url": "https://www.engadget.com/accessibility-in-big-tech-companies-2022-report-2023-140007102.html",
-      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ec222020-4a72-11ed-befd-aa5f02dab3cd",
-      "PublishedAt": "2023-01-16T15:00:07Z",
-      "Content": "As many in the accessibility community will tell you, inclusive design isnt an endeavor thats one and done. Its a continuous, ongoing effort to ensure that as new products and services are made, peop… [+8892 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tudor Leonte",
-      "Title": "3 Things The Last of Us Episode 1 Changed from the Video Game",
-      "Description": "The Last of Us Episode 1 finally premiered on HBO Max, bringing the adventures of Joel Miller (Pedro Pascal) and Ellie Williams (Bella Ramsey) into live-action. Show creators Craig Mazin and Neil Druckmann made full use of the source material — Druckmann is a…",
-      "Url": "https://www.comingsoon.net/?p=1261017",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/The-Last-of-Us-Episode-1.jpg?resize=1200,630",
-      "PublishedAt": "2023-01-16T15:00:00Z",
-      "Content": "The Last of Us Episode 1 finally premiered on HBO Max, bringing the adventures of Joel Miller (Pedro Pascal) and Ellie Williams (Bella Ramsey) into live-action. Show creators Craig Mazin and Neil Dru… [+3602 chars]"
     }
   ]
 }
