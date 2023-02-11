@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 181,
+  "TotalResults": 182,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Cine español: el año de la Transición",
+      "Description": "Lo oiremos hoy más veces, pero es una frase ya muy repetida: «Qué gran año del cine español». Repetida y cierta, en 2022 unas cuantas películas españolas han hecho una muy buena taquilla, algunas han ganado premios en los festivales nacionales e internacional…",
+      "Url": "https://www.abc.es/opinion/oti-rodriguez-marchante-cine-espanol-transicion-20230211011446-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2023/02/10/CapturaGoya-U36301270256MOO-1024x512@abc.PNG",
+      "PublishedAt": "2023-02-11T00:14:47Z",
+      "Content": "Lo oiremos hoy más veces, pero es una frase ya muy repetida: «Qué gran año del cine español». Repetida y cierta, en 2022 unas cuantas películas españolas han hecho una muy buena taquilla, algunas han… [+148 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/4e20be/x720/840_560.jpeg",
       "PublishedAt": "2023-01-23T07:19:41Z",
       "Content": "Una de las consecuencias del cierre de Lionsgate+ en nuestro país es que sus series originales en España se iban a quedar huérfanas. Y tenemos dos ejemplos, por un lado la temporada 2 de 'Express', q… [+1367 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "Elena Silveira",
-      "Title": "Así fue el último domingo de cine y palomitas en Los Rosales de A Coruña",
-      "Description": "Yelmo cerrará el jueves, antes del cambio de cartelera, las nueve salas que siguen abiertas en este centro comercial",
-      "Url": "https://www.lavozdegalicia.es/noticia/coruna/2023/01/23/ultimo-domingo-cine-palomitas-rosales/0003_202301H23C59911.htm",
-      "UrlToImage": "https://www.lavozdegalicia.es/default/2023/01/22/00121674414722621131469/Foto/H22E3031.jpg",
-      "PublishedAt": "2023-01-23T04:00:00Z",
-      "Content": "A primera hora de la tarde, muy poca gente se vea por los pasillos del Centro Comercial Los Rosales en A Corua. Algunos tomaban algo en la nica cervecera que estaba abierta, otras familias portaban l… [+2535 chars]"
     }
   ]
 }
