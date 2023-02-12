@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Macworld"
+      },
+      "Author": "Roman Loyola, Michael Simon",
+      "Title": "The complete history of Apple at the Super Bowl: 1984, Lemmings, HAL, and Rihanna",
+      "Description": "You might have heard that the biggest football game of the year happening this Sunday—that’s “American football” for those in the U.K. But it’s not just about the Philadelphia Eagles vs. the Kansas City Chiefs: The Super Bowl is the most-watched sporting even…",
+      "Url": "https://www.macworld.com/article/1504646/apple-super-bowl-1984-history-music-halftime-show.html",
+      "UrlToImage": "https://www.macworld.com/wp-content/uploads/2023/02/super-bowl-apple-4.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2023-02-12T15:30:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nYou might have heard… [+5992 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-18T17:32:21Z",
       "Content": "<li>2D: Enabled Sprite Library Assets to now be dragged and dropped into the scene, hierarchy, and inspector.\r\n</li><li>2D: Enabled the ability to select mipmap streaming for textures imported with t… [+155510 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Hamish Steele",
-      "Title": "Dead End: Paranormal Park's Hamish Steele Reflects on Adaption and DeadEndia's Future",
-      "Description": "Image: Union Square/Netflix\r\nEvery author who wants their work adapted for the screen would probably hope that it is done with care and respect for the source material. But when you find yourself in charge of your own adaptation, do you stick to every word or…",
-      "Url": "https://gizmodo.com/dead-end-hamish-steele-adaptation-cancellation-netflix-1849996107",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2e76af2bf68e9925134b057eda660408.png",
-      "PublishedAt": "2023-01-17T18:10:00Z",
-      "Content": "Every author who wants their work adapted for the screen would probably hope that it is done with care and respect for the source material. But when you find yourself in charge of your own adaptation… [+6089 chars]"
     }
   ]
 }
