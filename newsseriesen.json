@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 123,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "iLounge"
+      },
+      "Author": "Samantha Wiley",
+      "Title": "Streaming aggregator lists Apple TV+ ‘Shrinking’ among top ten shows",
+      "Description": "ReelGood recently reported that Apple TV+ comedy show ‘Shrinking’ has become one of the most viewed shows within the streaming niche. ‘Shrinking’ started on ... Read more",
+      "Url": "https://www.ilounge.com/news/apple-tv/streaming-aggregator-lists-apple-tv-shrinking-among-top-ten-shows",
+      "UrlToImage": "https://www.ilounge.com/wp-content/uploads/2023/02/Shrinking.png",
+      "PublishedAt": "2023-02-12T16:02:07Z",
+      "Content": "ReelGood recently reported that Apple TV+ comedy show ‘Shrinking’ has become one of the most viewed shows within the streaming niche.\r\n‘Shrinking’ started on Apple TV+ on January 27 and tells the sto… [+704 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63c83d5fb475e119cbabc43a/1674069946767/Screen+Shot+2023-01-18+at+11.55.15+AM.jpg?format=1500w",
       "PublishedAt": "2023-01-18T19:25:00Z",
       "Content": "Apple TV+ has released a full trailer for its upcoming comedy-drama series Shrinking, which comes from Bill Lawrence, the creator of Scrubs and Ted Lasso. This trailer put a smile on my face and Im 1… [+1121 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Christopher Harris",
-      "Title": "How HBO Max & Telemundo did on USWNT debut",
-      "Description": "On this episode, we discuss US soccer’s debut on HBO Max and Telemundo, our thoughts on how TV broadcasters are getting more access during Premier League matches, your opinions about MLS Season Pass news so far, plus we have letters from you in the Listener M…",
-      "Url": "https://worldsoccertalk.com/how-hbo-max-telemundo-did-on-uswnt-debut-20230118-WST-416015.html",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20230118_WST_416015_uswnt-hbo-max-telemundo.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2023-01-18T17:54:16Z",
-      "Content": "On this episode, we discuss US soccers debut on HBO Max and Telemundo, our thoughts on how TV broadcasters are getting more access during Premier League matches, your opinions about MLS Season Pass n… [+842 chars]"
     }
   ]
 }
