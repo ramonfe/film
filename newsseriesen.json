@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "'Ted Lasso' season 3 debuts March 15th",
+      "Description": "The marquee show on Apple TV+ is coming back after a year and a half. Apple has revealed that the third season of Ted Lasso will premiere March 15th, with a new episode (12 total) arriving every week. The teaser trailer below doesn't shed much light on the st…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170338539",
+      "UrlToImage": null,
+      "PublishedAt": "2023-02-14T15:52:05Z",
+      "Content": "The marquee show on Apple TV+ is coming back after a year and a half. Apple has revealed that the third season of Ted Lasso will premiere March 15th, with a new episode (12 total) arriving every week… [+1112 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Jon Fingas",
+      "Title": "'Ted Lasso' season 3 debuts March 15th",
+      "Description": "The marquee show on Apple TV+ is coming back after a year and a half. Apple has revealed that the third season of Ted Lasso will premiere March 15th, with a new episode (12 total) arriving every week. The teaser trailer below doesn't shed much light on the st…",
+      "Url": "https://www.engadget.com/ted-lasso-season-3-release-date-trailer-152724136.html",
+      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/6c034f90-ac79-11ed-bf57-718ee90461a9",
+      "PublishedAt": "2023-02-14T15:27:24Z",
+      "Content": "The marquee show on Apple TV+ is coming back after a year and a half. Apple has revealed that the third season of Ted Lasso will premiere March 15th, with a new episode (12 total) arriving every week… [+1110 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETCanada.com"
+      },
+      "Author": "Becca Longmire",
+      "Title": "‘Ted Lasso’ Season 3: Apple TV+ Reveals Release Date And New Teaser",
+      "Description": "It's good news for \"Ted Lasso\" fans. Apple TV+ confirmed on Tuesday that the third season of the hit show will be released on March 15. The streaming service unveiled a teaser ahead of the next season's debut, which showed all the characters returning to the …",
+      "Url": "https://etcanada.com/news/968463/ted-lasso-season-3-apple-tv-reveals-release-date-and-new-teaser/",
+      "UrlToImage": "https://etcanada.com/wp-content/uploads/2023/01/TedLasso3.png?w=720&h=480&crop=1",
+      "PublishedAt": "2023-02-14T14:54:44Z",
+      "Content": "It’s good news for “Ted Lasso” fans.\r\nApple TV+ confirmed on Tuesday that the third season of the hit show will be released on March 15.\r\nThe streaming service unveiled a teaser ahead of the next sea… [+1753 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1263,45 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-19T16:36:44Z",
       "Content": "Netflix has revealed it is releasing its first-ever Welsh language TV show on its platform.\r\nThe global streaming service said it has bought the licence for Dal y Mellt a gritty crime thriller which … [+3709 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "DW (English)"
-      },
-      "Author": "Torsten Landsberg",
-      "Title": "The cult of the 90s: Everything old is new again",
-      "Description": "Remember \"That '70s Show\"? Netflix has revived the hit TV series with \"That '90s Show,\" a sequel that indulges in 1990s nostalgia. But what defined the era? The '90s: a decade when crop tops were in, casted boy bands were hot and the internet was still in the…",
-      "Url": "https://www.dw.com/en/the-cult-of-the-90s-everything-old-is-new-again/a-64451963",
-      "UrlToImage": "https://static.dw.com/image/64448954_6.jpg",
-      "PublishedAt": "2023-01-19T15:57:00Z",
-      "Content": "The '90s: a decade when crop tops were in, casted boy bands were hot and the internet was still in the early days of making its way into homes. On-demand streaming services like Netflix were still a … [+7622 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Jessica Fisher",
-      "Title": "Jon Heder Says He'd Love to Do NAPOLEON DYNAMITE 2, But Says It Would Be 20 Years Later and Much Darker",
-      "Description": "The 2004 comedy Napoleon Dynamite is a rewatchable fan-favorite due to its super quotable lines and weird, understated humor. It featured the title protagonist, an awkward high-schooler named Napoleon (Jon Heder) who finds his way with the help of his friends…",
-      "Url": "https://geektyrant.com/news/jon-heder-says-hed-love-to-do-napoleon-dynamite-2-but-says-it-would-be-20-years-later-and-much-darker",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63c85f79119253129d3f6389/1674135009063/napoleon+pedro+and+deb.jpg?format=1500w",
-      "PublishedAt": "2023-01-19T13:30:00Z",
-      "Content": "The 2004 comedy Napoleon Dynamite is a rewatchable fan-favorite due to its super quotable lines and weird, understated humor. It featured the title protagonist, an awkward high-schooler named Napoleo… [+3007 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Macworld"
-      },
-      "Author": "David Price",
-      "Title": "Apple is developing a magnetic iPad-like display in major smart-home push",
-      "Description": "Apple plans to follow this week’s relaunched HomePod with a raft of new smart-home products, according to a new report. These include a specialized iPad for controlling lights and heating, smart displays, and a faster Apple TV set-top box.\r\n\n\n\n\nWriting for Bl…",
-      "Url": "https://www.macworld.com/article/1477957/smart-home-rumors-wall-display-apple-tv.html",
-      "UrlToImage": "https://www.macworld.com/wp-content/uploads/2023/01/amazon-echo-show-15-fire-tv.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2023-01-19T13:29:44Z",
-      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nApple plans to follo… [+3229 chars]"
     }
   ]
 }
