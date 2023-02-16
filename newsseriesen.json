@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 134,
+  "TotalResults": 135,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "How-To Geek"
+      },
+      "Author": "Corbin Davenport",
+      "Title": "Plex Has a New Button to Skip the Credits",
+      "Description": "Plex already has a button to skip the intro of a TV show, similar to streaming services like Netflix and Hulu, but powered with machine learning. Now you can even skip the credits, too.",
+      "Url": "https://www.howtogeek.com/873318/plex-has-a-new-button-to-skip-the-credits/",
+      "UrlToImage": "https://www.howtogeek.com/wp-content/uploads/2022/05/Plex-logo-featured-image.jpg?height=200p&trim=2,2,2,2",
+      "PublishedAt": "2023-02-16T15:48:38Z",
+      "Content": "Plex already has a button to skip the intro of a TV show, similar to streaming services like Netflix and Hulu, but powered with machine learning. Now you can even skip the credits, too.\r\nPlex is roll… [+1651 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/clicker.jpg?resize=1200,630",
       "PublishedAt": "2023-01-24T22:07:33Z",
       "Content": "The Last of Us second episode finally introduced the Clickers, one of the games deadliest enemies. And while they share a lot of similarities to their in-game counterparts, some of the creators of th… [+3520 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Trailers For Netflix's Great-Looking Korean Revenge Series THE GLORY",
-      "Description": "The filmmaking talent in Korea is consistently putting out great films and TV series that are worth watching! I’ve been enjoying a lot of their projects and there’s a new one coming to Netflix, a revenge thriller series titled The Glory. This looks like it’ll…",
-      "Url": "https://geektyrant.com/news/trailers-for-netflixs-great-looking-korean-revenge-series-the-glory",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63ced59c627c29218f8b9199/1674585013271/Screen+Shot+2023-01-23+at+12.01.37+PM.jpg?format=1500w",
-      "PublishedAt": "2023-01-24T18:30:00Z",
-      "Content": "The filmmaking talent in Korea is consistently putting out great films and TV series that are worth watching! Ive been enjoying a lot of their projects and theres a new one coming to Netflix, a reven… [+1431 chars]"
     }
   ]
 }
