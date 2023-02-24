@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1052,
+  "TotalResults": 1053,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Drew Barrymore se sorprendió al ser “encarcelada” por el actor de You, Penn Badgley",
+      "Description": "La actriz quedó desconcertada en su programa por la presencia del protagonista del thriller de Netflix; el actor recreó una aterradora escena de la serie con la conductora",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/drew-barrymore-se-sorprendio-al-ser-encarcelada-por-el-actor-de-you-penn-badgley-nid23022023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/FYmNEmKmymk9JaHKDyl4nmICLFg=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/DBT54OE4CNDOHPW5DTSXNF5KZU.JPG",
+      "PublishedAt": "2023-02-23T22:25:44Z",
+      "Content": "La emisión del miércoles deThe Drew Barrymore Show fue bastante diferente a las que suele entregar su conductora. La popular actriz y empresaria, quien cumplió 48 años ese día, decidió realizar un pr… [+4322 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/2a8eab/paula-echevarria-mono-negro-stradivarius-trendencias-primavera/840_560.png",
       "PublishedAt": "2023-02-21T11:01:55Z",
       "Content": "Aún quedan días de frío, pero ya huele a primavera, por eso tenemos que comenzar a pensar en el armario de estos próximos meses. Paula Echevarría ya ha encontrado a su mejor aliado para ello: un mono… [+2863 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": null,
-      "Title": "Muere Barbara Bosson, actriz de 'Canción triste de Hill Street' y 'Murder One', a los 83 años",
-      "Description": "1939 - 2023 Nominada a seis premios Emmy, Barbara Bosson pasó a la historia de la televisión estadounidense interpretando a Fay Furillo en la influyente serie de los 80 'Canción triste de Hill Street'.Muere Barbara Bosson, actriz de 'Canción triste de Hill St…",
-      "Url": "https://www.ecartelera.com/noticias/muere-barbara-bosson-cancion-triste-hill-street-72368/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/72300/72368-m.jpg",
-      "PublishedAt": "2023-02-21T09:30:00Z",
-      "Content": "Barbara Bosson, actriz de televisión conocida en los 80 gracias a la mítica serie 'Canción triste de Hill Street', ha muerto a los 83 años. Su hijo, Jesse Bochco, ha confirmado la triste noticia a tr… [+1919 chars]"
     }
   ]
 }
