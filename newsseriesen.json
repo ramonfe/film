@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Worldsoccertalk.com"
+      },
+      "Author": "Tamojit Chakraborty",
+      "Title": "Apple TV may add Pac-12 football to streaming service",
+      "Description": "Fans of Major League Soccer may be pleased to hear that Apple TV+ is actively pursuing becoming the home of Pac-12 football in the near future. According to the New York Post, the newspaper is reporting that Apple TV+ has emerged as a favorite to acquire the …",
+      "Url": "https://worldsoccertalk.com/tv/apple-tv-may-add-pac-12-football-to-streaming-service-20230226-WST-421487.html",
+      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20230226_WST_421487_pac-12-football-apple.jpg[ampersand]width=1200[ampersand]height=740",
+      "PublishedAt": "2023-02-26T22:20:00Z",
+      "Content": "Fans of Major League Soccer may be pleased to hear that Apple TV+ is actively pursuing becoming the home of Pac-12 football in the near future.\r\nAccording to the New York Post, the newspaper is repor… [+2025 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/9816809d85b322b0/og.webp",
       "PublishedAt": "2023-01-30T14:26:10Z",
       "Content": "The Netflix spinoff dominated the week, while NBC outpaced other broadcast networks with Night Court joining the leaderboardNearly two decades after the final episode of That 70s Show aired, audience… [+303 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "N.Ireland journeys from building ships to screen hits",
-      "Description": "A string of major recent cinematic and streaming projects made in the UK province have earned it a growing international reputation for television and cinema production.\n\nIndustry insiders say Northern Ireland is increasingly likely to be known globally as th…",
-      "Url": "https://www.france24.com/en/live-news/20230129-n-ireland-journeys-from-building-ships-to-screen-hits",
-      "UrlToImage": "https://s.france24.com/media/display/4faf9e9e-9f8f-11ed-96e9-005056a90321/w:1280/p:16x9/ad5509beea1f08344024b744c3c9c64ad2eb7353.jpg",
-      "PublishedAt": "2023-01-29T04:42:19Z",
-      "Content": "Belfast (AFP) For much of the last century Belfast's dockyards dominated global shipbuilding but now the harbour that built Titanic is the launchpad for some of the world's biggest TV and film releas… [+4819 chars]"
     }
   ]
 }
