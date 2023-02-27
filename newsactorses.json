@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 984,
+  "TotalResults": 985,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Clarín"
+      },
+      "Author": "Diego Jemio",
+      "Title": "En Netflix, la mujer que cometió la osadía de querer ejercer el derecho a fines del siglo XIX",
+      "Description": "'La ley según Lidia Poët' es una serie italiana inspirada en una historia real, protagonizada por la actriz y cantante Matilda De Angelis.",
+      "Url": "https://www.clarin.com/espectaculos/tv/netflix-mujer-cometio-osadia-querer-ejercer-derecho-fines-siglo-xix_0_5Kv9aKKmYO.html",
+      "UrlToImage": "https://www.clarin.com/img/2023/02/25/OyEHp7bEO_1256x620__1.jpg",
+      "PublishedAt": "2023-02-26T16:00:59Z",
+      "Content": "Turín, 3 de noviembre de 1883. La placa negra dice la clásica inscripción de Inspirada en una historia real. A los pocos minutos del inicio de la serie, un hombre pronuncia la siguiente frase: El des… [+2963 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static2.abc.es/media/play/2023/02/23/The_Quiet_Girl_Cait_(Catherine_Clinch)_arrives_at_the_Kinsellas_house_1-kkIF--1024x512@abc.jpg",
       "PublishedAt": "2023-02-22T23:03:57Z",
       "Content": "Lucía M. CabanelasSEGUIR\r\nActualizado:23/02/2023 00:03h\r\nGuardar\r\n No es fácil encontrar a un cineasta capaz de llevarle la contraria a Alfred Hitchcock y, sin embargo, Colm Bairéad no duda en hacerl… [+2649 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Afán de venganza, amputaciones y ansia por volver al frente: la vida después del infierno de los defensores de Azovstal",
-      "Description": "La ocupación a sangre y fuego de la ciudad de Mariúpol y el asedio de la acería Azovstal representan dos de los momentos más dramáticos de la guerra en Ucrania. Azovstal, un complejo bajo el que se esconde un laberinto de túneles que funcionaron como búnkeres…",
-      "Url": "https://www.abc.es/internacional/heroes-azovstal-20230224165723-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2023/02/20/combatientes-azovstal-asedio-ucranizada-U76254654420tdY-1024x512@abc.jpg",
-      "PublishedAt": "2023-02-22T22:52:20Z",
-      "Content": "La ocupación a sangre y fuego de la ciudad de Mariúpol y el asedio de la acería Azovstal representan dos de los momentos más dramáticos de la guerra en Ucrania. Azovstal, un complejo bajo el que se e… [+17691 chars]"
     }
   ]
 }
