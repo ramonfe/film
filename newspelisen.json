@@ -1,8 +1,515 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1213,
+  "TotalResults": 1135,
   "Articles": [
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "'Cocaine Bear': Breakdown of the moments that are fact and fiction - Insider",
+      "Description": "<ol><li>'Cocaine Bear': Breakdown of the moments that are fact and fiction  Insider\r\n</li><li>Yes, 'Cocaine Bear' is a real movie. It's also a true story  AOL\r\n</li><li>'Cocaine Bear' Review: This Is a Bear. This Is a Bear on Drugs.  Pajiba Entertainment News…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lmluc2lkZXIuY29tL2NvY2FpbmUtYmVhci1icmVha2Rvd24tcmVhbC1mYWtlLW1vbWVudHMtZmFjdC1maWN0aW9uLTIwMjMtMtIBWGh0dHBzOi8vd3d3Lmluc2lkZXIuY29tL2NvY2FpbmUtYmVhci1icmVha2Rvd24tcmVhbC1mYWtlLW1vbWVudHMtZmFjdC1maWN0aW9uLTIwMjMtMj9hbXA?oc%3D5&gl=FR&hl=en-US&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-02-26T13:45:14Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Week Magazine"
+      },
+      "Author": "The Week Staff",
+      "Title": "6 jaw-dropping homes kids will love",
+      "Description": "Oakland Township, Michigan\nCourtesy image \nModeled after a medieval castle, this five-bedroom home in a Detroit suburb is more than 60 feet high and has hidden doors, passageways, and staircases, as well as 26 rooms, including secret rooms.\nCourtesy image \nTh…",
+      "Url": "https://theweek.com/properties/1021285/6-jaw-dropping-homes-kids-will-love",
+      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1677193133/TWS1119.Props.OaklandExt.jpg",
+      "PublishedAt": "2023-02-26T10:52:08Z",
+      "Content": "Courtesy image \r\nModeled after a medieval castle, this five-bedroom home in a Detroit suburb is more than 60 feet high and has hidden doors, passageways, and staircases, as well as 26 rooms, includin… [+3365 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Raymond.cc"
+      },
+      "Author": "HAL9000",
+      "Title": "How to Extract Frames from Video [Best Video Extractor Tools]",
+      "Description": "Every video or animation you see on your television, computer, phone, tablet or even at the movie theater is made up from a succession of still images. These images are then played one after the other several times a second which fools your eye into thinking …",
+      "Url": "https://raymond.cc/blog/extract-video-frames-to-images-using-vlc-media-player/",
+      "UrlToImage": "https://raymond.cc/wp-content/uploads/2011/10/vlc-icon.png",
+      "PublishedAt": "2023-02-26T07:04:41Z",
+      "Content": "Every video or animation you see on your television, computer, phone, tablet or even at the movie theater is made up from a succession of still images. These images are then played one after the othe… [+9412 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Victoria Messina",
+      "Title": "Brittney Griner and Wife Cherelle Make Surprise Appearance at the NAACP Image Awards",
+      "Description": "Brittney Griner and wife Cherelle made a surprise appearance at the 2023 NAACP Image Awards on Feb. 25. The whole crowd erupted into applause and rose to their feet as host Queen Latifah introduced the couple at the Pasadena Civic Auditorium, saying, \"In the …",
+      "Url": "https://www.popsugar.com/celebrity/brittney-cherelle-griner-naacp-image-awards-2023-49098584",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/oJDhhR1ZDjWuE33eSBDuKJmhSqg/250x153:4517x2393/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/02/25/111/n/1922398/0e06c9b763fab8a2299f66.65217976_.jpg",
+      "PublishedAt": "2023-02-26T02:57:00Z",
+      "Content": "Brittney Griner and wife Cherelle made a surprise appearance at the 2023 NAACP Image Awards on Feb. 25. The whole crowd erupted into applause and rose to their feet as host Queen Latifah introduced t… [+1899 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "polygon.com",
+      "Title": "The indie animated movie Lamya’s Poem is a hidden gem",
+      "Description": "Lamya’s Poem is a hidden gem, a movie that defies expectations for modern American animation but may resonate with fans of international projects like Cartoon Saloon’s The Breadwinner. The direct-to-streaming release comes from nonprofit education studio Unit…",
+      "Url": "https://biztoc.com/x/96198ea85c3feb3e",
+      "UrlToImage": "https://c.biztoc.com/p/96198ea85c3feb3e/og.webp",
+      "PublishedAt": "2023-02-25T18:16:05Z",
+      "Content": "Lamyas Poem is a hidden gem, a movie that defies expectations for modern American animation but may resonate with fans of international projects like Cartoon Saloons The Breadwinner. The direct-to-st… [+325 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Stephanie Giang-Paunon",
+      "Title": "Candace Cameron Bure hopes film will help people 'turn to Jesus' amid 'traditional marriage' comments backlash",
+      "Description": "\"Fuller House\" star Candace Cameron Bure shared a message of faith with her Instagram fans after the release of the \"Jesus Revolution\" movie, starring Kelsey Grammer.",
+      "Url": "https://www.foxnews.com/entertainment/candace-cameron-bure-film-help-people-jesus-traditional-marriage-comments-backlash",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/11/candace-cameron-bure.jpg",
+      "PublishedAt": "2023-02-25T17:03:04Z",
+      "Content": "Candace Cameron Bure is praying that others will find a deeper connection with religion after watching the \"Jesus Revolution\" movie.\r\nThe \"Full House\" alum took to her Instagram this week to share th… [+2557 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "The Feed",
+      "Title": "Prabhu Deva-starrer movie ‘Bagheera’ to release on March 3, reveals new poster",
+      "Description": "Prabhu Deva has released the new poster of his upcoming movie ‘Bagheera’, which reveals its release date.",
+      "Url": "https://economictimes.indiatimes.com/news/new-updates/prabhu-deva-starrer-movie-bagheera-to-release-on-march-3-reveals-new-poster/articleshow/98236484.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-98236582,width-1070,height-580,imgsize-43644,overlay-economictimes/photo.jpg",
+      "PublishedAt": "2023-02-25T14:12:19Z",
+      "Content": "Prabhu Deva, an accomplished choreographer, director and actor, is eagerly looking forward to the March 3 premiere of his latest Tamil film, Bagheera.Adhik Ravichandran and Soori are directing the fi… [+1848 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sonyalpharumors.com"
+      },
+      "Author": "SonyAlpha Admin",
+      "Title": "New products seen at the CP+ Tokina booth",
+      "Description": "At the Tokina booth following interesting products have been displayed: Tokina SZ Mount Converter EF-FE adapter: The release date is March 24th. The suggested retail price is 41,800 yen (tax included). What’s unique is the presence of a “mode switch”. Mode 1 …",
+      "Url": "https://www.sonyalpharumors.com/new-products-seen-at-the-cp-tokina-booth/",
+      "UrlToImage": null,
+      "PublishedAt": "2023-02-25T13:27:14Z",
+      "Content": "Disclaimer: SonyAlphaRumors has no affiliation with any of the equipment manufacturers mentioned on this site. Please visit their official websites by typing the specific brand name and adding .com a… [+804 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Sam Joseph Semon",
+      "Title": "Sydney Sweeney's new movie picked up by HBO Films after rave reviews",
+      "Description": "Though a release date has not been announced, it's been hinted that Reality may be available 'in the near future' and just 'in time to qualify for Emmy consideration.'",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-11791877/Sydney-Sweeneys-new-movie-picked-HBO-Films-rave-reviews.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/02/25/07/68070547-0-image-a-23_1677308862448.jpg",
+      "PublishedAt": "2023-02-25T07:35:56Z",
+      "Content": "The rights to the Sydney Sweeney-starring movie Reality have been acquired by HBO Films.\r\nAccording to Deadline, the drama feature received 'rave reviews' from critics during its premiere at the 73rd… [+3290 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "ktla.com",
+      "Title": "Theater chain says shareholders could be wiped out",
+      "Description": "Cineworld, the bankrupt owner of Regal Cinemas, said Friday that shareholders may lose all their money regardless of any recovery plan for the company. The world’s second-largest movie theater chain said its been in talks with “key stakeholders” — read: peopl…",
+      "Url": "https://biztoc.com/x/6d7773b13a58a102",
+      "UrlToImage": "https://c.biztoc.com/p/6d7773b13a58a102/og.webp",
+      "PublishedAt": "2023-02-25T03:52:05Z",
+      "Content": "Cineworld, the bankrupt owner of Regal Cinemas, said Friday that shareholders may lose all their money regardless of any recovery plan for the company.The worlds second-largest movie theater chain sa… [+277 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Chosun.com"
+      },
+      "Author": "By Lee Tae-hoon( )",
+      "Title": "Chun Woo-hee Says Latest Netflix Role Resembles Her",
+      "Description": "Actress Chun Woo-hee's latest movie \"Unlocked\" has gotten off to a good start, ranking third on Netflix's weekly viewership chart for non-English films after its release last week.Chun plays a woman whose life is turned upside down after a psychopath finds he…",
+      "Url": "https://english.chosun.com/site/data/html_dir/2023/02/25/2023022500446.html",
+      "UrlToImage": "https://english.chosun.com/site/data/img_dir/2023/02/25/2023022500442_0.jpg",
+      "PublishedAt": "2023-02-24T23:29:11Z",
+      "Content": "Actress Chun Woo-hee's latest movie \"Unlocked\" has gotten off to a good start, ranking third on Netflix's weekly viewership chart for non-English films after its release last week.\r\nChun plays a woma… [+1107 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Robb Report"
+      },
+      "Author": "Abigailtmontanez",
+      "Title": "This $60 Million Vero Beach Mega-Mansion Has a Pool Inlayed With 14K Gold",
+      "Description": "The 23,000-square foot estate also comes with 200-plus feet of ocean frontage, a 2,000-bottle wine cellar and a movie theater modeled after the Getty Museum.",
+      "Url": "https://robbreport.com/shelter/homes-for-sale/60-million-mega-mansion-vero-beach-1234811779/",
+      "UrlToImage": "https://robbreport.com/wp-content/uploads/2023/02/1-50.jpg?w=681&h=383&crop=1",
+      "PublishedAt": "2023-02-24T23:00:00Z",
+      "Content": "South Florida’s real estate market is as hot as the Sunshine State itself and one newly listed home on Vero Beach proves why.  \r\nListed for a hefty $60 million, this 23,000-square-foot mega-mansion i… [+1940 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Monica Sisavat",
+      "Title": "Salma Hayek and François-Henri Pinault Bring Their Daughters to Milan Fashion Week",
+      "Description": "Salma Hayek turned Milan Fashion Week into a family affair on Friday. The 56-year-old actor attended Gucci's fashion show with husband François-Henri Pinault, their 15-year-old daughter Valentina Paloma Pinault, and his 22-year-old daughter Mathilde Pinault, …",
+      "Url": "https://www.popsugar.com/celebrity/salma-hayek-her-family-at-2023-milan-fashion-week-49097931",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/gF9P2mk0N1rpyf7_u4P0T1WEBD0/13x717:3838x2725/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/02/24/897/n/1922398/9059079063f91ed16da024.91618968_.jpg",
+      "PublishedAt": "2023-02-24T21:00:04Z",
+      "Content": "Salma Hayek turned Milan Fashion Week into a family affair on Friday. The 56-year-old actor attended Gucci's fashion show with husband François-Henri Pinault, their 15-year-old daughter Valentina Pal… [+1549 chars]"
+    },
+    {
+      "Source": {
+        "Id": "breitbart-news",
+        "Name": "Breitbart News"
+      },
+      "Author": "David Ng, David Ng",
+      "Title": "'Jesus Revolution' Director on Movie's Release Coinciding with Asbury Revival: 'There’s a Divine Hand on the Timing'",
+      "Description": "One of the directors of the new movie \"Jesus Revolution\" hasn't missed the fact that the title is opening on the heels of one of the largest Christian revivals in recent years -- the Asbury Revival, which saw an estimated 50,000 Gen Z'ers participate in song …",
+      "Url": "https://www.breitbart.com/entertainment/2023/02/24/jesus-revolution-director-on-movies-release-coinciding-with-asbury-revival-theres-a-divine-hand-on-the-timing/",
+      "UrlToImage": "https://media.breitbart.com/media/2023/02/JesusRevolutionAsbury-640x335.jpg",
+      "PublishedAt": "2023-02-24T20:41:23Z",
+      "Content": "One of the directors of the new movie Jesus Revolution hasn’t missed the fact that the title is opening on the heels of one of the largest Christian revivals in recent years — the Asbury Revival, whi… [+1587 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Chicago Tribune"
+      },
+      "Author": "David Sharos",
+      "Title": "Movie screen set to be the largest in Illinois taking shape in Batavia",
+      "Description": "For those who enjoy the in-person experience of seeing a movie in a theater as opposed to streaming on TV, Batavia will soon be home to the largest movie screen of its kind in the state.",
+      "Url": "https://www.chicagotribune.com/suburbs/aurora-beacon-news/ct-abn-batavia-big-movie-screen-st-0227-20230224-gb44x5rck5gung5jiisnyztc5m-story.html",
+      "UrlToImage": "https://www.chicagotribune.com/resizer/EZckREI4IsBgw10NMrXAgXxOQD4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/M74K3CRSABHPBLG2SRGQI7VEZM.jpg",
+      "PublishedAt": "2023-02-24T20:09:28Z",
+      "Content": "For those who enjoy the in-person experience of seeing a movie in a theater as opposed to streaming on TV, Batavia will soon be home to the largest movie screen of its kind in the state.\r\nLast summer… [+5128 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "entrepreneur.com",
+      "Title": "Theater Chain Stock Plummets Over 30% After Revealing Shareholders Will Lose All Equity Amid Bankruptcy",
+      "Description": "Cineworld, which owns popular chain Regal Cinemas, filed for Chapter 11 bankruptcy protection in the US in September 2022. It's been a rough few years for the movie theater business thanks to the pandemic, with related restrictions that saw many theaters with…",
+      "Url": "https://biztoc.com/x/4dbfc5eea7e884da",
+      "UrlToImage": "https://c.biztoc.com/p/4dbfc5eea7e884da/og.webp",
+      "PublishedAt": "2023-02-24T19:50:04Z",
+      "Content": "Cineworld, which owns popular chain Regal Cinemas, filed for Chapter 11 bankruptcy protection in the US in September 2022.It's been a rough few years for the movie theater business thanks to the pand… [+335 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Theybf.com"
+      },
+      "Author": "_YBF",
+      "Title": "EXCLUSIVE ‘Bel-Air’ Season 2: Showrunner Carla Banks-Waddles & Director Morgan Cooper On Crafting Characters and Powerful Themes That Resonate",
+      "Description": "Get ready for exclusive behind the scenes tea of the highly anticipated Season 2 of Peacock's hit series, “Bel-Air.” In a new interview, TheYBF sits down with showrunner Carla Banks-Waddles and director Morgan Cooper to discuss the creative process behind the…",
+      "Url": "https://theybf.com/2023/02/24/exclusive-%e2%80%98bel-air%e2%80%99-season-2-showrunner-carla-banks-waddles-director-morgan-cooper-on-cra",
+      "UrlToImage": "http://theybf.com/sites/default/files/img_6129.jpg",
+      "PublishedAt": "2023-02-24T19:06:49Z",
+      "Content": "Get ready for exclusive behind the scenes tea of the highly anticipated Season 2 of Peacock's hit series, “Bel-Air.” In a new interview, TheYBF sits down with showrunner Carla Banks-Waddles and direc… [+4781 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Njera Perkins",
+      "Title": "The Weeknd and Ariana Grande Team Up Once Again For \"Die For You (Remix)\"",
+      "Description": "Friends and longtime collaborators The Weeknd and Ariana Grande have once again teamed up to match musical wits on their latest track together, the \"Dawn FM\" singer's highly anticipated \"Die For You (Remix).\" The two stars dropped their collaboration on Feb. …",
+      "Url": "https://www.popsugar.com/entertainment/the-weeknd-ariana-grande-die-for-you-remix-video-49097521",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/XF8IiNkScp9SOADIbExueoNssz4/0x142:3610x2037/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/02/24/744/n/1922283/6f52433f63f8eb168bd2f9.83185366_.jpg",
+      "PublishedAt": "2023-02-24T17:55:00Z",
+      "Content": "Friends and longtime collaborators The Weeknd and Ariana Grande have once again teamed up to match musical wits on their latest track together, the \"Dawn FM\" singer's highly anticipated \"Die For You … [+1645 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bloody Disgusting"
+      },
+      "Author": "Meagan Navarro",
+      "Title": "Cinemark Opens Up Online Preorders for ‘Scream VI’ Collectible Ghostface Popcorn Tub",
+      "Description": "If you missed your chance to grab the highly coveted Scream VI Collectible Ghostface Popcorn Tub, we’ve got good news! After instantly selling out at select Cinemark locations, the movie theater chain just opened up a presale, making it easier than ever to sn…",
+      "Url": "https://bloody-disgusting.com/movie/3752619/cinemark-opens-up-preorders-for-scream-vi-collectible-ghostface-popcorn-tub/",
+      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/02/scream-popcorn-bucket.jpg?resize=1000%2C600&ssl=1",
+      "PublishedAt": "2023-02-24T17:00:16Z",
+      "Content": "Camping has a way of making people act unlike themselves. Once the Great Outdoors come into view, power dynamics can shift and that usual sense of self-preservation may or may no longer be intact. Th… [+5829 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Spencer Legacy",
+      "Title": "Justice League: Cosmic Chaos Gameplay Trailer Spotlights Voice Cast",
+      "Description": "A new Justice League: Cosmic Chaos trailer has been released alongside the reveal of the game’s star-studded voice cast by game studio PHL Collective ahead of its release. The new Justice League: Cosmic Chaos trailer takes a closer look at the title’s gamepla…",
+      "Url": "https://www.comingsoon.net/?p=1269987",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/cosmic-chaos-header.png?resize=1200,630",
+      "PublishedAt": "2023-02-24T17:00:00Z",
+      "Content": "A new Justice League: Cosmic Chaos trailer has been released alongside the reveal of the games star-studded voice cast by game studio PHL Collective ahead of its release.\r\nThe new Justice League: Cos… [+899 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "looper.com",
+      "Title": "If Your Theater Is Showing Crazy Bear, Rest Assured It's Cocaine Bear",
+      "Description": "Learn More If Your Theater Is Showing Crazy Bear, Rest Assured It's Cocaine Bear \"Cocaine Bear\" is finally showing in theaters, and it looks to be a fun, wild time for all planning to see the movie, if reviews are any indication. However, some people who show…",
+      "Url": "https://biztoc.com/x/752a6d1bebb2ff26",
+      "UrlToImage": "https://c.biztoc.com/p/752a6d1bebb2ff26/og.webp",
+      "PublishedAt": "2023-02-24T16:40:32Z",
+      "Content": "Learn MoreIf Your Theater Is Showing Crazy Bear, Rest Assured It's Cocaine Bear\"Cocaine Bear\" is finally showing in theaters, and it looks to be a fun, wild time for all planning to see the movie, if… [+247 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Trailer for RARE OBJECTS, a Drama Directed by Katie Holmes, Who Also Stars",
+      "Description": "IFC Films has released a trailer for an upcoming drama titled Rare Objects, which is the latest film directed by actress Katie Holmes, and she also stars in the film. The movie is an adaptation of Kathleen Tessaro's novel, and it’s a story about friendship.Th…",
+      "Url": "https://geektyrant.com/news/trailer-for-rare-objects-a-drama-directed-by-katie-holmes-who-also-stars",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63f7b05316fa0f51a5ebdb5e/1677254433296/trailer-for-rare-objects-a-drama-directed-by-katie-holmes-who-also-stars.jpg?format=1500w",
+      "PublishedAt": "2023-02-24T16:00:00Z",
+      "Content": "IFC Films has released a trailer for an upcoming drama titled Rare Objects, which is the latest film directed by actress Katie Holmes, and she also stars in the film. The movie is an adaptation of Ka… [+408 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Pockettactics.com"
+      },
+      "Author": "Holly Alice",
+      "Title": "Let’s-a go! A Mario Nintendo Switch bundle may have been leaked",
+      "Description": "Wahoo! A sneaky leak may have given a peak into a new Mario Nintendo Switch bundle filled with goodies, potentially coming this March to European retailers. Release day is fittingly tabbed as March 10, 2023 - Mario day.\nThis is not confirmed information, so t…",
+      "Url": "https://www.pockettactics.com/mario/nintendo-switch-bundle-rumour",
+      "UrlToImage": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/02/Mario-Nintendo-Switch-bundle.jpg",
+      "PublishedAt": "2023-02-24T15:45:49Z",
+      "Content": "Wahoo! A sneaky leak may have given a peak into a new Mario Nintendo Switch bundle filled with goodies, potentially coming this March to European retailers. Release day is fittingly tabbed as March 1… [+1286 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "deadline.com",
+      "Title": "Cinemark CEO Sees Amazon’s ‘Air’ Jumpstarting Streamers In Cinemas With 45-Day Window; Upbeat On 100+ Wide Releases For 2023",
+      "Description": "Amazon’s upcoming wide release of Ben Affleck and Matt Damon’s Nike movie Air exclusively in theaters in April “could represent the start of a substantive move into theatrical exhibition by streaming companies,” said Sean Gamble, chief executive of nation’s t…",
+      "Url": "https://biztoc.com/x/9587fe59bdde39c1",
+      "UrlToImage": "https://c.biztoc.com/p/9587fe59bdde39c1/og.webp",
+      "PublishedAt": "2023-02-24T15:20:21Z",
+      "Content": "Amazons upcoming wide release of Ben Affleck and Matt Damons Nike movie Air exclusively in theaters in April could represent the start of a substantive move into theatrical exhibition by streaming co… [+288 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Deadline"
+      },
+      "Author": "jillg366",
+      "Title": "Cinemark CEO Sees Amazon’s ‘Air’ Jumpstarting Streamers In Cinemas With 45-Day Window; Upbeat On 100+ Wide Releases For 2023",
+      "Description": "Amazon’s upcoming wide release of Ben Affleck and Matt Damon’s Nike movie Air exclusively in theaters in April “could represent the start of a substantive move into theatrical exhibition by streaming companies,” said Sean Gamble, chief executive of nation’s t…",
+      "Url": "https://deadline.com/2023/02/cinemark-ceo-upbeat-amazon-air-from-ben-affleck-matt-damon-jumpstarting-streamers-in-cinemas-wide-releases-2023-1235269834/",
+      "UrlToImage": "https://deadline.com/wp-content/uploads/2023/02/MAtt-damon-air.jpg?w=757",
+      "PublishedAt": "2023-02-24T15:13:48Z",
+      "Content": "Amazon’s upcoming wide release of Ben Affleck and Matt Damon’s Nike movie Air exclusively in theaters in April “could represent the start of a substantive move into theatrical exhibition by streaming… [+3496 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "First Showing"
+      },
+      "Author": "Alex Billington",
+      "Title": "Fun Trailer for Martial Arts Movie 'Beyond Redemption' with Brian Ho",
+      "Description": "\"How deep are you?\" \"As deep as it gets.\" Well Go USA has debuted a brand new trailer for the official re-release of this martial arts action thriller titled Beyond Redemption. This movie originally premiered in 2015 and open in Canadian theaters in 2016, and…",
+      "Url": "https://www.firstshowing.net/2023/new-trailer-for-martial-arts-movie-beyond-redemption-with-brian-ho/",
+      "UrlToImage": "https://media2.firstshowing.net/firstshowing/img15/BeyondRedemptionPostermainbigTsr.jpg",
+      "PublishedAt": "2023-02-24T15:10:24Z",
+      "Content": "by Alex BillingtonFebruary 24, 2023Source:YouTube\r\n\"How deep are you?\" \"As deep as it gets.\" Well Go USA has debuted a brand new trailer for the official re-release of this martial arts action thrill… [+2108 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "tor.com"
+      },
+      "Author": "Diane Callahan",
+      "Title": "Curio Fiction: Finding a Name for a Fantastical Subgenre",
+      "Description": "There’s a particular subgenre of speculative fiction that scratches an itch for me like no other. It’s where you find yourself in a world very much like our own, except one thing is slightly… off. Perhaps there’s a movie theater that plays only memories, or t…",
+      "Url": "https://www.tor.com/2023/02/24/curio-fiction-finding-a-name-for-a-fantastical-subgenre/",
+      "UrlToImage": "https://i0.wp.com/www.tor.com/wp-content/uploads/2022/09/Curio-Fiction.png?fit=1200%2C+9999&crop=0%2C0%2C100%2C727px&quality=100&ssl=1",
+      "PublishedAt": "2023-02-24T15:00:22Z",
+      "Content": "Theres a particular subgenre of speculative fiction that scratches an itch for me like no other. Its where you find yourself in a world very much like our own, except one thing is slightly off. Perha… [+15940 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Anandabazar.com"
+      },
+      "Author": "সংবাদ সংস্থা",
+      "Title": "Pathaan | pathaan shah rukh khan starrer movie bangladesh release postponed here is the reason dgtl",
+      "Description": "Pathaan | pathaan shah rukh khan starrer movie bangladesh release postponed here is the reason dgtlanandabazar.com",
+      "Url": "https://www.anandabazar.com/entertainment/pathaan-shah-rukh-khan-starrer-movie-bangladesh-release-postponed-here-is-the-reason-dgtl/cid/1409745",
+      "UrlToImage": "https://assets.telegraphindia.com/abp/2023/Jan/1675174976_pic-3_poster-of-shah-rukh-khans-film-pathan.jpg",
+      "PublishedAt": "2023-02-24T14:56:54Z",
+      "Content": "-: \r\n- ? \r\n , , , !\r\nSomething isn't right! Please refresh."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Louder"
+      },
+      "Author": "elizabeth.capewell@futurenet.com (Liz Scarlett)",
+      "Title": "A \"sleazy metal\" zombie horror movie featuring Randy Blythe, Tom Araya, David Vincent and Norman Reedus is out to watch right now",
+      "Description": "Hairmetal Shotgun Zombie Massacre originally hit cinemas in 2020 but its release was interrupted by the pandemic",
+      "Url": "https://www.loudersound.com/news/a-sleazy-metal-zombie-horror-movie-featuring-randy-blythe-tom-araya-david-vincent-and-norman-reedus-has-just-been-released",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/yQJmYmofHyLiVAXYkTusdQ-1200-80.png",
+      "PublishedAt": "2023-02-24T14:50:58Z",
+      "Content": "Hairmetal Shotgun Zombie Massacre, a heavy metal horror movie featuring cameos from Lamb Of God's Randy Blythe, Slayer's Tom Araya, Morbid Angel's David Vincent and actor Norman Reedus (The Walking D… [+2088 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "Author": "Kim Willsher in Paris",
+      "Title": "‘What a film!’ Spielberg’s The Fabelmans thrills French critics and audiences",
+      "Description": "Semi-autobiographical story receives unprecedented number of five-star reviews making it the best scoring film in decadesSteven Spielberg’s new movie The Fabelmans attracted more cinema-goers than any other film in France on its release on Wednesday after an …",
+      "Url": "https://www.theguardian.com/world/2023/feb/24/film-spielberg-the-fabelmans-reviews-french-critics-audiences",
+      "UrlToImage": "https://i.guim.co.uk/img/media/35acf5653d56c1aabfe1cf78eeaf53724933316e/0_81_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9da52071e437c999036312883f3b759d",
+      "PublishedAt": "2023-02-24T13:09:06Z",
+      "Content": "Steven Spielbergs new film The Fabelmans attracted more cinema-goers than any other film in France on its release on Wednesday after an unprecedented number of five-star reviews from the countrys cri… [+2653 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Marla Añonuevo",
+      "Title": "Vinland Saga Season 2 Episode 8 Release Date & Time",
+      "Description": "Ketil’s eldest son returns to visit the farm. Here are the details for Vinland Saga Season 2 Episode 8 titled “An Empty Man.” When Vinland Saga Season 2 Episode 8 Releases Vinland Saga Season 2 Episode 8’s release date in the United States is Monday, February…",
+      "Url": "https://www.comingsoon.net/anime/news/1269461-vinland-saga-season-2-episode-8-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/vinland-saga-s2-ep-7.png?resize=1200,630",
+      "PublishedAt": "2023-02-24T13:00:50Z",
+      "Content": "Ketils eldest son returns to visit the farm. Here are the details for Vinland Saga Season 2 Episode 8 titled An Empty Man.\r\nWhen Vinland Saga Season 2 Episode 8 Releases\r\nVinland Saga Season 2 Episod… [+1828 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "barrons.com",
+      "Title": "Cinemark Stock Dives on Weak Earnings. But There’s Optimism for Its Post-Covid Recovery",
+      "Description": "Shares of the movie theater chain were down 6% in premarket trading, after having advanced more than 50% so far this year.",
+      "Url": "https://biztoc.com/x/19777b7a2b6cc5d8",
+      "UrlToImage": "https://c.biztoc.com/p/19777b7a2b6cc5d8/og.webp",
+      "PublishedAt": "2023-02-24T12:46:17Z",
+      "Content": "Shares of the movie theater chain were down 6% in premarket trading, after having advanced more than 50% so far this year. \r\n This story appeared on barrons.com, 2023-02-24."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Barron's"
+      },
+      "Author": "Brian Swint",
+      "Title": "Cinemark Stock Dives on Weak Earnings. But There's Optimism for Its Post-Covid Recovery.",
+      "Description": "Shares of the movie theater chain were down 6% in premarket trading, after having advanced more than 50% so far this year.",
+      "Url": "https://www.barrons.com/articles/cinemark-stock-earnings-covid-movies-cineworld-27690b85",
+      "UrlToImage": "https://images.barrons.com/im-642857/social",
+      "PublishedAt": "2023-02-24T12:38:00Z",
+      "Content": "Cinemark\r\n Holdings, the movie theater chain, fell sharply in premarket trading after it reported a loss for the fourth quarter.\r\nShares were down about 6% at $12.34. Its a setback for the stock, whi… [+518 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "cnn.com",
+      "Title": "Regal Cinemas owner Cineworld says shareholders will be wiped out",
+      "Description": "Regal Cinemas owner Cineworld, which filed for Chapter 11 bankruptcy protection last year, said Friday that it expected shareholders to be wiped out entirely, meaning they should not expect to recover any funds from a restructuring or sale of the business. Th…",
+      "Url": "https://biztoc.com/x/614c69ba86d90242",
+      "UrlToImage": "https://c.biztoc.com/p/614c69ba86d90242/og.webp",
+      "PublishedAt": "2023-02-24T12:20:05Z",
+      "Content": "Regal Cinemas owner Cineworld, which filed for Chapter 11 bankruptcy protection last year, said Friday that it expected shareholders to be wiped out entirely, meaning they should not expect to recove… [+237 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "MarketWatch"
+      },
+      "Author": "Tomi Kilgore",
+      "Title": ": Cinemark stock drops after swinging to wider-than-expected loss, while revenue beat forecasts",
+      "Description": "Shares of Cinemark Holdings Inc. CNK fell 3.7% in premarket trading Friday, after the movie theater operator reported fourth-quarter losses that were wider than expected, although revenue beat forecasts. The company swung to a net loss of $99.3 million, or 82…",
+      "Url": "https://www.marketwatch.com/story/cinemark-stock-drops-after-swinging-to-wider-than-expected-loss-while-revenue-beat-forecasts-974e7b9e",
+      "UrlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "PublishedAt": "2023-02-24T11:40:00Z",
+      "Content": "Shares of Cinemark Holdings Inc. \r\n CNK,\r\n +2.51%\r\nfell 3.7% in premarket trading Friday, after the movie theater operator reported fourth-quarter losses that were wider than expected, although reven… [+801 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "The Last of Us Episode 7 HBO Max Release Date & Time",
+      "Description": "The Last of Us Episode 7 is premiering on HBO Max in a matter of days. With only three episodes left in Season 1, the stakes are higher than ever for Joel (Pedro Pascal) and Ellie (Bella Ramsey). Here’s when to watch the continuation of their journey to find …",
+      "Url": "https://www.comingsoon.net/tv/news/1270038-the-last-of-us-episode-7-hbo-max-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/The-Last-of-Us-Episode-7-HBO-Max.jpg?resize=1200,630",
+      "PublishedAt": "2023-02-24T11:00:00Z",
+      "Content": "The Last of Us Episode 7 is premiering on HBO Max in a matter of days. \r\nWith only three episodes left in Season 1, the stakes are higher than ever for Joel (Pedro Pascal) and Ellie (Bella Ramsey). H… [+2200 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "Initial Reactions for 'Creed III' Call the Film a Masterful Directorial Debut for Michael B. Jordan",
+      "Description": "A week out from the release of Creed III, some lucky audience members have had a chance to see the film and review the third installment of the franchise. Early reactions to the upcoming directorial debut for Michael B. Jordan are quite positive. The third fi…",
+      "Url": "https://hypebeast.com/2023/2/creed-iii-michael-b-jordan-directorial-debut-initial-reactions",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Fcreed-iii-michael-b-jordan-directorial-debut-initial-reactions-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "PublishedAt": "2023-02-24T08:33:39Z",
+      "Content": "A week out from the release of Creed III, some lucky audience members have had a chance to see the film and review the third installment of the franchise. Early reactions to the upcoming directorial … [+4009 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Fletcher Peters",
+      "Title": "David Harbour Is a Pimped-Out Ghoul in Netflix’s Chaotic ‘We Have a Ghost’",
+      "Description": "Netflix\r\nThere are a handful of films that were made to be featured on Mystery Science Theater 3000. Perhaps that’s a little too dated for the Netflix generation (though the streamer rebooted the hilarious movie commentary show in 2017)—think CinemaSins, the …",
+      "Url": "https://www.thedailybeast.com/obsessed/we-have-a-ghost-review-david-harbours-netflix-horror-comedy-kills",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1677172763/wehaveaghost-hero_zrevml",
+      "PublishedAt": "2023-02-24T02:03:54Z",
+      "Content": "There are a handful of films that were made to be featured on Mystery Science Theater 3000. Perhaps thats a little too dated for the Netflix generation (though the streamer rebooted the hilarious mov… [+5898 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vulture"
+      },
+      "Author": "Jennifer Zhan",
+      "Title": "Of Course Steven Yeun Has a ‘Significant’ Role in Marvel’s Thunderbolts",
+      "Description": "Steven Yeun will join the Marvel Cinematic Universe. He has reportedly been cast in ‘Thunderbolts,’ MCU’s Phase 5 movie set to release in 2024. The cast also includes Ayo Edibiri, Florence Pugh, Sebastian Stan, David Harbour, and more.",
+      "Url": "http://www.vulture.com/2023/02/marvel-thunderbolts-cast-release-date-details.html",
+      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/c7e/956/51184cc0431c86a0b3ccde1ff6313d79c8-stevenyeun.1x.rsocial.w1200.jpg",
+      "PublishedAt": "2023-02-24T01:30:00Z",
+      "Content": "Phase Five is looking mighty fine. Per Deadline, Nope star Steven Yeun is set to join the Marvel Cinematic Universe next summer as part of the cast of Thunderbolts, the Phase Five movie currently sch… [+998 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -795,513 +1302,6 @@
       "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2015/04/mark-ruffalo-avengers-age-of-ultron-image-e1621626859100.jpg?resize=1000%2C600&ssl=1",
       "PublishedAt": "2023-02-22T18:35:44Z",
       "Content": "Happy Death Day and Freaky director Christopher Landon’s Amblin-style family adventure We Have a Ghost premieres on Netflix on February 24.\r\nWritten and directed by Landon, We Have a Ghost is an adap… [+5434 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Plane 4K, Blu-ray, and DVD Release Date & Special Features",
-      "Description": "After a relatively successful showing at the theaters, the 2023 thriller Plane is soaring onto store shelves next month, with Lionsgate announcing the film is releasing on 4K Ultra HD Combo Pack, Blu-ray Combo Pack, DVD, and on-demand on March 28, 2023. Packa…",
-      "Url": "https://www.comingsoon.net/?p=1269382",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/01/plane-pic-e1672865166513.jpg?resize=1200,630",
-      "PublishedAt": "2023-02-22T18:30:00Z",
-      "Content": "After a relatively successful showing at the theaters, the 2023 thriller Plane is soaring onto store shelves next month, with Lionsgate announcing the film is releasing on 4K Ultra HD Combo Pack, Blu… [+1811 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TheStranger.com"
-      },
-      "Author": "Charles Mudede",
-      "Title": "Stranger Suggests: Bleak Beauty, Cocaine Bear, NW Black Restaurant Week, Kremwerk's Anniversary, Bob James Quartet",
-      "Description": "One really great thing to do every day of the week.\n \n by Charles Mudede\n \n \n \n Wednesday 2/22\nHospitality Fundraiser for Relief Efforts in Turkey & Syria\n\nSorry, vegetarians. Couldn't resist using this picture of lamb simmering at Rachel's Bagels & Burritos.…",
-      "Url": "https://www.thestranger.com/stranger-suggests/2023/02/22/78869812/stranger-suggests-bleak-beauty-cocaine-bear-nw-black-restaurant-week-kremwerks-anniversary-bob-james-quartet",
-      "UrlToImage": "https://media1.fdncms.com/stranger/imager/u/large/78872515/musclecars-press-photo-017-1024x828.jpeg",
-      "PublishedAt": "2023-02-22T18:20:00Z",
-      "Content": "Wednesday 2/22\r\nHospitality Fundraiser for Relief Efforts in Turkey &amp; Syria\r\nSorry, vegetarians. Couldn't resist using this picture of lamb simmering at Rachel's Bagels &amp; Burritos. Courtesy o… [+8935 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Destructoid"
-      },
-      "Author": "Chris Carter",
-      "Title": "Impressions: Resident Evil Village VR",
-      "Description": "Is there such a thing as too spooky?\nResident Evil Village came, did pretty well for itself, got some DLC, and went. Well, it's back now! The newest mainline RE entry is back in VR form, provided that you have a PlayStation VR 2. Hey, we do! Let's dive into w…",
-      "Url": "https://www.destructoid.com/impressions-review-resident-evil-village-vr/",
-      "UrlToImage": "https://www.destructoid.com/wp-content/uploads/2023/02/Resident-Evil-Village-VR-impressions.jpg?fit=1200%2C675",
-      "PublishedAt": "2023-02-22T18:00:41Z",
-      "Content": "Is there such a thing as too spooky?\r\nResident Evil Village came, did pretty well for itself, got some DLC, and went. Well, it’s back now! The newest mainline RE entry is back in VR form, provided th… [+5859 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Michael Leri",
-      "Title": "SpongeBob SquarePants: Krusty Cook-Off Extra Krusty Edition Giveaway",
-      "Description": "SpongeBob SquarePants: Krusty Cook-Off Extra Krusty Edition has finally been given a physical release on the Nintendo Switch, and ComingSoon is giving away a copy of it. While the digital version launched on the eShop in April 2021, this is a new physical edi…",
-      "Url": "https://www.comingsoon.net/games/news/1268104-spongebob-squarepants-krusty-cook-off-extra-krusty-edition-giveaway",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/SPONGEBob.jpg?resize=1200,630",
-      "PublishedAt": "2023-02-22T18:00:00Z",
-      "Content": "SpongeBob SquarePants: Krusty Cook-Off Extra Krusty Edition has finally been given a physical release on the Nintendo Switch, and ComingSoon is giving away a copy of it.\r\nWhile the digital version la… [+401 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNET"
-      },
-      "Author": "Sean Keane",
-      "Title": "'Super Mario Bros. Movie' Final Trailer Coming in Nintendo Direct - CNET",
-      "Description": "Take a ride on Rainbow Road before the movie's release.",
-      "Url": "https://www.cnet.com/culture/entertainment/super-mario-bros-movie-final-trailer-coming-in-nintendo-direct/",
-      "UrlToImage": "https://www.cnet.com/a/img/resize/f131fdc9bdd81e4420810c13e7f0a1c3d13c8e51/hub/2023/02/22/af0b2db0-101b-423c-8924-b4ecba96acb9/smb-1920x1080-rainbowroad-rgb-2.jpg?auto=webp&fit=crop&height=630&width=1200",
-      "PublishedAt": "2023-02-22T17:54:24Z",
-      "Content": "We're getting another Nintendo Direct next month, but this one won't be about upcoming Switch games. Instead, the March 9 livestream will reveal the final trailer for the upcoming Super Mario Bros. M… [+839 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lostremote.com"
-      },
-      "Author": "T.L. Stanley",
-      "Title": "Espolòn Tequila Scares Up a Creepy Cross-Promo With Paramount’s Scream VI",
-      "Description": "If seeing Ghostface in all his bloody glory on the big screen isn't terrifying enough, how about having drinks with the brazen serial killer? Espol?n tequila, in weaving its brand into the upcoming release of Scream VI, has crafted a creepy cocktail that will…",
-      "Url": "https://www.lostremote.com/brand-marketing/espolon-tequila-scares-up-a-creepy-cross-promo-with-paramounts-scream-vi/",
-      "UrlToImage": "https://static-prod.adweek.com/wp-content/uploads/2023/02/espolon-tequila-scream-6-2023-600x315.jpg",
-      "PublishedAt": "2023-02-22T17:42:15Z",
-      "Content": "If seeing Ghostface in all his bloody glory on the big screen isnt terrifying enough, how about having drinks with the brazen serial killer?\r\nEspolòn tequila, in weaving its brand into the upcoming r… [+3238 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Adweek"
-      },
-      "Author": "T.L. Stanley",
-      "Title": "Espolòn Tequila Scares Up a Creepy Cross-Promo With Paramount’s Scream VI",
-      "Description": "If seeing Ghostface in all his bloody glory on the big screen isn't terrifying enough, how about having drinks with the brazen serial killer? Espol?n tequila, in weaving its brand into the upcoming release of Scream VI, has crafted a creepy cocktail that will…",
-      "Url": "https://www.adweek.com/brand-marketing/espolon-tequila-scares-up-a-creepy-cross-promo-with-paramounts-scream-vi/",
-      "UrlToImage": "https://static-prod.adweek.com/wp-content/uploads/2023/02/espolon-tequila-scream-6-2023-600x315.jpg",
-      "PublishedAt": "2023-02-22T17:42:15Z",
-      "Content": "If seeing Ghostface in all his bloody glory on the big screen isnt terrifying enough, how about having drinks with the brazen serial killer?\r\nEspolòn tequila, in weaving its brand into the upcoming r… [+3238 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "TMNT vs. Street Fighter Comic Series Gets Plot Details & Images",
-      "Description": "The Teenage Mutant Ninja Turtles are set for another crossover, this time with the world of Capcom’s Street Fighter fighting game, as IDW recently unveiled a new comic series titled Teenage Mutant Ninja Turtles vs. Street Fighter set to release in May. The ne…",
-      "Url": "https://www.comingsoon.net/?p=1269407",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/tmnt-street-fighter-crossover-teenage-mutant-ninja-turtles-1.jpg?resize=1200,630",
-      "PublishedAt": "2023-02-22T17:40:00Z",
-      "Content": "The Teenage Mutant Ninja Turtles are set for another crossover, this time with the world of Capcoms Street Fighter fighting game, as IDW recently unveiled a new comic series titled Teenage Mutant Nin… [+2559 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Spider-Man: Across the Spider-Verse Funko Pops Show Suits",
-      "Description": "Spider-Man: Across the Spider-Verse is set to release later this year, and with the release date getting closer, Funko is officially unveiling its line of figures for the highly anticipated upcoming film. On their official social media accounts, Funko shared …",
-      "Url": "https://www.comingsoon.net/?p=1269402",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/12/across-spider-verse-header.png?resize=1200,630",
-      "PublishedAt": "2023-02-22T17:20:00Z",
-      "Content": "Spider-Man: Across the Spider-Verse is set to release later this year, and with the release date getting closer, Funko is officially unveiling its line of figures for the highly anticipated upcoming … [+1893 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Felipe Rangel",
-      "Title": "James Gunn Offers Progress Update On His Superman Movie",
-      "Description": "New DC Universe architect James Gunn offers a progress update on Superman: Legacy, his reboot movie of the Man of Steel set for a 2025 release.",
-      "Url": "https://screenrant.com/superman-movie-james-gunn-progress-update/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/02/comic-book-superman-james-gunn-smiling-dc-logo-cropped.jpg",
-      "PublishedAt": "2023-02-22T17:02:41Z",
-      "Content": "Superman: Legacy just got an update from scribe James Gunn. New DC Studios co-CEO Gunn has been hard at work on the Superman movie reboot for the new DC Universe, with the movie being the first proje… [+2529 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Destructoid"
-      },
-      "Author": "Chris Moyse",
-      "Title": "Blumhouse Productions establishes game dev division",
-      "Description": "Horror studio creeps into the indie gaming scene\nBlumhouse Productions, the film production company behind a litany of modern horror classics, has announced the establishment of new division Blumhouse Games, with which it expects to oversee the development an…",
-      "Url": "https://www.destructoid.com/blumhouse-productions-establishes-blumhouse-games/",
-      "UrlToImage": "https://www.destructoid.com/wp-content/uploads/2023/02/blumhouse-games-m3gan-developer.jpg?fit=1200%2C773",
-      "PublishedAt": "2023-02-22T17:00:07Z",
-      "Content": "Blumhouse Productions, the film production company behind a litany of modern horror classics, has announced the establishment of new division Blumhouse Games, with which it expects to oversee the dev… [+1715 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Ernie Hudson Says GHOSTBUSTERS Script an Marketing Pushed Him Aside and He's \"Still Not Trying to Take It Personally\"",
-      "Description": "Ghostbusters star Ernie Hudson recently appeared on The Howard Stern Wrap-Up Show, and during the discussion, he talked about his time making the film and his experience on how he was “selectively pushed [him] aside” during the making of the movie and the mar…",
-      "Url": "https://geektyrant.com/news/ernie-hudson-says-ghostbusters-script-an-marketing-pushed-him-aside-and-hes-still-not-trying-to-take-it-personally",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63f59d179c152d5aa7d6f876/1677085249798/ernie-hudson-says-ghostbusters-script-an-marketing-pushed-him-aside-and-hes-still-not-trying-to-take-it-personally.jpg?format=1500w",
-      "PublishedAt": "2023-02-22T17:00:00Z",
-      "Content": "Ghostbusters star Ernie Hudson recently appeared on The Howard Stern Wrap-Up Show, and during the discussion, he talked about his time making the film and his experience on how he was selectively pus… [+3311 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Rutherford Daily Voice"
-      },
-      "Author": "Ben Crnic",
-      "Title": "UA Theatres At Cortlandt Town Center To Remain Open In Mohegan Lake",
-      "Description": "A beloved movie theater in Northern Westchester that was previously slated to close will remain open for the time being.&nbsp; \n\nEarlier Report -&nbsp;UA Theatres At Cortlandt Town Center To Close In…",
-      "Url": "https://dailyvoice.com/new-york/yorktown/business/ua-theatres-at-cortlandt-town-center-to-remain-open-in-mohegan-lake/857283/",
-      "UrlToImage": "https://cdn.dailyvoice.com/image/upload/c_limit,e_sharpen,q_auto:eco,w_640/Screen_Shot_2023-01-20_at_1.35.33_PM_bke15u.jpg",
-      "PublishedAt": "2023-02-22T16:41:07Z",
-      "Content": "A beloved movie theater in Northern Westchester that was previously slated to close will remain open for the time being. \r\nThe Regal United Artists Theatres at the Cortlandt Town Center, located in M… [+1156 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Destructoid"
-      },
-      "Author": "Eric Van Allen",
-      "Title": "The final Super Mario Bros. Movie trailer airs on March 9",
-      "Description": "Just shy of Mar. 10\nNintendo has announced a new Super Mario Bros. Movie Direct, which will host the final trailer for the animated film. This Direct will air on March 9 at 5 p.m. ET / 2 p.m. PT.\nThe stream is being hosted on Nintendo's channels, and will spe…",
-      "Url": "https://www.destructoid.com/final-super-mario-bros-movie-trailer-airs-march-direct/",
-      "UrlToImage": "https://www.destructoid.com/wp-content/uploads/2023/01/mario-bros-movie-seth-rogan-donkey-kong.jpg?fit=1200%2C644",
-      "PublishedAt": "2023-02-22T16:30:44Z",
-      "Content": "Just shy of Mar. 10\r\nNintendo has announced a new Super Mario Bros. Movie Direct, which will host the final trailer for the animated film. This Direct will air on March 9 at 5 p.m. ET / 2 p.m. PT.\r\nT… [+1596 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Rosario Dawson Gives Ahsoka Release Date Window Update for Disney+ Show",
-      "Description": "The Ahsoka release date window has remained a mystery for some time for the upcoming Disney+ series but according to star Rosario Dawson, fans can expect to see the series sometime later this year. During an interview on a recent appearance on Today with Hoda…",
-      "Url": "https://www.comingsoon.net/?p=1269387",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/rosario-dawson-ahsoka.png?resize=1200,630",
-      "PublishedAt": "2023-02-22T16:20:00Z",
-      "Content": "The Ahsoka release date window has remained a mystery for some time for the upcoming Disney+ series but according to star Rosario Dawson, fans can expect to see the series sometime later this year.\r\n… [+898 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tudor Leonte",
-      "Title": "We Have a Ghost Netflix Release Date & Time",
-      "Description": "We Have a Ghost is premiering on Netflix this week. David Harbour and Anthony Mackie team up for a horror-comedy following the story of a ghost called Ernest. Here’s when to watch it. When to Watch We Have a Ghost on Netflix Netflix will release We Have a Gho…",
-      "Url": "https://www.comingsoon.net/movies/news/1268927-we-have-a-ghost-netflix-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/We-Have-a-Ghost-Netflix.jpg?resize=1200,630",
-      "PublishedAt": "2023-02-22T16:00:14Z",
-      "Content": "We Have a Ghostis premiering on Netflix this week. \r\nDavid Harbour and Anthony Mackie team up for a horror-comedy following the story of a ghost called Ernest. Heres when to watch it.\r\nNetflix will r… [+995 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Fletcher Peters",
-      "Title": "New on Netflix March 2023: ‘Luther,’ ‘Murder Mystery 2,’ and More",
-      "Description": "Photo Illustration by Luis Rendon/Elizabeth Brockway/The Daily Beast/Netflix\r\nBefore summer nights of Netflix marathons—from movie franchises like Fear Street to every season of Stranger Things—the streamer has to finish off its winter programming. That means…",
-      "Url": "https://www.thedailybeast.com/obsessed/new-on-netflix-march-2023",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1676414419/230214-coming-march-netflix-hero_yuxfoe",
-      "PublishedAt": "2023-02-22T15:13:14Z",
-      "Content": "Before summer nights of Netflix marathonsfrom movie franchises like Fear Streetto every season of Stranger Thingsthe streamer has to finish off its winter programming. That means the month ahead is f… [+3722 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forevergeek.com"
-      },
-      "Author": "Jo Craig",
-      "Title": "Where to watch the Sisu movie – International release date confirmed",
-      "Description": "Lionsgate has released the first trailer for Sisu, showing off its gory glory in a red band trailer and we confirm the release date and reveal where to watch it. The Finnish movie was shot entirely in Lapland in 2021, which is where the movie’s narrative is a…",
-      "Url": "https://www.forevergeek.com/where-to-watch-the-sisu-movie-international-release-date-confirmed/",
-      "UrlToImage": "https://cdn1.forevergeek.com/uploads/33/2023/02/www.youtube.com_watch_vd2k4QAItiSA.jpg",
-      "PublishedAt": "2023-02-22T14:55:17Z",
-      "Content": "Lionsgate has released the first trailer for Sisu, showing off its gory glory in a red band trailer and we confirm the release date and reveal where to watch it.\r\nThe Finnish movie was shot entirely … [+2066 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.1.0b5",
-      "Description": "2023.1.0b5\n\n February 22, 2023\n \n unityhub://2023.1.0b5/871459cee6a0\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2…",
-      "Url": "https://unity.com/releases/editor/beta/2023.1.0b5",
-      "UrlToImage": null,
-      "PublishedAt": "2023-02-22T14:43:31Z",
-      "Content": "<li>2D: Enabled Sprite Library Assets to now be dragged and dropped into the scene, hierarchy, and inspector.\r\n</li><li>2D: Enabled the ability to select mipmap streaming for textures imported with t… [+165926 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "My Nintendo News"
-      },
-      "Author": "Sickr",
-      "Title": "Nintendo announces Super Mario Bros Movie Direct on 9th March",
-      "Description": "Nintendo of America has confirmed this afternoon that there will be another Super Mario Bros. Movie-themed Nintendo Direct. The Direct will feature the final trailer for The Super Mario Bros. Movie ahead of its release in April. Nintendo of America has made i…",
-      "Url": "https://mynintendonews.com/2023/02/22/nintendo-announces-super-mario-bros-movie-direct-on-9th-march/",
-      "UrlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/02/mario_movie_direct_march_2023.jpeg?fit=1920%2C1080&ssl=1",
-      "PublishedAt": "2023-02-22T14:12:20Z",
-      "Content": "Nintendo of America has confirmed this afternoon that there will be another Super Mario Bros. Movie-themed Nintendo Direct. The Direct will feature the final trailer for The Super Mario Bros. Movie a… [+221 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "/FILM"
-      },
-      "Author": "Lex Briscuso",
-      "Title": "Past Lives Trailer: This Is One Of The Best Movies Of 2023",
-      "Description": "The A24-produced Sundance hit \"Past Lives\" is a must-see film of 2023 that took the beloved American festival quietly by storm — and luckily for us, the movie finally has a trailer and release date.\nIn the sneak peek, we meet Na Young (who later goes by Nora,…",
-      "Url": "https://www.slashfilm.com/1205637/past-lives-trailer-this-is-one-of-the-best-movies-of-2023/",
-      "UrlToImage": "https://www.slashfilm.com/img/gallery/past-lives-trailer-this-is-one-of-the-best-movies-of-2023/l-intro-1676994400.jpg",
-      "PublishedAt": "2023-02-22T14:01:55Z",
-      "Content": "The A24-produced Sundance hit \"Past Lives\" is a must-see film of 2023 that took the beloved American festival quietly by storm and luckily for us, the movie finally has a trailer and release date.\r\nI… [+1260 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "blogTO"
-      },
-      "Author": "Rhea Singh",
-      "Title": "25 things to do in Toronto this weekend",
-      "Description": "Things to do in Toronto this weekend include plenty of options. From DJ Pauly D to paint parties or a film festival there's no shortage of events to check out.\r\nHere's what's going on this weekend in Toronto.\r\nEvents you might want to check out: Retro Mix Vid…",
-      "Url": "https://www.blogto.com/radar/2023/02/things-do-toronto-weekend-february-24/",
-      "UrlToImage": "https://media.blogto.com/articles/20220316-MandysBistro-9.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70",
-      "PublishedAt": "2023-02-22T13:45:47Z",
-      "Content": "Things to do in Toronto this weekend include plenty of options. From DJ Pauly D to paint parties or a film festival there's no shortage of events to check out.\r\nHere's what's going on this weekend in… [+8 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PRNewswire"
-      },
-      "Author": null,
-      "Title": "Spreedly Implements Mastercard Click to Pay for International Theater Chain Cinepolis",
-      "Description": "DURHAM, N.C., Feb. 22, 2023 /PRNewswire/ -- Spreedly, the provider of the leading Payments Orchestration platform, today announced it will integrate Mastercard Click to Pay to support a seamless checkout experience for Cinepolis, an international movie theate…",
-      "Url": "https://www.prnewswire.com/news-releases/spreedly-implements-mastercard-click-to-pay-for-international-theater-chain-cinepolis-301752050.html",
-      "UrlToImage": null,
-      "PublishedAt": "2023-02-22T13:30:00Z",
-      "Content": "DURHAM, N.C., Feb. 22, 2023 /PRNewswire/ -- Spreedly, the provider of the leading Payments Orchestration platform, today announced it will integrate Mastercard Click to Pay to support a seamless chec… [+3096 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "Ganapath teaser and release date out: Amitabh Bachchan, Tiger Shroff to collaborate for first time",
-      "Description": "The makers of Ganapath launched the teaser and release date of the movie.",
-      "Url": "https://economictimes.indiatimes.com/news/new-updates/ganapath-teaser-and-release-date-out-amitabh-bachchan-tiger-shroff-to-collaborate-for-first-time/articleshow/98156434.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-98156554,width-1070,height-580,imgsize-26570,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-02-22T13:05:04Z",
-      "Content": "The makers of Ganapath dropped an action-packed teaser featuring Tiger Shroff along with the release date of the film on social media. The movie is all set to hit theatres around the Dussehra festiva… [+1777 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "DJ Mag"
-      },
-      "Author": "Brian Coney",
-      "Title": "Gorillaz movie on Netflix has been cancelled, Damon Albarn says",
-      "Description": "The revelation comes ahead of the release of the band's new album, 'Cracker Island', on Friday",
-      "Url": "https://djmag.com/news/gorillaz-movie-netflix-has-been-cancelled-damon-albarn-says",
-      "UrlToImage": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2023-02/Gorillaz.jpg.webp?itok=tOYXBkPv549423761",
-      "PublishedAt": "2023-02-22T12:54:03Z",
-      "Content": "A scheduled full-length Netflix movie on Gorillaz has been cancelled, according to the digital band's co-founder Damon Albarn.\r\nBack in November 2021, Albarn revealed that after \"many incarnations\", … [+1730 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Mail"
-      },
-      "Author": "Milly Veitch",
-      "Title": "Apple TV+ release first clip from Liaison starring Eva Green and Vincent Cassel",
-      "Description": "The actress, 42, is embroiled in a bitter legal battle with the makers of the £4.6million movie, with each side blaming the other for the production's demise in October 2019.",
-      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-11780081/Apple-TV-release-clip-Liaison-starring-Vincent-Cassel-Eva-Green.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/02/22/12/67957231-0-image-a-7_1677068773023.jpg",
-      "PublishedAt": "2023-02-22T12:52:03Z",
-      "Content": "Apple TV+ has released a sneak peek clip from the series premiere of Liaison starring Eva Green and Vincent Cassel - amid Eva's High Court battle over a doomed sci-fi movie.\r\nThe actress, 42, is embr… [+5806 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "The Morning After: The Kindle Store’s hottest new author is ChatGPT",
-      "Description": "According to a report from Reuters, ChatGPT is listed as the author or co-author of at least 200 books on Amazon’s Kindle Store. However, the number of bot-written books is likely higher than that since Amazon’s policies don’t require authors to disclose thei…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170397495",
-      "UrlToImage": null,
-      "PublishedAt": "2023-02-22T12:32:15Z",
-      "Content": "According to a report from Reuters, ChatGPT is listed as the author or co-author of at least 200 books on Amazon’s Kindle Store. However, the number of bot-written books is likely higher than that si… [+4456 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "pymnts.com",
-      "Title": "Spreedly and Mastercard Enable Cinépolis Click to Pay",
-      "Description": "International movie theater chain Cinépolis has increased its transaction success rate by 6% with a Click to Pay program. The program — which features Mastercard Click to Pay and was implemented by Payments Orchestration platform Spreedly — lets customers pay…",
-      "Url": "https://biztoc.com/x/e2befee303dd0ee0",
-      "UrlToImage": "https://c.biztoc.com/p/e2befee303dd0ee0/og.webp",
-      "PublishedAt": "2023-02-22T12:28:30Z",
-      "Content": "International movie theater chain Cinépolis has increased its transaction success rate by 6% with a Click to Pay program.The program which features Mastercard Click to Pay and was implemented by Paym… [+301 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Mat Smith",
-      "Title": "The Morning After: The Kindle Store’s hottest new author is ChatGPT",
-      "Description": "According to a report from Reuters, ChatGPT is listed as the author or co-author of at least 200 books on Amazon’s Kindle Store. However, the number of bot-written books is likely higher than that since Amazon’s policies don’t require authors to disclose thei…",
-      "Url": "https://www.engadget.com/the-morning-after-the-kindle-stores-hottest-new-author-is-chatgpt-122019289.html",
-      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/tFD5t2qPPoC46G0BB1wNYw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-07/5f168b30-fec8-11ec-bbf7-258b5bf18011.cf.jpg",
-      "PublishedAt": "2023-02-22T12:20:19Z",
-      "Content": "According to a report from Reuters, ChatGPT is listed as the author or co-author of at least 200 books on Amazons Kindle Store. However, the number of bot-written books is likely higher than that sin… [+4157 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NDTV News"
-      },
-      "Author": null,
-      "Title": "Ganapath Teaser Out: Tiger Shroff's Movie To Release On Dussehra",
-      "Description": "Amitabh Bachchan and Kriti Sanon are also part of the film",
-      "Url": "https://www.ndtv.com/entertainment/tiger-shroff-s-ganapath-to-release-on-dussehra-3804486",
-      "UrlToImage": "https://c.ndtvimg.com/2023-02/dbm6si28_tiger_625x300_22_February_23.jpg",
-      "PublishedAt": "2023-02-22T12:05:52Z",
-      "Content": "Tiger Shroff in a still from the video (courtesy: Pooja Entertainment)\r\nNew Delhi: New teaser alert. Courtesy: Tiger Shroff's Ganapath - Part 1. The video gives us a glimpse of his character in the m… [+2295 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "NieR: Automata Anime Episode 5 Release Date & Time",
-      "Description": "2B and 9S go on another mission. They encounter a mutated machine lifeform in an amusement park. Here are the details for NieR: Automata anime Episode 5. When NieR: Automata Episode 5 Releases NieR: Automata Episode 5 releases in the United States on Saturday…",
-      "Url": "https://www.comingsoon.net/anime/news/1269727-nier-automata-anime-episode-5-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/nier-automata-ep-4.png?resize=1200,630",
-      "PublishedAt": "2023-02-22T11:49:41Z",
-      "Content": "2B and 9S go on another mission. They encounter a mutated machine lifeform in an amusement park. Here are the details for NieR: Automata anime Episode 5.\r\nWhen NieR: Automata Episode 5 Releases\r\nNieR… [+1869 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "looper.com",
-      "Title": "Sneaks: What We Know Fo Far About The Star-Studded Animated Movie",
-      "Description": "Learn More Sneaks: What We Know Fo Far About The Star-Studded Animated Movie \"Sneaks\" could end up being the next \"Toy Story\" if it plays its cards right. The upcoming animated feature doesn't have a release date yet, but a Variety report announcing new cast …",
-      "Url": "https://biztoc.com/x/9fc36146850f917b",
-      "UrlToImage": "https://c.biztoc.com/p/9fc36146850f917b/og.webp",
-      "PublishedAt": "2023-02-22T09:42:08Z",
-      "Content": "Learn More Sneaks: What We Know Fo Far About The Star-Studded Animated Movie \"Sneaks\" could end up being the next \"Toy Story\" if it plays its cards right. The upcoming animated feature doesn't have a… [+309 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HYPEBEAST"
-      },
-      "Author": "info@hypebeast.com (Hypebeast)",
-      "Title": "Netflix Reportedly Cancels the Gorillaz Feature Film",
-      "Description": "Damon Albarn has revealed that the supposed Gorillaz feature film over at Netflix is no longer happening.In a translated report from Stereogum, the co-creator confirmed to Belgian publication HUMO that the project is effectively cancelled. “The new record cam…",
-      "Url": "https://hypebeast.com/2023/2/netflix-gorillaz-feature-film-cancelled-damon-albarn-confirmed",
-      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Fnetflix-gorillaz-feature-film-cancelled-damon-albarn-confirmed-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "PublishedAt": "2023-02-22T09:17:46Z",
-      "Content": "Damon Albarn has revealed that the supposed Gorillaz feature film over at Netflix is no longer happening.\r\nIn a translated report from Stereogum, the co-creator confirmed to Belgian publication HUMO … [+1179 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nintendo Life"
-      },
-      "Author": "Liam Doolan",
-      "Title": "Rumour: New Switch Bundle Featuring Mario Movie Bonus Supposedly Launching \"Soon\"",
-      "Description": "A release could line up with MAR10 Day.If you're wondering if the Super Mario Bros. Movie will have any products released alongside it, there might be a special deal making its way to Europe.According to the gaming and tech deals Twitter account billbil-kun, …",
-      "Url": "https://www.nintendolife.com/news/2023/02/rumour-new-switch-bundle-featuring-mario-movie-bonus-supposedly-launching-soon",
-      "UrlToImage": "https://images.nintendolife.com/3f9e52caea74c/1280x720.jpg",
-      "PublishedAt": "2023-02-22T01:45:00Z",
-      "Content": "Image: Gemma Smith / Nintendo Life\r\nIf you're wondering if the Super Mario Bros. Movie will have any products released alongside it, there might be a special deal making its way to Europe.\r\nAccording… [+1340 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Eden Arielle Gordon",
-      "Title": "Keira Knightley Hunts Down a Serial Killer in \"Boston Strangler\" Trailer",
-      "Description": "Keira Knightley is going back in time once again - and this time to a particularly terrifying slice of history: 1960s Boston, when a killer known as the Boston Strangler was on the prowl. The first trailer for the movie, titled \"Boston Strangler,\" dropped on …",
-      "Url": "https://www.popsugar.com/entertainment/boston-strangler-movie-49094307",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/iTnroIIHo7vOdlOWcEC7QsU8gwA/343x1:2230x992/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/02/21/918/n/1922283/bc4bf64563f5317d1c8288.35363797_.png",
-      "PublishedAt": "2023-02-21T22:55:02Z",
-      "Content": "Keira Knightley is going back in time once again and this time to a particularly terrifying slice of history: 1960s Boston, when a killer known as the Boston Strangler was on the prowl. The first tra… [+2492 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Star Trek: The Next Generation Movie Collection Release Date & Features",
-      "Description": "Star Trek fans are in for a treat this year, as Paramount announced that all four Star Trek: The Next Generation films would be releasing for the first time ever on 4K Ultra HD in one massive collection, with a release date set for April 4, 2023. The films wi…",
-      "Url": "https://www.comingsoon.net/?p=1269320",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/star-trek-first-contact.png?resize=1200,630",
-      "PublishedAt": "2023-02-21T22:40:00Z",
-      "Content": "Star Trek fans are in for a treat this year, as Paramount announced that all four Star Trek: The Next Generation films would be releasing for the first time ever on 4K Ultra HD in one massive collect… [+5218 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Jessica Fisher",
-      "Title": "Kate Hudson and Matthew McConaughey Were Really \"Pissed Off\" at Each Other in HOW TO LOSE A GUY IN TEN DAYS",
-      "Description": "This year marks the 20th anniversary of the classic rom-com, How to Lose a Guy in Ten Days. This is a movie I saw in the theater, bought when it came out, and have watched countless times over the years. It’s such a feel good flick with a fun story, two on-po…",
-      "Url": "https://geektyrant.com/news/kate-hudson-and-matthew-mcconaughey-admit-they-were-actually-really-annoyed-with-each-other-in-one-scene-in-how-to-lose-a-guy-in-ten-days",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63e58895b6e06959bf88b306/1677018618239/how+to+lose+a+guy+in+10+days.jpg?format=1500w",
-      "PublishedAt": "2023-02-21T22:30:00Z",
-      "Content": "This year marks the 20th anniversary of the classic rom-com, How to Lose a Guy in Ten Days. This is a movie I saw in the theater, bought when it came out, and have watched countless times over the ye… [+2321 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Kvraudio.com"
-      },
-      "Author": null,
-      "Title": "What are you watching? (in: Off Topic)",
-      "Description": "By: rp314 21 Feb 22:15 Bava's Evil Eye. The BluRay edition contains both versions and I'd watched The Girl Who Knew Too Much back when it came out on DVD and wanted to check out the differences I'd heard about over the years. As with some other Bava films for…",
-      "Url": "https://www.kvraudio.com/forum/viewtopic.php?p=8622011&utm_source=my_latest_posts&utm_medium=rssfeed&utm_content=8622011#p8622011",
-      "UrlToImage": "https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png",
-      "PublishedAt": "2023-02-21T22:15:18Z",
-      "Content": "Pro Audio Forum - VST, AU, AAX Plugin and Audio Software Discussion\r\nSkip to content"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FX Empire"
-      },
-      "Author": "Reuters",
-      "Title": "AMC shareholders sue company over vote to add shares",
-      "Description": "(Reuters) -   AMC Entertainment Holdings Inc shareholders have filed a lawsuit in Delaware accusing the movie theater chain of bypassing them in a bid to increase the number of shares.",
-      "Url": "https://www.fxempire.com/news/article/amc-shareholders-sue-company-over-vote-to-add-shares-1290863",
-      "UrlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2023/02/tagreuters.com2023newsml_LYNXMPEJ1K0UD2.jpg",
-      "PublishedAt": "2023-02-21T22:06:16Z",
-      "Content": "AMC shares closed up 16.4% on Tuesday.\r\nAMC became a meme stock during the COVID-19 pandemic, raising more than $2 billion in 2021 as retail investors piled in to its stock and others such as as Game… [+922 chars]"
     }
   ]
 }
