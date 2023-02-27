@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1140,
+  "TotalResults": 1141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "The SAG Awards, Streaming Sunday, Oscar Bellwether?",
+      "Description": "Last year, the top winners at the Screen Actors Guild Awards all corresponded exactly with the Academy Awards winners. Will Sunday's SAGs offer the same preview?\n\n\nThe 29th annual Screen Actors Guild Awards will begin at 8 p.m. EST Sunday and be streamed live…",
+      "Url": "https://www.voanews.com/a/the-sag-awards-streaming-sunday-oscar-bellwether-/6979707.html",
+      "UrlToImage": "https://gdb.voanews.com/01000000-0aff-0242-f07e-08db181c3219_w1200_r1.jpg",
+      "PublishedAt": "2023-02-26T17:14:11Z",
+      "Content": "Last year, the top winners at the Screen Actors Guild Awards all corresponded exactly with the Academy Awards winners. Will Sunday's SAGs offer the same preview?\r\nThe 29th annual Screen Actors Guild … [+2582 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.independent.ie/entertainment/movies/f59b3/42356822.ece/AUTOCROP/w1240h700/aul%20Mescal",
       "PublishedAt": "2023-02-23T20:35:42Z",
       "Content": "British actress Emily Watson has revealed shooting a movie in Ireland with Paul Mescal has left her with a love of sea swimming.\r\nThe BAFTA award-winning actress, who plays Mescals mother in his late… [+2188 chars]"
-    },
-    {
-      "Source": {
-        "Id": "independent",
-        "Name": "Independent"
-      },
-      "Author": "Morgan Lee",
-      "Title": "Alec Baldwin pleads not guilty in shooting, can still work",
-      "Description": "Actor Alec Baldwin has pleaded not guilty to felony charges of involuntary manslaughter in the shooting death of a cinematographer on the set of a Western movie and waived his first formal court appearance",
-      "Url": "https://www.independent.co.uk/news/alec-baldwin-ap-halyna-hutchins-rust-joel-souza-b2288490.html",
-      "UrlToImage": "https://static.independent.co.uk/2023/02/20/19/Alec_Baldwin_Set_Shooting_29687.jpg?quality=75&width=1200&auto=webp",
-      "PublishedAt": "2023-02-23T20:34:51Z",
-      "Content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nActor Alec Baldwin has pleaded not guilty to felony … [+1667 chars]"
     }
   ]
 }
