@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1214,
+  "TotalResults": 1216,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Monty Sarhan, el jefe de SkyShowtime: «Estamos centrados en la calidad, no en la cantidad»",
+      "Description": "Netflix sube los precios y acaba con las cuentas compartidas, HBO Max elimina series propias de su catálogo, Lionsgate+ cierra en primavera… Hay quien diría que a las plataformas se les acabó el amor de tanto usarlo. O el chollo. Nada más lejos de la realidad…",
+      "Url": "https://www.abc.es/play/television/noticias/abci-monty-sarhan-jefe-skyshowtime-estamos-centrados-calidad-no-cantidad-202302272354_noticia.html",
+      "UrlToImage": "https://static2.abc.es/media/play/2023/02/28/skyshowtime-kjuF--1024x512@abc.jpg",
+      "PublishedAt": "2023-02-27T22:54:02Z",
+      "Content": "Óscar RusSEGUIR\r\nMadrid\r\n Actualizado:27/02/2023 23:54h\r\nGuardar\r\n Noticias relacionadas\r\nNetflix sube los precios y \r\n acaba con las cuentas compartidas, HBO Max elimina series propias de su catálog… [+5464 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ipadizate.com"
+      },
+      "Author": "Gabriela Martínez",
+      "Title": "'Ted Lasso': Apple por fin comparte el tráiler oficial de su tercera temporada",
+      "Description": "A tan solo dos semanas para el estreno de la tercera temporada de la serie más exitosa de Apple TV+, Ted Lasso, la plataforma ha compartido el tráiler oficial. Las primeras escenas revelan algunos hechos que definirán el futuro del coach más popular de la act…",
+      "Url": "https://ipadizate.com/apple-tv/ted-lasso-apple-por-fin-comparte-el-trailer-oficial-de-su-tercera-temporada",
+      "UrlToImage": "https://ipadizate.com/hero/2023/01/Ted-Lasso.1674199971.3056.jpg?width=1200",
+      "PublishedAt": "2023-02-27T22:00:55Z",
+      "Content": "Apple TV+ está a punto de estrenar la tercera y quizás última temporada de Ted Lasso\r\nA tan solo dos semanas para el estreno de la tercera temporada de la serie más exitosa de Apple TV+, Ted Lasso, l… [+2232 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -305,19 +331,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "Amazon presenta la segunda serie más cara de la historia: un ambicioso thriller de ciencia ficción de los directores de 'Vengadores Endgame' que ya tiene fecha de estreno",
-      "Description": "En Amazon no tenían suficiente con que 'El señor de los anillos: Los anillos de poder' fuera la serie de televisión más cara de la historia, pues Prime Video también va a ser el hogar de la segunda. Me refiero a 'Citadel', nuevo trabajo de los Hermanos Russo …",
-      "Url": "https://www.espinof.com/series-de-ficcion/amazon-presenta-segunda-serie-cara-historia-ambicioso-thriller-ciencia-ficcion-directores-vengadores-endgame-que-tiene-fecha-estreno",
-      "UrlToImage": "https://i.blogs.es/0eecc2/citadel-serie/840_560.jpeg",
-      "PublishedAt": "2023-02-27T16:01:34Z",
-      "Content": "En Amazon no tenían suficiente con que 'El señor de los anillos: Los anillos de poder' fuera la serie de televisión más cara de la historia, pues Prime Video también va a ser el hogar de la segunda. … [+1597 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Xataka.com.mx"
       },
       "Author": "César Aguilla",
@@ -327,6 +340,19 @@
       "UrlToImage": "https://i.blogs.es/fae02b/storm-reid_the_last_of_us_00-cropped/840_560.jpeg",
       "PublishedAt": "2023-02-27T16:01:34Z",
       "Content": "El séptimo episodio de 'The Last of Us', llamado 'Left Behind', se ha estrenado durante la noche del último domingo de febrero. Para esta ocasión, la actriz invitada para protagonizar este emotivo ep… [+6430 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "Amazon presenta la segunda serie más cara de la historia: un ambicioso thriller de ciencia ficción de los directores de 'Vengadores Endgame' que ya tiene fecha de estreno",
+      "Description": "En Amazon no tenían suficiente con que 'El señor de los anillos: Los anillos de poder' fuera la serie de televisión más cara de la historia, pues Prime Video también va a ser el hogar de la segunda. Me refiero a 'Citadel', nuevo trabajo de los Hermanos Russo …",
+      "Url": "https://www.espinof.com/series-de-ficcion/amazon-presenta-segunda-serie-cara-historia-ambicioso-thriller-ciencia-ficcion-directores-vengadores-endgame-que-tiene-fecha-estreno",
+      "UrlToImage": "https://i.blogs.es/0eecc2/citadel-serie/840_560.jpeg",
+      "PublishedAt": "2023-02-27T16:01:34Z",
+      "Content": "En Amazon no tenían suficiente con que 'El señor de los anillos: Los anillos de poder' fuera la serie de televisión más cara de la historia, pues Prime Video también va a ser el hogar de la segunda. … [+1597 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2023/02/24/willywonkacensurado.jpg",
       "PublishedAt": "2023-02-24T23:11:36Z",
       "Content": "Primero fue la censura, después la rectificación. Desde ayer, Roald Dahl es un autor para los adultos y otro para los niños. Tras la polémica desatada por la modificación de sus libros para ser polít… [+145 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Aleix Mercader",
-      "Title": "Los cinco interrogantes que marcarán el próximo Mobile World Congress",
-      "Description": "Vuelve el Mobile World Congress (MWC). La inminente edición de la feria mundial de telefonía reunirá a las grandes marcas no solo para mostrar los últimos gadgets y smartphones, sino también para discutir algunas cuestiones candentes que sobrevuelan la indust…",
-      "Url": "https://cronicaglobal.elespanol.com/creacion/vida-tecky/cinco-debates-marcaran-proximo-mobile-world-congress_776162_102.html",
-      "UrlToImage": "https://cronicaglobal.elespanol.com/uploads/s1/19/96/17/75/mobile-luis-miguel-anon-85_2_505x267.jpeg",
-      "PublishedAt": "2023-02-24T23:00:00Z",
-      "Content": "Vuelve el Mobile World Congress (MWC). La inminente edición de la feria mundial detelefonía reunirá a las grandes marcas no solo para mostrar los últimos gadgets y smartphones, sino también para disc… [+4552 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Aleix Mercader",
-      "Title": "Los cinco interrogantes que marcarán el próximo Mobile World Congress",
-      "Description": "Vuelve el Mobile World Congress (MWC). La inminente edición de la feria mundial de telefonía reunirá a las grandes marcas no solo para mostrar los últimos gadgets y smartphones, sino también para discutir algunas cuestiones candentes que sobrevuelan la indust…",
-      "Url": "https://cronicaglobal.elespanol.com/creacion/vida-tecky/cinco-interrogantes-mobile-world-congress-2023_776162_102.html",
-      "UrlToImage": "https://cronicaglobal.elespanol.com/uploads/s1/19/96/17/75/mobile-luis-miguel-anon-85_2_505x267.jpeg",
-      "PublishedAt": "2023-02-24T23:00:00Z",
-      "Content": "Vuelve el Mobile World Congress (MWC). La inminente edición de la feria mundial detelefonía reunirá a las grandes marcas no solo para mostrar los últimos gadgets y smartphones, sino también para disc… [+4552 chars]"
     }
   ]
 }
