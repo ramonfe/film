@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 119,
+  "TotalResults": 120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Worldsoccertalk.com"
+      },
+      "Author": "Christopher Harris",
+      "Title": "MLS Season Pass coverage review: Week one first impressions",
+      "Description": "Apple's 10-year streaming deal with MLS has begun. From the opening weekend, we sat back and watched MLS Season Pass in all its glory. No blackouts. Exceptional picture quality. Several excellent commentators. And an entertaining night of soccer. It was an en…",
+      "Url": "https://worldsoccertalk.com/tv/mls-season-pass-coverage-review-week-one-first-impressions-20230227-WST-421421.html",
+      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20230227_WST_421421_taylor-twellman-mls-season-pass.jpg[ampersand]width=1200[ampersand]height=740",
+      "PublishedAt": "2023-02-27T00:27:49Z",
+      "Content": "Apples 10-year streaming deal with MLS has begun. From the opening weekend, we sat back and watched MLS Season Pass in all its glory. No blackouts. Exceptional picture quality. Several excellent comm… [+9126 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://images.macrumors.com/t/ljVxNU5XoYGG4ss2qdHZ7UKMFW0=/1600x/article-new/2023/01/timothee-chalamet-apple-tv-plus-taste-ad.jpg",
       "PublishedAt": "2023-01-30T17:18:47Z",
       "Content": "Apple is continuing on with its Apple TV+ ad campaign starring actor Timothée Chalamet, today sharing a new spot where Chalamet praises Apple's taste and laments that the TV+ streaming service is \"mi… [+702 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thewrap.com",
-      "Title": "‘That ’90s Show’ Stages a Historic Sweep of the Streaming Top 10",
-      "Description": "The Netflix spinoff dominated the week, while NBC outpaced other broadcast networks with “Night Court” joining the leaderboard Nearly two decades after the final episode of “That ’70s Show” aired, audiences were ready to return to the Formans’ basement, accor…",
-      "Url": "https://biztoc.com/x/9816809d85b322b0",
-      "UrlToImage": "https://c.biztoc.com/p/9816809d85b322b0/og.webp",
-      "PublishedAt": "2023-01-30T14:26:10Z",
-      "Content": "The Netflix spinoff dominated the week, while NBC outpaced other broadcast networks with Night Court joining the leaderboardNearly two decades after the final episode of That 70s Show aired, audience… [+303 chars]"
     }
   ]
 }
