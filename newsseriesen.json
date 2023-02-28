@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "A stop-motion Pokémon show is coming to Netflix",
+      "Description": "Netflix's long-running Pokémon partnership is heading in a slightly unexpected direction. The streaming service has marked Pokémon Day by unveiling Pokémon Concierge, a show featuring stop-motion animation from Japan's Dwarf Studio. The series follows Haru, w…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170432632",
+      "UrlToImage": null,
+      "PublishedAt": "2023-02-27T16:32:04Z",
+      "Content": "Netflix's long-running Pokémon partnership is heading in a slightly unexpected direction. The streaming service has marked Pokémon Day by unveilingPokémon Concierge, a show featuring stop-motion anim… [+845 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-01-31T14:12:05Z",
       "Content": "When Apple debuted the HomePod in 2018, it was already late to the smart speaker game. Sure, the company has never been worried about tardiness, choosing instead to focus on being the best. Unfortuna… [+10844 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Billy Steele",
-      "Title": "Apple HomePod (2nd gen) review: A smarter smart speaker",
-      "Description": "When Apple debuted the HomePod\r\n in 2018, it was already late to the smart speaker game. Sure, the company has never been worried about tardiness, choosing instead to focus on being the best. Unfortunately, that wasn’t the case with its first attempt. The Hom…",
-      "Url": "https://www.engadget.com/apple-homepod-review-2nd-generation-140040630.html",
-      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/61b77750-a107-11ed-9dd3-1af3bbee9787",
-      "PublishedAt": "2023-01-31T14:00:40Z",
-      "Content": "When Apple debuted the HomePod in 2018, it was already late to the smart speaker game. Sure, the company has never been worried about tardiness, choosing instead to focus on being the best. Unfortuna… [+10853 chars]"
     }
   ]
 }
