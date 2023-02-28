@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 113,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Jon Fingas",
+      "Title": "A stop-motion Pokémon show is coming to Netflix",
+      "Description": "Netflix's long-running Pokémon partnership is heading in a slightly unexpected direction. The streaming service has marked Pokémon Day by unveilingPokémon Concierge, a show featuring stop-motion animation from Japan's Dwarf Studio. The series follows Haru, wh…",
+      "Url": "https://www.engadget.com/pokemon-concierge-stop-motion-show-netflix-151946138.html",
+      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/SZRVckb4Jhpyg_YA__PStA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/fcc59cc0-b6ad-11ed-b7b8-0b5502ca772f.cf.jpg",
+      "PublishedAt": "2023-02-27T15:19:46Z",
+      "Content": "Netflix's long-running Pokémon partnership is heading in a slightly unexpected direction. The streaming service has marked Pokémon Day by unveilingPokémon Concierge, a show featuring stop-motion anim… [+845 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/61b77750-a107-11ed-9dd3-1af3bbee9787",
       "PublishedAt": "2023-01-31T14:00:40Z",
       "Content": "When Apple debuted the HomePod in 2018, it was already late to the smart speaker game. Sure, the company has never been worried about tardiness, choosing instead to focus on being the best. Unfortuna… [+10853 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Coleman Spilde",
-      "Title": "‘Shotgun Wedding’ Proves That Jennifer Lopez Is Incapable of Turning in a Bad Performance",
-      "Description": "Photo Illustration by Luis G. Rendon/The Daily Beast/NBC/Lionsgate/Netflix/Vertical Entertainment\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.Th…",
-      "Url": "https://www.thedailybeast.com/obsessed/shotgun-wedding-proves-that-jennifer-lopez-is-incapable-of-turning-in-a-bad-performance",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1675113058/013123-seeskip-hero_nnfb6m",
-      "PublishedAt": "2023-01-31T09:42:45Z",
-      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+6010 chars]"
     }
   ]
 }
