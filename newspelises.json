@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 130,
+  "TotalResults": 131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La discreta vida de Tom Cruise ante su inminente regreso a los Oscar",
+      "Description": "Tom Cruise vuelve a liderar la industria del cine a pesar de los constantes golpes que recibe de Hollywood. Un mes después de que el presentador Jerrod Carmichae l se burlara de él en los Globos de Oro por su participación en la Iglesia de la Cienciología, el…",
+      "Url": "https://www.abc.es/gente/discreta-vida-tom-cruise-ante-inminente-regreso-20230301020748-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2023/02/28/tom-cruise-U27155623215wQM-1024x512@abc.jpg",
+      "PublishedAt": "2023-03-01T01:07:50Z",
+      "Content": "Tom Cruise vuelve a liderar la industria del cine a pesar de los constantes golpes que recibe de Hollywood. Un mes después de que el presentador Jerrod Carmichael se burlara de él en los Globos de Or… [+6013 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/63e2135e4c02cc4d6c629a7d/16:9/w_1280,c_limit/image.jpg",
       "PublishedAt": "2023-02-07T10:14:43Z",
       "Content": "Al cumplir los trece años, Spielberg se apuntó a los boy scouts. Estaba decidido a conseguir la insignia de fotógrafo, pero la Kodak de su padre estaba rota. Por tanto, le planteó a su guía la posibi… [+5460 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "‘Titanic’ cumple 25 años y James Cameron despeja la duda sobre si Jack cabía en la tabla",
-      "Description": "A James Cameron no le vale con haber reventado la taquilla (otra vez) con Avatar: el sentido del agua, la secuela de su éxito que ha rescatado a los cines y ha llevado a las salas a cifras que no veían desde hace muchísimos años. Cameron es el único director …",
-      "Url": "https://www.eldiario.es/cultura/cine/titanic-cumple-25-anos-james-cameron-despeja-duda-si-jack-cabia-tabla_1_9928797.html",
-      "UrlToImage": "https://static.eldiario.es/clip/ced138d9-b251-4554-92af-23d4af7e91a5_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-02-06T21:35:05Z",
-      "Content": "A James Cameron no le vale con haber reventado la taquilla (otra vez) con Avatar: el sentido del agua, la secuela de su éxito que ha rescatado a los cines y ha llevado a las salas a cifras que no veí… [+486 chars]"
     }
   ]
 }
