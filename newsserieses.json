@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1065,
+  "TotalResults": 1068,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Levelup.com"
+      },
+      "Author": "Víctor Rosas",
+      "Title": "¡Es oficial! HBO Max subirá de precio en México y América Latina",
+      "Description": "Todos los servicios de suscripción aumentarán su precio de acuerdo con la inflación y situaciones financieras que vivan y esta vez tocó el turno a HBO Max, la plataforma que vive un gran momento gracias a la exitosa serie The Last of Us. Lo anterior significa…",
+      "Url": "https://www.levelup.com/noticias/726852/Es-oficial-HBO-Max-subira-de-precio-en-Mexico-y-America-Latina",
+      "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/786756/786756_600x315.jpg",
+      "PublishedAt": "2023-02-28T23:56:00Z",
+      "Content": "Todos los servicios de suscripción aumentarán su precio de acuerdo con la inflación y situaciones financieras que vivan y esta vez tocó el turno a HBO Max, la plataforma que vive un gran momento grac… [+2123 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "¿Quién mató a Malcom X? Sus hijas quieren dinero y saber la verdad",
+      "Description": "Broadway a la altura de la calle 155 es una esquina anodina de Washington Heights un mediodía de entre semana, pero hace 58 años fue el epicentro de las turbulencias raciales y políticas que vivía EE.UU. Este barrio neoyorquino, en la esquina norte de Manhatt…",
+      "Url": "https://www.abc.es/internacional/mato-malcom-hijas-quieren-dinero-saber-verdad-20230301191812-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2023/02/27/malcom-x-camilla-U64652674461wtO-1024x512@abc.jpg",
+      "PublishedAt": "2023-02-28T23:40:39Z",
+      "Content": "Broadway a la altura de la calle 155 es una esquina anodina de Washington Heights un mediodía de entre semana, pero hace 58 años fue el epicentro de las turbulencias raciales y políticas que vivía EE… [+126 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'The Mandalorian' y 'Succession' vuelven a Disney+ y HBO Max en un marzo estelar",
+      "Description": "Tras un febrero descafeinado, las plataformas sacan en marzo la artillería pesada con el regreso de sus series de mayor éxito. \n\n\nLa tercera temporada de 'The Mandalorian' se ha hecho de rogar, pero el mejor esqueje televisivo de la saga 'Star Wars' vuelve el…",
+      "Url": "https://www.abc.es/play/series/noticias/abci-mandalorian-y-succession-vuelven-disney-y-marzo-estelar-202303010009_noticia.html",
+      "UrlToImage": "https://static2.abc.es/media/play/2023/03/01/mandalorian-kXOB--1024x512@abc.jpg",
+      "PublishedAt": "2023-02-28T23:09:59Z",
+      "Content": "Óscar RusSEGUIR\r\nMadrid\r\n Actualizado:01/03/2023 00:09h\r\nGuardar\r\n Noticias relacionadas\r\nTras un febrero descafeinado, las plataformas sacan en marzo la artillería pesada con el regreso de sus serie… [+3442 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -266,19 +305,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": null,
-      "Title": "'Cobra Kai': Acabar con la serie en la sexta temporada fue decisión de los creadores, no de Netflix",
-      "Description": "SE ACABÓ La sexta y última temporada de la serie llegará a la plataforma de streaming con suerte este 2023.'Cobra Kai': Acabar con la serie en la sexta temporada fue decisión de los creadores, no de Netflix",
-      "Url": "https://www.ecartelera.com/noticias/fin-cobra-kai-decision-creadores-no-netflix-72467/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/72400/72467-m.jpg",
-      "PublishedAt": "2023-02-28T16:30:00Z",
-      "Content": "En lo que va de año (que es más bien poco) Netflix ha cancelado '1899' (que además se queda sin final), 'Ultrasecretos', 'Desparejado', 'La directora' y alguna otra. Además, a finales de enero se anu… [+2691 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Eluniversal.com.co"
       },
       "Author": "",
@@ -288,6 +314,19 @@
       "UrlToImage": "https://www.eluniversal.com.co/binrepository/1220x687/302c0/800d686/none/13704/MXJL/the-last-of-us-episodio-7_7444914_20230228102548.jpg",
       "PublishedAt": "2023-02-28T16:30:00Z",
       "Content": "Un nuevo episodio de la serie The Last of Us fue estrenado en la plataforma HBO Max. A poco de llegar a su final, la serie se toma un respiro de la historia principal en el séptimo episodio, el cual … [+2694 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ecartelera.com"
+      },
+      "Author": null,
+      "Title": "'Cobra Kai': Acabar con la serie en la sexta temporada fue decisión de los creadores, no de Netflix",
+      "Description": "SE ACABÓ La sexta y última temporada de la serie llegará a la plataforma de streaming con suerte este 2023.'Cobra Kai': Acabar con la serie en la sexta temporada fue decisión de los creadores, no de Netflix",
+      "Url": "https://www.ecartelera.com/noticias/fin-cobra-kai-decision-creadores-no-netflix-72467/",
+      "UrlToImage": "https://img.ecartelera.com/noticias/72400/72467-m.jpg",
+      "PublishedAt": "2023-02-28T16:30:00Z",
+      "Content": "En lo que va de año (que es más bien poco) Netflix ha cancelado '1899' (que además se queda sin final), 'Ultrasecretos', 'Desparejado', 'La directora' y alguna otra. Además, a finales de enero se anu… [+2691 chars]"
     },
     {
       "Source": {
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/2855030a-171b-4eb7-8ed1-6dfc4b95ee1f_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-02-27T13:26:14Z",
       "Content": "Escándalo, relato de una obsesión ya tiene fecha de estreno en Amazon Prime Video. La plataforma de pago ha anunciado este lunes todos los productos que serán incluidos en su catálogo durante el mes … [+3127 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'Escándalo' ya tiene de fecha de lanzamiento en Amazon Prime Video tras su paso por Telecinco",
-      "Description": "Escándalo, relato de una obsesión ya tiene fecha de estreno en Amazon Prime Video. La plataforma de pago ha anunciado este lunes todos los productos que serán incluidos en su catálogo durante el mes de marzo. Entre ellos, se encuentra la ficción protagonizada…",
-      "Url": "https://vertele.eldiario.es/noticias/escandalo-fecha-lanzamiento-amazon-prime-video-paso-telecinco_1_9987890.html",
-      "UrlToImage": "https://static.eldiario.es/clip/2855030a-171b-4eb7-8ed1-6dfc4b95ee1f_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-02-27T13:26:14Z",
-      "Content": "Escándalo, relato de una obsesión ya tiene fecha de estreno en Amazon Prime Video. La plataforma de pago ha anunciado este lunes todos los productos que serán incluidos en su catálogo durante el mes … [+3127 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Las mejores series y películas de Pedro Pascal para celebrar la vuelta de The Mandalorian",
-      "Description": "El 1 de marzo llega la tercera temporada de** The Mandalorian**, y qué mejor manera de celebrarlo que viendo las mejores series y películas de Pedro Pascal, el actor más codiciado del momento y el que protagoniza los dos shows más amados por los fans (la otra…",
-      "Url": "https://www.revistagq.com/noticias/articulo/pedro-pascal-mejores-series-peliculas-ver",
-      "UrlToImage": "https://media.revistagq.com/photos/63fcad3e6421e6c5b082b7bd/16:9/w_1280,c_limit/NARCOS_207_02147R.JPG",
-      "PublishedAt": "2023-02-27T13:22:38Z",
-      "Content": "El 1 de marzo llega la tercera temporada de** The Mandalorian**, y qué mejor manera de celebrarlo que viendo las mejores series y películas dePedro Pascal, el actor más codiciado del momento y el que… [+3495 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "TRESB",
-      "Title": "Esta es la serie que preparan los creadores de Dark tras la cancelación de 1899",
-      "Description": "Baran bo Odar y Jantje Friese, creadores de Dark, ya tienen un nuevo proyecto entre manos después de la cancelación de 1899 tras una única temporada en Netflix. La pareja...",
-      "Url": "https://www.elmundo.es/television/series/2023/02/27/63fcae5efc6c83281c8b45ae.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/c22f1e59ebdffd3078b2ccb4c27d92c5/resize/1200/f/jpg/assets/multimedia/imagenes/2023/02/27/16775037843477.jpg",
-      "PublishedAt": "2023-02-27T13:21:43Z",
-      "Content": "Baran bo Odar y Jantje Friese, creadores de Dark, ya tienen un nuevo proyecto entre manos después de la cancelación de 1899 tras una única temporada en Netflix. La pareja volverá a trabajar con la pl… [+1705 chars]"
     }
   ]
 }

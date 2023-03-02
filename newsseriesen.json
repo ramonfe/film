@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Soundandvision.com"
+      },
+      "Author": "Bob Ankosko",
+      "Title": "Survey: Content Discovery Is the Key Drawback in the Age of Streaming",
+      "Description": "All graphics courtesy of Xperi/TiVo.\n\nTV has been a constant and growing presence in the lives of Americans ever since the Texaco Star Theater transitioned from radio to television in the late 1940s, creating TV’s first superstar — Milton Berle. By early 1960…",
+      "Url": "https://www.soundandvision.com/content/survey-content-discovery-key-drawback-age-streaming",
+      "UrlToImage": "https://www.soundandvision.com/images/030223_tivo_video_trends_report_promo.png",
+      "PublishedAt": "2023-03-01T00:00:00Z",
+      "Content": "All graphics courtesy of Xperi/TiVo.\r\nTV has been a constant and growing presence in the lives of Americans ever since the Texaco Star Theater transitioned from radio to television in the late 1940s,… [+13359 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2023/01/the-last-of-us-nick-offerman.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2023-01-31T18:34:30Z",
       "Content": "This post includes spoilers for The Last of Us episode 3.\r\nEveryone is talking about Sunday’s episode of The Last of Us. Right now that means the heartbreaking standalone story featuring Nick Offerma… [+4446 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Paramount+ Premium will absorb Showtime and rebrand as 'Paramount+ With Showtime'",
-      "Description": "Amid stern competition from other streaming platforms, Paramount Global is combining two of its services. It will fold Showtime into the Premium tier of Paramount+ later this year. The combined offering will be known as “Paramount+ With Showtime.” Showtime's …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170239127",
-      "UrlToImage": null,
-      "PublishedAt": "2023-01-31T17:13:40Z",
-      "Content": "Amid stern competition from other streaming platforms, Paramount Global is combining two of its services. It will fold Showtime into the Premium tier of Paramount+ later this year. The combined offer… [+2274 chars]"
     }
   ]
 }
