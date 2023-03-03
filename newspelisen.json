@@ -1,8 +1,151 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1050,
+  "TotalResults": 1061,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Barron's"
+      },
+      "Author": "Connor Smith",
+      "Title": "AMC Chief Warns Company Could Be Forced to Sell More 'APEs'",
+      "Description": "Shares of the movie theater chain finished sharply lower Wednesday after CEO Adam Aron told investors that failure to authorize more common stock could result in even more dilution.",
+      "Url": "https://www.barrons.com/articles/amc-entertainment-stock-price-ape-preferred-3072233e",
+      "UrlToImage": "https://images.barrons.com/im-733610/social",
+      "PublishedAt": "2023-03-02T13:58:00Z",
+      "Content": "AMC Entertainment\r\n stock closed down sharply Wednesday in the wake of comments from the CEO that the firm may be forced to sell more stock for less money if shareholders dont approve measures that a… [+3462 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Eddie Makuch",
+      "Title": "New Switch Bundle Apparently Leaks, And It May Include A Free Mario Game",
+      "Description": "It looks like Nintendo may release a new Switch bundle soon to coincide with the debut of The Super Mario Bros. Movie in April. Images posted on Reddit show the box for this unannounced bundle, with one of the perks being a choice of one of three games to dow…",
+      "Url": "https://www.gamespot.com/articles/new-switch-bundle-apparently-leaks-and-it-may-include-a-free-mario-game/1100-6511969/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4106760-screenshot2023-03-02at8.51.01am.png",
+      "PublishedAt": "2023-03-02T13:31:00Z",
+      "Content": "It looks like Nintendo may release a new Switch bundle soon to coincide with the debut of The Super Mario Bros. Movie in April. Images posted on Reddit show the box for this unannounced bundle, with … [+1462 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NDTV News"
+      },
+      "Author": null,
+      "Title": "Rajkummar And Alaya F's SRI Gets A Release Date",
+      "Description": "Rajkummar treated fans on Instagram with the new announcement related to the movie",
+      "Url": "https://www.ndtv.com/entertainment/rajkummar-rao-alaya-f-to-bring-inspiring-story-of-srikanth-bolla-sri-on-this-date-3827946",
+      "UrlToImage": "https://c.ndtvimg.com/2023-03/3n0b19o8_rajkummar-rao_625x300_02_March_23.jpg",
+      "PublishedAt": "2023-03-02T13:24:36Z",
+      "Content": "Caption: Rajkummar Rao shared this image. (courtesy: rajkummar_rao )\r\nMumbai (Maharashtra): Actors Rajkummar Rao and Alaya F who are gearing up to inspire the audience with the moving story of Indian… [+1696 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vulture"
+      },
+      "Author": "Lane Brown",
+      "Title": "Bad Projection Is Ruining the Movie Theater Experience",
+      "Description": "Movie theaters like AMC and Regal are failing at their most basic function: delivering a bright, sharp image.",
+      "Url": "http://www.vulture.com/2023/03/movie-theater-projector-amc-regal.html",
+      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/c69/05c/82a43ddd80d41d41bd6a7a95bc65f8ab87-pm70e8.1x.rsocial.w1200.jpg",
+      "PublishedAt": "2023-03-02T13:00:00Z",
+      "Content": "Michelle Pfeiffer and Jonathan Majors look like crap. Usually, theyre two of the most radiant, dermatologically exceptional people in the world. But right now, theyre decrepit husks of themselves, th… [+13938 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Michael Leri",
+      "Title": "Moviehouse – The Film Studio Tycoon Trailer Announces Release Date for Filmmaking Sim",
+      "Description": "Moviehouse – The Film Studio Tycoon, Odyssey Studios’ moviemaking sim, has finally settled on a concrete release date. It’ll be coming out on April 5 on PC. This title stretches from the 1980s to the modern era, and players have to start their moviemaking jou…",
+      "Url": "https://www.comingsoon.net/?p=1270768",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/moviehouse.jpg?resize=1200,630",
+      "PublishedAt": "2023-03-02T13:00:00Z",
+      "Content": "Moviehouse The Film Studio Tycoon, Odyssey Studios moviemaking sim, has finally settled on a concrete release date. Itll be coming out on April 5 on PC.\r\nThis title stretches from the 1980s to the mo… [+2221 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DW (English)"
+      },
+      "Author": "Philipp Jedicke",
+      "Title": "King Kong: A brief history of a 90-year-old movie icon",
+      "Description": "The first King Kong movie was released in March 1933. As the iconic beast turns 90, here's a look at different versions of the classic story. As one of the best-known monsters in film, King Kong is an international pop culture phenomenon alongside popular sup…",
+      "Url": "https://www.dw.com/en/king-kong-a-brief-history-of-a-90-year-old-movie-icon/a-64854235",
+      "UrlToImage": "https://static.dw.com/image/64829764_6.jpg",
+      "PublishedAt": "2023-03-02T12:00:00Z",
+      "Content": "As one of the best-known monsters in film, King Kong is an international pop culture phenomenon alongside popular superheroes and comic book characters.\r\nThe first \"King Kong\" film was made in 1933, … [+8027 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Mark Hachman",
+      "Title": "Windows 11’s new features are ho-hum but the best one saves you money",
+      "Description": "Microsoft’s latest Windows 11 update, or “moment,” offers a number of intriguing tweaks and some new additions, but don’t be fooled. It largely falls short of the hype. But there’s one feature that should be played up more — one that promises to save you some…",
+      "Url": "https://www.pcworld.com/article/1527037/windows-11s-new-features-are-ho-hum-but-the-best-one-saves-you-money.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2023/03/800-36.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2023-03-02T11:30:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nMicrosoft’s latest W… [+6676 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "Author": "Adrian Horton",
+      "Title": "Why Women Talking should win the best picture Oscar",
+      "Description": "Let’s be real: its nomination for best movie was the win. But Sarah Polley’s film is predicated on action, a #MeToo film that questions with the aim of moving forwardI’ve learned to never say never with the Oscars, but let’s be real: Women Talking is not goin…",
+      "Url": "https://www.theguardian.com/film/2023/mar/02/why-women-talking-should-win-the-best-picture-oscar",
+      "UrlToImage": "https://i.guim.co.uk/img/media/23a189c24f0ea18870b7398a291867a2b9eb48eb/0_186_4500_2702/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e14b0e2e5de798b73e4109f64aa63936",
+      "PublishedAt": "2023-03-02T10:18:28Z",
+      "Content": "Ive learned to never say never with the Oscars, but lets be real: Women Talking is not going to win best picture. Writer/director Sarah Polleys adaptation of Miriam Toewss 2018 novel is too cerebral,… [+3608 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nintendo Life"
+      },
+      "Author": "Ollie Reynolds",
+      "Title": "Photos Posted Online Showcase New Mario-Themed Switch Console Bundle",
+      "Description": "Comes with red Joy-Con and one of three digital Mario games.The Super Mario Bros. Movie is just around the corner and while many of us were hoping for a brand new game from Nintendo to coincide with the release, it looks like we're just going to have to settl…",
+      "Url": "https://www.nintendolife.com/news/2023/03/photos-posted-online-showcase-new-mario-themed-switch-console-bundle",
+      "UrlToImage": "https://images.nintendolife.com/11dcd97a4d5a5/1280x720.jpg",
+      "PublishedAt": "2023-03-02T10:15:00Z",
+      "Content": "Image: Nintendo / Illumination\r\nThe Super Mario Bros. Movie is just around the corner and while many of us were hoping for a brand new game from Nintendo to coincide with the release, it looks like w… [+2105 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "The Feed",
+      "Title": "Thalaivar 170 release announced: Rajinikanth-starrer to be released in 2024",
+      "Description": "Lyca Productions has recently announced the production of ‘Thalaivar 170,’ which will feature Rajinikanth in the lead role. The movie is set to release next year and will be Rajinikanth’s 170th movie.",
+      "Url": "https://economictimes.indiatimes.com/news/new-updates/thalaivar-170-release-announced-rajinikanth-starrer-to-be-released-in-2024/articleshow/98359172.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-98359151,width-1070,height-580,imgsize-1173359,overlay-economictimes/photo.jpg",
+      "PublishedAt": "2023-03-02T08:22:22Z",
+      "Content": "Lyca Productions recently unveiled superstar Rajinikanths much-awaited movie Thalaivar 170 on March 2.The film will be directed by TG Gnanavel, best known for the critically acclaimed movie Jai Bhim,… [+2156 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ozbargain.com.au"
+      },
+      "Author": "curt67",
+      "Title": "Limited Edition Superman and Other Remastered Motion Picture Soundtrack CD Box Sets at 25 percent off @ La-La Land Records (US)",
+      "Description": "If you are a keen collector of motion picture music releases/box sets, a leading US online retailer, LA-LA Land Records (Burbank, Los Angeles US) are having a \"March Madness\" promotion until 16 March 2023 - 25 percent off the entire order of ALL in-stock titl…",
+      "Url": "https://www.ozbargain.com.au/node/760135",
+      "UrlToImage": "https://files.ozbargain.com.au/n/35/760135x.jpg?h=af2e8d07",
+      "PublishedAt": "2023-03-02T07:34:16Z",
+      "Content": "If you are a keen collector of motion picture music releases/box sets, a leading US online retailer, LA-LA Land Records (Burbank, Los Angeles US) are having a \"March Madness\" promotion until 16 March… [+2479 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1159,149 +1302,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1238,w_2200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1677602067/2016-03-31T000000Z_1653075330_GF10000366958_RTRMADP_3_RUSSIA-CAPITALISM-PROPERTYMANAGER_z6gryo",
       "PublishedAt": "2023-02-28T16:54:49Z",
       "Content": "Russian President Vladimir Putin has been helping provide apartments for his rumored mistress and mother of his children, Alina Kabaeva, by using a secret fund, according to an investigation by journ… [+825 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "polygon.com",
-      "Title": "The Super Mario Bros. Movie release date moves up two days",
-      "Description": "The Super Mario Bros. Movie will launch two days earlier than announced; it’s now premiering on April 5 in the United States (and 60 other markets worldwide). Wahoo! The #SuperMarioMovie is moving from April 7 to April 5 in the US and in more than 60 markets …",
-      "Url": "https://biztoc.com/x/792e3f43e3fbf725",
-      "UrlToImage": "https://c.biztoc.com/p/792e3f43e3fbf725/og.webp",
-      "PublishedAt": "2023-02-28T16:54:07Z",
-      "Content": "The Super Mario Bros. Movie will launch two days earlier than announced; its now premiering on April 5 in the United States (and 60 other markets worldwide).Wahoo! The #SuperMarioMovie is moving from… [+320 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "variety.com",
-      "Title": "‘Super Mario Bros. Movie’ Is Releasing Two Days Early",
-      "Description": "Mario is powering up his release date. Universal and Illumination’s “The Super Mario Bros. Movie” will now hit theaters around the world two days earlier than expected, the company announced Tuesday. The movie’s new release date is Wednesday, April 5, instead…",
-      "Url": "https://biztoc.com/x/356a1ea371e07f11",
-      "UrlToImage": "https://c.biztoc.com/p/356a1ea371e07f11/og.webp",
-      "PublishedAt": "2023-02-28T16:44:45Z",
-      "Content": "Mario is powering up his release date.Universal and Illuminations The Super Mario Bros. Movie will now hit theaters around the world two days earlier than expected, the company announced Tuesday. The… [+318 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "My Nintendo News"
-      },
-      "Author": "Sickr",
-      "Title": "Nintendo announces Super Mario Bros Movie release date pushed forward",
-      "Description": "Nintendo and Illumination has confirmed this afternoon that The Super Mario Bros. Movie is having its release date pushed forward by a few days in the United States and 60 other markets around the world, which will please fans. The Super Mario Bros. Movie wil…",
-      "Url": "https://mynintendonews.com/2023/02/28/nintendo-announces-super-mario-bros-movie-release-date-pushed-forward/",
-      "UrlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2022/11/super_mario_movie.jpg?fit=1200%2C700&ssl=1",
-      "PublishedAt": "2023-02-28T16:44:09Z",
-      "Content": "Nintendo and Illumination has confirmed this afternoon that The Super Mario Bros. Movie is having its release date pushed forward by a few days in the United States and 60 other markets around the wo… [+672 chars]"
-    },
-    {
-      "Source": {
-        "Id": "polygon",
-        "Name": "Polygon"
-      },
-      "Author": "Owen S. Good",
-      "Title": "The Super Mario Bros. Movie release date moves up two days",
-      "Description": "Illumination and Universal Pictures announced Feb. 28 that The Super Mario Bros. movie would premiere April 5 in the United States and more than 60 other markets worldwide. The old release date was April 7.",
-      "Url": "https://www.polygon.com/23618714/super-mario-bros-movie-release-date-announced-2023",
-      "UrlToImage": "https://cdn.vox-cdn.com/thumbor/yoTes0F5V1lLJi96aUOmrvTwwnc=/265x0:1803x805/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24088543/super_mario_bros_movie_mario_mushrooms_1920.jpg",
-      "PublishedAt": "2023-02-28T16:38:04Z",
-      "Content": "The Super Mario Bros. Movie will launch two days earlier than announced; its now premiering on April 5 in the United States (and 60 other markets worldwide).\r\nWahoo! The #SuperMarioMovie is moving fr… [+1117 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CNET"
-      },
-      "Author": "Sean Keane",
-      "Title": "Super Mario Bros. Movie Is Coming Out Two Days Early - CNET",
-      "Description": "Let's a-go to the theater on April 5.",
-      "Url": "https://www.cnet.com/culture/entertainment/super-mario-bros-movie-is-coming-out-two-days-early/",
-      "UrlToImage": "https://www.cnet.com/a/img/resize/829fdbbf838cdebc0fad9c5f7c0f39da22e53a52/hub/2023/02/12/86301368-4e90-472e-9f00-48ca449bfa85/screen-shot-2023-02-13-at-9-14-56-am.png?auto=webp&fit=crop&height=630&width=1200",
-      "PublishedAt": "2023-02-28T16:32:44Z",
-      "Content": "The Super Mario Bros. Movie will come to theaters on Wednesday, April 5, the official Twitter account said, two days earlier than its previous Friday, April 7, release day.\r\nWahoo! The #SuperMarioMov… [+317 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thewrap.com",
-      "Title": "‘Super Mario Bros. Movie’ Release Date Moved Up Ahead of Easter Weekend",
-      "Description": "“The Super Mario Bros. Movie” is getting a slightly earlier release date than expected. Universal announced on Tuesday that the Nintendo and Illumination animated film will hit theaters April 5, rather than April 7. That bump will give it an early boost at th…",
-      "Url": "https://biztoc.com/x/6bd31675eab785e5",
-      "UrlToImage": "https://c.biztoc.com/p/6bd31675eab785e5/og.webp",
-      "PublishedAt": "2023-02-28T16:32:04Z",
-      "Content": "The Super Mario Bros. Movie is getting a slightly earlier release date than expected. Universal announced on Tuesday that the Nintendo and Illumination animated film will hit theaters April 5, rather… [+251 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tyler Treese",
-      "Title": "The Super Mario Bros. Movie Release Date Moved Up",
-      "Description": "Universal Pictures has announced a new The Super Mario Bros. Movie release date for the upcoming animated film based on the iconic Nintendo series. The new The Super Mario Bros. Movie release date is April 5, 2023. This moves the date up by two days as it was…",
-      "Url": "https://www.comingsoon.net/movies/news/1270666-the-super-mario-bros-movie-release-date",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/super-mario-pic-e1676915545717.jpg?resize=1200,630",
-      "PublishedAt": "2023-02-28T16:27:09Z",
-      "Content": "Universal Pictures has announced a new The Super Mario Bros. Movie release date for the upcoming animated film based on the iconic Nintendo series.\r\nThe new The Super Mario Bros. Movie release date i… [+992 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-verge",
-        "Name": "The Verge"
-      },
-      "Author": "Charles Pulliam-Moore",
-      "Title": "The Super Mario Bros. movie is coming a little early",
-      "Description": "The Super Mario Bros. Movie will be released in the US on April 5th, 2023. That’s two days earlier than the previously announced April 7th release, while the Japanese premiere date for Nintendo’s marquee character remains set for April 28th.",
-      "Url": "https://www.theverge.com/2023/2/28/23618664/super-mario-bros-movie-us-release-date-april-5",
-      "UrlToImage": "https://cdn.vox-cdn.com/thumbor/3E-ZzRAynzhH7y08YC29sGgfzcM=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/24467289/FqEKXKiaEAMsVTP.jpg",
-      "PublishedAt": "2023-02-28T16:24:16Z",
-      "Content": "The Super Mario Bros. Movie is coming a little early\r\nThe Super Mario Bros. Movie is coming a little early\r\n / The films release date has moved up by two days in the US and 60 other markets and is no… [+941 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TheWrap"
-      },
-      "Author": "Harper Lambert",
-      "Title": "‘Super Mario Bros. Movie’ Release Date Moved Up Ahead of Easter Weekend",
-      "Description": "The Chris Pratt-starring animated film will enjoy two extra days in theaters for the holiday weekend",
-      "Url": "http://www.thewrap.com/super-mario-bros-movie-release-date-moved-up/",
-      "UrlToImage": "https://www.thewrap.com/wp-content/uploads/2022/10/super-mario-bros-chris-pratt.jpg",
-      "PublishedAt": "2023-02-28T16:18:11Z",
-      "Content": "“The Super Mario Bros. Movie” is getting a slightly earlier release date than expected. Universal announced on Tuesday that the Nintendo and Illumination animated film will hit theaters April 5, rath… [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Crunchyroll News"
-      },
-      "Author": "Joseph Luster",
-      "Title": "The Super Mario Bros. Movie to Release Two Days Early in U.S. and Other Regions",
-      "Description": "You'll get hooked on the brothers starting on April 5!The Super Mario Bros. Movie was previously announced for an April 7 premiere, but select regions are going to get to see it a bit sooner. Read on for more.",
-      "Url": "https://www.crunchyroll.com/anime-news/2023/02/28/the-super-mario-bros-movie-to-release-two-days-early-in-us-and-other-regions",
-      "UrlToImage": "https://img1.ak.crunchyroll.com/i/spire2/d9fce4ab8e687aaf05983119df3510451677600664_main.jpg",
-      "PublishedAt": "2023-02-28T16:11:24Z",
-      "Content": "The Super Mario Bros. Movie was previously announced for an April 7 premiere, but select regions are going to get to see it a bit sooner. The official accounts revealed that the film's debut has been… [+1451 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Eddie Makuch",
-      "Title": "Super Mario Bros. Movie Gets New Release Date, And It's Earlier Than Expected",
-      "Description": "The Super Mario Bros. Movie was delayed from Holiday 2022 to April 2023, and now it's getting another release date change, but this time it's moving forward. The Super Mario Bros. Movie will now be released in the US and more than 60 international markets on …",
-      "Url": "https://www.gamespot.com/articles/super-mario-bros-movie-gets-new-release-date-and-its-earlier-than-expected/1100-6511900/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4105726-screenshot2023-02-28at11.11.37am.png",
-      "PublishedAt": "2023-02-28T16:04:00Z",
-      "Content": "The Super Mario Bros. Movie was delayed from Holiday 2022 to April 2023, and now it's getting another release date change, but this time it's moving forward. The Super Mario Bros. Movie will now be r… [+1893 chars]"
     }
   ]
 }
