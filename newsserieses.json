@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1028,
+  "TotalResults": 1029,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La increíble foto que prueba que Pedro Pascal actuó en Buffy, la cazavampiros",
+      "Description": "Una publicación en Instagram reveló el pasado del exitoso actor chileno, que hoy se roba los reflectores con su protagónico en la serie de HBO The Last Of Us",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-increible-foto-que-prueba-que-pedro-pascal-actuo-en-buffy-la-cazavampiros-nid02032023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/ADJ5So8ASTsp-XHGsAqhBEjmE-M=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/IPQE7WUVFRA33HS5AGH5PKW4HE.jpg",
+      "PublishedAt": "2023-03-02T22:19:00Z",
+      "Content": "La actriz Sarah Michelle Gellar publicó hoy una foto en su perfil de Instagram una foto con Pedro Pascal, el protagonista dela serie The Last Of Us, para recordar cuando ambos trabajaron juntos en la… [+2992 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://ak.uecdn.es/p/108/thumbnail/entry_id/0_ea8jptqw/width/674/type/2/bgcolor/000000/0_ea8jptqw.jpg",
       "PublishedAt": "2023-02-28T19:18:30Z",
       "Content": "La aclamada serie Succession se dirige hacia su final. La semana pasada se hizo oficial que su cuarta temporada, que se estrena el próximo 27 de marzo en HBO Max, concluirá la saga de la familia Roy … [+6516 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "John Tones",
-      "Title": "Prime Video hizo la serie más cara de la historia. Le salió regular, así que ahora va a hacer la segunda más cara",
-      "Description": "Si Prime Video no puede ganar de otra forma, lo va a hacer a golpe de talonario. Ya acaparó miradas de admiración y algún que otro comentario sarcástico cuando produjo la que ostenta el récord de la serie de televisión más cara de la historia, 'El Señor de lo…",
-      "Url": "https://www.xataka.com/cine-y-tv/prime-video-hizo-serie-television-cara-historia-ahora-tambien-va-a-hacer-segunda",
-      "UrlToImage": "https://i.blogs.es/234f42/segunda-serie-mas-cara/840_560.jpeg",
-      "PublishedAt": "2023-02-28T19:01:43Z",
-      "Content": "Si Prime Video no puede ganar de otra forma, lo va a hacer a golpe de talonario. Ya acaparó miradas de admiración y algún que otro comentario sarcástico cuando produjo la que ostenta el récord de la … [+1736 chars]"
     }
   ]
 }

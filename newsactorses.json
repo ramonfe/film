@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 881,
+  "TotalResults": 882,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La increíble foto que prueba que Pedro Pascal actuó en Buffy, la cazavampiros",
+      "Description": "Una publicación en Instagram reveló el pasado del exitoso actor chileno, que hoy se roba los reflectores con su protagónico en la serie de HBO The Last Of Us",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/la-increible-foto-que-prueba-que-pedro-pascal-actuo-en-buffy-la-cazavampiros-nid02032023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/ADJ5So8ASTsp-XHGsAqhBEjmE-M=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/IPQE7WUVFRA33HS5AGH5PKW4HE.jpg",
+      "PublishedAt": "2023-03-02T22:19:00Z",
+      "Content": "La actriz Sarah Michelle Gellar publicó hoy una foto en su perfil de Instagram una foto con Pedro Pascal, el protagonista dela serie The Last Of Us, para recordar cuando ambos trabajaron juntos en la… [+2992 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/121227.jpg",
       "PublishedAt": "2023-02-28T13:26:14Z",
       "Content": "A Contracorriente Films presenta el tráiler oficial de 'De Caperucita a loba', comedia basada en el libro y en la exitosa obra de teatro homónima creada, escrita y protagonizada por Marta González de… [+2014 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Zendaya se suma al selecto \"club del millón\" por su papel en 'Euphoria'",
-      "Description": "Con la primera temporada de Euphoria, a su protagonista Zendaya le valió para convertirse en una de las actrices mejor valoradas, y situarse en el radar de todos los premios y reconocimientos incluyendo el Emmy. Con la segunda alcanzó cotas aún más altas, gan…",
-      "Url": "https://vertele.eldiario.es/series/zendaya-suma-selecto-club-millon-papel-euphoria_1_9990909.html",
-      "UrlToImage": "https://static.eldiario.es/clip/d4688529-a535-474d-8a1a-ec1d49f3ba57_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-02-28T12:27:03Z",
-      "Content": "Con la primera temporada de Euphoria, a su protagonista Zendaya le valió para convertirse en una de las actrices mejor valoradas, y situarse en el radar de todos los premios y reconocimientos incluye… [+1688 chars]"
     }
   ]
 }
