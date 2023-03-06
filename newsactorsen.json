@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 970,
+  "TotalResults": 971,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "YouTube"
+      },
+      "Author": null,
+      "Title": "This Oscar-nominated actor lost his health insurance after his last movie.",
+      "Description": "This Oscar-nominated actor lost his health insurance after his last movie.youtube.com",
+      "Url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqIvCADZ0NAM",
+      "UrlToImage": null,
+      "PublishedAt": "2023-03-05T18:59:39Z",
+      "Content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/af295e0770ca32ff/og.webp",
       "PublishedAt": "2023-03-02T19:28:05Z",
       "Content": "Learn MoreNow more than four decades into his storied screen career, there's little that Cary Elwes hasn't seen, done, or played. And over that span, he's helped create some of the most beloved chara… [+302 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Njera Perkins",
-      "Title": "Will Smith Returns to the Awards Circuit Stage for the First Time Since the 2022 Oscars",
-      "Description": "Will Smith is back on the awards show circuit nearly one year after his now-infamous slap incident with Chris Rock. Following the 2022 Oscars, the \"Emancipation\" star made his first awards show appearance on March 1 at the 2023 African American Film Critics A…",
-      "Url": "https://www.popsugar.com/celebrity/will-smith-first-awards-show-appearance-post-oscars-49103736",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/zBFOtZX0PUCbe7WI-DCq3FQJ_5A/0x603:7802x4699/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/03/02/768/n/1922398/baaa2be46400dc6f0f3380.38536931_.jpg",
-      "PublishedAt": "2023-03-02T18:35:07Z",
-      "Content": "Will Smith is back on the awards show circuit nearly one year after his now-infamous slap incident with Chris Rock. Following the 2022 Oscars, the \"Emancipation\" star made his first awards show appea… [+2556 chars]"
     }
   ]
 }
