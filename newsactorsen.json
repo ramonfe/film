@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 980,
+  "TotalResults": 981,
   "Articles": [
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Via AP news wire",
+      "Title": "'Creature from the Black Lagoon' actor Ricou Browning dies",
+      "Description": "Ricou Browning, best known for playing the Gill Man in the 1954 monster movie “Creature from the Black Lagoon,” has died",
+      "Url": "https://www.independent.co.uk/news/ap-florida-south-america-hollywood-jerry-lewis-b2294655.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/03/06/00/Obit_Actor_Ricou_Browning_48662.jpg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-03-06T00:27:30Z",
+      "Content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nRicou Browning, a skilled swimmer best known for his… [+2454 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/63ffc3baa1aa79183b5f8aba/1677796209295/kristen+bell.jpg?format=1500w",
       "PublishedAt": "2023-03-02T22:30:00Z",
       "Content": "Actress Kristen Bell (Veronica Mars, Frozen) has signed on to star in and executive produce an untitled religious comedy from creator and executive producer Erin Foster, who has previously acted in s… [+1012 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "James Whitbrook",
-      "Title": "Star Trek: Discovery Will End After Season 5",
-      "Description": "Image: Paramount\r\nParamount has confirmed that Star Trek: Discovery—the first series in the franchise since Star Trek: Enterprise ended in 2005, and the herald of Star Trek’s revitalization as a streaming show universe—will come to an end after its fifth and …",
-      "Url": "https://gizmodo.com/star-trek-discovery-canceled-season-5-2024-paramount-1850181096",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ebd97c0e219239ea26de9ee76f2df246.png",
-      "PublishedAt": "2023-03-02T22:02:00Z",
-      "Content": "Paramount has confirmed that Star Trek: Discoverythe first series in the franchise since Star Trek: Enterprise ended in 2005, and the herald of Star Treks revitalization as a streaming show universew… [+1951 chars]"
     }
   ]
 }
