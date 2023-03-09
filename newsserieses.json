@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1066,
+  "TotalResults": 1067,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'Yellowstone', SkyShowtime y la caída de Netflix",
+      "Description": "Hablar del declive de Netflix a día de hoy ya no es cuestión de opinión sino de hechos probados. Su errática política de renovaciones y cancelaciones, el éxodo de contenidos a sus legítimas plataformas a su paulatina llegada al mercado español y su reciente d…",
+      "Url": "https://www.abc.es/play/series/noticias/abci-maximo-sentencia-yellowstone-skyshowtime-y-caida-netflix-202303080024_noticia.html",
+      "UrlToImage": "https://static2.abc.es/media/play/2023/03/08/yellowstone1-kT6H--1024x512@abc.jpg",
+      "PublishedAt": "2023-03-07T23:24:09Z",
+      "Content": "Máximo SentenciaSEGUIR\r\nActualizado:08/03/2023 00:24h\r\nGuardar\r\nHablar del declive de Netflix a día de hoy ya no es cuestión de opinión sino de hechos probados. Su errática política de renovaciones y… [+2992 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/5f1846bf-257e-477d-8dd6-9eabfbc7422a_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-03-06T10:52:40Z",
       "Content": "Machos alfa ha comenzado este lunes el rodaje de su segunda temporada. La noticia la ha dado Netflix, que detalla en su breve comunicado que los nuevos episodios se rodarán en Madrid, Málaga e Ibiza … [+1260 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "The Last of Us nos muestra la verdadera cara del miedo",
-      "Description": "Entrando en la recta final de su primera temporada, The Last of Us evidencia su mayor problema estructural: ha dedicado más tiempo a decorar las habitaciones de la casa que a asegurarse de que los cimientos eran sólidos. Quizá sea una consecuencia inevitable …",
-      "Url": "https://www.revistagq.com/noticias/articulo/the-last-of-us-1x08-critica",
-      "UrlToImage": "https://media.revistagq.com/photos/6405ad95a7b43a46441a2f41/16:9/w_1280,c_limit/last.jpg",
-      "PublishedAt": "2023-03-06T10:26:44Z",
-      "Content": "Entrando en la recta final de su primera temporada, The Last of Usevidencia su mayor problema estructural: ha dedicado más tiempo a decorar las habitaciones de la casa que a asegurarse de que los cim… [+2660 chars]"
     }
   ]
 }
