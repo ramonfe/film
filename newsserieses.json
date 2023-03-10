@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1106,
+  "TotalResults": 1109,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Eduardo Marín",
+      "Title": "Netflix por fin permite cambiar la forma y tamaño de los subtítulos",
+      "Description": "¿Te ha sucedido que estás intentando ver una serie o película en tu servicio de streaming preferido y el texto de los subtítulos es demasiado pequeño? Seguro que sí, y esto es un problema que sucede tanto en streaming de series y películas como en videojuegos…",
+      "Url": "https://es.gizmodo.com/netflix-por-fin-permite-cambiar-la-forma-y-tamano-de-lo-1850210507",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5b115d4861ca3bbda4089bd2cbe15779.jpg",
+      "PublishedAt": "2023-03-09T21:53:00Z",
+      "Content": "¿Te ha sucedido que estás intentando ver una serie o película en tu servicio de streaming preferido y el texto de los subtítulos es demasiado pequeño? Seguro que sí, y esto es un problema que sucede … [+1656 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Yurguin Zuñiga Pineda",
+      "Title": "Amazon Prime: Vea a Camila Sodi en ‘Sin huellas’, serie española que mezcla humor y acción",
+      "Description": "'Sin Huellas', la nueva serie española en la que participa la mexicana Camila Sodi y la actriz española Carolina Yuste, llegará a Amazon Prime a partir del 17 de marzo",
+      "Url": "https://www.nacion.com/teleguia/amazon-prime-vea-a-camila-sodi-en-sin-huellas/JRZN4SPJEJDPJEWL7UFO46PCKA/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/Y8-b_LFovB1CI0svqF84jhvOs7w=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/MAKL642M7NEM7JBCPALAEXL2VI.jpg",
+      "PublishedAt": "2023-03-09T21:45:09Z",
+      "Content": "El entretenimiento con sello español no para. Amazon Prime está a punto de lanzar Sin huellas, su nueva ficción protagonizada por la actriz española Carolina Yuste (Carmen y Lola) y la mexicana Camil… [+1908 chars]"
+    },
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "JOSÉ FÉLIX DÍAZ",
+      "Title": "'Real Madrid hasta el final' ya es una serie de televisión",
+      "Description": "El club blanco, a través de Apple TV, ha querido acercar a todos los aficionados como fue todo lo vivido en la conquista de la Champions, la decimocuarta en el historial madridista  Leer",
+      "Url": "https://www.marca.com/futbol/real-madrid/2023/03/09/640a4c56e2704ea4a88b45de.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/c6acd1a590dfe94cebf1b52c0191fe50/resize/1200/f/jpg/assets/multimedia/imagenes/2023/03/09/16783962144411.jpg",
+      "PublishedAt": "2023-03-09T21:19:46Z",
+      "Content": "'Hasta el final', así se titula la serie que Wakai ha producido para Apple TV y que en los tres capítulos de los que consta repasa lo que fue la mágica temporada vivida por el Real Madrid, con la con… [+1820 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/547ec0/jon-bernthal-punisher-daredevil/840_560.jpeg",
       "PublishedAt": "2023-03-08T00:15:11Z",
       "Content": "Menuda sorpresa acaba de darnos Marvel: Jon Bernthal va a regresar como Punisher en 'Daredevil: Born Again', la esperadísima serie en la que Charlie Cox volverá a dar vida al mítico superhéroe ciego.… [+1732 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'Yellowstone', SkyShowtime y la caída de Netflix",
-      "Description": "Hablar del declive de Netflix a día de hoy ya no es cuestión de opinión sino de hechos probados. Su errática política de renovaciones y cancelaciones, el éxodo de contenidos a sus legítimas plataformas a su paulatina llegada al mercado español y su reciente d…",
-      "Url": "https://www.abc.es/play/series/noticias/abci-maximo-sentencia-yellowstone-skyshowtime-y-caida-netflix-202303080024_noticia.html",
-      "UrlToImage": "https://static2.abc.es/media/play/2023/03/08/yellowstone1-kT6H--1024x512@abc.jpg",
-      "PublishedAt": "2023-03-07T23:24:09Z",
-      "Content": "Máximo SentenciaSEGUIR\r\nActualizado:08/03/2023 00:24h\r\nGuardar\r\nHablar del declive de Netflix a día de hoy ya no es cuestión de opinión sino de hechos probados. Su errática política de renovaciones y… [+2992 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Punisher est de vuelta! Jon Bernthal regresa para 'Daredevil: Born Again'",
-      "Description": "El actor Jon Bernthal est de regreso a superhroes ms famoso con su personaje de Punisher para una de las prximas series del Universo Cinematogrfico de Marvel 'Daredevil: Born Again'.Con esto, se conserva gran parte del emblemtico elenco de Defenders que origi…",
-      "Url": "https://www.milenio.com/espectaculos/television/daredevil-born-again-jon-bernthal-regresa-punisher",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/03/07/jon-bernthal-regresa-punisher-especial.jpg",
-      "PublishedAt": "2023-03-07T22:54:06Z",
-      "Content": "El actor Jon Bernthal está de regreso a superhéroes más famoso con su personaje de Punisher para una de las próximas series del Universo Cinematográfico de Marvel 'Daredevil: Born Again'.\r\nCon esto, … [+1729 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La serie que estrenó Netflix y que quisieron prohibir antes de su lanzamiento",
-      "Description": "En el nombre de Dios: Sagrada traición es una docuserie coreana que cuenta los casos de distintas sectas del país asiático; antes de ver la luz, se realizó un pedido a la Justicia para prohibirla",
-      "Url": "https://www.lanacion.com.ar/espectaculos/la-serie-que-estreno-netflix-y-que-quisieron-prohibir-antes-de-su-lanzamiento-nid07032023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/M19emM3cdDntnoNKyoqP_YN10T4=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JYO6IQPL4ZFD7F4HY67DL5VZEE.jpg",
-      "PublishedAt": "2023-03-07T22:24:11Z",
-      "Content": "Ya se estrenó en NetflixEn el nombre de Dios: Sagrada traición, la serie coreana que habla sobre cuatro casos reales de sectas y que intentó ser prohibida. Los involucrados en los ocho capítulos hici… [+2788 chars]"
     }
   ]
 }
