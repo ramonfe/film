@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 958,
+  "TotalResults": 960,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "IndieWire"
+      },
+      "Author": "Tom Brueggemann",
+      "Title": "Finally, the NATO Report Tells Us the Average Price of a Movie Theater Ticket",
+      "Description": "The National Association of Theater Owners released its first annual report in three years — and the first one done without the Motion Picture Association.",
+      "Url": "https://www.indiewire.com/2023/03/nato-annual-report-theaters-average-ticket-price-1234817316/",
+      "UrlToImage": "https://www.indiewire.com/wp-content/uploads/2023/02/GettyImages-163296518.jpg?w=780",
+      "PublishedAt": "2023-03-09T17:00:35Z",
+      "Content": "The National Association of Theater Owners, the trade association of domestic exhibitors, just released its first-ever independent annual report. While it might be light on some specifics, it comes w… [+3373 chars]"
+    },
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Jacob Stolworthy",
+      "Title": "‘There’s always temptation’: Luther creator says he almost brought back adored character in new movie",
+      "Description": "‘I’m always writing dream sequences with them in,’ Neil Cross revealed ahead of Netflix movie’s release",
+      "Url": "https://www.independent.co.uk/arts-entertainment/films/news/luther-movie-neil-cross-fallen-sun-b2297274.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/03/09/11/newFile-5.jpg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-03-09T16:26:43Z",
+      "Content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nNeil Cross has admitted that a well-loved series charact… [+2334 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/Chang-Can-Dunk-1.jpg?resize=1200,630",
       "PublishedAt": "2023-03-06T15:16:00Z",
       "Content": "Chang Can Dunk is making his way into the Disney+ content later this week. \r\nA coming-of-age sports comedy story following a teenager and his passion for basketball is premiering on Disney+ (sign-up … [+937 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Exclusive Knockabout Clip Shows a Frantic Fight in the Forest",
-      "Description": "ComingSoon is debuting an exclusive Knockabout clip from the upcoming Blu-ray and Arrow streaming service rerelease of the classic martial arts movie, which includes plenty of new bonus materials. The film will release on Blu-ray and through Arrow on March 28…",
-      "Url": "https://www.comingsoon.net/?p=1271576",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/knockabout-clip-header.png?resize=1200,630",
-      "PublishedAt": "2023-03-06T15:00:00Z",
-      "Content": "ComingSoon is debuting an exclusive Knockabout clip from the upcoming Blu-ray and Arrow streaming service rerelease of the classic martial arts movie, which includes plenty of new bonus materials. Th… [+987 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "variety.com",
-      "Title": "After ‘Creed III’ Delivers Box Office Knockout, Will Movie Theaters Keep Thriving in March?",
-      "Description": "“Creed III” delivered a powerful box office knockout with its $58.6 million domestic debut, clobbering expectations and franchise records in the process. And there’s more good news for struggling theater owners starved for compelling content. It looks like th…",
-      "Url": "https://biztoc.com/x/962ce5ad16379648",
-      "UrlToImage": "https://c.biztoc.com/p/962ce5ad16379648/og.webp",
-      "PublishedAt": "2023-03-06T14:48:20Z",
-      "Content": "Creed III delivered a powerful box office knockout with its $58.6 million domestic debut, clobbering expectations and franchise records in the process.And theres more good news for struggling theater… [+308 chars]"
     }
   ]
 }
