@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 88,
+  "TotalResults": 90,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Netflix now lets you customize subtitles on your TV",
+      "Description": "If you want to change the appearance of subtitles and closed captions on Netflix — perhaps to switch font sizes or to add a shadow that would make them more readable — you'd have to access your account on a browser. The process is a lot more complicated than …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170505901",
+      "UrlToImage": null,
+      "PublishedAt": "2023-03-09T13:13:41Z",
+      "Content": "If you want to change the appearance of subtitles and closed captions on Netflix — perhaps to switch font sizes or to add a shadow that would make them more readable — you'd have to access your accou… [+1614 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Mariella Moon",
+      "Title": "Netflix now lets you customize subtitles on your TV",
+      "Description": "If you want to change the appearance of subtitles and closed captions on Netflix — perhaps to switch font sizes or to add a shadow that would make them more readable — you'd have to access your account on a browser. The process is a lot more complicated than …",
+      "Url": "https://www.engadget.com/netflix-customize-subtitles-on-your-tv-125649529.html",
+      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/o2WgJ9yWXRaZA5fD1vNLhw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/5ba3bd00-be72-11ed-9ada-c16f4d6ffb2f.cf.jpg",
+      "PublishedAt": "2023-03-09T12:56:49Z",
+      "Content": "If you want to change the appearance of subtitles and closed captions on Netflix perhaps to switch font sizes or to add a shadow that would make them more readable you'd have to access your account o… [+1475 chars]"
+    },
     {
       "Source": {
         "Id": null,
