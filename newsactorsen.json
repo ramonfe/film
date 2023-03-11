@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1002,
+  "TotalResults": 1003,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "Robert Blake, Emmy-Winning Actor Acquitted in Wife's Killing, Dies at 89",
+      "Description": "Robert Blake, the Emmy award-winning performer who went from acclaim for his acting to notoriety when he was tried and acquitted in the killing of his wife, died Thursday at age 89.\n\n\nA statement released on behalf of his niece, Noreen Austin, said Blake died…",
+      "Url": "https://www.voanews.com/a/robert-blake-emmy-winning-actor-acquitted-wife-s-killing-dies-at-89-/6998640.html",
+      "UrlToImage": "https://gdb.voanews.com/01000000-0aff-0242-42be-08db2110a225_w1200_r1.jpg",
+      "PublishedAt": "2023-03-10T02:55:45Z",
+      "Content": "los angeles, california  Robert Blake, the Emmy award-winning performer who went from acclaim for his acting to notoriety when he was tried and acquitted in the killing of his wife, died Thursday at … [+2942 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/punisher-header-2.png?resize=1200,630",
       "PublishedAt": "2023-03-07T19:35:26Z",
       "Content": "Another familiar Marvel face has joined Daredevil: Born Again, as Jon Bernthal will be returning as Frank Castle/The Punisher in the Disney+ series.\r\nAccording to THR, Bernthal will once again be pla… [+1114 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Mail"
-      },
-      "Author": "Eve Buckland",
-      "Title": "Megyn Kelly has 'Bombshell' encounter with Margot Robbie",
-      "Description": "Megyn Kelly and Margot Robbie had a chance encounter in Utah this week, four years after the actress starred in movie Bombshell.",
-      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-11831929/Megyn-Kelly-Bombshell-encounter-Margot-Robbie.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/03/07/19/68434269-0-image-a-7_1678216192049.jpg",
-      "PublishedAt": "2023-03-07T19:12:54Z",
-      "Content": "Megyn Kelly and Margot Robbie had a chance encounter in Utah this week, four years after the actress starred in movie Bombshell, depicting the journalist's sexual assault allegations against Roger Ai… [+3071 chars]"
     }
   ]
 }
