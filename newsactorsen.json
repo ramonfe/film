@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1052,
+  "TotalResults": 1053,
   "Articles": [
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "Who Will Present Best Actress Award at This Year's Oscars? - Inside Edition",
+      "Description": "<ol><li>Who Will Present Best Actress Award at This Year's Oscars?  Inside Edition\r\n</li><li>Oscars 2023: How will the Academy Awards address the Chris Rock, Will Smith slap  Yahoo News Canada\r\n</li><li>Is Will Smith Going To Be At The 2023 Oscars?  UPROXX\r\n<…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC3BYdlZPLTQxVC1ZmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-03-10T23:28:06Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-98518595,width-1070,height-580,imgsize-76002,overlay-etpanache/photo.jpg",
       "PublishedAt": "2023-03-09T11:07:50Z",
       "Content": "MUMBAI: Streaming platform ZEE5 on Wednesday announced its next original film \"Mrs. Undercover\" featuring Radhika Apte. Billed as a spy comedy, the movie will present the actor in a never-seen-before… [+2657 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NPR"
-      },
-      "Author": "NPR",
-      "Title": "Russian movie 'The Challenge' is the first to be filmed in space",
-      "Description": "An actor and a producer joined a real-life cosmonaut on the International Space Station. The film is about a female doctor performing life-saving surgery in space.",
-      "Url": "https://www.npr.org/2023/03/09/1162120350/russian-movie-the-challenge-is-the-first-to-be-filmed-in-space",
-      "UrlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "PublishedAt": "2023-03-09T11:05:00Z",
-      "Content": "Copyright © 2023 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\r\nNPR transcripts are created on a rush deadline by an NPR contr… [+192 chars]"
     }
   ]
 }
