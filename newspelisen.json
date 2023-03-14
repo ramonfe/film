@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 999,
+  "TotalResults": 1000,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Matt Wilstein",
+      "Title": "Jimmy Kimmel Roasts ‘Violent’ Will Smith in Oscars Opening Monologue",
+      "Description": "REUTERS/Carlos Barria\r\nOscars host Jimmy Kimmel was not about to let Chris Rock get the last word on “The Slap.”After parachuting in from his friend Tom Cruise’s plane, the comedian began his monologue on Sunday night by roasting the celebrities in the room, …",
+      "Url": "https://www.thedailybeast.com/obsessed/jimmy-kimmel-roasts-violent-will-smith-in-oscars-opening-monologue",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1678668528/kimmel_jwfod3",
+      "PublishedAt": "2023-03-13T00:51:40Z",
+      "Content": "Oscars host Jimmy Kimmel was not about to let Chris Rock get the last word on The Slap.\r\nAfter parachuting in from his friend Tom Cruises plane, the comedian began his monologue on Sunday night by ro… [+2216 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/03/09/f36ee1e5/mariomovie.jpg",
       "PublishedAt": "2023-03-09T22:57:00Z",
       "Content": "With less than a month to go until the theatrical release of The Super Mario Bros. Movie, Nintendo, Illumination, and Universal have released one final trailer to try and catch prospective audience m… [+2294 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BGR"
-      },
-      "Author": "Jacob Siegal",
-      "Title": "Watch the final trailer for The Super Mario Bros. Movie",
-      "Description": "More than five years after Nintendo first announced its animated Super Mario movie, the release date is just a few weeks away. In celebration, the …\nThe post Watch the final trailer for The Super Mario Bros. Movie appeared first on BGR.",
-      "Url": "https://bgr.com/entertainment/watch-the-final-trailer-for-the-super-mario-bros-movie/",
-      "UrlToImage": "https://bgr.com/wp-content/uploads/2023/03/Fire-Flower-Donkey-Kong.jpg?quality=82&strip=all",
-      "PublishedAt": "2023-03-09T22:36:33Z",
-      "Content": "More than five years after Nintendo first announced its animated Super Mario movie, the release date is just a few weeks away. In celebration, the video game company hosted a Nintendo Direct live str… [+1260 chars]"
     }
   ]
 }
