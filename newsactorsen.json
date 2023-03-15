@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1123,
+  "TotalResults": 1125,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Gabriel Hays",
+      "Title": "Dove soap brand slams Oscar-winning film ‘The Whale’ for using a fat suit: ‘We want better representation’",
+      "Description": "Dove soap brand slammed Academy Award-winning movie \"The Whale\" for having an actor in a fat suit play the starring role of a morbidly obese man.",
+      "Url": "https://www.foxnews.com/media/dove-soap-brand-slams-oscar-winning-film-whale-using-fat-suit-want-better-representation",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/Brendan-Fraser.jpg",
+      "PublishedAt": "2023-03-14T16:00:33Z",
+      "Content": "Soap and hygiene company Dove took a moral stand on Monday against Academy Award\r\n-winning film, \"The Whale,\" slamming it for starring an actor in a fat suit rather than featuring an obese actor.\r\nTh… [+3507 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Caller"
+      },
+      "Author": "Leena Nasir",
+      "Title": "Tilda Swinton Puts Her Foot Down On Covid Filming Protocols",
+      "Description": "Famous actress Tilda Swinton pushed back against COVID protocols by refusing to adhere to on-set mask mandates while filming her upcoming movie.",
+      "Url": "https://dailycaller.com/2023/03/14/tilda-swinton-covid-filming-protocols-mask-mandates-south-by-southwest/",
+      "UrlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/03/40-scaled-e1678808575374.jpg",
+      "PublishedAt": "2023-03-14T15:59:09Z",
+      "Content": "Famous actress Tilda Swinton pushed back against COVID protocols by refusing to adhere to on-set mask mandates while filming her upcoming movie.\r\nThe actress is over the pandemic and she doesn’t want… [+2367 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -138,19 +164,6 @@
         "Id": null,
         "Name": "The Guardian"
       },
-      "Author": "Peter Bradshaw",
-      "Title": "Marlowe review – worldweary Liam Neeson makes for low-energy private eye",
-      "Description": "Raymond Chandler’s gumshoe hero is resurrected in this period adaptation of a novel by John Banville – a film that looks good but lacks a sparkRaymond Chandler’s famous detective Philip Marlowe doesn’t quite come back to life in this new movie from Neil Jorda…",
-      "Url": "https://www.theguardian.com/film/2023/mar/14/marlowe-review-liam-neeson-raymond-chandler",
-      "UrlToImage": "https://i.guim.co.uk/img/media/9e2c35b7238abaad88ecc63ca599a01ca7656672/481_0_2593_1556/master/2593.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=6d77a1fee2d14fb0e0b018e1a6f3d860",
-      "PublishedAt": "2023-03-14T07:00:40Z",
-      "Content": "Raymond Chandlers famous detective Philip Marlowe doesnt quite come back to life in this new movie from Neil Jordan, adapted from the novel of the same name by Booker prize winner John Banville, writ… [+1758 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Guardian"
-      },
       "Author": "Rachel Cooke",
       "Title": "Lives of the Wives by Carmela Ciuraru review – literary couples a breed apart",
       "Description": "The author raids memoirs and letters but adds little of her own in this juicy group biography of writers’ marriagesLiterary wives are a unique breed, writes Carmela Ciuraru in the introduction to her strange new book – at which point the reader pictures Véra …",
@@ -158,6 +171,19 @@
       "UrlToImage": "https://i.guim.co.uk/img/media/422c77c62f63ab000198f83cc3ba6e907822d4a5/0_225_5046_3029/master/5046.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=ad8b84ec478d14cf812b7d0f1fe3f63d",
       "PublishedAt": "2023-03-14T07:00:40Z",
       "Content": "Literary wives are a unique breed, writes Carmela Ciuraru in the introduction to her strange new book at which point the reader pictures Véra Nabokov either licking Vladimirs stamps, or pulling the p… [+5501 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "Author": "Peter Bradshaw",
+      "Title": "Marlowe review – worldweary Liam Neeson makes for low-energy private eye",
+      "Description": "Raymond Chandler’s gumshoe hero is resurrected in this period adaptation of a novel by John Banville – a film that looks good but lacks a sparkRaymond Chandler’s famous detective Philip Marlowe doesn’t quite come back to life in this new movie from Neil Jorda…",
+      "Url": "https://www.theguardian.com/film/2023/mar/14/marlowe-review-liam-neeson-raymond-chandler",
+      "UrlToImage": "https://i.guim.co.uk/img/media/9e2c35b7238abaad88ecc63ca599a01ca7656672/481_0_2593_1556/master/2593.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=6d77a1fee2d14fb0e0b018e1a6f3d860",
+      "PublishedAt": "2023-03-14T07:00:40Z",
+      "Content": "Raymond Chandlers famous detective Philip Marlowe doesnt quite come back to life in this new movie from Neil Jordan, adapted from the novel of the same name by Booker prize winner John Banville, writ… [+1758 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/2it-QKy6_X5HZf1lalvay41WyfA/0x108:2427x1382/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/03/12/011/n/1922398/aa59ea7b640e5d73066ae8.58152799_.jpg",
       "PublishedAt": "2023-03-12T23:35:00Z",
       "Content": "Austin Butler looked absolutely dapper as he attended the 2023 Oscars on March 12. Butler is a first-time nominee for his work as the titular legendary singer in \"Elvis.\" He seemed to be flying solo … [+2101 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "anthonypauldalessandro",
-      "Title": "‘Women Talking’ Filmmaker Sarah Polley Developing Next Movie Set Around Awards Season – Oscar Red Carpet",
-      "Description": "As the old saying goes, write what you know and for Women Talking filmmaker Sarah Polley whose up for an Adapted Screenplay Oscar tonight, she’s been through so much of the campaign process that her next movie is set around awards season. Speaking to Deadline…",
-      "Url": "https://deadline.com/2023/03/2023-oscars-red-carpet-sarah-polley-women-talking-1235291967/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2023/03/GettyImages-1473060977-e1678662563394.jpg?w=1024",
-      "PublishedAt": "2023-03-12T23:25:10Z",
-      "Content": "As the old saying goes, write what you know and for Women Talkingfilmmaker Sarah Polley whose up for an Adapted Screenplay Oscar tonight, she’s been through so much of the campaign process that her n… [+1354 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Extra"
-      },
-      "Author": "Extra Staff",
-      "Title": "Brendan Fraser Brings His Sons to the Oscars Red Carpet! (Exclusive)",
-      "Description": "“The Whale” star Brendan Fraser hit the Oscars red carpet with his partner Jeanne Moore and two of his sons, Holden and Leland!\n Brendan, who is up for Best Actor for his performance in “The Whale,” said he was “overjoyed” and “really happy to be here.”\n The …",
-      "Url": "https://extratv.com/2023/03/12/brendan-fraser-brings-his-sons-to-the-oscars-red-carpet-exclusive/",
-      "UrlToImage": "https://extra-images.akamaized.net/image/30/16by9/2023/03/12/30f634e9fb334ec48290a01b84d449ae_xl.jpg",
-      "PublishedAt": "2023-03-12T23:23:06Z",
-      "Content": "“The Whale” star Brendan Fraser hit the Oscars red carpet with his partner Jeanne Moore and two of his sons, Holden and Leland!\n Brendan, who is up for Best Actor for his performance in “The Whale,” … [+1674 chars]"
     }
   ]
 }
