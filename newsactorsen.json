@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1145,
+  "TotalResults": 1147,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Brit + Co"
+      },
+      "Author": "Chloe Williams​",
+      "Title": "The \"Wicked\" Movie Is Premiering Ahead Of Schedule",
+      "Description": "Following in the footsteps of movie musicals like Mean Girls, Wicked might just be the movie we're most excited for in 2024. The fantastical design, beautiful songs, and enemies-turned-besties relationship between Elphaba and Glinda come together like magic. …",
+      "Url": "https://www.brit.co/wicked-movie/",
+      "UrlToImage": "https://www.brit.co/media-library/wicked-movie-2024-ariana-grande-cynthia-erivo-jonathan-bailey.jpg?id=33283513&width=1200&height=600&coordinates=0%2C187%2C0%2C336",
+      "PublishedAt": "2023-03-15T19:45:01Z",
+      "Content": "Following in the footsteps of movie musicals like Mean Girls, Wicked might just be the movie we're most excited for in 2024. The fantastical design, beautiful songs, and enemies-turned-besties relati… [+2961 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "Michael Sun",
+      "Title": "Bill Nighy movie about the search for meaning has all the profundity of a Hallmark card",
+      "Description": "The British actor was nominated for best actor at the Oscars for his role in this 50s-set drama written by Nobel Prize-winning novelist Kazuo Ishiguro.",
+      "Url": "https://www.abc.net.au/news/2023-03-16/living-review-bill-nighy-british-drama-movie-aimee-lou-wood/102094392",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/6298931c9f72ffe3f84c97af34507b0e?impolicy=wcms_crop_resize&cropH=1569&cropW=2790&xPos=0&yPos=1&width=862&height=485",
+      "PublishedAt": "2023-03-15T19:03:20Z",
+      "Content": "Akira Kurosawa has provided the basis for so much of contemporary film that remakes of the Japanese director's work could sustain their own film festival or at least an entire Wikipedia page. It's a … [+6977 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -957,19 +983,6 @@
         "Id": null,
         "Name": "The Guardian"
       },
-      "Author": "Rachel Cooke",
-      "Title": "Lives of the Wives by Carmela Ciuraru review – literary couples a breed apart",
-      "Description": "The author raids memoirs and letters but adds little of her own in this juicy group biography of writers’ marriagesLiterary wives are a unique breed, writes Carmela Ciuraru in the introduction to her strange new book – at which point the reader pictures Véra …",
-      "Url": "https://www.theguardian.com/books/2023/mar/14/lives-of-the-wives-five-literary-marriages-by-carmela-ciuraru-review-literary-couples-a-breed-apart",
-      "UrlToImage": "https://i.guim.co.uk/img/media/422c77c62f63ab000198f83cc3ba6e907822d4a5/0_225_5046_3029/master/5046.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=ad8b84ec478d14cf812b7d0f1fe3f63d",
-      "PublishedAt": "2023-03-14T07:00:40Z",
-      "Content": "Literary wives are a unique breed, writes Carmela Ciuraru in the introduction to her strange new book at which point the reader pictures Véra Nabokov either licking Vladimirs stamps, or pulling the p… [+5501 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Guardian"
-      },
       "Author": "Peter Bradshaw",
       "Title": "Marlowe review – worldweary Liam Neeson makes for low-energy private eye",
       "Description": "Raymond Chandler’s gumshoe hero is resurrected in this period adaptation of a novel by John Banville – a film that looks good but lacks a sparkRaymond Chandler’s famous detective Philip Marlowe doesn’t quite come back to life in this new movie from Neil Jorda…",
@@ -977,6 +990,19 @@
       "UrlToImage": "https://i.guim.co.uk/img/media/9e2c35b7238abaad88ecc63ca599a01ca7656672/481_0_2593_1556/master/2593.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTIucG5n&enable=upscale&s=6d77a1fee2d14fb0e0b018e1a6f3d860",
       "PublishedAt": "2023-03-14T07:00:40Z",
       "Content": "Raymond Chandlers famous detective Philip Marlowe doesnt quite come back to life in this new movie from Neil Jordan, adapted from the novel of the same name by Booker prize winner John Banville, writ… [+1758 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "Author": "Rachel Cooke",
+      "Title": "Lives of the Wives by Carmela Ciuraru review – literary couples a breed apart",
+      "Description": "The author raids memoirs and letters but adds little of her own in this juicy group biography of writers’ marriagesLiterary wives are a unique breed, writes Carmela Ciuraru in the introduction to her strange new book – at which point the reader pictures Véra …",
+      "Url": "https://www.theguardian.com/books/2023/mar/14/lives-of-the-wives-five-literary-marriages-by-carmela-ciuraru-review-literary-couples-a-breed-apart",
+      "UrlToImage": "https://i.guim.co.uk/img/media/422c77c62f63ab000198f83cc3ba6e907822d4a5/0_225_5046_3029/master/5046.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=ad8b84ec478d14cf812b7d0f1fe3f63d",
+      "PublishedAt": "2023-03-14T07:00:40Z",
+      "Content": "Literary wives are a unique breed, writes Carmela Ciuraru in the introduction to her strange new book at which point the reader pictures Véra Nabokov either licking Vladimirs stamps, or pulling the p… [+5501 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://www.catholicnewsagency.com/storage/image/gettyimages-1431216146.jpg?jpg",
       "PublishedAt": "2023-03-13T16:50:00Z",
       "Content": "I do think there is an anti-Christian bias in Hollywood. As soon as the David character in The Last of Usstarted reading from the Bible I knew that he was going to be a horrific villain. Could there … [+1013 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The New Republic"
-      },
-      "Author": "Tori Otten",
-      "Title": "The Power of Ke Huy Quan’s Oscar Win for “Everything, Everywhere” in a World of Growing Asylum Bans",
-      "Description": "Actor Ke Huy Quan highlighted his background as a refugee while accepting an Oscar for Everything Everywhere All at Once, even as the U.S. government moves to block people with similar backgrounds from entering the country.\r\nQuan won Best Supporting Actor Sun…",
-      "Url": "https://newrepublic.com/post/171111/ke-huy-quan-oscar-win-everything-everywhere-asylum-bans",
-      "UrlToImage": "https://images.newrepublic.com/4da516e8b52411173dc874ddb614090b6313ee65.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
-      "PublishedAt": "2023-03-13T16:40:21Z",
-      "Content": "The law grinds slowly. Politics, however, like Niagara Falls, never stops. So what are the politics of this? It likely has a marginally positive impact for Trump in a GOP presidential primary. It giv… [+935 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "statista.com",
-      "Title": "Asian Win in \"Best Actress\" Category a First",
-      "Description": "Michelle Yeoh's win in the Best Actress category marked a first for Asian representation at the Academy Awards, held Sunday night in Hollywood, Los Angeles. Yeoh, who is of Chinese descent and was born in Malaysia, was honored for her role in Everything Every…",
-      "Url": "https://biztoc.com/x/4c42d5d33ef0b3d3",
-      "UrlToImage": "https://c.biztoc.com/p/4c42d5d33ef0b3d3/og.webp",
-      "PublishedAt": "2023-03-13T16:26:20Z",
-      "Content": "Michelle Yeoh's win in the Best Actress category marked a first for Asian representation at the Academy Awards, held Sunday night in Hollywood, Los Angeles. Yeoh, who is of Chinese descent and was bo… [+329 chars]"
     }
   ]
 }
