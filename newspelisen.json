@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1045,
+  "TotalResults": 999,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "Mawunyo Gbogbo",
+      "Title": "Five Quentin Tarantino movies to watch ahead of final release",
+      "Description": "The writer-director — who also often appears in his own films — is making his 10th and final film, called The Movie Critic. So, here are five Tarantino movies to watch ahead of his final release and where to see them.",
+      "Url": "https://www.abc.net.au/news/2023-03-16/five-quentin-tarantino-movies-to-watch-ahead-of-final-release/102104048",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/37554a1759eb195f6a900c0d6622320d?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
+      "PublishedAt": "2023-03-16T00:13:47Z",
+      "Content": "Filmmaker Quentin Tarantino is done.\r\nWell, apparently. Artists have been known to retire and then make spectacular comebacks.\r\nBut the writer-director  who also often appears in his own films  is ge… [+2832 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -370,19 +383,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tudor Leonte",
-      "Title": "The Magician’s Elephant Netflix Release Date & Time",
-      "Description": "The Magician’s Elephant is hitting Netflix later this week. The upcoming animated movie is based on the book by two-time Newbery Award-winning author Kate DiCamillo. Here’s when to watch it. When to Watch The Magician’s Elephant Netflix will release The Magic…",
-      "Url": "https://www.comingsoon.net/movies/news/1273742-the-magicians-elephant-netflix-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/The-Magicians-Elephant-Netflix.jpg?resize=1200,630",
-      "PublishedAt": "2023-03-15T11:00:00Z",
-      "Content": "The Magicians Elephant is hitting Netflix later this week. \r\nThe upcoming animated movie is based on the book by two-time Newbery Award-winning author Kate DiCamillo. Heres when to watch it.\r\nNetflix… [+670 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "TheStranger.com"
       },
       "Author": "Megan Seling",
@@ -392,6 +392,19 @@
       "UrlToImage": "https://media2.fdncms.com/stranger/imager/u/large/78902476/filmlandia-credit-paul-hoppe.jpg",
       "PublishedAt": "2023-03-15T11:00:00Z",
       "Content": "To research his new book, Filmlandia: A Movie Lovers Guide to the Films and Television of Seattle, Portland, and the Great Northwest (out on Sasquatch April 18), author and former Stranger columnist … [+6099 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "The Magician’s Elephant Netflix Release Date & Time",
+      "Description": "The Magician’s Elephant is hitting Netflix later this week. The upcoming animated movie is based on the book by two-time Newbery Award-winning author Kate DiCamillo. Here’s when to watch it. When to Watch The Magician’s Elephant Netflix will release The Magic…",
+      "Url": "https://www.comingsoon.net/movies/news/1273742-the-magicians-elephant-netflix-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/The-Magicians-Elephant-Netflix.jpg?resize=1200,630",
+      "PublishedAt": "2023-03-15T11:00:00Z",
+      "Content": "The Magicians Elephant is hitting Netflix later this week. \r\nThe upcoming animated movie is based on the book by two-time Newbery Award-winning author Kate DiCamillo. Heres when to watch it.\r\nNetflix… [+670 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/Ted-Lassso-Season-3-Apple-TV.jpeg?resize=1200,630",
       "PublishedAt": "2023-03-14T10:00:00Z",
       "Content": "Ted Lasso Season 3 is premiering on Apple TV+ in a few hours.\r\nThe most-beloved American football coach is finally back for its third run on Apple TV+. Heres when to watch it. \r\nApple TV+ will releas… [+1714 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "Late actor Puneeth Rajkumar’s last film ‘Gandadha Gudi’ to be released on OTT on March 17",
-      "Description": "\"Gandadha Gudi,\" the last movie of the late Kannada actor Puneeth Rajkumar, will now be available digitally, four months after its theatrical release.",
-      "Url": "https://economictimes.indiatimes.com/news/new-updates/late-actor-puneeth-rajkumars-last-film-gandadha-gudi-to-be-released-on-ott-on-march-17/articleshow/98629821.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-98629814,width-1070,height-580,imgsize-8554,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-03-14T09:14:42Z",
-      "Content": "On Puneeth Rajkumar's 48th birth anniversary, the late actor's movie \"Gandadha Gudi,\" directed by Amoghavarsha, will be available for streaming on an OTT platform. The film showcases Puneeth Rajkumar… [+1837 chars]"
     }
   ]
 }
