@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "How to find and cancel your unused subscriptions",
+      "Description": "Paying a monthly fee for something you never use makes zero financial sense. But subscription overload is real, with dozens of streaming, gaming, dating and even hot-sauce delivery services lining up to take a monthly cut of your paycheck. While it’s tough to…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170596077",
+      "UrlToImage": null,
+      "PublishedAt": "2023-03-22T13:33:12Z",
+      "Content": "Paying a monthly fee for something you never use makes zero financial sense. But subscription overload is real, with dozens of streaming, gaming, dating and even hot-sauce delivery services lining up… [+14355 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
