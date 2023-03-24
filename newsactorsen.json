@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1178,
+  "TotalResults": 1179,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Cheryl Eddy",
+      "Title": "10 Horror Movies That Took Inspiration From True Crime",
+      "Description": "The Hills Have Eyes (1977)\r\nScreenshot: Vanguard\r\nReal life is so horrifying it’s no surprise it regularly inspires horror fiction. Different from thrillers that dramatize documented events (like Zodiac or any of the various Ted Bundy and Jeffrey Dahmer proje…",
+      "Url": "https://gizmodo.com/10-true-crime-inspired-horror-movies-texas-chainsaw-1850249869",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8af380428f821a6fc4814ff61c6aaa39.jpg",
+      "PublishedAt": "2023-03-23T19:00:00Z",
+      "Content": "The Amityville Horrorthat is, the true story told in the best-selling book, which in turn inspired the hit 1979 movieis a notorious paranormal hoax. But theres actual tragedy in its backstory, which … [+524 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2023/03/shazam-fury-gods.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2023-03-21T14:08:43Z",
       "Content": "The reviews for Shazam! Fury of the Gods are decidedly lackluster compared to the first film, reigniting an old argument around superhero movies: Do bad reviews really matter if the fans are happy?\r\n… [+2933 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Marianne Garvey",
-      "Title": "Zach Braff says former partner Florence Pugh inspired his new film",
-      "Description": "Zach Braff says his new movie, \"A Good Person,\" was heavily inspired by his ex-girlfriend, actress Florence Pugh.",
-      "Url": "https://www.cnn.com/2023/03/21/entertainment/zach-braff-florence-pugh-movie/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230321124323-braff-pugh-file-030823.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2023-03-21T13:51:37Z",
-      "Content": "Zach Braff says his new movie, A Good Person, was heavily inspired by his ex-girlfriend, actress Florence Pugh. \r\nIm just in awe of her talent and I said, I wanna write this for Florence. What Im wri… [+927 chars]"
     }
   ]
 }
