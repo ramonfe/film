@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "blogTO"
+      },
+      "Author": "Daily Hive",
+      "Title": "Netflix Canada tries to lure former subscribers with low price but people not impressed",
+      "Description": "Have you cancelled your Netflix subscription recently? If so, you're probably one of the many former subscribers who’ve received an email from the streaming platform.\r\nIf you chose to click on \"cancel membership,\" chances are Netflix has reached out to sugges…",
+      "Url": "https://www.blogto.com/tech/2023/03/netflix-canada-price-subscribers/",
+      "UrlToImage": "https://media.blogto.com/articles/20230321-Netflix.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70",
+      "PublishedAt": "2023-03-23T21:17:30Z",
+      "Content": "Have you cancelled your Netflix subscription recently? If so, you're probably one of the many former subscribers whove received an email from the streaming platform.\r\nIf you chose to click on \"cancel… [+1969 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.guim.co.uk/img/media/43f05e34d64e9f0ddba562f39427d08d26d5dada/0_136_3600_2160/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=3047010ff048f9d46b70dc874204add6",
       "PublishedAt": "2023-02-23T15:54:51Z",
       "Content": "In December, fans of the Netflix fantasy series Warrior Nun learned that their favourite show had been cancelled after just two seasons. They did not take the news quietly. Billboards appeared in New… [+4831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Mac Observer"
-      },
-      "Author": "Ken_Ray",
-      "Title": "Good, Not-So-Good and … Indifferent? Apple News",
-      "Description": "Morgan Stanley doubles down on Apple, Apple Watch drove smartwatches last year, and examining growth for Apple TV+. \n\n\n\nMorgan Stanley Makes AAPL 'Top Pick’ for 2023\n\n\n\nWondering which is the best hardware stock to buy for 2023? Well we’re talking about it he…",
-      "Url": "https://www.macobserver.com/columns-opinions/observation-deck/good-not-so-indifferent-apple-news/",
-      "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2022/10/Observation-Deck-Featured-Image-4.jpg",
-      "PublishedAt": "2023-02-23T14:45:00Z",
-      "Content": "Morgan Stanley doubles down on Apple, Apple Watch drove smartwatches last year, and examining growth for Apple TV+. \r\nMorgan Stanley Makes AAPL ‘Top Pick for 2023\r\nWondering which is the best hardwar… [+6363 chars]"
     }
   ]
 }
