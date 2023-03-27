@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Netflix strikes last-minute deal to retain ‘Arrested Development’ streaming rights",
+      "Description": "Good news, Arrested Development fans. You can continue watching the highly acclaimed sitcom on Netflix. As The Verge outlines, all five seasons of the show, including the two financed by Netflix, were set to leave the service on March 15th. However, the serie…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170622701",
+      "UrlToImage": null,
+      "PublishedAt": "2023-03-26T21:32:07Z",
+      "Content": "Good news, Arrested Development fans. You can continue watching the highly acclaimed sitcom on Netflix. As The Verge outlines, all five seasons of the show, including the two financed by Netflix, wer… [+1100 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Igor Bonifacic",
+      "Title": "Netflix strikes last-minute deal to retain ‘Arrested Development’ streaming rights",
+      "Description": "Good news, Arrested Development fans. You can continue watching the highly acclaimed sitcom on Netflix. As The Verge\r\n outlines\r\n, all five seasons of the show, including the two financed by Netflix, were set to leave the service on March 15th. However, the s…",
+      "Url": "https://www.engadget.com/netflix-strikes-last-minute-deal-to-retain-arrested-development-streaming-rights-210939960.html",
+      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/LMiZ7Go7tijllb68tOaUJQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/5a5a00d0-cc19-11ed-aff5-7d66457e2e35.cf.jpg",
+      "PublishedAt": "2023-03-26T21:09:39Z",
+      "Content": "Good news, Arrested Development fans. You can continue watching the highly acclaimed sitcom on Netflix. As The Verge\r\n outlines\r\n, all five seasons of the show, including the two financed by Netflix,… [+930 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,19 +1302,6 @@
       "UrlToImage": "https://www.slashfilm.com/img/gallery/netflixs-something-is-killing-the-children-everything-we-know-so-far/l-intro-1677178759.jpg",
       "PublishedAt": "2023-02-26T21:00:53Z",
       "Content": "Originally, Netflix lined up an adaptation of \"Something Is Killing The Children\" in 2021, with Mike Flanagan (\"Haunting of Hill House\") and Trevor Macy (\"Gerald's Game\"). However, they departed the … [+999 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (Associated Press)",
-      "Title": "The SAG Awards, Streaming Sunday, Oscar Bellwether?",
-      "Description": "Last year, the top winners at the Screen Actors Guild Awards all corresponded exactly with the Academy Awards winners. Will Sunday's SAGs offer the same preview?\n\n\nThe 29th annual Screen Actors Guild Awards will begin at 8 p.m. EST Sunday and be streamed live…",
-      "Url": "https://www.voanews.com/a/the-sag-awards-streaming-sunday-oscar-bellwether-/6979707.html",
-      "UrlToImage": "https://gdb.voanews.com/01000000-0aff-0242-f07e-08db181c3219_w1200_r1.jpg",
-      "PublishedAt": "2023-02-26T17:14:11Z",
-      "Content": "Last year, the top winners at the Screen Actors Guild Awards all corresponded exactly with the Academy Awards winners. Will Sunday's SAGs offer the same preview?\r\nThe 29th annual Screen Actors Guild … [+2582 chars]"
     }
   ]
 }
