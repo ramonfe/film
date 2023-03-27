@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1150,
+  "TotalResults": 1152,
   "Articles": [
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "Jonathan Majors: Creed III actor arrested on assault charges - BBC",
+      "Description": "<ol><li>Jonathan Majors: Creed III actor arrested on assault charges  BBC\r\n</li><li>'Creed' actor Jonathan Majors arrested in domestic dispute for strangulation, assault and harassment: police  Fox News\r\n</li><li>Jonathan Majors Arrested For Alleged Assault I…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC02NTA4MTg0N9IBK2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC02NTA4MTg0Ny5hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-03-26T14:21:28Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": "cbs-news",
+        "Name": "CBS News"
+      },
+      "Author": "CBS News",
+      "Title": "Owen Wilson on the Bob Ross-inspired \"Paint\"",
+      "Description": "Owen Wilson continues to carve out a varied movie career, as a charming romantic lead, action star, and comic scene-stealer. In his latest comedy, \"Paint,\" he plays a Bob Ross-like artist whose PBS painting show comes up against some unlikely competition. Tur…",
+      "Url": "https://www.cbsnews.com/video/owen-wilson-on-the-bob-ross-inspired-paint/",
+      "UrlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/26/57b9277c-2b2a-473d-93de-045349f38dbe/thumbnail/1200x630/144b6ca17c8ddb5055791a7ac32145ed/owenwilsoninpaint-1828398-640x360.jpg",
+      "PublishedAt": "2023-03-26T14:05:06Z",
+      "Content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-98949998,width-1070,height-580,imgsize-42272,overlay-economictimes/photo.jpg",
       "PublishedAt": "2023-03-23T17:04:51Z",
       "Content": "Preethi Kumar, best known for her role in the popular Tamil serial Vanathai Pola, has married popular film actor Kishore DS.Preethi Kumar posted a photo of her wedding reception. The couple was photo… [+1514 chars]"
-    },
-    {
-      "Source": {
-        "Id": "newsweek",
-        "Name": "Newsweek"
-      },
-      "Author": "Jamie Burton",
-      "Title": "Steve Coogan Goes to War With His Critics",
-      "Description": "The British comedian and actor spoke to Newsweek about his new movie \"The Lost King\" and how some academics had reacted to it like a \"scalded cat.\"",
-      "Url": "https://www.newsweek.com/steve-coogan-interview-lost-king-movie-war-critics-1789915",
-      "UrlToImage": "https://d.newsweek.com/en/full/2213252/steve-coogan-lost-king-premiere.jpg",
-      "PublishedAt": "2023-03-23T17:02:59Z",
-      "Content": "Steve Coogan's new comedy-drama movie The Lost King has ruffled feathers in British academia—and he's glad it did.\r\nComedian Coogan co-wrote and stars in the The Lost King, a true story of how an ord… [+5541 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cbs-news",
-        "Name": "CBS News"
-      },
-      "Author": "Caitlin O'Kane",
-      "Title": "Brandy and Paolo Montalban reprising \"Cinderella\" roles",
-      "Description": "Brandy became the first Black actress to play Cinderella in a movie, and 26 years later, she is reprising the iconic role alongside her prince.",
-      "Url": "https://www.cbsnews.com/news/brandy-paolo-montalban-cinderella-disney-descendants-reprising-roles/",
-      "UrlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/23/7fba92a1-4051-408b-bf9e-7cf4107ed2bb/thumbnail/1200x630/5ed3e499dd359e514e1525928b94a8ac/disney.jpg",
-      "PublishedAt": "2023-03-23T17:02:48Z",
-      "Content": "Trailer - \"The Little Mermaid\" \r\nTrailer - \"The Little Mermaid\"02:17\r\nBrandy became the first Black actress to play Cinderella in a movie. Twenty-six years later, she is reprising the iconic role. \r\n… [+2007 chars]"
     }
   ]
 }
