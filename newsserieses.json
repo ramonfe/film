@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1099,
+  "TotalResults": 1100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Alberto Olmos",
+      "Title": "'Fortuna', los bancos quiebran por tu bien",
+      "Description": "El escritor argentino Hernán Díaz es el autor de moda con su segunda novela, de la que HBO hará una serie",
+      "Url": "https://www.elconfidencial.com/cultura/2023-03-27/bancos-quiebran-por-tu-bien-lectura-fortuna-mala-fama_3598881/",
+      "UrlToImage": "https://images.ecestaticos.com/ynFXeYuCarY9shseXnGggMqVovs=/0x0:2272x1495/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/369/d91/af6/369d91af638a91b1cad418902313c56a.jpg",
+      "PublishedAt": "2023-03-27T03:00:00Z",
+      "Content": "Lo típico: nadie te conoce y escribes una novela ambiciosa y la publicas en Estados Unidos, la crítica la elige entre lo mejor del año, diversos popes te regalan unblurb, se traduce a más idiomas de … [+5561 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/3fb3e48d1415b1be26d25f52ed464a6e/resize/1200/f/jpg/assets/multimedia/imagenes/2023/03/23/16795812310552.jpg",
       "PublishedAt": "2023-03-23T14:23:38Z",
       "Content": "Tras el final de La Casa de Papel en 2021, Netflix anunció Berlín, spin-off encabezado por el personaje de Pedro Alonso. Él no será el único protagonista de la serie original que estará de vuelta, ya… [+1855 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Netflix lanza nuevo tráiler del reencuentro de los 'Power Rangers' originales, listo para el 30 aniversario del estreno",
-      "Description": "Netflix ha lanzado el nuevo tráiler de Mighty Morphin Power Rangers: Ayer, hoy y siempre, el especial de la mítica serie de los años noventa con parte de su reparto original de vuelta. El mediometraje se estrenará el próximo 19 de abril en la plataforma, y se…",
-      "Url": "https://vertele.eldiario.es/videos/trailers-y-avances/netflix-lanza-nuevo-trailer-reencuentro-power-rangers-originales-listo-30-aniversario-estreno_7_10060075.html",
-      "UrlToImage": "https://static.eldiario.es/clip/c7e8ab26-b6cc-483f-9f15-55c7d09f1760_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-03-23T14:10:20Z",
-      "Content": "Netflix ha lanzado el nuevo tráiler de Mighty Morphin Power Rangers: Ayer, hoy y siempre, el especial de la mítica serie de los años noventa con parte de su reparto original de vuelta. El mediometraj… [+1254 chars]"
     }
   ]
 }
