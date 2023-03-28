@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Coleman Spilde",
+      "Title": "What Will We All Do When ‘Succession’ Ends?",
+      "Description": "Photo Illustration by Luis G. Rendon/The Daily Beast/HBO/Netflix/Peacock/Hulu\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are roughly 47,0…",
+      "Url": "https://www.thedailybeast.com/obsessed/succession-final-season-what-will-hbo-do-when-it-ends",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679946465/032823-seeskip-hero_eyv3ql",
+      "PublishedAt": "2023-03-27T23:00:13Z",
+      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+5944 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Apple's Martin Scorsese movie hits theaters in October before its TV+ debut",
+      "Description": "Apple's long-expected Martin Scorsese movie has a release date — for theaters, that is. The company has revealed that Killers of the Flower Moon will get a wide theatrical release on October 20th following a \"limited\" run starting October 6th. The company has…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170630742",
+      "UrlToImage": null,
+      "PublishedAt": "2023-03-27T22:32:08Z",
+      "Content": "Apple's long-expected Martin Scorsese movie has a release date — for theaters, that is. The company has revealed that Killers of the Flower Moon will get a wide theatrical release on October 20th fol… [+1802 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
@@ -1276,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/3cd73931bdc9886d/og.webp",
       "PublishedAt": "2023-02-27T11:08:05Z",
       "Content": "Rewind for a moment to last June, when Major League Soccer and Apple TV first revealed they would be partnering together for the next decade in a revolutionary worldwide streaming partnership. And im… [+301 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (Associated Press)",
-      "Title": "'Everything Everywhere All at Once' Dominates at SAG Awards",
-      "Description": "The unlikely awards-season juggernaut “Everything Everywhere All at Once” marched on at the Screen Actors Guild Awards on Sunday, and even gathered stream with wins not just for best ensemble, Michelle Yeoh and Ke Huy Quan but also for Jamie Lee Curtis.\n\n\nThe…",
-      "Url": "https://www.voanews.com/a/everything-everywhere-all-at-once-dominates-at-sag-awards/6980276.html",
-      "UrlToImage": "https://gdb.voanews.com/6a370b4f-0157-4a13-baef-b0879e06f2cd_cx0_cy8_cw0_w1200_r1.jpg",
-      "PublishedAt": "2023-02-27T05:14:19Z",
-      "Content": "The unlikely awards-season juggernaut Everything Everywhere All at Once marched on at the Screen Actors Guild Awards on Sunday, and even gathered stream with wins not just for best ensemble, Michelle… [+5924 chars]"
     }
   ]
 }
