@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1008,
+  "TotalResults": 1009,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Queta Lavat: De comer pan dulce con Pedro Infante y Jorge Negrete a hacer recetas en Tik Tok",
+      "Description": "Queta Lavat, actriz de la Época de Oro del cine mexicano, es de las pocas sobrevivientes del elenco ‘Dos tipos de cuidado’ y ahora triunfa en Tik Tok con sus recetas.",
+      "Url": "https://www.elfinanciero.com.mx/food-and-drink/2023/03/29/queta-lavat-actriz-de-la-epoca-de-oro-del-cine-hace-recetas-en-tik-tok/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v9NT9mq1CjjilBOSWj2KJSBFoYs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3M2EPPAKCNB2ZFWWWZENBJ45FE.jpeg",
+      "PublishedAt": "2023-03-30T01:14:56Z",
+      "Content": "Queta Lavat actuó con Pedro Infante y Jorge Negrete, hoy comparte recetas en Tik Tok. (Fotoarte: Andrea López Trejo | El Financiero)."
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2023/03/26/642017b5e47ef.jpeg",
       "PublishedAt": "2023-03-26T10:09:00Z",
       "Content": "El actor Omar Ayuso, conocido por su papel de Omar Shanaa en la serie de Netflix Élite, ha sido bastante claro a la hora de responder a una pregunta en la entrevista que ha ofrecido a El Español sobr… [+1596 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "FormulaTV",
-      "Title": "Fernando Tejero: \"Empezamos ya el rodaje de la temporada 14 de 'LQSA' pero solo vamos a grabar 4 capítulos\"",
-      "Description": "ENTREVISTA El actor nos da los primeros detalles de su personaje en 'Los Farad', la serie cuyo rodaje acaba de finalizar.Fernando Tejero: \"Empezamos ya el rodaje de la temporada 14 de 'LQSA' pero solo vamos a grabar 4 capítulos\"",
-      "Url": "https://www.formulatv.com/videos/fernando-tejero-rodaje-la-que-se-avecina-capitulos-26483/",
-      "UrlToImage": "https://www.formulatv.com/images/videos/26000/26483_o8WUHE57gx-t.jpg",
-      "PublishedAt": "2023-03-26T09:35:55Z",
-      "Content": "Fernando Tejero acaba de finalizar el rodaje de 'Los Farad' donde ha dado vida a un personaje que le ha removido mucho por dentro. Ahora, necesita cambiar de aires, por lo que ha apostado por un camb… [+1065 chars]"
     }
   ]
 }
