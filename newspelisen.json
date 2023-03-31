@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1169,
+  "TotalResults": 1172,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "‘Scott Pilgrim’ is coming back as a cartoon with the film’s entire cast",
+      "Description": "Rumors of an animated Scott Pilgrim show have been swirling around for years, though Netflix officially confirmed those rumors last year by announcing it was working on something. More details just dropped, however, and not only is the Scott Pilgrim anime a r…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170654504",
+      "UrlToImage": null,
+      "PublishedAt": "2023-03-30T17:52:05Z",
+      "Content": "Rumors of an animated Scott Pilgrim show have been swirling around for years, though Netflix officially confirmed those rumors last year by announcing it was working on something. More details just d… [+1965 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Lawrence Bonk",
+      "Title": "‘Scott Pilgrim’ is coming back as a cartoon with the film’s entire cast",
+      "Description": "Rumors of an animated Scott Pilgrim show have been swirling around for years, though Netflix officially confirmed those rumors\r\n last year by announcing it was working on something. More details just dropped, however, and not only is the Scott Pilgrim anime a…",
+      "Url": "https://www.engadget.com/scott-pilgrim-is-coming-back-as-a-cartoon-with-the-films-entire-cast-174540102.html",
+      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/kwUbVfZPj2OnEWfuW2YGqQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/10e0c6f0-cf16-11ed-94cb-7b56f60ace10.cf.jpg",
+      "PublishedAt": "2023-03-30T17:45:40Z",
+      "Content": "Rumors of an animated Scott Pilgrim show have been swirling around for years, though Netflix officially confirmed those rumors\r\n last year by announcing it was working on something. More details just… [+1791 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "blogTO"
+      },
+      "Author": "Sabrina Gamrot",
+      "Title": "Iconic Toronto movie Scott Pilgrim gets anime remake with original cast on Netflix",
+      "Description": "Perhaps one of the best movies showcasing Toronto, Scott Pilgrim vs The World, is officially returning with the original cast members from the 2010 cult film.\r\nThat's right, a new animated series of Scott Pilgrim , which of course, is based on the Scott Pilgr…",
+      "Url": "https://www.blogto.com/film/2023/03/toronto-new-scott-pilgrim-anime-netflix/",
+      "UrlToImage": "https://media.blogto.com/articles/20230330-scott-pilgrim-remake.jpeg?w=1200&cmd=resize_then_crop&height=630&quality=70",
+      "PublishedAt": "2023-03-30T17:06:19Z",
+      "Content": "Perhaps one of the best movies showcasing Toronto, Scott Pilgrim vs The World, is officially returning with the original cast members from the 2010 cult film.\r\nThat's right, a new animated series of … [+2911 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -110,19 +149,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Crater: Disney+ Sets Date for Coming-of-Age Sci-Fi Movie",
-      "Description": "Disney+ has finally announced the release date for Crater, its upcoming sci-fi adventure movie which will star Ghostbusters: Afterlife actress Mckenna Grace. The coming-of-age film will be available for streaming on May 12, exclusively on Disney+. Crater tell…",
-      "Url": "http://www.comingsoon.net/movies/news/1277641-crater-disney-sets-date-coming-of-age-sci-fi-movie",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/crater-e1680118092933.jpg?resize=1200,630",
-      "PublishedAt": "2023-03-30T14:30:00Z",
-      "Content": "Disney+ has finally announced the release date for Crater, its upcoming sci-fi adventure movie which will star Ghostbusters: Afterlife actress Mckenna Grace. The coming-of-age film will be available … [+1333 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "GeekTyrant"
       },
       "Author": "Joey Paur",
@@ -132,6 +158,19 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6424afe04acfa73a1c1a39a1/1680186631228/Fsajds6WAAIBS2m.jpg?format=1500w",
       "PublishedAt": "2023-03-30T14:30:00Z",
       "Content": "A couple of years ago we learned that Adult Swim was going to produce a movie for The Venture Bros. There hasnt been much information on that project since it was announced, but all of a sudden a rep… [+1328 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "Crater: Disney+ Sets Date for Coming-of-Age Sci-Fi Movie",
+      "Description": "Disney+ has finally announced the release date for Crater, its upcoming sci-fi adventure movie which will star Ghostbusters: Afterlife actress Mckenna Grace. The coming-of-age film will be available for streaming on May 12, exclusively on Disney+. Crater tell…",
+      "Url": "http://www.comingsoon.net/movies/news/1277641-crater-disney-sets-date-coming-of-age-sci-fi-movie",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/crater-e1680118092933.jpg?resize=1200,630",
+      "PublishedAt": "2023-03-30T14:30:00Z",
+      "Content": "Disney+ has finally announced the release date for Crater, its upcoming sci-fi adventure movie which will star Ghostbusters: Afterlife actress Mckenna Grace. The coming-of-age film will be available … [+1333 chars]"
     },
     {
       "Source": {
@@ -892,19 +931,6 @@
         "Id": null,
         "Name": "ComingSoon.net"
       },
-      "Author": "Michael Leri",
-      "Title": "Gripper Launch Trailer Showcases New Cyberpunk Shooter Inspired by Akira",
-      "Description": "After many years of development, Heart Core’s Akira-inspired boss rush shooter Gripper is finally out. This PC and Nintendo Switch title is out now on both platforms for $19.99 and has gotten its own launch trailer. Some of the clips in this trailer are simil…",
-      "Url": "http://www.comingsoon.net/games/news/1277263-gripper-launch-trailer-cyberpunk-boss-rush-shooter",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/gripper.jpg?resize=1200,630",
-      "PublishedAt": "2023-03-29T12:00:00Z",
-      "Content": "After many years of development, Heart Cores Akira-inspired boss rush shooter Gripper is finally out. This PC and Nintendo Switch title is out now on both platforms for $19.99 and has gotten its own … [+1012 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
       "Author": "Tudor Leonte",
       "Title": "Kill Boksoon Netflix Release Date & Time",
       "Description": "Kill Boksoon starring Cannes-winning actress Jeon Do-yeon is finally coming to Netflix. A much-anticipated action comedy about a woman working as a killer for hire is premiering this week. Here’s when to watch it. When to Watch Kill Boksoon on Netflix Netflix…",
@@ -912,6 +938,19 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/Kill-Boksoon-Netflix.jpg?resize=1200,630",
       "PublishedAt": "2023-03-29T12:00:00Z",
       "Content": "Kill Boksoon starring Cannes-winning actress Jeon Do-yeon is finally coming to Netflix.\r\nA much-anticipated action comedy about a woman working as a killer for hire is premiering this week. Heres whe… [+1217 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Michael Leri",
+      "Title": "Gripper Launch Trailer Showcases New Cyberpunk Shooter Inspired by Akira",
+      "Description": "After many years of development, Heart Core’s Akira-inspired boss rush shooter Gripper is finally out. This PC and Nintendo Switch title is out now on both platforms for $19.99 and has gotten its own launch trailer. Some of the clips in this trailer are simil…",
+      "Url": "http://www.comingsoon.net/games/news/1277263-gripper-launch-trailer-cyberpunk-boss-rush-shooter",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/gripper.jpg?resize=1200,630",
+      "PublishedAt": "2023-03-29T12:00:00Z",
+      "Content": "After many years of development, Heart Cores Akira-inspired boss rush shooter Gripper is finally out. This PC and Nintendo Switch title is out now on both platforms for $19.99 and has gotten its own … [+1012 chars]"
     },
     {
       "Source": {
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://gonintendo.com/attachments/image/25612/file/medium-61ffcf1326ba70331b045f429eae5160.webp",
       "PublishedAt": "2023-03-28T19:11:00Z",
       "Content": "The Super Mario Bros. movie is coming to theaters on April 5th, 2023, but what about those who want to watch from the comfort of their own home? While we dont know the streaming date just yet, we do … [+545 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "mfox@businessinsider.com (Matthew Fox)",
-      "Title": "AMC surges 18% on report that Amazon may be interested in buying the movie theater chain",
-      "Description": "A potential acquisition would end a tumultuous period for AMC, which has been on a rollercoaster ride since becoming a meme stock in 2020.",
-      "Url": "https://markets.businessinsider.com/news/stocks/amc-stock-price-amazon-considering-buy-movie-theater-chain-report-2023-3",
-      "UrlToImage": "https://i.insider.com/6423338a2664fd0019770676?width=1200&format=jpeg",
-      "PublishedAt": "2023-03-28T19:02:17Z",
-      "Content": "AMC Entertainment soared as much as 18% on Tuesday after a report from The Intersect said that Amazon is considering an acquisition of the struggling movie theater chain.\r\nShares of AMC Entertainment… [+1781 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MarketWatch"
-      },
-      "Author": "James Rogers",
-      "Title": ": AMC jumps after report of possible Amazon interest",
-      "Description": "AMC Entertainment Holdings Inc.’s AMC stock jumped 15.6% Tuesday after the Intersect reported that Amazon.com Inc. AMZN is weighing an acquisition of the movie theater chain and meme stock darling. Citing multiple sources close to the discussions, the Interse…",
-      "Url": "https://www.marketwatch.com/story/amc-jumps-after-report-of-possible-amazon-interest-bac4fb65",
-      "UrlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-      "PublishedAt": "2023-03-28T18:41:12Z",
-      "Content": "AMC Entertainment Holdings Inc.s \r\n AMC,\r\n +12.75%\r\nstock jumped 15.6% Tuesday after the Intersect reported that Amazon.com Inc. \r\n AMZN,\r\n -1.24%\r\nis weighing an acquisition of the movie theater cha… [+608 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Noelle Devoe",
-      "Title": "The Sad Reason Wes Anderson's Latest Movie Won't Feature Frequent Collaborator Bill Murray",
-      "Description": "Image Source: Getty / Stephane Cardinale - Corbis\nDirector Wes Anderson is known for his colorful and quirky comedies starring an endless rotation of his A-list actor friends, from Bill Murray (who starred in \"The Royal Tenenbaums,\" \"Rushmore,\" \"The Grand Bud…",
-      "Url": "https://www.popsugar.com/entertainment/astroid-city-49129157",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/GztnIMBbj8WSzJ0sCFecDx4tfKo/15x43:4920x2618/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/03/28/773/n/1922283/63ef8ca0642324ea1308a5.13381581_.jpg",
-      "PublishedAt": "2023-03-28T18:10:03Z",
-      "Content": "Image Source: Getty / Stephane Cardinale - Corbis\r\nDirector Wes Anderson is known for his colorful and quirky comedies starring an endless rotation of his A-list actor friends, from Bill Murray (who … [+2024 chars]"
     }
   ]
 }
