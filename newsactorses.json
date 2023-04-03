@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1001,
+  "TotalResults": 1002,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Elia Barceló",
+      "Title": "Si quieres, puedes",
+      "Description": "Entre los muchos consejos de vida que nos han llegado de Estados Unidos a través de las revistas y los libros de autoayuda, uno de los más dañinos, a mi entender, ha sido el que da título a este artículo, ese “si quieres, puedes” que ha destrozado y sigue des…",
+      "Url": "https://www.eldiario.es/opinion/zona-critica/si-quieres-puedes_129_10090891.html",
+      "UrlToImage": "https://static.eldiario.es/clip/5b570887-afb3-4181-be51-6aa60a2f2175_facebook-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-04-02T21:18:06Z",
+      "Content": "Entre los muchos consejos de vida que nos han llegado de Estados Unidos a través de las revistas y los libros de autoayuda, uno de los más dañinos, a mi entender, ha sido el que da título a este artí… [+389 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -87,9 +100,9 @@
         "Name": "Levelup.com"
       },
       "Author": "Mardokeo Galván",
-      "Title": "Jamie Lee Curtis reitera su deseo de aparecer en serie de One Piece y se lo pide a Netflix",
+      "Title": "Jamie Lee Curtis reitera su deseo de estar en serie de One Piece y se lo pide a Netflix",
       "Description": "Las adaptaciones de videojuegos y anime ya suelen hacerse correctamente y una en torno a la cual hay mucha expectativa es la serie de One Piece de Netflix. Cuando se reveló el elenco principal de este proyecto hubo una buena recepción, pero hay una actriz que…",
-      "Url": "https://www.levelup.com/noticias/731313/Jamie-Lee-Curtis-reitera-su-deseo-de-aparecer-en-serie-de-One-Piece-y-se-lo-pide-a-Netflix",
+      "Url": "https://www.levelup.com/noticias/731313/Jamie-Lee-Curtis-reitera-su-deseo-de-estar-en-serie-de-One-Piece-y-se-lo-pide-a-Netflix",
       "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/790994/790994_600x315.jpg",
       "PublishedAt": "2023-04-02T01:00:00Z",
       "Content": "Las adaptaciones de videojuegos y anime ya suelen hacerse correctamente y una en torno a la cual hay mucha expectativa es la serie de One Piece de Netflix. Cuando se reveló el elenco principal de est… [+2931 chars]"
@@ -100,9 +113,9 @@
         "Name": "Levelup.com"
       },
       "Author": "Mardokeo Galván",
-      "Title": "Jamie Lee Curtis reitera su deseo de estar en serie de One Piece y se lo pide a Netflix",
+      "Title": "Jamie Lee Curtis reitera su deseo de aparecer en serie de One Piece y se lo pide a Netflix",
       "Description": "Las adaptaciones de videojuegos y anime ya suelen hacerse correctamente y una en torno a la cual hay mucha expectativa es la serie de One Piece de Netflix. Cuando se reveló el elenco principal de este proyecto hubo una buena recepción, pero hay una actriz que…",
-      "Url": "https://www.levelup.com/noticias/731313/Jamie-Lee-Curtis-reitera-su-deseo-de-estar-en-serie-de-One-Piece-y-se-lo-pide-a-Netflix",
+      "Url": "https://www.levelup.com/noticias/731313/Jamie-Lee-Curtis-reitera-su-deseo-de-aparecer-en-serie-de-One-Piece-y-se-lo-pide-a-Netflix",
       "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/790994/790994_600x315.jpg",
       "PublishedAt": "2023-04-02T01:00:00Z",
       "Content": "Las adaptaciones de videojuegos y anime ya suelen hacerse correctamente y una en torno a la cual hay mucha expectativa es la serie de One Piece de Netflix. Cuando se reveló el elenco principal de est… [+2931 chars]"
@@ -398,19 +411,6 @@
         "Id": null,
         "Name": "Eldiario.es"
       },
-      "Author": "Pablo Caruana Húder",
-      "Title": "El sistema de asesores para seleccionar los finalistas de los premios Talía compromete su independencia",
-      "Description": "La Academia de las Artes Escénicas, impulsora de los nuevos premios Talía, que buscan ser el equivalente a los Goya en las artes escénicas, ha dado a conocer este jueves la composición de los grupos de trabajo que han funcionado como jurados para seleccionar …",
-      "Url": "https://www.eldiario.es/cultura/teatro/sistema-asesores-seleccionar-finalistas-premios-talia-compromete-independencia_1_10083408.html",
-      "UrlToImage": "https://static.eldiario.es/clip/fc54772e-0534-47ce-8aa4-beaaeb29a2cb_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-03-31T20:02:13Z",
-      "Content": "La Academia de las Artes Escénicas, impulsora de los nuevos premios Talía, que buscan ser el equivalente a los Goya en las artes escénicas, ha dado a conocer este jueves la composición de los grupos … [+131 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
       "Author": "Laura García Higueras",
       "Title": "Valeria Vegas: \"Una persona mayor no tiene por qué estar calladita en casa sin exhibirse ni presumir\"",
       "Description": "Esther lleva muchos años ganándose la vida limpiando en grandes superficies, incluidos un tanatorio y un aeropuerto. Tras finalizar su último contrato, desde la oficina de trabajo temporal le sorprenden con la vacante a la que podría incorporarse de forma más…",
@@ -418,6 +418,19 @@
       "UrlToImage": "https://static.eldiario.es/clip/d911c545-dba6-4273-b334-3bd9563b911e_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-03-31T20:02:13Z",
       "Content": "Esther lleva muchos años ganándose la vida limpiando en grandes superficies, incluidos un tanatorio y un aeropuerto. Tras finalizar su último contrato, desde la oficina de trabajo temporal le sorpren… [+360 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Pablo Caruana Húder",
+      "Title": "El sistema de asesores para seleccionar los finalistas de los premios Talía compromete su independencia",
+      "Description": "La Academia de las Artes Escénicas, impulsora de los nuevos premios Talía, que buscan ser el equivalente a los Goya en las artes escénicas, ha dado a conocer este jueves la composición de los grupos de trabajo que han funcionado como jurados para seleccionar …",
+      "Url": "https://www.eldiario.es/cultura/teatro/sistema-asesores-seleccionar-finalistas-premios-talia-compromete-independencia_1_10083408.html",
+      "UrlToImage": "https://static.eldiario.es/clip/fc54772e-0534-47ce-8aa4-beaaeb29a2cb_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-03-31T20:02:13Z",
+      "Content": "La Academia de las Artes Escénicas, impulsora de los nuevos premios Talía, que buscan ser el equivalente a los Goya en las artes escénicas, ha dado a conocer este jueves la composición de los grupos … [+131 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.vandal.net/i/ivandal/1200x630/3-2023/202333012253663_1.jpg",
       "PublishedAt": "2023-03-30T10:40:00Z",
       "Content": "Las escenas poscrditos llevan aos siendo un gancho en las superproducciones de Hollywood para que los espectadores se queden en la sala de cine hasta el final de la proyeccin y puedan descubrir qu fu… [+1587 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "Muere a los 48 años Laura Gómez-Lacueva, actriz conocida por 'La que se avecina' y 'El pueblo'",
-      "Description": "La actriz aragonesa Laura Gómez-Lacueva ha fallecido este jueves a los 48 años de edad según han informado varios medios aragoneses, prominentemente Aragón TV, cadena en la que ha trabajado durante años. La causa de la muerte parece ser el cáncer con el que l…",
-      "Url": "https://www.espinof.com/actores-y-actrices/muere-a-48-anos-laura-gomez-lacueva-actriz-conocida-que-se-avecina-pueblo",
-      "UrlToImage": "https://i.blogs.es/45911a/laura-gomez-lacueva-6425489ed6fed/840_560.jpeg",
-      "PublishedAt": "2023-03-30T10:39:52Z",
-      "Content": "La actriz aragonesa Laura Gómez-Lacueva ha fallecido este jueves a los 48 años de edad según han informado varios medios aragoneses, prominentemente Aragón TV, cadena en la que ha trabajado durante a… [+1094 chars]"
     }
   ]
 }
