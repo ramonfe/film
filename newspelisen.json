@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1114,
+  "TotalResults": 1115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'Dungeons & Dragons' Opens With $38.5M, Takes Down John Wick",
+      "Description": "Riding terrific reviews and a strong word-of-mouth, the role-playing game adaptation “Dungeons & Dragons: Honor Among Thieves\" opened with $38.5 million in U.S. and Canadian movie theaters over the weekend, according to studio estimates Sunday, stealing the t…",
+      "Url": "https://www.voanews.com/a/dungeons-dragons-opens-with-38-5m-takes-down-john-wick/7033452.html",
+      "UrlToImage": "https://gdb.voanews.com/9d83d254-8efe-43d2-9c01-f4c9b28bf673_cx9_cy0_cw77_w1200_r1.jpg",
+      "PublishedAt": "2023-04-03T00:38:53Z",
+      "Content": "New York  Riding terrific reviews and a strong word-of-mouth, the role-playing game adaptation Dungeons &amp; Dragons: Honor Among Thieves\" opened with $38.5 million in U.S. and Canadian movie theate… [+3810 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/crater-e1680118092933.jpg?resize=1200,630",
       "PublishedAt": "2023-03-30T14:30:00Z",
       "Content": "Disney+ has finally announced the release date for Crater, its upcoming sci-fi adventure movie which will star Ghostbusters: Afterlife actress Mckenna Grace. The coming-of-age film will be available … [+1333 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "KOCO Oklahoma City"
-      },
-      "Author": "Jonathan Greco",
-      "Title": "Historic Oklahoma drive-in movie theater set to reopen in April",
-      "Description": "Historic Oklahoma drive-in movie theater set to reopen in Aprilkoco.com",
-      "Url": "https://www.koco.com/article/oklahoma-sapulpa-tee-pee-drive-in-movie-theater/43465771",
-      "UrlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/tee-pee-drive-in-1680182245.png?crop=0.995xw:1.00xh;0.00326xw,0&resize=1200:*",
-      "PublishedAt": "2023-03-30T14:03:46Z",
-      "Content": "SAPULPA, Okla. —A piece of Oklahoma history is set to roar back to life in April.\r\nThe Tee Pee Drive-In movie theater first opened in the 1950s and shut down in 1999.\r\nClick here for the top headline… [+439 chars]"
     }
   ]
 }
