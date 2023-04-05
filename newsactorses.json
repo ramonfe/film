@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1001,
+  "TotalResults": 1002,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Fue estrella de una serie infantil y hoy habla de los abusos que sufrió: “Me alegra que mi madre haya muerto”",
+      "Description": "En su libro de memorias, la famosa actriz Jennette McCurdy, de iCarly, reveló los momentos más escabrosos de su carrera y su difícil relación con su progenitora",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/fue-estrella-de-una-serie-infantil-y-hoy-habla-de-los-abusos-que-sufrio-me-alegra-que-mi-madre-haya-nid04042023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/ffewkKUnxRA3cqGyFPBGz8B4qxs=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/ESOVBDCM6ZH65NAXZ4TQH2ZJQU.JPG",
+      "PublishedAt": "2023-04-04T18:25:12Z",
+      "Content": "Jennette McCurdy es una de las actrices infantiles más reconocidas por sus papeles en series de Nickelodeon.Sin embargo, aunque muchos de sus fans disfrutaron de su interpretación de Sam Puckett en i… [+3794 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.eluniversal.com.co/binrepository/915x686/115c0/800d686/none/13704/LOKH/trump-stormy_7591485_20230331093049.jpg",
       "PublishedAt": "2023-03-31T14:15:00Z",
       "Content": "Steffanie Clifford conocida en el mundo del cine para adultos como Stormy Daniels, es uno de los pilares centrales del caso por el que un jurado investigador acusó al expresidente de los Estados Unid… [+2868 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "AFP",
-      "Title": "Trump comparecerá ante la justicia, un caso inédito para un presidente de EEUU",
-      "Description": "Donald Trump fue inculpado por un caso de compra de silencio de una estrella porno en 2016 y está previsto que comparezca el próximo martes ante la justicia penal de Nueva York, un hecho sin precedentes para un expresidente estadounidense, que denunció el jue…",
-      "Url": "https://es-us.noticias.yahoo.com/trump-comparecer%C3%A1-justicia-caso-in%C3%A9dito-135741313.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/m6L.9krTzGGJeOh9oJxDvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/hd/cp-video-transcode/production/c33436b6-a289-3335-829e-d15e8ad4b82a/2023-03-31/14-10-36/ccea61f4-1780-5718-b6c1-5e60fa13d6de/stream_1280x720x0_v2_3_0.jpg",
-      "PublishedAt": "2023-03-31T13:57:41Z",
-      "Content": "Donald Trump fue inculpado por un caso de compra de silencio de una estrella porno en 2016 y está previsto que comparezca el próximo martes ante la justicia penal de Nueva York, un hecho sin preceden… [+5323 chars]"
     }
   ]
 }
