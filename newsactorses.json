@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1002,
+  "TotalResults": 1003,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Europapress.es"
+      },
+      "Author": null,
+      "Title": "El expresidente Donald Trump se declara inocente de 34 cargos por el caso Stormy Daniels",
+      "Description": "El expresidente Donald Trump se ha declarado inocente este martes de un total de 34 cargos penales en un tribunal de Manhattan por el caso de presunto soborno a la actriz de cine porno Stephanie Clifford, conocida como Stormy Daniels.",
+      "Url": "https://www.europapress.es/internacional/noticia-expresidente-donald-trump-declara-inocente-34-cargos-caso-stormy-daniels-20230404210809.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230404210809_1200_v2.jpg",
+      "PublishedAt": "2023-04-04T19:08:09Z",
+      "Content": "MADRID, 4 Abr. (EUROPA PRESS) - \r\n El expresidente Donald Trump se ha declarado inocente este martes de un total de 34 cargos penales en un tribunal de Manhattan por el caso de presunto soborno a la … [+1289 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/981a98/el-poder/840_560.jpeg",
       "PublishedAt": "2023-03-31T15:45:14Z",
       "Content": "En Amazon saben que la ciencia ficción es un filón que puede darles muchas alegrías. 'The Peripheral' ya se convirtió en su momento en la serie que arrebató el número 1 en Prime Video a 'El señor de … [+1852 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eluniversal.com.co"
-      },
-      "Author": "",
-      "Title": "Stormy Daniels: la actriz porno que logró que imputaran a Trump",
-      "Description": "Steffanie Clifford conocida en el mundo del cine para adultos como Stormy Daniels, es uno de los pilares centrales del caso por el que un jurado investigador acusó al expresidente de los Estados Unidos, Donald Trump.",
-      "Url": "https://www.eluniversal.com.co/mundo/stormy-daniels-la-actriz-porno-que-logro-que-imputaran-a-trump-YY8098166",
-      "UrlToImage": "https://www.eluniversal.com.co/binrepository/915x686/115c0/800d686/none/13704/LOKH/trump-stormy_7591485_20230331093049.jpg",
-      "PublishedAt": "2023-03-31T14:15:00Z",
-      "Content": "Steffanie Clifford conocida en el mundo del cine para adultos como Stormy Daniels, es uno de los pilares centrales del caso por el que un jurado investigador acusó al expresidente de los Estados Unid… [+2868 chars]"
     }
   ]
 }
