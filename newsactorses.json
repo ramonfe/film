@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1003,
+  "TotalResults": 1004,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Yurguin Zuñiga Pineda",
+      "Title": "HBO Max estrena ‘Love and Death’ con Elizabeth Olsen: Aquí la fecha de estreno, sinopsis y más",
+      "Description": "Elizabeth Olsen, actriz que le da vida a la Bruja Escarlata de Marvel, se mete en la piel de una asesina en la serie 'Love and Death', que llega en abril a HBO Max.",
+      "Url": "https://www.nacion.com/teleguia/hbo-max-estrena-love-and-death-con-elizabeth-olsen/NQ5CUFP3XVGTZFJVYCFQTVJ6BQ/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/Xkqs0R4Avy6sQyfyWWfIxzPOvp8=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/IG4IJ6UXPJFI3EJQ3GO67UUBUI.jpg",
+      "PublishedAt": "2023-04-04T01:21:41Z",
+      "Content": "Elizabeth Olsen vuelve a la televisión este 27 de abril con el personaje de Candy Montgomery en Love and Death, serie de HBO Max que enganchará a más de uno este 2023. \r\nOlsen se aleja de La Bruja Es… [+2663 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -516,9 +529,9 @@
         "Name": "Levelup.com"
       },
       "Author": "Mardokeo Galván",
-      "Title": "Jamie Lee Curtis reitera su deseo de estar en serie de One Piece y se lo pide a Netflix",
+      "Title": "Jamie Lee Curtis reitera su deseo de aparecer en serie de One Piece y se lo pide a Netflix",
       "Description": "Las adaptaciones de videojuegos y anime ya suelen hacerse correctamente y una en torno a la cual hay mucha expectativa es la serie de One Piece de Netflix. Cuando se reveló el elenco principal de este proyecto hubo una buena recepción, pero hay una actriz que…",
-      "Url": "https://www.levelup.com/noticias/731313/Jamie-Lee-Curtis-reitera-su-deseo-de-estar-en-serie-de-One-Piece-y-se-lo-pide-a-Netflix",
+      "Url": "https://www.levelup.com/noticias/731313/Jamie-Lee-Curtis-reitera-su-deseo-de-aparecer-en-serie-de-One-Piece-y-se-lo-pide-a-Netflix",
       "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/790994/790994_600x315.jpg",
       "PublishedAt": "2023-04-02T01:00:00Z",
       "Content": "Las adaptaciones de videojuegos y anime ya suelen hacerse correctamente y una en torno a la cual hay mucha expectativa es la serie de One Piece de Netflix. Cuando se reveló el elenco principal de est… [+2931 chars]"
@@ -529,9 +542,9 @@
         "Name": "Levelup.com"
       },
       "Author": "Mardokeo Galván",
-      "Title": "Jamie Lee Curtis reitera su deseo de aparecer en serie de One Piece y se lo pide a Netflix",
+      "Title": "Jamie Lee Curtis reitera su deseo de estar en serie de One Piece y se lo pide a Netflix",
       "Description": "Las adaptaciones de videojuegos y anime ya suelen hacerse correctamente y una en torno a la cual hay mucha expectativa es la serie de One Piece de Netflix. Cuando se reveló el elenco principal de este proyecto hubo una buena recepción, pero hay una actriz que…",
-      "Url": "https://www.levelup.com/noticias/731313/Jamie-Lee-Curtis-reitera-su-deseo-de-aparecer-en-serie-de-One-Piece-y-se-lo-pide-a-Netflix",
+      "Url": "https://www.levelup.com/noticias/731313/Jamie-Lee-Curtis-reitera-su-deseo-de-estar-en-serie-de-One-Piece-y-se-lo-pide-a-Netflix",
       "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/790994/790994_600x315.jpg",
       "PublishedAt": "2023-04-02T01:00:00Z",
       "Content": "Las adaptaciones de videojuegos y anime ya suelen hacerse correctamente y una en torno a la cual hay mucha expectativa es la serie de One Piece de Netflix. Cuando se reveló el elenco principal de est… [+2931 chars]"
@@ -827,19 +840,6 @@
         "Id": null,
         "Name": "Eldiario.es"
       },
-      "Author": "Laura García Higueras",
-      "Title": "Valeria Vegas: \"Una persona mayor no tiene por qué estar calladita en casa sin exhibirse ni presumir\"",
-      "Description": "Esther lleva muchos años ganándose la vida limpiando en grandes superficies, incluidos un tanatorio y un aeropuerto. Tras finalizar su último contrato, desde la oficina de trabajo temporal le sorprenden con la vacante a la que podría incorporarse de forma más…",
-      "Url": "https://www.eldiario.es/cultura/libros/valeria-vegas-persona-mayor-no-calladita-casa-exhibirse-presumir_1_10085807.html",
-      "UrlToImage": "https://static.eldiario.es/clip/d911c545-dba6-4273-b334-3bd9563b911e_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-03-31T20:02:13Z",
-      "Content": "Esther lleva muchos años ganándose la vida limpiando en grandes superficies, incluidos un tanatorio y un aeropuerto. Tras finalizar su último contrato, desde la oficina de trabajo temporal le sorpren… [+360 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
       "Author": "Pablo Caruana Húder",
       "Title": "El sistema de asesores para seleccionar los finalistas de los premios Talía compromete su independencia",
       "Description": "La Academia de las Artes Escénicas, impulsora de los nuevos premios Talía, que buscan ser el equivalente a los Goya en las artes escénicas, ha dado a conocer este jueves la composición de los grupos de trabajo que han funcionado como jurados para seleccionar …",
@@ -847,6 +847,19 @@
       "UrlToImage": "https://static.eldiario.es/clip/fc54772e-0534-47ce-8aa4-beaaeb29a2cb_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-03-31T20:02:13Z",
       "Content": "La Academia de las Artes Escénicas, impulsora de los nuevos premios Talía, que buscan ser el equivalente a los Goya en las artes escénicas, ha dado a conocer este jueves la composición de los grupos … [+131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Laura García Higueras",
+      "Title": "Valeria Vegas: \"Una persona mayor no tiene por qué estar calladita en casa sin exhibirse ni presumir\"",
+      "Description": "Esther lleva muchos años ganándose la vida limpiando en grandes superficies, incluidos un tanatorio y un aeropuerto. Tras finalizar su último contrato, desde la oficina de trabajo temporal le sorprenden con la vacante a la que podría incorporarse de forma más…",
+      "Url": "https://www.eldiario.es/cultura/libros/valeria-vegas-persona-mayor-no-calladita-casa-exhibirse-presumir_1_10085807.html",
+      "UrlToImage": "https://static.eldiario.es/clip/d911c545-dba6-4273-b334-3bd9563b911e_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-03-31T20:02:13Z",
+      "Content": "Esther lleva muchos años ganándose la vida limpiando en grandes superficies, incluidos un tanatorio y un aeropuerto. Tras finalizar su último contrato, desde la oficina de trabajo temporal le sorpren… [+360 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2023/03/31/trump-kQjE--1024x512@abc.jpg",
       "PublishedAt": "2023-03-31T06:00:12Z",
       "Content": "El expresidente de Estados Unidos Donald Trump ha sido imputado este viernes en el marco de la investigación en su contra por el presunto pago de 130.000 euros para sobornar a la actriz de cine porno… [+1314 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Europa Press",
-      "Title": "Políticos republicanos califican de \"antiamericana\" la imputación de Trump",
-      "Description": "El gobernador de Florida, Ron DeSantis, de quien se presupone su candidatura a las elecciones presidenciales de 2024 en Estados Unidos, ha tachado de \"antiamericana\" la decisión del Poder Judicial de imputar al expresidente de Estados Unidos, Donald Trump, po…",
-      "Url": "https://www.elperiodico.com/es/internacional/20230331/politicos-republicanos-califican-antiamericana-imputacion-trump-85425557",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/7004a9c9-8e1d-4e29-a5d0-93f3042e31f5_16-9-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-03-31T05:10:11Z",
-      "Content": "El gobernador de Florida, Ron DeSantis, de quien se presupone su candidatura a las elecciones presidenciales de 2024 en Estados Unidos, ha tachado de \"antiamericana\" la decisión del Poder Judicial de… [+2197 chars]"
     }
   ]
 }
