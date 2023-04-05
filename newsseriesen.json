@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Gavia Baker-Whitelaw",
+      "Title": "Amazon’s ‘Rings of Power’ has a viewership problem: Most people didn’t finish season 1",
+      "Description": "Streaming services like Netflix and Amazon rarely reveal specific rating data for their own shows and movies. This week though, The Hollywood Reporter published some behind-the-scenes insight into the viewership of certain Amazon releases—and the flagship Lor…",
+      "Url": "https://www.dailydot.com/unclick/amazon-rings-of-power-ratings-season-1/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/04/amazon-rings-of-power-ratings.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-04-04T13:38:33Z",
+      "Content": "Streaming services like Netflix and Amazon rarely reveal specific rating data for their own shows and movies. This week though, The Hollywood Reporter published some behind-the-scenes insight into th… [+3384 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "Author": "Brian Logan",
+      "Title": "Script, what script? Why Parks and Recreation star Ben Schwartz can’t quit improv",
+      "Description": "The beloved sitcom’s scene-stealer may now be hot Hollywood property, starring alongside Jim Carrey and Nicolas Cage, but he refuses to move on from his first love. As he scores a Netflix special and heads for the UK, he explains its allurePlenty of Hollywood…",
+      "Url": "https://www.theguardian.com/stage/2023/apr/04/ben-schwartz-interview-parks-and-recreation-improv-netflix-special",
+      "UrlToImage": "https://i.guim.co.uk/img/media/7b2bbbdff0dc26a3114070197bba0446f66b37d3/0_997_4330_2598/master/4330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f857a9716ea696eb5a3a1e5d44e3e2f0",
+      "PublishedAt": "2023-04-04T13:27:57Z",
+      "Content": "Plenty of Hollywood stars started out in improv: Amy Poehler, Bill Murray, Mike Myers they all got noticed on the improv stage then moved on to loftier things. What makes Ben Schwartz different is th… [+4822 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20230305_WST_422265_foxs-mls-coverage.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2023-03-05T17:24:29Z",
       "Content": "FOXs MLS coverage is doing a disservice to the league this season. \r\nSo far for 2023, none of the MLS games televised by FOX Sports are being called on-site. Instead, the duo of John Strong and Stu H… [+3878 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "9to5Mac"
-      },
-      "Author": "Benjamin Mayo",
-      "Title": "MLS 360 now free for Apple TV+ subscribers, ‘Drive to Survive’-esque documentary planned",
-      "Description": "Apple and MLS launched MLS Season Pass last weekend, offering live streaming and on-demand viewing of all Major League Soccer games, as well as supporting content like original series and a hosted live whip-around show (called ‘MLS 360’) that features highlig…",
-      "Url": "https://9to5mac.com/2023/03/04/mls-360-watch-apple-tv-app/",
-      "UrlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/mls-360-apple-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "PublishedAt": "2023-03-04T21:10:22Z",
-      "Content": "Apple and MLS launched MLS Season Pass last weekend, offering live streaming and on-demand viewing of all Major League Soccer games, as well as supporting content like original series and a hosted li… [+2370 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Chris Moore",
-      "Title": "MLS partnering with team behind ‘Drive to Survive’ for TV series",
-      "Description": "Major League Soccer has announced that they are entering a partnership with Box to Box Productions to create a new docuseries. The British production company is behind the popular \"Formula 1: Drive to Survive\" series on Netflix. This new show, however, will b…",
-      "Url": "https://worldsoccertalk.com/tv/mls-partnering-with-team-behind-drive-to-survive-for-tv-series-20230304-WST-422175.html",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20230304_WST_422175_Garber34.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2023-03-04T16:06:23Z",
-      "Content": "Major League Soccer has announced that they are entering a partnership with Box to Box Productions to create a new docuseries. The British production company is behind the popular Formula 1: Drive to… [+1764 chars]"
     }
   ]
 }
