@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 172,
+  "TotalResults": 173,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Ciudad de las Artes y las Ciencias de Valencia: nuevos horarios y actividades durante Semana Santa",
+      "Description": "La Ciudad de las Artes y las Ciencias de Valencia amplía horarios y actividades con motivo de las vacaciones de Semana Santa . El Museu de les Ciències estará abierto de 10.00 a 19.00 horas al igual que el Hemisfèric con sesiones desde las 11.00 hasta las 20.…",
+      "Url": "https://www.abc.es/espana/comunidad-valenciana/ciudad-artes-ciencias-valencia-nuevos-horarios-actividades-20230404160200-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2023/04/04/semana-santa-cac-U60054384250dff-1024x512@abc.jpg",
+      "PublishedAt": "2023-04-04T14:02:02Z",
+      "Content": "La Ciudad de las Artes y las Ciencias de Valencia amplía horarios y actividades con motivo de las vacaciones de Semana Santa. El Museu de les Ciències estará abierto de 10.00 a 19.00 horas al igual q… [+4855 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/121401.jpg",
       "PublishedAt": "2023-03-15T13:58:00Z",
       "Content": "F&amp;P Media presenta el tráiler español de 'Novembre', película escrita por Olivier Demangel ('Atlantique') y dirigida por Cédric Jimenez que sigue a los integrantes del servicio antiterrorista de … [+1067 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Juan Sanmartín",
-      "Title": "\"Fue como cambiar el entrenador de un equipo\": Dwayne Johson habla sobre James Gunn y la salida de Henry Cavill como Superman",
-      "Description": "La dirección de DC Studios ha tomado un nuevo rumbo. James Gunn y Peter Safran se encuentran al frente de las propuestas creativas que tomarán las próximas películas, series y hasta videojuegos del universo comiquero. La pretensión es alcanzar un nivel de exc…",
-      "Url": "https://www.vidaextra.com/cine/fue-como-cambiar-entrenador-equipo-dwayne-johson-habla-james-gunn-salida-henry-cavill-como-superman",
-      "UrlToImage": "https://i.blogs.es/804da8/1366_2000/840_560.jpeg",
-      "PublishedAt": "2023-03-15T12:19:13Z",
-      "Content": "La dirección de DC Studios ha tomado un nuevo rumbo. James Gunn y Peter Safran se encuentran al frente de las propuestas creativas que tomarán las próximas películas, series y hasta videojuegos del u… [+2452 chars]"
     }
   ]
 }
