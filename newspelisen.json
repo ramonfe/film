@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1244,
+  "TotalResults": 1245,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Newser"
+      },
+      "Author": "Bob Cronin",
+      "Title": "Super Mario Bros. Smashes Records",
+      "Description": "Audiences said let's go to the movie theater for The Super Mario Bros. Movie this weekend. The animated offering from Universal and Illumination powered up with $204.6 million in its first five days in 4,343 North American theaters, including $146.4 million o…",
+      "Url": "https://www.newser.com/story/333767/super-mario-bros-opens-big.html",
+      "UrlToImage": "https://img2-azrcdn.newser.com/image/1466611-12-20230409134956.jpeg",
+      "PublishedAt": "2023-04-09T18:20:00Z",
+      "Content": "Audiences said let's go to the movie theater for The Super Mario Bros. Movie this weekend. The animated offering from Universal and Illumination powered up with $204.6 million in its first five days … [+1728 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.slashfilm.com/img/gallery/james-gunn-says-a-marvel-and-dc-crossover-has-been-discussed-but-were-not-holding-our-breath/l-intro-1680815141.jpg",
       "PublishedAt": "2023-04-06T21:10:26Z",
       "Content": "For what it's worth, Marvel Comics and DC Comics have done a couple of huge crossovers on the page in the past, with 1976's \"Superman vs. The Amazing Spider-Man\" serving as the first example. There w… [+1468 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Cristina Alexander",
-      "Title": "Prime Video Placeholder Hints at Super Mario Bros. Movie Home Streaming Release Date",
-      "Description": "The Super Mario Bros. Movie might come to Prime Video sooner than expected thanks to a placeholder date of May 9 spotted on Amazon's video streaming service.",
-      "Url": "https://www.ign.com/articles/prime-video-placeholder-hints-at-super-mario-bros-movie-home-streaming-release-date",
-      "UrlToImage": "https://assets-prd.ignimgs.com/2022/11/29/supermariobrosmovieofficialtrailer-ign-blogroll-1669759946162.jpg?width=1280",
-      "PublishedAt": "2023-04-06T21:04:19Z",
-      "Content": "The Super Mario Bros. Movie may be streaming on Prime Video soon thanks to a placeholder release date for May 9 on Amazon's video streaming service.\r\nThe movie's PVOD page was spotted by Resetera use… [+2099 chars]"
     }
   ]
 }
