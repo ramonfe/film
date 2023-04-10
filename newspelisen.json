@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1230,
+  "TotalResults": 1231,
   "Articles": [
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Lindsey Bahr",
+      "Title": "‘The Super Mario Bros. Movie’ is a box office smash",
+      "Description": "Audiences said let’s go to the movie theater for “The Super Mario Bros",
+      "Url": "https://www.independent.co.uk/news/mario-ap-chris-pratt-universal-warcraft-b2316858.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/04/09/16/Film_Review_-_The_Super_Mario_Bros._Movie_56250.jpg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-04-09T15:19:32Z",
+      "Content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nAudiences said lets go to the movie theater for The … [+2328 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/490935?v=1680803405",
       "PublishedAt": "2023-04-06T17:38:46Z",
       "Content": "This weekend belongs to Mario and Luigi, as Universal releases The Super Mario Bros. Movie the first animated film based on the classic Nintendo characters to a box office absolutely starved for chil… [+5525 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "UPROXX"
-      },
-      "Author": "Nina Braca",
-      "Title": "‘Barbie’ Movie: Everything To Know Including The Release Date, Trailer, And More",
-      "Description": "warner bros.\r\n\n\nThe long-awaited 'Barbie' movie is almost upon us, and now is the time to get to know what you're in for.",
-      "Url": "https://uproxx.com/movies/barbie-movie-release-date-trailer-info/",
-      "UrlToImage": "https://uproxx.com/wp-content/uploads/2023/04/margot-barbie.jpg?w=1024",
-      "PublishedAt": "2023-04-06T17:27:10Z",
-      "Content": "On July 21st, many Americans will have to make a tough choice: one ticket to Greta Gerwig’s cinematic event Barbie or one ticket to Christopher Nolan’s extremely long biopic, Oppenheimer? There is on… [+1391 chars]"
     }
   ]
 }
