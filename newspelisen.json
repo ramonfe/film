@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1249,
+  "TotalResults": 1250,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'The Super Mario Bros. Movie' Smashes Box Office",
+      "Description": "Audiences said let's go to the movie theater for \"The Super Mario Bros. Movie\" this weekend. The animated offering from Universal and Illumination powered up with $204.6 million in its first five days in 4,343 North American theaters, including $146.4 million…",
+      "Url": "https://www.voanews.com/a/the-super-mario-bros-movie-smashes-box-office/7043056.html",
+      "UrlToImage": "https://gdb.voanews.com/01000000-0a00-0242-07dc-08db39480dcc_cx7_cy0_cw84_w1200_r1.jpg",
+      "PublishedAt": "2023-04-09T22:22:10Z",
+      "Content": "Audiences said let's go to the movie theater for \"The Super Mario Bros. Movie\" this weekend. The animated offering from Universal and Illumination powered up with $204.6 million in its first five day… [+4353 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://deadline.com/wp-content/uploads/2023/04/jurrasic-world.jpg?w=1024",
       "PublishedAt": "2023-04-07T00:30:55Z",
       "Content": "Deadline’s Most Valuable Blockbuster tournament took a hiatus during the pandemic as movie theaters closed for the majority of 2020-2021 and theatrical day-and-date titles on both the big screen and … [+3315 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Inside the Magic"
-      },
-      "Author": "Amanda Landwehr",
-      "Title": "DC’s ‘Shazam 2’ Pulled From Theaters, Officially a Box Office Bomb",
-      "Description": "After many trials and tribulations surrounding its development and subsequent release, it looks like Warner Bros. is officially giving up on the Zachary Levy-led sequel to 2019’s Shazam! It’s been a less-than-magical path to production for DC’s Shazam 2: Fury…",
-      "Url": "https://insidethemagic.net/2023/04/dcs-shazam-2-gets-shockingly-early-vod-release-date-after-box-office-bomb-aml1/",
-      "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2023/01/Shazam-2.jpg",
-      "PublishedAt": "2023-04-07T00:08:18Z",
-      "Content": "After many trials and tribulations surrounding its development and subsequent release, it looks like Warner Bros. is officially giving up on the Zachary Levy-led sequel to 2019’s Shazam!\r\nCredit: War… [+2360 chars]"
     }
   ]
 }
