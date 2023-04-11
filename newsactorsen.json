@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1218,
+  "TotalResults": 1220,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Owen Tonks",
+      "Title": "Hollywood star looks unrecognisable - can you guess who it is?",
+      "Description": "A Hollywood actor looks unrecognisable as he sports a bushy grey beard as his Super Mario Bros. Movie character for an entertaining new music video.",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-11958435/Hollywood-star-looks-unrecognisable-guess-is.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/04/10/23/69683391-0-image-a-151_1681166426749.jpg",
+      "PublishedAt": "2023-04-10T22:58:57Z",
+      "Content": "Jack Black looks unrecognisable as he sports a bushy grey beard as his Super Mario Bros. Movie character Bowser for an entertaining new music video.\r\nThe actor, 53, who is the voice of Bowser in the … [+3464 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hollywood Life"
+      },
+      "Author": "Sabrina Picou",
+      "Title": "Ann-Margret: 5 Things To Know About Legendary Movie Star Making Rock Album At Age 81",
+      "Description": "Just weeks ahead of her 82nd birthday, actress Ann-Margret is set to release her debut rock and roll album. Here are five things to know about her!",
+      "Url": "https://hollywoodlife.com/feature/who-is-ann-margret-5071939/",
+      "UrlToImage": "https://hollywoodlife.com/wp-content/uploads/2023/04/Ann-Margret-5-Things-SS-ftr.jpg",
+      "PublishedAt": "2023-04-10T22:38:36Z",
+      "Content": "View galleryImage Credit: Alberto Rodriguez/Shutterstock\r\n<ul><li>Ann-Margret is an actress widely known for her role in the 1963 film Bye Bye Birdie.</li><li>She is an Emmy and Golden Globe-winning … [+5377 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -162,19 +188,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Richmond.com"
-      },
-      "Author": "LINDSEY BAHR Associated Press",
-      "Title": "Michael Lerner, ‘Barton Fink’ Oscar nominee, dies at 81",
-      "Description": "Michael Lerner, the Brooklyn-born character actor who played a myriad of imposing figures in his 60 years in the business, including crime bosses, CEOs, politicians, protective fathers and the monologuing movie mogul Jack Lipnick in “Barton Fink,” has died.",
-      "Url": "https://richmond.com/entertainment/michael-lerner-barton-fink-oscar-nominee-dies-at-81/article_03e2195f-2fbe-58ce-ab67-f5a7d9b292f1.html",
-      "UrlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/3e/03e2195f-2fbe-58ce-ab67-f5a7d9b292f1/6434427b08cdb.preview.jpg?crop=1197%2C628%2C27%2C240&resize=1197%2C628&order=crop%2Cresize",
-      "PublishedAt": "2023-04-10T16:51:00Z",
-      "Content": "Michael Lerner, the Brooklyn-born character actor who played myriad imposing figures in his 60 years in the business, including monologuing movie mogul Jack Lipnick in Barton Fink, the crooked club o… [+21407 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Billings Gazette"
       },
       "Author": "LINDSEY BAHR Associated Press",
@@ -184,6 +197,19 @@
       "UrlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/3/ed/3ed1a9ff-3868-5548-be17-ea25662254b8/6434426d24f06.preview.jpg?crop=1197%2C628%2C27%2C240&resize=1197%2C628&order=crop%2Cresize",
       "PublishedAt": "2023-04-10T16:51:00Z",
       "Content": "Michael Lerner, the Brooklyn-born character actor who played myriad imposing figures in his 60 years in the business, including monologuing movie mogul Jack Lipnick in Barton Fink, the crooked club o… [+21477 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Richmond.com"
+      },
+      "Author": "LINDSEY BAHR Associated Press",
+      "Title": "Michael Lerner, ‘Barton Fink’ Oscar nominee, dies at 81",
+      "Description": "Michael Lerner, the Brooklyn-born character actor who played a myriad of imposing figures in his 60 years in the business, including crime bosses, CEOs, politicians, protective fathers and the monologuing movie mogul Jack Lipnick in “Barton Fink,” has died.",
+      "Url": "https://richmond.com/entertainment/michael-lerner-barton-fink-oscar-nominee-dies-at-81/article_03e2195f-2fbe-58ce-ab67-f5a7d9b292f1.html",
+      "UrlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/3e/03e2195f-2fbe-58ce-ab67-f5a7d9b292f1/6434427b08cdb.preview.jpg?crop=1197%2C628%2C27%2C240&resize=1197%2C628&order=crop%2Cresize",
+      "PublishedAt": "2023-04-10T16:51:00Z",
+      "Content": "Michael Lerner, the Brooklyn-born character actor who played myriad imposing figures in his 60 years in the business, including monologuing movie mogul Jack Lipnick in Barton Fink, the crooked club o… [+21407 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/72de542c8decbbae/og.webp",
       "PublishedAt": "2023-04-07T14:02:09Z",
       "Content": "Left: Pak Jong Taek. Right: Original actor Choe Ung Chol.KCTVNorth Korea has wiped all record of an out-of-favor actor from a popular TV show, per NK News.The actor is rumored to have links to Jang S… [+312 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "GUARDIANS OF THE GALAXY VOL. 3 is \"Not About Saving The Universe – It’s About The Guardians Saving Themselves\"",
-      "Description": "While we patiently wait for Guardians of the Galaxy Vol. 3, director James Gunn, Chris Pratt, and franchise newcomer Will Poulter are talking about the film and sharing details on the story and characters in a recent interview with Empire.Guardians of the Gal…",
-      "Url": "https://geektyrant.com/news/guardians-of-the-galaxy-vol-3-is-not-about-saving-the-universe-its-about-the-guardians-saving-themselves",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/642f158b7fde14784dac4c71/1680876010199/Screen+Shot+2023-04-06+at+11.55.31+AM.jpg?format=1500w",
-      "PublishedAt": "2023-04-07T14:00:00Z",
-      "Content": "While we patiently wait for Guardians of the Galaxy Vol. 3, director James Gunn, Chris Pratt, and franchise newcomer Will Poulter are talking about the film and sharing details on the story and chara… [+2708 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Guardian"
-      },
-      "Author": "Richard Luscombe",
-      "Title": "Joe Biden calls Tennessee’s expulsion of two Black Democrats for gun control protest ‘undemocratic’ – live",
-      "Description": "Claims of racism after Republican lawmakers expel two of three Democrats for taking part in protest<ul><li>Sign up to receive First Thing – our daily briefing by email</li></ul>A Good Friday good morning to our US politics blog readers! There’s more than a wh…",
-      "Url": "https://www.theguardian.com/us-news/live/2023/apr/07/joe-biden-tennessee-democrats-us-politics-news-latest-trump-republicans",
-      "UrlToImage": "https://i.guim.co.uk/img/media/9324f3d832a1c95fb96d46abc8ae9207a925fe38/0_188_5031_3019/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=77eabc38519221c3d860f02b1197f72b",
-      "PublishedAt": "2023-04-07T13:35:54Z",
-      "Content": "A Good Friday good morning to our US politics blog readers! Theres more than a whiff of racism hanging over the Tennessee state house this morning, where Republican lawmakers on Thursday expelled two… [+1738 chars]"
     }
   ]
 }
