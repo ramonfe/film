@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 923,
+  "TotalResults": 924,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El actor y cantante mexicano Jaime Figueroa entra en el Club de los 27 al morir repentinamente",
+      "Description": "Julián Figueroa Fernández, de 27 años, hijo de la actriz Maribel Guardia y el desaparecido cantante Joan Sebastian, ha sido hallado muerto en su casa de la colonia Jardines del Pedregal de la alcaldía Álvaro Obregón de la Ciudad de México y según la prensa lo…",
+      "Url": "https://www.abc.es/play/television/abci-actor-y-cantante-mexicano-jaime-figueroa-entra-club-27-morir-repentinamente-202304101616_noticia.html",
+      "UrlToImage": "https://s3.abcstatics.com/media/play/2023/04/10/figueroa-U66644678015Bau-1024x512@abc.jpg",
+      "PublishedAt": "2023-04-10T14:16:15Z",
+      "Content": "Nacho Serrano\r\nActualizado:10/04/2023 16:16h\r\nGuardar\r\n Julián Figueroa Fernández, de 27 años, hijo de la actriz Maribel Guardia y el desaparecido cantante Joan Sebastian, ha sido hallado muerto en s… [+4684 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/642ae36863ec4d7ad6afeb19/16:9/w_1280,c_limit/hoyeon-16x9.jpg",
       "PublishedAt": "2023-04-05T12:01:15Z",
       "Content": "Todo esto tiene lógica si consideramos lo que Hoyeon fue capaz de hacer para prepararse el papel. Trabajó con desertores reales de Corea del Norte para afinar el acento de Sae-byeok, dio clases de ar… [+3281 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Jorge Loser",
-      "Title": "'El exorcista del Papa': el carisma de Russell Crowe revienta la pantalla en una aventura de terror y posesiones vista como cine espectáculo de Semana Santa",
-      "Description": "El cine de terror tiene un apartado especial para dos géneros que nunca dejan de tener películas, sea la década o clima político que sea, uno es el de los tiburones asesinos, y el otro el de las posesiones católicas y los exorcismos romanos, por ello no sorpr…",
-      "Url": "https://www.espinof.com/criticas/exorcista-papa-carisma-russell-crowe-revienta-pantalla-aventura-terror-posesiones-vista-como-cine-espectaculo-semana-santa",
-      "UrlToImage": "https://i.blogs.es/7cfc5b/popes2/840_560.jpeg",
-      "PublishedAt": "2023-04-05T12:00:35Z",
-      "Content": "El cine de terror tiene un apartado especial para dos géneros que nunca dejan de tener películas, sea la década o clima político que sea, uno es el de los tiburones asesinos, y el otro el de las pose… [+6672 chars]"
     }
   ]
 }
