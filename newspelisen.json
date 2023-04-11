@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1251,
+  "TotalResults": 1252,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Chicago Tribune"
+      },
+      "Author": "William Lee, Olivia Alexander",
+      "Title": "Ride-share driver accused of firing shots inside crowded South Loop movie theater",
+      "Description": "A dispute over a ride-share driver being stiffed on a fare led to a scuffle with the rider that ended with a volley of gunfire Saturday night inside a South Loop movie theater, prosecutors said.",
+      "Url": "https://www.chicagotribune.com/news/breaking/ct-south-loop-movie-theater-shooting-20230409-aemtntckonhxjjhlnjycr3m5em-story.html",
+      "UrlToImage": "https://www.chicagotribune.com/resizer/h2hDxEP8skEZF09PEtuUEa6I44A=/1200x630/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/ERKVMG563JCDXKVLFKJ2SIMYEE.png",
+      "PublishedAt": "2023-04-09T23:38:23Z",
+      "Content": "A dispute over a ride-share driver being stiffed on a fare led to a scuffle with the rider that ended with a volley of gunfire Saturday night inside a South Loop movie theater, prosecutors told a Coo… [+2478 chars]"
+    },
     {
       "Source": {
         "Id": "axios",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/04/screen-shot-2023-04-06-at-7-12-42-pm.jpg",
       "PublishedAt": "2023-04-07T02:35:54Z",
       "Content": "The sixth film in The Purgefranchise has received a disheartening update from franchise star Frank Grillo, who indicates the anticipated sequel may not be coming anytime soon. Grillo previously portr… [+2339 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "'I've been lucky': Cuba's first black model reflects on career",
-      "Description": "Sixty years after it was filmed, Collazo looks back with mixed feelings on a career of ups and downs marked by racism, revolution and resilience.\n\nAged 79, Collazo claims to have a \"very bad memory,\" which she seeks to refresh with the help of envelopes bulgi…",
-      "Url": "https://www.france24.com/en/live-news/20230407-i-ve-been-lucky-cuba-s-first-black-model-reflects-on-career",
-      "UrlToImage": "https://s.france24.com/media/display/19d30e90-d4e7-11ed-bad9-005056a90321/w:1280/p:16x9/5d892127ffc861cf7248a31011edd86184874190.jpg",
-      "PublishedAt": "2023-04-07T01:54:17Z",
-      "Content": "Havana (AFP) Luz Maria Collazo was Cuba's first black model, a virtuoso of modern dance and star of the film \"Soy Cuba\" (I am Cuba) -- a flop in its time now considered a classic. Sixty years after i… [+4053 chars]"
     }
   ]
 }
