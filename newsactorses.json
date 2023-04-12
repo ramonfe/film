@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 932,
+  "TotalResults": 933,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Carolina Calero",
+      "Title": "Matthew McConaughey habla sobre su próximo papel en el spinoff de la serie \"Yellowstone\"",
+      "Description": "Matthew McConaughey está listo para protagonizar un spinoff de la serie \"Yellowstone\", de Paramount Media Networks. En el podcast \"Armchair Expert\", el actor explicó que está interesado en interpretar a otro personaje en una serie de televisión y que se sient…",
+      "Url": "https://cnnespanol.cnn.com/2023/04/11/matthew-mcconaughey-habla-sobre-su-proximo-papel-en-el-spinoff-de-la-serie-yellowstone/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/04/Matthew-McConaughey-on-Yellowstone-e1681252676623.jpg?quality=100&strip=info",
+      "PublishedAt": "2023-04-11T22:26:27Z",
+      "Content": "(CNN Español) -- Matthew McConaughey parece dispuesto a sumergirse en un nuevo papel.\r\nDías después de que el director de Paramount Media Networks, Chris McCarthy, confirmara en una entrevista con Th… [+1706 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/04/07/daisy-ridley-rey-saga-star.jpg",
       "PublishedAt": "2023-04-07T15:12:21Z",
       "Content": "La actriz Daisy Ripley, que encarnó a la maestra \"jedi\" \"Knight Rey\" en las últimas entregas de Star Wars, encabezará el regreso de la saga a la gran pantalla, con una trilogía dirigida por tres dire… [+2233 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cointelegraph"
-      },
-      "Author": "Joseph Hall",
-      "Title": "Tatuarse el logo de Bitcoin: los defensores de la criptomoneda la llevan en consigo en la piel",
-      "Description": "Los defensores que se tatuaron algo de Bitcoin explican la privacidad, los riesgos e incluso los dolores de hacerse un tatuaje de Bitcoin, una tendencia creciente en la comunidad.\n \n¿Tienes un tatuaje de Bitcoin? Muchos creyentes en Bitcoin tienen uno. Pero, …",
-      "Url": "https://es.cointelegraph.com/news/tattooing-bitcoin-advocates-wear-cryptocurrency-on-their-sleeve",
-      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-03/7c8ff5ee-e2f4-4ab1-9e4b-bdc85cd4b0e6.jpg",
-      "PublishedAt": "2023-04-07T14:20:00Z",
-      "Content": "¿Tienes un tatuaje de Bitcoin? Muchos creyentes en Bitcoin tienen uno. Pero, ¿cuáles son los riesgos? ¿Qué pasa con la privacidad? ¿Y qué pasaría si, un fatídico día, Bitcoin se desploma y cae a cero… [+8159 chars]"
     }
   ]
 }
