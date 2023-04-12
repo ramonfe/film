@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1198,
+  "TotalResults": 1205,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Alesia Stanford",
+      "Title": "Melissa McCarthy works her magic on the set of Bernard and the Genie with co-star Paapa Essiedu",
+      "Description": "Melissa McCarthy looked magical as she strolled through New York Tuesday while filming her new movie. The actress, 52, was costumed in a multi-colored skirt and jacket with a star pattern",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-11961985/Melissa-McCarthy-works-magic-set-Bernard-Genie-star-Paapa-Essiedu.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/04/11/20/69719077-0-image-a-87_1681242869878.jpg",
+      "PublishedAt": "2023-04-11T19:58:13Z",
+      "Content": "Melissa McCarthy looked magical as she strolled through New York Tuesday while filming her new movie. \r\nThe actress, 52, who has been donning a variety of over the top looks, was costumed in a multi-… [+2313 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Mark Hamill Once Shared His Best Memories of The Original STAR WARS Trilogy",
+      "Description": "About ten years after Star Wars: A New Hope was unleashed on the world, Mark Hamill sat down with Lucasfilm Fan Club Magazine for in interview to talk about his career and what it was like for him shooting the original trilogy with director George Lucas. We’v…",
+      "Url": "https://geektyrant.com/news/mark-hamill-once-shared-his-best-memories-of-the-original-star-wars-trilogy",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/642c83b31198c746bca63208/1681241447090/mark-hamill-once-shared-his-best-memories-of-the-original-star-wars-trilogy.jpg?format=1500w",
+      "PublishedAt": "2023-04-11T19:30:00Z",
+      "Content": "About ten years after Star Wars: A New Hope was unleashed on the world, Mark Hamillsat down with Lucasfilm Fan Club Magazine for in interview to talk about his career and what it was like for him sho… [+3046 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "Actor Frank Vallelonga Jr. died from accidental overdose",
+      "Description": "A report from the New York City medical examiner's office has found that Frank Vallelonga Jr., an actor who appeared in the Oscar-winning movie “Green Book,” died from an accidental overdose of fentanyl and cocaine",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/actor-frank-vallelonga-jr-died-accidental-overdose-98509739",
+      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "PublishedAt": "2023-04-11T19:17:42Z",
+      "Content": "NEW YORK -- Frank Vallelonga Jr., an actor who appeared in the Oscar-winning movie Green Book, died from an accidental overdose of fentanyl and cocaine, according to the New York City medical examine… [+1026 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ETCanada.com"
+      },
+      "Author": "Becca Longmire",
+      "Title": "‘The Family Stallone’: Sylvester Stallone’s Daughters Poke Fun At Him For Loving The Camera In New Trailer",
+      "Description": "Sylvester Stallone is giving fans a look inside his family life. The actor is joined by his wife Jennifer Flavin Stallone and their daughters Sophia, Sistine and Scarlet for their new reality TV show, \"The Family Stallone\". Paramount+ just revealed when fans …",
+      "Url": "https://etcanada.com/news/983814/the-family-stallone-sylvester-stallones-daughters-poke-fun-at-him-for-loving-the-camera-in-new-trailer/",
+      "UrlToImage": "https://etcanada.com/wp-content/uploads/2023/02/GettyImages-1161522263.jpg?quality=80&strip=all&w=720&h=480&crop=1",
+      "PublishedAt": "2023-04-11T19:17:33Z",
+      "Content": "Sylvester Stallone is giving fans a look inside his family life.\r\nThe actor is joined by his wife Jennifer Flavin Stallone and their daughters Sophia, Sistine and Scarlet for their new reality TV sho… [+1280 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "Actor Frank Vallelonga Jr. died from accidental overdose",
+      "Description": "A report from the New York City medical examiner's office has found that Frank Vallelonga Jr., an actor who appeared in the Oscar-winning movie “Green Book,” died from an accidental overdose of fentanyl and cocaine",
+      "Url": "https://abcnews.go.com/US/wireStory/actor-frank-vallelonga-jr-died-accidental-overdose-98509470",
+      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "PublishedAt": "2023-04-11T19:17:25Z",
+      "Content": "NEW YORK -- Frank Vallelonga Jr., an actor who appeared in the Oscar-winning movie Green Book, died from an accidental overdose of fentanyl and cocaine, according to the New York City medical examine… [+1026 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Minneapolis Star Tribune"
+      },
+      "Author": "Star Tribune Staff",
+      "Title": "Actor Frank Vallelonga Jr. died from accidental overdose",
+      "Description": "Frank Vallelonga Jr., an actor who appeared in the Oscar-winning movie ''Green Book,'' died from an accidental overdose of fentanyl and cocaine, according to the New York City medical examiner's office.",
+      "Url": "https://www.startribune.com/actor-frank-vallelonga-jr-died-from-accidental-overdose/600266236/",
+      "UrlToImage": "https://chorus.stimg.co/24578138/US_NEWS_VALLELONGA_GET.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "PublishedAt": "2023-04-11T19:02:01Z",
+      "Content": "NEW YORK Frank Vallelonga Jr., an actor who appeared in the Oscar-winning movie ''Green Book,'' died from an accidental overdose of fentanyl and cocaine, according to the New York City medical examin… [+1040 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Siliconera"
+      },
+      "Author": "Leigh Price",
+      "Title": "The Super Mario Bros Movie Is a Love Letter to the Games",
+      "Description": "The Super Mario Bros Movie is currently breaking records left and right. It has the biggest opening weekend for an animated movie, beating Frozen 2. It’s beaten Warcraft’s record for a video game movie’s opening weekend. Its success was expected but the scale…",
+      "Url": "https://www.siliconera.com/the-super-mario-bros-movie-is-a-love-letter-to-the-games/",
+      "UrlToImage": "https://www.siliconera.com/wp-content/uploads/2023/04/super-mario-bros-movie-1.jpg",
+      "PublishedAt": "2023-04-11T19:00:48Z",
+      "Content": "The Super Mario Bros Movie is currently breaking records left and right. It has the biggest opening weekend for an animated movie, beating Frozen 2. Its beaten Warcrafts record for a video game movie… [+5693 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1211,97 +1302,6 @@
       "UrlToImage": "https://townsquare.media/site/366/files/2023/04/attachment-Bob-Dylan-Biopic-starring-Timothee-Chalamet-1.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89",
       "PublishedAt": "2023-04-08T16:46:06Z",
       "Content": "Actor Timotheé Chalamet will do his own singing in the upcoming biopic about one of the most iconic musicians in of all time: Bob Dylan.\r\nThe film, which has been years in the making and does not cur… [+1268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Kemifilani.ng"
-      },
-      "Author": "Dami Kayode",
-      "Title": "Reactions as Kazim Adeoti steps out with Mercy Aigbe - Kemi Filani",
-      "Description": "Reactions have been trailing the loved-up photo of film marketer Kazim Adeoti and his second actress wife, Mercy Aigbe Adeoti, as they step out in style. Mercy Aigbe shared the photo on her verified Instagram, captioning it with lovely words about her new mov…",
-      "Url": "https://www.kemifilani.ng/entertainment/reactions-as-kazim-adeoti-steps-out-with-mercy-aigbe",
-      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/04/Reactions-as-Kazim-Adeoti-steps-out-with-Mercy-Aigbe.jpg",
-      "PublishedAt": "2023-04-08T15:48:17Z",
-      "Content": "Reactions have been trailing the loved-up photo of film marketer Kazim Adeoti and his second actress wife, Mercy Aigbe Adeoti, as they step out in style.\r\nMercy Aigbe shared the photo on her verified… [+1832 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG"
-      },
-      "Author": "Oke-hortons Nosa",
-      "Title": "“Gangster, You Killed Your Role”: Funke Akindele Hails Bimbo Ademoye for Her Role Inside ‘Gangs of Lagos’",
-      "Description": "Nollywood actress Funke Akindele has sparked reactions with a comment she recent shared on her junior colleague Bimbo Ademoye's page over her role in new movie.",
-      "Url": "https://www.legit.ng/entertainment/celebrities/1529375-gangster-killed-role-funke-akindele-hails-bimbo-ademoye-role-gangs-lagos/",
-      "UrlToImage": "https://netstorage-legit.akamaized.net/images/8989087f528172b2.jpg",
-      "PublishedAt": "2023-04-08T15:28:54Z",
-      "Content": "<ul><li>Ace Nollywood actress Funke Akindele has sparked reactions online with a comment she recently shared about her junior colleague Bimbo Ademoye</li><li>Funke Akindele commented on a post shared… [+2631 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Winter is Coming"
-      },
-      "Author": "Rich Eberwein",
-      "Title": "Every actor in Netflix’s Avatar: the Last Airbender remake (and who they’re playing)",
-      "Description": "Netflix is making a live-action adaptation of Avatar: The Last Airbender, Nickelodeon’s beloved animated epic. The story was adapted to live-action once before in M. Night Shyamalan’s famously bad 2010 movie, so this show has a lot to prove to old and new aud…",
-      "Url": "https://winteriscoming.net/2023/04/08/every-actor-netflixs-avatar-last-airbender-remake-theyre-playing/",
-      "UrlToImage": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fwinteriscoming.net%2Ffiles%2F2021%2F08%2FScreen-Shot-2021-08-12-at-10.38.28-AM.jpg",
-      "PublishedAt": "2023-04-08T14:00:35Z",
-      "Content": "Netflix is making a live-action adaptation of Avatar: The Last Airbender, Nickelodeon’s beloved animated epic. The story was adapted to live-action once before in M. Night Shyamalan’s famously bad 20… [+2896 chars]"
-    },
-    {
-      "Source": {
-        "Id": "breitbart-news",
-        "Name": "Breitbart News"
-      },
-      "Author": "Warner Todd Huston, Warner Todd Huston",
-      "Title": "‘Spy Kids’ Star Alexa PenaVega on Talking a Teen Mom Out of Abortion and Leaving Hollywood: ‘We Didn’t Want to Raise Our Kids in LA, It was God’",
-      "Description": "Actress Alexa PenaVega, the star of the movie series \"Spy Kids,\" says God inspired her and her husband to leave Los Angeles behind. Now, still and working actor, she's not only a proud believer in the pro-life movement, she even helped a young woman decide to…",
-      "Url": "https://www.breitbart.com/entertainment/2023/04/08/spy-kids-star-alexa-penavega-on-talking-a-teen-mom-out-of-abortion-and-leaving-hollywood-we-didnt-want-to-raise-our-kids-in-la-it-was-god/",
-      "UrlToImage": "https://media.breitbart.com/media/2023/04/AlexaPenaVega-640x335.jpg",
-      "PublishedAt": "2023-04-08T13:05:57Z",
-      "Content": "Actress Alexa PenaVega, the star of the Spy Kids movie series, says God inspired her and her husband to leave Los Angeles behind. Now, still and working actor, she’s not only a proud believer in the … [+3345 chars]"
-    },
-    {
-      "Source": {
-        "Id": "independent",
-        "Name": "Independent"
-      },
-      "Author": "Isobel Lewis",
-      "Title": "Chris Pratt was told his original voice for Mario movie ‘sounded like Tony Soprano’",
-      "Description": "‘I walked in and they were like, “That’s a little New Jersey,”’ actor recalled",
-      "Url": "https://www.independent.co.uk/arts-entertainment/films/news/chris-pratt-mario-movie-accent-tony-soprano-b2316471.html",
-      "UrlToImage": "https://static.independent.co.uk/2023/04/08/12/Collage%20Maker-08-Apr-2023-12-52-PM-5126.jpg?quality=75&width=1200&auto=webp",
-      "PublishedAt": "2023-04-08T12:07:47Z",
-      "Content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nChris Pratt and Charlie Day were asked to change their o… [+1860 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
-      },
-      "Author": "Kendall Tietz",
-      "Title": "Original ‘Super Mario Bros’ actor John Leguizamo to boycott reboot because of lack of diversity: ‘Hell no!’",
-      "Description": "Original Luigi John Leguizamo slams casting in 'The Super Mario Bros. Movie': 'They could’ve included a Latin character. Like I was groundbreaking and then they stopped the groundbreaking'",
-      "Url": "https://www.foxnews.com/media/original-super-mario-bros-actor-john-leguizamo-boycott-reboot-because-lack-diversity-hell-no",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/GettyImages-1467064202.jpg",
-      "PublishedAt": "2023-04-08T12:00:39Z",
-      "Content": "Original \"Luigi\" actor John Leguizamo said he plans to boycott \"The Super Mario Bros. Movie\" due to lack of diversity in its casting. \r\nWhen asked if he would be watching the movie, Leguizamo respond… [+3374 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NPR"
-      },
-      "Author": "Scott Simon",
-      "Title": "Oscar-nominated actress Hong Chau on her new movie 'Showing Up'",
-      "Description": "NPR's Scott Simon talks with actress Hong Chau. She was nominated for an Oscar this year, and stars in the new movie about struggling artists - \"Showing Up.\"",
-      "Url": "https://www.npr.org/2023/04/08/1168794986/oscar-nominated-actress-hong-chau-on-her-new-movie-showing-up",
-      "UrlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "PublishedAt": "2023-04-08T11:59:55Z",
-      "Content": "NPR's Scott Simon talks with actress Hong Chau. She was nominated for an Oscar this year, and stars in the new movie about struggling artists - \"Showing Up.\""
     }
   ]
 }
