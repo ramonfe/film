@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 933,
+  "TotalResults": 934,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "A pura sonrisa, con bastón y en buena compañía: así fue la primera aparición pública de Jeremy Renner, luego del accidente en el que casi pierde la vida",
+      "Description": "El actor asistió junto a su hija Ava, de 10 años, a la presentación de Rennervations, la serie documental de Disney+ que lo tiene como protagonista",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/a-pura-sonrisa-con-baston-y-en-buena-compania-asi-fue-la-primera-aparicion-publica-de-jeremy-renner-nid12042023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/pzfWawVxvwux4iXRHNcnGPnnZl4=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/6BXKK3P55ZBTHIDBT2GQMTV2FI.jpg",
+      "PublishedAt": "2023-04-12T04:20:33Z",
+      "Content": "Tres meses atrás, parecía imposible, pero, cual superhéroe, lo logró. Jeremy Renner volvió a mostrarse en público luego del accidente en el que casi pierde la vida. El actor de Hawkeye asistió en Los… [+4043 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2023/04/lancerr.jpg",
       "PublishedAt": "2023-04-07T15:26:04Z",
       "Content": "Hace algunas semanas atrás se dio un acontecimiento bastante trágico para el mundo del cine y del gaming, y es que se confirmó el fallecimiento del actor Lance Reddick por razones que eran desconocid… [+1347 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia EFE",
-      "Title": "La \"jedi\" Daisy Ridley capitanea el regreso de \"Star Wars\" a la gran pantalla",
-      "Description": "La actriz Daisy Ripley, que encarnó a la maestra \"jedi\" \"Knight Rey\" en las últimas entregas de Star Wars, encabezará el regreso de la saga a la gran pantalla, con una trilogía dirigida por tres directores diferentes de los cuales uno será, por primera vez, u…",
-      "Url": "https://www.milenio.com/espectaculos/cine/dinsey-confirma-trilogia-star-wars-daisy-ridley",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/04/07/daisy-ridley-rey-saga-star.jpg",
-      "PublishedAt": "2023-04-07T15:12:21Z",
-      "Content": "La actriz Daisy Ripley, que encarnó a la maestra \"jedi\" \"Knight Rey\" en las últimas entregas de Star Wars, encabezará el regreso de la saga a la gran pantalla, con una trilogía dirigida por tres dire… [+2233 chars]"
     }
   ]
 }
