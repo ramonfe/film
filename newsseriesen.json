@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ieee.org"
+      },
+      "Author": "Craig S. Smith",
+      "Title": "AI Poised to Transform Video Compression Landscape",
+      "Description": "Apple’s surprise purchase at the end of last month of WaveOne, a California-based startup that develops content-aware AI algorithms for video compression, showcases an important shift in how video signals are streamed to our devices. In the near-term Cupperti…",
+      "Url": "https://spectrum.ieee.org/ai-video-codecs-waveone",
+      "UrlToImage": "https://spectrum.ieee.org/media-library/purple-pink-and-white-dots-in-a-spiral-formation-against-a-dark-background.jpg?id=33398852&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+      "PublishedAt": "2023-04-12T21:48:56Z",
+      "Content": "Apples surprise purchase at the end of last month of WaveOne, a California-based startup that develops content-aware AI algorithms for video compression, showcases an important shift in how video sig… [+8178 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1678746458/230313-see-skip-ted-lasso-hero_u8hbpn",
       "PublishedAt": "2023-03-13T23:01:26Z",
       "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+7401 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Christopher Harris",
-      "Title": "MLS Season Pass has made the league fun to watch",
-      "Description": "In the past decade, leagues such as LaLiga and Premier League have staggered kickoff times so that games are scheduled throughout a weekend from Friday through Monday. With MLS Season Pass, Major League Soccer has done the opposite. They've scheduled almost a…",
-      "Url": "https://worldsoccertalk.com/tv/mls-creates-appointment-viewing-with-mls-season-pass-20230313-WST-422294.html",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20230313_WST_422294_mls-season-pass-on-tv.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2023-03-13T16:00:00Z",
-      "Content": "In the past decade, leagues such as LaLiga and Premier League have staggered kickoff times so that games are scheduled throughout a weekend from Friday through Monday. With MLS Season Pass, Major Lea… [+2020 chars]"
     }
   ]
 }
