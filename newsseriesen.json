@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Raw Story"
+      },
+      "Author": "Agence France-Presse",
+      "Title": "Harry Potter TV series announced, Rowling to executive produce",
+      "Description": "The first Harry Potter television series is set to be made, with author JK Rowling acting as an executive producer, Warner Bros. Discovery announced on Wednesday.Rowling has recently faced accusations of transphobia for putting an emphasis on biological sex o…",
+      "Url": "https://www.rawstory.com/harry-potter-tv-series-announced-rowling-to-executive-produce/",
+      "UrlToImage": "https://www.rawstory.com/media-library/outrage-at-uk-story-justifying-jk-rowling-abuse.jpg?id=24809409&width=1200&height=600&coordinates=0%2C17%2C0%2C17",
+      "PublishedAt": "2023-04-13T10:56:11Z",
+      "Content": "\"It almost feels like a painting,\" says Triana Montserrat as she surveys the California poppies, brittlebush and lupins that smother the ground.\r\n\"It's so intricate, and it's so beautiful. It's like … [+3590 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DW (English)"
+      },
+      "Author": "Deutsche Welle",
+      "Title": "Max announces 'Harry Potter' TV series, J.K. Rowling to produce",
+      "Description": "\"Harry Potter\" is set to be turned into a TV series and broadcast on the Max streaming platform. The platform also announced a prequel series for \"Game of Thrones.\" \"Harry Potter\" is set to hit the small screen with J.K. Rowling primed for a key role in the p…",
+      "Url": "https://www.dw.com/en/max-announces-harry-potter-tv-series-jk-rowling-to-produce/a-65298980",
+      "UrlToImage": "https://static.dw.com/image/63093627_6.jpg",
+      "PublishedAt": "2023-04-13T10:52:00Z",
+      "Content": "\"Harry Potter\" is set to hit the small screen with J.K. Rowling primed for a key role in the production of the television series, Warner Bros Discovery announced on Wednesday.\r\nRowling will be the ex… [+1789 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Laura Fox",
+      "Title": "The Conjuring movies are being turned into a TV series for HBO's streaming service Max",
+      "Description": "The company announced that the show will be part of a new slate of content on the rebranded platform, which will be HBO's new streaming service, combining HBO Max and Discover+.",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-11967879/The-Conjuring-movies-turned-TV-series-HBOs-streaming-service-Max.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/04/13/08/69776561-0-image-a-15_1681370559339.jpg",
+      "PublishedAt": "2023-04-13T07:07:25Z",
+      "Content": "A TV series based on The Conjuring movie franchise is in the works for HBO's newly-revamped streaming service Max.\r\nThe company announced that the show will be part of a new slate of content on the r… [+2783 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -110,6 +149,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.2.0a10",
+      "Description": "2023.2.0a10\n\n April 12, 2023\n \n unityhub://2023.2.0a10/67f0519c7f6d\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2C…",
+      "Url": "https://unity.com/releases/editor/alpha/2023.2.0a10",
+      "UrlToImage": null,
+      "PublishedAt": "2023-04-12T17:57:27Z",
+      "Content": "<li>2D: Added icons to the Clipboard and Brush Pick overlays for Tile Palette when the overlays are collapsed.\r\n(UUM-29771)\r\n</li><li>2D: Added the shortcut key to the tooltips for the toggles that a… [+79568 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Slashdot.org"
       },
       "Author": "feedfeeder",
@@ -132,6 +184,19 @@
       "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/hmNyqaWzdI3gsGDBXaQHVqxKwLU/0x0:4403x2312/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/04/12/649/n/1922398/99d8a7066436c17d0066e9.06923750_.jpg",
       "PublishedAt": "2023-04-12T17:10:02Z",
       "Content": "Jennifer Garner stars as Hannah in Apple TV+'s \"The Last Thing He Told Me,\" and her character ends up in some pretty stressful situations. In the show, which is based on the bestselling novel of the … [+2057 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.1.0b12",
+      "Description": "2023.1.0b12\n\n April 12, 2023\n \n unityhub://2023.1.0b12/8a4a42a7da8d\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2C…",
+      "Url": "https://unity.com/releases/editor/beta/2023.1.0b12",
+      "UrlToImage": null,
+      "PublishedAt": "2023-04-12T16:58:27Z",
+      "Content": "<li>2D: Added the shortcut key to the tooltips for the toggles activating overlays in the Tile Palette window.\r\n</li><li>2D: Enabled Sprite Library Assets to now be dragged and dropped into the scene… [+182499 chars]"
     },
     {
       "Source": {
@@ -1237,71 +1302,6 @@
       "UrlToImage": "https://images.newrepublic.com/d383a93361e53b95e060755667b782840000b869.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
       "PublishedAt": "2023-03-15T10:00:00Z",
       "Content": "This worked very well in the charmingly off-kilter first season, when Coach Lassos narrative obstacle was winning over a series of gruff antagonists, from the British sports media to the resistant pl… [+2572 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Soundandvision.com"
-      },
-      "Author": "Barb Gonzalez",
-      "Title": "Roku OS12 Update - Live News, Sports and a Revamped Mobile App",
-      "Description": "The Roku OS 12 update is on its way. Roku's updates often come with features users will actually notice. While not game-changing, the upcoming additions will be apparent as Roku TVs and devices get the update in the next few weeks. Amended channel partners, a…",
-      "Url": "https://www.soundandvision.com/content/roku-os12-update-live-news-sports-and-revamped-mobile-app",
-      "UrlToImage": "https://www.soundandvision.com/images/Local%20News%20copy.jpg",
-      "PublishedAt": "2023-03-15T00:00:00Z",
-      "Content": "The Roku OS 12 update is on its way. Roku's updates often come with features users will actually notice. While not game-changing, the upcoming additions will be apparent as Roku TVs and devices get t… [+3446 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Macworld"
-      },
-      "Author": "Macworld Staff",
-      "Title": "How to watch Apple TV+ on a Windows PC",
-      "Description": "Apple TV+ has plenty of decent shows worth watching, including Ted Lasso, Mythic Quest, The Morning Show, Severance and a number of other new ones on their way. While Apple devices come with a dedicated Apple TV+ app built in, the same isn’t true for Windows …",
-      "Url": "https://www.macworld.com/article/676083/how-to-watch-apple-tv-on-windows.html",
-      "UrlToImage": "https://www.macworld.com/wp-content/uploads/2023/03/how_to_watch_apple_tv_plus_on_windows_pc_main-4.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2023-03-14T19:26:43Z",
-      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nApple TV+ has plenty… [+2676 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Report: Netflix Working on U.S. Version of Squid Game",
-      "Description": "Following the massive popularity of Squid Game, Netflix is reportedly looking into potentially remaking the show in the United States. The latest report comes during an episode of The Hot Mic podcast, with The Ankler’s Jeff Sneider mentioning that the streame…",
-      "Url": "https://www.comingsoon.net/?p=1273579",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/squid-game.png?resize=1200,630",
-      "PublishedAt": "2023-03-14T19:00:00Z",
-      "Content": "Following the massive popularity of Squid Game, Netflix is reportedly looking into potentially remaking the show in the United States.\r\nThe latest report comes during an episode of The Hot Mic podcas… [+1468 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "How to stream every game of March Madness 2023",
-      "Description": "The selection committees have made their picks and the brackets are set. Another installment of arguably the best sports weekend of the year is about to tip off. March Madness or the NCAA basketball tournaments begin today with two First Four games on the men…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170542549",
-      "UrlToImage": null,
-      "PublishedAt": "2023-03-14T16:52:15Z",
-      "Content": "The selection committees have made their picks and the brackets are set. Another installment of arguably the best sports weekend of the year is about to tip off. March Madness or the NCAA basketball … [+6937 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Billy Steele",
-      "Title": "How to stream every game of March Madness 2023",
-      "Description": "The selection committees have made their picks and the brackets are set. Another installment of arguably the best sports weekend of the year is about to tip off. March Madness or the NCAA basketball tournaments begin today with two First Four games on the men…",
-      "Url": "https://www.engadget.com/march-madness-streaming-guide-163042028.html",
-      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/GcS82YH6.M6gwfm8hBjgfA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/3e750b10-c27a-11ed-bfd5-ab67b9a0eabd.cf.jpg",
-      "PublishedAt": "2023-03-14T16:30:42Z",
-      "Content": "The selection committees have made their picks and the brackets are set. Another installment of arguably the best sports weekend of the year is about to tip off. March Madness or the NCAA basketball … [+7012 chars]"
     }
   ]
 }
