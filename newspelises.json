@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 160,
+  "TotalResults": 161,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Marcelo Stiletano",
+      "Title": "Super Mario Bros: la película, las razones del éxito animado que puede terminar con el reinado de Disney",
+      "Description": "La adaptación al cine del popular videojuego superó en las salas argentinas el millón de entradas vendidas en apenas diez días; también es líder de taquilla en otros 25 países",
+      "Url": "https://www.lanacion.com.ar/espectaculos/super-mario-bros-la-pelicula-las-razones-del-exito-animado-que-puede-terminar-con-el-reinado-de-nid16042023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/lzOP_4WQZS7nMk_E5g6N6Qm3GeE=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/VZSU4SWMYBDD5KLGBMJZG2NH6Q.jpg",
+      "PublishedAt": "2023-04-16T18:02:32Z",
+      "Content": "Lo sentimos, Disney. Super Mario Bros. podría consolidar a Universal como el nuevo líder de la animación, dice el título de una de las notas de análisis más recientes sobre el comportamiento de la ta… [+6616 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/93ba03/shazantman/840_560.jpeg",
       "PublishedAt": "2023-03-28T17:30:49Z",
       "Content": "Está claro que Kevin Feige y su ambicioso MCU no inventaron el cine de superhéroes, pero no cabe duda de que, a raíz del estreno de 'Iron Man' y los primeros compases de la narrativa a gran escala de… [+6153 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "John Tones",
-      "Title": "\"Expandir el mundo de John Wick es una prioridad\": Lionsgate quiere convertir a la saga en la nueva Marvel",
-      "Description": "Estaba claro que, por mucho que 'John Wick 4' dejara cerrada la historia del personaje interpretado por Keanu Reeves, Lionsgate no iba a permanecer indiferente a las extraordinarias recaudaciones de la película. Después de un 2022 en el que la compañía ha ten…",
-      "Url": "https://www.xataka.com/cine-y-tv/expandir-mundo-john-wick-prioridad-lionsgate-quiere-convertir-a-saga-nueva-marvel",
-      "UrlToImage": "https://i.blogs.es/a6fced/1366_2000/840_560.jpeg",
-      "PublishedAt": "2023-03-28T15:30:49Z",
-      "Content": "Estaba claro que, por mucho que 'John Wick 4' dejara cerrada la historia del personaje interpretado por Keanu Reeves, Lionsgate no iba a permanecer indiferente a las extraordinarias recaudaciones de … [+2884 chars]"
     }
   ]
 }
