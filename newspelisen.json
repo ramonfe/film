@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1286,
+  "TotalResults": 1287,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'The Phantom of the Opera' Closes on Broadway After 35 Years",
+      "Description": "The final curtain came down Sunday on New York's production of “The Phantom of the Opera,” ending Broadway’s longest-running show with thunderous standing ovations, champagne toasts and gold and silver confetti bursting from its famous chandelier. \n\n\nIt was s…",
+      "Url": "https://www.voanews.com/a/the-phantom-of-the-opera-closes-on-broadway-after-35-years/7053324.html",
+      "UrlToImage": "https://gdb.voanews.com/AB110453-A93C-4354-A70E-37753C6A46E8.jpg",
+      "PublishedAt": "2023-04-17T02:57:21Z",
+      "Content": "New York  The final curtain came down Sunday on New York's production of The Phantom of the Opera, ending Broadways longest-running show with thunderous standing ovations, champagne toasts and gold a… [+6070 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/1NiGyD6IeOywUrgEjLYLTSVhvV8/0x82:2160x1216/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/04/13/798/n/1922283/11d00a1464384572ee34f1.88330832_.jpg",
       "PublishedAt": "2023-04-13T21:45:03Z",
       "Content": "Image Source: HBO\r\nHBO's new miniseries \"The Sympathizer\" tells the complicated story of a man known only as the Captain who's planted by North Vietnam as a spy in the South Vietnam army before the V… [+1936 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dpreview.com"
-      },
-      "Author": "Kara Murphy",
-      "Title": "DJI announces the Inspire 3 with a 45MP full-frame camera",
-      "Description": "<table>\n\n<tr>\n<td></td>\n</tr>\n\r\n\n</table>\nDJI has announced the latest offering in its professional drone series, the Inspire 3. The lighter, more aerodynamic design features nine visual sensors for omnidirectional obstacle detection, a 161º ultra-wide FOV ni…",
-      "Url": "https://www.dpreview.com/news/7941131955/dji-announces-the-inspire-3-with-a-45mp-full-frame-camera",
-      "UrlToImage": "https://2.img-dpreview.com/files/p/E~TS940x788~articles/7941131955/KV2.jpeg",
-      "PublishedAt": "2023-04-13T21:44:00Z",
-      "Content": "DJI has announced the latest offering in its professional drone series, the Inspire 3. The lighter, more aerodynamic design features nine visual sensors for omnidirectional obstacle detection, a 161º… [+9504 chars]"
     }
   ]
 }

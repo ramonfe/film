@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1020,
+  "TotalResults": 1021,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Los Angeles Times"
+      },
+      "Author": "Associated Press",
+      "Title": "'Love Is Blind' sufre largo retraso de episodio en vivo",
+      "Description": "El amor no es paciente, el amor no es amable... al menos si se le pregunta a los aficionados de la serie de Netflix \"Love is Blind\".",
+      "Url": "https://www.latimes.com/espanol/entretenimiento/articulo/2023-04-16/love-is-blind-sufre-largo-retraso-de-episodio-en-vivo",
+      "UrlToImage": "https://ca-times.brightspotcdn.com/dims4/default/9b46c96/2147483647/strip/true/crop/4638x2435+0+329/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6e%2F09%2F20a8916241d6ba3e0540750b4eec%2Fap23107053759592.jpg",
+      "PublishedAt": "2023-04-17T02:13:49Z",
+      "Content": "El amor no es paciente, el amor no es amable... al menos si se le pregunta a los aficionados de la serie de Netflix Love is Blind.\r\nLos espectadores tuvieron que esperar más de una hora para poder ve… [+2440 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://andro4all.com/hero/2023/04/novedades-amazon-prime-segunda-semana-de-abril.png?width=1200",
       "PublishedAt": "2023-04-13T09:00:36Z",
       "Content": "\"El pueblo\" es una de las apuestas de Amazon Prime Video para esta semana\r\nAmazon Prime Video apuesta por el humor esta semana del 14 al 16 de abril. Tenemos dos novedades en las que el eje son las c… [+3496 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Karol G habla del vínculo que le relaciona con Pablo Escobar por primera vez",
-      "Description": "El panorama musical actual cuenta con varios nombres de mujer que acaparan el éxito de las listas de influencia. Entre estas artistas, una de las más populares es Karol G , la colombiana que, además de por su música, triunfa por el mensaje empoderador que lan…",
-      "Url": "https://www.abc.es/gente/karol-habla-vinculo-relaciona-pablo-escobar-primera-20230413103506-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2023/04/13/karolg-pablo-escobar-U5016639376088fD--1024x512@abc.jpg",
-      "PublishedAt": "2023-04-13T08:35:09Z",
-      "Content": "El panorama musical actual cuenta con varios nombres de mujer que acaparan el éxito de las listas de influencia. Entre estas artistas, una de las más populares es Karol G, la colombiana que, además d… [+2500 chars]"
     }
   ]
 }
