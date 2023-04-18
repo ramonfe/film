@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1009,
+  "TotalResults": 1010,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Lucas Bravo, de sorprender en 'Emily en París' a hacerlo sobre la pasarela",
+      "Description": "Justo como apertura del desfile de la colección otoño-invierno 2023/24 de la firma Louis Gabriel Nouchi que tuvo lugar en la Semana de la Moda de París el pasado mes de enero apareció desfilando un hombre cuyo rostro nos resultó especialmente familiar. Llevab…",
+      "Url": "https://www.abc.es/summum/estilo/moda/lucas-bravo-sorprender-emily-paris-hacerlo-sobre-20230401231227-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/summum/2023/04/02/emilyinparis2-U81701315522mci-1024x512@abc.jpeg",
+      "PublishedAt": "2023-04-17T22:21:31Z",
+      "Content": "Justo como apertura del desfile de la colección otoño-invierno 2023/24 de la firma Louis Gabriel Nouchi que tuvo lugar en la Semana de la Moda de París el pasado mes de enero apareció desfilando un h… [+4143 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/ea686fe4-3f92-4a76-8fa9-a7df8f436454_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-04-14T08:21:40Z",
       "Content": "La cantante y actriz Belinda acudió este jueves por primera vez a El Hormiguero, donde fue entrevistada por Pablo Motos para presentar la canción que sirve de tema principal a la segunda temporada de… [+1880 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Matthew McConaughey y Woody Harrelson podrían ser hermanos, y no estamos preparados para esto",
-      "Description": "No es el día de los Santos Inocentes y April’s Fools ha pasado ya. Es real, Matthew McConaughey y Woody Harrelson creen que podrían ser hermanos, y acaban de destrozar internet con esta revelación para la que nadie estaba preparado.\r\n\nQue los dos actores son …",
-      "Url": "https://www.revistagq.com/noticias/articulo/matthew-mcconaughey-woody-harrelson-hermanos-historia",
-      "UrlToImage": "https://media.revistagq.com/photos/643907b48820974de0de677e/16:9/w_1280,c_limit/1059322484",
-      "PublishedAt": "2023-04-14T08:01:34Z",
-      "Content": "Al ser de Texas, como la madre de McConaughey, no sería raro que lo hubiera visto o lo hubiera conocido en algún momento, y es que estamos hablando de finales de los años 60. Sin embargo, la forma en… [+1817 chars]"
     }
   ]
 }
