@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1283,
+  "TotalResults": 1284,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'Mario' Tops Charts Again; 'Beau Is Afraid' Wins in Limited",
+      "Description": "\"The Super Mario Bros. Movie\" scored the best second weekend ever for an animated movie in North American theaters with $87 million in ticket sales, according to studio estimates Sunday. The family-friendly Universal release dropped a slim 41% from its record…",
+      "Url": "https://www.voanews.com/a/mario-tops-charts-again-beau-is-afraid-wins-in-limited/7052959.html",
+      "UrlToImage": "https://gdb.voanews.com/75b48054-e7c3-4c9c-aa40-008f0e34b33b_cx0_cy0_cw92_w1200_r1.jpg",
+      "PublishedAt": "2023-04-17T00:03:41Z",
+      "Content": "\"The Super Mario Bros. Movie\" scored the best second weekend ever for an animated movie in North American theaters with $87 million in ticket sales, according to studio estimates Sunday. The family-f… [+3774 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://deadline.com/wp-content/uploads/2023/04/low-budget-high-earnings.jpg?w=1024",
       "PublishedAt": "2023-04-13T21:26:22Z",
       "Content": "Deadline’s Most Valuable Blockbuster tournament took a hiatus during the pandemic as movie theaters closed for the majority of 2020-2021 and theatrical day-and-date titles on both the big screen and … [+7542 chars]"
-    },
-    {
-      "Source": {
-        "Id": "time",
-        "Name": "Time"
-      },
-      "Author": "Mariah Espada",
-      "Title": "How The Internet Helped Turn The Super Mario Bros. Movie Into the Biggest Animated Movie Release Ever",
-      "Description": "Fans online have helped turn 'The Super Mario Bros. Movie' into a global phenomenon.",
-      "Url": "https://time.com/6271391/super-mario-bros-movie-set-records-internet/",
-      "UrlToImage": "https://api.time.com/wp-content/uploads/2023/04/Peaches-Mario.jpg?quality=85&w=1200&h=628&crop=1",
-      "PublishedAt": "2023-04-13T20:52:06Z",
-      "Content": "When a movie with an adorable Mushroom Kingdom, badass Princess Peach, and “simp” Bowser all come together it means two things: the Internet will be flooded with memes and the film, in this case The … [+2926 chars]"
     }
   ]
 }
