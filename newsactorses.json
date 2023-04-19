@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 858,
+  "TotalResults": 859,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Es actor de Hollywood e hizo un impresionante cambio físico: “Ya no tengo diabetes”",
+      "Description": "Billy Gardell, reconocido por su papel en la serie Mike & Molly, tomó una importante decisión durante la pandemia y bajó cerca de 70 kilos, una situación que le trajo múltiples beneficios de salud",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/es-actor-de-hollywood-e-hizo-un-impresionante-cambio-fisico-ya-no-tengo-diabetes-nid18042023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/jXNDkFV-sp7yNP5TnyHyLnDK214=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HEHJLFL3INERJFRN4H32QJFQTY.jpg",
+      "PublishedAt": "2023-04-18T21:16:03Z",
+      "Content": "Durante la pandemia, el actor Billy Gardell, quien se hizo famoso por interpretar al oficial de policía Mike Biggs en la sitcom Mike &amp; Molly, se sometió a una cirugía bariátrica para perder peso,… [+2815 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/04/14/fotograma-club-pelea-th-century.jpg",
       "PublishedAt": "2023-04-15T10:44:00Z",
       "Content": "Por supuesto que un medio tan amplio y poderoso como el cine no se iba a limitar solo a entretener a la audiencia. Al igual que con la gran literatura, el lenguaje cinematográfico dispone de los recu… [+5252 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Leticia Sánchez Medel",
-      "Title": "El pionero de la fotografía publicitaría",
-      "Description": "Las nuevas generaciones verán con asombro que la imagen publicitaria de “La rubia superior, la rubia que todos quieren” (encarnada hace décadas por mujeres de cabelleras doradas) tuvo entre sus protagonistas a la famosa actriz Farrah Fawcett. El testimonio se…",
-      "Url": "https://www.milenio.com/cultura/muestra-el-pionero-de-la-fotografia-publicitaria",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/04/14/barbara-gould-tufic-yazbek.jpg",
-      "PublishedAt": "2023-04-15T07:52:40Z",
-      "Content": "Las nuevas generaciones verán con asombro que la imagen publicitaria de La rubia superior, la rubia que todos quieren (encarnada hace décadas por mujeres de cabelleras doradas) tuvo entre sus protago… [+4322 chars]"
     }
   ]
 }
