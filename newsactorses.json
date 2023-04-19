@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 869,
+  "TotalResults": 870,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "Benicio del Toro, Premio Platino de Honor 2023: el hombre que pudo ser abogado y que eligió ser actor",
+      "Description": "El intérprete, nacido en Puerto Rico hace 56 años, tiene nacionalidad española y es uno de los mayores representantes del  cine ibeoramericano en  todo el mundo",
+      "Url": "https://www.hola.com/actualidad/20230418230295/benicio-del-toro-premio-de-honor-premios-platino-2023/",
+      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20230418230295/benicio-del-toro-premio-de-honor-premios-platino-2023/1-236-551/benicio-del-toro-getty-t.jpg",
+      "PublishedAt": "2023-04-18T14:20:52Z",
+      "Content": "Benicio del Toro nació hace 56 años en Puerto Rico y es en la actualidad uno de los actores más reconocidos y que mejor ha representado el ámbito iberoamericano en todo el mundo, y eso que su carrera… [+918 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/75111c68-231a-456d-b73a-772ce8dc5389_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-04-14T10:06:11Z",
       "Content": "Jung Chae-yul falleció este martes a los 26 años de edad. La joven actriz surcoreana que intentaba encontrar su hueco en el mundo de la interpretación, y que es conocida internacionalmente porla seri… [+1831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Alberto García",
-      "Title": "El Corte Inglés te regala una película si te llevas otras dos durante los 8 Días de Oro: ganadoras del Oscar, grandes clásicos y más cine de oferta para ampliar tu videoclub personal",
-      "Description": "El Corte Inglés ha adoptado la costumbre de poner de oferta cada poco tiempo películas y series, y durante unos días podemos llevarnos algunas de ellas a muy buen precio. En esta ocasión ofrece un 3x2, pero no de descuentos, sino que llevándote dos te regalan…",
-      "Url": "https://www.espinof.com/seleccion/corte-ingles-te-regala-pelicula-te-llevas-otras-dos-durante-8-dias-oro-ganadoras-oscar-grandes-clasicos-cine-oferta-para-ampliar-tu-videoclub-personal",
-      "UrlToImage": "https://i.blogs.es/1b19f5/peliculas-eci/840_560.jpeg",
-      "PublishedAt": "2023-04-14T10:01:26Z",
-      "Content": "El Corte Inglés ha adoptado la costumbre de poner de oferta cada poco tiempo películas y series, y durante unos días podemos llevarnos algunas de ellas a muy buen precio. En esta ocasión ofrece un 3x… [+3895 chars]"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1031,
+  "TotalResults": 1032,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Fotos: Netflix, Redacción verTele",
+      "Title": "Netflix enseña a Úrsula Corberó y Quim Gutiérrez en 'El cuerpo en llamas', su serie del crimen de la Guardia Urbana",
+      "Description": "A finales de 2022 se anunció que Netflix iba a producir una serie sobre el crimen de la Guardia Urbana, y poco después la plataforma adelantó que Úrsula Corberó y Quim Gutiérrez serían sus protagonistas. El cuerpo en llamas, que así se llama la ficción, ha mo…",
+      "Url": "https://vertele.eldiario.es/series/netflix-ensena-ursula-corbero-quim-gutierrez-cuerpo-llamas-serie-crimen-guardia-urbana_3_10130419.html",
+      "UrlToImage": "https://static.eldiario.es/clip/e241ee5b-fb78-4b30-ae03-0f559f1e1a5e_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-04-18T14:33:31Z",
+      "Content": "A finales de 2022 se anunció que Netflix iba a producir una serie sobre el crimen de la Guardia Urbana, y poco después la plataforma adelantó que Úrsula Corberó y Quim Gutiérrezserían sus protagonist… [+1469 chars]"
+    },
     {
       "Source": {
         "Id": "ign",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/e194c9/rick-y-morty-anime/840_560.jpeg",
       "PublishedAt": "2023-04-14T15:06:23Z",
       "Content": "Warner acaba de revolucionar su propia plataforma con la desaparición de HBO MAX para dar el paso a Max, el nuevo servicio de streaming bajo demanda que llegará el próximo mes de mayo a Estados Unido… [+1589 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "hola.com",
-      "Title": "Todo sobre el estreno de la nueva temporada de 'El pueblo' con un fichaje estrella: Pablo Rivero",
-      "Description": "Después de tres años desde su estreno, la serie de El pueblo saca a la luz este viernes, 14 de abril su cuarta temporada en Amazon Prime. Una nueva entrega que se grabó sin saber que iba a ser la última. Durante su rodaje, fue el propio Alberto Caballero, cre…",
-      "Url": "https://es-us.vida-estilo.yahoo.com/estreno-temporada-pueblo-fichaje-estrella-144626586.html",
-      "UrlToImage": "https://media.zenfs.com/es/hola.com/6053d9c1e545e5474721f0eea2462f78",
-      "PublishedAt": "2023-04-14T14:46:26Z",
-      "Content": "Después de tres años desde su estreno, la serie deEl pueblo saca a la luz este viernes, 14 de abril su cuarta temporada en Amazon Prime. Una nueva entrega que se grabó sin saber que iba a ser la últi… [+2942 chars]"
     }
   ]
 }
