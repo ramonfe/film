@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1029,
+  "TotalResults": 1031,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Estrella Gomez",
+      "Title": "Revelada una nueva imagen de la Temporada 2 de La Casa del Dragón: su rodaje ya ha comenzado",
+      "Description": "Los Targaryen vuelven a la acción.\nHBO Max ha anunciado que la Temporada 2 de la exitosa serie La Casa del Dragón ya ha empezado su producción.",
+      "Url": "https://es.ign.com/juego-de-tronos-house-of-the-dragon/190077/news/revelada-una-nueva-imagen-de-la-temporada-2-de-la-casa-del-dragon-su-rodaje-ya-ha-comenzado",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/image/h/how-game-o/how-game-of-thrones-daenerys-connects-to-house-of-the-dragon_pa8f.1200.jpg",
+      "PublishedAt": "2023-04-18T13:30:21Z",
+      "Content": "Los responsables de La Casa del Dragón, la exitosa serie precuela de Juego de Tronos, han compartido una primera imagen del set de rodaje, anunciando así que ya ha empezado la producción de la Tempor… [+1922 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Redacción verTele",
+      "Title": "Telecinco promociona el regreso de 'El pueblo' al abierto, con la emisión de su temporada 3",
+      "Description": "Telecinco comienza a promocionar la tercera temporada de El Pueblo, que se emitirá próximamente en abierto. Todavía no se ha anunciado la fecha de emisión. El principal canal de Mediaset aprovecha el estreno de la cuarta y última temporada de la ficción el pa…",
+      "Url": "https://vertele.eldiario.es/series/telecinco-promociona-regreso-pueblo-abierto-emision-temporada-3_1_10129533.html",
+      "UrlToImage": "https://static.eldiario.es/clip/4318480b-6feb-49e9-bba0-3d905c0bfef2_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-04-18T13:25:21Z",
+      "Content": "Telecinco comienza a promocionar la tercera temporada de El Pueblo, que se emitirá próximamente en abierto.Todavía no se ha anunciado la fecha de emisión. \r\n'El Pueblo' lanza su tráiler oficial antes… [+2456 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://media.zenfs.com/es/hola.com/6053d9c1e545e5474721f0eea2462f78",
       "PublishedAt": "2023-04-14T14:46:26Z",
       "Content": "Después de tres años desde su estreno, la serie deEl pueblo saca a la luz este viernes, 14 de abril su cuarta temporada en Amazon Prime. Una nueva entrega que se grabó sin saber que iba a ser la últi… [+2942 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Yahoo Latam (Cine 54)",
-      "Title": "'Obsesión', crónica de dos horas y media exasperantes en Netflix",
-      "Description": "La serie limitada está compuesta por cuatro episodios y la podemos ver completa en dos horas y media. Aunque en 'Obsesión' la libido narrativa brilla por su ausencia.",
-      "Url": "https://es-us.vida-estilo.yahoo.com/obsesion-cronica-dos-horas-exasperantes-netflix-143858713.html",
-      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-04/4fb789e0-dace-11ed-b7f6-d0da2c77fd20",
-      "PublishedAt": "2023-04-14T14:38:58Z",
-      "Content": "Anna Barton (Charlie Murphy) y William Farrow (Richard Armitage) (Ana Blumenkron/Netflix)\r\nApelar a los placeres más ocultos del ser humano siempre ha sido una herramienta infalible en el mundo del a… [+6898 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Republica.com"
-      },
-      "Author": "República/Agencias",
-      "Title": "El filón inagotable de 'Juego de Tronos': una nueva precuela aterrizará en HBO Max",
-      "Description": "Una precuela de Juego de Tronos y una serie derivada de la cómica The Big Bang Theory llegarán en los próximos meses a HBO Max, la plataforma de 'streaming' anunciaba esta semana por el conglomerado de medios Warner Bros. Discovery tras fusionar HBO Max y Dis…",
-      "Url": "https://www.republica.com/television/el-filon-inagotable-de-juego-de-tronos-una-nueva-precuela-aterrizara-en-hbo-max-20230414-16341917628/",
-      "UrlToImage": "https://www.republica.com/wp-content/uploads/2023/04/Escena-de-La-casa-del-dragon.-HBO.jpg",
-      "PublishedAt": "2023-04-14T14:34:12Z",
-      "Content": "Una precuela de Juego de Tronos y una serie derivada de la cómica The Big Bang Theory llegarán en los próximos meses a HBO Max, la plataforma de 'streaming' anunciaba esta semana por el conglomerado … [+2282 chars]"
     }
   ]
 }
