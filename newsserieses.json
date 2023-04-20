@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1057,
+  "TotalResults": 1058,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Alejandra Ramos",
+      "Title": "¿Recuerdas el penthouse de Kendall Roy de \"Succession\"? Ahora puedes comprarlo",
+      "Description": "El penthouse en 180 East 88th Street en Nueva York, que fue el hogar del personaje de Jeremy Strong en la exitosa serie de HBO \"Succession\", está a la venta.",
+      "Url": "https://cnnespanol.cnn.com/2023/04/19/penthouse-succession-kendall-roy-a-la-venta-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/04/230419124430-01-kendall-roy-succession-penthouse-sale-top-super-tease.jpeg?quality=100&strip=info",
+      "PublishedAt": "2023-04-19T21:31:56Z",
+      "Content": "Los secretos de los Murdoch, la familia mediática más poderosa del mundo 1:51\r\n(CNN) -- Si alguna vez deseaste un departamento extravagante con un código postal del Upper East Side en Nueva York para… [+1459 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://s3.abcstatics.com/media/play/2023/04/17/ana-armas-saturday-night-live-k0zB--1024x512@abc.png",
       "PublishedAt": "2023-04-17T13:38:13Z",
       "Content": "Óscar Rus\r\nMadrid\r\n Actualizado:17/04/2023 15:57h\r\nGuardar\r\n Noticias relacionadas\r\nAna de Armas (34), la actriz hispanocubana nominada al Oscar por interpretar a Marilyn Monroe en la película de Net… [+4251 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "John Tones",
-      "Title": "Netflix probó a emitir un reality show en directo. Acto seguido la plataforma se vino abajo",
-      "Description": "'Love Is Blind' es uno de esos programas de Netflix que no generan tanta expectación entre los medios y cuyas noticias no son seguidas minuto a minuto, pero que generan un considerable interés aunque a menudo pasen bajo el radar. Por ejemplo, la cuarta tempor…",
-      "Url": "https://www.xataka.com/streaming/netflix-probo-a-emitir-reality-show-directo-acto-seguido-plataforma-se-vino-abajo",
-      "UrlToImage": "https://i.blogs.es/b15f75/love_is_blind_s4_e7_00_20_57_03r-scaled/840_560.jpeg",
-      "PublishedAt": "2023-04-17T13:30:43Z",
-      "Content": "'Love Is Blind' es uno de esos programas de Netflix que no generan tanta expectación entre los medios y cuyas noticias no son seguidas minuto a minuto, pero que generan un considerable interés aunque… [+4290 chars]"
     }
   ]
 }
