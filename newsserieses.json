@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1058,
+  "TotalResults": 1059,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "MartinPixel",
+      "Title": "Amazon Prime Video revoluciona el mundo del streaming: esta función pionera hará que escuchar bien los diálogos no vuelva a ser un problema",
+      "Description": "Es común que cuando estamos viendo una película por streaming nos encontremos momentos donde los diálogos se escuchen un poco bajo, provocando que subamos el volumen, para que la siguiente escena notemos que el volumen está muy alto y tengamos que bajarlo, to…",
+      "Url": "https://www.xataka.com.mx/streaming/amazon-prime-video-revoluciona-mundo-streaming-esta-funcion-pionera-hara-que-escuchar-bien-dialogos-no-vuelva-a-ser-problema",
+      "UrlToImage": "https://i.blogs.es/18dad3/prime-video-dialogue-boost/840_560.jpeg",
+      "PublishedAt": "2023-04-19T22:15:54Z",
+      "Content": "Es común que cuando estamos viendo una película por streaming nos encontremos momentos donde los diálogos se escuchen un poco bajo, provocando que subamos el volumen, para que la siguiente escena not… [+1658 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/643d41dde0ec3daa11a7d4b8/16:9/w_1280,c_limit/barry.png",
       "PublishedAt": "2023-04-17T13:45:34Z",
       "Content": "Cuando le habló por primera vez a Alec Berg, productor ejecutivo de Silicon Valley, acerca de su idea para una serie de televisión, Bill Hader tenía el pitch perfecto: Imagina a alguien como yo, pero… [+3209 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "El 'feo' de Ana de Armas a España en horario de máxima audiencia",
-      "Description": "Ana de Armas (34), la actriz hispanocubana nominada al Oscar por interpretar a Marilyn Monroe en la película de Netflix 'Blonde', fue este sábado 15 de abril una de los tres invitados de 'Saturday Night Live', el histórico programa de humor del canal NBC, que…",
-      "Url": "https://www.abc.es/play/television/noticias/abci-armas-espana-horario-maxima-audiencia-202304171538_noticia.html",
-      "UrlToImage": "https://s3.abcstatics.com/media/play/2023/04/17/ana-armas-saturday-night-live-k0zB--1024x512@abc.png",
-      "PublishedAt": "2023-04-17T13:38:13Z",
-      "Content": "Óscar Rus\r\nMadrid\r\n Actualizado:17/04/2023 15:57h\r\nGuardar\r\n Noticias relacionadas\r\nAna de Armas (34), la actriz hispanocubana nominada al Oscar por interpretar a Marilyn Monroe en la película de Net… [+4251 chars]"
     }
   ]
 }
