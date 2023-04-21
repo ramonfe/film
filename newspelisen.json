@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1309,
+  "TotalResults": 1312,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "PTI",
+      "Title": "Netflix sets release date of Sanya Malhotra-starrer 'Kathal'",
+      "Description": "Netflix announced that the investigative satire comedy 'Kathal - A Jackfruit Mystery', starring Indian actress Sanya Malhotra, will be available on the platform on May 19. The movie, directed by Yashowardhan Mishra, follows the journey of Mahima (Malhotra), a…",
+      "Url": "https://economictimes.indiatimes.com/magazines/panache/netflix-sets-release-date-of-sanya-malhotra-starrer-kathal/articleshow/99629731.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-99629976,width-1070,height-580,imgsize-67860,overlay-etpanache/photo.jpg",
+      "PublishedAt": "2023-04-20T04:32:21Z",
+      "Content": "Streaming platform Netflix on Wednesday said 'Kathal - A Jackfruit Mystery', headlined by Sanya Malhotra, will premiere on May 19. Inspired by true events and set in a fictional town called Moba, the… [+2262 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "seattlepi.com"
+      },
+      "Author": "By JAKE COYLE, AP Film Writer",
+      "Title": "Movie theaters and streamers may end up friends, after all",
+      "Description": "Not long ago, some were predicting more and more films would be diverted from theaters and sent straight into homes. Moviegoing was destined to die, they said. Not only has that forecast fallen flat, the opposite is happening in some cases. Amazon and Apple a…",
+      "Url": "https://www.seattlepi.com/entertainment/article/movie-theaters-and-streamers-may-end-up-friends-17907684.php",
+      "UrlToImage": "https://www.seattlepi.com/img/modules/siteheader/brand.png",
+      "PublishedAt": "2023-04-20T04:20:08Z",
+      "Content": "Poster art for the Amazon Studios film \"Air\" is displayed on the marquee of the Los Feliz Theater, Wednesday, April 19, 2023, in Los Angeles. Amazon Studios plans to release 12 to 15 movies theatrica… [+12147 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "apnews.com",
+      "Title": "Movie theaters and streamers may end up friends, after all",
+      "Description": "After Ben Affleck and Matt Damon test screened their Nike drama “Air,” the film executives at Amazon Studios threw them a curveball. “They said, ‘What do you guys think about a theatrical release?’” Damon says. “It wasn’t what we expected when we first made t…",
+      "Url": "https://biztoc.com/x/2d2d6aaf652d0f45",
+      "UrlToImage": "https://c.biztoc.com/p/2d2d6aaf652d0f45/og.webp",
+      "PublishedAt": "2023-04-20T04:20:05Z",
+      "Content": "After Ben Affleck and Matt Damon test screened their Nike drama Air, the film executives at Amazon Studios threw them a curveball.They said, What do you guys think about a theatrical release? Damon s… [+292 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -799,19 +838,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Gameinformer.com"
-      },
-      "Author": "Wesley LeBlanc",
-      "Title": "Dead Island 2 Review - A Good Weekend Getaway To LA",
-      "Description": "Reviewed on:\n PlayStation 5\n \n Platform:\n PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC\n \n Publisher:\n Deep Silver\n \n Developer:\n Dambuster Studios\n \n Release:\n April 21, 2023\n\n \n Rating:\n Mature\n \n\n Dead Island 2 was announced just a fe…",
-      "Url": "https://www.gameinformer.com/review/dead-island-2/a-good-weekend-getaway-to-la",
-      "UrlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/04/17/a7616e86/amy.jpg",
-      "PublishedAt": "2023-04-18T14:00:00Z",
-      "Content": "Dead Island 2 was announced just a few years after its 2011 predecessor, but the sequel has taken nearly a decade to come to life. Developer Dambuster Studios is the third studio to work on the game,… [+7781 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "ComingSoon.net"
       },
       "Author": "Spencer Legacy",
@@ -821,6 +847,19 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/04/all-the-light-we-cannot-see-header.png?resize=1200,630",
       "PublishedAt": "2023-04-18T14:00:00Z",
       "Content": "The first All The Light We Cannot See teaser trailer has been released, teasing Netflixs adaptation of the Pulitzer Prize-winning novel. The series is set to premiere on Netflix on November 2, 2023.\r… [+1300 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gameinformer.com"
+      },
+      "Author": "Wesley LeBlanc",
+      "Title": "Dead Island 2 Review - A Good Weekend Getaway To LA",
+      "Description": "Reviewed on:\n PlayStation 5\n \n Platform:\n PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Stadia, PC\n \n Publisher:\n Deep Silver\n \n Developer:\n Dambuster Studios\n \n Release:\n April 21, 2023\n\n \n Rating:\n Mature\n \n\n Dead Island 2 was announced just a fe…",
+      "Url": "https://www.gameinformer.com/review/dead-island-2/a-good-weekend-getaway-to-la",
+      "UrlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/04/17/a7616e86/amy.jpg",
+      "PublishedAt": "2023-04-18T14:00:00Z",
+      "Content": "Dead Island 2 was announced just a few years after its 2011 predecessor, but the sequel has taken nearly a decade to come to life. Developer Dambuster Studios is the third studio to work on the game,… [+7781 chars]"
     },
     {
       "Source": {
@@ -1215,19 +1254,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Exclusive Americonned Trailer Previews the Income Inequality Documentary",
-      "Description": "ComingSoon is debuting an exclusive Americonned trailer for the award-winning documentary from director Sean Claffey. The film is set to debut theatrically in New York and Los Angeles on June 9, followed by its video-on-demand release on June 13. “Americonned…",
-      "Url": "https://www.comingsoon.net/?p=1281647",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/04/americonned-trailer-header.png?resize=1200,630",
-      "PublishedAt": "2023-04-17T16:00:00Z",
-      "Content": "ComingSoon is debuting an exclusive Americonned trailer for the award-winning documentary from director Sean Claffey. The film is set to debut theatrically in New York and Los Angeles on June 9, foll… [+809 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Kotaku"
       },
       "Author": "Sisi Jiang",
@@ -1237,6 +1263,19 @@
       "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/97a318853d401f68cc116d7af0c646d8.jpg",
       "PublishedAt": "2023-04-17T16:00:00Z",
       "Content": "The Super Mario Bros. Movie may be a designer baby that Nintendo and Illumination grew in a lab, but all the aggressivemarketing that accompanied the release is clearly paying off. The film hit a new… [+1925 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Spencer Legacy",
+      "Title": "Exclusive Americonned Trailer Previews the Income Inequality Documentary",
+      "Description": "ComingSoon is debuting an exclusive Americonned trailer for the award-winning documentary from director Sean Claffey. The film is set to debut theatrically in New York and Los Angeles on June 9, followed by its video-on-demand release on June 13. “Americonned…",
+      "Url": "https://www.comingsoon.net/?p=1281647",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/04/americonned-trailer-header.png?resize=1200,630",
+      "PublishedAt": "2023-04-17T16:00:00Z",
+      "Content": "ComingSoon is debuting an exclusive Americonned trailer for the award-winning documentary from director Sean Claffey. The film is set to debut theatrically in New York and Los Angeles on June 9, foll… [+809 chars]"
     },
     {
       "Source": {
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2023/04/wicked-witch-of-the-west.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2023-04-17T15:37:39Z",
       "Content": "Some would argue that it’s unfair to judge an entire movie from two promotional images. That being said, the point of these photos is to advertise what a film will look like… and our first look at Wi… [+2081 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Quentin Tarantino Says DEATH PROOF Bombing Was a \"Shock to My Confidence\" and Discusses Lack of Sex in His Movies",
-      "Description": "Quentin Tarantino has been out on a book tour for his Cinema Speculation, and in one interview with Spain’s Diari ARA, he opened up about his 2017 movie Death Proof and how bombing at the box office was a shock to his confidence. Death Proof was part of the G…",
-      "Url": "https://geektyrant.com/news/quentin-tarantino-says-death-proof-bombing-was-a-shock-to-my-confidence-and-discusses-lack-of-sex-in-his-movies",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64398624d2abe06930bc5f0f/1681745449790/quentin-tarantino-says-death-proof-bombing-was-a-shock-to-my-confidence-and-discusses-lack-of-sex-in-his-movies.jpg?format=1500w",
-      "PublishedAt": "2023-04-17T15:30:00Z",
-      "Content": "Quentin Tarantino has been out on a book tour for his Cinema Speculation, and in one interview with Spains Diari ARA, he opened up about his 2017 movie Death Proof and how bombing at the box office w… [+2925 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Mail"
-      },
-      "Author": "Fiona Jackson",
-      "Title": "The science of Super Mario: How Nintendo's famous plumber would CRUSH the human high jump record",
-      "Description": "To celebrate the release of 'The Super Mario Movie', MailOnline takes a look at what physical features the Italian hero must have for his superhuman jumps and speed.",
-      "Url": "https://www.dailymail.co.uk/sciencetech/article-11969769/The-science-Super-Mario-Nintendos-famous-plumber-CRUSH-human-high-jump-record.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/04/17/08/69905101-0-image-a-20_1681714885929.jpg",
-      "PublishedAt": "2023-04-17T15:10:37Z",
-      "Content": "Mario, the eponymous hero of the popular video game series created in 1985, finally hit the silver screen last week. \r\nIn his games, the moustached plumber navigates through various worlds, battles e… [+12833 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Exclusive New Gods: Yang Jian Clip Previews Chinese Animated Epic",
-      "Description": "ComingSoon is debuting an exclusive New Gods: Yang Jian clip from GKIDS‘ animated action fantasy movie. The film is set to release on Blu-ray and DVD on April 25. “Thirteen years after Yang Jian imprisoned his sister, the once-powerful hero also known as Erla…",
-      "Url": "https://www.comingsoon.net/?p=1279661",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/04/new-gods-header.png?resize=1200,630",
-      "PublishedAt": "2023-04-17T15:00:00Z",
-      "Content": "ComingSoon is debuting an exclusive New Gods: Yang Jian clip from GKIDSanimated action fantasy movie. The film is set to release on Blu-ray and DVD on April 25.\r\nThirteen years after Yang Jian impris… [+1033 chars]"
     }
   ]
 }
