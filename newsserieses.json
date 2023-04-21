@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1066,
+  "TotalResults": 1067,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "¿Tenía Cleopatra la piel negra como defiende un polémico documental de Netflix?",
+      "Description": "La segunda temporada de 'Reinas de África', una serie documental de Netflix producida por Jada Pinkett Smith (la mujer de Will Smith), aborda la vida de la egipcia Cleopatra , que es caracterizada como una mujer de raza negra en contraste con todas las actric…",
+      "Url": "https://www.abc.es/historia/cleopatra-piel-negra-defiende-documental-netflix-20230421190635-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/historia/2023/04/21/cleopatra-netflix-negra-kBAE-U06336771006fJP-1024x512@abc.jpeg",
+      "PublishedAt": "2023-04-20T22:37:43Z",
+      "Content": "La segunda temporada de 'Reinas de África', una serie documental de Netflix producida por Jada Pinkett Smith (la mujer de Will Smith), aborda la vida de la egipcia Cleopatra, que es caracterizada com… [+5504 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/582b7b/monopoly-the-mandalorian/840_560.jpeg",
       "PublishedAt": "2023-04-18T09:00:53Z",
       "Content": "Aunque la tercera temporada de 'The Mandalorian' no haya conseguido mantener a su público expectante en cada capítulo, seguimos disfrutando cada momento de las aventuras del dúo Din Djarin y Baby Yod… [+2065 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Despiden al actor F. Murray Abraham de una serie de televisión por mala conducta sexual",
-      "Description": "El actor F. Murray Abraham (83), ganador de un Oscar por su papel como el compositor Antonio Salieri en la película 'Amadeus ' (1984) y uno de los protagonistas de la segunda temporada de la serie de HBO 'The White Lotus ' (2022), ha sido acusado de comportam…",
-      "Url": "https://www.abc.es/gente/despiden-actor-murray-abraham-serie-television-mala-20230418105551-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2023/04/18/f-murray-abraham-amadeus.jpg",
-      "PublishedAt": "2023-04-18T08:55:53Z",
-      "Content": "El actor F. Murray Abraham (83), ganador de un Oscar por su papel como el compositor Antonio Salieri en la película 'Amadeus' (1984) y uno de los protagonistas de la segunda temporada de la serie de … [+2137 chars]"
     }
   ]
 }
