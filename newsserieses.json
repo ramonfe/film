@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1065,
+  "TotalResults": 1066,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Pablo Mascareño",
+      "Title": "Mercedes Morán: por qué no habla de su vida privada y cuáles son las exigencias del medio ante el paso del tiempo",
+      "Description": "La reconocida actriz protagoniza Empieza el baile, film que se estrenó hoy y en el que conforma un trío estelar junto a Darío Grandinetti y Jorge Marrale, y es en los papeles el rostro de las producciones argentinas de Netflix gracias a la serie El reino, y l…",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/mercedes-moran-por-que-no-habla-de-su-vida-privada-y-cuales-son-las-exigencias-del-medio-ante-el-nid20042023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/f1rpxBT14p3-YH5L1lay1lyVqac=/1920x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/EI3E52G4I5HMJHZ7ACFF5O57HQ.JPG",
+      "PublishedAt": "2023-04-20T20:16:40Z",
+      "Content": "20 de abril de 202317:16Todavía no vi la película terminada, sostiene Mercedes Morán en el momento de mantener la charla con LA NACION y con vistas al estreno de hoy de Empieza el baile, el exquisito… [+14936 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2023/04/18/f-murray-abraham-amadeus.jpg",
       "PublishedAt": "2023-04-18T08:55:53Z",
       "Content": "El actor F. Murray Abraham (83), ganador de un Oscar por su papel como el compositor Antonio Salieri en la película 'Amadeus' (1984) y uno de los protagonistas de la segunda temporada de la serie de … [+2137 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Despiden al actor F. Murray Abraham, de 83 años, de la serie Mysthic Quest por conductas sexuales inapropiadas",
-      "Description": "El actor participó de las dos primeras temporadas de la comedia de Apple TV+, pero luego de recibir las denuncias de dos compañeras de elenco, la producción decidió dejarlo fuera del programa",
-      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/despiden-al-actor-f-murray-abraham-de-83-anos-de-la-serie-mysthic-quest-por-conductas-sexuales-nid18042023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/_rXkuyXQgLZFpPHIGHJ1mEA_T3Q=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/SONHRRYGZRFBTKOD4ODFMNKCPQ.jpg",
-      "PublishedAt": "2023-04-18T08:04:56Z",
-      "Content": "En abril de 2022 se anunció la salida de F. Murray Abraham de Mysthic Quest, antes de que comenzara a emitirse la tercera temporada de la serie de Apple TV+. En aquel momento, ni el estudio ni los pr… [+3149 chars]"
     }
   ]
 }
