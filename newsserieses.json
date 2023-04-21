@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1059,
+  "TotalResults": 1060,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": "https://www.facebook.com/bbcnews",
+      "Title": "Las quejas en Egipto por la serie de Netflix que presenta a una Cleopatra negra",
+      "Description": "Un abogado presentó una demanda contra la compañía audiovisual y dijo que el docudrama tiene como objetivo \"distorsionar la identidad egipcia\".",
+      "Url": "https://www.bbc.com/mundo/noticias-65328939",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/15023/production/_129415068_mediaitem129415065.jpg",
+      "PublishedAt": "2023-04-19T23:23:16Z",
+      "Content": "Fuente de la imagen, Netflix\r\nPie de foto, \"La reina Cleopatra\" presenta a la actriz británica Adele James como la gobernante egipcia.\r\nUna serie de Netflix que representa a la reina Cleopatra VII co… [+3586 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/edc1a233-885b-4e22-bdbc-ec6095f1d873_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-04-17T13:52:51Z",
       "Content": "Amazon Prime Video ha puesto fecha a la reapertura de El Castillo de Takeshi, popularizado aquí como Humor amarillo, en una nueva versión local producida por Encofrados Encofrasa, compañía de David B… [+2939 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "Bill Hader está listo para terminar con Barry",
-      "Description": "Cuando le habló por primera vez a Alec Berg, productor ejecutivo de Silicon Valley, acerca de su idea para una serie de televisión, Bill Hader tenía el pitch perfecto: “Imagina a alguien como yo, pero es un sicario”. Pocos meses después, ambos habían terminad…",
-      "Url": "https://www.revistagq.com/noticias/articulo/barry-temporada-4-bill-hader",
-      "UrlToImage": "https://media.revistagq.com/photos/643d41dde0ec3daa11a7d4b8/16:9/w_1280,c_limit/barry.png",
-      "PublishedAt": "2023-04-17T13:45:34Z",
-      "Content": "Cuando le habló por primera vez a Alec Berg, productor ejecutivo de Silicon Valley, acerca de su idea para una serie de televisión, Bill Hader tenía el pitch perfecto: Imagina a alguien como yo, pero… [+3209 chars]"
     }
   ]
 }
