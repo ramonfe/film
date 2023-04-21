@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1060,
+  "TotalResults": 1047,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Las quejas en Egipto por la serie de Netflix que presenta a una Cleopatra negra",
+      "Description": "Un abogado presentó una denuncia que acusa al docudrama Queen Cleopatra (“La reina Cleopatra”) de violar leyes de medios y de pretender “distorsionar y borrar la identidad egipcia”",
+      "Url": "https://www.lanacion.com.ar/espectaculos/las-quejas-en-egipto-por-la-serie-de-netflix-que-presenta-a-una-cleopatra-negra-nid19042023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/nz1itOb2D74XUTWQKQ7TBDmrh6k=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YJYGI2OG6JEUHJIJERMRR2VX6Y.jpg",
+      "PublishedAt": "2023-04-20T00:28:10Z",
+      "Content": "Una serie de Netflix que representa a la reina Cleopatra VII como una africana negra ha desatado polémica en Egipto.\r\nUn abogado presentó una denuncia que acusa al docudrama Queen Cleopatra (La reina… [+3175 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/069bc9/harry-potter-serie/840_560.jpeg",
       "PublishedAt": "2023-04-17T14:00:43Z",
       "Content": "En Warner dejaron claro en su momento que el principal objetivo de la compañía iba a ser seguir exprimiendo sus franquicias de éxito. En su caso había dos que brillaban con luz propia: 'El señor de l… [+4491 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Amazon pone fecha a la vuelta de 'El castillo de Takeshi', con producción de Broncano y música de Venga Monjas",
-      "Description": "Amazon Prime Video ha puesto fecha a la reapertura de El Castillo de Takeshi, popularizado aquí como Humor amarillo, en una nueva versión local producida por Encofrados Encofrasa, compañía de David Broncano, Ricardo Castella y Jorge Ponce responsable de La Re…",
-      "Url": "https://vertele.eldiario.es/noticias/amazon-pone-fecha-vuelta-castillo-takeshi-produccion-broncano-musica-venga-monjas_1_10126691.html",
-      "UrlToImage": "https://static.eldiario.es/clip/edc1a233-885b-4e22-bdbc-ec6095f1d873_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-04-17T13:52:51Z",
-      "Content": "Amazon Prime Video ha puesto fecha a la reapertura de El Castillo de Takeshi, popularizado aquí como Humor amarillo, en una nueva versión local producida por Encofrados Encofrasa, compañía de David B… [+2939 chars]"
     }
   ]
 }
