@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1231,
+  "TotalResults": 1232,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Greg Wehner",
+      "Title": "Young moose raids movie theater trash for popcorn and a Happy Meal: watch",
+      "Description": "Kenai, Alaska movie theater employees watched as a moose walked into the snack bar area and rummaged through the garbage, getting a Happy Meal stuck on its snout.",
+      "Url": "https://www.foxnews.com/lifestyle/young-moose-raids-movie-theater-trash-popcorn-happy-meal-watch",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/Moose-Alaska-Movie-Theater.jpg",
+      "PublishedAt": "2023-04-23T23:14:44Z",
+      "Content": "A Kenai, Alaska, movie theater received an unexpected guest last week who was more interested in snacks than any of the blockbuster hits showing on the big screen, as seen on video.\r\nA young moose mo… [+1790 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/3bcd9c07c7b653cd/og.webp",
       "PublishedAt": "2023-04-20T10:16:04Z",
       "Content": "After Ben Affleck and Matt Damon test screened their Nike drama Air, the film executives at Amazon Studios threw them a curveball.They said, What do you guys think about a theatrical release? Damon s… [+293 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "deadline.com",
-      "Title": "‘God Is A Bullet’, Starring Maika Monroe, Nikolaj Coster-Waldau & Jamie Foxx, Lines Up Theatrical Release In June",
-      "Description": "Patriot Pictures and XYZ Films have brought on Wayward Entertainment to release Nick Cassavetes action-thriller God Is A Bullet. Maika Monroe, Nikolaj Coster-Waldau, Karl Glusman, January Jones, Paul Johansson, David Thornton and Jamie Foxx star in the movie,…",
-      "Url": "https://biztoc.com/x/6dbb4eacf2e4ba7a",
-      "UrlToImage": "https://c.biztoc.com/p/6dbb4eacf2e4ba7a/og.webp",
-      "PublishedAt": "2023-04-20T07:38:12Z",
-      "Content": "Patriot Pictures and XYZ Films have brought on Wayward Entertainment to release Nick Cassavetes action-thriller God Is A Bullet.Maika Monroe, Nikolaj Coster-Waldau, Karl Glusman, January Jones, Paul … [+350 chars]"
     }
   ]
 }
