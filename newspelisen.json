@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1232,
+  "TotalResults": 1233,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'The Super Mario Bros. Movie' Is No. 1 for Third Week",
+      "Description": "\"The Super Mario Bros. Movie\" continued to rack up coins at the box office, leading ticket sales for the third straight weekend, as the animation hit neared $1 billion after just 18 days in theaters.\n\n\nThe weekend's top new release, the horror reboot \"Evil De…",
+      "Url": "https://www.voanews.com/a/the-super-mario-bros-movie-is-no-1-for-third-week/7062894.html",
+      "UrlToImage": "https://gdb.voanews.com/01000000-0a00-0242-07dc-08db39480dcc_w1200_r1.jpg",
+      "PublishedAt": "2023-04-23T23:42:52Z",
+      "Content": "New York  \"The Super Mario Bros. Movie\" continued to rack up coins at the box office, leading ticket sales for the third straight weekend, as the animation hit neared $1 billion after just 18 days in… [+3960 chars]"
+    },
     {
       "Source": {
         "Id": "fox-news",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/6440579887866054f11e5605/0x0.jpg?format=jpg&width=1200",
       "PublishedAt": "2023-04-20T12:00:00Z",
       "Content": "Universals The Super Mario Bros. Movie will top a massive $830+ million at the worldwide box office this weekend, after a huge opening weekend and impressive second weekend that both exceeded expecta… [+4641 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "fortune.com",
-      "Title": "Streamers like Netflix were meant to kill movie theaters",
-      "Description": "After Ben Affleck and Matt Damon test screened their Nike drama “Air,” the film executives at Amazon Studios threw them a curveball. “They said, ‘What do you guys think about a theatrical release?’” Damon says. “It wasn’t what we expected when we first made t…",
-      "Url": "https://biztoc.com/x/3bcd9c07c7b653cd",
-      "UrlToImage": "https://c.biztoc.com/p/3bcd9c07c7b653cd/og.webp",
-      "PublishedAt": "2023-04-20T10:16:04Z",
-      "Content": "After Ben Affleck and Matt Damon test screened their Nike drama Air, the film executives at Amazon Studios threw them a curveball.They said, What do you guys think about a theatrical release? Damon s… [+293 chars]"
     }
   ]
 }
