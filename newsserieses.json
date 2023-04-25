@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 989,
+  "TotalResults": 990,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "ROSA MENESES",
+      "Title": "La última polémica de Cleopatra",
+      "Description": "Una serie de Netflix sobre la reina Cleopatra ha causado ira e indignación en Egipto sin ni siquiera estrenarse aún. Hasta el punto en que un abogado del país árabe ha...",
+      "Url": "https://www.elmundo.es/internacional/2023/04/24/64454e40fc6c833b2a8b45a0.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/67ac8ea6a3334d0735e8e3aae946b3e7/f/jpg/assets/multimedia/imagenes/2023/04/23/16822682633330.jpg",
+      "PublishedAt": "2023-04-24T05:59:27Z",
+      "Content": "Una serie de Netflix sobre la reina Cleopatra ha causado ira e indignación en Egipto sin ni siquiera estrenarse aún. Hasta el punto en que un abogado del país árabe ha demandado a la plataforma acusá… [+5425 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/6440d225fa268d865350ae04/16:9/w_1280,c_limit/Captura%20de%20pantalla%202023-04-20%20a%20las%207.46.56.png",
       "PublishedAt": "2023-04-20T06:04:37Z",
       "Content": "Gravity Falls es una de esas cosas que sabía que me iban a encantar, pero que nunca había reunido tiempo para ver. Y ahora que ya lo he hecho, no puedo pensar en otra cosa. Solo había pillado algún c… [+2762 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Marisa de Dios",
-      "Title": "William Levy: \"Los latinos trabajamos mucho sin quejarnos. Tenemos que imponernos más\"",
-      "Description": "William Levy (La Habana, Cuba, 1980) es mundialmente conocido por su papel de galán en la exitosa 'Café con aroma de mujer' de Netflix, pero también lleva un tiempo dedicado a la producción. El actor que provoca suspiros allá por donde pasa (que se lo digan a…",
-      "Url": "https://www.elperiodico.com/es/series/20230420/william-levy-entrevista-montecristo-86196562",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/50d8799f-45de-46df-9d06-c34fb03853e1_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-04-20T05:00:21Z",
-      "Content": "William Levy (La Habana, Cuba, 1980) es mundialmente conocido por su papel de galán en la exitosa 'Café con aroma de mujer' de Netflix, pero también lleva un tiempo dedicado a la producción. El actor… [+5634 chars]"
     }
   ]
 }
