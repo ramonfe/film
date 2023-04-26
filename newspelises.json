@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 172,
+  "TotalResults": 173,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Marcos Méndez",
+      "Title": "Amazon Prime Video confirma 'OT', detalla cómo será 'El castillo de Takeshi' y anuncia dos nuevas series",
+      "Description": "Amazon Prime Video ha presentado la mañana de este martes 25 de abril, en su evento Prime Video Presents España moderado por Tania Llasera y al que ha acudido verTele junto al resto de periodistas, sus próximas grandes bazas de ficción y su apuesta redoblada …",
+      "Url": "https://vertele.eldiario.es/noticias/amazon-prime-video-presentacion-ot-castillo-takeshi-nuevas-series-en-fin-circo-muchachos_1_10149724.html",
+      "UrlToImage": "https://static.eldiario.es/clip/ee2c4ab3-fc2b-42ae-8578-879398a6bd98_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-04-25T13:35:30Z",
+      "Content": "Amazon Prime Video ha presentado la mañana de este martes 25 de abril, en su evento Prime Video Presents España moderado por Tania Llasera y al que ha acudido verTele junto al resto de periodistas, s… [+18030 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/abab07/christopher-nolan/840_560.jpeg",
       "PublishedAt": "2023-04-09T13:30:34Z",
       "Content": "Como suele ocurrir cada vez que se aproxima la fecha de estreno de uno de sus largometrajes, la conversación cinematográfica encuentra en Christopher Nolan su principal objeto de obsesión y arduo deb… [+14490 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Xavi Mogrovejo",
-      "Title": "La película de Super Mario Bros. apunta a batir récords en taquilla",
-      "Description": "<!--cache-->El filme de Illumination Entertainment apunta a conseguir 368 millones de dólares a nivel global y es el segundo mejor estreno de animación en Estados Unidos.<!--aa--->La película de Super Mario Bros. se estrenó el pasado 5 de abril en salas de ci…",
-      "Url": "https://vandal.elespanol.com/noticia/1350761407/la-pelicula-de-super-mario-bros-apunta-a-batir-records-en-taquilla/",
-      "UrlToImage": "https://media.vandal.net/i/ivandal/1200x630/4-2023/20234910433673_1.jpg",
-      "PublishedAt": "2023-04-09T09:12:00Z",
-      "Content": "La pelcula de Super Mario Bros. se estren el pasado 5 de abril en salas de cine y est arrasando en taquilla, como era de esperar. El nuevo largometraje de Illumination Entertainment, sin embargo, ha … [+2051 chars]"
     }
   ]
 }
