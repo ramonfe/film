@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 982,
+  "TotalResults": 983,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "AFP",
+      "Title": "Netflix anuncia una inversión de 2.500 millones de dólares en contenido surcoreano",
+      "Description": "Corea del Sur se ha convertido en una potencia cultural global en años recientes, gracias en parte al éxito de la oscarizada película Parásitos o de la serie de Netflix El juego del calamar Leer",
+      "Url": "https://www.elmundo.es/television/2023/04/25/644746e4fc6c83ed518b45d6.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/7c48e3ed6206aefcdd6fb69edd0581f9/f/jpg/assets/multimedia/imagenes/2023/04/25/16823927889438.png",
+      "PublishedAt": "2023-04-25T03:20:08Z",
+      "Content": "Netflix invertirá 2.500 millones de dólares en contenido surcoreano en los próximos cuatro años, dijo el director ejecutivo del gigante del streaming, Ted Sarandos, tras un encuentro en Washington co… [+1831 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/64425245b2671e9888f4d9bb/16:9/w_1280,c_limit/The_Night_Agent_S1_E10_00_11_36_06R.jpg",
       "PublishedAt": "2023-04-21T09:12:11Z",
       "Content": "La serie más vista de Netflix por cuarta semana consecutiva sigue dando alegrías a la plataforma. Y es que este nuevo éxito no solo ha logrado situarse ya como la sexta más reproducida en la historia… [+2325 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Victor M. González",
-      "Title": "Lola Rodríguez: “Me parece superpoderoso que en Bienvenidos a Edén haya un personaje como Mayka, pero más poderoso aún que no se la victimice por ser trans”",
-      "Description": "En los primeros personajes de Lola Rodríguez (Gran Canaria, 1998) hay una dualidad que da un interesante significado no solo a su carrera hasta ahora, sino a dos dinámicas estimulantes de la representación de las mujeres trans en la cultura pop. Por un lado, …",
-      "Url": "https://www.revistagq.com/articulo/lola-rodriguez-entrevista-gq-bienvenidos-a-eden-veneno-personajes-trans",
-      "UrlToImage": "https://media.revistagq.com/photos/64415bdbdaff4285e79c8c2b/16:9/w_1280,c_limit/lola-rodriguez-1.jpg",
-      "PublishedAt": "2023-04-21T08:26:52Z",
-      "Content": "En los primeros personajes de Lola Rodríguez (Gran Canaria, 1998) hay una dualidad que da un interesante significado no solo a su carrera hasta ahora, sino a dos dinámicas estimulantes de la represen… [+4300 chars]"
     }
   ]
 }
