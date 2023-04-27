@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Callum Wells",
+      "Title": "Every film and TV show set to be AXED from Netflix this month in a huge streaming shake-up",
+      "Description": "Viewers will have a limited number of days to tune into a list of films before they vanish from Netflix UK by the end of May.",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-12017257/Every-film-TV-set-AXED-Netflix-month-huge-streaming-shake-up.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/04/26/19/69921659-0-Netflix_s_most_terrifying_series_have_been_REVEALED_From_superna-a-23_1682533837340.jpg",
+      "PublishedAt": "2023-04-26T19:32:21Z",
+      "Content": "Netflix fans will be hit by yet another shake-up next month, with a slew of beloved films and TV shows set to leave the streaming service.\r\nViewers will have a limited number of days to tune into a l… [+4080 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-03-26T21:32:07Z",
       "Content": "Good news, Arrested Development fans. You can continue watching the highly acclaimed sitcom on Netflix. As The Verge outlines, all five seasons of the show, including the two financed by Netflix, wer… [+1100 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Igor Bonifacic",
-      "Title": "Netflix strikes last-minute deal to retain ‘Arrested Development’ streaming rights",
-      "Description": "Good news, Arrested Development fans. You can continue watching the highly acclaimed sitcom on Netflix. As The Verge\r\n outlines\r\n, all five seasons of the show, including the two financed by Netflix, were set to leave the service on March 15th. However, the s…",
-      "Url": "https://www.engadget.com/netflix-strikes-last-minute-deal-to-retain-arrested-development-streaming-rights-210939960.html",
-      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/LMiZ7Go7tijllb68tOaUJQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/5a5a00d0-cc19-11ed-aff5-7d66457e2e35.cf.jpg",
-      "PublishedAt": "2023-03-26T21:09:39Z",
-      "Content": "Good news, Arrested Development fans. You can continue watching the highly acclaimed sitcom on Netflix. As The Verge\r\n outlines\r\n, all five seasons of the show, including the two financed by Netflix,… [+930 chars]"
     }
   ]
 }
