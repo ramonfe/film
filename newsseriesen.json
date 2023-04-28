@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.2.0a12",
+      "Description": "2023.2.0a12\n\n April 27, 2023\n \n unityhub://2023.2.0a12/37c908b5e9a5\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2C…",
+      "Url": "https://unity.com/releases/editor/alpha/2023.2.0a12",
+      "UrlToImage": null,
+      "PublishedAt": "2023-04-27T14:39:10Z",
+      "Content": "<li>2D: Added icons to the Clipboard and Brush Pick overlays for Tile Palette when the overlays are collapsed.\r\n(UUM-29771)\r\n</li><li>2D: Added the shortcut key to the tooltips for the toggles that a… [+96760 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-03-27T22:32:08Z",
       "Content": "Apple's long-expected Martin Scorsese movie has a release date — for theaters, that is. The company has revealed that Killers of the Flower Moon will get a wide theatrical release on October 20th fol… [+1802 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Jon Fingas",
-      "Title": "Apple's Martin Scorsese movie hits theaters in October before its TV+ debut",
-      "Description": "Apple's long-expected Martin Scorsese movie has a release date — for theaters, that is. The company has revealed that Killers of the Flower Moon will get a wide theatrical release on October 20th following a \"limited\" run starting October 6th. The company has…",
-      "Url": "https://www.engadget.com/apples-martin-scorsese-movie-hits-theaters-in-october-before-its-tv-debut-201029107.html",
-      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/_BTo4Tq5GFDxRuiCBpeJrg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/9225fe90-ccd4-11ed-bf5f-9e6a9d9f3272.cf.jpg",
-      "PublishedAt": "2023-03-27T20:10:29Z",
-      "Content": "Apple's long-expected Martin Scorsese movie has a release date for theaters, that is. The company has revealed that Killers of the Flower Moon will get a wide theatrical release on October 20th follo… [+1919 chars]"
     }
   ]
 }
