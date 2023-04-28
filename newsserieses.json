@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1049,
+  "TotalResults": 1050,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Los Angeles Times"
+      },
+      "Author": "Sergio Burstein",
+      "Title": "Estos fueron los retos musicales, interpretativos y logísticos en la ambiciosa serie sobre Fito Páez",
+      "Description": "El actor principal y el creador de 'El amor después del amor' brindan detalles de la nueva serie de Netflix sobre Fito Páez",
+      "Url": "https://www.latimes.com/espanol/entretenimiento/articulo/2023-04-26/estos-fueron-los-retos-musicales-interpretativos-y-logisticos-en-la-ambiciosa-serie-sobre-fito-paez",
+      "UrlToImage": "https://ca-times.brightspotcdn.com/dims4/default/33113a2/2147483647/strip/true/crop/4800x2520+0+340/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F21%2Fca4fa31d4d318c17288d2aa70920%2Fel-amor-1.jpg",
+      "PublishedAt": "2023-04-27T01:49:49Z",
+      "Content": "Cualquiera que esté familiarizado con la historia del rock en español reconocerá el nombre de Fito Páez, un artista argentino con cerca de cuatro décadas de trayectoria que ocupa un lugar particularm… [+14444 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/794029/794029_600x315.jpg",
       "PublishedAt": "2023-04-24T16:34:00Z",
       "Content": "Contra todo pronóstico, la serie live action de The Last of Us de HBO cumplió con todas las expectativas y fue un éxito rotundo en todos los frentes. Naturalmente, muchas personas consideran que pued… [+2384 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "La temporada 3 de 'La Caza' ya está disponible en streaming pero no en Netflix: dónde puedes ver gratis y completo el caso en Guadiana de Megan Montaner y Alain Hernández",
-      "Description": "Hace unas semanas que llegaron a Netflix las dos primeras temporadas de 'La caza', serie española emitida originalmente por La 1. Desde entonces, los misterios de 'Monteperdido' y 'Tramuntana' se han mantenido entre las series más vistas de la plataforma, por…",
-      "Url": "https://www.espinof.com/series-de-ficcion/temporada-3-caza-esta-disponible-streaming-no-netflix-donde-puedes-ver-gratis-completo-caso-guadiana-megan-montaner-alain-hernandez",
-      "UrlToImage": "https://i.blogs.es/869961/la-caza-guadiana/840_560.jpeg",
-      "PublishedAt": "2023-04-24T16:30:37Z",
-      "Content": "Hace unas semanas que llegaron a Netflix las dos primeras temporadas de 'La caza', serie española emitida originalmente por La 1. Desde entonces, los misterios de 'Monteperdido' y 'Tramuntana' se han… [+1960 chars]"
     }
   ]
 }
