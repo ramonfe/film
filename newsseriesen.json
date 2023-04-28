@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Week Magazine"
+      },
+      "Author": "Brendan Morrow",
+      "Title": "TV to watch in May, from Silo to The Muppets Mayhem",
+      "Description": "The summer movie season is kicking off this month at your local multiplex, but for those inclined to stay home and stream, there are no shortage of options. From Pete Davidson and Arnold Schwarzenegger to the Muppets and an Everything Everywhere All at Once r…",
+      "Url": "https://theweek.com/feature/briefing/1022997/tv-to-watch-in-may-from-silo-to-the-muppets-mayhem",
+      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1682511383/Silo_Photo_010301.jpg",
+      "PublishedAt": "2023-04-27T19:40:43Z",
+      "Content": "The summer movie season is kicking off this month at your local multiplex, but for those inclined to stay home and stream, there are no shortage of options. From Pete Davidson and Arnold Schwarzenegg… [+9273 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679946465/032823-seeskip-hero_eyv3ql",
       "PublishedAt": "2023-03-27T23:00:13Z",
       "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+5944 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Apple's Martin Scorsese movie hits theaters in October before its TV+ debut",
-      "Description": "Apple's long-expected Martin Scorsese movie has a release date — for theaters, that is. The company has revealed that Killers of the Flower Moon will get a wide theatrical release on October 20th following a \"limited\" run starting October 6th. The company has…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170630742",
-      "UrlToImage": null,
-      "PublishedAt": "2023-03-27T22:32:08Z",
-      "Content": "Apple's long-expected Martin Scorsese movie has a release date — for theaters, that is. The company has revealed that Killers of the Flower Moon will get a wide theatrical release on October 20th fol… [+1802 chars]"
     }
   ]
 }
