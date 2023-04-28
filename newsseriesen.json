@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "FRANCE 24 English"
+      },
+      "Author": "FRANCE24",
+      "Title": "DiCaprio and Scorsese talk 'Killers' as Rihanna hits CinemaCon",
+      "Description": "Dark Western \"Killers\" is Scorsese's sixth movie with DiCaprio, and his tenth with Robert De Niro -- but the first time the legendary director has ever brought his go-to A-listers together.\n\nA true story of greed, love and murder set in the 1920s, when member…",
+      "Url": "https://www.france24.com/en/live-news/20230427-dicaprio-and-scorsese-talk-killers-as-rihanna-hits-cinemacon",
+      "UrlToImage": "https://s.france24.com/media/display/fcd9a984-e54e-11ed-ba31-005056a90321/w:1280/p:16x9/f81785949b8fc300ff935102efbcc3c5d4a7ee33.jpg",
+      "PublishedAt": "2023-04-27T22:58:14Z",
+      "Content": "Las Vegas (AFP) Martin Scorsese unveiled the first footage from his film \"Killers of the Flower Moon\" Thursday at CinemaCon, where his lead actor Leonardo DiCaprio and pop superstar Rihanna were amon… [+4222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2FWST_20230328_WST_425527_Ted-Lasso-American.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2023-03-28T14:00:00Z",
       "Content": "Okay, Ill admit it. Ted Lasso has a certain charm to it. The charm is something like that old, tattered soccer jersey I cant bring myself to toss out despite the dog chewing a few holes in it. Even i… [+4531 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Coleman Spilde",
-      "Title": "What Will We All Do When ‘Succession’ Ends?",
-      "Description": "Photo Illustration by Luis G. Rendon/The Daily Beast/HBO/Netflix/Peacock/Hulu\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are roughly 47,0…",
-      "Url": "https://www.thedailybeast.com/obsessed/succession-final-season-what-will-hbo-do-when-it-ends",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1679946465/032823-seeskip-hero_eyv3ql",
-      "PublishedAt": "2023-03-27T23:00:13Z",
-      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+5944 chars]"
     }
   ]
 }
