@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 104,
+  "TotalResults": 105,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Reuters)",
+      "Title": "Hollywood Writers, Studios Talk as Midnight Strike Deadline Looms",
+      "Description": "Negotiators for Hollywood writers and film and television studios engaged in 11th-hour contract talks on Monday to try to avert a strike that would disrupt TV production across an industry grappling with seismic changes. \n\n\nThe Writers Guild of America (WGA) …",
+      "Url": "https://www.voanews.com/a/hollywood-writers-studios-talk-as-midnight-strike-deadline-looms/7074673.html",
+      "UrlToImage": "https://gdb.voanews.com/a5f3ab27-214d-4e4b-b88f-67d5aae404e2_cx0_cy10_cw0_w1200_r1.jpg",
+      "PublishedAt": "2023-05-02T01:08:09Z",
+      "Content": "Los Angeles  Negotiators for Hollywood writers and film and television studios engaged in 11th-hour contract talks on Monday to try to avert a strike that would disrupt TV production across an indust… [+4371 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2023/04/amazon-rings-of-power-ratings.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2023-04-04T13:38:33Z",
       "Content": "Streaming services like Netflix and Amazon rarely reveal specific rating data for their own shows and movies. This week though, The Hollywood Reporter published some behind-the-scenes insight into th… [+3384 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Guardian"
-      },
-      "Author": "Brian Logan",
-      "Title": "Script, what script? Why Parks and Recreation star Ben Schwartz can’t quit improv",
-      "Description": "The beloved sitcom’s scene-stealer may now be hot Hollywood property, starring alongside Jim Carrey and Nicolas Cage, but he refuses to move on from his first love. As he scores a Netflix special and heads for the UK, he explains its allurePlenty of Hollywood…",
-      "Url": "https://www.theguardian.com/stage/2023/apr/04/ben-schwartz-interview-parks-and-recreation-improv-netflix-special",
-      "UrlToImage": "https://i.guim.co.uk/img/media/7b2bbbdff0dc26a3114070197bba0446f66b37d3/0_997_4330_2598/master/4330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f857a9716ea696eb5a3a1e5d44e3e2f0",
-      "PublishedAt": "2023-04-04T13:27:57Z",
-      "Content": "Plenty of Hollywood stars started out in improv: Amy Poehler, Bill Murray, Mike Myers they all got noticed on the improv stage then moved on to loftier things. What makes Ben Schwartz different is th… [+4822 chars]"
     }
   ]
 }
