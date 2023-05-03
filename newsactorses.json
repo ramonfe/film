@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 789,
+  "TotalResults": 791,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "J. F. BORRELL",
+      "Title": "Hugo Silva y la vez que un policía le apuntó con una pistola en Brasil: \"Pasé muchísimo miedo\"",
+      "Description": "El actor Hugo Silva ha asistido este martes a &apos;El Hormiguero&apos; para hablar con Pablo Motos sobre la serie &apos;Pollos sin cabeza&apos;, la cual se estrenó el viernes pasa",
+      "Url": "https://www.marca.com/tiramillas/television/2023/05/02/6451678de2704ea3278b45c1.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/05a3a445663596f3e3f9fb821e439d01/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/02/16830605584514.jpg",
+      "PublishedAt": "2023-05-02T20:50:22Z",
+      "Content": "El actor Hugo Silva ha asistido este martes a 'El Hormiguero' para hablar con Pablo Motos sobre la serie 'Pollos sin cabeza', la cual se estrenó el viernes pasado, día 28 de abril, en HBO Max. La fic… [+145 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Mundodeportivo.com"
+      },
+      "Author": "Autor Redacción",
+      "Title": "El momento de pánico de Hugo Silva con la policía brasileña: \"Me apuntaron muy cerca\"",
+      "Description": "Hugo Silva ha acudido a 'El Hormiguero' para presentar 'Pollos sin cabeza', la última serie de HBO Max en la que interpreta a un representante de futbolistas que pierde a su mayor estrella. En su visita al plató de Pablo Motos, el actor ha explicado una de la…",
+      "Url": "https://www.mundodeportivo.com/elotromundo/television/20230502/1001997723/el-hormiguero-momento-panico-hugo-silva-policia-brasilena-me-apuntaron-cerca-dct.html",
+      "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2023/05/02/645170f9a617c.png",
+      "PublishedAt": "2023-05-02T20:38:38Z",
+      "Content": "Hugo Silva ha acudido a 'El Hormiguero' para presentar 'Pollos sin cabeza', la última serie de HBO Max en la que interpreta a un representante de futbolistas que pierde a su mayor estrella. En su vis… [+1281 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -331,19 +357,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "\"Me pidió que me quitara la ropa\": un actor cuenta el acoso sexual que sufrió a manos de un director oscarizado a cambio de convertirle en la nueva estrella Marvel",
-      "Description": "Puede que el nombre de Matthew Lawrence no os diga nada: fue uno de los niños de 'Señora Doubtfire' y apareció en 'Yo y el mundo' como secundario, pero su carrera está formada, sobre todo, por cine navideño. Sin embargo, uno nunca sabe cuándo le va a llegar e…",
-      "Url": "https://www.espinof.com/actores-y-actrices/me-pidio-que-me-quitara-ropa-actor-cuenta-acoso-sexual-que-sufrio-a-manos-director-oscarizado-a-cambio-convertirle-nueva-estrella-marvel",
-      "UrlToImage": "https://i.blogs.es/e970cd/matthew-lawrence/840_560.jpeg",
-      "PublishedAt": "2023-05-01T09:31:56Z",
-      "Content": "Puede que el nombre de Matthew Lawrence no os diga nada: fue uno de los niños de 'Señora Doubtfire' y apareció en 'Yo y el mundo' como secundario, pero su carrera está formada, sobre todo, por cine n… [+1571 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Vida Extra"
       },
       "Author": "Alberto Martín",
@@ -353,6 +366,19 @@
       "UrlToImage": "https://i.blogs.es/637df3/voldemort-doctor-strange/840_560.jpeg",
       "PublishedAt": "2023-05-01T09:31:56Z",
       "Content": "El lanzamiento de Hogwarts Legacy trajo al escenario una vez más el amor por la magia de Harry Potter y poco después el anuncio de la serie reboot de Harry Potter hizo que muchos literalmente perdies… [+1229 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Randy Meeks",
+      "Title": "\"Me pidió que me quitara la ropa\": un actor cuenta el acoso sexual que sufrió a manos de un director oscarizado a cambio de convertirle en la nueva estrella Marvel",
+      "Description": "Puede que el nombre de Matthew Lawrence no os diga nada: fue uno de los niños de 'Señora Doubtfire' y apareció en 'Yo y el mundo' como secundario, pero su carrera está formada, sobre todo, por cine navideño. Sin embargo, uno nunca sabe cuándo le va a llegar e…",
+      "Url": "https://www.espinof.com/actores-y-actrices/me-pidio-que-me-quitara-ropa-actor-cuenta-acoso-sexual-que-sufrio-a-manos-director-oscarizado-a-cambio-convertirle-nueva-estrella-marvel",
+      "UrlToImage": "https://i.blogs.es/e970cd/matthew-lawrence/840_560.jpeg",
+      "PublishedAt": "2023-05-01T09:31:56Z",
+      "Content": "Puede que el nombre de Matthew Lawrence no os diga nada: fue uno de los niños de 'Señora Doubtfire' y apareció en 'Yo y el mundo' como secundario, pero su carrera está formada, sobre todo, por cine n… [+1571 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/e08bd5ac-5a0d-48e2-b21c-516c1ee6b741_source-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-04-27T17:14:58Z",
       "Content": "El mundo de la escena se queda hoy un poco más huérfano. El actor Ramiro Oliveros ha fallecido en Madrid a los 82 años de edad, según ha conocido YOTELE. \r\nVeterano actor de cine, teatro y televisión… [+946 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Florinda Meza desmiente su muerte tras rumores en redes; así reacciona: “muerta de risa”",
-      "Description": "Florinda Meza, famosa actriz y productora mexicana, reaccionó a través de sus redes sociales a los rumores que se desataron este jueves por la mañana en Internet en los que aseguraban que la viuda de ‘Chespirito’ había pasado a mejor vida.La famosa intérprete…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/florinda-meza-desmiente-muerte-rumores-redes-reacciona",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/04/27/florinda-meza-reacciona-supuesta-muerte.jpg",
-      "PublishedAt": "2023-04-27T17:00:37Z",
-      "Content": "Florinda Meza,famosa actriz y productora mexicana, reaccionó a través de sus redes sociales a los rumores que se desataron este jueves por la mañana en Internet en los que aseguraban que la viuda de … [+1206 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Mercedes de Pablos",
-      "Title": "Laura Hojman: \"¡Qué país hubiéramos podido llegar a ser con Machado, Lejárraga y Gómez Arcos!\"",
-      "Description": "Hasta este año no había habido un documental que estuviera nominado a los Premios Forqué, los Feroz y los Goya a la vez. A todos ha optado Cartas a las mujeres de España, de Laura Hojman. Toda una gesta, aunque su documental se quedara en puertas, en una cont…",
-      "Url": "https://cronicaglobal.elespanol.com/letraglobal/cine-teatro/cine/laura-hojman_794139_102.html",
-      "UrlToImage": "https://cronicaglobal.elespanol.com/uploads/s1/26/24/83/98/25032023-img-2465_2_505x267.jpeg",
-      "PublishedAt": "2023-04-27T17:00:00Z",
-      "Content": "Hasta este año no había habido un documental que estuviera nominado a los Premios Forqué, los Feroz y los Goya a la vez. A todos ha optado Cartas a las mujeres de España, de Laura Hojman. Toda una ge… [+13780 chars]"
     }
   ]
 }
