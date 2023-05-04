@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 792,
+  "TotalResults": 795,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La reina blanca que Netflix convirtió en negra en lo nuevo de ‘Los Bridgerton’",
+      "Description": "Prepárense para ser transportados a un mundo de etiqueta cortesana, clase social y política matrimonial con mucho romance y mujeres poderosas. La locura por los Birdgerton llega hoy a Netflix en forma de precuela con ‘La reina Carlota’, que renueva el reparto…",
+      "Url": "https://www.abc.es/play/series/noticias/abci-reina-blanca-netflix-convirtio-negra-nuevo-bridgerton-202305032257_noticia.html",
+      "UrlToImage": "https://s1.abcstatics.com/media/play/2023/05/04/reina-carlota-kL0H--1024x512@abc.jpg",
+      "PublishedAt": "2023-05-03T20:57:08Z",
+      "Content": "María Estévez\r\nLos Ángeles\r\n Actualizado:03/05/2023 22:57h\r\nGuardar\r\n Noticias relacionadas\r\nPrepárense para ser transportados a un mundo de etiqueta cortesana, clase social y política matrimonial co… [+1825 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "Terremoto en 'Yellowstone': Kevin Costner abandona la serie y el futuro de este exitoso western queda en el aire",
+      "Description": "Menudo terremoto acaba de sacudir 'Yellowstone', ya que ET ha confirmado que Kevin Costner abandona la exitosa que le convirtió en uno de los actores mejor pagados de la historia de la televisión. Además, el futuro de la misma queda en el aire, pues está por …",
+      "Url": "https://www.espinof.com/series-de-ficcion/terremoto-yellowstone-kevin-costner-abandona-serie-futuro-este-exitoso-western-queda-aire",
+      "UrlToImage": "https://i.blogs.es/c19a39/yellowstone/840_560.jpeg",
+      "PublishedAt": "2023-05-03T20:40:44Z",
+      "Content": "Menudo terremoto acaba de sacudir 'Yellowstone', ya que ET ha confirmado que Kevin Costner abandona la exitosa que le convirtió en uno de los actores mejor pagados de la historia de la televisión. Ad… [+1627 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Javier Zurro",
+      "Title": "François Ozon reivindica el crimen como terapia con una divertida comedia feminista",
+      "Description": "Las películas de François Ozon siempre tienen un crimen como motor dramático. Da igual que sea desde la comedia musical (Ocho mujeres) o el drama adolescente (Verano del 85). Para él, sus películas son la forma de sacar a la luz pulsiones oscuras que acaban c…",
+      "Url": "https://www.eldiario.es/cultura/cine/francois-ozon-reivindica-crimen-terapia-divertida-comedia-feminista_1_10172008.html",
+      "UrlToImage": "https://static.eldiario.es/clip/61886ed1-e0e7-446f-a04c-c3ae38840e08_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-05-03T20:20:58Z",
+      "Content": "Las películas de François Ozon siempre tienen un crimen como motor dramático. Da igual que sea desde la comedia musical (Ocho mujeres) o el drama adolescente (Verano del 85). Para él, sus películas s… [+445 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -643,19 +682,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Alberto Martín",
-      "Title": "Imaginan a Benedict Cumberbatch como Lord Voldemort para la serie reboot de Harry Potter con resultados increíbles",
-      "Description": "El lanzamiento de Hogwarts Legacy trajo al escenario una vez más el amor por la magia de Harry Potter y poco después el anuncio de la serie reboot de Harry Potter hizo que muchos literalmente perdiesen la cabeza... tanto para bien como para mal. Este reinicio…",
-      "Url": "https://www.vidaextra.com/cine/imaginan-a-benedict-cumberbatch-como-lord-voldemort-para-serie-reboot-harry-potter-resultados-increibles",
-      "UrlToImage": "https://i.blogs.es/637df3/voldemort-doctor-strange/840_560.jpeg",
-      "PublishedAt": "2023-05-01T09:31:56Z",
-      "Content": "El lanzamiento de Hogwarts Legacy trajo al escenario una vez más el amor por la magia de Harry Potter y poco después el anuncio de la serie reboot de Harry Potter hizo que muchos literalmente perdies… [+1229 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Espinof.com"
       },
       "Author": "Randy Meeks",
@@ -665,6 +691,19 @@
       "UrlToImage": "https://i.blogs.es/e970cd/matthew-lawrence/840_560.jpeg",
       "PublishedAt": "2023-05-01T09:31:56Z",
       "Content": "Puede que el nombre de Matthew Lawrence no os diga nada: fue uno de los niños de 'Señora Doubtfire' y apareció en 'Yo y el mundo' como secundario, pero su carrera está formada, sobre todo, por cine n… [+1571 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Alberto Martín",
+      "Title": "Imaginan a Benedict Cumberbatch como Lord Voldemort para la serie reboot de Harry Potter con resultados increíbles",
+      "Description": "El lanzamiento de Hogwarts Legacy trajo al escenario una vez más el amor por la magia de Harry Potter y poco después el anuncio de la serie reboot de Harry Potter hizo que muchos literalmente perdiesen la cabeza... tanto para bien como para mal. Este reinicio…",
+      "Url": "https://www.vidaextra.com/cine/imaginan-a-benedict-cumberbatch-como-lord-voldemort-para-serie-reboot-harry-potter-resultados-increibles",
+      "UrlToImage": "https://i.blogs.es/637df3/voldemort-doctor-strange/840_560.jpeg",
+      "PublishedAt": "2023-05-01T09:31:56Z",
+      "Content": "El lanzamiento de Hogwarts Legacy trajo al escenario una vez más el amor por la magia de Harry Potter y poco después el anuncio de la serie reboot de Harry Potter hizo que muchos literalmente perdies… [+1229 chars]"
     },
     {
       "Source": {
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/64561a18-b799-46ea-8e5b-6557da0594f2_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-04-28T14:14:05Z",
       "Content": "4 Estrellas vivirá a partir de la próxima semana su propio reencuentro de Médico de familia. Antonio Molero y Luisa Martín compartirán pantalla en la nueva serie diaria de TVE casi 24 años después de… [+1768 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "Johnny Depp vuelve al cine para hacer temblar Francia: 'Jeanne du Barry' ya tiene tráiler oficial",
-      "Description": "{\"videoId\":\"x8khyyl\",\"autoplay\":true,\"title\":\"'Jeanne du Barry' tráiler\",\"tag\":\"\"}\n \r\n\n\r\n\n El nuevo proyecto de Johnny Depp ya tiene tráiler oficial: el actor protagoniza 'Jeanne du Barry', la película que inaugurará la próxima edición del Festival de Cannes …",
-      "Url": "https://www.espinof.com/trailers/johnny-depp-vuelve-al-cine-para-hacer-temblar-francia-jeanne-du-barry-tiene-trailer-oficial",
-      "UrlToImage": "https://i.blogs.es/54e6f7/x720/840_560.jpeg",
-      "PublishedAt": "2023-04-28T13:30:44Z",
-      "Content": "El nuevo proyecto de Johnny Depp ya tiene tráiler oficial: el actor protagoniza 'Jeanne du Barry', la película que inaugurará la próxima edición del Festival de Cannes sobre la amante del rey Luis XV… [+1194 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Jack King",
-      "Title": "¿Están desapareciendo las estrellas de cine de toda la vida? La nueva hornada de actores de la Gen-Z lo tiene difícil para alcanzar ése estatus",
-      "Description": "Es la pregunta favorita de todos los que hablan de películas en Twitter: ¿dónde están las estrellas de cine? Para algunos, anunciar la muerte o la desaparición de esta figura puede resultar exagerado. Basta con ver a actores como Tom Cruise elevándose al firm…",
-      "Url": "https://www.revistagq.com/articulo/esta-desapareciendo-laestrellas-de-cine-generacion-z-adaptaciones-cine",
-      "UrlToImage": "https://media.revistagq.com/photos/644a349f1c98f4b147442f2f/16:9/w_1280,c_limit/gen-z-movie-star.jpg",
-      "PublishedAt": "2023-04-28T10:49:22Z",
-      "Content": "Es la pregunta favorita de todos los que hablan de películas en Twitter: ¿dónde están las estrellas de cine? Para algunos, anunciar la muerte o la desaparición de esta figura puede resultar exagerado… [+3215 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "\"Tras rechazar a Spielberg conocí a mi mujer, así que se cierra el círculo\". Cómo Mark Rylance pasó de huir de Hollywood a ganar el Óscar por 'El puente de los espías'",
-      "Description": "Aunque hoy en día el nombre de Mark Rylance no es ajeno para los cinéfilos, no siempre fue así. El actor rechazó muchos papeles en películas para priorizar el teatro, hasta que aceptó la propuesta de Steven Spielberg en 'El puente de los espías' y pasó a conv…",
-      "Url": "https://www.espinof.com/actores-y-actrices/rechazar-a-spielberg-conoci-a-mi-mujer-asi-que-se-cierra-circulo-como-mark-rylance-paso-huir-hollywood-a-ganar-oscar-puente-espias",
-      "UrlToImage": "https://i.blogs.es/7daf0b/mark-rylance/840_560.jpeg",
-      "PublishedAt": "2023-04-28T10:01:24Z",
-      "Content": "Aunque hoy en día el nombre de Mark Rylance no es ajeno para los cinéfilos, no siempre fue así. El actor rechazó muchos papeles en películas para priorizar el teatro, hasta que aceptó la propuesta de… [+2107 chars]"
     }
   ]
 }
