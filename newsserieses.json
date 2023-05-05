@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 971,
+  "TotalResults": 972,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Levelup.com"
+      },
+      "Author": "Ulises Contreras",
+      "Title": "One Piece: serie de Netflix debutará hasta que Eiichiro Oda esté “satisfecho” con la calidad",
+      "Description": "One Piece es uno de los mangas y animes más importantes de la actualidad. Una nueva audiencia podrá conocer su historia gracias a una serie live action que llegará a Netflix este año. Por supuesto, la comunidad está muy preocupada y teme que la adaptación ale…",
+      "Url": "https://www.levelup.com/noticias/736151/One-Piece-serie-de-Netflix-debutara-hasta-que-Eiichiro-Oda-este-satisfecho-con-la-calidad",
+      "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/795563/795563_600x315.jpg",
+      "PublishedAt": "2023-05-04T20:54:00Z",
+      "Content": "One Piece es uno de los mangas y animes más importantes de la actualidad. Una nueva audiencia podrá conocer su historia gracias a una serie live action que llegará a Netflix este año. Por supuesto, l… [+2988 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -60,19 +73,6 @@
         "Id": null,
         "Name": "Eldiario.es"
       },
-      "Author": "Pedro Zárate",
-      "Title": "Jorge Valdano Sáenz: \"'Pollos sin cabeza' refleja mi cariño por el fútbol, y también la desconfianza hacia el negocio\"",
-      "Description": "La relación entre el fútbol y el apellido Valdano ha traspasado recientemente una nueva frontera: la de la ficción audiovisual. Porque sí, Jorge Valdano ha estrenado una serie sobre el deporte rey. Pero no, no hablamos de 'ese' Jorge Valdano. El delantero que…",
-      "Url": "https://vertele.eldiario.es/entrevistas/jorge-valdano-saenz-pollos-sin-cabeza-serie-hbo-max-refleja-carino-futbol-desconfianza-negocio_1_10170844.html",
-      "UrlToImage": "https://static.eldiario.es/clip/3363f58a-cc9b-4777-9131-d28bbb4bf1fb_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-05-04T18:45:55Z",
-      "Content": "La relación entre el fútbol y el apellido Valdano ha traspasado recientemente una nueva frontera: la de la ficción audiovisual. Porque sí, Jorge Valdano ha estrenado una serie sobre el deporte rey. P… [+10295 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
       "Author": "Javier Atienza",
       "Title": "Las 15 series de la semana bailan 'UPA Next' entre 'Putos modernos' o 'Fontaneros', y amplían universos",
       "Description": "En la primera semana del mes de mayo, hasta 15 series nos acompañan para amenizar los primeros siete días del mes, en los que predominan los estrenos frente a la llegada de nuevas temporadas. HBO Max comienza con Los fontaneros de la Casa Blanca (protagonizad…",
@@ -84,15 +84,15 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Vida Extra"
+        "Name": "Eldiario.es"
       },
-      "Author": "Iván González",
-      "Title": "\"Me han prometido que no se hará hasta que yo esté satisfecho\": Eiichiro Oda tranquiliza a los fans de One Piece sobre el live action de Netflix",
-      "Description": "Los fans de One Piece no pueden estar más felices en este momento: con el manga en un momento brillante, la adaptación del anime está a punto de explotar por completo con una serie de peleas que pondrá patas arriba el anime producido por Toei Animation.\n<!-- …",
-      "Url": "https://www.vidaextra.com/series/me-han-prometido-que-no-se-hara-que-yo-este-satisfecho-eiichiro-oda-tranquiliza-a-fans-one-piece-live-action-netflix",
-      "UrlToImage": "https://i.blogs.es/158eaa/one-piece-live-action/840_560.jpeg",
-      "PublishedAt": "2023-05-04T18:00:50Z",
-      "Content": "Los fans de One Piece no pueden estar más felices en este momento: con el manga en un momento brillante, la adaptación del anime está a punto de explotar por completo con una serie de peleas que pond… [+1657 chars]"
+      "Author": "Pedro Zárate",
+      "Title": "Jorge Valdano Sáenz: \"'Pollos sin cabeza' refleja mi cariño por el fútbol, y también la desconfianza hacia el negocio\"",
+      "Description": "La relación entre el fútbol y el apellido Valdano ha traspasado recientemente una nueva frontera: la de la ficción audiovisual. Porque sí, Jorge Valdano ha estrenado una serie sobre el deporte rey. Pero no, no hablamos de 'ese' Jorge Valdano. El delantero que…",
+      "Url": "https://vertele.eldiario.es/entrevistas/jorge-valdano-saenz-pollos-sin-cabeza-serie-hbo-max-refleja-carino-futbol-desconfianza-negocio_1_10170844.html",
+      "UrlToImage": "https://static.eldiario.es/clip/3363f58a-cc9b-4777-9131-d28bbb4bf1fb_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-05-04T18:45:55Z",
+      "Content": "La relación entre el fútbol y el apellido Valdano ha traspasado recientemente una nueva frontera: la de la ficción audiovisual. Porque sí, Jorge Valdano ha estrenado una serie sobre el deporte rey. P… [+10295 chars]"
     },
     {
       "Source": {
@@ -106,6 +106,19 @@
       "UrlToImage": "https://i.blogs.es/e12222/star-wars-visions/840_560.jpeg",
       "PublishedAt": "2023-05-04T18:00:50Z",
       "Content": "Si vamos a estrenar una nueva serie de 'Star Wars', el 4 de mayo es el día perfecto para poner toda la carne en el asador con uno de los proyectos más interesantes que nos ha dado la franquicia en lo… [+3779 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "\"Me han prometido que no se hará hasta que yo esté satisfecho\": Eiichiro Oda tranquiliza a los fans de One Piece sobre el live action de Netflix",
+      "Description": "Los fans de One Piece no pueden estar más felices en este momento: con el manga en un momento brillante, la adaptación del anime está a punto de explotar por completo con una serie de peleas que pondrá patas arriba el anime producido por Toei Animation.\n<!-- …",
+      "Url": "https://www.vidaextra.com/series/me-han-prometido-que-no-se-hara-que-yo-este-satisfecho-eiichiro-oda-tranquiliza-a-fans-one-piece-live-action-netflix",
+      "UrlToImage": "https://i.blogs.es/158eaa/one-piece-live-action/840_560.jpeg",
+      "PublishedAt": "2023-05-04T18:00:50Z",
+      "Content": "Los fans de One Piece no pueden estar más felices en este momento: con el manga en un momento brillante, la adaptación del anime está a punto de explotar por completo con una serie de peleas que pond… [+1657 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.formulatv.com/images/videos/26000/26707_UcYNtRmv9E-t.jpg",
       "PublishedAt": "2023-05-02T09:07:02Z",
       "Content": "'Monstruo: La historia de Jeffrey Dahmer', creada por Ryan Murphy, se convirtió en una de las grandes series de 2022, alzándose como la segunda en inglés más vista de Netflix, después de 'Stranger Th… [+1318 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "FormulaTV",
-      "Title": "El final de 'El Internado: Las Cumbres' explicado: Carlos Alcaide y Lydia Pavón aclaran cómo acaba cada trama",
-      "Description": "¡CON SPOILERS! Los dos protagonistas de la tercera temporada detallan cómo ha finalizado cada trama para resolver las dudas de los espectadores de esta serie de The Mediapro Studio y Amazon Prime Video.El final de 'El Internado: Las Cumbres' explicado: Carlos…",
-      "Url": "https://www.formulatv.com/videos/final-el-internado-las-cumbres-explicado-26689/",
-      "UrlToImage": "https://www.formulatv.com/images/videos/26000/26689_sm1WLz3EY6-t.jpg",
-      "PublishedAt": "2023-05-02T09:07:02Z",
-      "Content": "Con la tercera temporada, 'El Internado: Las Cumbres' ya ha llegado a su final cerrando todas sus tramas y dando respuesta a todas las incógnitas que han ido surgiendo a lo largo de sus capítulos. Au… [+1071 chars]"
     }
   ]
 }
