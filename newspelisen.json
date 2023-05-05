@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1358,
+  "TotalResults": 1359,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "",
+      "Title": "Video: Priyanka Chopra poses with Nick Jonas at Love Again screening",
+      "Description": "Priyanka Chopra shines alongside husband Nick Jonas as they pose together attending a screening of her new movie 'Love Again' being held at the famous AMC Lincoln Square Theater in New York City.",
+      "Url": "https://www.dailymail.co.uk/video/tvshowbiz/video-2932001/Video-Priyanka-Chopra-poses-Nick-Jonas-Love-screening.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/05/04/04/70560445-0-image-m-22_1683171595283.jpg",
+      "PublishedAt": "2023-05-04T03:35:11Z",
+      "Content": "0:35\r\nMoment Daniel O'Halloran wins £99,000 on ITV's The 1% Club"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/7d8f1eae311d1fca/og.webp",
       "PublishedAt": "2023-05-01T23:02:06Z",
       "Content": "The major studios came to Sin City last week hoping to dazzle movie theater owners with the next wave of sequels, superhero adventures and even, gasp, a few movies aimed at adults. The occasion was C… [+329 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "marketwatch.com",
-      "Title": "AMC CEO slams Robinhood over alert wrongly claiming theater chain had filed for bankruptcy",
-      "Description": "AMC Entertainment Holdings AMC Chairman and CEO Adam Aron lashed out at Robinhood Markets in a Monday tweet after the company briefly ran a banner wrongly declaring that the movie-theater chain had filed for bankruptcy. “I am getting multiple reports that Rob…",
-      "Url": "https://biztoc.com/x/f9465192e9dbc592",
-      "UrlToImage": "https://c.biztoc.com/p/f9465192e9dbc592/og.webp",
-      "PublishedAt": "2023-05-01T22:56:06Z",
-      "Content": "AMC Entertainment Holdings AMC Chairman and CEO Adam Aron lashed out at Robinhood Markets in a Monday tweet after the company briefly ran a banner wrongly declaring that the movie-theater chain had f… [+271 chars]"
     }
   ]
 }
