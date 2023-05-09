@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 997,
+  "TotalResults": 998,
   "Articles": [
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Tom Murray",
+      "Title": "2023 MTV Movie & TV Awards: Drew Barrymore gets mauled by Cocaine Bear in Josie Grossie sketch",
+      "Description": "Actor donned her braces to reprise role in 1999’s ‘Never Been Kissed’",
+      "Url": "https://www.independent.co.uk/arts-entertainment/films/news/drew-barrymore-mtv-movie-tv-awards-josie-grossie-b2334610.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/05/08/01/Collage%20Maker-07-May-2023-05-18-PM-7691.jpg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-05-08T00:39:06Z",
+      "Content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nDespite dropping out as host days earlier, Drew Barrymor… [+2190 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683226270/drew_lgpkq5",
       "PublishedAt": "2023-05-04T19:04:43Z",
       "Content": "Drew Barrymore is the latest celebrity to stand in solidarity with the thousands of television and film writers currently on strike. The actress and talk show host has announced that she will no long… [+2677 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Eddie Makuch",
-      "Title": "Sean Bean Reveals His Favorite On-Screen Death, And It's A Good One",
-      "Description": "When actor Sean Bean shows up in a movie, it's understood that his character is probably going to die. In a new interview with ScreenRant, Bean discussed this phenomenon and revealed which on-screen death is his favorite from over the years.Bean played Boromi…",
-      "Url": "https://www.gamespot.com/articles/sean-bean-reveals-his-favorite-on-screen-death-and-its-a-good-one/1100-6513844/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4133853-screenshot2023-05-04at2.08.27pm.png",
-      "PublishedAt": "2023-05-04T18:54:00Z",
-      "Content": "When actor Sean Bean shows up in a movie, it's understood that his character is probably going to die. In a new interview with ScreenRant, Bean discussed this phenomenon and revealed which on-screen … [+1395 chars]"
     }
   ]
 }
