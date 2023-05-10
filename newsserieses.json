@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 999,
+  "TotalResults": 1000,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Netflix: catálogo completo y actualizado de series y películas (2023)",
+      "Description": "Netflix es, sin lugar a dudas la plataforma de streaming de cine y series más extensa del mundo. Aquí os traemos su catálogo para que podais ver todo lo que tiene que ofrecer y para que finalmente deis el paso para disfrutar de Netflix si os convence la idea …",
+      "Url": "https://www.lavanguardia.com/andro4all/series/netflix-catalogo-completo-y-actualizado-de-series-y-peliculas",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/05/truco-ver-peliculas-series-ocultas-netflix-1200x675-1.webp?width=1200",
+      "PublishedAt": "2023-05-09T23:00:23Z",
+      "Content": "El catálogo de Netflix es inabarcable y siempre hay algo que merece la pena ver\r\nNetflix es, sin lugar a dudas la plataforma de streaming de cine y series más extensa del mundo. Aquí os traemos su ca… [+23318 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/02d8a6/silo_photo_010204/840_560.jpeg",
       "PublishedAt": "2023-05-05T17:00:58Z",
       "Content": "Hay bastantes cosas que llaman la atención de 'Silo', muchas de las cuales vienen de sus propias etiquetas de género. La nueva serie de ciencia ficción de Apple TV+ se describe como una distopía prot… [+3929 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Adslzone.net"
-      },
-      "Author": "David Soriano",
-      "Title": "Así están engañando a Netflix para que renueve una serie",
-      "Description": "Shadow and Bone es una de las series que Netflix aún no ha renovado. Sus fans, conscientes de que la plataforma de streaming suele cancelar sus series si no consiguen grandes resultados, están llevando a cabo todo tipo de campañas entre sus miles de seguidore…",
-      "Url": "https://www.adslzone.net/noticias/streaming-tv/como-enganar-netflix-renueve-serie/",
-      "UrlToImage": "https://www.adslzone.net/app/uploads-adslzone.net/2023/05/Netflix-Oficina.jpg",
-      "PublishedAt": "2023-05-05T16:02:31Z",
-      "Content": "Resulta complicado saber qué datos tiene que conseguir una serie para que Netflix dé luz verde o roja a una renovación. Sin embargo, los fans están llevando acciones en masa para engañar a la platafo… [+3405 chars]"
     }
   ]
 }
