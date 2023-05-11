@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 115,
+  "TotalResults": 116,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "AppleInsider"
+      },
+      "Author": "news@appleinsider.com (Wesley Hilliard)",
+      "Title": "Every known Apple TV+ show cancelation so far",
+      "Description": "Apple TV+ has rolled out over 160 titles since its launch in 2019, but some were unceremoniously canceled without a conclusion. Find out which shows ended without a series finale here.Apple TV+It can be difficult to choose what to watch in the streaming era, …",
+      "Url": "https://appleinsider.com/articles/23/05/10/every-known-apple-tv-show-cancelation-so-far",
+      "UrlToImage": "https://photos5.appleinsider.com/gallery/54328-109712-Apple-TV+-xl.jpg",
+      "PublishedAt": "2023-05-10T00:30:37Z",
+      "Content": "Apple TV+\r\nApple TV+ has rolled out over 160 titles since its launch in 2019, but some were unceremoniously canceled without a conclusion. Find out which shows ended without a series finale here.\r\nIt… [+3380 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/e0f0691c87682311/og.webp",
       "PublishedAt": "2023-04-13T01:34:06Z",
       "Content": "With news that a new Harry Potter TV show is in the works at streaming service Max (formerly HBO Max), interest in the J.K. Rowling series is picking up once again.Plans for a live-action TV series b… [+321 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ieee.org"
-      },
-      "Author": "Craig S. Smith",
-      "Title": "AI Poised to Transform Video Compression Landscape",
-      "Description": "Apple’s surprise purchase at the end of last month of WaveOne, a California-based startup that develops content-aware AI algorithms for video compression, showcases an important shift in how video signals are streamed to our devices. In the near-term Cupperti…",
-      "Url": "https://spectrum.ieee.org/ai-video-codecs-waveone",
-      "UrlToImage": "https://spectrum.ieee.org/media-library/purple-pink-and-white-dots-in-a-spiral-formation-against-a-dark-background.jpg?id=33398852&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
-      "PublishedAt": "2023-04-12T21:48:56Z",
-      "Content": "Apples surprise purchase at the end of last month of WaveOne, a California-based startup that develops content-aware AI algorithms for video compression, showcases an important shift in how video sig… [+8178 chars]"
     }
   ]
 }
