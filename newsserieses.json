@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1014,
+  "TotalResults": 1015,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Tom Holland sorprendió con la revelación de que lleva un año sobrio: “Descuidé mi salud mental”",
+      "Description": "El actor británico se encuentra promocionando la serie The Crowded Room, que llega a Apple TV+ el 9 de junio, y el papel que interpreta en la ficción lo condujo a enderezar su vida",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/tom-holland-sorprendio-con-la-revelacion-de-que-lleva-un-ano-sobrio-descuide-mi-salud-mental-nid10052023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/3GllaxTtUxreeJoTthgKn6NrYHc=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HFKOZHPU7BAJ7EYUKOSEF2SKKM.jpg",
+      "PublishedAt": "2023-05-10T22:20:18Z",
+      "Content": "El actor de Spider-Man, Tom Holland, está muy entusiasmado con el flamante proyecto que protagoniza junto a Amanda Seyfried: The Crowded Room, serie que llega a la plataforma de streaming Apple TV+ a… [+4532 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/6458aee95909f6dc5ebbe45d/16:9/w_1280,c_limit/1252772308",
       "PublishedAt": "2023-05-08T08:57:27Z",
       "Content": "Desde su coronación del pasado sábado, Charles Philip Arthur George, más conocido entre nosotros como Carlos III de Inglaterra, es oficialmente monarca de Reino Unido y los catorce territorios britán… [+1504 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hola"
-      },
-      "Author": "hola.com",
-      "Title": "El lado más personal de Corey Mylchreest, el rey Jorge III de 'Los Bridgerton' y nuevo rompecorazones de la serie",
-      "Description": "Ha llegado a Netflix con la precuela de la ficción de Shonda Rhimes: 'La reina Carlota: Una historia de Los Bridgerton'",
-      "Url": "https://www.hola.com/actualidad/20230508231226/corey-mylchreest-la-reina-carlota-una-historia-de-los-bridgerton-actor/",
-      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20230508231226/corey-mylchreest-la-reina-carlota-una-historia-de-los-bridgerton-actor/1-245-377/actor-getty2-t.jpg",
-      "PublishedAt": "2023-05-08T06:09:23Z",
-      "Content": "A Los Bridgerton solo le hizo falta una temporada para convertirse en un auténtico fenómeno de audiencia y consagrar al estrellato a sus protagonistas. En su primera entrega, el públicocayó rendido a… [+5430 chars]"
     }
   ]
 }
