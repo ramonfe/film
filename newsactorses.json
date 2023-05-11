@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 782,
+  "TotalResults": 783,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "En pocas horas esta serie se ha convertido en la más polémica de Netflix del año y estos son los motivos",
+      "Description": "No es extraño que Netflix esté envuelta de vez en cuando en alguna polémica por alguna de sus series. En un mundo polarizado como en el que vivimos, muchas son las voces que claman contra algunas de sus producciones por desafiar las ideas de algunos segmentos…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/en-pocas-horas-esta-es-la-serie-mas-polemica-de-netflix-del-ano-y-estos-son-los-motivos",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/05/cleopatra-netflix-644279706b103.png?width=1200",
+      "PublishedAt": "2023-05-10T15:04:56Z",
+      "Content": "La serie ha generado muchísimo odio entre algunos sectores de la población\r\nNo es extraño que Netflix esté envuelta de vez en cuando en alguna polémica por alguna de sus series. En un mundo polarizad… [+3732 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/05/04/luisa-josefina-hernandez-secretaria-cultura.jpg",
       "PublishedAt": "2023-05-05T20:00:01Z",
       "Content": "El fallecimiento de Luisa Josefina Hernández el pasado 16 de enero deja, pese a la inevitable tristeza de sus lectores, una estela de talento, brillantez y creatividad, además de un ejemplo de ejerci… [+11770 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "José Juan de Ávila",
-      "Title": "‘Champion’: la ópera en jazz sobre la vida del boxeador Emile Griffith",
-      "Description": "El campeón defensor del cinturón de peso welter era José Ángel Mantequilla Nápoles, en quien Julio Cortázar se inspiró para su cuento “La noche de Mantequilla”. El retador era el estadunidense Emile Griffith, a quien Terence Blanchard le compuso hace una déca…",
-      "Url": "https://www.milenio.com/cultura/laberinto/champion-opera-jazz-vida-boxeador-emile-griffith",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/05/02/escena-opera-champion-foto-ken.jpg",
-      "PublishedAt": "2023-05-05T20:00:01Z",
-      "Content": "El campeón defensor del cinturón de peso welter era José Ángel Mantequilla Nápoles, en quien Julio Cortázar se inspiró para su cuento La noche de Mantequilla. El retador era el estadunidense Emile Gr… [+9280 chars]"
     }
   ]
 }
