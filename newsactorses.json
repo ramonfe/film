@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 784,
+  "TotalResults": 785,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Antonio de la Torre",
+      "Title": "Es nuestra obligación",
+      "Description": "Mi amigo el cineasta Mariano Barroso, cuando accedió a la presidencia de la Academia de Cine (máxima representación del cine español) para suceder -debido a su fallecimiento- a la hasta entonces presidenta Yvonne Blake, escribió un artículo del que ahora tomo…",
+      "Url": "https://www.eldiario.es/opinion/tribuna-abierta/obligacion_129_10193411.html",
+      "UrlToImage": "https://static.eldiario.es/clip/1c88709d-e1db-484d-a995-7228778ccedd_facebook-aspect-ratio_default_0_x695y575.jpg",
+      "PublishedAt": "2023-05-10T20:25:51Z",
+      "Content": "Mi amigo el cineasta Mariano Barroso, cuando accedió a la presidencia de la Academia de Cine (máxima representación del cine español) para suceder -debido a su fallecimiento- a la hasta entonces pres… [+211 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/476bfd5e-877e-437b-bdd3-f1240563abef_facebook-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-05-06T20:04:58Z",
       "Content": "Últimamente he leído en varios sitios —en realidad no son varios ni lectura, es TikTok— que casi todos compartimos cierta aversión a las canciones que se cantan en los cumpleaños. En el idioma que se… [+4535 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "Qué fue de Dianna Agron, la eterna animadora que se replanteó su carrera después de la tragedia de 'Glee'",
-      "Description": "Especialmente en su temporada 1, 'Glee' se convirtió en la serie del momento y catapultó a gran parte de su reparto a la fama. No obstante, prácticamente ninguno los actores ha conseguido volver a alcanzar la misma popularidad de entonces, ni siquiera aquello…",
-      "Url": "https://www.espinof.com/actores-y-actrices/que-fue-dianna-agron-eterna-animadora-que-se-replanteo-su-carrera-despues-tragedia-glee",
-      "UrlToImage": "https://i.blogs.es/f38d9c/dianna-agron-/840_560.jpeg",
-      "PublishedAt": "2023-05-06T19:01:00Z",
-      "Content": "Especialmente en su temporada 1, 'Glee'se convirtió en la serie del momento y catapultó a gran parte de su reparto a la fama. No obstante, prácticamente ninguno los actores ha conseguido volver a alc… [+3221 chars]"
     }
   ]
 }
