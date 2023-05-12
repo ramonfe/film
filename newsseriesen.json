@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 121,
+  "TotalResults": 122,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lesswrong.com"
+      },
+      "Author": "Zvi",
+      "Title": "AI #11: In Search of a Moat",
+      "Description": "Published on May 11, 2023 3:40 PM GMTRemember the start of the week? That’s when everyone was talking about a leaked memo from a Google employee, saying that neither Google nor OpenAI had a moat and the future belonged to open source models. The author was cl…",
+      "Url": "https://www.lesswrong.com/posts/yWtJL6kPnLRxiKp2B/ai-11-in-search-of-a-moat",
+      "UrlToImage": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42e1967f-d139-4d0b-8de0-f8a09db135ca_1195x1117.png",
+      "PublishedAt": "2023-05-11T15:40:13Z",
+      "Content": "Remember the start of the week? Thats when everyone was talking about a leaked memo from a Google employee, saying that neither Google nor OpenAI had a moat and the future belonged to open source mod… [+138358 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/c18fe2ac9c02ffd3/og.webp",
       "PublishedAt": "2023-04-13T22:30:09Z",
       "Content": "Dish Networks streaming cable replacement Sling TV is now available on some Amazon Echo Show smart screen devices, the company said this week.The launch brings Sling TV in front of more Amazon Echo S… [+288 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Victoria Edel",
-      "Title": "Robert Downey Jr. Plays Multiple Villains in HBO's \"The Sympathizer\" Teaser",
-      "Description": "Image Source: HBO\nHBO's new miniseries \"The Sympathizer\" tells the complicated story of a man known only as the Captain who's planted by North Vietnam as a spy in the South Vietnam army before the Vietnam war ends. He flees to the US after the war, where he l…",
-      "Url": "https://www.popsugar.com/entertainment/the-sympathizer-show-49143381",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/1NiGyD6IeOywUrgEjLYLTSVhvV8/0x82:2160x1216/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/04/13/798/n/1922283/11d00a1464384572ee34f1.88330832_.jpg",
-      "PublishedAt": "2023-04-13T21:45:03Z",
-      "Content": "Image Source: HBO\r\nHBO's new miniseries \"The Sympathizer\" tells the complicated story of a man known only as the Captain who's planted by North Vietnam as a spy in the South Vietnam army before the V… [+1936 chars]"
     }
   ]
 }
