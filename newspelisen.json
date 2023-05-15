@@ -1,8 +1,814 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1229,
+  "TotalResults": 1155,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Justin Carter",
+      "Title": "Meg Foster Returns to He-Man with Masters of the Universe: Revolution",
+      "Description": "Image: Mattel/Netflix\r\nWhen Masters of the Universe: Revelation premiered on Netflix back in 2021, it turned out to be...actually not half bad. Instead of being an easy dip into the nostalgia well like it initially sounded like, the show was a fun, if flawed,…",
+      "Url": "https://gizmodo.com/meg-foster-masters-of-universe-revolution-netflix-1850435565",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/37e6f53595c08a88678e2efc6edffbd9.jpg",
+      "PublishedAt": "2023-05-14T15:00:00Z",
+      "Content": "When Masters of the Universe: Revelationpremiered on Netflix back in 2021, it turned out to be...actually not half bad. Instead of being an easy dip into the nostalgia well like it initially sounded … [+2490 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Variety"
+      },
+      "Author": "Rebecca Rubin",
+      "Title": "Box Office: ‘Guardians of the Galaxy 3’ Stays Strong (For a Superhero Movie) With $60.5 Million, ‘Book Club 2’ Misses Mark",
+      "Description": "Disney’s “Guardians of the Galaxy Vol. 3″ was victorious again at the domestic box office, adding $60.5 million in its second weekend of release. Ticket sales dropped by 49% from its debut, marking a strong hold… at least for a superhero movie. By comparison,…",
+      "Url": "https://variety.com/2023/film/news/box-office-guardians-of-the-galaxy-3-tops-charts-book-club-2-opens-1235603973/",
+      "UrlToImage": "https://variety.com/wp-content/uploads/2023/05/book-club-2.jpg?w=1000&h=562&crop=1",
+      "PublishedAt": "2023-05-14T14:59:02Z",
+      "Content": "Disney’s “Guardians of the Galaxy Vol. 3″ was victorious again at the domestic box office, adding $60.5 million in its second weekend of release. \r\nTicket sales dropped by 49% from its debut, marking… [+3412 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Boston Globe"
+      },
+      "Author": "Skylar Woodhouse",
+      "Title": "Biden pleads for Congress to take steps to curb gun violence",
+      "Description": "“For God’s sake, do something,” the president wrote in a column published Sunday in USA Today. “America doesn’t have to be a place where our children learn how to duck and cover from a shooter, or scan a movie theater or restaurant for their exit options.",
+      "Url": "https://www.bostonglobe.com/2023/05/14/business/biden-pleads-congress-take-steps-curb-gun-violence/",
+      "UrlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/6BTWfgeu5achQSw24HoZhH06Jqo=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/C633PCQEOISTLHSOKHGNDY4C4M.jpg",
+      "PublishedAt": "2023-05-14T14:53:36Z",
+      "Content": "(Bloomberg) -- President Joe Biden pleaded for Congress to do more to curb gun violence as a wave of mass shootings across the US shows no sign of abating.\r\nFor Gods sake, do something, the president… [+985 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lesswrong.com"
+      },
+      "Author": "Karl von Wendt",
+      "Title": "Coordination by common knowledge to prevent uncontrollable AI",
+      "Description": "Published on May 14, 2023 1:37 PM GMTHow can we avoid an uncontrollable AI if regulation to prevent it is not feasible?Alignment of a superintelligent AI with human values is very difficult, if possible at all. Given the current speed in AI development, it se…",
+      "Url": "https://www.lesswrong.com/posts/xregz4idkf8J5uHJm/coordination-by-common-knowledge-to-prevent-uncontrollable",
+      "UrlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+      "PublishedAt": "2023-05-14T13:37:45Z",
+      "Content": "How can we avoid an uncontrollable AI if regulation to prevent it is not feasible?\r\nAlignment of a superintelligent AI with human values is very difficult, if possible at all. Given the current speed… [+15992 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "Press Trust of India",
+      "Title": "'The Kerala Story' crosses Rs 100 cr-mark at domestic box office in 9 days",
+      "Description": "\"The Kerala Story\" has raised Rs 112.99 crore in nine days since its release at the India box office, the makers said Sunday.\nIn a press note, production house Sunshine Pictures said the film earned Rs 19.5 crore on Saturday, bringing up the total of its dome…",
+      "Url": "https://www.business-standard.com/india-news/the-kerala-story-crosses-rs-100-cr-mark-at-domestic-box-office-in-9-days-123051400382_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/01/full/1682922069-5897.jpg",
+      "PublishedAt": "2023-05-14T09:48:30Z",
+      "Content": "\"The Kerala Story\" has raised Rs 112.99 crore in nine days since its release at the India box office, the makers said Sunday.\r\nIn a press note, production house Sunshine Pictures said the film earned… [+1138 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ozbargain.com.au"
+      },
+      "Author": "DarkSide",
+      "Title": "[QLD] Free Movies Mondays & Thursdays for Star Club Members (Non Members $5) @ Star Casino Gold Coast",
+      "Description": "MOVIES AT THE STAR\n\nFree and exclusive to Members of The Star Club and just $5 for Non-Members!\n\nEnjoy new release and golden oldie movies most Mondays and Thursdays. There's always something to enjoy here at The Star Gold Coast.\n\nWhen entering The Theatre yo…",
+      "Url": "https://www.ozbargain.com.au/node/774531",
+      "UrlToImage": "https://files.ozbargain.com.au/n/31/774531l.jpg?h=49c862dd",
+      "PublishedAt": "2023-05-14T03:19:17Z",
+      "Content": "MOVIES AT THE STAR\r\nFree and exclusive to Members of The Star Club and just $5 for Non-Members!\r\nEnjoy new release and golden oldie movies most Mondays and Thursdays. There's always something to enjo… [+1073 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "A 12th 'Fast & Furious' Film Will \"Probably\" Be Made, Claims Vin Diesel",
+      "Description": "During an interview on the red carpet for the premiere of Fast X in Rome, Vin Diesel claimed that a 12th Fast & Furious film will \"probably\" be made. Accompanied by co-star Michelle Rodriguez, the Fast & Furious producer shared that three films, not the two a…",
+      "Url": "https://hypebeast.com/2023/5/vin-diesel-12th-fast-furious-film-probably-be-made-info",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Ftw-vin-diesel-12th-fast-furious-film-probably-be-made-info.jpg?w=960&cbr=1&q=90&fit=max",
+      "PublishedAt": "2023-05-14T03:15:54Z",
+      "Content": "During an interview on the red carpet for the premiere of Fast X in Rome, Vin Diesel claimed that a 12th Fast &amp; Furious film will “probably” be made. Accompanied by co-star Michelle Rodriguez, th… [+1283 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Coleman Spilde",
+      "Title": "Trace Lysette Ensured ‘Monica’ Was No Ordinary Trans Film",
+      "Description": "IFC Films\r\nWhen discussing a film like Monica—the latest movie from Italian auteur Andrea Pallaoro, starring Trace Lysette as a woman who returns home to take care of her estranged, ailing mother who no longer recognizes her—it’s difficult to decide where to …",
+      "Url": "https://www.thedailybeast.com/obsessed/trace-lysette-ensured-monica-was-no-ordinary-trans-film",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683986392/230513-spilde-trace-lysette-monica-hero_ziyi5n",
+      "PublishedAt": "2023-05-14T02:16:53Z",
+      "Content": "When discussing a film like Monicathe latest movie from Italian auteur Andrea Pallaoro, starring Trace Lysette as a woman who returns home to take care of her estranged, ailing mother who no longer r… [+8960 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Shorpy.com"
+      },
+      "Author": "Joe Z",
+      "Title": "Stuart Theatre",
+      "Description": "In reply to Buy War Bonds: 1942:\n\nYes, this is looking at the northeast corner of 13th and \"O\" Streets. I used to walk by here all the time when I lived in Lincoln in the 1980s. \nThe tall building in the background was built in 1929 and contained the exuberan…",
+      "Url": "https://www.shorpy.com/node/27090#comment-232074",
+      "UrlToImage": "https://www.shorpy.com/files/images/SHORPY-8d04881a.preview.jpg",
+      "PublishedAt": "2023-05-14T00:54:00Z",
+      "Content": "US Savings Bonds were first authorized in 1935. In April 1941, Series E were issued as Defense Bonds. As the billboard dramatically shows, they became War Bonds right after Pearl Harbor.\r\nJust as the… [+450 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bleeding Cool News"
+      },
+      "Author": "Kaitlyn Booth",
+      "Title": "The Flash: New TV Spot Focuses On Nora Allen For Mother's Day",
+      "Description": "We are continuing the slow walk toward the release of The Flash, which, since we got to see it at CinemaCon, actually exists. This movie is finally emerging from development hell after nearly a decade and more baggage than the airport. All of that being said,…",
+      "Url": "https://bleedingcool.com/movies/the-flash-new-tv-spot-focuses-on-nora-allen-for-mothers-day/",
+      "UrlToImage": "https://bleedingcool.com/wp-content/uploads/2023/04/rev-1-FLSH-TRL2-88531rv4_High_Res_JPEG-1200x628.jpeg",
+      "PublishedAt": "2023-05-14T00:47:10Z",
+      "Content": "A new TV spot for The Flash has been released for Mother's Day that spotlights Nora Allen. The movie will be released on June 16th.\r\nWe are continuing the slow walk toward the release of The Flash, w… [+2393 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Soundandvision.com"
+      },
+      "Author": "David Vaughn",
+      "Title": "The Last Of Us",
+      "Description": "In October we started this blog to explore a different way of experiencing movies at home — one that doesn’t involve spinning 4K Blu-ray discs or streaming movies from Netflix and other services. I’m talking about the server-based Kaleidescape movie system. Y…",
+      "Url": "https://www.soundandvision.com/content/last-us",
+      "UrlToImage": "https://www.soundandvision.com/images/051423_SV_thelastofus_kscape%20%281%29%20%282c%29.jpg",
+      "PublishedAt": "2023-05-14T00:00:00Z",
+      "Content": "In October we started this blog to explore a different way of experiencing movies at home — one that doesnt involve spinning 4K Blu-ray discs or streaming movies from Netflix and other services. Im t… [+4611 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "/FILM"
+      },
+      "Author": "Eric Langberg",
+      "Title": "The Cloverfield Paradox Ending Explained: Bringing It All Together",
+      "Description": "On Super Bowl Sunday 2018, director Ava DuVernay tweeted, \"#FilmTwitter is going to explode tonight. Something is coming that I can hardly believe. Lawd. History in the making.\" She was teasing Netflix's surprise release of \"The Cloverfield Paradox,\" the thir…",
+      "Url": "https://www.slashfilm.com/1282752/the-cloverfield-paradox-ending-explained/",
+      "UrlToImage": "https://www.slashfilm.com/img/gallery/the-cloverfield-paradox-ending-explained/l-intro-1683676874.jpg",
+      "PublishedAt": "2023-05-13T21:15:32Z",
+      "Content": "In \"The Cloverfield Paradox,\" Earth is out of resources, and international tensions run high. Hamilton (Gugu Mbatha-Raw) joins an experimental mission in space, where her team tries to build a partic… [+1280 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Anthony Nash",
+      "Title": "Oldboy Remastered Theatrical Release Date Set for 20th Anniversary",
+      "Description": "The Oldboy remastered theatrical release date has been set by distributor Neon. Park Chan-Wook‘s classic neo-noir mystery thriller will return to theaters on August 16, 2023. Why is Oldboy returning to theaters? Last year, Neon announced it had landed Oldboy’…",
+      "Url": "https://www.comingsoon.net/movies/trailers/1287672-oldboy-remastered-theatrical-release-date-set-for-20th-anniversary",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/oldboy-20th-anniversary.png?resize=1200,630",
+      "PublishedAt": "2023-05-13T21:00:00Z",
+      "Content": "The Oldboy remastered theatrical release date has been set by distributor Neon. Park Chan-Wooks classic neo-noir mystery thriller will return to theaters on August 16, 2023. \r\nLast year, Neon announc… [+1232 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "Heels Season 2 Premiere Release Date Set Alongside Photos of Starz Drama",
+      "Description": "Starz has dropped official Heels Season 2 photos ahead of the return of its wrestling drama, starring Arrow’s Stephen Amell and Vikings’ Alexander Ludwig. The photos provide fans a glimpse of what to expect in the new season as Amell’s Jack and Ludwig’s Ace c…",
+      "Url": "https://www.comingsoon.net/tv/news/1287958-heels-season-2-premiere-date-starz-drama",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Heels-S2-1-1-e1683912492272.jpg?resize=1200,630",
+      "PublishedAt": "2023-05-13T20:00:00Z",
+      "Content": "Starz has dropped official Heels Season 2 photos ahead of the return of its wrestling drama, starring Arrows Stephen Amell and Vikings Alexander Ludwig. The photos provide fans a glimpse of what to e… [+1542 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Ben Sherlock",
+      "Title": "Fast 11: Release Date, Cast, Story & Everything We Know About The Fast & Furious Movie",
+      "Description": "Fast X is the beginning of the end for the Fast &amp; Furious franchise. What are the cast, story, and release date for the next installment, Fast 11?",
+      "Url": "https://screenrant.com/fast-11-release-date-cast-story-updates/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/dom_on_the_poster_for_fast_x.jpg",
+      "PublishedAt": "2023-05-13T19:30:17Z",
+      "Content": "The next action-packed installment of the Fast &amp; Furious franchise, Fast 11, has exciting story details, a promising cast, and a not-too-distant release date. Fast X marks the beginning of the en… [+7061 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "/FILM"
+      },
+      "Author": "Witney Seibold",
+      "Title": "Cloverfield's Shaky Camera Style Resulted In Warnings Posted Outside Movie Theaters",
+      "Description": "Matt Reeves' 2008 film \"Cloverfield\" was, prior to its release, shrouded in mystery. Advertising only hinted at some kind of horrendous, monster-based disaster, but was coy as to the exact nature of the threat. All people knew was that the Statue of Liberty w…",
+      "Url": "https://www.slashfilm.com/1279866/cloverfield-shaky-camera-style-resulted-warnings-posted-outside-movie-theaters/",
+      "UrlToImage": "https://www.slashfilm.com/img/gallery/cloverfields-shaky-camera-style-resulted-in-warnings-posted-outside-movie-theaters/l-intro-1683570209.jpg",
+      "PublishedAt": "2023-05-13T18:00:03Z",
+      "Content": "Matt Reeves' 2008 film \"Cloverfield\" was, prior to its release, shrouded in mystery. Advertising only hinted at some kind of horrendous, monster-based disaster, but was coy as to the exact nature of … [+1515 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "/FILM"
+      },
+      "Author": "Kira Deshler",
+      "Title": "Horror Sequels Fans Will Get To See Sooner Than They Realize",
+      "Description": "For some people, horror cinema is defined by scrappy outsiders who make films on shoestring budgets, but that's not really what it's all about — and it never has been. Since the beginning, horror has been an extremely popular (and profitable) film genre, and …",
+      "Url": "https://www.slashfilm.com/1280159/horror-sequels-fans-will-get-to-see-sooner-than-they-realize/",
+      "UrlToImage": "https://www.slashfilm.com/img/gallery/horror-sequels-fans-will-get-to-see-sooner-than-they-realize/l-intro-1683580506.jpg",
+      "PublishedAt": "2023-05-13T17:15:03Z",
+      "Content": "In Hollywood films, the monsters just keep getting bigger and badder. Case in point: the 2018 film \"The Meg,\" in which Jason Statham fights off a shark. But the \"Meg,\" as she's lovingly referred to, … [+1432 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Today"
+      },
+      "Author": "Business Today Desk",
+      "Title": "The Kerala Story box office collection: Adah Sharma-starrer earns Rs 93 cr in 8 days",
+      "Description": "The controversial movie emerged as second highest grossing Hindi film of 2023 in second week of release itself, says trade analyst Taran Adarsh",
+      "Url": "https://www.businesstoday.in/latest/trends/story/the-kerala-story-box-office-collection-adah-sharma-starrer-earns-rs-93-cr-in-8-days-381201-2023-05-13",
+      "UrlToImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202305/adahsharma-keralastory_0-sixteen_nine-sixteen_nine.jpg",
+      "PublishedAt": "2023-05-13T15:12:02Z",
+      "Content": "Despite facing a ban and political attacks from several parts of the country, The Kerala Story has managed to clock good numbers at the box office. The Sudipto Sen-directorial has earned almost Rs 10… [+1809 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "Paul Walker’s Daughter Confirms Fast X Cameo",
+      "Description": "Paul Walker‘s 24-year-old daughter Meadow Walker took to Instagram to share a glimpse of her upcoming Fast X cameo, ahead of the action sequel’s May 19 theatrical release. In her post, Walker recalled her experience growing up on the set of the Fast & Furious…",
+      "Url": "https://www.comingsoon.net/movies/news/1287715-paul-walker-daughter-confirm-fast-x-cameo",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/paul-walker-e1683835464581.jpg?resize=1200,630",
+      "PublishedAt": "2023-05-13T15:00:00Z",
+      "Content": "Paul Walkers 24-year-old daughter Meadow Walker took to Instagram to share a glimpse of her upcoming Fast X cameo, ahead of the action sequels May 19 theatrical release.\r\nIn her post, Walker recalled… [+1318 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Justin Carter",
+      "Title": "Beetlejuice 2 Gets More Real as Willem Dafoe Joins Cast",
+      "Description": "Image: Myriad Pictures\r\nFor years, the idea of Beetlejuice getting a sequel has been a pipe dream. A sequel to Tim Burton’s 1988 film has been sparking up since 2011, though nothing ever really got off the ground in the last decade. But with casting announcem…",
+      "Url": "https://gizmodo.com/beetlejuice-2-willem-dafoe-casting-warner-bros-1850434336",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/01786af6ca4fced4e9e73b1f414012a5.jpg",
+      "PublishedAt": "2023-05-13T14:30:00Z",
+      "Content": "For years, the idea of Beetlejuicegetting a sequel has been a pipe dream. A sequel to Tim Burtons 1988 film has been sparking up since 2011, though nothing ever really got off the ground in the last … [+1490 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livejournal.com"
+      },
+      "Author": "hewontgo",
+      "Title": "Parker Posey Lost Out on Roles for Being ‘Too Indie’",
+      "Description": "Parker Posey Lost Out on Roles for Being ‘Too Indie’ https://t.co/US1dpw5z3F pic.twitter.com/NnVuqmJ0Ri\r\n— IndieWire (@IndieWire) May 12, 2023Posey recalled being pigeonholed as an indie actress early in her career, leading her to lose mainstream roles to San…",
+      "Url": "https://ohnotheydidnt.livejournal.com/125948540.html",
+      "UrlToImage": "https://l-stat.livejournal.net/img/sign.png",
+      "PublishedAt": "2023-05-13T14:10:31Z",
+      "Content": "Parker Posey Lost Out on Roles for Being Too Indie https://t.co/US1dpw5z3Fpic.twitter.com/NnVuqmJ0Ri\r\n— IndieWire (@IndieWire) May 12, 2023\r\nPosey recalled being pigeonholed as an indie actress early… [+597 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Grand Forks Herald"
+      },
+      "Author": "Ingrid Harbo",
+      "Title": "Plan to reopen theater seeks to bring movies — and fresh popcorn — back to Devils Lake",
+      "Description": "A group of Devils Lake-area residents, who call themselves the Unpopped Colonels, has purchased the shuttered three-screen theater with plans to remodel and reopen it as a movie theater.",
+      "Url": "https://www.grandforksherald.com/business/plan-to-reopen-theater-seeks-to-bring-movies-and-fresh-popcorn-back-to-devils-lake",
+      "UrlToImage": "https://cdn.forumcomm.com/dims4/default/3967214/2147483647/strip/true/crop/4032x3024+0+0/resize/1421x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fea%2F51%2Fe8a362164c3699536199da997205%2Fimg-5454.jpg",
+      "PublishedAt": "2023-05-13T13:14:48Z",
+      "Content": "DEVILS LAKE Popcorn could be popping at the Devils Lake movie theater as soon as this summer. After three years of sitting empty, a group the members call themselves the Unpopped Colonels has purchas… [+3742 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Catholicnewsagency.com"
+      },
+      "Author": "Francesca Pollio Fenton",
+      "Title": "New EWTN film about Catholic priest in hiding receives blessing from Pope Francis",
+      "Description": "Aidan Gallagher, director of EWTN Ireland, receives a blessing for the film “Faith of Our Fathers” from Pope Francis after the pope’s general audience May 3, 2023. / Credit: Courtesy of EWTN News Nightly\n\nDenver Newsroom, May 13, 2023 / 06:00 am (CNA).\nA new …",
+      "Url": "https://www.catholicnewsagency.com/news/254290/new-ewtn-film-about-a-catholic-priest-in-hiding-receives-blessing-from-pope-francis",
+      "UrlToImage": "https://www.catholicnewsagency.com/storage/image/e4bd438f-4671-4140-97ee-9055df4daa60.jpg?jpg",
+      "PublishedAt": "2023-05-13T12:00:00Z",
+      "Content": "The film was shown at the Pontifical University of the Holy Cross in Rome on May 2. Participants who hailed from many parts of the world including India, Pakistan, and the United Arab Emirates gave f… [+1436 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Alastair Lockhart",
+      "Title": "Kate and Wills The Movie: Prince and Princess of Wales release behind-the-scenes Coronation footage",
+      "Description": "Kensington Palace has released a stunning behind-the-scenes video of the Prince and Princess of Wales at the King's Coronation last week.",
+      "Url": "https://www.dailymail.co.uk/news/article-12079755/Kate-Wills-Movie-Prince-Princess-Wales-release-scenes-Coronation-footage.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/05/13/11/70941139-0-image-a-7_1683973123409.jpg",
+      "PublishedAt": "2023-05-13T10:33:06Z",
+      "Content": "Kensington Palace has released a stunning behind-the-scenes video of the Prince and Princess of Wales at the King's Coronation last week.\r\nPrincess William and Princess Kate made headlines with their… [+2426 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Alastair Lockhart",
+      "Title": "Kate and Wills The Movie: Prince and Princess of Wales release behind-the-scenes Coronation footage",
+      "Description": "Kensington Palace has released a stunning behind-the-scenes video of the Prince and Princess of Wales at the King's Coronation last week.",
+      "Url": "https://www.dailymail.co.uk/news/article-12079755/Kate-Wills-Movie-Prince-Princess-Wales-release-scenes-Coronation-footage.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/05/13/11/70941139-0-image-a-7_1683973123409.jpg",
+      "PublishedAt": "2023-05-13T10:33:06Z",
+      "Content": "Kensington Palace has released a stunning behind-the-scenes video of the Prince and Princess of Wales at the King's Coronation last week.\r\nPrincess William and Princess Kate made headlines with their… [+2426 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Week Magazine"
+      },
+      "Author": "Brendan Morrow",
+      "Title": "Beetlejuice 2: The long road to a long-awaited sequel",
+      "Description": "It's showtime!\nA sequel to Tim Burton's classic 1988 film Beetlejuice, which starred Michael Keaton as a ghost who is summoned when his name is uttered three times, is officially on the way. Keaton is reportedly returning for the movie, which is set to hit th…",
+      "Url": "https://theweek.com/culture/1023392/beetlejuice-2-the-long-road-to-a-long-awaited-sequel",
+      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1683737252/GettyImages-1244840198.jpg",
+      "PublishedAt": "2023-05-13T09:37:05Z",
+      "Content": "It's showtime!\r\nA sequel to Tim Burton's classic 1988 film Beetlejuice, which starred Michael Keaton as a ghost who is summoned when his name is uttered three times, is officially on the way. Keaton … [+4954 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Week Magazine"
+      },
+      "Author": "Catherine Garcia",
+      "Title": "The Check-In: Movie magic at the Academy Museum, cash for flight cancelations, and more",
+      "Description": "Welcome to The Check-In, our weekend feature focusing on all things travel.\nThe Academy Museum of Motion Pictures offers a behind-the-scenes look at Hollywood\nAt the Academy Museum of Motion Pictures, you never know what's around the corner.\nIt could be the d…",
+      "Url": "https://theweek.com/feature/1023454/the-check-in-movie-magic-at-the-academy-museum-cash-for-flight-cancelations-and",
+      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1683870894/AcademyMuseumExterior.jpg",
+      "PublishedAt": "2023-05-13T09:25:05Z",
+      "Content": "Welcome to The Check-In, our weekend feature focusing on all things travel.\r\nAt the Academy Museum of Motion Pictures, you never know what's around the corner.\r\nIt could be the dental prosthetics Mar… [+6769 chars]"
+    },
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "After historic release of 'Pathaan' in Bangladesh, videos of fans grooving to 'Jhoome Jo Pathaan' in the - Times of India",
+      "Description": "<ol><li>After historic release of 'Pathaan' in Bangladesh, videos of fans grooving to 'Jhoome Jo Pathaan' in the  Times of India\r\n</li><li>Bangladeshi fans groove to Shah Rukh and Deepika's Jhoome Jo Pathaan in theatres  Hindustan Times\r\n</li><li>Bangladesh a…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMi1wFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9lbnRlcnRhaW5tZW50L2hpbmRpL2JvbGx5d29vZC9uZXdzL2FmdGVyLWhpc3RvcmljLXJlbGVhc2Utb2YtcGF0aGFhbi1pbi1iYW5nbGFkZXNoLXZpZGVvcy1vZi1mYW5zLWdyb292aW5nLXRvLWpob29tZS1qby1wYXRoYWFuLWluLXRoZS1jaW5lbWEtaGFsbHMtZ28tdmlyYWwtd2F0Y2gvYXJ0aWNsZXNob3cvMTAwMjAxNjQ0LmNtc9IB2wFodHRwczovL20udGltZXNvZmluZGlhLmNvbS9lbnRlcnRhaW5tZW50L2hpbmRpL2JvbGx5d29vZC9uZXdzL2FmdGVyLWhpc3RvcmljLXJlbGVhc2Utb2YtcGF0aGFhbi1pbi1iYW5nbGFkZXNoLXZpZGVvcy1vZi1mYW5zLWdyb292aW5nLXRvLWpob29tZS1qby1wYXRoYWFuLWluLXRoZS1jaW5lbWEtaGFsbHMtZ28tdmlyYWwtd2F0Y2gvYW1wX2FydGljbGVzaG93LzEwMDIwMTY0NC5jbXM?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-05-13T04:52:00Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "Bangladeshi fans groove to Shah Rukh and Deepika's Jhoome Jo Pathaan in theatres - Hindustan Times",
+      "Description": "<ol><li>Bangladeshi fans groove to Shah Rukh and Deepika's Jhoome Jo Pathaan in theatres  Hindustan Times\r\n</li><li>Bangladesh audiences see first Indian movie in 50 years  The Hindu\r\n</li><li>Priyanka Chopra gets clicked at London airport as she heads to Del…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMivQFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vZW50ZXJ0YWlubWVudC9ib2xseXdvb2QvYmFuZ2xhZGVzaGktZmFucy1ncm9vdmUtdG8tamhvb21lLWpvLXBhdGhhYW4taW4taGFsbHMtYWZ0ZXItcGF0aGFhbnMtaGlzdG9yaWMtdGhlYXRyaWNhbC1yZWxlYXNlLWluLWNvdW50cnktd2F0Y2gtMTAxNjgzOTQ2ODYxNTIyLmh0bWzSAcEBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2VudGVydGFpbm1lbnQvYm9sbHl3b29kL2JhbmdsYWRlc2hpLWZhbnMtZ3Jvb3ZlLXRvLWpob29tZS1qby1wYXRoYWFuLWluLWhhbGxzLWFmdGVyLXBhdGhhYW5zLWhpc3RvcmljLXRoZWF0cmljYWwtcmVsZWFzZS1pbi1jb3VudHJ5LXdhdGNoLTEwMTY4Mzk0Njg2MTUyMi1hbXAuaHRtbA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-05-13T03:36:16Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thehillstimes.in"
+      },
+      "Author": "The Hills Times",
+      "Title": "Ajay Devgn to star in Vikas Bahl’s supernatural thriller",
+      "Description": "Mumbai, May 12 (PTI): Superstar Ajay Devgn is set to collaborate with filmmaker Vikas Bahl for a supernatural thriller film, the makers announced on Friday. The untitled feature will be produced by Devgn, Kumar Mangat Pathak and Abhishek Pathak under the bann…",
+      "Url": "https://thehillstimes.in/entertainment/ajay-devgn-to-star-in-vikas-bahls-supernatural-thriller",
+      "UrlToImage": "https://thehillstimes.in/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-12-at-11.25.41-PM-1.jpeg",
+      "PublishedAt": "2023-05-13T02:35:24Z",
+      "Content": "Mumbai, May 12 (PTI): Superstar Ajay Devgn is set to collaborate with filmmaker Vikas Bahl for a supernatural thriller film, the makers announced on Friday.The untitled feature will be produced by De… [+645 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "Jack Harlow Flies High in ‘White Men Can’t Jump’",
+      "Description": "Back in 1992, Wesley Snipes and Woody Harrelson teamed up to play the role of basketball hustlers in White Men Can’t Jump. Throughout the classic film, elements of culture were masterfully weaved throughout its storyline -- from “yo mama” jokes to cycling cap…",
+      "Url": "https://hypebeast.com/2023/5/jack-harlow-sinqua-walls-calmatic-white-men-cant-jump-interview",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Fjack-harlow-sinqua-walls-calmatic-white-men-cant-jump-interview-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "PublishedAt": "2023-05-13T00:55:24Z",
+      "Content": "Back in 1992, Wesley Snipes and Woody Harrelson teamed up to play the role of basketball hustlers in White Men Cant Jump. Throughout the classic film, elements of culture were masterfully weaved thro… [+5449 chars]"
+    },
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "Bangladesh audiences see first Indian movie in 50 years - The Hindu",
+      "Description": "<ol><li>Bangladesh audiences see first Indian movie in 50 years  The Hindu\r\n</li><li>Entertainment Live Blog: Priyanka Chopra gets clicked at London airport as she heads to Delhi for Parineeti Chopra and Raghav Chadha's engagement  TOI Etimes\r\n</li><li>Watch:…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL2ludGVybmF0aW9uYWwvYmFuZ2xhZGVzaC1hdWRpZW5jZXMtc2VlLWZpcnN0LWluZGlhbi1tb3ZpZS1pbi01MC15ZWFycy9hcnRpY2xlNjY4NDMwMTguZWNl0gF8aHR0cHM6Ly93d3cudGhlaGluZHUuY29tL25ld3MvaW50ZXJuYXRpb25hbC9iYW5nbGFkZXNoLWF1ZGllbmNlcy1zZWUtZmlyc3QtaW5kaWFuLW1vdmllLWluLTUwLXllYXJzL2FydGljbGU2Njg0MzAxOC5lY2UvYW1wLw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-05-12T23:15:00Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "Helmut Lang Tapped Peter Do and Prada's Revenues Exceeded €1B EUR in This Week's Top Fashion News",
+      "Description": "This week, fashion looked to the future. Most notably, Helmut Lang named Peter Do its new creative director. In his new role, the Brooklyn-based designer will look to craft the \"next chapter\" of the namesake Austrian visionary's brand, with his debut collecti…",
+      "Url": "https://hypebeast.com/2023/5/top-fashion-news-helmut-lang-peter-do-creative-director-prada-q1-revenue-report-adidas-fear-of-god-jacquemus",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Ftop-fashion-news-helmut-lang-peter-do-creative-director-prada-q1-revenue-report-adidas-fear-of-god-jacquemus-TW.jpg?w=960&cbr=1&q=90&fit=max",
+      "PublishedAt": "2023-05-12T22:06:55Z",
+      "Content": "This week, fashion looked to the future. Most notably, Helmut Lang named Peter Do its new creative director. In his new role, the Brooklyn-based designer will look to craft the “next chapter” of the … [+6441 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TheStranger.com"
+      },
+      "Author": "Chase Hutchinson",
+      "Title": "SIFF Tells The Stranger More Details About Their Cinerama Surprise",
+      "Description": "We asked SIFF the important questions, like will the chocolate popcorn be back???\n \n by Chase Hutchinson\n \n \n \n Mulling around the Paramount Theatre for the opening night of the 49th Annual Seattle International FIlm Festival (SIFF), there was already a buzz …",
+      "Url": "https://www.thestranger.com/film/2023/05/12/78989070/siff-tells-the-stranger-more-details-about-their-cinerama-surprise",
+      "UrlToImage": "https://media2.fdncms.com/stranger/imager/u/large/78989083/cineramacm.jpeg",
+      "PublishedAt": "2023-05-12T21:47:00Z",
+      "Content": "Mulling around the Paramount Theatre for the opening night of the 49th Annual Seattle International FIlm Festival (SIFF), there was already a buzz in the air for the showing of Celine Songs upcoming … [+5203 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Anthony Nash",
+      "Title": "Hogwarts Legacy Switch Version Delayed, New Release Date Set",
+      "Description": "The Hogwarts Legacy Switch version has been delayed. This pushes back the Wizarding World game’s Switch debut until later this year. When does Hogwarts Legacy release on Nintendo Switch? In a tweet sent out on Friday from the game’s official Twitter account, …",
+      "Url": "https://www.comingsoon.net/games/news/1287987-hogwarts-legacy-switch-version-delayed-new-release-date-set",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/02/harry-wizard.jpg?resize=1200,630",
+      "PublishedAt": "2023-05-12T20:20:00Z",
+      "Content": "The Hogwarts LegacySwitch version has been delayed. This pushes back the Wizarding World games Switch debut until later this year. \r\nIn a tweet sent out on Friday from the games official Twitter acco… [+1175 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Spencer Legacy",
+      "Title": "Exclusive Elemental: Reimagine Wildfire Clip Previews the Wildfire Documentary",
+      "Description": "ComingSoon is debuting an exclusive Elemental: Reimagine Wildfire clip from the intense wildfire-focused documentary by director Trip Jennings from distributor Journeyman Pictures. The film will globally release digitally and through TVOD on June 13, though y…",
+      "Url": "https://www.comingsoon.net/movies/trailers/1287750-exclusive-elemental-reimagine-wildfire-clip",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/elemental-clip-header.png?resize=1200,630",
+      "PublishedAt": "2023-05-12T18:00:00Z",
+      "Content": "ComingSoon is debuting an exclusiveElemental: Reimagine Wildfire clip from the intense wildfire-focused documentary by director Trip Jennings from distributor Journeyman Pictures. The film will globa… [+1011 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "billboard.com",
+      "Title": "BTS Drops New Song ‘The Planet’ for ‘Bastions’ Soundtrack: Stream It Now",
+      "Description": "BTS released their new song “The Planet” from the soundtrack to the animated movie Bastions on Friday (May 12). Related BTS Solo Documentaries From J-Hope, Suga, Getting Global Release in Theaters 05/12/2023 On the uptempo track’s sunny chorus, Jung Kook, V, …",
+      "Url": "https://biztoc.com/x/a6f701ea6ec1a284",
+      "UrlToImage": "https://c.biztoc.com/p/a6f701ea6ec1a284/og.webp",
+      "PublishedAt": "2023-05-12T17:47:34Z",
+      "Content": "BTS released their new song The Planet from the soundtrack to the animated movie Bastions on Friday (May 12).\r\nRelated \r\nBTS Solo Documentaries From J-Hope, Suga, Getting Global Release in Theaters \r… [+190 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Victoria Messina",
+      "Title": "Halle Bailey Continues Her Mermaidcore Streak in a Plunging Pearl-Covered Gown",
+      "Description": "Halle Bailey is fully embracing her Princess Ariel era. The actor wore another aquatic-inspired dress to \"The Little Mermaid\" premiere in Mexico City on May 11, proving she was born to star in the live-action remake. Bailey's stylist, Nicky Good, dipped into …",
+      "Url": "https://www.popsugar.com/fashion/halle-bailey-georges-chakra-dress-little-mermaid-premiere-49172233",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/SBmWKFpfEvW97OoBBK1XW1yAKtg/1824x710:3499x1589/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/05/12/662/n/1922564/a5abc647645e531beb8ea1.26515532_.jpg",
+      "PublishedAt": "2023-05-12T17:20:09Z",
+      "Content": "Halle Bailey is fully embracing her Princess Ariel era. The actor wore another aquatic-inspired dress to \"The Little Mermaid\" premiere in Mexico City on May 11, proving she was born to star in the li… [+1529 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tyler Treese",
+      "Title": "The Mother Interview: Omari Hardwick on Starring With Jennifer Lopez",
+      "Description": "The Jennifer Lopez-led action movie The Mother is now streaming on Netflix. Ahead of its release, ComingSoon Editor-in-Chief Tyler Treese spoke to star Omari Hardwick (Army of the Dead) about the movie and the intense action scenes. “A deadly female assassin …",
+      "Url": "https://www.comingsoon.net/movies/features/1286591-the-mother-omari-hardwick-interview",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/T_W19465_HuMfE3IX.jpg?resize=1200,630",
+      "PublishedAt": "2023-05-12T17:00:13Z",
+      "Content": "The Jennifer Lopez-led action movie The Mother is now streaming on Netflix. Ahead of its release, ComingSoon Editor-in-Chief Tyler Treese spoke to star Omari Hardwick (Army of the Dead) about the mov… [+4603 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Mack Ashworth",
+      "Title": "Conor McGregor Forever Release Date: When Is It Out on Netflix?",
+      "Description": "The Conor McGregor Forever release date is fast approaching. For fans of the fighter or MMA in general, this four-part documentary will surely be hotly anticipated. Here’s when the new Conor McGregor series is coming to Netflix. When is the Conor McGregor For…",
+      "Url": "https://www.comingsoon.net/guides/news/1287818-conor-mcgregor-forever-release-date-when-coming-out-netflix",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Conor-McGregor-Forever-Release-Date.jpg?resize=1200,630",
+      "PublishedAt": "2023-05-12T16:35:37Z",
+      "Content": "The Conor McGregor Forever release date is fast approaching. For fans of the fighter or MMA in general, this four-part documentary will surely be hotly anticipated. Heres when the new Conor McGregor … [+1599 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Page Six"
+      },
+      "Author": "Kristin Contino",
+      "Title": "Jennifer Lopez wears sequin bra at ‘Mother’ premiere after Ben Affleck fight",
+      "Description": "The sexy star hit the red carpet in a bedazzled look to celebrate the release of her new movie with her husband.",
+      "Url": "https://pagesix.com/2023/05/12/jennifer-lopez-wears-sequin-bra-at-mother-premiere-with-ben-affleck/",
+      "UrlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/05/NYPICHPDPICT000011000733.jpg?quality=75&strip=all&w=1200",
+      "PublishedAt": "2023-05-12T16:35:21Z",
+      "Content": "We’re wowed by the abs that she’s got. \r\nJennifer Lopez wore a striking sequin set to walk the red carpet at the premiere of her latest movie, “Mother,” on Wednesday, sporting custom Brunello Cucinel… [+2102 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "WGN TV Chicago"
+      },
+      "Author": "Allen Foster, BestReviews",
+      "Title": "Netflix just announced its summer movie slate",
+      "Description": "BestReviews is reader-supported and may earn an affiliate commission. Details FROM BLOCKBUSTER ACTION TO GRIPPING DOCUMENTARIES, HERE'S NETFLIX'S SUMMER LINEUP IN THIS ARTICLE: There's no shortage of movies coming to the theaters. Whether it's an insanely ove…",
+      "Url": "https://wgntv.com/news/trending/netflix-just-announced-its-summer-movie-slate/",
+      "UrlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/05/Netflix-just-announced-its-summer-movie-slate-1.jpg?w=1280",
+      "PublishedAt": "2023-05-12T16:30:51Z",
+      "Content": "BestReviews is reader-supported and may earn an affiliate commission. Details\r\nFROM BLOCKBUSTER ACTION TO GRIPPING DOCUMENTARIES, HERE’S NETFLIX’S SUMMER LINEUP\r\nIN THIS ARTICLE:\r\nThere’s no shortage… [+5919 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "WGN TV Chicago"
+      },
+      "Author": "Allen Foster, BestReviews",
+      "Title": "Netflix just announced its summer movie slate",
+      "Description": "BestReviews is reader-supported and may earn an affiliate commission. Details FROM BLOCKBUSTER ACTION TO GRIPPING DOCUMENTARIES, HERE'S NETFLIX'S SUMMER LINEUP IN THIS ARTICLE: There's no shortage of movies coming to the theaters. Whether it's an insanely ove…",
+      "Url": "https://wgntv.com/news/nexstar-media-wire/netflix-just-announced-its-summer-movie-slate/",
+      "UrlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/05/Netflix-just-announced-its-summer-movie-slate-1.jpg?w=1280",
+      "PublishedAt": "2023-05-12T16:30:51Z",
+      "Content": "BestReviews is reader-supported and may earn an affiliate commission. Details\r\nFROM BLOCKBUSTER ACTION TO GRIPPING DOCUMENTARIES, HERE’S NETFLIX’S SUMMER LINEUP\r\nIN THIS ARTICLE:\r\nThere’s no shortage… [+5919 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Spencer Legacy",
+      "Title": "Exclusive Organ Trail Clip Features a Tense Western Standoff",
+      "Description": "ComingSoon is debuting an exclusive Organ Trail clip from the western horror thriller movie by director Michael Patrick Jann. The movie is set to release digitally on May 12, 2023. “A ruthless band of bloodthirsty bandits terrorizes a family on the treacherou…",
+      "Url": "https://www.comingsoon.net/movies/trailers/1287595-exclusive-organ-trail-clip-features-a-tense-western-standoff",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/organ-trail-header.png?resize=1200,630",
+      "PublishedAt": "2023-05-12T16:00:00Z",
+      "Content": "ComingSoon is debuting an exclusive Organ Trail clip from the western horror thriller movie by director Michael Patrick Jann. The movie is set to release digitally on May 12, 2023.\r\nA ruthless band o… [+435 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "Disney Plus Schedule May 15-21: New TV & Movies",
+      "Description": "The final episodes of A Small Light are headlining the Disney Plus schedule for May 15-21. On Tuesday, May 16, Disney Plus will release the last two installments to A Small Light a few hours after the biographical drama series finale on National Geographic. W…",
+      "Url": "https://www.comingsoon.net/guides/news/1287158-disney-plus-schedule-may-15-21-new-tv-movies",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/A-Small-Light.jpg?resize=1200,630",
+      "PublishedAt": "2023-05-12T15:46:06Z",
+      "Content": "The final episodes of A Small Light are headlining the Disney Plus schedule for May 15-21. \r\nOn Tuesday, May 16, Disney Plus will release the last two installments to A Small Light a few hours after … [+1641 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "Fast 11 Release Date: When Is the Next Fast and Furious Movie Coming Out?",
+      "Description": "With Fast X speeding into theaters on May 19, fans are already looking ahead and wondering about the Fast 11 release date. Yes, the upcoming Fast X won’t be the last Fast and Furious movie, as the series is still expanding. Here’s all you need to know about t…",
+      "Url": "https://www.comingsoon.net/guides/news/1287829-fast-11-release-date-when-next-fast-and-furious-movie-coming-out-releasing",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Fast-11.jpg?resize=1200,630",
+      "PublishedAt": "2023-05-12T15:29:53Z",
+      "Content": "With Fast X speeding into theaters on May 19, fans are already looking ahead and wondering about the Fast 11 release date. Yes, the upcoming Fast X wont be the last Fast and Furious movie, as the ser… [+1747 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TheStranger.com"
+      },
+      "Author": "Nathalie Graham",
+      "Title": "Slog AM: SIFF Buys Cinerama, CNN Defends Trump Town Hall, Calling All Kyles",
+      "Description": "The Stranger's morning news roundup.\n \n by Nathalie Graham\n \n \n \n Cinerama lives!!! Last night, at its opening night gala, the Seattle International Film Festival (SIFF) announced its acquisition of Seattle Cinerama. Seattle's most epic movie-going experience…",
+      "Url": "https://www.thestranger.com/slog-am/2023/05/12/78988550/slog-am-siff-buys-cinerama-cnn-defends-trump-town-hall-calling-all-kyles",
+      "UrlToImage": "https://media1.fdncms.com/stranger/imager/u/large/78988652/1580847654-20141028-cinerama-003.jpg",
+      "PublishedAt": "2023-05-12T15:27:00Z",
+      "Content": "Cinerama lives!!! Last night, at its opening night gala, the Seattle International Film Festival (SIFF) announced its acquisition of Seattle Cinerama. Seattle's most epic movie-going experience has b… [+5815 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "Peacock Schedule May 15-21: New TV & Movies",
+      "Description": "The final episode of Mrs. Davis is the most eye-catching title on the Peacock schedule for May 15-21. On Thursday, May 18, Peacock will release the eighth and final installment of Mrs. Davis Season 1. The series first hit the streamer on April 20 after premie…",
+      "Url": "https://www.comingsoon.net/guides/news/1287860-peacock-schedule-may-15-21-new-tv-movies",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Mrs-Davis.jpg?resize=1200,630",
+      "PublishedAt": "2023-05-12T15:24:39Z",
+      "Content": "The final episode of Mrs. Davis is the most eye-catching title on the Peacock schedule for May 15-21. \r\nOn Thursday, May 18, Peacock will release the eighth and final installment of Mrs. Davis Season… [+4561 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bloody Disgusting"
+      },
+      "Author": "Paul Farrell",
+      "Title": "Bittersweet Symphony: ‘Scream 2’ Music Supervisor Reveals the Song That Almost Ended the Film [Interview]",
+      "Description": "It’s common knowledge that the Nick Cave & The Bad Seeds song “Red Right Hand” is the hit most associated with the Scream franchise. Still, there was another single that almost made its way into scary movie canon with the release of Scream 2 (1997). Rather th…",
+      "Url": "https://bloody-disgusting.com/exclusives/3761944/bittersweet-symphony-scream-2-music-supervisor-reveals-the-song-that-almost-ended-the-film-interview/",
+      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/05/sid.jpg?resize=1000%2C600&ssl=1",
+      "PublishedAt": "2023-05-12T15:15:47Z",
+      "Content": "Its common knowledge that the Nick Cave &amp; The Bad Seeds song Red Right Hand is the hit most associated with the Scream franchise. Still, there was another single that almost made its way into sca… [+5946 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "The Feed",
+      "Title": "'Mrs. Chatterjee vs. Norway' on OTT: Release date, cast, plot, and where to watch",
+      "Description": "'Mrs. Chatterjee vs. Norway' is an emotionally charged movie that highlights the struggles of a mother fighting for the custody of her children. With a talented cast and a well-written plot, the movie is a good watch for anyone who enjoys courtroom dramas.",
+      "Url": "https://economictimes.indiatimes.com/news/new-updates/mrs-chatterjee-vs-norway-on-ott-release-date-cast-plot-and-where-to-watch/articleshow/100191004.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-100191273,width-1070,height-580,imgsize-16460,overlay-economictimes/photo.jpg",
+      "PublishedAt": "2023-05-12T14:33:10Z",
+      "Content": "On Watchlist: Govt Seeks to Tax Netflix Income in IndiaIndia is seeking to tax Netflix Inc.s income earned from streaming services in the country, people familiar with the matter said. Its the first … [+714 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "blogTO"
+      },
+      "Author": "Staff",
+      "Title": "Indie cinemas battle Cineplex for the right to play the movies you want to see",
+      "Description": "Toronto's indie cinemas have always been the heart of their communities. Unfortunately, they're also constantly in a battle for survival because they simply cannot play the films people are eager to watch.\r\nMega theatre chain Cineplex has first dibs when new …",
+      "Url": "https://www.blogto.com/film/2023/05/indie-cinemas-battle-cineplex/",
+      "UrlToImage": "https://media.blogto.com/articles/20230512-cineplex-indie-cinemas.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70",
+      "PublishedAt": "2023-05-12T14:14:31Z",
+      "Content": "Toronto's indie cinemas have always been the heart of their communities. Unfortunately, they're also constantly in a battle for survival because they simply cannot play the films people are eager to … [+2931 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Chicago Reader"
+      },
+      "Author": "Kerry Reid",
+      "Title": "Windy City Playhouse goes on the market",
+      "Description": "When Windy City Playhouse first opened on Irving Park Road in 2015, the company won nearly as much attention for its comfortable audience perks (swivel seats and food and beverage service, like a luxe movie theater) as it did for its programming, which for th…",
+      "Url": "http://chicagoreader.com/arts-culture/ghost-light/windy-city-playhouse-goes-on-the-market/",
+      "UrlToImage": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2022/09/Anne-Sheridan-Smith-Carley-Cornelius-Sarah-Grant-Joe-Edward-Metcalfe-Matt-Bowdren-scaled.jpg?fit=2560%2C1799&ssl=1",
+      "PublishedAt": "2023-05-12T14:00:00Z",
+      "Content": "When Windy City Playhouse first opened on Irving Park Road in 2015, the company won nearly as much attention for its comfortable audience perks (swivel seats and food and beverage service, like a lux… [+7416 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Marla Añonuevo",
+      "Title": "Dr. Stone Season 3 Episode 7 Release Date & Time",
+      "Description": "Here are the details for the Dr. Stone season 3 episode 7 release date and time, with the episode itself titled “Ray of Despair, Ray of Hope.” This episode features Science Vessel Perseus heading for the treasure island. Here’s when it will be available on Cr…",
+      "Url": "https://www.comingsoon.net/guides/news/1287812-dr-stone-season-3-episode-7-release-date-time-us-et-pt-ct",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/dr-stone-s3-ep-7.png?resize=1200,630",
+      "PublishedAt": "2023-05-12T12:35:09Z",
+      "Content": "Here are the details for the Dr. Stone season 3 episode 7 release date and time, with the episode itself titled Ray of Despair, Ray of Hope. This episode features Science Vessel Perseus heading for t… [+1820 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fontsinuse.com"
+      },
+      "Author": "Production Type",
+      "Title": "Maison de la Culture d’Amiens visual identity and 2018/19 season",
+      "Description": "Contributed by Production TypeSource: www.julienlelievre.com License: All Rights Reserved. MCA logo lockup using PVC Banner UltraThe city of Amiens in the north of France enjoys an excellent reputation for a number of reasons: being the ancient capital of the…",
+      "Url": "https://fontsinuse.com/uses/37481/maison-de-la-culture-d-amiens-visual-identity",
+      "UrlToImage": "https://cards.fontsinuse.com/cardshot?s=og&t=use&url=https://fontsinuse.com/uses/37481/maison-de-la-culture-d-amiens-visual-identity&k=e45c8eb2540616a8f05631755fb6f0ee",
+      "PublishedAt": "2023-05-12T07:54:51Z",
+      "Content": "The city of Amiens in the north of France enjoys an excellent reputation for a number of reasons: being the ancient capital of the Picardie region, it attracts countless visitors that come for its pi… [+2474 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Inside the Magic"
+      },
+      "Author": "Chloe James",
+      "Title": "James Gunn Reveals One of His Favorite ‘Guardians of the Galaxy’ Moments",
+      "Description": "James Gunn has just revealed one of his favorite moments in the Guardians of the Galaxy series – and confirmed a heartbreaking detail about Rocket in the process. With the release of Guardians of the Galaxy, Vol. 3 (2023), Gunn has finally given Rocket the Ma…",
+      "Url": "https://insidethemagic.net/2023/05/james-gunn-reveals-one-of-his-favorite-guardians-of-the-galaxy-moments-cj1/",
+      "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2023/04/Collage-Maker-28-Apr-2023-01-15-PM-3367.jpg",
+      "PublishedAt": "2023-05-12T07:24:14Z",
+      "Content": "James Gunn has just revealed one of his favorite moments in the Guardians of the Galaxy series and confirmed a heartbreaking detail about Rocket in the process.\r\nWith the release of Guardians of the … [+2135 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gameinformer.com"
+      },
+      "Author": "Brian Shea",
+      "Title": "Interview: Tears Of The Kingdom And The State Of Zelda With Aonuma And Fujibayashi",
+      "Description": "Announced as a surprise stinger at the end of the E3 2019 Nintendo Direct, The Legend of Zelda: Tears of the Kingdom has occupied the top spot of many \"most anticipated\" lists for nearly four years. The long-awaited sequel to The Legend of Zelda: Breath of th…",
+      "Url": "https://www.gameinformer.com/interview/2023/05/12/interview-tears-of-the-kingdom-and-the-state-of-zelda-with-aonuma-and",
+      "UrlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2023/04/24/7ae34740/2.jpg",
+      "PublishedAt": "2023-05-12T07:00:00Z",
+      "Content": "Announced as a surprise stinger at the end of the E3 2019 Nintendo Direct, The Legend of Zelda: Tears of the Kingdom has occupied the top spot of many \"most anticipated\" lists for nearly four years. … [+20354 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Sameer Suri",
+      "Title": "Halle Bailey cuddles up to onscreen dad Javier Bardem at Mexico premiere of The Little Mermaid",
+      "Description": "In the run-up to its release, the Disney movie held a star-studded premiere in Los Angeles on Monday, three days before its latest glittering promotional event in the Mexican capital and of its release May 26.",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-12075749/Halle-Bailey-cuddles-onscreen-dad-Javier-Bardem-Mexico-premiere-Little-Mermaid.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/05/12/07/70896631-0-image-a-121_1683874361986.jpg",
+      "PublishedAt": "2023-05-12T06:55:33Z",
+      "Content": "Halle Bailey cut an ethereal figure at Thursday night's Mexico City premiere of her new live-action remake of The Little Mermaid.\r\nBased on the 1989 Disney animated classic, which in turn is adapted … [+4386 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Anonymous",
+      "Title": "2023.1.0b16",
+      "Description": "2023.1.0b16\n\n May 11, 2023\n \n unityhub://2023.1.0b16/54d4e608cabd\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CPP…",
+      "Url": "https://unity.com/releases/editor/beta/2023.1.0b16",
+      "UrlToImage": null,
+      "PublishedAt": "2023-05-12T06:15:02Z",
+      "Content": "<li>2D: Added 2D Triangle default asset to replace missing place holder.\r\n(DANB-125)\r\n</li><li>2D: Added editor assembly reference to Unity.RenderPipelines.Universal.2D.Runtime.\r\n</li><li>2D: Disable… [+178924 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "Disney To Cut Content From Disney+ and Hulu Following Decline in Subscribers",
+      "Description": "Following reports of a second straight quarterly drop in subscribers in Q2 2023 on Disney+, Disney has announced that it will be purging some of its content on its streamer. It appears that the company is taking a page from Warner Bros. Discovery's book, cutt…",
+      "Url": "https://hypebeast.com/2023/5/disney-cut-content-from-disney-plus-hulu-news",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Fdisney-cut-content-from-disney-plus-hulu-news-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "PublishedAt": "2023-05-12T05:29:28Z",
+      "Content": "Following reports of a second straight quarterly drop in subscribers in Q2 2023 on Disney+, Disney has announced that it will be purging some of its content on its streamer. It appears that the compa… [+1248 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Anandabazar.com"
+      },
+      "Author": "আনন্দবাজার অনলাইন ডেস্ক",
+      "Title": "Pathan release in Bangladesh | Shah Rukh khan deepika padukone starrer pathan movie get a housefull opening in Bangladesh dgtl",
+      "Description": "Pathan release in Bangladesh | Shah Rukh khan deepika padukone starrer pathan movie get a housefull opening in Bangladesh dgtlanandabazar.com",
+      "Url": "https://www.anandabazar.com/entertainment/shah-rukh-khan-deepika-padukone-starrer-pathan-movie-get-a-housefull-opening-in-bangladesh-dgtl/cid/1429364",
+      "UrlToImage": "https://assets.telegraphindia.com/abp/2023/May/1682926902_pathan-2.jpg",
+      "PublishedAt": "2023-05-12T05:13:14Z",
+      "Content": "These Terms of Use govern your use of the websites, content and community services offered through www.anandabazar.com , other associated URLs (\"Site\") and all mobile applications (\"Mobile Apps\") and… [+36018 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "seattletimes.com",
+      "Title": "SIFF buys Cinerama, plans reopening of shuttered Seattle movie theater",
+      "Description": "The Seattle International Film Festival has acquired the theater, which has been closed since 2020, from the estate of Paul Allen. Here are SIFF's plans for it. #paulallen #siff",
+      "Url": "https://biztoc.com/x/965f2b051fca4de7",
+      "UrlToImage": "https://c.biztoc.com/p/965f2b051fca4de7/og.webp",
+      "PublishedAt": "2023-05-12T02:45:07Z",
+      "Content": "The Seattle International Film Festival has acquired the theater, which has been closed since 2020, from the estate of Paul Allen. Here are SIFF's plans for it. \r\n#paulallen#siff\r\n This story appeare… [+33 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "FRANCE 24 English"
+      },
+      "Author": "FRANCE24",
+      "Title": "The long wait is over: New 'Zelda' hits shelves",
+      "Description": "The game featuring the exploits of Princess Zelda and the elf-like warrior Link has sold 125 million copies worldwide since its first edition in 1986.\n\nIt helped forge \"open world\" games where the player is free to roam in virtual landscapes -- an idea later …",
+      "Url": "https://www.france24.com/en/live-news/20230512-the-long-wait-is-over-new-zelda-hits-shelves",
+      "UrlToImage": "https://s.france24.com/media/display/c201d9de-ee6e-11ed-b2cf-005056a90284/w:1280/p:16x9/3d2fa78796cdeb5f177a9215d3f5ab0b6330622c.jpg",
+      "PublishedAt": "2023-05-12T01:54:13Z",
+      "Content": "Tokyo (AFP) A six-year wait came to an end for \"Zelda\" fans across the world on Friday as Nintendo released the long-awaited next instalment of its 40-year-old gaming saga. The game featuring the exp… [+3962 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -496,812 +1302,6 @@
       "UrlToImage": "https://bleedingcool.com/wp-content/uploads/2020/12/blumhouse-logo-1200x628.jpg",
       "PublishedAt": "2023-05-10T21:17:09Z",
       "Content": "The latest Blumhouse film to get dated is titled Imaginary and it has quite the hook. Sounds like another hit for the studio.\r\nBlumhouse has a new film from director Jeff Wadlow titled Imaginary comi… [+1704 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Padre Pio Release Date Set in Trailer for Shia LaBeouf Acting Comeback",
-      "Description": "The official Padre Pio release date has been set in a new trailer. The upcoming Abel Ferrara film stars Shia LeBeouf in his return to acting. When is the Padre Pio release date? According to the latest trailer for the upcoming film, the Padre Pio release date…",
-      "Url": "https://www.comingsoon.net/movies/trailers/1287377-padre-pio-release-date-set-in-trailer-for-shia-labeouf-acting-comeback",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/download.png?resize=1200,630",
-      "PublishedAt": "2023-05-10T21:00:00Z",
-      "Content": "The official Padre Pio release date has been set in a new trailer. The upcoming Abel Ferrara film stars Shia LeBeouf in his return to acting. \r\nAccording to the latest trailer for the upcoming film, … [+1765 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Winter is Coming"
-      },
-      "Author": "Daniel Roman",
-      "Title": "Beetlejuice 2 announces fall 2024 release date",
-      "Description": "Someone, somewhere said the name Beetlejuice name three times, and now we all must pay the price! More than 30 years after the original 1988 comedic horror movie, Beetlejuice is returning to movie theaters this fall. Producers have been trying to get a Beetle…",
-      "Url": "https://winteriscoming.net/2023/05/10/beetlejuice-2-release-date-announced-for-fall-2024/",
-      "UrlToImage": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fwinteriscoming.net%2Ffiles%2F2023%2F05%2FScreen-Shot-2023-05-10-at-4.22.46-PM.jpg",
-      "PublishedAt": "2023-05-10T20:42:17Z",
-      "Content": "More than 30 years after the original 1988 comedic horror movie, Beetlejuice is returning to movie theaters this fall. Producers have been trying to get a Beetlejuice sequel off the ground for litera… [+1422 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hollywood Life"
-      },
-      "Author": "Eric Todisco",
-      "Title": "‘Flamin’ Hot’: The Cast, Release Date & More To Know About Eva Longoria’s Cheetos Movie",
-      "Description": "Eva Longoria has a hot new movie coming out this summer. It tells the origin story of Flamin’ Hot Cheetos, and we've got the scoop on the spicy film right here.",
-      "Url": "https://hollywoodlife.com/feature/flamin-hot-cheetos-movie-5096910/",
-      "UrlToImage": "https://hollywoodlife.com/wp-content/uploads/2023/05/Flamin-Hot-eva-longoria-everett-ftr.jpg",
-      "PublishedAt": "2023-05-10T20:05:27Z",
-      "Content": "View galleryImage Credit: Searchlight Pictures / Courtesy Everett Collection\r\n<ul><li>Flamin Hot is an upcoming true story movie, about the man who created Flamin Hot Cheetos.</li><li>Eva Longoria di… [+4356 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tyler Treese",
-      "Title": "The Mother Star Joseph Fiennes on Playing the Villain Opposite Jennifer Lopez",
-      "Description": "The Jennifer Lopez-led action movie The Mother premieres on Netflix this Friday, May 12. Ahead of its release, ComingSoon Editor-in-Chief Tyler Treese spoke to star Joseph Fiennes about playing the villain and the movie’s global setting. “A deadly female assa…",
-      "Url": "https://www.comingsoon.net/movies/features/1286776-the-mother-star-joseph-fiennes-on-playing-the-villain-opposite-jennifer-lopez",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/joseph-fiennes-header.png?resize=1200,630",
-      "PublishedAt": "2023-05-10T20:00:00Z",
-      "Content": "The Jennifer Lopez-led action movie The Mother premieres on Netflix this Friday, May 12. Ahead of its release, ComingSoon Editor-in-Chief Tyler Treese spoke to star Joseph Fiennes about playing the v… [+3276 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Kevin Wong",
-      "Title": "Disney's Haunted Mansion: Trailer, Release Date, Cast, And Everything We Know About Them Theme Park-Based Movie",
-      "Description": "The new Disney's Haunted Mansion movie is due out on July 28. Think of it as a redo; Disney made a first attempt at a Haunted Mansion franchise back in 2003, but it was both a critical and a commercial failure. Has the company learned its lesson from this pri…",
-      "Url": "https://www.gamespot.com/articles/disneys-haunted-mansion-trailer-release-date-cast-and-everything-we-know-about-them-theme-park-based-movie/1100-6514008/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1578/15789737/4136005-hauntedmansion.jpg",
-      "PublishedAt": "2023-05-10T19:37:00Z",
-      "Content": "The new Disney's Haunted Mansion movie is due out on July 28. Think of it as a redo; Disney made a first attempt at a Haunted Mansion franchise back in 2003, but it was both a critical and a commerci… [+6247 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Asteroid City Cast Highlighted in Poster for New Wes Anderson Movie",
-      "Description": "Focus Features has released the official Asteroid City poster for Wes Anderson’s next movie. It features appearances from the star-studded Asteroid City cast that includes Jason Schwartzman, Tom Hanks, Scarlett Johansson, Bryan Cranston, and more. The romanti…",
-      "Url": "https://www.comingsoon.net/movies/news/1287288-asteroid-city-cast-poster",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/asteroid-city-e1683737176988.jpg?resize=1200,630",
-      "PublishedAt": "2023-05-10T19:30:00Z",
-      "Content": "Focus Features has released the official Asteroid City poster for Wes Andersons next movie. It features appearances from the star-studded Asteroid City cast that includes Jason Schwartzman, Tom Hanks… [+1278 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "The Righteous Gemstones Season 3 Teaser Trailer Sets HBO Max Release Date",
-      "Description": "HBO has released The Righteous Gemstones Season 3 teaser trailer for the upcoming return of the family comedy series, starring Danny McBride and John Goodman. The next installment is slated to premiere on June 18 on HBO and Max with the first two episodes. Th…",
-      "Url": "https://www.comingsoon.net/tv/trailers/1287302-the-righteous-gemstones-season-3-teaser-trailer",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Righteous-gemstone-s3-e1683740234226.jpg?resize=1200,630",
-      "PublishedAt": "2023-05-10T18:30:00Z",
-      "Content": "HBO has released The Righteous Gemstones Season 3 teaser trailer for the upcoming return of the family comedy series, starring Danny McBride and John Goodman. The next installment is slated to premie… [+1334 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hollywood Life"
-      },
-      "Author": "Eric Todisco",
-      "Title": "‘They Cloned Tyrone’: The Cast, Release Date & More We Know About Jamie Foxx’s Netflix Movie",
-      "Description": "'They Cloned Tyrone' is Jamie Foxx's next big movie for Netflix. Here's the latest updates on the science fiction comedy film.",
-      "Url": "https://hollywoodlife.com/feature/they-cloned-tyrone-movie-5096825/",
-      "UrlToImage": "https://hollywoodlife.com/wp-content/uploads/2023/05/They-Cloned-Tyrone-Netflix-ftr.jpg",
-      "PublishedAt": "2023-05-10T18:14:46Z",
-      "Content": "View galleryImage Credit: PARRISH LEWIS/NETFLIX\r\n<ul><li>They Cloned Tyrone is an upcoming Netflix movie.</li><li>Jamie Foxx stars in the film.</li><li>They Cloned Tyrone will be released July 21, 20… [+4972 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "John Squires",
-      "Title": "‘Imaginary’ – Blumhouse Horror Movie from ‘Cry Wolf’ Director Sets 2024 Release",
-      "Description": "Lionsgate recently acquired worldwide rights to the Blumhouse horror movie Imaginary, and Deadline reports today that the film has been set for release on February 2, 2024. Blumhouse’s Jason Blum will produce, with Jeff Wadlow (Cry Wolf, Kick-Ass 2, Truth or …",
-      "Url": "https://bloody-disgusting.com/movie/3761681/imaginary-blumhouse-horror-movie-from-cry-wolf-director-sets-2024-release/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2021/05/cry.jpg?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2023-05-10T18:08:53Z",
-      "Content": "From director Hideaki Anno (Shin Godzilla, Shin Ultraman), live action reboot Shin Kamen Rider recently opened in Japanese theaters, and is finally poised to make its North American premiere thanks t… [+2250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "deadline.com",
-      "Title": "‘Imaginary’ Release Date: Blumhouse Horror Pic Set For 2024 Debut From Lionsgate",
-      "Description": "The Blumhouse Jeff Wadlow directed horror movie, Imaginary, will be released by Lionsgate on Feb. 2, 2024. It’s the first time in quite some time that the two studios have teamed up. In the movie, which Wadlow co-wrote with Greg Erb and Jason Oremland, a youn…",
-      "Url": "https://biztoc.com/x/4513e60366c6dc5f",
-      "UrlToImage": "https://c.biztoc.com/p/4513e60366c6dc5f/og.webp",
-      "PublishedAt": "2023-05-10T18:08:06Z",
-      "Content": "The Blumhouse Jeff Wadlow directed horror movie, Imaginary, will be released by Lionsgate on Feb. 2, 2024. Its the first time in quite some time that the two studios have teamed up.In the movie, whic… [+309 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Theplaylist.net"
-      },
-      "Author": "Charles Barfield",
-      "Title": "Natalie Portman Has “Complicated” Feelings About ‘Léon: The Professional’ & The “Cringey” Aspects Of The Film",
-      "Description": "In 2023, Natalie Portman is one of the biggest stars on the planet. However, back in the mid-‘90s, she was a pre-teen actress looking for her first major break. That came in the film, “Léon: The Professional.” However, nearly 30 years after the release of tha…",
-      "Url": "https://theplaylist.net/natalie-portman-has-complicated-feelings-about-leon-the-professional-the-cringey-aspects-of-the-film-20230510/",
-      "UrlToImage": "https://cdn.theplaylist.net/wp-content/uploads/2023/05/10140458/Leon-the-professional.jpg",
-      "PublishedAt": "2023-05-10T18:06:56Z",
-      "Content": "In 2023, Natalie Portman is one of the biggest stars on the planet. However, back in the mid-90s, she was a pre-teen actress looking for her first major break. That came in the film, Léon: The Profes… [+2365 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "anthonypauldalessandro",
-      "Title": "‘Imaginary’ Release Date: Blumhouse Horror Pic Set For 2024 Debut From Lionsgate",
-      "Description": "EXCLUSIVE: The Blumhouse Jeff Wadlow directed horror movie, Imaginary, will be released by Lionsgate on Feb. 2, 2024. It’s the first time in quite some time that the two studios have teamed up. In the movie, which Wadlow co-wrote with Greg Erb and Jason Oreml…",
-      "Url": "https://deadline.com/2023/05/lionsgate-blumhouse-imaginary-jeff-wadlow-horror-film-release-date-1235362153/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2023/05/blumhouse.jpg?w=1024",
-      "PublishedAt": "2023-05-10T18:00:12Z",
-      "Content": "EXCLUSIVE: The Blumhouse Jeff Wadlow directed horror movie, Imaginary, will be released by Lionsgate on Feb. 2, 2024. It’s the first time in quite some time that the two studios have teamed up. \r\nIn … [+637 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Organ Trail Apple Code Giveaway for the Western Horror Movie",
-      "Description": "ComingSoon is holding an Organ Trail Apple code giveaway ahead of the western horror thriller movie’s release. We have two Apple codes to give out for the film as part of the contest. Organ Trail was written by Megan Turner and directed by Michael Patrick Jan…",
-      "Url": "https://www.comingsoon.net/movies/news/1287138-organ-trail-apple-code-giveaway-for-the-western-horror-movie",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/organ-trail-giveaway-trailer.png?resize=1200,630",
-      "PublishedAt": "2023-05-10T18:00:00Z",
-      "Content": "ComingSoon is holding an Organ Trail Apple code giveaway ahead of the western horror thriller movies release. We have two Apple codes to give out for the film as part of the contest. Organ Trail was … [+988 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "John Squires",
-      "Title": "‘The Flood’ Official Poster – Danger Is Rising in New Hungry Hungry Alligators Horror Movie",
-      "Description": "The Meg isn’t the only sea monster swimming into theaters this summer. We’ve learned today that Saban Films will release alligator horror movie The Flood this summer as well. The action-horror movie hits Theaters, On Demand and Digital on July 14, 2023. Check…",
-      "Url": "https://bloody-disgusting.com/movie/3761630/the-flood-official-poster-danger-is-rising-in-new-hungry-hungry-alligators-horror-movie/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/05/flood-poster.png?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2023-05-10T17:27:05Z",
-      "Content": "The Meg isn’t the only sea monster swimming into theaters this summer. We’ve learned today that Saban Films will release alligator horror movie The Floodthis summer as well.\r\nThe action-horror movie … [+604 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Mack Ashworth",
-      "Title": "When Is The Little Mermaid Disney Plus Release Date?",
-      "Description": "The Little Mermaid Disney Plus release date is hotly-anticipated by subscribers of the streaming service. The new live-action version of The Little Mermaid has many fans excited, and rightly so. Here’s when you can expect The Little Mermaid to come out on Dis…",
-      "Url": "https://www.comingsoon.net/guides/news/1287297-when-is-the-little-mermaid-disney-plus-release-date-2023",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Little-Mermaid-Disney-Plus-Release-Date.jpg?resize=1200,630",
-      "PublishedAt": "2023-05-10T17:10:52Z",
-      "Content": "The Little Mermaid Disney Plus release date is hotly-anticipated by subscribers of the streaming service. The new live-action version of The Little Mermaid has many fans excited, and rightly so. Here… [+1814 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Victoria Edel",
-      "Title": "Yara Shahidi Was Disappointed She Didn't Get to Fly Around the \"Peter Pan & Wendy\" Set",
-      "Description": "Yara Shadidi thought she was going to get to fly all over the place to bring Tinkerball to life in the new movie \"Peter Pan & Wendy,\" streaming now on Disney+. \"I thought I was going to be doing some crazy wire work,\" she tells POPSUGAR. That was not the case…",
-      "Url": "https://www.popsugar.com/entertainment/peter-pan-and-wendy-cast-interview-video-49169506",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/jme-W7aGjUweBuY_iomJGLGwc-A/0x0:2559x1343/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/05/09/867/n/1922283/dbefc1cd645aa3e145f183.19747790_.jpg",
-      "PublishedAt": "2023-05-10T16:45:02Z",
-      "Content": "Yara Shadidi thought she was going to get to fly all over the place to bring Tinkerball to life in the new movie \"Peter Pan &amp; Wendy,\" streaming now on Disney+. \"I thought I was going to be doing … [+1783 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Decider"
-      },
-      "Author": "mliss1578",
-      "Title": "Netflix 2023 Summer Movie Release Dates: ‘Extraction 2,’ ‘Bird Box Barcelona,’ and More",
-      "Description": "Spend your summer inside, watching Netflix.",
-      "Url": "https://decider.com/2023/05/10/netflix-movies-summer-2023-release-dates-extraction-2/",
-      "UrlToImage": "https://decider.com/wp-content/uploads/2023/05/netflix-summer-2023-movie-release-dates.jpg?quality=75&strip=all&w=1200",
-      "PublishedAt": "2023-05-10T16:30:00Z",
-      "Content": "It’s nearly summertime, and you know what that means: It’s time to stay indoors and binge-watch Netflix! \r\nThe streaming service released its Netflix 2023 summer movie slate on Wednesday morning, wit… [+10487 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "When and where is 'Yaathisai' coming on OTT? Here's all you may want to know",
-      "Description": "After making its release on the big screen last month on April 21, Yathisaai is now shifting to OTT. However, it is the talk of the town that why is the movie releasing on OTT while it's still being shown in theatres.",
-      "Url": "https://economictimes.indiatimes.com/news/new-updates/when-and-where-is-yaathisai-coming-on-ott-heres-all-you-may-want-to-know/articleshow/100140554.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-100140541,width-1070,height-580,imgsize-2146650,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-05-10T16:24:14Z",
-      "Content": "\"Yaathisai\" was initially released on April 21 with mixed reviews from critics. Set in the 7th century, the film follows a fictitious tale centered around a Pandya prince. The movie's trailer sparked… [+1614 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "What's on Netflix"
-      },
-      "Author": "Tigran Asatryan",
-      "Title": "Kevin Hart Netflix Movie ‘Lift’ Release Date Delayed",
-      "Description": "Kevin Hart's upcoming comedy-heist movie Lift was initially set for release in August 2023 but has since been delayed.",
-      "Url": "https://www.whats-on-netflix.com/news/lift-kevin-harts-upcoming-netflix-movie-what-we-know-so-far-05-2023/",
-      "UrlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2022/03/kevin-hart-netflix-heist-movie-lift-coming-to-netflix-in-august-2023-png.png",
-      "PublishedAt": "2023-05-10T15:32:06Z",
-      "Content": "Lift – Picture. HartBeat Productions\r\nOver the past few years, Kevin Hart and Netflix have built a lucrative and fruitful relationship. This will continue with Hart’s next venture on the platform, th… [+5082 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "polygon.com",
-      "Title": "God Emperor of Dune would make a terrible movie",
-      "Description": "With the recent release of the trailer for Dune: Part Two, Dune fever has been reignited, and it already seems hotter than it was ahead of the first movie’s premiere. By the time the movie is released in November, Paul Atreides, Lady Jessica, and Chani might …",
-      "Url": "https://biztoc.com/x/08f028736212a2cc",
-      "UrlToImage": "https://c.biztoc.com/p/08f028736212a2cc/og.webp",
-      "PublishedAt": "2023-05-10T15:14:12Z",
-      "Content": "With the recent release of the trailer for Dune: Part Two, Dune fever has been reignited, and it already seems hotter than it was ahead of the first movies premiere. By the time the movie is released… [+317 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "You Are So Not Invited to My Bat Mitzvah Netflix Release Date Set",
-      "Description": "The You Are So Not Invited to My Bat Mitzvah Netflix release date has been revealed for the upcoming Adam Sandler-led movie adaptation. When is the You Are So Not Invited to My Bat Mitzvah Netflix Release Date? Netflix has revealed that You Are So Not Invited…",
-      "Url": "https://www.comingsoon.net/movies/news/1287117-you-are-so-not-invited-to-my-bat-mitzvah-netflix-release-date",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/you-are-so-not-invited-to-my-bat-mitzvah-release-date.jpeg?resize=1200,630",
-      "PublishedAt": "2023-05-10T15:00:00Z",
-      "Content": "The You Are So Not Invited to My Bat Mitzvah Netflix release date has been revealed for the upcoming Adam Sandler-led movie adaptation.\r\nNetflix has revealed that You Are So Not Invited to My Bat Mit… [+961 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Wealthofgeeks.com"
-      },
-      "Author": "Marianne Paluso",
-      "Title": "18 Movies For Everyone To Enjoy This Summer",
-      "Description": "It's almost time for summer! Get ready for family vacations, extra hours of daylight, and trips to the movie theater to see the latest blockbusters. ... Read More",
-      "Url": "https://wealthofgeeks.com/18-summer-movies-to-enjoy/",
-      "UrlToImage": "https://wealthofgeeks.com/wp-content/uploads/2022/11/MV5BMTMyMDIwODk5MF5BMl5BanBnXkFtZTcwODAwNTc3Mw@@._V1_-e1668150940260.jpg",
-      "PublishedAt": "2023-05-10T14:35:51Z",
-      "Content": "It's almost time for summer! Get ready for family vacations, extra hours of daylight, and trips to the movie theater to see the latest blockbusters. Even if it's not quite summer where you are, there… [+24435 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HYPEBEAST"
-      },
-      "Author": "info@hypebeast.com (Hypebeast)",
-      "Title": "Optimus Prime Meets Optimus Primal in New ‘Transformers: Rise of the Beasts’ Clip",
-      "Description": "A new clip has been shared from Transformers: Rise of the Beasts. Originally shown at the MTV Movie & TV Awards, the video snippet is called “Prime Meets Primal” and sees a showdown between Optimus Prime and the Autobots and the Gorilla leader Optimus Primal …",
-      "Url": "https://hypebeast.com/2023/5/transformers-rise-of-the-beasts-prime-meets-primal-clip",
-      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2FOptimus-Prime-Meets-Optimus-Primal-in-New-Transformers-Rise-of-the-Beasts-Clip-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "PublishedAt": "2023-05-10T14:23:42Z",
-      "Content": "A new clip has been shared from Transformers: Rise of the Beasts. Originally shown at the MTV Movie &amp; TV Awards, the video snippet is called Prime Meets Primal and sees a showdown between Optimus… [+932 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "Hell’s Paradise Episode 7 Release Date & Time",
-      "Description": "Here are details on the Hell’s Paradise episode 7 release date and time. For those excited to learn when they can watch Gabimaru and Sagiri team up to defeat Rokurota in the new Hell’s Paradise episode, here’s when it will be available on Crunchyroll for thos…",
-      "Url": "https://www.comingsoon.net/guides/news/1287173-hells-paradise-episode-7-release-date-time-et-pt-ct",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/hells-paradise-ep-7.png?resize=1200,630",
-      "PublishedAt": "2023-05-10T14:22:36Z",
-      "Content": "Here are details on the Hells Paradise episode 7 release date and time. For those excited to learn when they can watch Gabimaru and Sagiri team up to defeat Rokurota in the new Hells Paradise episode… [+1872 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "One Piece Episode 1062 Release Date & Time",
-      "Description": "Here are the need-to-know details on the One Piece episode 1062 release date and time. This is when audiences in the US can watch the new One Piece episode in ET, CT, and PT time zones. When is the One Piece episode 1062 release date and time? One Piece Episo…",
-      "Url": "https://www.comingsoon.net/guides/news/1287166-one-piece-episode-1062-release-date-time-et-pt-ct",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/one-piece-ep-1062.png?resize=1200,630",
-      "PublishedAt": "2023-05-10T14:17:08Z",
-      "Content": "Here are the need-to-know details on the One Piece episode 1062 release date and time. This is when audiences in the US can watch the new One Piece episode in ET, CT, and PT time zones.\r\nOne Piece Ep… [+1746 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "John Squires",
-      "Title": "‘Subspecies V: Bloodrise’ Playing at These Alamo Drafthouse Locations for One-Night-Only on May 15",
-      "Description": "Full Moon’s Subspecies franchise returns with brand new fifth installment Subspecies V: Bloodrise, a prequel that’s getting a one-night-only theatrical release on May 15. Alamo Drafthouse Cinema and Full Moon Features have announced the limited theatrical pre…",
-      "Url": "https://bloody-disgusting.com/movie/3761566/subspecies-v-bloodrise-playing-at-these-alamo-drafthouse-locations-for-one-night-only-on-may-15/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/09/ub-5.png?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2023-05-10T14:03:12Z",
-      "Content": "Full Moons Subspecies franchise returns with brand new fifth installment Subspecies V: Bloodrise, a prequel thats getting a one-night-only theatrical release on May 15.\r\nAlamo Drafthouse Cinema and F… [+3256 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Lan Pitts",
-      "Title": "You Can See Transformers: Rise Of The Beasts Early, Here's How",
-      "Description": "On Wednesday morning, Paramount Pictures announced an early access screening to celebrate the release of the latest entry of the Transformers franchise, Transformers: Rise of the Beasts. The movie is scheduled for wide release on June 9, but this early access…",
-      "Url": "https://www.gamespot.com/articles/you-can-see-transformers-rise-of-the-beasts-early-heres-how/1100-6513975/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15976769/4135837-xuzvhevugrcmk22waijtxf.jpg",
-      "PublishedAt": "2023-05-10T13:35:00Z",
-      "Content": "On Wednesday morning, Paramount Pictures announced an early access screening to celebrate the release of the latest entry of the Transformers franchise, Transformers: Rise of the Beasts. The movie is… [+1708 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tudor Leonte",
-      "Title": "When Is the Air Prime Video Release Date & Time?",
-      "Description": "Like Mike.\nThe post When Is the Air Prime Video Release Date & Time? appeared first on ComingSoon.net - Movie Trailers, TV & Streaming News, and More.",
-      "Url": "https://www.comingsoon.net/guides/news/1287168-air-prime-video-release-date-time-amazon-when-us-et-pt",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Air-Prime-Video.jpg?resize=1200,630",
-      "PublishedAt": "2023-05-10T13:10:41Z",
-      "Content": "The Air Prime Video release date and time is no doubt being hotly anticipated by basketball and/or Nike fans. The movie starring Ben Affleck and Matt Damon is finally hitting Prime Video in May, but … [+1912 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "The Covenant Blu-ray & DVD Release Date Set for Guy Ritchie Movie",
-      "Description": "STXfilms and Metro-Goldwyn-Mayer announced The Covenant Blu-ray and DVD release date. When does The Covenant release on Blu-ray and DVD? The Covenant Blu-ray and DVD release date is set for next month, with the Blu-ray retailing for $34.98 and the DVD retaili…",
-      "Url": "https://www.comingsoon.net/movies/news/1287145-the-covenant-blu-ray-dvd-release-date-set-for-guy-ritchie-movie",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/04/the-covenant-interview-header.png?resize=1200,630",
-      "PublishedAt": "2023-05-10T12:40:32Z",
-      "Content": "STXfilms and Metro-Goldwyn-Mayer announced The Covenant Blu-ray and DVD release date.\r\nThe Covenant Blu-ray and DVD release date is set for next month, with the Blu-ray retailing for $34.98 and the D… [+899 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Wealthofgeeks.com"
-      },
-      "Author": "Marianne Paluso",
-      "Title": "18 Movies For Everyone To Enjoy This Summer",
-      "Description": "Summer is almost here. Get ready for family vacations, extra hours of daylight, and trips to the movie theater to see the latest blockbusters. Even ... Read More",
-      "Url": "https://wealthofgeeks.com/summer-movies/",
-      "UrlToImage": "https://wealthofgeeks.com/wp-content/uploads/2022/11/MV5BMTMyMDIwODk5MF5BMl5BanBnXkFtZTcwODAwNTc3Mw@@._V1_-e1668150940260.jpg",
-      "PublishedAt": "2023-05-10T10:30:51Z",
-      "Content": "Summer is almost here. Get ready for family vacations, extra hours of daylight, and trips to the movie theater to see the latest blockbusters. Even if it's not quite summer where you are, there are p… [+24521 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Sonyalpharumors.com"
-      },
-      "Author": "SonyAlpha Admin",
-      "Title": "Sony A1 firmware update 1.32 released",
-      "Description": "You can download it here: sony.com/electronics/support/e-mount-body-ilce-1-series/ilce-1/downloads Benefits and Improvements Fixes an issue where the camera may not start when the Mode dial is set to Movie and the NTSC/PAL selector is set to PAL Improves the …",
-      "Url": "https://www.sonyalpharumors.com/sony-a1-firmware-update-1-32-released/",
-      "UrlToImage": null,
-      "PublishedAt": "2023-05-10T07:05:13Z",
-      "Content": "Disclaimer: SonyAlphaRumors has no affiliation with any of the equipment manufacturers mentioned on this site. Please visit their official websites by typing the specific brand name and adding .com a… [+804 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Business Standard"
-      },
-      "Author": "Press Trust of India",
-      "Title": "Bengal ban on 'The Kerala Story': SC agrees to hear plea on May 12",
-      "Description": "The Supreme Court on Wednesday agreed to hear on May 12 a plea by the producers of controversial multilingual film 'The Kerala Story' against the ban on screening of the film by the West Bengal government.\nSenior advocate Harish Salve mentioned the matter for…",
-      "Url": "https://www.business-standard.com/india-news/bengal-ban-on-the-kerala-story-sc-agrees-to-hear-plea-on-may-12-123051000327_1.html",
-      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/26/full/1679825184-8358.jpg",
-      "PublishedAt": "2023-05-10T06:39:14Z",
-      "Content": "The Supreme Court on Wednesday agreed to hear on May 12 a plea by the producers of controversial multilingual film 'The Kerala Story' against the ban on screening of the film by the West Bengal gover… [+828 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tudor Leonte",
-      "Title": "Catherine The Great Season 3 Hulu Release Date & Time",
-      "Description": "The Great, the fan-favorite series following the rise of Catherine the Great through 18th-century Russia, is premiering its Season 3 on Hulu later this week. Here’s when to watch it. When to watch and stream The Great Season 3 on Hulu? Hulu will release all 1…",
-      "Url": "https://www.comingsoon.net/guides/news/1286943-catherine-the-great-season-3-hulu-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/The-Great-Season-3-Hulu.jpg?resize=1200,630",
-      "PublishedAt": "2023-05-10T06:07:12Z",
-      "Content": "The Great, the fan-favorite series following the rise of Catherine the Great through 18th-century Russia, is premiering its Season 3 on Hulu later this week. Heres when to watch it. \r\nWhen to watch a… [+1759 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HYPEBEAST"
-      },
-      "Author": "info@hypebeast.com (Hypebeast)",
-      "Title": "Initial Reactions to 'The Little Mermaid' Praise Halle Bailey's Portrayal of Ariel",
-      "Description": "Ahead of its global theatrical release, critics had a chance to enjoy an early viewing of Disney's upcoming live-action remake of The Little Mermaid starring Halle Bailey.Just last month at CinemaCon, Disney gave audiences a glimpse of Melissa McCarthy singin…",
-      "Url": "https://hypebeast.com/2023/5/initial-reactions-the-little-mermaid-praise-halle-bailey-ariel-reports-tweets",
-      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Finitial-reactions-the-little-mermaid-praise-halle-bailey-ariel-reports-tweets-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "PublishedAt": "2023-05-10T04:03:06Z",
-      "Content": "Ahead of its global theatrical release, critics had a chance to enjoy an early viewing of Disney‘s upcoming live-action remake of The Little Mermaid starring Halle Bailey.\r\nJust last month at CinemaC… [+4384 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Robert De Niro Attends 'About My Father' Premiere Just Hours After Revealing He's A New Dad at 79",
-      "Description": "Robert De Niro is celebrating his brand new movie, About My Father, in New York City! The 79-year-old actor stepped out at SVA Theater on Tuesday (May 9) in New York City with co-stars Salvo Maniscalco, Brett Dier, David Rasche, Kim Cattrall, Leslie Bibb, and…",
-      "Url": "http://www.justjared.com/2023/05/09/robert-de-niro-attends-about-my-father-premiere-just-hours-after-revealing-hes-a-new-dad-at-79/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/05/father-premiere.jpg",
-      "PublishedAt": "2023-05-10T01:05:48Z",
-      "Content": "Robert De Niro is celebrating his brand new movie, About My Father, in New York City!\r\nThe 79-year-old actor stepped out at SVA Theater on Tuesday (May 9) in New York City with co-stars Salvo Manisca… [+814 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thewrap.com",
-      "Title": "Smaller Movie Theaters Got Creative to Survive",
-      "Description": "Despite struggles during the COVID-19 pandemic, independent cinema owners say they stayed open by focusing on the moviegoer experience “Theater owners keep saying over and over that we just need more movies, but it really is true,” said Brian Schultz, CEO and…",
-      "Url": "https://biztoc.com/x/be4040d79a29f34a",
-      "UrlToImage": "https://c.biztoc.com/p/be4040d79a29f34a/og.webp",
-      "PublishedAt": "2023-05-09T23:46:12Z",
-      "Content": "Despite struggles during the COVID-19 pandemic, independent cinema owners say they stayed open by focusing on the moviegoer experienceTheater owners keep saying over and over that we just need more m… [+308 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Netflix.com"
-      },
-      "Author": "Annie Jung",
-      "Title": "Coens and Cowards: The Far Side of Underrated and Underseen 2003",
-      "Description": "By 2003, the creative boom of the late 1990s had really and truly \nevaporated into a vaporous mist, and I suffered through some of the worst \nHollywood cinema I’d ever seen. Looking back on all of this 2003-ness, I’m \nactually pretty jazzed about rewatching C…",
-      "Url": "http://blog.dvd.netflix.com/new-dvd-releases/underrated-underseen-2003-movies",
-      "UrlToImage": "http://static1.squarespace.com/static/55f32473e4b029b54a7228d2/55f35967e4b0942d2206f6a4/6452a6b808fc9853de31b649/1683675504693/Underrated+2003.jpg?format=1500w",
-      "PublishedAt": "2023-05-09T23:38:24Z",
-      "Content": "By James David Patrick\r\nI always like to look back on old moviewatching years fondly and reminisce. I like to scrobble through the titles and relive memories of theatrical experiences and surprising … [+4044 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "John Squires",
-      "Title": "‘Weapons’ – Pedro Pascal Starring in Next Horror Movie from ‘Barbarian’ Director Zach Cregger",
-      "Description": "New Line Cinema has acquired the original screenplay Weapons from writer/director Zach Cregger (Barbarian), and THR reports that Pedro Pascal (“The Last of Us”) will star. Moving full speed ahead toward a theatrical release, production is anticipated to comme…",
-      "Url": "https://bloody-disgusting.com/movie/3761500/weapons-pedro-pascal-starring-in-next-horror-movie-from-barbarian-director-zach-cregger/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/03/last-of-us-finale.png?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2023-05-09T22:29:19Z",
-      "Content": "Horror stalwart Devon Sawa (“Chucky,” Final Destination, Idle Hands) delivered a memorable turn in 2020’s survival horror Hunter Hunter. He’s set to return to the wilderness once more with Consumed, … [+1688 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "STLtoday.com"
-      },
-      "Author": "By Daniel Neman St. Louis Post-Dispatch",
-      "Title": "An all-in-one movie theater, bowling alley, climbing wall and arcade to open in Creve Coeur",
-      "Description": "The theater will be the fourth area location in the B&amp;B Theatres chain but the first to include so many extra-theatrical amenities.",
-      "Url": "https://www.stltoday.com/business/local/an-all-in-one-movie-theater-bowling-alley-climbing-wall-and-arcade-to-open-in/article_b368a778-ee95-11ed-885e-0b7efde2ccc5.html",
-      "UrlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/60/f6018c6f-4359-553e-8af8-26b92a8b7848/645ac3994cd8e.image.jpg?crop=1099%2C577%2C0%2C77&resize=1099%2C577&order=crop%2Cresize",
-      "PublishedAt": "2023-05-09T22:20:00Z",
-      "Content": "CREVE COEUR The area's newest movie theater opens in Creve Coeur on May 18, and so does the area's newest bowling alley.\r\nIn the same building.\r\nThe B&amp;B Theatres Creve Coeur West Olive 10 is a mo… [+2935 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "/FILM"
-      },
-      "Author": "Ryan Scott",
-      "Title": "Ben Affleck's Air Won't Profit At The Box Office, But Here's Why That's Not A Problem",
-      "Description": "For years now, largely thanks to the Netflix model, major studios have been producing big movies that debut exclusively on their respective streaming service. That, however, has started to change in 2023, with Amazon making a big play for theatrical by giving…",
-      "Url": "https://www.slashfilm.com/1281194/ben-afflecks-air-wont-profit-box-office-heres-why-not-a-problem/",
-      "UrlToImage": "https://www.slashfilm.com/img/gallery/ben-afflecks-air-wont-profit-at-the-box-office-but-heres-why-thats-not-a-problem/l-intro-1683662004.jpg",
-      "PublishedAt": "2023-05-09T21:00:51Z",
-      "Content": "For years now, largely thanks to the Netflix model, major studios have been producing big movies that debut exclusively on their respective streaming service. That, however, has started to change in … [+1485 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PlayStation LifeStyle"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Dragon Ball Xenoverse 2 DLC 16 Trailer Confirms Gohan Beast Release Date",
-      "Description": "The Dragon Ball Xenoverse 2 DLC 16 pack is set to arrive this week. It will include an iconic character, as well as one from the latest Dragon Ball movie. When does Dragon Ball Xenoverse 2 DLC 16 come out? The Dragon Ball Xenoverse 2 DLC 16 pack, officially n…",
-      "Url": "https://www.playstationlifestyle.net/2023/05/09/dragon-ball-xenoverse-2-dlc-16-trailer-confirms-gohan-beast-release-date/",
-      "UrlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2023/05/dragon-ball-xenoverse-2-gohan-beast-dlc.png?resize=1200,630",
-      "PublishedAt": "2023-05-09T20:35:00Z",
-      "Content": "The Dragon Ball Xenoverse 2DLC 16 pack is set to arrive this week. It will include an iconic character, as well as one from the latest Dragon Ball movie.\r\nThe Dragon Ball Xenoverse 2 DLC 16 pack, off… [+1084 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Jon Bitner",
-      "Title": "The Super Mario Bros. Movie's Streaming Release Appears To Be Next Week",
-      "Description": "The Super Mario Bros. Movie just launched in theaters last month, but it looks like it’ll be heading to home theaters sooner than expected. Thanks to a since-deleted post by Optimum TV, it appears The Super Mario Bros. Movie will be heading to select video-on…",
-      "Url": "https://www.gamespot.com/articles/the-super-mario-bros-movies-streaming-release-appears-to-be-next-week/1100-6513944/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1702/17023653/4135458-mariomovie.jpg",
-      "PublishedAt": "2023-05-09T20:01:00Z",
-      "Content": "The Super Mario Bros. Movie just launched in theaters last month, but it looks like itll be heading to home theaters sooner than expected. Thanks to a since-deleted post by Optimum TV, it appears The… [+1729 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Yellowstone Season 5 Peacock Release Date Set for Streaming",
-      "Description": "Over five months after the mid-season finale of Yellowstone Season 5 on Paramount Network, Peacock has announced the Yellowstone Season 5 Peacock release date for the first eight episodes of the hit family drama’s latest season. When will Yellowstone Season 5…",
-      "Url": "https://www.comingsoon.net/tv/news/1287070-yellowstone-season-5-peacock-release-date",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/costner-e1683660497638.jpg?resize=1200,630",
-      "PublishedAt": "2023-05-09T20:00:00Z",
-      "Content": "Over five months after the mid-season finale of Yellowstone Season 5 on Paramount Network, Peacock has announced the Yellowstone Season 5 Peacock release date for the first eight episodes of the hit … [+1209 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Mail"
-      },
-      "Author": "Eve Buckland",
-      "Title": "Beetlejuice 2 release date CONFIRMED: Hotly anticipated sequel will premiere in 2024",
-      "Description": "The release date for the hotly-anticipated Beetlejuice 2 movie has been confirmed.",
-      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-12065249/Beetlejuice-2-release-date-CONFIRMED-Hotly-anticipated-sequel-premiere-2024.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/05/09/21/70787421-0-image-a-61_1683662712725.jpg",
-      "PublishedAt": "2023-05-09T19:53:56Z",
-      "Content": "The release date for the hotly-anticipated Beetlejuice 2 movie has been confirmed.\r\nThe sequel to the classic Tim Burton 1988 horror - will hit theaters on September 6, 2024, with Michael Keaton set … [+3124 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thewrap.com",
-      "Title": "‘Beetlejuice 2’ Release Date Announced for 2024",
-      "Description": "Sadly, saying his name three times won’t summon the movie any earlier than Sept. 6, 2024. The sequel follows Burton’s 1988 horror comedy, which starred Michael Keaton as the titular character, a ghoulish “bio-exorcist” hired by a recently deceased couple (Ale…",
-      "Url": "https://biztoc.com/x/a78cfa281744bdf0",
-      "UrlToImage": "https://c.biztoc.com/p/a78cfa281744bdf0/og.webp",
-      "PublishedAt": "2023-05-09T19:46:05Z",
-      "Content": "Sadly, saying his name three times wont summon the movie any earlier than Sept. 6, 2024.The sequel follows Burtons 1988 horror comedy, which starred Michael Keaton as the titular character, a ghoulis… [+318 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Linda Codega",
-      "Title": "Beetlejuice 2, Starring Michael Keaton and Jenna Ortega, Gets a Release Date",
-      "Description": "Jenna Ortega, clearly unafraid as being typecast as the spooky goth girlie, will be back on the big screen for Beetlejuice 2. Michael Keaton will also be in the movie, and will be returning as the titular bio-exorcist. Variety reports that Ortega (Scream, Wed…",
-      "Url": "https://gizmodo.com/beetlejuice-2-michael-keaton-jenna-ortega-2024-1850420519",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2be35795daec1eb0b485859edc5253a9.jpg",
-      "PublishedAt": "2023-05-09T19:45:00Z",
-      "Content": "Jenna Ortega, clearly unafraid as being typecast as the spooky goth girlie, will be back on the big screen for Beetlejuice 2. Michael Keaton will also be in the movie, and will be returning as the ti… [+1165 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "deadline.com",
-      "Title": "‘Beetlejuice 2’ Sets 2024 Fall Release Date",
-      "Description": "The pic is expected to go before the cameras in London tomorrow. Tim Burton reteams with Michael Keaton in this sequel to the cult 1988 movie which made $75M and further propelled the latter’s star power before working with the filmmaker again in the title ro…",
-      "Url": "https://biztoc.com/x/c1de21def955ab18",
-      "UrlToImage": "https://c.biztoc.com/p/c1de21def955ab18/og.webp",
-      "PublishedAt": "2023-05-09T19:28:06Z",
-      "Content": "The pic is expected to go before the cameras in London tomorrow.Tim Burton reteams with Michael Keaton in this sequel to the cult 1988 movie which made $75M and further propelled the latters star pow… [+330 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Beetlejuice 2 Release Date Set for Michael Keaton Movie Sequel",
-      "Description": "Warner Bros. Pictures has announced the Beetlejuice 2 release date from the upcoming sequel to Tim Burton’s iconic 1988 movie. What is the Beetlejuice 2 release date? The company announced that Beetlejuice 2 will release on September 6, 2024, making the highl…",
-      "Url": "https://www.comingsoon.net/movies/news/1287090-beetlejuice-2-release-date-set-for-michael-keaton-movie-sequel",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/beetlejuice-header.png?resize=1200,630",
-      "PublishedAt": "2023-05-09T19:23:20Z",
-      "Content": "Warner Bros. Pictures has announced the Beetlejuice 2 release date from the upcoming sequel to Tim Burtons iconic 1988 movie.\r\nThe company announced that Beetlejuice 2 will release on September 6, 20… [+1203 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "anthonypauldalessandro",
-      "Title": "‘Beetlejuice 2’ Sets 2024 Fall Release Date",
-      "Description": "Warner Bros. will open Beetlejuice 2 on Sept. 6, 2024. The pic is expected to go before the cameras in London next month. Tim Burton reteams with Michael Keaton in this sequel to the cult 1988 movie which made $75M and further propelled the latter’s star powe…",
-      "Url": "https://deadline.com/2023/05/beetlejuice-2-theatrical-release-date-1235360977/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2023/05/MSDBEET_WB016-e1683660149551.jpg?w=1024",
-      "PublishedAt": "2023-05-09T19:15:13Z",
-      "Content": "Warner Bros. will open Beetlejuice 2on Sept. 6, 2024. \r\nThe pic is expected to go before the cameras in London tomorrow. \r\nTim Burton reteams with Michael Keaton in this sequel to the cult 1988 movie… [+613 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Jack Ryan Season 4 Prime Video Release Date Set in Poster",
-      "Description": "Amazon Studios has dropped the official poster for the fourth and final season of Tom Clancy’s Jack Ryan, featuring John Krasinski in his final mission as the titular CIA analyst. The series is scheduled to make its return on June 30 on Prime Video, with two …",
-      "Url": "https://www.comingsoon.net/tv/news/1286971-jack-ryan-season-4-prime-video-release-date",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/09/jack-ryan-pic-e1683645335349.jpg?resize=1200,630",
-      "PublishedAt": "2023-05-09T19:00:00Z",
-      "Content": "Amazon Studios has dropped the official poster for the fourth and final season of Tom Clancys Jack Ryan, featuring John Krasinski in his final mission as the titular CIA analyst. The series is schedu… [+1579 chars]"
-    },
-    {
-      "Source": {
-        "Id": "google-news",
-        "Name": "Google News"
-      },
-      "Author": null,
-      "Title": "Adipurush | Adipurush Trailer: Prabhas, Kriti Sanon And Saif Ali Khan Bring The Ramayana To Life - CNN-News18",
-      "Description": "<ol><li>Adipurush | Adipurush Trailer: Prabhas, Kriti Sanon And Saif Ali Khan Bring The Ramayana To Life  CNN-News18\r\n</li><li>Adipurush Trailer: Prabhas, Kriti Sanon And Saif Ali Khan Bring The Ramayana To Life  NDTV Movies\r\n</li><li>Adipurush Trailer Works …",
-      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC0o5UGRzNl9aZ0dzmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
-      "UrlToImage": null,
-      "PublishedAt": "2023-05-09T18:17:03Z",
-      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ANI",
-      "Title": "'The Kerala Story' ignites political war: Tax-free in BJP-ruled states, banned in West Bengal",
-      "Description": "‘The Kerala Story’, which created controversy even before its release hit the theatre on May 05. The film has triggered a massive political row with various leaders reacting to ‘The Kerala Story’. Meanwhile, West Bengal Government banned the screening of ‘The…",
-      "Url": "https://economictimes.indiatimes.com/news/india/the-kerala-story-ignites-political-war-tax-free-in-bjp-ruled-states-banned-in-west-bengal/videoshow/100109941.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-100109941,width-1070,height-580,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-05-09T17:46:51Z",
-      "Content": "The Kerala Story, which created controversy even before its release hit the theatre on May 05. The film has triggered a massive political row with various leaders reacting to The Kerala Story. Meanwh… [+884 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "/FILM"
-      },
-      "Author": "Eric Vespe",
-      "Title": "Guardians Of The Galaxy Vol. 3 Uses Your Expectations Against You And That's What Makes It Special",
-      "Description": "The following article contains pretty major spoilers for \"Guardians of the Galaxy Vol. 3\" so proceed with caution.\nThe predominant feeling leading into the release of \"Guardians of the Galaxy Vol. 3\" was one of finality. We've heard from some of the actors, l…",
-      "Url": "https://www.slashfilm.com/1280676/guardians-of-the-galaxy-vol-3-uses-expectations-against-you/",
-      "UrlToImage": "https://www.slashfilm.com/img/gallery/guardians-of-the-galaxy-vol-3-uses-your-expectations-against-you-and-thats-what-makes-it-special/l-intro-1683645638.jpg",
-      "PublishedAt": "2023-05-09T17:00:52Z",
-      "Content": "The following article contains pretty major spoilers for \"Guardians of the Galaxy Vol. 3\" so proceed with caution.\r\nThe predominant feeling leading into the release of \"Guardians of the Galaxy Vol. 3… [+1393 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Noelle Devoe",
-      "Title": "\"Fast X\" Brings Together Jimin, Kodak Black, NLE Choppa, Muni Long, and Jvke For \"Angel Pt. 1\"",
-      "Description": "When it comes to movie soundtracks, the Fast & Furious franchise excels. Over 22 years and 10 movies, the franchise has produced countless musical hits tied to its films. From classics like \"2 Fast 2 Furious\"'s \"Act a Fool\" by Ludacris and \"Fast & Furious\"'s …",
-      "Url": "https://www.popsugar.com/entertainment/fast-x-angel-pt-1-49168933",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/LCxFEAwM-S_Gad_jpGXT6kttbKs/156x1:1297x600/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2023/05/09/684/n/1922283/fbb8e502645a65d84d2950.57142578_.jpg",
-      "PublishedAt": "2023-05-09T16:25:02Z",
-      "Content": "When it comes to movie soundtracks, the Fast &amp; Furious franchise excels. Over 22 years and 10 movies, the franchise has produced countless musical hits tied to its films. From classics like \"2 Fa… [+3295 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "soompi"
-      },
-      "Author": "eclipse01",
-      "Title": "Watch: (G)I-DLE Channels 2000s Movie Vibes In Surprisingly Dark MV For “Allergy”",
-      "Description": "(G)I-DLE has dropped the music video for their pre-release track “Allergy”! On May 10 at midnight KST, (G)I-DLE released the music video for “Allergy,” one of the songs from their upcoming mini album “I feel.” Although the video initially appears to be someth…",
-      "Url": "https://www.soompi.com/article/1586028wpp/watch-gi-dle-channels-2000s-movie-vibes-in-surprisingly-dark-mv-for-allergy",
-      "UrlToImage": "https://6.soompi.io/wp-content/uploads/image/20230509162734_GIDLE.jpg?s=900x600&e=t",
-      "PublishedAt": "2023-05-09T16:21:00Z",
-      "Content": "(G)I-DLE has dropped the music video for their pre-release track Allergy!\r\nOn May 10 at midnight KST, (G)I-DLE released the music video for Allergy, one of the songs from their upcoming mini album I … [+706 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "First Showing"
-      },
-      "Author": "Alex Billington",
-      "Title": "Dragons & Pangolins in Fantasy Adventure 'The Secret Kingdom' Trailer",
-      "Description": "\"All you need... is within you.\" Saban Films has revealed an official US trailer for The Secret Kingdom, a CGI-filled fantasy adventure movie from filmmaker Matt Drummond. He is the same Australian filmmaker behind the CGI movies My Pet Dinosaur and Dinosaur …",
-      "Url": "https://www.firstshowing.net/2023/dragons-pangolins-in-fantasy-adventure-the-secret-kingdom-trailer/",
-      "UrlToImage": "https://media2.firstshowing.net/firstshowing/img15/TheSecretKingdomPosterfullmainTW1.jpg",
-      "PublishedAt": "2023-05-09T16:13:45Z",
-      "Content": "by Alex BillingtonMay 9, 2023Source:YouTube\r\n\"All you need… is within you.\" Saban Films has revealed an official US trailer for The Secret Kingdom, a CGI-filled fantasy adventure movie from filmmaker… [+1964 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Eddie Makuch",
-      "Title": "Scarlett Johansson Reflects On Her Black Widow Lawsuit Against Disney",
-      "Description": "Actress Scarlett Johansson has commented on her high-profile lawsuit against Disney over Black Widow, saying she continues to believe in the \"magic of Disney.\" Speaking to Variety, Johansson said it was just business. The creative department and the business …",
-      "Url": "https://www.gamespot.com/articles/scarlett-johansson-reflects-on-her-black-widow-lawsuit-against-disney/1100-6513943/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4135483-screenshot2023-05-09at12.26.30pm.png",
-      "PublishedAt": "2023-05-09T16:12:00Z",
-      "Content": "Actress Scarlett Johansson has commented on her high-profile lawsuit against Disney over Black Widow, saying she continues to believe in the \"magic of Disney.\" Speaking to Variety, Johansson said it … [+1652 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Exclusive Yellowstone Season 5 Clip Takes a Look at the Series’ Music",
-      "Description": "ComingSoon is debuting an exclusive Yellowstone Season 5 clip from the bonus features of Season 5 Part 1’s home release. The clip features composer Brian Tyler discussing the series’ relationship with and approach to music. Yellowstone Season 5 Part 1 is set …",
-      "Url": "https://www.comingsoon.net/tv/trailers/1286801-exclusive-yellowstone-season-5-clip-takes-a-look-at-the-series-music",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/yellowstone-exclusive-clip-header.png?resize=1200,630",
-      "PublishedAt": "2023-05-09T16:00:00Z",
-      "Content": "ComingSoon is debuting an exclusive Yellowstone Season 5 clip from the bonus features of Season 5 Part 1s home release. The clip features composer Brian Tyler discussing the series relationship with … [+923 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Pockettactics.com"
-      },
-      "Author": "Connor Christie",
-      "Title": "FNAF Moondrop – lore, personality, and appearances",
-      "Description": "FNAF’s Moondrop is one of the weirder characters from the Five Nights at Freddy’s franchise, with his daytime equivalent Sundrop just as terrifying. Still, there’s more than meets the eye with this Security Breach villain, so we’ve put together a guide to gle…",
-      "Url": "https://www.pockettactics.com/fnaf/moondrop",
-      "UrlToImage": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/05/fnaf-moondrop.jpg",
-      "PublishedAt": "2023-05-09T15:53:28Z",
-      "Content": "FNAF’s Moondrop is one of the weirder characters from the Five Nights at Freddy’s franchise, with his daytime equivalent Sundrop just as terrifying. Still, there’s more than meets the eye with this S… [+2657 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Bird Box Barcelona Netflix Release Date Set in Announcement Video",
-      "Description": "After over two years since the project was first announced, Netflix has finally released the first teaser for Bird Box Barcelona, the upcoming Spanish spin-off to 2018’s horror thriller of the same name. The video takes the franchise out of America as it high…",
-      "Url": "https://www.comingsoon.net/movies/trailers/1286934-bird-box-barcelona-netflix-release-date",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Bird-Box-Barcelona.jpg?resize=1200,630",
-      "PublishedAt": "2023-05-09T15:30:00Z",
-      "Content": "After over two years since the project was first announced, Netflix has finally released the first teaser for Bird Box Barcelona, the upcoming Spanish spin-off to 2018s horror thriller of the same na… [+1300 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "Mashle: Magic and Muscles Episode 6 Release Date & Time",
-      "Description": "The Adler and Lang dorms participate in an off-campus activity. Here are the details for the release date and time of Mashle: Magic and Muscles Episode 6, “Mash Burnedead and the Magic of Iron.” When Mashle: Magic and Muscles Episode 6 Releases Mashle: Magic …",
-      "Url": "https://www.comingsoon.net/guides/news/1286950-mashle-magic-and-muscles-episode-6-release-date-time",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/mashle-ep-5.png?resize=1200,630",
-      "PublishedAt": "2023-05-09T15:19:09Z",
-      "Content": "The Adler and Lang dorms participate in an off-campus activity. Here are the details for the release date and time of Mashle: Magic and Muscles Episode 6, Mash Burnedead and the Magic of Iron.\r\nWhen … [+1930 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nerdist"
-      },
-      "Author": "Michael Walsh",
-      "Title": "RAIDERS OF THE LOST ARK Returns to Theaters for a Limited Re-Release",
-      "Description": "Fathom Events is bringing Raiders of the Lost Ark to movie theaters for a limited re-release ahead of Indiana Jones and the Dial of Destiny.\nThe post RAIDERS OF THE LOST ARK Returns to Theaters for a Limited Re-Release appeared first on Nerdist.",
-      "Url": "https://nerdist.com/article/indiana-jones-raiders-of-the-lost-ark-returns-to-movie-theaters-for-a-limited-release/",
-      "UrlToImage": "https://legendary-digital-network-assets.s3.amazonaws.com/wp-content/uploads/2020/02/08135311/Indiana-Jones-Raiders-Stealing-Idol.jpg",
-      "PublishedAt": "2023-05-09T15:15:27Z",
-      "Content": "This summer, Harrison Ford will say goodbye to Indiana Jones forever. The 80-year-old legend has announced The Dial of Destiny will be his final performance as the famed archeologist. That should mak… [+1731 chars]"
     }
   ]
 }
