@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 997,
+  "TotalResults": 998,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "Child Social Media Stars Have Few Protections; Illinois Aims to Fix That",
+      "Description": "Holed up at home during the pandemic lockdown three years ago, 13-year-old Shreya Nallamothu was scrolling through social media when she noticed a pattern: Children even younger than her were the stars — dancing, cracking one-liners and being generally adorab…",
+      "Url": "https://www.voanews.com/a/child-social-media-stars-have-few-protections-illinois-aims-to-fix-that/7093375.html",
+      "UrlToImage": "https://gdb.voanews.com/67e920b1-11fa-4855-a22d-bf168f8bb377_cx0_cy3_cw0_w1200_r1.jpg",
+      "PublishedAt": "2023-05-15T01:16:42Z",
+      "Content": "Chicago  Holed up at home during the pandemic lockdown three years ago, 13-year-old Shreya Nallamothu was scrolling through social media when she noticed a pattern: Children even younger than her wer… [+7562 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-100157773,width-1070,height-580,imgsize-92190,overlay-etpanache/photo.jpg",
       "PublishedAt": "2023-05-11T09:47:17Z",
       "Content": "'Taarak Mehta Ka Ooltah Chashmah', one of India's most loved TV shows, made headlines on Thursday for the wrong reasons.An actress, who had been a part of the popular TV show for nearly 15 years, has… [+4618 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "‘The Kerala Story’ actor Adah Sharma's birthday: Learn about star’s family, struggle and more",
-      "Description": "Bollywood actor Adah Sharma, who is currently playing the lead role in the controversial movie ‘The Kerala Story’, celebrates her birthday on Thursday (May 11).",
-      "Url": "https://economictimes.indiatimes.com/news/new-updates/the-kerala-story-actor-adah-sharmas-birthday-learn-about-stars-family-struggle-and-more/articleshow/100158106.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-100158082,width-1070,height-580,imgsize-30594,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-05-11T09:45:40Z",
-      "Content": "Actor Adah Sharma, who recently starred in the controversial movie The Kerala Story, turned 31 on Thursday (May 11). Let us get to know more about the actor, who is celebrating her birthday today.Ada… [+1722 chars]"
     }
   ]
 }
