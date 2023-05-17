@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 742,
+  "TotalResults": 743,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Kate Winslet pronunció un discurso en contra de las redes sociales en los Bafta y se viralizó",
+      "Description": "Durante la entrega de los premios al cine y la televisión en Reino Unido, la actriz estadounidense destacó el talento de su hija en la ficción e hizo un contundente reclamo contra la adicción a la virtualidad",
+      "Url": "https://www.lanacion.com.ar/espectaculos/kate-winslet-pronuncio-un-discurso-en-contra-de-las-redes-sociales-en-los-bafta-y-se-viralizo-nid16052023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/9flwDfmKFB3CM6r3Pc-O-ZLYKlg=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/BCTYAFZQKRHVTCVKIN23BXSUNI.png",
+      "PublishedAt": "2023-05-16T21:37:18Z",
+      "Content": "Este domingo en Londres, Kate Winslet recibió el premio Bafta tras su interpretación en la miniserie británica Yo soy Ruth. Su papel protagónico reflejó la vida de una madre al cuidado de una adolesc… [+2880 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/62b0bd/christina-applegate/840_560.jpeg",
       "PublishedAt": "2023-05-11T15:31:40Z",
       "Content": "Christina Applegate, actriz de 'Dead to me' y 'Malas madres', ha declarado que seguramente no vuelva a actuar ante las cámaras debido a que padece esclerosis múltiple.\r\nApplegate comunicó en 2021 que… [+1514 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Michael J. Fox, el éxito de un tipo bajito",
-      "Description": "Los 'Rebeldes' de Francis Ford Coppola imponían su ley en la década de los ochenta, guiados por el ingobernable Matt Dillon, cuando un tipo imberbe, de baja estatura y apariencia infantil rompió las predicciones de los directivos de los estudios y el canon de…",
-      "Url": "https://www.abc.es/play/cine/noticias/michael-fox-exito-tipo-bajito-20230511172836-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/05/12/fox-kutC--1024x512@abc.jpg",
-      "PublishedAt": "2023-05-11T15:29:07Z",
-      "Content": "Los 'Rebeldes' de Francis Ford Coppola imponían su ley en la década de los ochenta, guiados por el ingobernable Matt Dillon, cuando un tipo imberbe, de baja estatura y apariencia infantil rompió las … [+1548 chars]"
     }
   ]
 }

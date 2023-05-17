@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 947,
+  "TotalResults": 948,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Javier Zurro",
+      "Title": "Hombre, blanco y mayor, el perfil que compite por la Palma de Oro en un Cannes que se resiste al cambio",
+      "Description": "Hay cosas que no cambian, que se mantienen fijas a unas normas no escritas que forman parte de una especie de tradición. Cannes es una de ellas. El Festival tienen un ojo puesto en el futuro, en las nuevas tecnologías, y fue el primero que se apuntó a TikTok,…",
+      "Url": "https://www.eldiario.es/cultura/cine/hombre-blanco-mayor-perfil-compite-palma-oro-cannes-resiste-cambio_1_10208259.html",
+      "UrlToImage": "https://static.eldiario.es/clip/efc6465e-b2b9-422a-a5a3-085c1c142ccf_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-05-16T21:32:53Z",
+      "Content": "Hay cosas que no cambian, que se mantienen fijas a unas normas no escritas que forman parte de una especie de tradición. Cannes es una de ellas. El Festival tienen un ojo puesto en el futuro, en las … [+590 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/1a7163/claude/840_560.jpeg",
       "PublishedAt": "2023-05-12T10:34:43Z",
       "Content": "En 2022 vimos un gran avance en el sector de la inteligencia artificial y los bots conversacionales. OpenAI lanzaba al público ChatGPT, un chatbot capaz de procesar y ofrecer respuestas en lenguaje n… [+3456 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "Alejandro Rodera",
-      "Title": "La segunda temporada de 'The Last of Us', en pausa por la huelga de guionistas",
-      "Description": "STANDBY La serie de HBO ha detenido su proceso de casting y en estos momentos sus creadores están alejados del proyecto.La segunda temporada de 'The Last of Us', en pausa por la huelga de guionistas",
-      "Url": "https://www.formulatv.com/noticias/segunda-temporada-the-last-of-us-huelga-guionistas-122531/",
-      "UrlToImage": "https://www.formulatv.com/images/articulos/122000/122531_fR76aeLqoP9HkF1NszcWmiY2Ex4gUt58J-hog.jpg",
-      "PublishedAt": "2023-05-12T10:26:18Z",
-      "Content": "La huelga de guionistas está provocando la detención, a base de piquetes, de rodajes en territorio estadounidense y un frenazo en la preproducción de numerosos proyectos, a los que se ha sumado ahora… [+1959 chars]"
     }
   ]
 }
