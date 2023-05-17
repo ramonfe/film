@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 109,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "AP",
+      "Title": "Writers' strike hits Hollywood as members of the Writers Guild protest",
+      "Description": "The impact of the Hollywood writers strike was felt as major television networks began their annual week of sales presentations to advertisers on Monday, with news personalities like Willie Geist and Stephanie Ruhle left to hawk comedies and dramas for NBC Un…",
+      "Url": "https://www.business-standard.com/world-news/writers-strike-hits-hollywood-as-members-of-the-writers-guild-protest-123051600141_1.html",
+      "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/27/full/1603817799-6362.jpg",
+      "PublishedAt": "2023-05-16T04:33:19Z",
+      "Content": "The impact of the Hollywood writers strike was felt as major television networks began their annual week of sales presentations to advertisers on Monday, with news personalities like Willie Geist and… [+3632 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/UGUFRA4zM8pAc-oZnbHDIGo70ao/0x156:8613x4678/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/04/19/791/n/1922283/df1eb58d64402c2c4bdb73.57443143_.jpg",
       "PublishedAt": "2023-04-19T20:15:02Z",
       "Content": "When fans learned that \"Ted Lasso\"'s third season currently airing on Apple TV+ would be its last, many were upset. They wanted more time with Ted (Jason Sudeikis), Coach Beard (Brendan Hunt), Rebecc… [+3582 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Kyle Fansler",
-      "Title": "Streaming services to lose $113 billion by 2027 due to piracy",
-      "Description": "Streaming services are projected to lose out on hundreds of billions of dollars as a result of piracy over the next five years. A new study shows that pirating websites and password sharing could cost providers upwards of $100 billion in that relatively short…",
-      "Url": "https://worldsoccertalk.com/news/streaming-services-to-lose-113-billion-by-2027-due-to-piracy-20230419-WST-429113.html",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230419_WST_429113_Streaming-services-piracy.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2023-04-19T18:59:09Z",
-      "Content": "Streaming services are projected to lose out on hundreds of billions of dollars as a result of piracy over the next five years. A new study shows that pirating websites and password sharing could cos… [+2142 chars]"
     }
   ]
 }
