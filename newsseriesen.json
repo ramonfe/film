@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 111,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Eric Frederiksen",
+      "Title": "ABC Won't Have Any Scripted Shows This Fall",
+      "Description": "From November 2007 until February 2008, the Writers Guild of America went on strike, and as dozens of shows on broadcast and cable television went on hiatus, reality TV exploded. Just over fifteen years later, the WGA is on strike again, and we're already see…",
+      "Url": "https://www.gamespot.com/articles/abc-wont-have-any-scripted-shows-this-fall/1100-6514252/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1603/16030002/4138923-bachlor-paradise.jpg",
+      "PublishedAt": "2023-05-16T22:57:00Z",
+      "Content": "From November 2007 until February 2008, the Writers Guild of America went on strike, and as dozens of shows on broadcast and cable television went on hiatus, reality TV exploded. Just over fifteen ye… [+2961 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64400284811d412e1258ad23/1681941636191/neil-gaimans-the-sandman-series-renewed-for-season-2-by-netflix.jpg?format=1500w",
       "PublishedAt": "2023-04-19T22:00:00Z",
       "Content": "For those of you wondering whats been going on with the second season of Netflixs The Sandman series, Neil Gaiman has offered an update on the project, which is sure to make fans happy. Theres been a… [+2507 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Victoria Edel",
-      "Title": "\"Ted Lasso\"'s Season 3 Episodes Are Too Long",
-      "Description": "When fans learned that \"Ted Lasso\"'s third season - currently airing on Apple TV+ - would be its last, many were upset. They wanted more time with Ted (Jason Sudeikis), Coach Beard (Brendan Hunt), Rebecca (Hannah Waddingham), Keeley (Juno Temple), Roy (Brett …",
-      "Url": "https://www.popsugar.com/entertainment/ted-lasso-season-3-run-times-49148704",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/UGUFRA4zM8pAc-oZnbHDIGo70ao/0x156:8613x4678/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/04/19/791/n/1922283/df1eb58d64402c2c4bdb73.57443143_.jpg",
-      "PublishedAt": "2023-04-19T20:15:02Z",
-      "Content": "When fans learned that \"Ted Lasso\"'s third season currently airing on Apple TV+ would be its last, many were upset. They wanted more time with Ted (Jason Sudeikis), Coach Beard (Brendan Hunt), Rebecc… [+3582 chars]"
     }
   ]
 }
