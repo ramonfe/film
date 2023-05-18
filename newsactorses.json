@@ -1,8 +1,255 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 743,
+  "TotalResults": 762,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Perfil.com"
+      },
+      "Author": "Dolores Villalba",
+      "Title": "La historia secreta del odio entre Susana Giménez y Graciela Borges",
+      "Description": "La actriz de cine confesó que puede no estar de acuerdo con la conductora pero el cariño es más grande. Leer más",
+      "Url": "https://caras.perfil.com/noticias/celebridades/la-historia-secreta-del-odio-entre-susana-gimenez-y-graciela-borges.phtml",
+      "UrlToImage": "https://fotos.perfil.com/2023/05/17/trim/1140/641/susana-gimenez-y-graciela-borges-1569486.jpg",
+      "PublishedAt": "2023-05-17T12:49:09Z",
+      "Content": "Susana Giméneztendría una historia de conflicto secreta con Graciela Borges, según contó Tartu en \"A La Tarde\". Resulta que la historia data de muchos años atrás, cuando la diva de los teléfonos se c… [+2116 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Publico.es"
+      },
+      "Author": "Público",
+      "Title": "Johnny Depp recibe una ovación en la inauguración del polémico Festival de Cannes",
+      "Description": "La película 'Jeanne Du Barry', protagonizada por el actor, ha sido la elegida para dar el pistoletazo de salida al certamen de cine. Activistas feministas piden la clausura del festival por \"celebrar a los abusadores durante 76 años\".",
+      "Url": "https://www.publico.es/culturas/johnny-depp-recibe-ovacion-inauguracion-polemico-festival-cannes.html",
+      "UrlToImage": "https://www.publico.es/uploads/2023/05/17/6464c1ed81ec1.jpeg",
+      "PublishedAt": "2023-05-17T12:36:00Z",
+      "Content": "Arranca el Festival de Cannes sumido en la polémica. La inauguración del certamen de cine estuvo marcada por la película Jeanne Du Barry, protagonizada por el actor Johnny Depp y su directora Maïwenn… [+1918 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "La película más vista de Netflix es, también, la que ha superado a Glass Onion en su estreno",
+      "Description": "Semana nueva, película más vista de Netflix nueva, al menos de momento. El título que ha conseguido el primer puesto semanal no es sorprendente, pero lo que sí llama la atención es que parece ser que ha batido el récord de Glass Onion en su estreno, película …",
+      "Url": "https://www.revistagq.com/articulo/pelicula-mas-vista-netflix-la-madre",
+      "UrlToImage": "https://media.revistagq.com/photos/6464c47dfb7470f1fd7b2ac8/16:9/w_1280,c_limit/MTHR_SG_00274.JPG",
+      "PublishedAt": "2023-05-17T12:16:43Z",
+      "Content": "Semana nueva, película más vista de Netflix nueva, al menos de momento. El título que ha conseguido el primer puesto semanal no es sorprendente, pero lo que sí llama la atención es que parece ser que… [+1988 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Miguel Jorge",
+      "Title": "Tom Hanks dice que podría seguir en el cine después de muerto... gracias a la IA",
+      "Description": "No es la primera vez que el popular actor aparece asociado a la inteligencia artificial. Sin ir más lejos, en febrero de este año contamos cómo Hollywood planeaba rejuvenecer al actor en la adaptación de la novela gráfica Here. Ahora, el propio Hanks no se ci…",
+      "Url": "https://es.gizmodo.com/tom-hanks-dice-que-podria-seguir-en-el-cine-despues-de-1850444449",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9c50f7d8619c6b9a208c537144a7726d.jpg",
+      "PublishedAt": "2023-05-17T11:31:00Z",
+      "Content": "No es la primera vez que el popular actor aparece asociado a la inteligencia artificial. Sin ir más lejos, en febrero de este año contamos cómo Hollywood planeaba rejuvenecer al actor en la adaptació… [+2468 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elseptimoarte.net"
+      },
+      "Author": "wanchope",
+      "Title": "¿Y tú? ¿Qué ves? Primer tráiler de 'Mi soledad tiene alas', una película de Mario Casas",
+      "Description": "Warner Bros. presenta el primer tráiler y el primer cartel de 'Mi soledad tiene alas', película con la que el ganador del Goya Mario Casas da el salto a la dirección.\n\nSu hermano, el también actor Óscar Casas, y los debutantes Candela González y Farid Bechara…",
+      "Url": "https://www.elseptimoarte.net/noticias/actualidad/y-tu-que-ves-primer-trailer-de-mi-soledad-tiene-alas-una-pelicula-de-mario-casas-45348.html",
+      "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/122232.jpg",
+      "PublishedAt": "2023-05-17T11:23:52Z",
+      "Content": "Mario Casas, da el salto a la dirección con su primera película MI SOLEDAD TIENE ALAS, que protagonizará su hermano Óscar Casas rodeado de un reparto no profesional que ha llevado más de un año de tr… [+2862 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Sergio Cejas (Beld)",
+      "Title": "Disney+ pone fecha a dos de los próximos estrenos del universo de Marvel: la segunda temporada de Loki y Echo",
+      "Description": "Para qué realizar un único anuncio cuando puedes hacer dos de golpe. Eso mismo es lo que debe de haber pensado Marvel Studios al comunicar la fecha de dos de los próximos grandes estrenos que se producirán este mismo año en Disney+ para cerrar a lo grande el …",
+      "Url": "https://www.vidaextra.com/series/disney-pone-fecha-a-dos-proximos-estrenos-universo-marvel-segunda-temporada-loki-echo",
+      "UrlToImage": "https://i.blogs.es/93f2d3/loki/840_560.jpeg",
+      "PublishedAt": "2023-05-17T10:34:00Z",
+      "Content": "Para qué realizar un único anuncio cuando puedes hacer dos de golpe. Eso mismo es lo que debe de haber pensado Marvel Studios al comunicar la fecha de dos de los próximos grandes estrenos que se prod… [+1603 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Culturaocio.com"
+      },
+      "Author": null,
+      "Title": "La temporada 2 de Loki ya tiene fecha de estreno en Disney+",
+      "Description": "La segunda temporada de Loki ha confirmado su fecha de estreno en Disney+. La serie protagonizada por Tom Hiddleston llegará a la plataforma el próximo 6 de octubre con nuevos capítulos y con el futuro de Jonathan Majors, el actor que da vida a Kang y que ya …",
+      "Url": "https://www.culturaocio.com/tv/noticia-temporada-loki-ya-tiene-fecha-estreno-disney-20230517122526.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230517122526_1200.jpg",
+      "PublishedAt": "2023-05-17T10:25:26Z",
+      "Content": "MADRID, 17 May. (CulturaOcio) - \r\n   La segunda temporada de Loki ha confirmado su fecha de estreno en Disney+. La serie protagonizada por Tom Hiddleston llegará a la plataforma el próximo 6 de octub… [+2277 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vitonica.com"
+      },
+      "Author": "Joaquín Vico",
+      "Title": "Más de cinco horas corriendo en la maratón de Nueva York hicieron que esta famosa actriz bautizara ese día como el peor de su vida",
+      "Description": "Si has corrido una maratón, o alguna carrera muy exigente de larga duración, seguramente te preguntaste en más de una ocasión qué necesidad tenías de hacerlo. Cuando nos planteamos un reto de gran calibre, pero no nos preparamos lo suficiente para ello, más q…",
+      "Url": "https://www.vitonica.com/eventos/cinco-horas-corriendo-maraton-nueva-york-hicieron-que-esta-famosa-actriz-bautizara-ese-dia-como-peor-su-vida",
+      "UrlToImage": "https://i.blogs.es/c05fea/345709431_1448401369304402_84377/840_560.jpeg",
+      "PublishedAt": "2023-05-17T10:00:57Z",
+      "Content": "Si has corrido una maratón, o alguna carrera muy exigente de larga duración, seguramente te preguntaste en más de una ocasión qué necesidad tenías de hacerlo. Cuando nos planteamos un reto de gran ca… [+2449 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "El festival de Cannes subió el telón con Johnny Depp en la cinta Jeanne du Barry, objeto de acalorados debates",
+      "Description": "Cannes. El 76 Festival Internacional de Cine de Cannes subió el telón ayer con el polémico actor estadunidense Johnny Depp en Jeanne du Barry, una fastuosa película francesa en el Versalles del siglo XVIII que abre un certamen repleto de estrellas.",
+      "Url": "https://www.jornada.com.mx/2023/05/17/espectaculos/a08n1esp",
+      "UrlToImage": "https://www.jornada.com.mx/2023/05/17/fotos/a08n1esp-1.jpg",
+      "PublishedAt": "2023-05-17T10:00:33Z",
+      "Content": "Periódico La JornadaMiércoles 17 de mayo de 2023, p. 8\r\nCannes. El 76 Festival Internacional de Cine de Cannes subió el telón ayer con el polémico actor estadunidense Johnny Depp en Jeanne du Barry, … [+3958 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Juan Luis Caviaro",
+      "Title": "El Festival de Cannes 2023 se abre con el romance de época de Johnny Depp y Maïwenn: 'Jeanne du Barry' impresiona con su lujo pero no aporta nada especial",
+      "Description": "\"Queda inaugurada la 76ª edición del Festival de Cannes\". Entre las risas del público tras un cómico malentendido en el escenario, Catherine Deneuve y Michael Douglas dieron el pistoletazo de salida a Cannes 2023 en un acto de apertura donde se presentó al ju…",
+      "Url": "https://www.espinof.com/criticas/festival-cannes-2023-se-abre-romance-epoca-johnny-depp-maiwenn-jeanne-du-barry-impresiona-su-lujo-no-aporta-nada-especial",
+      "UrlToImage": "https://i.blogs.es/abd7f5/cannes-2023-jeanne-du-barry-critica-espinof/840_560.jpeg",
+      "PublishedAt": "2023-05-17T09:57:19Z",
+      "Content": "\"Queda inaugurada la 76ª edición del Festival de Cannes\". Entre las risas del público tras un cómico malentendido en el escenario, Catherine Deneuve y Michael Douglas dieron el pistoletazo de salida … [+4866 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ecartelera.com"
+      },
+      "Author": "Pedro J. García",
+      "Title": "Johnny Depp recibe una ovación en pie de 7 minutos en la premiere en Cannes de 'Jeanne du Barry', su regreso a cine",
+      "Description": "JEANNE DU BARRY Las polémicas en las que se ha visto envuelto el actor no han impedido que protagonice su comeback por todo lo alto en el Festival de Cannes, donde presenta su primera película en tres años.Johnny Depp recibe una ovación en pie de 7 minutos en…",
+      "Url": "https://www.ecartelera.com/noticias/cannes-2023-johnny-depp-ovacion-en-pie-73387/",
+      "UrlToImage": "https://img.ecartelera.com/noticias/73300/73387-h2.jpg",
+      "PublishedAt": "2023-05-17T09:55:04Z",
+      "Content": "Johnny Depp es uno de los actores más polémicos del panorama cinematográfico, pero sigue contando con una apasionada legión de fans que harían cualquier cosa por su ídolo. Tras ganar el mediático jui… [+3696 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'La Vida al Màxim' se estrena en À Punt con Inés Ballester y Antonio de la Torre",
+      "Description": "Inés Ballester y Antonio de la Torre están invitados a una fiesta en casa de Màxim Huerta el próximo sábado 20 de mayo a las 22 horas con motivo del estreno de ' La vida al Màxim ', un espacio producido por À Punt en asociación con VITV (The Mediapro Studio) …",
+      "Url": "https://www.abc.es/espana/comunidad-valenciana/vida-maxim-estrena-punt-ines-ballester-antonio-20230517114153-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2023/05/17/maxim-U66346762057DSD-1024x512@abc.jpg",
+      "PublishedAt": "2023-05-17T09:41:54Z",
+      "Content": "Inés Ballester y Antonio de la Torre están invitados a una fiesta en casa de Màxim Huerta el próximo sábado 20 de mayo a las 22 horas con motivo del estreno de 'La vida al Màxim', un espacio producid… [+4229 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "GQ España",
+      "Title": "Una serie de Indiana Jones llegará a Disney Plus, aunque no la que imaginabas",
+      "Description": "Después de muchos rumores, finalmente una serie de Indiana Jones estará en Disney Plus. Ahora bien, no será ese spin-off del que tanto se habló hace unos meses y que finalmente fue descartado por la compañía.\r\n\nY es que recordarás tal vez que se confirmó que …",
+      "Url": "https://www.revistagq.com/articulo/serie-indiana-jones-disney-plus-estreno",
+      "UrlToImage": "https://media.revistagq.com/photos/64649cbcb0f2820cf52525bd/16:9/w_1280,c_limit/serie-indiana-jones-disney-plus.jpg",
+      "PublishedAt": "2023-05-17T09:24:50Z",
+      "Content": "Después de muchos rumores, finalmente una serie de Indiana Jones estará en Disney Plus. Ahora bien, no será esespin-offdel que tanto se habló hace unos meses y que finalmente fue descartado por la co… [+2467 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "F. Javier Girela",
+      "Title": "Mads Mikkelsen y la prueba de que el traje más elegante de 2023 no lleva americana, sino sobrecamisa",
+      "Description": "Con su estilo discreto y pulido, podríamos decir Mads Mikkelsen es uno de los hombres mejor vestidos del panorama cinematográfico actual. Pruebas de ello hay infinitas, pero sin ir más lejos basta con echar un ojo a su última alfombra roja. El actor danés des…",
+      "Url": "https://www.revistagq.com/articulo/mads-mikkelsen-zegna-embajador-fotos-look-cannes",
+      "UrlToImage": "https://media.revistagq.com/photos/6464964fcc8215e738019dce/16:9/w_1280,c_limit/Mads%20Mikkelsen%20Zegna%20ambassador.png",
+      "PublishedAt": "2023-05-17T09:06:27Z",
+      "Content": "Con su estilo discreto y pulido, podríamos decir Mads Mikkelsen es uno de los hombres mejor vestidos del panorama cinematográfico actual. Pruebas de ello hay infinitas, pero sin ir más lejos basta co… [+2550 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Redacción verTele",
+      "Title": "'El Intermedio' versionó 'Breaking Bad' por la concejala de Vox acusada de narcotráfico: \"Engancha mucho\"",
+      "Description": "La noticia de la detención por tráfico de drogas de la concejala de Vox Ana González, y su posterior renuncia, saltó este martes a El Intermedio de la mano de Dani Mateo, que hizo \"la versión parleña\" de Breaking Bad con una nueva trama.\"Parla, año 2023, a la…",
+      "Url": "https://vertele.eldiario.es/videos/actualidad/el-intermedio-versiono-breaking-bad-concejala-vox-acusada-narcotrafico-engancha_7_10211721.html",
+      "UrlToImage": "https://static.eldiario.es/clip/ab27ebd8-aaf7-4b1a-a043-d5446ebe0ba7_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-05-17T09:01:11Z",
+      "Content": "La noticia de la detención por tráfico de drogas de la concejala de Vox Ana González, y su posterior renuncia, saltó este martes a El Intermedio de la mano de Dani Mateo, que hizo “la versión parleña… [+1169 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "GQ.de",
+      "Title": "James Bond: Tom Hanks está claramente a favor de que el próximo 007 sea este actor",
+      "Description": "A la hora de elegir al próximo James Bond, los favoritos suelen estar en franca desventaja porque el elegido para encarnar al que quizás sea el héroe cinematográfico más famoso de todos los tiempos suele ser toda una sorpresa. En este sentido, Idris Elba tien…",
+      "Url": "https://www.revistagq.com/articulo/tom-hanks-actor-favorito-para-proximo-james-bond",
+      "UrlToImage": "https://media.revistagq.com/photos/64648d27244ebcafee841309/16:9/w_1280,c_limit/1467403573",
+      "PublishedAt": "2023-05-17T08:43:27Z",
+      "Content": "A la hora de elegir al próximo James Bond, los favoritos suelen estar en franca desventaja porque el elegido para encarnar al que quizás sea el héroe cinematográfico más famoso de todos los tiempos s… [+1978 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Las deportivas italianas que llevan los famosos con más estilo",
+      "Description": "Una prenda o accesorio triunfa realmente cuando consigue ser eterno, atemporal, funcional y versátil, por su diseño y calidades. Es lo que le pasa a la deportiva de Zegna 'Triple Stitch' , que se ha convertido en un icono de la marca de lujo italiana -es su '…",
+      "Url": "https://www.abc.es/summum/estilo/moda/deportivas-italianas-llevan-famosos-estilo-20230517163603-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/summum/2023/05/16/kieran-U10358275771aZs-1024x512@abc.jpg",
+      "PublishedAt": "2023-05-17T07:20:04Z",
+      "Content": "Una prenda o accesorio triunfa realmente cuando consigue ser eterno, atemporal, funcional y versátil, por su diseño y calidades. Es lo que le pasa a la deportiva de Zegna 'Triple Stitch', que se ha c… [+1780 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Publico.es"
+      },
+      "Author": "zeleb.publico.es",
+      "Title": "Cannes 2023: álbum de fotos",
+      "Description": "Naomi Campbell mira tras sus gafas de sol en la alfombra roja. Comenzó el 76º festival de Cannes y lo primero de todo fue premiar a Michael Douglas “en reconocimiento a su brillante carrera, así como a su compromiso con el cine”. Acudió el actor a recoger su …",
+      "Url": "https://zeleb.publico.es/noticia/cannes-2023-album-de-fotos/",
+      "UrlToImage": "https://zeleb.publico.es/wp-content/uploads/2023/05/Cannes-2023-Gtres-scaled.jpg",
+      "PublishedAt": "2023-05-17T06:49:46Z",
+      "Content": "Naomi Campbell mira tras sus gafas de sol en la alfombra roja.\r\nComenzó el 76º festival de Cannes y lo primero de todo fue premiar a Michael Douglas “en reconocimiento a su brillante carrera, así com… [+2236 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "David del Río",
+      "Title": "Festival de Cannes inicia con polémica",
+      "Description": "El delegado general del certamen de la Costa Azul, Thierry Frémaux, se vio obligado a desmentir ante la prensa los comentarios de la actriz francesa Adèle Haenel, que acusó a la muestra de ser “un festival para violadores”,como el actor Gerard Depardieu y el …",
+      "Url": "https://www.milenio.com/espectaculos/festival-de-cannes-inicia-con-polemica",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/05/17/actor-reconocido-inauguracion-cita-cine.jpg",
+      "PublishedAt": "2023-05-17T06:47:26Z",
+      "Content": "El delegado general del certamen de la Costa Azul, Thierry Frémaux, se vio obligado a desmentir ante la prensa los comentarios de la actriz francesa Adèle Haenel, que acusó a la muestra de ser un fes… [+4057 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1055,253 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/9a3d4d/vida-michael-j-fox-3031548/840_560.jpeg",
       "PublishedAt": "2023-05-12T10:45:44Z",
       "Content": "Tras su aparición en 'The good fight', Michael J Fox pareció haberse desvanecido: fue un tiempo después cuando supimos que se había retirado de la actuación salvo la aparición sorpresa en algunas cos… [+1505 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "EFE",
-      "Title": "Javier Bardem, Premio Donostia del Festival de Cine de San Sebastián 2023",
-      "Description": "El actor Javier Bardem recibirá el Premio Donostia del 71 Festival de Cine de San Sebastián, que se celebrará del 22 al 30 de septiembre. El nombre del primer galardonado de la...",
-      "Url": "https://www.elmundo.es/cultura/cine/2023/05/12/645e10e821efa01c458b4598.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/099395c673c0a3c9c75ee299499ee159/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/12/16838862745829.jpg",
-      "PublishedAt": "2023-05-12T10:15:18Z",
-      "Content": "El actor Javier Bardem recibirá el Premio Donostia del 71 Festival de Cine de San Sebastián, que se celebrará del 22 al 30 de septiembre.\r\nEl nombre del primer galardonado de la próxima edición del c… [+177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Republica.com"
-      },
-      "Author": "República/Agencias",
-      "Title": "Javier Bardem, Premio Donostia del 71 Festival de Cine de San Sebastián",
-      "Description": "El actor Javier Bardem recibirá el Premio Donostia del 71 Festival de Cine de San Sebastián, que se celebrará del 22 al 30 de septiembre. El nombre del primer galardonado de la próxima edición del certamen ha sido anunciado este viernes durante la presentació…",
-      "Url": "https://www.republica.com/cultura/javier-bardem-premio-donostia-del-71-festival-de-cine-de-san-sebastian-20230512-12141925868/",
-      "UrlToImage": "https://www.republica.com/wp-content/uploads/2023/05/El-actor-espanol-Javier-Bardem.-e1683886339616.jpg",
-      "PublishedAt": "2023-05-12T10:14:03Z",
-      "Content": "El actor Javier Bardem recibirá el Premio Donostia del 71 Festival de Cine de San Sebastián, que se celebrará del 22 al 30 de septiembre.\r\nEl nombre del primer galardonado de la próxima edición del c… [+514 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Huffingtonpost.es"
-      },
-      "Author": "Elena Santos",
-      "Title": "Javier Bardem, Premio Donostia del Festival de Cine de San Sebastián",
-      "Description": "<![CDATA[<p>El actor Javier Bardem recibirá el Premio Donostia del 71 Festival de Cine de San Sebastián, que se celebrará del 22 al 30 de septiembre.wf_cms.rss.read_more]]>",
-      "Url": "https://www.huffingtonpost.es/life/cultura/javier-bardem-premio-donostia-festival-cine-san-sebastianbr.html",
-      "UrlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2023/05/12/javier-bardem-en-el-estreno-de-la-sirenita-en-los-angeles-el-8-de-mayo-de-2023.jpeg",
-      "PublishedAt": "2023-05-12T10:02:13Z",
-      "Content": "El actor Javier Bardem recibirá el Premio Donostia del 71 Festival de Cine de San Sebastián, que se celebrará del 22 al 30 de septiembre.\r\nEl nombre del primer galardonado de la próxima edición del c… [+118 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Pedro Gallego",
-      "Title": "El drama deportivo que señala las entrañas del capitalismo llega a Amazon Prime Video: una sensacional película de Ben Affleck que convierte el baloncesto en una canción de Bruce Springsteen",
-      "Description": "En una clásica conversación a la hora del café, aunque se traslada más allá de las máquinas expendedoras, los personajes de Matt Damon y Jason Bateman tienen lo que parece una conversación trivial antes de lanzarse al tajo. En ella, además de ofrecer detalles…",
-      "Url": "https://www.espinof.com/amazon-prime-video/drama-deportivo-que-senala-entranas-capitalismo-llega-a-amazon-prime-video-sensacional-pelicula-ben-affleck-que-convierte-baloncesto-cancion-bruce-springsteen",
-      "UrlToImage": "https://i.blogs.es/c415ec/air-2023/840_560.jpeg",
-      "PublishedAt": "2023-05-12T09:15:44Z",
-      "Content": "En una clásica conversación a la hora del café, aunque se traslada más allá de las máquinas expendedoras, los personajes de Matt Damon y Jason Bateman tienen lo que parece una conversación trivial an… [+4578 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "El Hoyo 2, de Netflix, es una realidad, y las primeras fotos lo demuestran",
-      "Description": "Parece que fue hace una vida cuando la primera entrega llegó a nuestras vidas, pero fue en 2020. Ahora, 3 años después, El Hoyo 2, de Netflix, ha revelado sus primeras imágenes para confirmar que la cinta de Galder Gaztelu-Urrutia, que se convirtió en la prim…",
-      "Url": "https://www.revistagq.com/articulo/el-hoyo-2-netflix-secuela",
-      "UrlToImage": "https://media.revistagq.com/photos/645de9f14c1636d5edee1985/16:9/w_1280,c_limit/el-hoyo-2-netflix.jpeg",
-      "PublishedAt": "2023-05-12T07:31:22Z",
-      "Content": "Parece que fue hace una vida cuando la primera entrega llegó a nuestras vidas, pero fue en 2020. Ahora, 3 años después, El Hoyo 2, de Netflix, ha revelado sus primeras imágenes para confirmar que la … [+1419 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Marisa de Dios",
-      "Title": "'Ser o no ser', una serie luminosa y sin dramatismos sobre las inseguridades de un adolescente trans",
-      "Description": "Estudiantes reales y ficticios se confunden estos días en el instituto barcelonés Consell de Cent. El centro acoge hasta este viernes el rodaje de la segunda temporada de 'Ser o no ser', serie de Playz, la plataforma digital de RTVE, centrada en el día a día …",
-      "Url": "https://www.elperiodico.com/es/series/20230512/ser-o-no-ser-serie-playz-ander-puig-trans-87152011",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/9f0ba5e3-87fa-4a6e-86ac-96a8aede8110_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-05-12T06:00:22Z",
-      "Content": "Estudiantes reales y ficticios se confunden estos días en el instituto barcelonés Consell de Cent. El centro acoge hasta este viernes el rodaje de la segunda temporada de 'Ser o no ser', serie de Pla… [+3587 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Cine de Oro: ¿Qué tipo de cáncer padeció el actor Pedro Armendáriz?",
-      "Description": "Pedro Armendáriz fue un importante actor del Cine de Oro Mexicano que trabajó a lado de varias figuras importantes como María Félix, Dolores del Río y Emilio Fernández, participando en diversas producciones de México y Estados Unidos.Sin embargo, la muerte de…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/pedro-armendariz-que-tipo-de-cancer-padecio-el-actor-del-cine-de-oro",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/05/10/la-tragica-muerte-de-pedro.jpg",
-      "PublishedAt": "2023-05-12T03:54:00Z",
-      "Content": "Pedro Armendáriz fue un importante actor del Cine de Oro Mexicano que trabajó a lado de varias figuras importantes como María Félix, Dolores del Río y Emilio Fernández, participando en diversas produ… [+1728 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Shakira, Tom Cruise y Lewis Hamilton, un triángulo amoroso",
-      "Description": "Cuando el mundo se preparaba para el tornado sentimental de 'Tomkira', la cantante Shakira ha desmentido su romance con el actor Tom Cruise . En Hollywood, uno se acostumbra a ese fluir de parejas, reales o por el juego del marketing, que un día lo son, al si…",
-      "Url": "https://www.abc.es/gente/shakira-tom-cruise-lewis-hamilton-triangulo-amoroso-20230511203023-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2023/05/11/TOMCRUISE2-U20403206356KKM-1024x512@abc.jpg",
-      "PublishedAt": "2023-05-12T01:51:28Z",
-      "Content": "Cuando el mundo se preparaba para el tornado sentimental de 'Tomkira', la cantante Shakira ha desmentido su romance con el actor Tom Cruise. En Hollywood, uno se acostumbra a ese fluir de parejas, re… [+3296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Joanna Hogg demuestra que el cine siempre cuenta una historia de fantasmas en ‘La hija eterna’",
-      "Description": "El cine tiene siempre algo de esotérico. Como si fuera uno de los artefactos de Los Cazafantasmas, la cámara intenta atrapar algo que es inmaterial, el tiempo y el espacio. Capturar sensaciones, momentos y hasta recuerdos. Quizás por eso tantas películas pare…",
-      "Url": "https://www.eldiario.es/cultura/cine/joanna-hogg-demuestra-cine-cuenta-historia-fantasmas-hija-eterna_1_10195627.html",
-      "UrlToImage": "https://static.eldiario.es/clip/8035506d-b322-4f07-b885-47859c85aab0_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-05-11T21:18:26Z",
-      "Content": "El cine tiene siempre algo de esotérico. Como si fuera uno de los artefactos de Los Cazafantasmas, la cámara intenta atrapar algo que es inmaterial, el tiempo y el espacio. Capturar sensaciones, mome… [+304 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Perfil.com"
-      },
-      "Author": "Vanesa Odino",
-      "Title": "Leo Sbaraglia será el protagonista de \"Síganme\", la serie sobre Carlos Menem",
-      "Description": "El actor le dará vida al fallecido expresidente de la Nación en una producción para Amazon Prime Video. Leer más",
-      "Url": "https://caras.perfil.com/noticias/entretenimiento/leo-sbaraglia-sera-el-protagonista-de-siganme-la-serie-sobre-carlos-menem.phtml",
-      "UrlToImage": "https://fotos.perfil.com/2023/05/11/trim/1140/641/leonardo-sbaraglia-1565985.jpg",
-      "PublishedAt": "2023-05-11T20:48:10Z",
-      "Content": "Leonardo Sbaraglia se pondrá en la piel de Carlos Menem en su nueva incursión en la pantalla. Se trata de la serie original de Amazon Prime Video, \"Síganme\", que tendrá 8 capítulos y será dirigida po… [+1108 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "José Sacristán regresa al Teatro de Rojas para hablar de la pérdida y del amor",
-      "Description": "Lleva más de 71 años de trajín artístico en el teatro y en los platós de cine y televisión. José Sacristán (Chinchón, 1937) confiesa que su retiro se producirá el día que vayan a enterrarlo. Hombre vital, cercano, humilde y maestro de la interpretación, vuelv…",
-      "Url": "https://www.abc.es/espana/castilla-la-mancha/toledo/jose-sacristan-regresa-teatro-rojas-hablar-perdida-20230511201738-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2023/05/11/sacristann-U21343877205wFL-1024x512@abc.jpg",
-      "PublishedAt": "2023-05-11T18:20:49Z",
-      "Content": "Lleva más de 71 años de trajín artístico en el teatro y en los platós de cine y televisión. José Sacristán (Chinchón, 1937) confiesa que su retiro se producirá el día que vayan a enterrarlo. Hombre v… [+4999 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Digital Trends"
-      },
-      "Author": "Diego Bastarrica",
-      "Title": "Jude Law adelanta Skeleton Crew: es como estar en Andor para niños, y no están seguros",
-      "Description": "El reconocido actor hizo en la revista Empire un pequeño repaso sobre la trama de la serie de Star Wars.",
-      "Url": "https://es.digitaltrends.com/entretenimiento/jude-law-skeleton-crew-adelanto/",
-      "UrlToImage": "https://es.digitaltrends.com/wp-content/uploads/2023/05/1657525455_261912_1657525615_noticia_normal.jpg?resize=1200%2C630&p=1",
-      "PublishedAt": "2023-05-11T18:17:57Z",
-      "Content": "Uno de los teasers que se mostraron en privado en la Star Wars Celebration 2023 de Londres, fue el de Skeleton Crew, la esperada serie de Disney donde un grupo de niños estarán tutelados por un miste… [+1443 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "'Indiana Jones 5': el enorme problema de continuidad de la saga que tiene que solucionar la película final de Harrison Ford como el mítico arqueólogo (y no es el personaje de Shia LaBeouf)",
-      "Description": "El próximo 30 de junio se estrena al fin 'Indiana Jones y el dial del destino', la quinta y última aventura en la gran pantalla de Harrison Ford dando vida a este mítico arqueólogo. Teniendo en cuenta que se trata de su despedida de la saga, no queda otra que…",
-      "Url": "https://www.espinof.com/directores-y-guionistas/indiana-jones-5-enorme-problema-continuidad-saga-que-tiene-que-solucionar-pelicula-final-harrison-ford-como-mitico-arqueologo-no-personaje-shia-labeouf",
-      "UrlToImage": "https://i.blogs.es/237783/indiana-jones-5-cartel/840_560.jpeg",
-      "PublishedAt": "2023-05-11T18:01:43Z",
-      "Content": "El próximo 30 de junio se estrena al fin 'Indiana Jones y el dial del destino', la quinta y última aventura en la gran pantalla de Harrison Ford dando vida a este mítico arqueólogo. Teniendo en cuent… [+2584 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Muere Jacklyn Zeman, actriz de la longeva serie ‘Hospital General’, a los 70 años",
-      "Description": "Por más de 4 décadas, la actriz Jacklyn Zeman interpretó a la enfermera Bobbie Spencer.",
-      "Url": "https://www.elfinanciero.com.mx/espectaculos/2023/05/11/muere-jacklyn-zeman-actriz-de-la-longeva-serie-hospital-general-a-los-70-anos/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/Z8Y3UJiOhgV_SOZu_XmJBS5Ct9s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/A6MAPWWCPVFPBF4JZHAHBKZCFA.jpg",
-      "PublishedAt": "2023-05-11T17:32:52Z",
-      "Content": "La actrizJacklyn Zeman murió a los 70 años según dio a conocer el productor ejecutivo de la longeva serie estadounidense Hospital General, Frank Valentini, en sus redes sociales, donde mandó un mensa… [+1517 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "EL MUNDO",
-      "Title": "Muere la actriz de 'Hospital General' Jacklyn Zeman a los 70 años",
-      "Description": "Jacklyn Zeman, actriz que durante 45 años interpretó a Bobbie Spencer en la serie Hospital General, ha fallecido a los 70 años. El fallecimiento de la veterana actriz fue...",
-      "Url": "https://www.elmundo.es/television/2023/05/11/645d23d921efa0cb588b45ba.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/1504660a42449a30c7563e796fc5f2e5/crop/160x0/1888x1152/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/11/16838253328185.jpg",
-      "PublishedAt": "2023-05-11T17:21:12Z",
-      "Content": "Jacklyn Zeman, actriz que durante 45 años interpretó a Bobbie Spencer en la serie Hospital General, ha fallecido a los 70 años. El fallecimiento de la veterana actriz fue anunciado en Twitter por Fra… [+1276 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "La serie animada que dará comienzo el nuevo Universo Extendido de DC girará en torno a una premisa sencilla: aniquilar nazis",
-      "Description": "El Universo Extendido de DC dará un giro de 180 grados este mismo verano con la llegada de The Flash. Y si bien aún quedan un par de películas que retoquen los últimos esbozos del universo creado por Zack Snyder, James Gunn ya tiene entre manos la primera obr…",
-      "Url": "https://www.vidaextra.com/series/serie-animada-que-dara-comienzo-nuevo-universo-extendido-dc-girara-torno-a-premisa-sencilla-aniquilar-nazis",
-      "UrlToImage": "https://i.blogs.es/4bf558/creature-commandos/840_560.jpeg",
-      "PublishedAt": "2023-05-11T16:35:41Z",
-      "Content": "El Universo Extendido de DC dará un giro de 180 grados este mismo verano con la llegada de The Flash. Y si bien aún quedan un par de películas que retoquen los últimos esbozos del universo creado por… [+1777 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "Daniel Tostón López",
-      "Title": "Rocío Marín sustituirá a Laura Gómez-Lacueva en 'La que se avecina'",
-      "Description": "NUEVA INCORPORACIÓN La actriz mantendrá en la serie al personaje de Greta después del fallecimiento de la aragonesa.Rocío Marín sustituirá a Laura Gómez-Lacueva en 'La que se avecina'",
-      "Url": "https://www.formulatv.com/noticias/rocio-marin-sustituira-laura-gomez-lacueva-122511/",
-      "UrlToImage": "https://www.formulatv.com/images/articulos/122000/122511_KE1Y3047qU9mzat8kvsNioFWRBcP52egJ-hog.jpg",
-      "PublishedAt": "2023-05-11T16:12:00Z",
-      "Content": "Laura Gómez-Lacueva murió en marzo de 2023 a los 48 años a causa de un cáncer. La actriz de 'El pueblo' y 'La que se avecina' dejó consternados a todos sus compañeros y dejó varias incógnitas en el a… [+1835 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "Daniel Tostón López",
-      "Title": "Rocío Marín sustituirá a Laura Gómez-Lacueva en 'La que se avecina'",
-      "Description": "NUEVA INCORPORACIÓN La actriz mantendrá en la serie al personaje de Greta después del fallecimiento de la aragonesa.Rocío Marín sustituirá a Laura Gómez-Lacueva en 'La que se avecina'",
-      "Url": "https://www.formulatv.com/noticias/rocio-martin-sustituira-laura-gomez-lacueva-122511/",
-      "UrlToImage": "https://www.formulatv.com/images/articulos/122000/122511_KE1Y3047qU9mzat8kvsNioFWRBcP52egJ-hog.jpg",
-      "PublishedAt": "2023-05-11T15:36:41Z",
-      "Content": "Laura Gómez-Lacueva murió en marzo de 2023 a los 48 años a causa de un cáncer. La actriz de 'El pueblo' y 'La que se avecina' dejó consternados a todos sus compañeros y dejó varias incógnitas en el a… [+1835 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "\"No puedo saber si me voy a poner peor\". Christina Applegate quiere abandonar su carrera como actriz debido a su enfermedad",
-      "Description": "Christina Applegate, actriz de 'Dead to me' y 'Malas madres', ha declarado que seguramente no vuelva a actuar ante las cámaras debido a que padece esclerosis múltiple.\n<!-- BREAK 1 -->\n\"Esto es una enfermedad progresiva\"\n\nApplegate comunicó en 2021 que había …",
-      "Url": "https://www.espinof.com/actores-y-actrices/no-puedo-saber-me-voy-a-poner-peor-christina-applegate-quiere-abandonar-su-carrera-como-actriz-debido-a-su-enfermedad",
-      "UrlToImage": "https://i.blogs.es/62b0bd/christina-applegate/840_560.jpeg",
-      "PublishedAt": "2023-05-11T15:31:40Z",
-      "Content": "Christina Applegate, actriz de 'Dead to me' y 'Malas madres', ha declarado que seguramente no vuelva a actuar ante las cámaras debido a que padece esclerosis múltiple.\r\nApplegate comunicó en 2021 que… [+1514 chars]"
     }
   ]
 }
