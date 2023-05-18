@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.2.0a15",
+      "Description": "2023.2.0a15\n\n May 17, 2023\n \n unityhub://2023.2.0a15/e4d2a7e41f40\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CPP…",
+      "Url": "https://unity.com/releases/editor/alpha/2023.2.0a15",
+      "UrlToImage": null,
+      "PublishedAt": "2023-05-17T20:05:43Z",
+      "Content": "<li>2D: Enabled generating a default Sprite rect for textures that are too small to be tesselated.\r\n</li><li>2D: Enabled showing the Apply/revert dialog to users if there are data changes in Sprite E… [+126676 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/04/Lessons-in-Chemistry-e1682019193963.jpg?resize=1200,630",
       "PublishedAt": "2023-04-20T21:20:00Z",
       "Content": "Apple TV+ has dropped the official Lessons in Chemistry teaser trailer for the upcoming series adaptation of Bonnie Garmus novel of the same name. The video features Oscar winner Brie Larson as a sci… [+1794 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Apple TV+ Cancels 2 TV Shows in 2023, Renews 4 Fan Faves (So Far)",
-      "Description": "Apple TV+ has been slowly making their renewal and cancellation decisions for 2023. The streaming service has not often canceled their original content. So far this year, only 2 shows have been given the axe. One of those cancellations was just announced. Kee…",
-      "Url": "http://www.justjared.com/2023/04/20/apple-tv-cancels-2-tv-shows-in-2023-renews-4-fan-faves-so-far/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/04/apple-tv-renewals1.jpg",
-      "PublishedAt": "2023-04-20T13:05:48Z",
-      "Content": "Apple TV+ has been slowly making their renewal and cancellation decisions for 2023.\r\nThe streaming service has not often canceled their original content. So far this year, only 2 shows have been give… [+161 chars]"
     }
   ]
 }
