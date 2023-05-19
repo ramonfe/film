@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1073,
+  "TotalResults": 1074,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "Austrian actor Helmut Berger, movie star in the 1960s and 1970s, dies at 78",
+      "Description": "Austrian-born actor Helmut Berger, a European movie star in the 1960s and 1970s who rose to prominence with roles in films by Italian director Luchino Visconti, has died",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/austrian-actor-helmut-berger-movie-star-1960s-1970s-99425609",
+      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "PublishedAt": "2023-05-18T13:51:05Z",
+      "Content": "BERLIN -- Austrian-born actor Helmut Berger, a European movie star in the 1960s and 1970s who rose to prominence with roles in films by Italian director Luchino Visconti, died Thursday, his agent sai… [+960 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://netstorage-legit.akamaized.net/images/3228634f767e6749.jpg",
       "PublishedAt": "2023-05-16T15:39:13Z",
       "Content": "<ul><li>Popular actor, Odunlade Adekola, has raised prayers for himself and his colleagues over the death plaguing the movie industry</li><li>This comes amid the report of the movie industry mourning… [+2645 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Victoria Edel",
-      "Title": "Blake Lively Brings \"It Ends With Us\" to Life in the First Set Photo",
-      "Description": "The movie adaptation of Colleen Hoover's runaway bestseller \"It Ends With Us\" is filming now. On May 15, Blake Lively, who stars in the film as Lily, was photographed on set in New York City in costume. She has the character's bright-red hair and is wearing a…",
-      "Url": "https://www.popsugar.com/entertainment/it-ends-with-us-set-photos-49174551",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/3uU93apvhR9p6jEcgKyFbkoKRWA/1x67:2193x1218/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/05/16/704/n/1922283/7a8a9ec66463a744210129.76274069_.jpg",
-      "PublishedAt": "2023-05-16T15:20:03Z",
-      "Content": "The movie adaptation of Colleen Hoover's runaway bestseller \"It Ends With Us\" is filming now. On May 15, Blake Lively, who stars in the film as Lily, was photographed on set in New York City in costu… [+1455 chars]"
     }
   ]
 }
