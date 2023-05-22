@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1001,
+  "TotalResults": 1002,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Lindsay Kornick",
+      "Title": "Robert De Niro compares new 'evil' character to Donald Trump: 'That guy is stupid'",
+      "Description": "Actor Robert De Niro compared his latest movie role as a real-life killer to former President Donald Trump at the Cannes Film Festival, calling them both “evil.\"",
+      "Url": "https://www.foxnews.com/media/robert-de-niro-compares-new-evil-character-donald-trump-guy-stupid",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/GettyImages-1488694432.jpg",
+      "PublishedAt": "2023-05-21T23:00:03Z",
+      "Content": "At the Cannes Film Festival, Robert De Niro suggested that former President Trump could be comparable to his latest movie role as a real-life murderer and criminal.\r\nDe Niros latest film \"Killers of … [+3062 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/c5f1eb1e7580933a/og.webp",
       "PublishedAt": "2023-05-18T14:24:14Z",
       "Content": "Veteran Spanish actor Ana Torrent (Thesis, The Other Boleyn Girl, El nido) was around five-years-old when she was cast in her first movie, the landmark drama The Spirit of the Beehive, by maverick fi… [+295 chars]"
-    },
-    {
-      "Source": {
-        "Id": "independent",
-        "Name": "Independent"
-      },
-      "Author": "Via AP news wire",
-      "Title": "Austrian actor Helmut Berger, movie star in the 1960s and 1970s, dies at 78",
-      "Description": "Austrian-born actor Helmut Berger, a European movie star in the 1960s and 1970s who rose to prominence with roles in films by Italian director Luchino Visconti, has died",
-      "Url": "https://www.independent.co.uk/news/world/europe/ap-luchino-visconti-berlin-italian-la-dolce-vita-b2341493.html",
-      "UrlToImage": "https://static.independent.co.uk/2023/05/18/15/Austria_Obit_Berger_98956.jpg?quality=75&width=1200&auto=webp",
-      "PublishedAt": "2023-05-18T14:22:56Z",
-      "Content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nAustrian-born actor Helmut Berger, a European movie … [+1097 chars]"
     }
   ]
 }
