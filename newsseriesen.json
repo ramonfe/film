@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 105,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Worldsoccertalk.com"
+      },
+      "Author": "Christopher Harris",
+      "Title": "MLS 360 viewership numbers available for first time",
+      "Description": "Both Apple and Major League Soccer (MLS) are tightlipped on sharing any metrics about viewership of its MLS Season Pass streaming service. In fact, no data has been made available since its launch. However, despite trying to keep performance numbers secret (e…",
+      "Url": "https://worldsoccertalk.com/news/mls-360-viewership-numbers-available-for-first-time-20230522-WST-434033.html",
+      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230522_WST_434033_mls-360-on-youtube.jpg[ampersand]width=1200[ampersand]height=740",
+      "PublishedAt": "2023-05-22T14:00:00Z",
+      "Content": "Both Apple and Major League Soccer (MLS) are tightlipped on sharing any metrics about viewership of its MLS Season Pass streaming service. In fact, no data has been made available since its launch. H… [+2322 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/04/apple-tv-renewals1.jpg",
       "PublishedAt": "2023-04-25T13:08:35Z",
       "Content": "Yesterday was a big decision day for AppleTV+: the streaming service canceled one TV show and renewed another.\r\nThe streaming service has not often canceled their original content. So far this year, … [+142 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Coleman Spilde",
-      "Title": "‘Ghosted’ Is Ana de Armas’ Latest in a Strange, Fascinating String of Flops",
-      "Description": "Reuters\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are roughly 47,000—oh, wait, a new Netflix Original just dropped; make that 47,001—TV …",
-      "Url": "https://www.thedailybeast.com/obsessed/ghosted-is-ana-de-armas-latest-in-a-strange-string-of-flops",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_405,w_720,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1682414759/ana_i4wjtr",
-      "PublishedAt": "2023-04-25T08:54:18Z",
-      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+6297 chars]"
     }
   ]
 }
