@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 163,
+  "TotalResults": 164,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La censura de lo políticamente correcto crucifica 'La Vida de Brian' medio siglo después",
+      "Description": "No solo fue un éxito en taquilla cuando se estrenó en 1979, sino que ‘ La vida de Brian ’ se convirtió pronto en una película de culto. Considerada por la crítica una de las mejores comedias de la historia del cine, cuenta la historia de Brian, el hijo de un …",
+      "Url": "https://www.abc.es/cultura/censura-politicamente-correcto-crucifica-vida-brian-medio-20230523201251-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2023/05/23/vida-de-brian-uno-U64161114824QKC-1024x512@abc.jpg",
+      "PublishedAt": "2023-05-23T18:12:53Z",
+      "Content": "No solo fue un éxito en taquilla cuando se estrenó en 1979, sino que La vida de Brian se convirtió pronto en una película de culto. Considerada por la crítica una de las mejores comedias de la histor… [+587 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/f38d9c/dianna-agron-/840_560.jpeg",
       "PublishedAt": "2023-05-06T19:01:00Z",
       "Content": "Especialmente en su temporada 1, 'Glee'se convirtió en la serie del momento y catapultó a gran parte de su reparto a la fama. No obstante, prácticamente ninguno los actores ha conseguido volver a alc… [+3221 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Digital Trends"
-      },
-      "Author": "Luis Miguel Paredes",
-      "Title": "Las películas más esperadas del verano 2023",
-      "Description": "En términos de los estrenos de cine de verano, la cartelera 2023 tiene producciones tan relevantes como Fast X, Barbie, Flash y Tortugas Ninja: caos mutante.",
-      "Url": "https://es.digitaltrends.com/entretenimiento/estrenos-mas-esperados/",
-      "UrlToImage": "https://es.digitaltrends.com/wp-content/uploads/2023/05/peliculas-mas-esperadas.jpg?resize=1200%2C630&p=1",
-      "PublishedAt": "2023-05-06T19:00:01Z",
-      "Content": "La temporada estival que está por comenzar en el hemisferio norte tiene producciones interesantes a seguir. Esta selección habla de la cartelera 2023, con los estrenos de cine de verano imperdibles, … [+7468 chars]"
     }
   ]
 }
