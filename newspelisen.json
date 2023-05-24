@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1187,
+  "TotalResults": 1191,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "FRANCE 24 English"
+      },
+      "Author": "FRANCE24",
+      "Title": "Hanks, Johansson join A-list invasion at Cannes",
+      "Description": "The typically quirky movie is set in a remote desert town where a group of child geniuses gather for a science competition that is interrupted by an alien visitor.\n\nIt required a full-sized coach to bring the star-packed cast to the red carpet at the Cannes F…",
+      "Url": "https://www.france24.com/en/live-news/20230523-hanks-johansson-join-a-list-invasion-at-cannes",
+      "UrlToImage": "https://s.france24.com/media/display/5d247af0-f98e-11ed-93a9-005056a90321/w:1280/p:16x9/01fa8571c9293f6405eb634e7b1a135f058419cd.jpg",
+      "PublishedAt": "2023-05-23T17:22:17Z",
+      "Content": "Cannes (France) (AFP) A literal bus-load of Hollywood A-listers arrived in Cannes on Tuesday, including Scarlett Johansson and Tom Hanks, for the premiere of Wes Anderson's strange blend of sci-fi an… [+2784 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "KOAT New Mexico"
+      },
+      "Author": null,
+      "Title": "New Mexico movie theater to give $1.50 tickets during the summer",
+      "Description": "One New Mexico theater will be giving $1.50 movie tickets all summer long.",
+      "Url": "https://www.koat.com/article/new-mexico-summer-movie-tickets-cinemark/43978007",
+      "UrlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-172871463-646cf3b2570cb.jpg?crop=1.00xw:0.846xh;0,0.154xh&resize=1200:*",
+      "PublishedAt": "2023-05-23T17:22:05Z",
+      "Content": "Cinemark has announced $1.50 movie tickets for parents and kids to see a film during the summer. \r\nAccording to the movie chain, the Century Rio 24 will offer the discounted tickets in Albuquerque. \r… [+154 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Fletcher Peters",
+      "Title": "New on Amazon’s Prime Video June 2023: ‘With Love,’ ‘Medellin,’ and More",
+      "Description": "Photo Illustration by Luis Rendon/Elizabeth Brockway/The Daily Beast/Amazon\r\nAmazon’s Prime Video is heating up this June, with a handful of new titles to spice things up this summer. The platform’s exciting rom-com series With Love is set to return, as well …",
+      "Url": "https://www.thedailybeast.com/obsessed/new-on-amazons-prime-video-june-2023",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1684431270/230515-coming-may-amazon-hero_hrfo7h",
+      "PublishedAt": "2023-05-23T17:16:49Z",
+      "Content": "Amazons Prime Video is heating up this June, with a handful of new titles to spice things up this summer. The platforms exciting rom-com series With Love is set to return, as well as a handful of oth… [+6386 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "WWD"
+      },
+      "Author": "Kristopher Fraser",
+      "Title": "Oprah Winfrey Encourages Purple Monochromatic Dressing for ‘The Color Purple’ Movie Release",
+      "Description": "The film starring Fantasia Barrino will premiere on Dec. 25.",
+      "Url": "https://wwd.com/pop-culture/celebrity-news/oprah-winfrey-the-color-purple-trailer-1235661098/",
+      "UrlToImage": "https://wwd.com/wp-content/uploads/2023/01/oprah-1619-project-premiere-red-carpet.jpg?w=1024",
+      "PublishedAt": "2023-05-23T17:03:50Z",
+      "Content": "Oprah Winfrey took to Instagram on Monday to reveal the trailer for the highly anticipated remake of “The Color Purple” starring Fantasia Barrino. \r\n“The Color Purple” is adapted from the Broadway ve… [+1592 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -201,19 +253,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Joaquin Phoenix to Lead Gay Romantic Drama From Todd Haynes",
-      "Description": "Nearly a decade since the theatrical release of the acclaimed drama Carol, director Todd Haynes has finally found his next gay romantic drama project. In a recent interview with Les Inrockuptibles, Haynes has confirmed that he’s currently developing a romance…",
-      "Url": "https://www.comingsoon.net/movies/news/1290219-joaquin-phoenix-gay-romantic-drama",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/joaquin-phoenix-header.png?resize=1200,630",
-      "PublishedAt": "2023-05-23T14:30:00Z",
-      "Content": "Nearly a decade since the theatrical release of the acclaimed drama Carol, director Todd Haynes has finally found his next gay romantic drama project. In a recent interview with Les Inrockuptibles, H… [+1249 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Nintendo Life"
       },
       "Author": "Ollie Reynolds",
@@ -223,6 +262,19 @@
       "UrlToImage": "https://images.nintendolife.com/0fab9337975eb/1280x720.jpg",
       "PublishedAt": "2023-05-23T14:30:00Z",
       "Content": "Subscribe to Nintendo Life on YouTube\r\n2023 is set to be a big year for Spider-Man, with the hugely anticipated Spider-Man: Across the Spider-Verse launching in June, followed by the sequel to the ex… [+944 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "Joaquin Phoenix to Lead Gay Romantic Drama From Todd Haynes",
+      "Description": "Nearly a decade since the theatrical release of the acclaimed drama Carol, director Todd Haynes has finally found his next gay romantic drama project. In a recent interview with Les Inrockuptibles, Haynes has confirmed that he’s currently developing a romance…",
+      "Url": "https://www.comingsoon.net/movies/news/1290219-joaquin-phoenix-gay-romantic-drama",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/joaquin-phoenix-header.png?resize=1200,630",
+      "PublishedAt": "2023-05-23T14:30:00Z",
+      "Content": "Nearly a decade since the theatrical release of the acclaimed drama Carol, director Todd Haynes has finally found his next gay romantic drama project. In a recent interview with Les Inrockuptibles, H… [+1249 chars]"
     },
     {
       "Source": {
@@ -1250,58 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/802f4db26d7eb790/og.webp",
       "PublishedAt": "2023-05-19T21:12:18Z",
       "Content": "Not every movie ending needs explaining, but judging from the theater-wide Whaaaaa? noises and subsequent buzz of baffled conversation that greeted the end of Fast X in the screening where I saw it, … [+301 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slickdeals.net"
-      },
-      "Author": "slickerFriend",
-      "Title": "Free Theater Tickets for the Sound of Freedom movie (July 4th)",
-      "Description": "Angel Studios is launching the long awaited Sound of Freedom movie to theaters starting July 4th (Staring Jim Caviezel from Count of Monte Cristo, Frequency, Deja Vu, Person of Interest, etc). \n \nFans ...",
-      "Url": "https://slickdeals.net/f/16662536-free-theater-tickets-for-the-sound-of-freedom-movie-july-4th",
-      "UrlToImage": "https://static.slickdealscdn.com/attachment/1/8/6/8/1/1/0/13588175.attach",
-      "PublishedAt": "2023-05-19T20:56:02Z",
-      "Content": "Angel Studios is launching the long awaited Sound of Freedom movie to theaters starting July 4th (Staring Jim Caviezel from Count of Monte Cristo, Frequency, Deja Vu, Person of Interest, etc).Fans an… [+215 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Here’s How Dwayne Johnson Returns to the Family in 'Fast X' - GQ",
-      "Description": "Here’s How Dwayne Johnson Returns to the Family in 'Fast X'GQ Review: Is 'Fast X' worth a drive to the theater?KSL.com 'Fast X' Review: Drivers Wanted. Again.The New York Times 'Fast X' Review: A Movie That Feels Like a Head InjuryVulture What to Watch This W…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=170982213",
-      "UrlToImage": null,
-      "PublishedAt": "2023-05-19T20:53:12Z",
-      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Lan Pitts",
-      "Title": "Disney Plus Won't Delete This Title After All, Thanks To An Online Campaign",
-      "Description": "The Howard Ashman-focused documentary, simply called Howard, has been on Disney+ since 2021 and was slated for removal--until fans rallied together and the company has now reversed its decision, Deadline reports. Disney released a slew of titles that were sch…",
-      "Url": "https://www.gamespot.com/articles/disney-plus-wont-delete-this-title-after-all-thanks-to-an-online-campaign/1100-6514399/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15976769/4140871-image.jpg",
-      "PublishedAt": "2023-05-19T20:32:00Z",
-      "Content": "The Howard Ashman-focused documentary, simply called Howard, has been on Disney+ since 2021 and was slated for removal--until fans rallied together and the company has now reversed its decision, Dead… [+1423 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Amusing Trailer for THEATER CAMP - \"These People Are Really Weird\"",
-      "Description": "Searchlight Pictures has released a trailer for an upcoming indie comedy Theater Camp. This movie was getting a lot of buzz at the Sundance Film Festival earlier this year, but I didn’t get a chance to see it. It looks a funny movie! Ben Platt and Molly Gordo…",
-      "Url": "https://geektyrant.com/news/amusing-trailer-for-theater-camp-these-people-are-really-weird",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64663cabd73a146e8f86a5a1/1684528213289/amusing-trailer-for-theater-camp-these-people-are-really-weird.jpg?format=1500w",
-      "PublishedAt": "2023-05-19T20:30:00Z",
-      "Content": "Searchlight Pictures has released a trailer for an upcoming indie comedy Theater Camp. This movie was getting a lot of buzz at the Sundance Film Festival earlier this year, but I didnt get a chance t… [+794 chars]"
     }
   ]
 }
