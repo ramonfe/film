@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 108,
+  "TotalResults": 110,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Warner Bros.' Max streaming service launches with new $20 4K tier",
+      "Description": "HBO Max is completing its transformation into Warner Bros. Discovery's \"Max\" streaming service today, and it's launching with a new tier especially made for 4K ultra HD viewing. The Ultimate Ad-Free tier will set you back $20 a month or $200 if you're paying …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171004255",
+      "UrlToImage": null,
+      "PublishedAt": "2023-05-23T09:33:51Z",
+      "Content": "HBO Max is completing its transformation into Warner Bros. Discovery's \"Max\" streaming service today, and it's launching with a new tier especially made for 4K ultra HD viewing. The Ultimate Ad-Free … [+1684 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Mariella Moon",
+      "Title": "Warner Bros.' Max streaming service launches with new $20 4K tier",
+      "Description": "HBO Max is completing its transformation into Warner Bros. Discovery's \"Max\" streaming service today, and it's launching with a new tier especially made for 4K ultra HD viewing. The Ultimate Ad-Free tier will set you back $20 a month or $200 if you're paying …",
+      "Url": "https://www.engadget.com/warner-bros-max-streaming-service-launches-with-new-20-4k-tier-092756959.html",
+      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/oxNWi0fgn36414JUmr.j3g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/15b1a750-f944-11ed-bfd7-24e1fe689459.cf.jpg",
+      "PublishedAt": "2023-05-23T09:27:56Z",
+      "Content": "HBO Max is completing its transformation into Warner Bros. Discovery's \"Max\" streaming service today, and it's launching with a new tier especially made for 4K ultra HD viewing. The Ultimate Ad-Free … [+1525 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://i.dailymail.co.uk/1s/2023/04/26/19/69921659-0-Netflix_s_most_terrifying_series_have_been_REVEALED_From_superna-a-23_1682533837340.jpg",
       "PublishedAt": "2023-04-26T19:32:21Z",
       "Content": "Netflix fans will be hit by yet another shake-up next month, with a slew of beloved films and TV shows set to leave the streaming service.\r\nViewers will have a limited number of days to tune into a l… [+4080 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.1.0b14",
-      "Description": "2023.1.0b14\n\n April 26, 2023\n \n unityhub://2023.1.0b14/3321931063a3\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2C…",
-      "Url": "https://unity.com/releases/editor/beta/2023.1.0b14",
-      "UrlToImage": null,
-      "PublishedAt": "2023-04-26T17:38:33Z",
-      "Content": "<li>2D: Added 2D Triangle default asset to replace missing place holder.\r\n(DANB-125)\r\n</li><li>2D: Added editor assembly reference to Unity.RenderPipelines.Universal.2D.Runtime.\r\n</li><li>2D: Disable… [+170357 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Andrew Wyrich",
-      "Title": "Newsletter: Airbnb hidden camera nightmare goes viral",
-      "Description": "Hello fellow citizens of the internet! Andrew here. Welcome to today's edition of web_crawlr. \n\n\nOur top stories today are about: A woman's viral video recounting how a scammer used AI to mimic voices, an Airbnb customer finding a hidden camera in their renta…",
-      "Url": "https://www.dailydot.com/unclick/daily-dot-newsletter-web-crawlr-04-26-2023/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/04/Daily-Dot-Newsletter-Web-Crawlr-04-26-2023.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2023-04-26T15:30:00Z",
-      "Content": "Hello fellow citizens of the internet! Andrew here. Welcome to today’s edition of web_crawlr. \r\nOur top stories today are about: A woman’s viral video recounting how a scammer used AI to mimic voices… [+3986 chars]"
     }
   ]
 }
