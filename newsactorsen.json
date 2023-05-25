@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1026,
+  "TotalResults": 1027,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Sarah Zaman)",
+      "Title": "India’s Hosting of G20 Meeting in Disputed Kashmir Raises Questions of International Acceptance",
+      "Description": "Tranquil rides on the scenic Dal Lake in intricately carved wooden shikara boats. Traditional dance to the beat of local music. A performance by actor Raj [Ram] Charan to “Naatu Naatu,” this year’s Oscar-winning song featuring the Indian movie star.  \n\n\nAll a…",
+      "Url": "https://www.voanews.com/a/india-s-hosting-of-g20-meeting-in-disputed-kashmir-raises-questions-of-international-acceptance/7106605.html",
+      "UrlToImage": "https://gdb.voanews.com/C146FED2-7A76-4986-8C69-1FAD55DF4718.jpg",
+      "PublishedAt": "2023-05-24T04:05:06Z",
+      "Content": "Islamabad  Tranquil rides on the scenic Dal Lake in intricately carved wooden shikara boats. Traditional dance to the beat of local music. A performance by actor Raj [Ram] Charan to Naatu Naatu, this… [+5491 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
       "PublishedAt": "2023-05-21T13:19:50Z",
       "Content": "I wonder: \"How it happens that people trust someone or something at all?\" (in the context of: how can we ever get to trust an AI smarter than us?). \r\nEpistemic status: this is just a dump of my thoug… [+7120 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "looper.com",
-      "Title": "Deadpool: Ryan Reynolds Credits Hate Mail & Angry Tweets For Making The Movie Happen",
-      "Description": "'Deadpool' star Ryan Reynolds credits the hate mail and angry tweets of fans for making the first movie happen. Here's what the actor has to say on the matter. #ryanreynolds",
-      "Url": "https://biztoc.com/x/959218daa57c4198",
-      "UrlToImage": "https://c.biztoc.com/p/959218daa57c4198/og.webp",
-      "PublishedAt": "2023-05-21T11:36:05Z",
-      "Content": "\"Deadpool\" star Ryan Reynolds credits the hate mail and angry tweets of fans for making the first movie happen. Here's what the actor has to say on the matter. \r\n#ryanreynolds\r\n This story appeared o… [+24 chars]"
     }
   ]
 }
