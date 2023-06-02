@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 110,
+  "TotalResults": 106,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "AppleInsider"
+      },
+      "Author": "news@appleinsider.com (William Gallagher)",
+      "Title": "Apple TV+ gains UK subscribers as Netflix, Disney+ dip",
+      "Description": "New figures from the UK's television ratings service says while most other streaming services saw small declines, Apple TV+ had a slight growth in the country.In June 2022, the UK's Broadcasters' Audience Research Board (BARB) put the number of UK homes with …",
+      "Url": "https://appleinsider.com/articles/23/06/01/apple-tv-gains-uk-subscribers-as-netflix-disney-dip",
+      "UrlToImage": "https://photos5.appleinsider.com/gallery/48175-94118-47459-92623-45958-89429-000-lead-Apple-TV+-xl-xl-xl.jpg",
+      "PublishedAt": "2023-06-01T10:30:32Z",
+      "Content": "New figures from the UK's television ratings service says while most other streaming services saw small declines, Apple TV+ had a slight growth in the country.\r\nIn June 2022, the UK's Broadcasters' A… [+1198 chars]"
+    },
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Annabel Nugent",
+      "Title": "New on Apple TV+ this June: Every TV show landing on streaming service",
+      "Description": "From a Tom Holland thriller to a Rose Byrne comedy, here are the titles arriving on Apple TV+ next month",
+      "Url": "https://www.independent.co.uk/arts-entertainment/tv/news/apple-tv-new-series-june-2023-b2349477.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/05/26/13/hijack.jpeg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-06-01T08:25:04Z",
+      "Content": "Sign up to our free IndyArts newsletter for all the latest entertainment news and reviews\r\nSign up to our free IndyArts newsletter\r\nIts June and Apple TV + subscribers have plenty to look forward to.… [+4176 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Anonymous",
+      "Title": "2023.1.0b19",
+      "Description": "2023.1.0b19\n\n May 31, 2023\n \n unityhub://2023.1.0b19/3694611ed472\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CPP…",
+      "Url": "https://unity.com/releases/editor/beta/2023.1.0b19",
+      "UrlToImage": null,
+      "PublishedAt": "2023-06-01T06:21:01Z",
+      "Content": "<li>2D: Added 2D Triangle default asset to replace missing place holder.\r\n(DANB-125)\r\n</li><li>2D: Added editor assembly reference to Unity.RenderPipelines.Universal.2D.Runtime.\r\n</li><li>2D: Disable… [+193646 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.2.0a17",
+      "Description": "2023.2.0a17\n\n May 31, 2023\n \n unityhub://2023.2.0a17/0c0af4eccc76\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CPP…",
+      "Url": "https://unity.com/releases/editor/alpha/2023.2.0a17",
+      "UrlToImage": null,
+      "PublishedAt": "2023-05-31T19:36:57Z",
+      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+144060 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1250,58 +1302,6 @@
       "UrlToImage": "https://static.dw.com/image/65488197_6.jpg",
       "PublishedAt": "2023-05-02T08:38:00Z",
       "Content": "Thousands of film and television writers in Hollywood are set to go on strike following a failure to reach an agreement with major studios over pay and working conditions, especially in the streaming… [+3126 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (Reuters)",
-      "Title": "Hollywood Writers, Studios Talk as Midnight Strike Deadline Looms",
-      "Description": "Negotiators for Hollywood writers and film and television studios engaged in 11th-hour contract talks on Monday to try to avert a strike that would disrupt TV production across an industry grappling with seismic changes. \n\n\nThe Writers Guild of America (WGA) …",
-      "Url": "https://www.voanews.com/a/hollywood-writers-studios-talk-as-midnight-strike-deadline-looms/7074673.html",
-      "UrlToImage": "https://gdb.voanews.com/a5f3ab27-214d-4e4b-b88f-67d5aae404e2_cx0_cy10_cw0_w1200_r1.jpg",
-      "PublishedAt": "2023-05-02T01:08:09Z",
-      "Content": "Los Angeles  Negotiators for Hollywood writers and film and television studios engaged in 11th-hour contract talks on Monday to try to avert a strike that would disrupt TV production across an indust… [+4371 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Coleman Spilde",
-      "Title": "Will Marvel Be Able to Survive James Gunn’s Departure?",
-      "Description": "Marvel Studios\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are roughly 47,000—oh, wait, a new Netflix Original just dropped; make that 47,…",
-      "Url": "https://www.thedailybeast.com/obsessed/will-marvel-be-able-to-survive-james-gunns-departure",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1682976320/050223-seeskip-hero_tkf04t",
-      "PublishedAt": "2023-05-01T23:00:19Z",
-      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+6260 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thewrap.com",
-      "Title": "‘The Diplomat’ Lands at the Top of Streaming’s Most-Watched",
-      "Description": "A new Netflix show on political themes dominated the latest rankings, while “Ghosted” and “Ted Lasso” delivered much-needed wins for Apple TV+ The Wrap Report tracks the most-watched programs across linear TV and streaming, according to viewership trends coll…",
-      "Url": "https://biztoc.com/x/8bd18ca139d78446",
-      "UrlToImage": "https://c.biztoc.com/p/8bd18ca139d78446/og.webp",
-      "PublishedAt": "2023-05-01T21:38:06Z",
-      "Content": "A new Netflix show on political themes dominated the latest rankings, while Ghosted and Ted Lasso delivered much-needed wins for Apple TV+The Wrap Report tracks the most-watched programs across linea… [+296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Njera Perkins",
-      "Title": "A Guide to the 2023 Writers' Strike and How It May Affect Your Favorite TV Shows",
-      "Description": "A writers' strike is looming in Hollywood and it could disrupt the future of TV and movies as we know it. For the past few months, ongoing negotiations between the Writers Guild of America (WGA) and the Alliance of Motion Picture and Television Producers (AMP…",
-      "Url": "https://www.popsugar.com/entertainment/2023-writers-strike-49159336",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/xD8WQRlFwZzYq-ft_yTDH4IS3uA/0x182:2990x1752/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/05/01/794/n/1922283/db0e2247644fff39286658.54605526_.jpg",
-      "PublishedAt": "2023-05-01T20:30:03Z",
-      "Content": "A writers' strike is looming in Hollywood and it could disrupt the future of TV and movies as we know it. For the past few months, ongoing negotiations between the Writers Guild of America (WGA) and … [+5759 chars]"
     }
   ]
 }
