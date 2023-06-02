@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1028,
+  "TotalResults": 1029,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Rocío Muñoz-Ledo",
+      "Title": "Kim Cattrall sí volverá a interpretar a Samantha Jones en la nueva versión de \"Sex and the City\"",
+      "Description": "Un portavoz de HBO Max confirmó a CNN que Cattrall rodó una escena como Samantha Jones en marzo para la continuación de la exitosa serie \"And Just Like That...\".",
+      "Url": "https://cnnespanol.cnn.com/2023/05/31/kim-cattrall-volvera-samantha-jones-nueva-version-sex-and-the-city-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/05/kim-cattrall-and-just-like-that-sex-city-escena.jpg?quality=100&strip=info",
+      "PublishedAt": "2023-05-31T23:56:08Z",
+      "Content": "Kim Cattrall dice que no tuvo amigas en \"Sex and the City\" 0:53\r\n(CNN) -- Abróchense los cinturones, fans de \"Sex and the City\", porque Kim Cattrall por fin está de vuelta.\r\nUn portavoz de HBO Max co… [+2297 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2023/05/29/mario-biondo-rquel-coche-U35055255185slx-600x300@abc.jpg",
       "PublishedAt": "2023-05-30T00:13:01Z",
       "Content": "Hoy se cumplen 10 años de la muerte de Mario Biondo. Y aún las circunstancias que rodean su fallecimiento son todo un misterio. El entonces marido de Raquel Sánchez Silva fue hallado semiahorcado en … [+4214 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturacolectiva.com"
-      },
-      "Author": "Elizabeth Santana",
-      "Title": "The Idol, la serie que hará cuestionarte si también deseas cosas que no te hacen bien",
-      "Description": "Sam Levinson, creador de Euphoria, Lily-Rose Depp (hija de Johnny Depp), y Abel Tesfaye (The Weeknd), juntos en The Idol, la nueva apuesta de HBO Max este 4 de junio.",
-      "Url": "https://culturacolectiva.com/cine-y-tv/the-idol-la-serie-que-hara-cuestionarte-si-tambien-deseas-cosas-que-no-te-hacen-bien/",
-      "UrlToImage": "https://i0.wp.com/culturacolectiva.com/wp-content/uploads/2023/05/The-Idol-portada.jpeg",
-      "PublishedAt": "2023-05-29T23:32:20Z",
-      "Content": "Acéptalo, todos deseamos cosas que no nos hace bien. Lily-Rose Depp (la hija de Johnny Depp) y Abel Tesfaye (The Weeknd), bajo la dirección de Sam Levinson (creador de la serie Euphoria), son los tre… [+1530 chars]"
     }
   ]
 }
