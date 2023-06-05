@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 819,
+  "TotalResults": 820,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Natalia Trzenko",
+      "Title": "Murió Barry Newman, el actor de la recordada serie Petrocelli",
+      "Description": "Gracias a sus papeles en la serie y en la película Carrera contra el destino, el intérprete nacido en 1938 se transformó en un ícono de los años setenta",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/murio-barry-newman-el-actor-de-la-recordada-serie-petrocelli-nid04062023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/N03Zh2t6m-_ltF-srs4GWJf38gg=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/Y6YN6WR6N5H5RO3KLWRMNIRWYE.JPG",
+      "PublishedAt": "2023-06-04T19:44:22Z",
+      "Content": "Barry Newman, el actor norteamericano reconocido en todo el mundo por haber encarnado al abogado Petrocelli en la serie del mismo nombre y al intenso Kowalski en la película de culto Carrera contra e… [+4427 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/27de98/dl_u375544_009/840_560.jpeg",
       "PublishedAt": "2023-05-31T07:00:38Z",
       "Content": "Clint Eastwood cumple hoy 93 años y si algo sabemos de él es que va a recibir más regalos que cualquier niño en el día de Reyes dada la multitudinaria familia con la que cuenta. El mítico cowboy siem… [+5233 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "A. Richart",
-      "Title": "Músico, poeta y actor de la BBC: ¿dónde hemos visto a Gregorio de 'La Promesa'?",
-      "Description": "El mayordomo de la serie diaria de La 1 de TVE, encarnado por Bruno Lastra, mantiene una larga trayectoria en escenarios y en pantalla pequeña, tanto en España como en Reino Unido",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2023-05-31/la-promesa-serie-tve1-donde-hemos-visto-gregorio-bruno-lastra_3636590/",
-      "UrlToImage": "https://images.ecestaticos.com/fVinI4fqkei4JFRw0BlyrsddNEM=/0x0:1600x901/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/908/2c6/e51/9082c6e51931f0bd0ea966619fb1fcb1.jpg",
-      "PublishedAt": "2023-05-31T03:00:00Z",
-      "Content": "El mayordomo jefe Gregorio Castillo llegó a La Promesa más tarde que el resto de sus compañeros. A la serie estrenada el pasado enero en el canal público de La 1 de Televisión Española, se incorporab… [+4482 chars]"
     }
   ]
 }
