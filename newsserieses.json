@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1020,
+  "TotalResults": 1021,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Manifiesto 4, parte 2: la serie abandonada que Netflix recuperó y convirtió en un éxito publicó su final",
+      "Description": "Llegaron a la plataforma los últimos 10 episodios de la temporada final de la producción protagonizada por Josh Dallas que se volvió tendencia",
+      "Url": "https://www.lanacion.com.ar/espectaculos/manifiesto-4-parte-2-la-serie-abandonada-que-netflix-recupero-y-convirtio-en-un-exito-publico-su-nid04062023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/h2-di-5LkHhmIvprO8BwHK_5Q3Q=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/WNZ4V6TRV5HKXCSJL55M7QN6LM.png",
+      "PublishedAt": "2023-06-04T21:19:45Z",
+      "Content": "El final que se avecina es, sin dudas, el episodio más ambicioso que jamás hayamos filmado, dijo Jeff Rake a Entertainment Weekly.Con estas palabras, el creador de la serie Manifiesto, que recienteme… [+3196 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://s1.eestatic.com/2023/06/01/series/netflix/768183480_233614493_1200x630.jpg",
       "PublishedAt": "2023-06-01T10:39:16Z",
       "Content": "Aunque apenas haya resonado entre las últimas novedades de Netflix, la plataforma acaba de estrenar 13 días, una docuserie de tres episodios sobre el complejo rescate de Julen Roselló, el pequeño de … [+2982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "The Idol y las otras 10 series con peores críticas de todos los tiempos",
-      "Description": "Sobre el papel, The Idol debería haber funcionado como un tiro. Sam Levinson, creador de Euphoria y director de Malcolm & Marie, une sus fuerzas a las de Abel “The Weeknd” Tesfaye para presentarnos una serie de prestigio sobre una ambiciosa estrella del pop (…",
-      "Url": "https://www.revistagq.com/articulo/peores-series-de-la-historia-the-idol",
-      "UrlToImage": "https://media.revistagq.com/photos/647857364c1636d5edee1c8b/16:9/w_1280,c_limit/2.png",
-      "PublishedAt": "2023-06-01T10:32:52Z",
-      "Content": "Sobre el papel, The Idol debería haber funcionado como un tiro. Sam Levinson, creador de Euphoria y director de Malcolm &amp; Marie, une sus fuerzas a las de Abel The Weeknd Tesfaye para presentarnos… [+1468 chars]"
     }
   ]
 }
