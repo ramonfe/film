@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1051,
+  "TotalResults": 1052,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Dan Heching",
+      "Title": "Michael Keaton says he and director Tim Burton are doing 'Beetlejuice 2' 'exactly like we did the first movie'",
+      "Description": "Most would agree the 1988 film \"Beetlejuice\" is a classic. And two of the main creative forces behind the movie -- actor Michael Keaton and director Tim Burton -- say they plan to stick closely to the original as they tackle its long-awaited sequel.",
+      "Url": "https://www.cnn.com/2023/06/04/entertainment/michael-keaton-tim-burton-beetlejuice-2/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230604185510-michael-keaton-beetlejuice-1988-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2023-06-05T00:54:30Z",
+      "Content": "Most would agree the 1988 film Beetlejuice is a classic. And two of the main creative forces behind the macabre and comedic movie titular star Michael Keaton and visionary director Tim Burton say the… [+1456 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/armie-hammer.jpg?resize=1200,630",
       "PublishedAt": "2023-05-31T20:54:42Z",
       "Content": "The Los Angeles County D.A.s office will not be filing sexual assault charges against actor Armie Hammer, according to a recent report from Variety.\r\nIn a statement, the D.A.s office said that it cou… [+2866 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eonline.com"
-      },
-      "Author": "Angie Orellana Hernandez",
-      "Title": "Justin Timberlake Thirsts Over This Iconic Jessica Biel Movie Scene",
-      "Description": "Justin Timberlake knows his wife Jessica Biel is a catch.\nIn fact, he couldn't stop the feeling of thirsting over the actress when a fan posted to TikTok a scene from her 2001 movie, Summer Catch....",
-      "Url": "https://www.eonline.com/news/1375994/justin-timberlake-is-thirsting-over-jessica-biels-iconic-summer-catch-scene-too",
-      "UrlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202318/rs_1200x1200-230208135432-1200-Jessica-Biel-Justin-Timberlake.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "PublishedAt": "2023-05-31T20:40:10Z",
-      "Content": "Justin Timberlake knows his wife Jessica Biel is a catch.\r\nIn fact, he couldn't stop the feeling of thirsting over the actress when a fan posted to TikTok a scene from her 2001 movie, Summer Catch. I… [+625 chars]"
     }
   ]
 }

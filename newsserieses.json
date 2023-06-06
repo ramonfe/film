@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1021,
+  "TotalResults": 1022,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Levelup.com"
+      },
+      "Author": "Pedro Pérez Cesari",
+      "Title": "1 de cada 3 gamers jóvenes prefiere ver Twitch antes que ver una película o serie",
+      "Description": "Twitch y sus creadores de contenido son un fenómeno masivo que poco a poco va conquistando a más audiencias. De hecho, se trata de un entretenimiento inmensamente popular entre los jóvenes al grado de que un tercio de ellos prefiere ver Twitch antes que pasar…",
+      "Url": "https://www.levelup.com/noticias/740747/1-de-cada-3-gamers-jovenes-prefiere-ver-Twitch-antes-que-ver-una-pelicula-o-serie",
+      "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/799820/799820_600x315.jpg",
+      "PublishedAt": "2023-06-05T01:00:00Z",
+      "Content": "Twitch y sus creadores de contenido son un fenómeno masivo que poco a poco va conquistando a más audiencias. De hecho, se trata de un entretenimiento inmensamente popular entre los jóvenes al grado d… [+2109 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.nuevatribuna.es/media/nuevatribuna/images/2023/05/31/2023053118323329820.jpg",
       "PublishedAt": "2023-06-01T10:46:31Z",
       "Content": "Úrsula San Frutis Gil | @_suula_\r\nNetflix lo ha vuelto a hacer. Ha vuelto a producir una serie que no dice nada aprovechando el tirón de estrellas del momento. El 19 de mayo se estrenó El Silencio, p… [+4825 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Belén Prieto",
-      "Title": "Así es '13 días', la serie documental que ha estrenado Netflix sobre el rescate de Julen Roselló",
-      "Description": "Escrita y dirigida por el nominado al Goya Hernán Zin, la docuserie cuenta de manera cronológica cómo se llevaron a cabo las operaciones de búsqueda.",
-      "Url": "https://www.elespanol.com/series/netflix/20230601/13-dias-serie-documental-estrenado-netflix-rescate-julen-rosello/768173325_0.html",
-      "UrlToImage": "https://s1.eestatic.com/2023/06/01/series/netflix/768183480_233614493_1200x630.jpg",
-      "PublishedAt": "2023-06-01T10:39:16Z",
-      "Content": "Aunque apenas haya resonado entre las últimas novedades de Netflix, la plataforma acaba de estrenar 13 días, una docuserie de tres episodios sobre el complejo rescate de Julen Roselló, el pequeño de … [+2982 chars]"
     }
   ]
 }
