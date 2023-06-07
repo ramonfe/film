@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1021,
+  "TotalResults": 1022,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Digital Trends"
+      },
+      "Author": "Diego Bastarrica",
+      "Title": "Black Mirror probó ChatGPT para hacer un capítulo: fue una basura",
+      "Description": "Charlie Brooker, creador de la popular serie que ahora regresa a Netflix, probó escribir un capítulo con la IA y al final no le gustó el resultado.",
+      "Url": "https://es.digitaltrends.com/computadoras/black-mirror-chatgpt-capitulo-guion-basura/",
+      "UrlToImage": "https://es.digitaltrends.com/wp-content/uploads/2023/06/Black-Mirror-2014.jpg?resize=1200%2C630&p=1",
+      "PublishedAt": "2023-06-06T17:36:28Z",
+      "Content": "Black Mirror es quizás la serie de ciencia ficción y tecnología más importante de la historia, y ahora que regresa a Netflix en junio con una nueva temporada, y con el auge en paralelo de la IA, el c… [+1075 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/05/el-pacificador-serie-hbo-max.png?width=1200",
       "PublishedAt": "2023-06-03T17:02:52Z",
       "Content": "La serie de James Gunn es una auténtica pasada para los amantes de los superhéroes\r\nLas series de superhéroes no han estado a la altura de su cine, salvo honrosas excepciones que han aportado muchísi… [+2891 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Miguel Paredes",
-      "Title": "Mi compra estrella vuelve a caer: este dispositivo revoluciona tu hogar por menos de 30 euros",
-      "Description": "¿Tu televisor se ha quedado anticuado? ¿No tienes smart TV para disfrutar de aplicaciones como Netflix o Disney+? Tranquilo, vengo con la solución a todos tus problemas. Gracias a Amazon puedes llevarte su Fire TV Stick por menos de 30 euros, un precio genial…",
-      "Url": "https://www.lavanguardia.com/andro4all/ofertas/mi-compra-estrella-vuelve-a-caer-este-dispositivo-revoluciona-tu-hogar-por-menos-de-30-euros",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/06/fire-tv-stick.1685793079.9424.jpg?width=1200",
-      "PublishedAt": "2023-06-03T15:01:04Z",
-      "Content": "El Fire TV Stick en un televisor.\r\n¿Tu televisor se ha quedado anticuado? ¿No tienes smart TV para disfrutar de aplicaciones como Netflix o Disney+? Tranquilo, vengo con la solución a todos tus probl… [+2352 chars]"
     }
   ]
 }
