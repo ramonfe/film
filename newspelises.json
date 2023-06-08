@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 160,
+  "TotalResults": 161,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Fecha de estreno y plataforma de streaming a la que llegará \"Spider-Man: Cruzando el multiverso\"",
+      "Description": "Lleva solo unos días en el cine y muchos ya consideran que se trata de la mejor película de superhéroes que se ha creado jamás. Hablamos de \"Spider-Man: Cruzando el multiverso\", una película con una originalidad rampante y una historia que nos va a enganchar …",
+      "Url": "https://www.lavanguardia.com/andro4all/series/fecha-de-estreno-y-plataforma-de-streaming-a-la-que-llegara-spider-man-cruzando-el-multiverso",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/06/spider-man-cruzando-multiverso-3027804.webp?width=1200",
+      "PublishedAt": "2023-06-07T15:00:45Z",
+      "Content": "La crítica la considera una de las mejores películas de superhéroes\r\nLleva solo unos días en el cine y muchos ya consideran que se trata de la mejor película de superhéroes que se ha creado jamás. Ha… [+3342 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/6464c47dfb7470f1fd7b2ac8/16:9/w_1280,c_limit/MTHR_SG_00274.JPG",
       "PublishedAt": "2023-05-17T12:16:43Z",
       "Content": "Semana nueva, película más vista de Netflix nueva, al menos de momento. El título que ha conseguido el primer puesto semanal no es sorprendente, pero lo que sí llama la atención es que parece ser que… [+1988 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'La Vida al Màxim' se estrena en À Punt con Inés Ballester y Antonio de la Torre",
-      "Description": "Inés Ballester y Antonio de la Torre están invitados a una fiesta en casa de Màxim Huerta el próximo sábado 20 de mayo a las 22 horas con motivo del estreno de ' La vida al Màxim ', un espacio producido por À Punt en asociación con VITV (The Mediapro Studio) …",
-      "Url": "https://www.abc.es/espana/comunidad-valenciana/vida-maxim-estrena-punt-ines-ballester-antonio-20230517114153-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2023/05/17/maxim-U66346762057DSD-1024x512@abc.jpg",
-      "PublishedAt": "2023-05-17T09:41:54Z",
-      "Content": "Inés Ballester y Antonio de la Torre están invitados a una fiesta en casa de Màxim Huerta el próximo sábado 20 de mayo a las 22 horas con motivo del estreno de 'La vida al Màxim', un espacio producid… [+4229 chars]"
     }
   ]
 }
