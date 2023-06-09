@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 860,
+  "TotalResults": 861,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bolsamania.com"
+      },
+      "Author": "Hector",
+      "Title": "Jackie Chan vuelve a la acción… ¡Con John Cena!",
+      "Description": "Ya empezábamos a echarle de menos. A pesar de que no es un actor de esos que acumulan premios por doquier, la aportación de Jackie Chan al cine es inconmensurable. Siempre lo pasamos bien en compañía del actor de Hora punta o de la moderna versión de Karate K…",
+      "Url": "https://www.bolsamania.com/cine/jackie-chan-vuelve-a-la-accion-con-john-cena/",
+      "UrlToImage": "https://www.bolsamania.com/cine/wp-content/uploads/2023/06/1-17.jpg",
+      "PublishedAt": "2023-06-08T13:40:24Z",
+      "Content": "Hidden Strike\r\nYa empezábamos a echarle de menos. A pesar de que no es un actor de esos que acumulan premios por doquier, la aportación de Jackie Chan al cine es inconmensurable. Siempre lo pasamos b… [+862 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/motor/2023/06/05/Copiade_F3A0151_xgluten_UC517809_High-U03723676884wEy-1024x512@abc.jpg",
       "PublishedAt": "2023-06-05T09:59:55Z",
       "Content": "Cuatro días ha durado la intensa intensa, vibrante y colorida fiesta Scrambler Ducati en Honna Surf Hub de Madrid. A este evento ha acompañado la exposición en X-Madrid de los nuevos modelos Next-Gen… [+2750 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Melissa Velásquez Loaiza",
-      "Title": "Brian Cox se muestra \"reacio\" a ver el final de la serie \"Succession\"",
-      "Description": "El actor Brian Cox, protagonista de \"Succession\", dice que todavía no ha visto el capítulo final de la serie ganadora de 13 premios Emmy, cuyo capítulo final se emitió el 28 de mayo.",
-      "Url": "https://cnnespanol.cnn.com/2023/06/05/brian-cox-reacio-final-serie-succession-trax/",
-      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/06/succession-ending-plc-succession-e1685954577415.jpeg?quality=100&strip=info",
-      "PublishedAt": "2023-06-05T09:11:54Z",
-      "Content": "Ya se estrenó el último capítulo de \"Succession\" 0:54\r\n(CNN) -- El actor Brian Cox, protagonista de \"Succession\", dice que todavía no ha visto el capítulo final de la serie.\r\n\"No he visto el final de… [+1700 chars]"
     }
   ]
 }
