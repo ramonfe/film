@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 92,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Root"
+      },
+      "Author": "Stephanie Holland",
+      "Title": "Remote Control: Here Are the Shows We Can’t Stop Watching",
+      "Description": "Photo: Zach Dilgard/NBC\r\nYou had plans. You were supposed to do housework, run errands, go to the grocery store and renew that subscription. But suddenly there’s a Law & Order marathon on—because there’s one on every day—and your plans are shot. It happens to…",
+      "Url": "https://www.theroot.com/remote-control-here-are-the-shows-we-can-t-stop-watchi-1850518374",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a670c039dfa0995bc46c4aa404a2d3d3.jpg",
+      "PublishedAt": "2023-06-11T09:00:00Z",
+      "Content": "You had plans. You were supposed to do housework, run errands, go to the grocery store and renew that subscription. But suddenly theres a Law &amp; Order marathon onbecause theres one on every dayand… [+335 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Brit + Co"
+      },
+      "Author": "Chloe Williams​",
+      "Title": "10 Of The Best Summer TV Shows For 2023",
+      "Description": "You've got popcorn to eat and you've got summer movies to watch, but if you're in the mood to stay in bed this weekend, you need some good summer show recommendations! These new TV shows are feel-good, engaging, and laugh-out-loud funny. Feel free to binge wa…",
+      "Url": "https://www.brit.co/best-summer-tv-shows/",
+      "UrlToImage": "https://www.brit.co/media-library/selena-gomez-and-steve-martin-in-only-murders-in-the-building-summer-tv-shows-for-2023.png?id=34047603&width=1200&height=600&coordinates=0%2C0%2C0%2C44",
+      "PublishedAt": "2023-06-09T22:01:05Z",
+      "Content": "You've got popcorn to eat and you've got summer movies to watch, but if you're in the mood to stay in bed this weekend, you need some good summer show recommendations! These new TV shows are feel-goo… [+3980 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Destructoid"
+      },
+      "Author": "Tiago Manuel",
+      "Title": "Here’s a look at Witcher Season 3, the Henry Cavill send-off",
+      "Description": "Toss a coin to your streaming service\nGeoff Keighley showed the trailer for the third season of The Witcher TV Show at the Summer Game Fest. We already know this season will mark Henry Cavill's last time as Geralt, but there's much more to it than that! Let's…",
+      "Url": "https://www.destructoid.com/a-look-at-the-witcher-season-3-final-henry-cavill/",
+      "UrlToImage": "https://www.destructoid.com/wp-content/uploads/2023/06/witcher-netflix-season3.jpg",
+      "PublishedAt": "2023-06-09T18:41:42Z",
+      "Content": "Toss a coin to your streaming service\r\nGeoff Keighley showed the trailer for the third season of The Witcher TV Show at the Summer Game Fest. We already know this season will mark Henry Cavill’s last… [+1774 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1159,149 +1198,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-05-11T14:14:08Z",
       "Content": "Folks looking for more sci-fi to sink their teeth into on Apple TV+ after getting hooked on Silo won’t have too much longer to wait. The streaming service has revealed that the second season of Found… [+798 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Kris Holt",
-      "Title": "'Foundation' will return to Apple TV+ on July 14th",
-      "Description": "Folks looking for more sci-fi to sink their teeth into on Apple TV+ after getting hooked on \r\nSilo\r\n won’t have too much longer to wait. The streaming service has revealed that the second season of Foundation\r\n will premiere on July 14th. The show, which is b…",
-      "Url": "https://www.engadget.com/foundation-will-return-to-apple-tv-on-july-14th-140038865.html",
-      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/dzJSjMdgC_0ynRxOhLEpwA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/5b218e40-f002-11ed-bdf7-5639774d79a1.cf.jpg",
-      "PublishedAt": "2023-05-11T14:00:38Z",
-      "Content": "Folks looking for more sci-fi to sink their teeth into on Apple TV+ after getting hooked on \r\nSilo\r\n wont have too much longer to wait. The streaming service has revealed that the second season of Fo… [+656 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.2.0a14",
-      "Description": "2023.2.0a14\n\n May 10, 2023\n \n unityhub://2023.2.0a14/4b5982e72917\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CPP…",
-      "Url": "https://unity.com/releases/editor/alpha/2023.2.0a14",
-      "UrlToImage": null,
-      "PublishedAt": "2023-05-10T19:50:11Z",
-      "Content": "<li>2D: Enabled generating a default Sprite rect for textures that are too small to be tesselated.\r\n</li><li>2D: Enabled showing the Apply/revert dialog to users if there are data changes in Sprite E… [+117912 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Derek Reese",
-      "Title": "MLS losing national relevancy at same time as winning local fans",
-      "Description": "Major League Soccer is a vast improvement over the leagues that came before it in the US, and even over where the MLS itself was just 20 years ago. Even critics can't argue that MLS has raised the standard of the game significantly in North America. However, …",
-      "Url": "https://worldsoccertalk.com/news/major-league-soccer-struggles-making-the-jump-from-local-to-national-relevancy-20230510-WST-432159.html",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230510_WST_432159_MLS_National.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2023-05-10T19:13:48Z",
-      "Content": "Major League Soccer is a vast improvement over the leagues that came before it in the US, and even over where the MLS itself was just 20 years ago. Even critics cant argue that MLS has raised the sta… [+11861 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HYPEBEAST"
-      },
-      "Author": "info@hypebeast.com (Hypebeast)",
-      "Title": "Here are the Films and TV Shows Affected by the Writers Guild of America Strike",
-      "Description": "After 2007's Writers Guild of America Strike which lasted more than three months, the labor union representing writers in film, television, radio, and online media has once again entered a labor dispute with the Alliance of Motion Picture and Television Produ…",
-      "Url": "https://hypebeast.com/2023/5/films-tv-shows-paused-by-2023-writers-guild-of-america-strike-info",
-      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F05%2Ffilms-tv-shows-paused-by-2023-writers-guild-of-america-strike-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "PublishedAt": "2023-05-10T08:06:41Z",
-      "Content": "After 2007’s Writers Guild of America Strike which lasted more than three months, the labor union representing writers in film, television, radio, and online media has once again entered a labor disp… [+1752 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "AppleInsider"
-      },
-      "Author": "news@appleinsider.com (Wesley Hilliard)",
-      "Title": "Every known Apple TV+ show cancelation so far",
-      "Description": "Apple TV+ has rolled out over 160 titles since its launch in 2019, but some were unceremoniously canceled without a conclusion. Find out which shows ended without a series finale here.Apple TV+It can be difficult to choose what to watch in the streaming era, …",
-      "Url": "https://appleinsider.com/articles/23/05/10/every-known-apple-tv-show-cancelation-so-far",
-      "UrlToImage": "https://photos5.appleinsider.com/gallery/54328-109712-Apple-TV+-xl.jpg",
-      "PublishedAt": "2023-05-10T00:30:37Z",
-      "Content": "Apple TV+\r\nApple TV+ has rolled out over 160 titles since its launch in 2019, but some were unceremoniously canceled without a conclusion. Find out which shows ended without a series finale here.\r\nIt… [+3380 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Soundandvision.com"
-      },
-      "Author": "Barb Gonzalez",
-      "Title": "Apple TV+ Adds Apple Music Live Concerts as it Continues to Grow.",
-      "Description": "Apple TV+ is expanding its original programming with Apple Music Live concerts. Recently a friend told me she had just subscribed to Apple TV + and asked if I had any recommendations for what to watch. When I started naming shows, it occurred to me that Apple…",
-      "Url": "https://www.soundandvision.com/content/apple-tv-adds-apple-music-live-concerts-it-continues-grow",
-      "UrlToImage": "https://www.soundandvision.com/images/applemusicliveed.jpg",
-      "PublishedAt": "2023-05-10T00:00:00Z",
-      "Content": "Apple TV+ is expanding its original programming with Apple Music Live concerts. Recently a friend told me she had just subscribed to Apple TV + and asked if I had any recommendations for what to watc… [+5074 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "/FILM"
-      },
-      "Author": "Valerie Ettenhofer",
-      "Title": "The Weekly Watchlist: Queer Eye Season 7 And City On Fire Lead The Fight For Change (May 9, 2023)",
-      "Description": "The streaming landscape is as crowded as ever this week. Apple TV+ has a new series from the team behind \"Gossip Girl,\" a murder mystery called \"City on Fire.\" Netflix is bringing back the fab five for season 7(!) of \"Queer Eye.\" Meanwhile, Pete Davidson is g…",
-      "Url": "https://www.slashfilm.com/1280967/how-to-stream-queer-eye-season-7-city-fire-week-of-may-9-2023/",
-      "UrlToImage": "https://www.slashfilm.com/img/gallery/the-weekly-watchlist-queer-eye-season-7-and-city-on-fire/l-intro-1683655406.jpg",
-      "PublishedAt": "2023-05-09T19:00:59Z",
-      "Content": "Where to Watch \"Queer Eye\" Season 7: Netflix\r\nWhen \"Queer Eye\" Season 7 Releases: May 12, 2023\r\nIt's already been five years since Netflix's \"Queer Eye\" reboot made its debut. Since then, the country… [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tudor Leonte",
-      "Title": "When is the Rick and Morty Season 6 Release Date on Hulu & HBO Max?",
-      "Description": "After Rick and Morty Season 6, fans of the show are wondering when the series’ latest string of episodes will make their way to Hulu and HBO Max. Here’s all you need to know about its release date on the platforms. When is Rick and Morty season 6 coming out o…",
-      "Url": "https://www.comingsoon.net/guides/news/1286918-rick-and-morty-season-6-release-date-hulu-hbo-max-coming-out",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Rick-and-Morty-Season-6-Hulu-HBO-Max.jpg?resize=1200,630",
-      "PublishedAt": "2023-05-09T13:44:39Z",
-      "Content": "After Rick and MortySeason 6, fans of the show are wondering when the series latest string of episodes will make their way to Hulu and HBO Max. Heres all you need to know about its release date on th… [+1992 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Stereophile.com"
-      },
-      "Author": "Kalman Rubinson",
-      "Title": "Arvus H2-4D multichannel Dolby Atmos digital processor",
-      "Description": "Before I can get to what the Arvus H2-4D does and how well it does it, I have to explain why I think it's an important product. I spent years as an advocate for multichannel audio for music, based on discrete, lossless sources such as DVD-A, SACD, and high-qu…",
-      "Url": "https://www.stereophile.com/content/arvus-h2-4d-multichannel-dolby-atmos-digital-processor",
-      "UrlToImage": "https://www.stereophile.com/images/523-Arvus_Promo-600.jpg",
-      "PublishedAt": "2023-05-09T00:00:00Z",
-      "Content": "Before I can get to what the Arvus H2-4D does and how well it does it, I have to explain why I think it's an important product. I spent years as an advocate for multichannel audio for music, based on… [+10128 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livejournal.com"
-      },
-      "Author": "dedebee",
-      "Title": "Josh Segarra Talks 'The Other Two,' 'The Big Door Prize,' and 'Scream VI' with Sherri Shepherd",
-      "Description": "Josh Segarra (Arrow, Broadway's On Your Feet!) stays booked and busy. After appearing in Marvel's She-Hulk series last year, Segarra has three big projects currently streaming--a new season of the HBO Max comedy The Other Two, Apple TV+'s The Big Door Prize, …",
-      "Url": "https://ohnotheydidnt.livejournal.com/125913086.html",
-      "UrlToImage": "https://l-stat.livejournal.net/img/sign.png",
-      "PublishedAt": "2023-05-08T23:12:24Z",
-      "Content": "Josh Segarra (Arrow, Broadway's On Your Feet!) stays booked and busy. After appearing in Marvel's She-Hulk series last year, Segarra has three big projects currently streaming--a new season of the HB… [+308 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Coleman Spilde",
-      "Title": "Why Is Pete Davidson Playing Himself So Funny to Watch?",
-      "Description": "Photo Illustration by Thomas Levinson/The Daily Beast/Peacock\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are roughly 47,000—oh, wait, a n…",
-      "Url": "https://www.thedailybeast.com/obsessed/why-is-pete-davidson-playing-himself-on-bupkis-so-funny-to-watch",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1683581692/230508-see-skip-tease_wmayee",
-      "PublishedAt": "2023-05-08T23:02:17Z",
-      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+6242 chars]"
     }
   ]
 }
