@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 809,
+  "TotalResults": 810,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "Hunter Schafer, conocemos a la amiga de Rosalía que ha triunfado en la serie 'Euphoria' a sus 24 años",
+      "Description": "La actriz, activista y modelo ha desafiado los estereotipos de la industria del espectáculo",
+      "Url": "https://www.hola.com/actualidad/20230612233698/hunter-schafer-quien-es-la-amiga-de-rosalia-y-actriz-euphoria/",
+      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20230612233698/hunter-schafer-quien-es-la-amiga-de-rosalia-y-actriz-euphoria/1-265-264/hunter-getty7-t.jpg",
+      "PublishedAt": "2023-06-12T16:35:19Z",
+      "Content": "La serie 'Euphoria' ha arrasado y ha conseguido que todos los actores de la popular ficción ganen un gran protagonismo dentro y fuera de la pantalla. Tal es el caso de Hunter Schafer (24 años) que ha… [+3030 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.republica.com/wp-content/uploads/2023/01/Gina-Lollobrigida-musa-del-cine-italiano.jpeg",
       "PublishedAt": "2023-06-08T15:37:46Z",
       "Content": "La gran pantalla la convirtió en un icono mundial del siglo XX, pero la huella de Gina Lollobrigida fue más allá del séptimo arte: fotógrafa, cantante, filántropa, escultora e incluso entrevistadora … [+2814 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "TRESB",
-      "Title": "Así es Violeta como el mar, la nueva serie de Can Yaman en Antena 3",
-      "Description": "Can Yaman saltó a la fama gracias a la telenovela turca Erkenci Kus: Pájaro soñador. El actor regresará a la pequeña pantalla con Violeta como el mar, serie italiana que se...",
-      "Url": "https://www.elmundo.es/television/series/2023/06/08/6481ea8be4d4d8bc4a8b45b0.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/cb12dbb743ae391ee4884f844ffc9b23/resize/1200/f/jpg/assets/multimedia/imagenes/2023/06/08/16862370958622.jpg",
-      "PublishedAt": "2023-06-08T15:19:33Z",
-      "Content": "Can Yaman saltó a la fama gracias a la telenovela turca Erkenci Kus: Pájaro soñador. El actor regresará a la pequeña pantalla con Violeta como el mar, serie italiana que se estrenará muy pronto en An… [+2270 chars]"
     }
   ]
 }
