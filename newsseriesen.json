@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 90,
+  "TotalResults": 91,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.2.0a20",
+      "Description": "2023.2.0a20\n\n June 21, 2023\n \n unityhub://2023.2.0a20/a71a2c8974e3\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CP…",
+      "Url": "https://unity.com/releases/editor/alpha/2023.2.0a20",
+      "UrlToImage": null,
+      "PublishedAt": "2023-06-21T19:58:23Z",
+      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+160674 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Soundandvision.com"
+      },
+      "Author": "Barb Gonzalez",
+      "Title": "Netflix Creates Streamberry Website to Pair with Black Mirror's Joan is Awful",
+      "Description": "The season 6 opener of Netflix's Black Mirror satirizes the very platform that made the series. Joan is Awful is a commentary on the streaming services' never-ending need for content and how turning to AI-generated TV shows could exploit not only the producer…",
+      "Url": "https://www.soundandvision.com/content/netflix-creates-streamberry-website-pair-black-mirrors-joan-awful",
+      "UrlToImage": "https://www.soundandvision.com/images/BarbIsAwful_0.jpg",
+      "PublishedAt": "2023-06-21T00:00:00Z",
+      "Content": "The season 6 opener of Netflix's Black Mirror satirizes the very platform that made the series. Joan is Awful is a commentary on the streaming services' never-ending need for content and how turning … [+4258 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1159,19 +1185,6 @@
       "UrlToImage": "https://phantom-marca.unidadeditorial.es/25e5b504eb3e45d7220531fb8848b342/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/22/16847807411298.jpg",
       "PublishedAt": "2023-05-22T18:53:37Z",
       "Content": "On April 28, subscribers to the Amazon Prime Video streaming platform were delighted to discover the first season of Citadel. The opportunity to find Richard Madden and Priyanka Chopra Jones in the r… [+1826 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Christopher Harris",
-      "Title": "MLS 360 viewership numbers available for first time",
-      "Description": "Both Apple and Major League Soccer (MLS) are tightlipped on sharing any metrics about viewership of its MLS Season Pass streaming service. In fact, no data has been made available since its launch. However, despite trying to keep performance numbers secret (e…",
-      "Url": "https://worldsoccertalk.com/news/mls-360-viewership-numbers-available-for-first-time-20230522-WST-434033.html",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230522_WST_434033_mls-360-on-youtube.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2023-05-22T14:00:00Z",
-      "Content": "Both Apple and Major League Soccer (MLS) are tightlipped on sharing any metrics about viewership of its MLS Season Pass streaming service. In fact, no data has been made available since its launch. H… [+2322 chars]"
     }
   ]
 }

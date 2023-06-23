@@ -1,8 +1,866 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1099,
+  "TotalResults": 1124,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "Todo lo que hay que saber de El Grifo, la serie que arrasa en Amazon Prime",
+      "Description": "El pasado 25 de mayo Amazon Prime Video estrenó El Grifo, serie alemana dirigida por Sebastian Marka y Max Zähle. La ficción de fantasía, que originalmente se lanzó en 2022,...",
+      "Url": "https://www.elmundo.es/television/series/2023/06/22/64945981fdddff7bb78b45d2.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/1b494b53ce46aeee237aede57fa66e1e/resize/1200/f/jpg/assets/multimedia/imagenes/2023/06/22/16874459578067.jpg",
+      "PublishedAt": "2023-06-22T15:01:38Z",
+      "Content": "El pasado 25 de mayo Amazon Prime Video estrenó El Grifo, serie alemana dirigida por Sebastian Marka y Max Zähle. La ficción de fantasía, que originalmente se lanzó en 2022, está siendo un éxito y se… [+1934 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Huffingtonpost.es"
+      },
+      "Author": "Álvaro Palazón",
+      "Title": "Una telefonista de Telefónica cuenta una reveladora anécdota sobre su trabajo",
+      "Description": "<![CDATA[<p>Ángeles Miguel Gurueta fue operadora de Telefónica y ahora ha contado algunas anécdotas de sus años como trabajadora de la compañía. De hecho, su trabajo ha dado para serie y Netflix creó Las chicas del cable, la historia de muchas de estas trabaj…",
+      "Url": "https://www.huffingtonpost.es/virales/telefonista-telefonica-cuenta-reveladora-anecdota-sobre-trabajo.html",
+      "UrlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2022/12/08/639250d7b3b0b.jpeg",
+      "PublishedAt": "2023-06-22T15:01:00Z",
+      "Content": "Ángeles Miguel Gurueta fue operadora de Telefónica y ahora ha contado algunas anécdotas de sus años como trabajadora de la compañía. De hecho, su trabajo ha dado para serie y Netflix creó Las chicas … [+826 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Victor M. González",
+      "Title": "Patrick Criado (Las noches de Tefía): “En España tenemos que atrevernos a hablar de los crímenes que se cometieron en el franquismo”",
+      "Description": "Un actor camaleónico. El hombre de las mil caras. Contiene multitudes. Hay muchos tópicos en torno al mundo de la interpretación, y a Patrick Criado (Madrid, 1995) podríamos aplicarle cualquiera que implique profesionalidad y buenos resultados, porque los dic…",
+      "Url": "https://www.revistagq.com/articulo/patrick-criado-entrevista-las-noches-de-tefia-franquismo-homosexuales",
+      "UrlToImage": "https://media.revistagq.com/photos/64942c7308544f0d44b2b039/16:9/w_1280,c_limit/patrick-criado-1.jpg",
+      "PublishedAt": "2023-06-22T14:19:48Z",
+      "Content": "Un actor camaleónico. El hombre de las mil caras. Contiene multitudes. Hay muchos tópicos en torno al mundo de la interpretación, y a Patrick Criado (Madrid, 1995) podríamos aplicarle cualquiera que … [+4870 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Carla Monfort",
+      "Title": "'Sálvame' se despide despuntando en audiencias y preparándose para quemar los muebles",
+      "Description": "El 23 de junio se acaba 'Sálvame' y con él, Mediaset cierra una etapa (para empezar otra que no pinta ser mucho mejor). El programa se despide despuntando en audiencias y con un último programa que promete quemar todos sus muebles, literalmente.\n<!-- BREAK 1 …",
+      "Url": "https://www.espinof.com/reality/salvame-se-despide-despuntando-audiencias-preparandose-para-quemar-muebles",
+      "UrlToImage": "https://i.blogs.es/ff0628/salvame/840_560.jpeg",
+      "PublishedAt": "2023-06-22T14:01:18Z",
+      "Content": "El 23 de junio se acaba 'Sálvame' y con él, Mediaset cierra una etapa (para empezar otra que no pinta ser mucho mejor). El programa se despide despuntando en audiencias y con un último programa que p… [+1574 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Daniel Gigena",
+      "Title": "Historias bravas y extraordinarias: de las andanzas con gomeras y pistoleros de verdad a la serie “Okupas”",
+      "Description": "El libro “Las memorias del Negro Pablo” cuenta la vida real de Dante Mastropierro, el chico criado en un barrio difícil, que tuvo que salir a trabajar a los doce años y se quedó solo a los trece, y un día se convirtió en actor de una ficción que 20 años despu…",
+      "Url": "https://www.lanacion.com.ar/cultura/historias-bravas-y-extraordinarias-de-las-andanzas-con-gomeras-y-pistoleros-de-verdad-a-la-serie-nid22062023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/2r0c6r-Teb2xCOexQwJeqhNyvWE=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/Y6RZXSR53VAUZJYVZDFMROYZ6U.jpg",
+      "PublishedAt": "2023-06-22T13:56:20Z",
+      "Content": "Una de las revelaciones de la serie Okupas, que las nuevas generaciones de espectadores pudieron descubrir en Netflix, publicó su primer libro. En Las memorias del Negro Pablo (Aguilar), el actor que… [+6861 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Somosxbox.com"
+      },
+      "Author": "Joel Castillo",
+      "Title": "Ya conocemos la sinopsis de los primeros episodios de la tercera temporada de The Witcher",
+      "Description": "Queda exactamente una semana para que la serie de The Witcher regrese a Netflix con su tercera temporada, la última en la que Henry Cavill será el encargado",
+      "Url": "https://www.somosxbox.com/ya-conocemos-la-sinopsis-de-los-primeros-episodios-de-la-tercera-temporada-de-the-witcher/1005132",
+      "UrlToImage": "https://www.somosxbox.com/wp-content/uploads/2023/06/the-witcher-temporada-3-somosxbox.webp",
+      "PublishedAt": "2023-06-22T13:46:59Z",
+      "Content": "10Queda exactamente una semana para que la serie de The Witcher regrese a Netflix con su tercera temporada, la última en la que Henry Cavill será el encargado de dar vida a Geralt de Rivia antes de d… [+2196 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "El creador de 'Yellowstone' rompe su silencio sobre el drama de Kevin Costner y su abandono de la prestigiosa serie: \"Estoy decepcionado\"",
+      "Description": "Uno de los culebrones fuera de cámara de los últimos meses ha sido las tensiones entre Kevin Costner y Taylor Sheridan, protagonista y creador respectivamente de 'Yellowstone'. En plena temporada de premios ya se empezó a notar que algo pasaba (y se vio ciert…",
+      "Url": "https://www.espinof.com/actores-y-actrices/creador-yellowstone-rompe-su-silencio-drama-kevin-costner-su-abandono-prestigiosa-serie-estoy-decepcionado",
+      "UrlToImage": "https://i.blogs.es/20a1e9/yellowstone-costner/840_560.jpeg",
+      "PublishedAt": "2023-06-22T13:31:18Z",
+      "Content": "Uno de los culebrones fuera de cámara de los últimos meses ha sido las tensiones entre Kevin Costner y Taylor Sheridan, protagonista y creador respectivamente de 'Yellowstone'. En plena temporada de … [+2961 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Compradiccion.com"
+      },
+      "Author": "Jesús Salas",
+      "Title": "Liquidación de Funkos en El Corte Inglés: Baby Yoda, Cazafantasmas y Dune a precio de ganga",
+      "Description": "Si eres fan de los Funkos o simplemente sientes curiosidad, no puedes perderte esta liquidación de El Corte Inglés, con chollos por 6,95 euros en Funkos de las siries, películas y videojuegos más de moda.\n<!-- BREAK 1 -->\nComprar Funkos al mejor precio\n\nBaby …",
+      "Url": "https://www.compradiccion.com/juguetes/liquidacion-funkos-corte-ingles-baby-yoda-cazafantasmas-dune-a-precio-ganga",
+      "UrlToImage": "https://i.blogs.es/ab891f/img_3300/840_560.jpeg",
+      "PublishedAt": "2023-06-22T13:26:44Z",
+      "Content": "Si eres fan de los Funkos o simplemente sientes curiosidad, no puedes perderte esta liquidación de El Corte Inglés, con chollos por 6,95 euros en Funkos de las siries, películas y videojuegos más de … [+2222 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Víctor López G.",
+      "Title": "\"La gente está mal de la puta cabeza\". Charlie Brooker no quiere que la gente recuerde 'Black Mirror' como la serie que critica la tecnología",
+      "Description": "Desde que arrancó el 4 de diciembre de un ya lejano 2011 con el retorcido y, a su modo, hilarante 'El himno nacional' —también conocido como \"el del cerdo\"—, la prolífica antología 'Black Mirror' ha ido evolucionando progresivamente hasta convertirse más o me…",
+      "Url": "https://www.espinof.com/series-de-ficcion/gente-esta-mal-puta-cabeza-charlie-brooker-no-quiere-que-gente-recuerde-black-mirror-como-serie-que-habla-mal-tecnologia",
+      "UrlToImage": "https://i.blogs.es/f004c3/charliebrooker-blackmirror-42adac1/840_560.jpeg",
+      "PublishedAt": "2023-06-22T13:01:17Z",
+      "Content": "Desde que arrancó el 4 de diciembre de un ya lejano 2011 con el retorcido y, a su modo, hilarante 'El himno nacional' también conocido como \"el del cerdo\", la prolífica antología 'Black Mirror' ha id… [+1897 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Noel Ceballos",
+      "Title": "King Kong celebra su 90 cumpleaños con una nueva serie en Netflix",
+      "Description": "“Muchos monstruos, un rey”. Con esta escueta frase promocional se presenta La Isla Calavera, serie de anime protagonizada por King Kong que forma parte de ese universo cinematográfico compartido entre él y Godzilla, su enemigo íntimo. No es la primera producc…",
+      "Url": "https://www.revistagq.com/articulo/king-kong-como-se-hizo-la-isla-calavera",
+      "UrlToImage": "https://media.revistagq.com/photos/64940b2f08544f0d44b2b000/16:9/w_1280,c_limit/kong.jpg",
+      "PublishedAt": "2023-06-22T11:47:21Z",
+      "Content": "Muchos monstruos, un rey. Con esta escueta frase promocional se presenta La Isla Calavera, serie de anime protagonizada por King Kong que forma parte de ese universo cinematográfico compartido entre … [+4556 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencialdigital.com"
+      },
+      "Author": "Agencias",
+      "Title": "El alcalde recibe al cineasta Álex de la Iglesia, que rodará la serie '1992' en Sevilla para Netflix",
+      "Description": "SEVILLA, 22 (EUROPA PRESS) El alcalde de Sevilla, José Luis Sanz, se ha reunido este jueves con el director de cine Álex de la Iglesia para conocer los detalles de la última \"gran producción\" de Netflix ambientada en la capital hispalense....",
+      "Url": "https://www.elconfidencialdigital.com/articulo/ultima-hora/alcalde-recibe-cineasta-alex-iglesia-que-rodara-serie-1992-sevilla-netflix/20230622134303595194.html",
+      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/06/22/2023062211430217975.jpg",
+      "PublishedAt": "2023-06-22T11:43:03Z",
+      "Content": "SEVILLA, 22 (EUROPA PRESS)\r\n El alcalde de Sevilla, José Luis Sanz, se ha reunido este jueves con el director de cine Álex de la Iglesia para conocer los detalles de la última \"gran producción\" de Ne… [+1280 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "Por qué nos gusta tanto el chocolate, según la ciencia",
+      "Description": "¿Te has preguntado alguna vez por qué nos gusta el chocolate tanto? Es decir, si en algo podemos estar todos de acuerdo, es que cualquier cosa que tenga este ingrediente está riquísima. Helado de chocolate, tarta, donut, bizcocho… Lo raro es encontrar a algui…",
+      "Url": "https://www.revistagq.com/articulo/por-que-gusta-el-chocolate-adictivo-ciencia",
+      "UrlToImage": "https://media.revistagq.com/photos/64943141bb4ce388a34ab17c/16:9/w_1280,c_limit/shania-pinnata-n8psEOtD4Ro-unsplash.jpg",
+      "PublishedAt": "2023-06-22T11:39:05Z",
+      "Content": "¿Te has preguntado alguna vez por qué nos gusta el chocolate tanto? Es decir, si en algo podemos estar todos de acuerdo, es que cualquier cosa que tenga este ingrediente está riquísima. Helado de cho… [+2246 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Europapress.es"
+      },
+      "Author": null,
+      "Title": "El alcalde recibe al cineasta Álex de la Iglesia, que rodará la serie '1992' en Sevilla para Netflix",
+      "Description": "El alcalde de Sevilla, José Luis Sanz, se ha reunido este jueves con el director de cine Álex de la Iglesia para conocer los detalles de la última \"gran producción\" de Netflix ambientada en la capital hispalense.",
+      "Url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-alcalde-recibe-cineasta-alex-iglesia-rodara-serie-1992-sevilla-netflix-20230622133203.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230622133203_1200.jpg",
+      "PublishedAt": "2023-06-22T11:32:03Z",
+      "Content": "SEVILLA, 22 Jun. (EUROPA PRESS) - \r\n El alcalde de Sevilla, José Luis Sanz, se ha reunido este jueves con el director de cine Álex de la Iglesia para conocer los detalles de la última \"gran producció… [+1288 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xatakamovil.com"
+      },
+      "Author": "Enrique Moraleda",
+      "Title": "El último teléfono de gama media de Honor llega a España con una gran cámara y un descuento por tiempo limitado",
+      "Description": "Hace unos días el último miembro de la familia 90 de Honor llegó a España. Se trata del 90 Lite, un dispositivo de gama media que puedes conseguir con un descuento por 249 euros.\n<!-- BREAK 1 --><!-- PIVOT START -->\n\n \n \n \n \n \n \r\n\n \n Smartphone Honor 90 Lite …",
+      "Url": "https://www.xatakamovil.com/honor/ultimo-telefono-gama-media-honor-llega-a-espana-gran-camara-descuento-tiempo-limitado",
+      "UrlToImage": "https://i.blogs.es/bdb1b0/plantilla-imagenes-23-/840_560.jpeg",
+      "PublishedAt": "2023-06-22T11:01:15Z",
+      "Content": "Hace unos días el último miembro de la familia 90 de Honor llegó a España. Se trata del 90 Lite, un dispositivo de gama media que puedes conseguir con un descuento por 249 euros.\r\nEste smartphone tie… [+1742 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "Una de las mejores series de 2022 vuelve hoy con su temporada 2, pero todavía no llega a Disney plus. Cuándo podremos ver el regreso de 'The Bear' en España",
+      "Description": "Fogones ardientes, cuchillos, una cocina claustrofóbica y media hora de intensidad pura son algunas de las señas de identidad de 'The Bear', la ¿comedia? gastronómica protagonizada por Jeremy Allen White y Ayo Edebiri. Una ficción brillante que destacó entre …",
+      "Url": "https://www.espinof.com/disney-plus/mejores-series-2022-vuelve-hoy-su-temporada-2-todavia-no-llega-a-disney-plus-cuando-podremos-ver-regreso-the-bear-espana",
+      "UrlToImage": "https://i.blogs.es/89a42c/gallery_thebear_s2_carmy_0640_re.v03/840_560.jpeg",
+      "PublishedAt": "2023-06-22T10:31:16Z",
+      "Content": "Fogones ardientes, cuchillos, una cocina claustrofóbica y media hora de intensidad pura son algunas de las señas de identidad de 'The Bear', la ¿comedia? gastronómica protagonizada por Jeremy Allen W… [+1630 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Compradiccion.com"
+      },
+      "Author": "Jose Manuel Gallego",
+      "Title": "Cuéntanos que te comprarás en el Prime Day y consigue 100 euros para gastar en Amazon",
+      "Description": "Se acerca el Prime Day de Amazon, el acontecimiento del año en el gigantesco marketplace americano. Un evento dirigido a sus clientes Prime, que podrán disfrutar de descuentos en moda, electrónica, hogar y mucho más. Para celebrarlo, vamos a sortear un cheque…",
+      "Url": "https://www.compradiccion.com/otros/cuentanos-que-te-compraras-prime-day-consigue-100-euros-para-gastar-amazon",
+      "UrlToImage": "https://i.blogs.es/1e503f/amazon_prime-day_01/840_560.jpeg",
+      "PublishedAt": "2023-06-22T10:31:16Z",
+      "Content": "Se acerca el Prime Day de Amazon, el acontecimiento del año en el gigantesco marketplace americano. Un evento dirigido a sus clientes Prime, que podrán disfrutar de descuentos en moda, electrónica, h… [+4198 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Anabel Palomares",
+      "Title": "La serie picante que no sabías que estaba en Prime Video y que subirá la temperatura de tus relaciones de pareja",
+      "Description": "Juegos para hacer en pareja hay muchos. Y no hablamos de juegos de mesa (que también), ni de juegos de móvil para echar una partida a dos\r\n. Sino de juegos con un punto picante con los que pasar de la rutina\r\n y refrescar nuestra vida sexual que pueden ir des…",
+      "Url": "https://www.trendencias.com/series-de-television/serie-picante-que-no-sabias-que-estaba-prime-video-que-subira-temperatura-tus-relaciones-pareja",
+      "UrlToImage": "https://i.blogs.es/cc64e1/el-juego-de-las-llaves-prime-video-serie-picante/840_560.jpeg",
+      "PublishedAt": "2023-06-22T10:09:02Z",
+      "Content": "Juegos para hacer en pareja hay muchos. Y no hablamos de juegos de mesa (que también), ni de juegos de móvil para echar una partida a dos\r\n. Sino de juegos con un punto picante con los que pasar de l… [+3016 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "María Yuste",
+      "Title": "Furor ante la última predicción de 'Los Simpson': la serie ya predijo la desaparición del Titan en 2006",
+      "Description": "Mientras entra en su etapa final la cuenta atrás para conseguir encontrar a los tripulantes del Titan con vida, los fans de Los Simpson se han dado cuenta de algo muy curioso. Como ya sucediera con la mención a la presidencia de Donald Trump 20 años antes de …",
+      "Url": "https://www.trendencias.com/series-de-television/furor-ultima-prediccion-simpson-serie-predijo-desaparicion-titan-2006",
+      "UrlToImage": "https://i.blogs.es/62f750/picsart_23-06-21_20-23-46-704/840_560.jpeg",
+      "PublishedAt": "2023-06-22T10:03:36Z",
+      "Content": "Mientras entra en su etapa final la cuenta atrás para conseguir encontrar a los tripulantes del Titan con vida, los fans de Los Simpson se han dado cuenta de algo muy curioso. Como ya sucediera con l… [+3229 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Mundodeportivo.com"
+      },
+      "Author": "Fabio Marchi Vilches",
+      "Title": "¿Concesiones para los equipos de F1 más modestos?",
+      "Description": "Desde que Liberty Media completara la compra de la F1 en 2017, ha perseguido el claro objetivo del crecimiento de la competitividad en pista para aumentar sus audiencias. El 'boom' que se ha producido en los últimos años en todo el mundo por la F1 está supera…",
+      "Url": "https://www.mundodeportivo.com/motor/f1/20230622/1002027460/concesiones-equipos-f1-mas-modestos.html",
+      "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2023/06/17/648e001dac112.jpeg",
+      "PublishedAt": "2023-06-22T09:33:02Z",
+      "Content": "Desde que Liberty Media completara la compra de la F1 en 2017, ha perseguido el claro objetivo del crecimiento de la competitividad en pista para aumentar sus audiencias. El 'boom' que se ha producid… [+8753 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "De qué trata Black Mirror realmente, según Charlie Brooker",
+      "Description": "¿Sabemos de qué trata Black Mirror realmente? Después de 6 temporadas la mayoría del público había asumido que la serie tenía como base los peligros de la tecnología, al fin y al cabo el nexo entre (casi) todos los episodios es precisamente ese. Sin embargo, …",
+      "Url": "https://www.revistagq.com/articulo/black-mirror-netflix-de-que-trata-charlie-brooker",
+      "UrlToImage": "https://media.revistagq.com/photos/6494143508544f0d44b2b00d/16:9/w_1280,c_limit/BeyondTheSea_NETFLIX_0311_RT.jpg",
+      "PublishedAt": "2023-06-22T09:30:25Z",
+      "Content": "¿Sabemos de qué trata Black Mirror realmente? Después de 6 temporadas la mayoría del público había asumido que la serie tenía como base los peligros de la tecnología, al fin y al cabo el nexo entre (… [+1789 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "Manu García (Visnuh)",
+      "Title": "Aún no está a la venta y ya lleva descuento: este teléfono HONOR puede ser tuyo por 50 euros menos",
+      "Description": "HONOR estrena esta semana un nuevo terminal de gama media y si le has echado un vistazo y has pensado que podría ser tu próximo teléfono, estás de suerte. El nuevo Honor 90 Lite ya se puede pedir y, se puede conseguir con ahorro: la propia marca nos lo ofrece…",
+      "Url": "https://www.xataka.com/seleccion/no-esta-a-venta-lleva-descuento-este-telefono-honor-puede-ser-tuyo-50-euros",
+      "UrlToImage": "https://i.blogs.es/538ee7/honor_90_lite/840_560.jpeg",
+      "PublishedAt": "2023-06-22T09:15:15Z",
+      "Content": "HONOR estrena esta semana un nuevo terminal de gama media y si le has echado un vistazo y has pensado que podría ser tu próximo teléfono, estás de suerte. El nuevo Honor 90 Lite ya se puede pedir y, … [+2382 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Natalia Trzenko",
+      "Title": "And Just Like That: Sarah Jessica Parker y sus amigas están de regreso en la ciudad, de nuevo solteras y en busca de aventuras",
+      "Description": "La segunda temporada de la serie está disponible desde hoy en HBO Max",
+      "Url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/and-just-like-that-sarah-jessica-parker-y-sus-amigas-estan-de-regreso-en-la-ciudad-de-nuevo-solteras-nid22062023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/0d0MIisCJwmIsAm27GZ6Kyeo8so=/1920x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/H2QNRFZ4YZGXHOTASQ4LF7YY3M.jpeg",
+      "PublishedAt": "2023-06-22T09:00:00Z",
+      "Content": "22 de junio de 202306:00Hay cosas de las que Sarah Jessica Parker prefiere no hablar. Y no son aquellas relacionadas con su pelea con Kim Catrall o el regreso de la actriz y su personaje Samantha Jon… [+8868 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Sergio Cejas (Beld)",
+      "Title": "Más tiros, más acción y más personajes: el director de John Wick 4 confirma que hay en marcha una versión extendida",
+      "Description": "Una noticia fantástica para todos los seguidores de John Wick es que hoy mismo se ha estrenado en Amazon Prime Video el último capítulo hasta la fecha de una de las mejores franquicias de acción de los últimos años. Así pues, todos los suscriptores puede ver …",
+      "Url": "https://www.vidaextra.com/cine/tiros-accion-personajes-director-john-wick-4-confirma-que-hay-marcha-version-extendida",
+      "UrlToImage": "https://i.blogs.es/248118/john-wick-4/840_560.jpeg",
+      "PublishedAt": "2023-06-22T08:23:28Z",
+      "Content": "Una noticia fantástica para todos los seguidores de John Wick es que hoy mismo se ha estrenado en Amazon Prime Video el último capítulo hasta la fecha de una de las mejores franquicias de acción de l… [+2140 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "La película más vista de Amazon Prime Video, en habla no inglesa, es española",
+      "Description": "Las producciones españolas siguen dominando los servicios de streaming, la última prueba de ello es que la película más vista de Amazon Prime Video en su historia en la categoría de habla no inglesa es precisamente de nuestro país.\r\n\nDe acuerdo con los último…",
+      "Url": "https://www.revistagq.com/articulo/pelicula-mas-vista-amazon-prime-video-culpa-mia",
+      "UrlToImage": "https://media.revistagq.com/photos/6494024b2a10c0f8ee31a7a6/16:9/w_1280,c_limit/pelicula-mas-vista-prime-video-culpa-mia.jpeg",
+      "PublishedAt": "2023-06-22T08:15:19Z",
+      "Content": "Las producciones españolas siguen dominando los servicios de streaming, la última prueba de ello es que la película más vista de Amazon Prime Video en su historia en la categoría de habla no inglesa … [+1547 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Ram�n Varela",
+      "Title": "Sonic Central, una emisión dedicada a Sonic, se emite el 23 de junio",
+      "Description": "<!--cache-->Sega mostrará los nuevos juegos, proyectos, colaboraciones y más sobre Sonic en 2023, entre ellos el anunciado Sonic Superstars.<!--aa--->Sega ha anunciado un programa Sonic Central dedicado al futuro de Sonic. Se podrá seguir desde Youtube y Twit…",
+      "Url": "https://vandal.elespanol.com/noticia/1350763380/sonic-central-una-emision-dedicada-a-sonic-se-emite-el-23-de-junio/",
+      "UrlToImage": "https://media.vandal.net/i/ivandal/1200x630/6-2023/20236229551913_1.jpg",
+      "PublishedAt": "2023-06-22T08:04:00Z",
+      "Content": "Sega ha anunciado un programa Sonic Central dedicado al futuro de Sonic. Se podr seguir desde Youtube y Twitch maana -32 aniversario de la mascota-, 23 de junio a las 17:00 horas en la pennsula espao… [+1518 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "'Nine Perfect Strangers' tendrá temporada 2: el exclusivo resort de Nicole Kidman y David E. Kelley reabre sus puertas y ya sabemos su reparto",
+      "Description": "En esta era de miniseries que dejan de hacerlo esto ya no nos debería sorprender. Después de algo más de un año desde que empezase a haber ruido al respecto, parece que finalmente la plataforma estadounidense Hulu ha renovado 'Nine Perfect Strangers' por una …",
+      "Url": "https://www.espinof.com/series-de-ficcion/nine-perfect-strangers-tendra-temporada-2-exclusivo-resort-nicole-kidman-david-e-kelley-reabre-sus-puertas-sabemos-su-reparto",
+      "UrlToImage": "https://i.blogs.es/3600ce/nine-perfect-strangers-finale/840_560.jpeg",
+      "PublishedAt": "2023-06-22T08:01:16Z",
+      "Content": "En esta era de miniseries que dejan de hacerlo esto ya no nos debería sorprender. Después de algo más de un año desde que empezase a haber ruido al respecto, parece que finalmente la plataforma estad… [+1325 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Estas son las 4 brutales novedades de Amazon Prime Video que no dejarán indiferente a nadie",
+      "Description": "El catálogo de Amazon Prime Video nos trae una impresionante novedad esta semana. Sus suscriptores están de enhorabuena porque una película de acción que se estrenó en abril ya está en los catálogos de streaming gracias a la firme apuesta de Prime Video por t…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/estas-son-las-4-brutales-novedades-de-amazon-prime-video-que-no-dejaran-indiferente-a-nadie",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/06/john-wick-novedades-amazon-prime-video.png?width=1200",
+      "PublishedAt": "2023-06-22T08:01:08Z",
+      "Content": "Las novedades de esta semana de Prime Video suenan increíbles\r\nEl catálogo de Amazon Prime Video nos trae una impresionante novedad esta semana. Sus suscriptores están de enhorabuena porque una pelíc… [+4053 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xatakamovil.com"
+      },
+      "Author": "Álvaro García M.",
+      "Title": "Grandes novedades en streaming con lo nuevo de 'Sexo en Nueva York', la docuseie de la Reina Sofía, la última de 'John Wick' y otros 50 estrenos",
+      "Description": "Una semana más, las plataformas de streaming son noticia por muchas cosas. La subida de precios de HBO Max vaticiando más cambios, la estrategia de Netflix que les empieza a funcionar o la polémica eliminación de series de SkyShowtime. Sin embargo, lo importa…",
+      "Url": "https://www.xatakamovil.com/streaming/grandes-novedades-streaming-nuevo-sexo-nueva-york-docuseie-reina-sofia-ultima-john-wick-otros-50-estrenos",
+      "UrlToImage": "https://i.blogs.es/610acb/estrenos/840_560.jpeg",
+      "PublishedAt": "2023-06-22T07:03:27Z",
+      "Content": "Una semana más, las plataformas de streaming son noticia por muchas cosas. La subida de precios de HBO Max vaticiando más cambios, la estrategia de Netflix que les empieza a funcionar o la polémica e… [+5412 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El nuevo 'piercing' de María Pedraza que triunfa en las redes",
+      "Description": "No es una novedad que las 'celebrities' arriesguen con cada nueva tendencia de moda que aparece. Ya vimos a Victoria Federica con las cejas pintadas de rosa o a la infanta Sofía con un mono 'cut out' en su estilismo de confirmación . Los  'piercings' se han c…",
+      "Url": "https://www.abc.es/estilo/belleza/nuevo-piercing-maria-pedraza-triunfa-redes-20230620161352-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/estilo/2023/06/19/maria-pedraza2-U53704872320JSu-1024x512@abc.jpg",
+      "PublishedAt": "2023-06-22T05:49:39Z",
+      "Content": "No es una novedad que las 'celebrities' arriesguen con cada nueva tendencia de moda que aparece. Ya vimos a Victoria Federica con las cejas pintadas de rosa o a la infanta Sofía con un mono 'cut out'… [+1932 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Alfred Oliveri dejó atrás sus tiempos de reportero estrella en la Argentina y se afianza como productor con una nueva serie en Netflix",
+      "Description": "Instalado en Europa, se inclinó por trabajar detrás de cámara; su último proyecto, Virgilio, se basa en la vida del chef Virgilio Martínez y su restaurante peruano Central, que acaba de obtener el primer puesto en el ranking global en The World’s 50 Best Rest…",
+      "Url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/alfred-oliveri-dejo-atras-sus-tiempos-de-reportero-estrella-en-la-argentina-y-se-afianza-como-nid21062023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/MREnjQcGZMsT8wJ3dr5rxFkGG84=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/BMSEVPD36VHFRM6XI6RAVTVX4A.jpeg",
+      "PublishedAt": "2023-06-21T23:41:03Z",
+      "Content": "En los 90, Alfred Oliveri se paseaba por la televisión argentina como pez en el agua: fue reportero de Caiga quien caiga y El Rayo y su lugar dentro de los medios de comunicación parecía prometedor.H… [+5061 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "María Yuste",
+      "Title": "Así serían los personajes de 'Los Simpson' si fueran personas reales, según una inteligencia artificial (y flipamos con algunos)",
+      "Description": "La familia Simpson lleva tantos años entrando en nuestra casa a través del televisor que nos puede llegar a dar la sensación de que existieran realmente y fueran unos conocidos o familiares lejanos. Todo ello a pesar de ser amarillos, tener cuatro dedos y, pr…",
+      "Url": "https://www.trendencias.com/series-de-television/asi-serian-personajes-simpson-fueran-personas-reales-inteligencia-artificial-flipamos-algunos",
+      "UrlToImage": "https://i.blogs.es/23b89d/imagen-de-whatsapp-2023-06-21/840_560.jpeg",
+      "PublishedAt": "2023-06-21T20:35:21Z",
+      "Content": "La familia Simpson lleva tantos años entrando en nuestra casa a través del televisor que nos puede llegar a dar la sensación de que existieran realmente y fueran unos conocidos o familiares lejanos. … [+1707 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ipadizate.com"
+      },
+      "Author": "Gabriela Martínez",
+      "Title": "Tim Cook quiere una temporada 4 de Ted Lasso en Apple TV+, veremos si lo consigue",
+      "Description": "Si eres de los que esperan que haya una cuarta temporada de Ted Lasso, el CEO de Apple, Tim Cook, también. Apple TV + no dio tiempo para el duelo. Apenas unos días del final de la tercera temporada publicó un tweet en el que podíamos ver a los nuevos lideres …",
+      "Url": "https://ipadizate.com/apple-tv/tim-cook-quiere-una-temporada-4-de-ted-lasso-en-apple-tv-veremos-si-lo-consigue",
+      "UrlToImage": "https://ipadizate.com/hero/2022/11/Ted-Lasso-Apple-TV.1669064350.7372.png?width=1200",
+      "PublishedAt": "2023-06-21T19:30:37Z",
+      "Content": "Hay esperanzas para los seguidores de Ted Lasso\r\nSi eres de los que esperan que haya una cuarta temporada de Ted Lasso, el CEO de Apple, Tim Cook, también. Apple TV + no dio tiempo para el duelo. Ape… [+2127 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "El episodio más desternillante de 'Black Mirror' está inspirado en esta galardonada miniserie de Disney+ protagonizada por Amanda Seyfried",
+      "Description": "La temporada más atípica de 'Black Mirror' ha tenido capítulos tan variopintos como la mar de llamativos. Uno de ellos (y, para quien escribe, el mejor) es 'Joan es horrible' (Joan is Awful), una pesadilla existencial en forma de parodia, precisamente, de Net…",
+      "Url": "https://www.espinof.com/series-de-ficcion/mejor-episodio-temporada-6-black-mirror-esta-inspirado-esta-galardonada-miniserie-disney-plus-protagonizada-amanda-seyfried",
+      "UrlToImage": "https://i.blogs.es/c6d7d6/joanisawful_ep5_netflix_0259/840_560.jpeg",
+      "PublishedAt": "2023-06-21T19:01:13Z",
+      "Content": "La temporada más atípica de 'Black Mirror' ha tenido capítulos tan variopintos como la mar de llamativos. Uno de ellos (y, para quien escribe, el mejor) es 'Joan es horrible' (Joan is Awful), una pes… [+2263 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Antonio Cahun",
+      "Title": "Series de HBO llegarán a Netflix, según Deadline: Warner Bros. licenciará su contenido exclusivo en streaming para ganar más dinero",
+      "Description": "El contenido de HBO dejará de ser exclusivo y llegará a Netflix, reporta en exclusiva Deadline. El medio explica que, según su entendimiento, Warner Bros. Discovery licenciará algunas series exclusivas de HBO a Netflix, y esto marcará la primera vez en casi 1…",
+      "Url": "https://www.xataka.com.mx/streaming/series-hbo-llegaran-a-netflix-deadline-warner-bros-licenciara-su-contenido-exclusivo-streaming-para-ganar-dinero",
+      "UrlToImage": "https://i.blogs.es/204e41/hbo-licencia-contenido-exclusivo-series-netflix/840_560.jpeg",
+      "PublishedAt": "2023-06-21T18:01:14Z",
+      "Content": "El contenido de HBO dejará de ser exclusivo y llegará a Netflix, reporta en exclusivaDeadline. El medio explica que, según su entendimiento, Warner Bros. Discovery licenciará algunas series exclusiva… [+1744 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.co"
+      },
+      "Author": "Wilson Vega",
+      "Title": "Los créditos de ‘Secret Invasion’ fueron generados por IA… y hay una razón para ello",
+      "Description": "Desde diciembre del año pasado, las noticias sobre inteligencia artificial generativa se han multiplicado y hoy parece que no pasa un día sin que nos enteremos de un nuevo desarrollo que permite a las IA del mundo escribir poesía, replicar escenas de fábula o…",
+      "Url": "https://www.xataka.com.co/series-y-peliculas/creditos-secret-invasion-fueron-generados-ia-hay-razon-para-ello",
+      "UrlToImage": "https://i.blogs.es/a7a06a/captura-de-pantalla-2023-06-21-a-la-s-12.27.04/840_560.png",
+      "PublishedAt": "2023-06-21T17:36:54Z",
+      "Content": "Desde diciembre del año pasado, las noticias sobre inteligencia artificial generativa se han multiplicado y hoy parece que no pasa un día sin que nos enteremos de un nuevo desarrollo que permite a la… [+3042 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mariló Delgado",
+      "Title": "'Sailor Moon Cosmos' recupera el mejor opening del anime para pegarnos una patada de nostalgia con su película final",
+      "Description": "Ya se ha estrenado en Japón la primera parte de 'Sailor Moon Cosmos', las películas que cierran la serie de 'Sailor Moon Crystal' para contarnos al completo toda la historia de Usagi.\n<!-- BREAK 1 -->\nEl 30 de junio se estrena la película final con la que ter…",
+      "Url": "https://www.espinof.com/anime/sailor-moon-cosmos-recupera-mejor-opening-anime-para-pegarnos-patada-nostalgia-su-pelicula-final",
+      "UrlToImage": "https://i.blogs.es/4bfd75/sailor-moon-cosmos_img3/840_560.jpeg",
+      "PublishedAt": "2023-06-21T17:01:15Z",
+      "Content": "Ya se ha estrenado en Japón la primera parte de 'Sailor Moon Cosmos', las películas que cierran la serie de 'Sailor Moon Crystal' para contarnos al completo toda la historia de Usagi.\r\nEl 30 de junio… [+1562 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'The Idol': esta serie no se podría hacer hoy",
+      "Description": "Lo mejor de 'The Idol' (en HBO) es que es una de esas series que no se podrían hacer hoy: mi género favorito. El primer capítulo empieza a lo grande. Jocelyn, una estrella del pop interpretada por Lily-Rose Depp , que es joven y bella y solo tiene cosas que a…",
+      "Url": "https://www.abc.es/play/television/criticas/bruno-pardo-porto-the-idol-serie-hoy-20230621163431-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/06/21/the-idol-U80864631257VFn-1024x512@abc.jpg",
+      "PublishedAt": "2023-06-21T17:00:02Z",
+      "Content": "Lo mejor de 'The Idol' (en HBO) es que es una de esas series que no se podrían hacer hoy: mi género favorito. El primer capítulo empieza a lo grande. Jocelyn, una estrella del pop interpretada por Li… [+2099 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "MartinPixel",
+      "Title": "Netflix México, estrenos julio 2023: todas las novedades",
+      "Description": "Tenemos los estrenos de julio en Netflix con la tercera temporada de 'The Witcher' y un adiós del que no estamos listos. Por otro lado llega un documental con el caso de la \"Mataviejitas\", finalizando en anime con más episodios de 'One Piece' y lo que pinta c…",
+      "Url": "https://www.xataka.com.mx/streaming/netflix-mexico-estrenos-julio-2023-todas-novedades",
+      "UrlToImage": "https://i.blogs.es/d54aa7/estrenos-netflix-julio-2023/840_560.jpeg",
+      "PublishedAt": "2023-06-21T16:49:33Z",
+      "Content": "Tenemos los estrenos de julio en Netflix con la tercera temporada de 'The Witcher' y un adiós del que no estamos listos. Por otro lado llega un documental con el caso de la \"Mataviejitas\", finalizand… [+2395 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Culturaocio.com"
+      },
+      "Author": null,
+      "Title": "Netflix cambia su métrica de audiencias y ya tiene nueva serie más vista",
+      "Description": "En 2021 Netflix lanzó su Top 10, una página web en la que ofrece datos sobre las películas y series más vistas. Hasta la fecha, la plataforma de streaming contabilizaba las horas vistas de una determinada producción, pero ahora, y tras modificar su métrica, p…",
+      "Url": "https://www.culturaocio.com/tv/noticia-netflix-cambia-metrica-audiencias-ya-tiene-nueva-serie-mas-vista-20230621182531.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230621182531_1200.jpg",
+      "PublishedAt": "2023-06-21T16:25:31Z",
+      "Content": "MADRID, 21 Jun. (CulturaOcio) - \r\n   En 2021Netflix lanzó su Top 10, una página web en la que ofrece datos sobre las películas y series más vistas. Hasta la fecha, la plataforma de streaming contabil… [+4177 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Anabel Palomares",
+      "Title": "Esta telenovela mexicana se ha colado entre lo más visto de Netflix y promete desafiar muchas creencias sobre este polémico tema",
+      "Description": "Las telenovelas son un género televisivo que también tiene su espacio en plataformas de streaming. De hecho Netflix, tiene algunas de las mejores series turcas\r\n, esas telenovelas que se han puesto tan de moda por su capacidad para enganchar al espectador con…",
+      "Url": "https://www.trendencias.com/telenovelas/esta-telenovela-mexicana-se-ha-colado-visto-netflix-promete-desafiar-muchas-creencias-este-polemico-tema",
+      "UrlToImage": "https://i.blogs.es/c10364/madre_de_alquilernetflix/840_560.jpeg",
+      "PublishedAt": "2023-06-21T15:58:54Z",
+      "Content": "Las telenovelas son un género televisivo que también tiene su espacio en plataformas de streaming. De hecho Netflix, tiene algunas de las mejores series turcas\r\n, esas telenovelas que se han puesto t… [+2368 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Carla Monfort",
+      "Title": "'Zoey 101' vuelve 18 años después para irse de bodorrio: ya tenemos tráiler y fecha de estreno de 'Zoey 102'",
+      "Description": "Las películas y series de la primera década de los 2000 ya empiezan a ser carne de cañón para la nostalgia. Tras varios intentos, parece que por fin tendremos película de 'Zoey 101' y se estrena en Paramount+ el próximo 27 de julio.\n<!-- BREAK 1 -->\nDe vuelta…",
+      "Url": "https://www.espinof.com/trailers/zoey-101-vuelve-18-anos-despues-para-irse-bodorrio-tenemos-trailer-fecha-estreno-zoey-102",
+      "UrlToImage": "https://i.blogs.es/bec6df/7/840_560.jpeg",
+      "PublishedAt": "2023-06-21T15:31:14Z",
+      "Content": "Las películas y series de la primera década de los 2000 ya empiezan a ser carne de cañón para la nostalgia. Tras varios intentos, parece que por fin tendremos película de 'Zoey 101' y se estrena en P… [+1562 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "María Lancha",
+      "Title": "Ikea tiene el armario barato con el que hacer de un pequeño rincón un amplio vestidor",
+      "Description": "Conseguir un amplio vestidor en casa es el sueño frustrado que todas tenemos. Y es que, entrar en un paraíso de ropa, zapatos y complementos es como vivir en la mansión que siempre quisimos, rodeada de árboles, barbacoa en el jardín y un amplio cenador de jar…",
+      "Url": "https://decoracion.trendencias.com/dormitorio/ikea-tiene-armario-barato-que-hacer-pequeno-rincon-amplio-vestidor",
+      "UrlToImage": "https://i.blogs.es/c68813/pexels-anastasia-shuraeva-5705478/840_560.jpeg",
+      "PublishedAt": "2023-06-21T15:01:14Z",
+      "Content": "Conseguir un amplio vestidor en casa es el sueño frustrado que todas tenemos. Y es que, entrar en un paraíso de ropa, zapatos y complementos es como vivir en la mansión que siempre quisimos, rodeada … [+2389 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Anabel Palomares",
+      "Title": "Las 33 mejores películas de terror y miedo de la historia",
+      "Description": "Cualquier época del año es un buen momento para disfrutar de películas de brujas, de zombies, de fantasmas… sea cual sea la temática\r\n, nos gustan. Hemos recopilado las mejores películas de terror de la historia del cine, y las hemos clasificado de más antigu…",
+      "Url": "https://www.trendencias.com/propuestas-y-consejos/33-mejores-peliculas-terror-miedo-historia",
+      "UrlToImage": "https://i.blogs.es/001ffe/mejores-peliculas-de-terror-de-la-historia/840_560.jpeg",
+      "PublishedAt": "2023-06-21T15:01:10Z",
+      "Content": "Cualquier época del año es un buen momento para disfrutar de películas de brujas, de zombies, de fantasmas sea cual sea la temática\r\n, nos gustan. Hemos recopilado las mejores películas de terror de … [+21423 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lamenteesmaravillosa.com"
+      },
+      "Author": "Valeria Sabater",
+      "Title": "Jenna Ortega: los desafíos emocionales de grabar «Wednesday»",
+      "Description": "Asumir uno de los personajes góticos más icónicos de la cultura pop no fue fácil para Jenna Ortega. Todos quedamos fascinados con su representación de Wednesday Adams, Tim Burton sabía que era la actriz idónea para el papel. Y el resultado fue espectacular. L…",
+      "Url": "https://lamenteesmaravillosa.com/jenna-ortega-desafios-emocionales-grabar-wednesday/",
+      "UrlToImage": "https://lamenteesmaravillosa.com/wp-content/uploads/2023/06/jenna-ortega.jpg",
+      "PublishedAt": "2023-06-21T15:00:48Z",
+      "Content": "Última actualización:21 junio, 2023\r\nAsumir uno de los personajes góticos más icónicos de la cultura pop no fue fácil para Jenna Ortega. Todos quedamos fascinados con su representación de Wednesday A… [+6433 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "\"Luché mucho por el papel\": el actor que interpreta a uno de los personajes más carismáticos de The Boys no estaba en los planes de Amazon",
+      "Description": "Aunque todavía falte bastante para poder disfrutar de una nueva temporada, The Boys es actualmente una de las mejores series de superhéroes de la actualidad. Su estilo bizarro, su historia loca y su humor ácido la han posicionado como lo mejorcito que te pued…",
+      "Url": "https://www.vidaextra.com/series/luche-mucho-papel-actor-que-interpreta-a-uno-personajes-carismaticos-the-boys-no-estaba-planes-amazon",
+      "UrlToImage": "https://i.blogs.es/2be681/the-boys/840_560.jpeg",
+      "PublishedAt": "2023-06-21T14:58:51Z",
+      "Content": "Aunque todavía falte bastante para poder disfrutar de una nueva temporada, The Boys es actualmente una de las mejores series de superhéroes de la actualidad. Su estilo bizarro, su historia loca y su … [+2549 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "Zendaya está en pleno triángulo amoroso tenístico en el vibrante tráiler de 'Rivales', la primera comedia romántica de Luca Guadagnino",
+      "Description": "{\"videoId\":\"x8lxoin\",\"autoplay\":true,\"title\":\"Rivales - Tráiler VOSE de la película de Luca Guadagnino\",\"tag\":\"\"}\n \r\n\n\r\n\n Después de 'Hasta los huesos: Bones and All' parece que no vamos a tardar mucho en ver lo nuevo de Luca Guadagnino. El director italiano …",
+      "Url": "https://www.espinof.com/trailers/zendaya-esta-pleno-triangulo-amoroso-tenistico-vibrante-trailer-rivales-primera-comedia-romantica-luca-guadagnino",
+      "UrlToImage": "https://i.blogs.es/4d702f/x720/840_560.jpeg",
+      "PublishedAt": "2023-06-21T14:01:14Z",
+      "Content": "Después de 'Hasta los huesos: Bones and All' parece que no vamos a tardar mucho en ver lo nuevo de Luca Guadagnino. El director italiano ya tiene a punto de caramelo su nueva película, 'Rivales' (Cha… [+1169 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Pablo Naranjo",
+      "Title": "Tiembla, Carrie, que llegó Samantha: Sarah Jessica Parker rompe su silencio sobre el regreso de Kim Cattrall a 'And Just Like That'",
+      "Description": "Mañana jueves 22 de junio, la segunda temporada de 'And Just Like That', reboot de 'Sexo en Nueva York', asomará la cabeza, y los tacones, por la parilla de programación de HBO Max, dispuesta a deleitarnos con los líos amorosos, los outfits de infarto y las a…",
+      "Url": "https://www.trendencias.com/celebrities/tiembla-carrie-que-llego-samantha-sarah-jessica-parker-rompe-su-silencio-regreso-kim-cattrall-a-and-just-like-that",
+      "UrlToImage": "https://i.blogs.es/b8c028/182347032.0/840_560.jpeg",
+      "PublishedAt": "2023-06-21T13:52:45Z",
+      "Content": "Mañana jueves 22 de junio, la segunda temporada de 'And Just Like That', reboot de 'Sexo en Nueva York', asomará la cabeza, y los tacones, por la parilla de programación de HBO Max, dispuesta a delei… [+2602 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "Miércoles es la serie más vista de Netflix (en inglés) de la historia",
+      "Description": "Miércoles es la serie más vista de Netflix, en habla inglesa, de la historia de la plataforma, algo que todo el mundo creía imposible puesto que ese título lo tenía Stranger Things 4 y los datos que la compañía utiliza para determinar cuáles son sus programas…",
+      "Url": "https://www.revistagq.com/articulo/miercoles-serie-mas-vista-netflix-en-ingles-historia",
+      "UrlToImage": "https://media.revistagq.com/photos/6492f8ef08544f0d44b2afc5/16:9/w_1280,c_limit/Wednesday_S1_E2_00_39_17_17RC.jpg",
+      "PublishedAt": "2023-06-21T13:22:06Z",
+      "Content": "Miércoles es la serie más vista de Netflix, en habla inglesa, de la historia de la plataforma, algo que todo el mundo creía imposible puesto que ese título lo tenía Stranger Things 4 y los datos que … [+1954 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "Efectivamente, la secuencia de créditos de 'Invasión secreta' está hecha con Inteligencia Artificial. El director de la serie de Marvel lo justifica así",
+      "Description": "Recién estrenada en Disney+, hay un aspecto que ha empezado a llamar la atención relativo a 'Invasión secreta' ('Secret Invasion'), la nueva serie de Marvel en la plataforma cuyo primer episodio ya tenemos disponible.\n<!-- BREAK 1 -->\nProtagonizada por Samuel…",
+      "Url": "https://www.espinof.com/disney-plus/efectivamente-secuencia-creditos-invasion-secreta-esta-hecha-inteligencia-artificial-director-serie-marvel-justifica-asi",
+      "UrlToImage": "https://i.blogs.es/f73356/secret-invasion-ai-opening-credits/840_560.jpeg",
+      "PublishedAt": "2023-06-21T13:01:15Z",
+      "Content": "Recién estrenada en Disney+, hay un aspecto que ha empezado a llamar la atención relativo a 'Invasión secreta' ('Secret Invasion'), la nueva serie de Marvel en la plataforma cuyo primer episodio ya t… [+1977 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xatakamovil.com"
+      },
+      "Author": "Alejandro Alcolea",
+      "Title": "SkyShowtime saca las tijeras por sorpresa y elimina varias series que prometieron no borrar",
+      "Description": "La plataforma SkyShowtime va a cumplir cuatro meses en España y, tras un lanzamiento muy fuerte en el que aprovecharon el anuncio de las políticas de cuentas compartidas de Netflix y una promoción muy potente con una rebaja del 50% de por vida, consiguieron u…",
+      "Url": "https://www.xatakamovil.com/streaming/skyshowtime-saca-tijeras-sorpresa-elimina-varias-series-que-prometieron-no-borrar",
+      "UrlToImage": "https://i.blogs.es/8de81d/thanos-2/840_560.jpeg",
+      "PublishedAt": "2023-06-21T13:01:14Z",
+      "Content": "La plataforma SkyShowtime va a cumplir cuatro meses en España y, tras un lanzamiento muy fuerte en el que aprovecharon el anuncio de las políticas de cuentas compartidas de Netflix y una promoción mu… [+4480 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Eileen Cartter",
+      "Title": "The Idol: toda la historia sobre la coleta de rata de The Weeknd",
+      "Description": "“Mi abuela decía que nunca hay que fiarse de un tipo con coleta de rata”.\r\n\nEn el episodio 3 de The Idol (HBO) Destiny (Da'Vine Joy Randolph), la co-manager de la estrella del pop Jocelyn, pronuncia esa sabia frase después de que su clienta sucumba al lado os…",
+      "Url": "https://www.revistagq.com/articulo/the-idol-coleta-de-rata-the-weeknd-hbo",
+      "UrlToImage": "https://media.revistagq.com/photos/6492a68947440fcd9be420e6/16:9/w_1280,c_limit/abel-the-weeknd-tesfaye_2.jpg",
+      "PublishedAt": "2023-06-21T12:52:59Z",
+      "Content": "Ha dado mucho que hablar, concede el peluquero Chris Fulton, laureado con un Emmy, quien dirigió el departamento de peluquería de la serie durante los nuevos rodajes de Levinson. Según Fulton, fue Te… [+2387 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "John Tones",
+      "Title": "La audiencia de los éxitos de Netflix va a dejar de ser un secreto. Y la transparencia no es el único motivo",
+      "Description": "Desde siempre hemos criticado la opacidad de las plataformas de streaming a la hora de informar de sus audiencias. Algunas, como Disney+ o HBO, solo dan cifras de sus mayores éxitos o las globales en sus informes trimestrales. Otras, como Prime Video, contabi…",
+      "Url": "https://www.xataka.com/streaming/audiencia-exitos-netflix-va-a-dejar-ser-secreto-transparencia-no-unico-motivo",
+      "UrlToImage": "https://i.blogs.es/daf298/captura-de-pantalla-2023-06-21-a-las-9.33.23/840_560.jpeg",
+      "PublishedAt": "2023-06-21T12:01:14Z",
+      "Content": "Desde siempre hemos criticado la opacidad de las plataformas de streaming a la hora de informar de sus audiencias. Algunas, como Disney+ o HBO, solo dan cifras de sus mayores éxitos o las globales en… [+4203 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Juan Manuel Freire",
+      "Title": "Cynthia Nixon: \"Nunca vi a Miranda como la voz de la razón\"",
+      "Description": "Hablamos de una segunda temporada de 'And just like that' (HBO Max, desde el jueves, día 22) y no, simplemente, de la octava de 'Sexo en Nueva York' porque sus creadores querían marcar ciertas distancias respecto al original. De acuerdo, de nuevo tenemos al f…",
+      "Url": "https://www.elperiodico.com/es/series/20230621/cynthia-nixon-entrevista-michael-patrick-king-and-just-like-that-88967313",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/f2566877-1d66-4502-8376-ceb80561b056_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-06-21T11:25:49Z",
+      "Content": "Hablamos de una segunda temporada de 'And just like that&amp;mldr;' (HBO Max, desde el jueves, día 22) y no, simplemente, de la octava de 'Sexo en Nueva York' porque sus creadores querían marcar cier… [+5220 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ELLE.com"
+      },
+      "Author": "Begoña Alonso",
+      "Title": "La serie coreana de Netflix que te hará olvidar El Juego del Calamar ya está disponible y tiene solo 6 capítulos",
+      "Description": "Se llama 'El caballero negro' y es una de las series coreanas más interesantes de Netflix: distópica, emocionante, con grandes efectos visuales y unas escenas de lucha dignas de Hollywood. ¡Y solo tiene 6 capítulos!",
+      "Url": "https://www.elle.com/es/living/ocio-cultura/a44280556/serie-coreana-netflix-adictiva-corta-el-caballero-negro/",
+      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/blackknight-unit-105-30-00001-6492d21197a3c.jpg?crop=1.00xw:0.751xh;0,0.0854xh&resize=1200:*",
+      "PublishedAt": "2023-06-21T11:12:00Z",
+      "Content": "Lleva en el catálogo de Netflix desde hace poco más de un mes, pero es una auténtica joya que, en el momento de su estreno, pasó algo desapercibida, quizás sobrepasada por tantos nuevos proyectos que… [+3151 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Zonammorpg.com"
+      },
+      "Author": "Jose A. Castillo",
+      "Title": "Los miembros de Prime Gaming pueden reclamar juegos clásicos y contenido in-game para títulos muy conocidos en celebración del Prime Day 2023",
+      "Description": "Los miembros de Prime Gaming disfrutarán de grandes ofertas para celebrar el Prime Day ¡el martes 11 de julio! Desde hoy y hasta el 11 de julio, los miembros de Prime podrán conseguir juegos clásicos extra cada semana, como Prey, Baldur’s Gate II: Enhanced Ed…",
+      "Url": "https://www.zonammorpg.com/2023/06/21/los-miembros-de-prime-gaming-pueden-reclamar-juegos-clasicos-y-contenido-in-game-para-titulos-muy-conocidos-en-celebracion-del-prime-day-2023/",
+      "UrlToImage": "https://www.zonammorpg.com/wp-content/uploads/2023/01/16709376554110.jpg",
+      "PublishedAt": "2023-06-21T09:47:35Z",
+      "Content": "Los miembros de Prime Gaming disfrutarán de grandes ofertas para celebrar el Prime Day ¡el martes 11 de julio! Desde hoy y hasta el 11 de julio, los miembros de Prime podrán conseguir juegos clásicos… [+3797 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "La serie más vista de Netflix esta semana no es Black Mirror (sorprendentemente)",
+      "Description": "Todo el mundo está hablando de Black Mirror 6, pero resulta que esa no ha sido la serie más vista de Netflix de la semana. Y es que la plataforma ha estrenado un nuevo sistema para determinar qué es lo más popular en todo el mundo, y ya no cuenta solo el núme…",
+      "Url": "https://www.revistagq.com/articulo/serie-mas-vista-netflix-yo-nunca-black-mirror",
+      "UrlToImage": "https://media.revistagq.com/photos/6492c22447440fcd9be42122/16:9/w_1280,c_limit/NHIE_410_Unit_01220RC.jpg",
+      "PublishedAt": "2023-06-21T09:33:27Z",
+      "Content": "Todo el mundo está hablando de Black Mirror 6, pero resulta que esa no ha sido la serie más vista de Netflix de la semana. Y es que la plataforma ha estrenado un nuevo sistema para determinar qué es … [+2244 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Otra vez más. Netflix revienta el mercado con 14 novedades en la semana del 19 al 25 de junio",
+      "Description": "Netflix siempre apuesta por un estilo que hace que haya muchísimas novedades cada semana. Si que es verdad que algunas son títulos menores, pero son igualmente disfrutables de cara al fin de semana. Así, han conseguido que el catálogo de Netflix sea uno de lo…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/otra-vez-mas-netflix-revienta-el-mercado-con-14-novedades-en-la-semana-del-19-al-25-de-junio",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/06/netflix-novedades-junio.png?width=1200",
+      "PublishedAt": "2023-06-21T09:01:54Z",
+      "Content": "Estas son las novedades que prepara Netflix\r\nNetflix siempre apuesta por un estilo que hace que haya muchísimas novedades cada semana. Si que es verdad que algunas son títulos menores, pero son igual… [+3675 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Jorge Loser",
+      "Title": "'Invasión secreta' 1x01: un mohíno comienzo para el thriller de ultracuerpos de Marvel que promete subir octanos en su explosivo tramo final",
+      "Description": "Las series de superhéroes de Marvel han tomado aire antes de retomar su andadura con ‘Invasión Secreta’, casi un año más tarde del estreno de ‘She-Hulk’. Después de su tono ligero, el MCU vuelve a ponerse en el modo más serio, con un thriller de espías y cien…",
+      "Url": "https://www.espinof.com/disney-plus/invasion-secreta-1x01-mohino-comienzo-para-thriller-ultracuerpos-marvel-que-promete-subir-octanos-su-explosivo-tramo-final",
+      "UrlToImage": "https://i.blogs.es/616669/2023-secret-invasion-03/840_560.jpeg",
+      "PublishedAt": "2023-06-21T09:01:14Z",
+      "Content": "Las series de superhéroes de Marvel han tomado aire antes de retomar su andadura con Invasión Secreta, casi un año más tarde del estreno de She-Hulk. Después de su tono ligero, el MCU vuelve a poners… [+5029 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Applesfera.com"
+      },
+      "Author": "Miguel López",
+      "Title": "Malas noticias: tras 7 años trabajando en ella, Apple TV+ cancela el remake de 'Metrópolis' a cargo del creador de Mr. Robot",
+      "Description": "Con 'Fundación' parecía que la ambición de Apple para adaptar grandes obras de ciencia ficción no tenía límites, pero en Cupertino se han topado con ellos. La compañía ha cancelado la adaptación a serie moderna de 'Metropolis', la obra magna de Fritz Lang y p…",
+      "Url": "https://www.applesfera.com/servicios-apple/malas-noticias-7-anos-trabajando-ella-apple-tv-cancela-remake-metropolis-a-cargo-creador-mr-robot",
+      "UrlToImage": "https://i.blogs.es/44e6f6/captura-de-pantalla-2023-06-21-a-las-10.24.05/840_560.jpeg",
+      "PublishedAt": "2023-06-21T09:01:13Z",
+      "Content": "Con 'Fundación' parecía que la ambición de Apple para adaptar grandes obras de ciencia ficción no tenía límites, pero en Cupertino se han topado con ellos. La compañía ha cancelado la adaptación a se… [+1451 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Noel Ceballos",
+      "Title": "Por qué Invasión Secreta ha decidido crear sus títulos de crédito con IA (y por qué son tan fascinantemente feos)",
+      "Description": "Tus ojos no te han engañado: tras el prólogo de su primer episodio, Invasión Secreta lanza la que sin duda es la cabecera más fascinantemente fea de todo el Universo Cinematográfico Marvel. Y sí, los responsables de la serie han recurrido a la inteligencia ar…",
+      "Url": "https://www.revistagq.com/articulo/invasion-secreta-creditos-inteligencia-artificial",
+      "UrlToImage": "https://media.revistagq.com/photos/6492aaa1bb4ce388a34ab0d1/16:9/w_1280,c_limit/230620093956-05-secret-invasion-review.jpg",
+      "PublishedAt": "2023-06-21T08:57:00Z",
+      "Content": "Tus ojos no te han engañado: tras el prólogo de su primer episodio, Invasión Secreta lanza la que sin duda es la cabecera más fascinantemente fea de todo el Universo Cinematográfico Marvel. Y sí, los… [+3675 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Gerard Mart�",
+      "Title": "Consigue Prey y Star Wars: El Poder de la Fuerza gratis gracias a Prime Gaming",
+      "Description": "<!--cache-->Desde hoy mismo hasta el próximo 11 de julio, todos los miembros de Prime Gaming podrán reclamar una serie de juegos y recompensas 'in-game' sin ningún tipo de coste adicional por el Prime Day.<!--aa--->Los miembros de Prime Gaming podrán disfruta…",
+      "Url": "https://vandal.elespanol.com/noticia/1350763343/consigue-prey-y-star-wars-el-poder-de-la-fuerza-gratis-gracias-a-prime-gaming/",
+      "UrlToImage": "https://media.vandal.net/i/ivandal/1200x630/6-2023/202362110133768_1.jpg",
+      "PublishedAt": "2023-06-21T08:25:00Z",
+      "Content": "Los miembros de Prime Gaming podrn disfrutar de grandes ofertas para celebrar el Prime Day. Desde hoy y hasta el prximo 11 de julio, los miembros de Amazon Prime podrn hacerse cada semana con una ser… [+2949 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Compradiccion.com"
+      },
+      "Author": "Vanesa Soto",
+      "Title": "Confirmadas las fechas del Amazon Prime Day 2023: todo lo que sabemos sobre el evento de ofertas de Amazon hasta hoy",
+      "Description": "Todos llevamos con ganas de gangas bastantes meses y es que por fin ha llegado el tan esperado Amazon Prime Day  con ofertazas difíciles de resistir. En esta edición del 2023, los días elegidos han sido 11 y 12 de julio, similares a los del pasado año y que c…",
+      "Url": "https://www.compradiccion.com/otros/confirmadas-fechas-amazon-prime-day-2023-todo-que-sabemos-evento-ofertas-amazon-hoy",
+      "UrlToImage": "https://i.blogs.es/d22b10/primeday._cb635313408_/840_560.png",
+      "PublishedAt": "2023-06-21T08:16:57Z",
+      "Content": "Todos llevamos con ganas de gangas bastantes meses y es que por fin ha llegado el tan esperado Amazon Prime Day  con ofertazas difíciles de resistir. En esta edición del 2023, los días elegidos han s… [+2745 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Alberto García",
+      "Title": "Este Trivial Pursuit de Harry Potter es ideal para los viajes, viene con 600 preguntas y ahora está de oferta a mitad de precio",
+      "Description": "Poco a poco van surgiendo detalles del futuro de la franquicia de Harry Potter. Hace poco tiempo supimos de la existencia de la serie que está preparando HBO, un reinicio de la saga que ha generado diversas opiniones. Mientras esperamos a su estreno, podemos …",
+      "Url": "https://www.espinof.com/seleccion/este-trivial-pursuit-harry-potter-ideal-para-viajes-viene-600-preguntas-ahora-esta-oferta-a-mitad-precio",
+      "UrlToImage": "https://i.blogs.es/2d94d2/harry-potter/840_560.jpeg",
+      "PublishedAt": "2023-06-21T08:01:14Z",
+      "Content": "Poco a poco van surgiendo detalles del futuro de la franquicia de Harry Potter. Hace poco tiempo supimos de la existencia de la serie que está preparando HBO, un reinicio de la saga que ha generado d… [+1823 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "Enrique Pérez",
+      "Title": "El Amazon Prime Day 2023 es oficial: ya sabemos cuándo serán los dos grandes días de ofertas del verano",
+      "Description": "Amazon repite jugada. Como ya hizo el año pasado, el Prime Day de 2023 serán dos días en lugar de uno solo. Las fechas elegidas ya se han anunciado oficialmente: el Amazon Prime Day 2023 será el 11 y 12 de julio. \n<!-- BREAK 1 -->\nDurante esos dos días, el gi…",
+      "Url": "https://www.xataka.com/otros/amazon-prime-day-2023-oficial-sabemos-cuando-seran-dos-grandes-dias-ofertas-verano",
+      "UrlToImage": "https://i.blogs.es/298ada/prime-day-2023/840_560.jpeg",
+      "PublishedAt": "2023-06-21T07:24:19Z",
+      "Content": "Amazon repite jugada. Como ya hizo el año pasado, el Prime Day de 2023 serán dos días en lugar de uno solo. Las fechas elegidas ya se han anunciado oficialmente: el Amazon Prime Day 2023 será el 11 y… [+1692 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "Estrenos (21 de junio): 50 series, películas y documentales en Netflix, HBO Max, Amazon, Disney+, Filmin, Movistar Plus+, Apple TV y Atresplayer",
+      "Description": "En lo que pasamos el solsticio de verano, es miércoles y eso significa que, de nuevo, tenemos una oportunidad de repasar todo lo que llega a las plataformas de streaming. En esta ocasión contamos con 50 series, películas y documentales que llegan desde hoy a …",
+      "Url": "https://www.espinof.com/estrenos/estrenos-21-junio-series-peliculas-documentales-netflix-hbo-max-amazon-disney-plus-filmin-movistar-plus-apple-tv-atresplayer",
+      "UrlToImage": "https://i.blogs.es/4b9aad/secret-invasion-samuel-l-jackson-642a8a1c243f8/840_560.jpeg",
+      "PublishedAt": "2023-06-21T07:01:14Z",
+      "Content": "En lo que pasamos el solsticio de verano, es miércoles y eso significa que, de nuevo, tenemos una oportunidad de repasar todo lo que llega a las plataformas de streaming. En esta ocasión contamos con… [+4299 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lavozdegalicia.es"
+      },
+      "Author": "Oskar Belategui",
+      "Title": "Arnold Schwarzenegger, una vida de ambición desmedida",
+      "Description": "El actor  pasa por encima de los aspectos más oscuros de su biografía una serie documental de Netflix",
+      "Url": "https://www.lavozdegalicia.es/noticia/series/2023/06/20/arnold-schwarzenegger-vida-ambicion-desmedida/00031687267771056700951.htm",
+      "UrlToImage": "https://www.lavozdegalicia.es/default/2023/06/20/00121687268282959337570/Foto/j06j3017.jpg",
+      "PublishedAt": "2023-06-21T03:00:00Z",
+      "Content": "Arnold arranca con su protagonista fumndose un puro en un yacusirodeado de montaas nevadas y concluye, tres horas ms tarde, con David Bowie cantando Heroes en alemn. Un vistazo a la sala de trofeos d… [+4441 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -444,864 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/590937/habitacion-perdida-cartel/840_560.jpeg",
       "PublishedAt": "2023-06-19T19:30:57Z",
       "Content": "Se estrenan tantas series que es muy complicado seguirle el ritmo a todas, por lo que mejor ni hablemos de producciones de hace ya unos cuantos años que tampoco hicieron mucho ruido en su momento. Es… [+4321 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nacion.com"
-      },
-      "Author": "El Comercio/ Perú/ GDA",
-      "Title": "‘Berlín’: Netflix estrenó primer trailer del spin-off de ‘La casa de papel’",
-      "Description": "Netflix adelantó que la serie Berlín, el spin-off de La casa de papel, estará disponible en pocos meses.",
-      "Url": "https://www.nacion.com/viva/entretenimiento/berlin-netflix-estreno-primer-trailer-del-spin-off/DTAVZRCR3BD3TNK4ZCJ2BLB6BE/story/",
-      "UrlToImage": "https://www.nacion.com/resizer/en9rQSKrxm97OmOtKGgzdQExA6o=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/PSXZZE2CORHGNLIB5JYTOA35QU.webp",
-      "PublishedAt": "2023-06-19T19:09:00Z",
-      "Content": "El esperado evento global TUDUM de Netflix continúa sorprendiendo a los fanáticos. Esta vez, el gigante del streaming reveló el primer teaser tráiler de la esperada serie Berlín, el spin-off de la pr… [+2280 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Gabriel Arias Romero, Lorenzo Ayuso",
-      "Title": "Las 17 series de la semana se dividen entre Marvel, 'The Walking Dead' y el regreso de 'And Just Like That'",
-      "Description": "Las temperaturas no son lo único que sube ahora que entramos oficialmente en la estación estival. También lo hacen los estrenos semanales de ficción: 17 series, entre debuts y regresos, se acumulan entre este lunes 19 y el domingo 25 de junio. Un número muy s…",
-      "Url": "https://www.eldiario.es/vertele/series/estrenos-semana-lunes-19-domingo-25-junio-disney-hbo-max-netflix-amc-apple-tv-amazon-prime-video-the-walking-dead-invasion-secreta_1_10302499.html",
-      "UrlToImage": "https://static.eldiario.es/clip/df5856fe-c57e-4369-bda0-4b66f03528c7_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-06-19T18:45:08Z",
-      "Content": "Las temperaturas no son lo único que sube ahora que entramos oficialmente en la estación estival. También lo hacen los estrenos semanales de ficción: 17 series, entre debuts y regresos, se acumulan e… [+11733 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "La Tokyo Manji vuelve por todo lo alto: la tercera temporada de Tokyo Revengers llegará este mismo año",
-      "Description": "La industria del anime no para en este 2023 y, después del anuncio de la cuarta temporada de Kimetsu no Yaiba, Liden Films ha confirmado lo que muchos esperaban desde el final de la Temporada 2: Tokyo Revengers volverá este mismo año con el estreno de una ter…",
-      "Url": "https://www.vidaextra.com/series/tokyo-manji-vuelve-todo-alto-tercera-temporada-tokyo-revengers-llegara-este-ano",
-      "UrlToImage": "https://i.blogs.es/6f10c9/tokyo-revengers/840_560.jpeg",
-      "PublishedAt": "2023-06-19T18:30:57Z",
-      "Content": "La industria del anime no para en este 2023 y, después del anuncio de la cuarta temporada de Kimetsu no Yaiba, Liden Films ha confirmado lo que muchos esperaban desde el final de la Temporada 2: Toky… [+1258 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "John Tones",
-      "Title": "Para aguantar hasta 'El problema de los tres cuerpos' en Netflix, nada mejor que esta cósmica película de su mismo autor",
-      "Description": "'El problema de los tres cuerpos' se ha convertido en una de las series más esperadas de los próximos estrenos de Netflix. El crédito como creadores de David Benioff y D. B. Weiss, de 'Juego de tronos' y el prestigio que se ha ganado el escritor chino de cien…",
-      "Url": "https://www.xataka.com/streaming/para-aguantar-problema-tres-cuerpos-netflix-nada-mejor-que-esta-cosmica-pelicula-su-autor",
-      "UrlToImage": "https://i.blogs.es/1f4b57/liu-peiqiang/840_560.jpeg",
-      "PublishedAt": "2023-06-19T18:00:57Z",
-      "Content": "'El problema de los tres cuerpos' se ha convertido en una de las series más esperadas de los próximos estrenos de Netflix. El crédito como creadores de David Benioff y D. B. Weiss, de 'Juego de trono… [+1856 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "'Black Mirror': de peor a mejor, ponemos en orden todos los episodios de la temporada 6 de la serie de Netflix",
-      "Description": "Después de cuatro años de ausencia, el jueves 15 de junio volvió 'Black Mirror' por todo lo alto con una temporada 6 compuesta por cinco episodios y unas ganas por contar otro tipo de historias. Una entrega algo atípica en la que la serie de Netflix se alejab…",
-      "Url": "https://www.espinof.com/listas/black-mirror-todos-episodios-temporada-6-ordenados-peor-a-mejor",
-      "UrlToImage": "https://i.blogs.es/6faa9d/black-mirror-temporada-6/840_560.jpeg",
-      "PublishedAt": "2023-06-19T17:30:59Z",
-      "Content": "Después de cuatro años de ausencia, el jueves 15 de junio volvió 'Black Mirror' por todo lo alto con una temporada 6 compuesta por cinco episodios y unas ganas por contar otro tipo de historias. Una … [+4164 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Leanne Butkovic",
-      "Title": "Tráiler de El problema de los tres cuerpos, lo nuevo de los creadores de Juego de Tronos",
-      "Description": "Puedes marcar en tu calendario el estreno en enero de 2024.\nYa se ha compartido el tráiler y la fecha de estreno de la nueva serie de ciencia ficción de David Benioff y DB Weiss para Netflix.",
-      "Url": "https://es.ign.com/3-body-problem/191927/news/trailer-de-el-problema-de-los-tres-cuerpos-lo-nuevo-de-los-creadores-de-juego-de-tronos",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/news/3/3-body-pro/3-body-problem-netflix-drops-first-teaser-premiere-month-for_1r2p.1200.jpg",
-      "PublishedAt": "2023-06-19T17:30:26Z",
-      "Content": "Ya está aquí el primer tráiler de 'El problema de los tres cuerpos'. Revelado durante la retransmisión en directo de Tudum de Netflix, el tráiler también ha anunciado el mes de lanzamiento de la seri… [+1843 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "El tráiler de One Piece de Netflix divide a los fans: \"Pinta mal, dame un CGI mejor\"",
-      "Description": "El 31 de agosto Netflix lanzará One Piece, serie de imagen real basada en el manga de Eiichiro Oda. Los fans ya han podido ver el tráiler y, a juzgar por sus comentarios en redes sociales, parece haber generado división de opiniones.",
-      "Url": "https://www.culturaocio.com/cine/noticia-trailer-one-piece-netflix-divide-fans-pinta-mal-dame-cgi-mejor-20230619184720.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230619184720_1200.jpg",
-      "PublishedAt": "2023-06-19T16:47:20Z",
-      "Content": "MADRID, 19 Jun. (CulturaOcio) - \r\n   El 31 de agosto Netflix lanzará One Piece, serie de imagen real basada en el manga de Eiichiro Oda. Los fans ya han podido ver el tráiler y, a juzgar por sus come… [+4427 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mundodeportivo.com"
-      },
-      "Author": "Adrià Rodríguez",
-      "Title": "Estos son los estrenos de la semana en Disney Plus, Prime Video, HBO Max, Filmin y Netflix",
-      "Description": "Cada semana, las plataformas de ‘streaming’ sorprenden con nuevos estrenos. Y qué mejor plan que comenzar una serie, ponerte al día con la nueva temporada de tu ficción favorita o disfrutar de una buena película.",
-      "Url": "https://www.mundodeportivo.com/elotromundo/television/20230619/1002026168/son-estrenos-semana-disney-plus-prime-video-hbo-max-filmin-netflix-dct.html",
-      "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2023/06/19/6490854495e0d.jpeg",
-      "PublishedAt": "2023-06-19T16:43:24Z",
-      "Content": "Cada semana, las plataformas de streaming sorprenden con nuevos estrenos. Y qué mejor plan que comenzar una serie, ponerte al día con la nueva temporada de tu ficción favorita o disfrutar de una buen… [+5522 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eurogamer.es"
-      },
-      "Author": "Paula García",
-      "Title": "Henry Cavill dice adiós al papel de Geralt de Rivia en la serie de The Witcher",
-      "Description": "Henry Cavill se ha despedido oficialmente de su papel de Geralt de Rivia en la serie de Netflix de The Witcher. Lo ha hecho en Tudum 2023, el evento para fans de series de Netflix celebrado este fin de semana. Allí, se ha subido al escenario junto a otros de …",
-      "Url": "https://www.eurogamer.es/henry-cavill-dice-adios-al-papel-de-geralt-de-rivia-en-la-serie-de-the-witcher",
-      "UrlToImage": "https://assetsio.reedpopcdn.com/Henry-Cavill-The-Witcher-season-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "PublishedAt": "2023-06-19T16:11:23Z",
-      "Content": "Henry Cavill se ha despedido oficialmente de su papel de Geralt de Rivia en la serie de Netflix de The Witcher. Lo ha hecho en Tudum 2023, el evento para fans de series de Netflix celebrado este fin … [+1831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakamovil.com"
-      },
-      "Author": "Laura Sacristán",
-      "Title": "Sorteos, descuentos, regalos y hasta un viaje a París: así son los 'Días de Verano' de Orange",
-      "Description": "Estamos a las puertas del verano, o lo que es lo mismo, la época en la que la mayoría de operadores aprovechan para lanzar las promociones de cara a los meses más calurosos del año. Entre otros, ya lo hemos visto en Vodafone y en Orange; en este último, por p…",
-      "Url": "https://www.xatakamovil.com/orange/sorteos-descuentos-regalos-viaje-a-paris-asi-dias-verano-orange",
-      "UrlToImage": "https://i.blogs.es/2de343/dias-verano-orange/840_560.jpeg",
-      "PublishedAt": "2023-06-19T16:00:58Z",
-      "Content": "Estamos a las puertas del verano, o lo que es lo mismo, la época en la que la mayoría de operadores aprovechan para lanzar las promociones de cara a los meses más calurosos del año. Entre otros, ya l… [+1884 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Estrella Gomez, Leanne Butkovic",
-      "Title": "Así es el primer adelanto del reality show de El Juego del Calamar, el esperado proyecto de Netflix",
-      "Description": "La gran muñeca animatrónica ha vuelto para atormentarte.\nEcha un vistazo al primer adelanto de El Juego del Calamar: El desafío, el próximo reality show de Netflix basado en la exitosa serie.",
-      "Url": "https://es.ign.com/squid-game/191928/news/asi-es-el-primer-adelanto-del-reality-show-de-el-juego-del-calamar-el-esperado-proyecto-de-netflix",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/news/n/netflix-un/netflix-unveils-the-first-teaser-for-the-squid-game-reality_d3ht.1200.jpg",
-      "PublishedAt": "2023-06-19T16:00:31Z",
-      "Content": "Durante el Tudum 2023, Netflix permitió a sus seguidores echarle un vistazo a su esperado reality show basado en El Juego del Calamar, serie que ganó un Emmy en 2021. Al igual que la serie, que actua… [+1607 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "menshealth.com"
-      },
-      "Author": "Joaquín Gasca Calatayud",
-      "Title": "Henry Cavill se despide de The Witcher con este emotivo vídeo",
-      "Description": "En su despedida de la serie de Netflix, Cavill no está siendo capaz de aguantar la emoción.",
-      "Url": "https://www.menshealth.com/es/noticias-deportivas-masculinas/a44250875/henry-cavill-the-witcher-despedida-video/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/henry-cavill-fotogramas-1639424114.jpg?crop=1.00xw:0.753xh;0,0.0318xh&resize=1200:*",
-      "PublishedAt": "2023-06-19T15:25:23Z",
-      "Content": "Joaquín Gasca es experto en deportes de competición, tecnología y motor. Hace un tiempo que colgó las botas de tacos para centrarse en el pádel y el running cosas de la edad, se queja. Pero también s… [+1165 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakahome.com"
-      },
-      "Author": "Jose Antonio Carmona",
-      "Title": "Ya puedes descargar lo más nuevo de Kodi. La versión Omega Alpha 2 ya está disponible y estas son sus novedades",
-      "Description": "Si te gusta tener un centro multimedia potente y flexible, seguro que conoces Kodi. Kodi es un software que permite a los usuarios organizar, reproducir y personalizar su contenido multimedia de diversas fuentes en diferentes plataformas. Un sistema que ahora…",
-      "Url": "https://www.xatakahome.com/centro-multimedia/puedes-descargar-nuevo-kodi-version-omega-alpha-2-esta-disponible-estas-sus-novedades",
-      "UrlToImage": "https://i.blogs.es/7ac0bb/discos/840_560.jpeg",
-      "PublishedAt": "2023-06-19T15:03:49Z",
-      "Content": "Si te gusta tener un centro multimedia potente y flexible, seguro que conoces Kodi. Kodi es un software que permite a los usuarios organizar, reproducir y personalizar su contenido multimedia de dive… [+3081 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "Buenas noticias para los fans de Genndy Tartakovsky: la potentísima 'Primal' tendrá temporada 3, y ya está en producción",
-      "Description": "Genndy Tartakovsky este año nos ha dejado dos regalazos entre la segunda temporada de 'Primal' y el estreno de 'Unicorn: Warriors Eternal', y tiene más reservado. Aunque entre las cancelaciones de HBO Max y que la serie había pasado un poco desapercibida, muc…",
-      "Url": "https://www.espinof.com/animacion/buenas-noticias-para-fans-genndy-tartakovsky-potentisima-primal-tendra-temporada-3-esta-produccion",
-      "UrlToImage": "https://i.blogs.es/b7eab6/primal/840_560.jpeg",
-      "PublishedAt": "2023-06-19T15:00:58Z",
-      "Content": "Genndy Tartakovsky este año nos ha dejado dos regalazos entre la segunda temporada de 'Primal' y el estreno de 'Unicorn: Warriors Eternal', y tiene más reservado. Aunque entre las cancelaciones de HB… [+1710 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "John Tones",
-      "Title": "Este clásico total de la ciencia ficción iba a ser rehecho por el creador de 'Mr. Robot', pero se ha cancelado definitivamente",
-      "Description": "Pocas películas más legendarias para el género de la ciencia ficción que 'Metrópolis' de Fritz Lang, la visionaria distopía alemana de 1927 cuya capacidad para vaticinar y advertir de futuros terrores sigue completamente vigente. La deshumanización, la creaci…",
-      "Url": "https://www.xataka.com/streaming/este-clasico-total-ciencia-ficcion-iba-a-ser-rehecho-creador-mr-robot-se-ha-cancelado-definitivamente",
-      "UrlToImage": "https://i.blogs.es/af6071/gettyimages-535015057-1024x1024/840_560.jpeg",
-      "PublishedAt": "2023-06-19T14:30:57Z",
-      "Content": "Pocas películas más legendarias para el género de la ciencia ficción que 'Metrópolis' de Fritz Lang, la visionaria distopía alemana de 1927 cuya capacidad para vaticinar y advertir de futuros terrore… [+2718 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Paula Torres",
-      "Title": "'Berlín': Todo lo que sabemos del spin-off de 'La casa de papel'",
-      "Description": "NUEVA BANDA El elenco de la serie ha hablado sobre sus personajes y su experiencia en el rodaje. 'Berlín' llegará a Netflix en diciembre.'Berlín': Todo lo que sabemos del spin-off de 'La casa de papel'",
-      "Url": "https://www.ecartelera.com/noticias/berlin-todo-lo-que-sabemos-spin-off-la-casa-de-papel-73790/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/73700/73790-h2.jpg",
-      "PublishedAt": "2023-06-19T14:21:55Z",
-      "Content": "El pasado viernes los creadores Álex Pina y Esther Martínez Lobato se reunieron con el elenco de 'Berlín' para darnos más información sobre el spin-off de 'La casa de papel', que llegará a Netflix en… [+3944 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Joan es horrible, de Black Mirror, podría estar inspirado en una historia real (más o menos)",
-      "Description": "Que la realidad supera la ficción no debería sorprendernos, y que el episodio Joan es horrible, de Black Mirror, podría estar inspirada en un caso real tampoco. Y es que antes o después lo que ocurre en la serie de Charlie Brooker acaba pasando, y en este cap…",
-      "Url": "https://www.revistagq.com/articulo/joan-es-horrible-black-mirror-historia-real",
-      "UrlToImage": "https://media.revistagq.com/photos/6490636b911e71fcb99e499d/16:9/w_1280,c_limit/Joan%20Is%20Awful.jpg",
-      "PublishedAt": "2023-06-19T14:19:34Z",
-      "Content": "Que la realidad supera la ficción no debería sorprendernos, y que el episodio Joan es horrible, de Black Mirror, podría estar inspirada en un caso real tampoco. Y es que antes o después lo que ocurre… [+1802 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Darío del Alcázar",
-      "Title": "Lolita Flores confiesa los problemas económicos que atraviesa",
-      "Description": "Lolita se ha abierto en canal en la última entrevista que ha concedido al diario 'El Mundo' sobre la difícil situación económica que atraviesa a pesar de que la veamos en la nueva serie de SkyShowTime, 'Las invisibles', y cada viernes en 'Tu cara me suena' co…",
-      "Url": "https://www.trendencias.com/celebrities/lolita-flores-confiesa-problemas-economicos-que-atraviesa",
-      "UrlToImage": "https://i.blogs.es/4322c1/347682379_637561744505537_6306125255711040334_n/840_560.jpeg",
-      "PublishedAt": "2023-06-19T14:14:38Z",
-      "Content": "Lolita se ha abierto en canal en la última entrevista que ha concedido al diario 'El Mundo' sobre la difícil situación económica que atraviesa a pesar de que la veamos en la nueva serie de SkyShowTim… [+1465 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Estrella Gomez, Ryan Leston",
-      "Title": "Netflix comparte las primeras imágenes de Avatar: La leyenda de Aang con sus protagonistas dando el salto a la acción real",
-      "Description": "Agua. Tierra. Fuego. Aire.\nAsí son las primeras imágenes de la serie de acción real de Avatar: La leyenda de Aang que está siendo desarrollada por Netflix.",
-      "Url": "https://es.ign.com/avatar-the-last-airbender-live-action/191926/news/netflix-comparte-las-primeras-imagenes-de-avatar-la-leyenda-de-aang-con-sus-protagonistas-dando-el-s",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_ahdu.1200.jpg",
-      "PublishedAt": "2023-06-19T14:00:30Z",
-      "Content": "Netflix ha compartido las primeras imágenes de su nueva y esperada serie de acción real de Avatar: La leyenda de Aang.\r\nCon motivo de su Tudum 2023, Netflix publicó un breve vídeo donde podemos ver l… [+1731 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Mario André",
-      "Title": "La adaptación de 'Metrópolis' se convierte en la primera serie cancelada a causa de la huelga de guionistas",
-      "Description": "NO ESTABA EN EL GUIÓN La huelga de guionistas obliga a cancelar la serie de Apple TV+ 'Metrópolis', adaptación del clásico de ciencia ficción de Fritz Lang.La adaptación de 'Metrópolis' se convierte en la primera serie cancelada a causa de la huelga de guioni…",
-      "Url": "https://www.ecartelera.com/noticias/metropolis-cancelada-huelga-guionistas-73789/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/73700/73789-h2.jpg",
-      "PublishedAt": "2023-06-19T13:40:00Z",
-      "Content": "La huelga de guionistas sigue causando estragos entre las principales producciones de la industria pero esta vez, ha conseguido algo que hasta el momento no había logrado. 'Metrópolis' se ha converti… [+2032 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Aristeguinoticias.com"
-      },
-      "Author": "Redacción AN / BJC",
-      "Title": "Murió Rosario Zúñiga, actriz que trabajó por la equidad de género a través del arte",
-      "Description": "Su último papel fue en la serie de suspenso dramático 'Tríada', creada por Leticia López-Margalli y estrenada en Netflix el 22 de febrero de 2023.",
-      "Url": "https://aristeguinoticias.com/1906/cultura/murio-rosario-zuniga-actriz-que-trabajo-por-la-equidad-de-genero-a-traves-del-arte/",
-      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/06/muere-rosario-zuñiga-ANDA.jpeg",
-      "PublishedAt": "2023-06-19T13:38:40Z",
-      "Content": "La actriz mexicana Rosario Zúñiga murió el domingo 18 de junio a los 59 años de edad, según confirmó la Asociación Nacional de Actores (ANDA) en sus redes sociales.\r\nComo intérprete de cine, debutó e… [+1922 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elseptimoarte.net"
-      },
-      "Author": "wanchope",
-      "Title": "Se cancela el 'Metrópolis' de Sam Esmail",
-      "Description": "UCP ha decidido finalmente cancelar la producción de 'Metrópolis', la ambiciosa serie de televisión inspirada en el clásico de 1927 dirigido por Fritz Lang que iba contar con Sam Esmail ('Mr. Robot', 'Homecoming') como principal responsable creativo. \n\nUna de…",
-      "Url": "https://www.elseptimoarte.net/noticias/tv-series/se-cancela-el-metropolis-de-sam-esmail-45558.html",
-      "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/122591.jpg",
-      "PublishedAt": "2023-06-19T13:38:32Z",
-      "Content": "UCP ha decidido finalmente cancelar la producción de 'Metrópolis', la ambiciosa serie de televisión inspirada en el clásico de 1927 dirigido por Fritz Lang que iba contar con Sam Esmail ('Mr. Robot',… [+1368 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'The Idol', criticada por una coordinadora de intimidad por parodiar su labor: \"Nos han usado de hazmerreír\"",
-      "Description": "Marci Liroff, coordinadora de intimidad de Hollywood, ha reaccionado contra The Idol, que con apenas tres episodios emitidos se ha ganado la aureola de serie más controvertida de HBO en años. La profesional se queja de que la serie utilice a su gremio como \"e…",
-      "Url": "https://www.eldiario.es/vertele/series/the-idol-gana-criticas-coordinadora-intimidad-parodiarlos-han-usado-hazmerreir_1_10307543.html",
-      "UrlToImage": "https://static.eldiario.es/clip/7eb6a16e-4862-47d5-aebd-ecae0a857667_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-06-19T13:07:13Z",
-      "Content": "Marci Liroff, coordinadora de intimidad de Hollywood, ha reaccionado contra The Idol, que con apenas tres episodios emitidos se ha ganado la aureola de serie más controvertida de HBO en años. La prof… [+4217 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Esteban García Marcos",
-      "Title": "Estas son las tres novedades que nos ofrece HBO Max en la semana del 19 al 25 de junio",
-      "Description": "Esta semana tenemos un poquito de todo en el catálogo de HBO Max: un buen documental, comedia y una crítica satírica que toca prácticamente todos los géneros. Por ello, aunque solo sean tres novedades lo cierto es que tienen más enjundia de lo que podría pare…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/estas-son-las-tres-novedades-que-nos-ofrece-hbo-max-en-la-semana-del-19-al-25-de-junio",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/06/the-righteous-gemstones.png?width=1200",
-      "PublishedAt": "2023-06-19T13:00:32Z",
-      "Content": "Estas son las novedades que prepara HBO Max\r\nEsta semana tenemos un poquito de todo en el catálogo de HBO Max: un buen documental, comedia y una crítica satírica que toca prácticamente todos los géne… [+3619 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Anabel Palomares",
-      "Title": "Esta es la presunta fecha de estreno de la temporada 3 de ‘Los Bridgerton’ que Netflix ha filtrado por error",
-      "Description": "La tercera temporada de Netflix no llega y estamos como un niño esperando la noche de Reyes en pleno mes de agosto. Queda tanto que empezamos a pensar que se están marcando un Stranger Things y que el momento no llegará nunca como parece que pasará con la qui…",
-      "Url": "https://www.trendencias.com/series-de-television/esta-presunta-fecha-estreno-temporada-3-bridgerton-que-netflix-ha-filtrado-error",
-      "UrlToImage": "https://i.blogs.es/5ef20e/los-bridgerton-temporada-3/840_560.jpeg",
-      "PublishedAt": "2023-06-19T12:54:31Z",
-      "Content": "La tercera temporada de Netflix no llega y estamos como un niño esperando la noche de Reyes en pleno mes de agosto. Queda tanto que empezamos a pensar que se están marcando un Stranger Things y que e… [+1905 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Los anuncios de Tudum 2023 más importantes que debes conocer sí o sí",
-      "Description": "El pasado sábado por la noche Netflix dejó numerosos anuncios en Tudum 2023, el evento global a través del cual la compañía desde hace algunos años presenta sus novedades y contenido extra sobre las series y películas más seguidas por los suscriptores.\r\n\nEn e…",
-      "Url": "https://www.revistagq.com/articulo/tudum-2023-netflix-anuncios-series-peliculas",
-      "UrlToImage": "https://media.revistagq.com/photos/64904a436ad1daf59d696fa2/16:9/w_1280,c_limit/RBM_20220713_27067_R2.jpg",
-      "PublishedAt": "2023-06-19T12:32:16Z",
-      "Content": "El pasado sábado por la noche Netflix dejó numerososanuncios en Tudum 2023, el evento global a través del cual la compañía desde hace algunos años presenta sus novedades y contenido extra sobre las s… [+2772 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "\"He intentado no juzgar al personaje\". Los actores de 'Valeria' opinan sobre el polémico final de la serie de Netflix",
-      "Description": "El final de 'Valeria' ha levantado cierta polémica entre las fans de las novelas, ya que difiere con el de la saga literaria creada por Elísabet Benavent. Tras tres temporadas, las actrices han hecho balance del recorrido que han tenido y del desenlace de la …",
-      "Url": "https://www.espinof.com/actores-y-actrices/he-intentado-no-juzgar-al-personaje-actores-valeria-opinan-polemico-final-serie-netflix",
-      "UrlToImage": "https://i.blogs.es/c29ebe/valeria-3/840_560.jpeg",
-      "PublishedAt": "2023-06-19T12:30:57Z",
-      "Content": "El final de 'Valeria' ha levantado cierta polémica entre las fans de las novelas, ya que difiere con el de la saga literaria creada por Elísabet Benavent. Tras tres temporadas, las actrices han hecho… [+1687 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "Tenemos que hablar del final de Flash",
-      "Description": "La de Flash ha sido, sin lugar a dudas, una de las adaptaciones superheroicas más arduas y complejas de materializar desde que tenemos memoria. Los primeros planes para levantar una película sobre el velocista protagonizada por Ezra Miller datan de 2013, ante…",
-      "Url": "https://www.revistagq.com/articulo/flash-pelicula-final-cameos-explicados",
-      "UrlToImage": "https://media.revistagq.com/photos/6490312847440fcd9be41fb7/16:9/w_1280,c_limit/flash.jpg",
-      "PublishedAt": "2023-06-19T11:48:27Z",
-      "Content": "La de Flash ha sido, sin lugar a dudas, una de las adaptaciones superheroicas más arduas y complejas de materializar desde que tenemos memoria. Los primeros planes para levantar una película sobre el… [+4043 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "Porque el tráiler de 'One Piece no es suficiente, Netflix desvela más imágenes de Luffy y sus Sombrero de Paja. Y un curioso detalle conecta con el manga de Eiichiro Oda",
-      "Description": "Se ha hecho muchísimo de rogar, porque después de casi un año entero desde que se cerrase el rodaje de 'One Piece' por fin Netflix ha desvelado el esperadísimo primer trailer. Ya habíamos podido ver algún póster, pero esta era la primera vez que teníamos un v…",
-      "Url": "https://www.espinof.com/series-de-ficcion/porque-trailer-one-piece-no-suficiente-netflix-desvela-imagenes-luffy-sus-sombrero-paja-curioso-detalle-conecta-manga-eiichiro-oda",
-      "UrlToImage": "https://i.blogs.es/65e22a/one-piece_netflix/840_560.jpeg",
-      "PublishedAt": "2023-06-19T11:30:55Z",
-      "Content": "Se ha hecho muchísimo de rogar, porque después de casi un año entero desde que se cerrase el rodaje de 'One Piece' por fin Netflix ha desvelado el esperadísimo primer trailer. Ya habíamos podido ver … [+1973 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Berlín resucita para volver a los atracos: las primeras imágenes de la precuela de 'La casa de papel'",
-      "Description": "Berlín resucita para volver a los atracos. Pero vuelve al pasado, a sus orígenes, en los que fue forjando al auténtico Berlín que todos conocen. El universo de 'La Casa de Papel' regresa a Netflix a finales de año para traer a 'Berlín', un relato del pasado d…",
-      "Url": "https://www.abc.es/play/series/berlin-resucita-volver-atracos-primeras-imagenes-precuela-20230619133043-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/06/19/BERLN_S01_E02_20221003_433_tamaraarranz-U41768368130WIR-1024x512@abc.jpg",
-      "PublishedAt": "2023-06-19T11:30:44Z",
-      "Content": "Berlín resucita para volver a los atracos. Pero vuelve al pasado, a sus orígenes, en los que fue forjando al auténtico Berlín que todos conocen. El universo de 'La Casa de Papel' regresa a Netflix a … [+1849 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Tráiler de El problema de los 3 cuerpos, la nueva serie de los creadores de Juego de Tronos en Netflix",
-      "Description": "En el marco de TUDUM, el evento organizado por Netflix el pasado fin de semana en Sao Paulo para presentar sus novedades más importantes, vio vieron la luz las primeras imágenes de El problema de los 3 cuerpos. Una serie basada en la mítica saga literaria de …",
-      "Url": "https://www.culturaocio.com/tv/noticia-trailer-problema-cuerpos-nueva-serie-creadores-juego-tronos-netflix-20230619132639.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230619132639_1200.jpg",
-      "PublishedAt": "2023-06-19T11:26:39Z",
-      "Content": "MADRID, 19 Jun. (CulturaOcio) - \r\n   En el marco de TUDUM, el evento organizado por Netflix el pasado fin de semana en Sao Paulo para presentar sus novedades más importantes, vio vieron la luz las pr… [+2069 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Carlos Zahumenszky",
-      "Title": "Primer tráiler de la serie de Netflix de One Piece con actores reales",
-      "Description": "Apenas quedan dos meses para el desembarco de Monkey D. Luffy y su tripulación a Netflix. La plataforma de streaming acaba de hacer público el primer avance de su adaptación de One Piece a la televisión, la primera con actores de carne y hueso (y mucho CGI en…",
-      "Url": "https://es.gizmodo.com/one-piece-trailer-netflix-serie-estreno-1850552750",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dd51fdf5f1852ebd160240c1ad55893d.png",
-      "PublishedAt": "2023-06-19T11:20:00Z",
-      "Content": "Apenas quedan dos meses para el desembarco de Monkey D. Luffy y su tripulación a Netflix. La plataforma de streaming acaba de hacer público el primer avance de su adaptación de One Piece a la televis… [+1019 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Begoña Alonso",
-      "Title": "Netflix anuncia quién vuelve y quién se incorpora a 'El juego del calamar 2'",
-      "Description": "\"Los personajes que has estado esperando volverán por más\": parece que la segunda parte de la serie de Netflix 'El juego del calamar' viene con personajes ya conocidos y nuevas incorporaciones que están deseando ir a por todas.",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a44251814/el-juego-del-calamar-2-serie-netflix-reparto/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/el-juego-del-calamar-64902c4601910.jpg?crop=1.00xw:0.753xh;0,0&resize=1200:*",
-      "PublishedAt": "2023-06-19T10:37:00Z",
-      "Content": "El evento para fans TUDUM, que se ha celebrado el fin del semana del 16 al 18 de junio en Brasil, ha dado mucho de sí para conocer algunas pequeñas novedades o adelantos de algunas de las series más … [+1865 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "El Periódico",
-      "Title": "Estas son las primeras imágenes de la segunda temporada de 'El juego del calamar'",
-      "Description": "Netflix prepara el estreno de la segunda temporada de 'El juego del calamar', la serie surcoreana que destrozó registros de audiencias con su estreno en 2022. Por el momento, la fecha de estreno sigue siendo una incógnita, aunque la plataforma de 'streaming' …",
-      "Url": "https://www.elperiodico.com/es/extra/20230619/el-juego-del-calamar-segunda-temporada-primeras-imagenes-nuevos-actores-reality-dv-88880361",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/63777796-23f4-4b81-8a09-6c3de3afb0b3_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-06-19T10:31:49Z",
-      "Content": "Netflixprepara el estreno de la segunda temporada de 'El juego del calamar', la serie surcoreana que destrozó registros de audiencias con su estreno en 2022. Por el momento, la fecha de estreno sigue… [+1622 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Jorge Loser",
-      "Title": "Nunca dudes de Arnold Schwarzenegger: Netflix ha renovado 'Fubar' por una temporada 2 y desvela un vídeo con tomas falsas de su exitosa comedia de acción",
-      "Description": "Una noticias televisivas menos sorprendentes del año debería de ser que Netflix haya confirmado en su evento Tudum que mantendrá su relación con Arnold Schwarzenegger con la renovación de 'Fubar' para una segunda temporada, confirmando que los proyectos donde…",
-      "Url": "https://www.espinof.com/netflix/nunca-dudes-arnold-schwarzenegger-netflix-ha-renovado-fubar-segunda-temporada",
-      "UrlToImage": "https://i.blogs.es/2aa6ea/arnold-schwarzenegger-fubar-nuev/840_560.jpeg",
-      "PublishedAt": "2023-06-19T10:30:00Z",
-      "Content": "Una noticias televisivas menos sorprendentes del año debería de ser que Netflix haya confirmado en su evento Tudum que mantendrá su relación con Arnold Schwarzenegger con la renovación de 'Fubar' par… [+1636 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "VÍDEO: Henry Cavill, al borde del llanto, al despedirse de The Witcher tras la temporada 3",
-      "Description": "Una vez termine la tercera temporada de The Witcher, que se lanzará en Netflix el próximo 29 de junio, la serie de Netflix se despedirá de Henry Cavill, que será sustituido como Geralt de Rivia por el actor Liam Hemsworth. Y durante el pasado fin de semana el…",
-      "Url": "https://www.culturaocio.com/tv/noticia-video-henry-cavill-borde-llanto-despedirse-the-witcher-temporada-20230619122824.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230619122824_1200.jpg",
-      "PublishedAt": "2023-06-19T10:28:24Z",
-      "Content": "MADRID, 19 Jun. (CulturaOcio) - \r\n   Una vez termine la tercera temporada de The Witcher, que se lanzará en Netflix el próximo 29 de junio, la serie de Netflix se despedirá de Henry Cavill, que será … [+2177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "FormulaTV",
-      "Title": "Tráiler de 'Se busca millonario', la docuserie de Unicorn para HBO Max",
-      "Description": "BOLETO HUÉRFANO Un caso real inspira esta serie documental sobre un millonario boleto perdido que atrajo a numerosos pretendientes.Tráiler de 'Se busca millonario', la docuserie de Unicorn para HBO Max",
-      "Url": "https://www.formulatv.com/videos/trailer-se-busca-millonario-docuserie-hbo-max-26922/",
-      "UrlToImage": "https://www.formulatv.com/images/videos/26000/26922_1qim84RaxF-t.jpg",
-      "PublishedAt": "2023-06-19T10:08:51Z",
-      "Content": "Hace más de una década, un boleto premiado con 4,7 millones de euros no fue ligado a su correspondiente dueño. Tanto tiempo después, el misterio sigue en el aire, y ha sido recogido por el equipo de … [+1043 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Juan Sanmartín",
-      "Title": "Han editado el tráiler de One Piece con el doblaje original del anime en castellano y me han devuelto a mi infancia",
-      "Description": "Quedan apenas tres meses y medio para que podamos disfrutar del live action de One Piece. Netflix ha lanzado el primer tráiler de la producción que adapta los acontecimientos del manga de Eiichiro Oda y el resultado es francamente bueno. La saga del East Blue…",
-      "Url": "https://www.vidaextra.com/series/han-editado-trailer-one-piece-doblaje-original-anime-castellano-me-han-devuelto-a-mi-infancia",
-      "UrlToImage": "https://i.blogs.es/0d9575/aaaaqeilnrnddtr041vsyxx3mew5v3rz_dwbtiym-2ymxjmrpy7izryuipjatyfd6gptg2ulvv-vnbabdd_1agqaf5ulalpm-p1iypxbeng0wql1kfowes3e6wibnf3yse7dzlzsqm6w0jjrc5jpgovirvpwytm-1-/840_560.jpeg",
-      "PublishedAt": "2023-06-19T10:05:11Z",
-      "Content": "Quedan apenas tres meses y medio para que podamos disfrutar del live action de One Piece. Netflix ha lanzado el primer tráiler de la producción que adapta los acontecimientos del manga de Eiichiro Od… [+1638 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Begoña Alonso",
-      "Title": "Bella Ramsey habla sobre la terrible transformación que sufrirá Ellie en 'The Last of Us 2'",
-      "Description": "En la segunda temporada de 'The Last Of Us', Ellie dejará de ser un personaje optimista para convertirse en una joven mucho más pensativa y abatida. Esto es lo que ha dicho la propia actriz, Bella Ramsey, de lo que le espera a su personaje en la serie de HBO …",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a44250976/bella-ramsey-ellie-giro-oscuro-the-last-of-us-2-serie-hbo/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/bella-ramsey-64901c8ff05cd.jpg?crop=1.00xw:0.759xh;0,0.0961xh&resize=1200:*",
-      "PublishedAt": "2023-06-19T10:05:00Z",
-      "Content": "(Ojo, spóilers de 'The Last Of Us')\r\nComo todos sabemos, 'The Last Of Us' se ha convertido en el gran estreno de HBO Max en la primera mitad de año, con el permiso de 'From'. Ha sido la nueva serie d… [+2705 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "'Berlín' no transcurre en Berlín, pero la precuela de 'La casa de papel' para Netflix promete un atraco legendario con su nuevo tráiler",
-      "Description": "{\"videoId\":\"x8lvi76\",\"autoplay\":true,\"title\":\"Berlín - Nuevo tráiler\",\"tag\":\"\"}\n \r\n\n\r\n\n La gran 'La casa de papel' regresa este diciembre con su primer spin-off: 'Berlín', una precuela protagonizada por el personaje de Pedro Alonso del que tenemos, cortesía d…",
-      "Url": "https://www.espinof.com/trailers/berlin-no-transcurre-berlin-precuela-casa-papel-para-netflix-promete-atraco-legendario-su-nuevo-trailer",
-      "UrlToImage": "https://i.blogs.es/31f54d/x720/840_560.jpeg",
-      "PublishedAt": "2023-06-19T10:00:54Z",
-      "Content": "La gran 'La casa de papel' regresa este diciembre con su primer spin-off: 'Berlín', una precuela protagonizada por el personaje de Pedro Alonso del que tenemos, cortesía del Tudum, un nuevo tráiler d… [+1365 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Anabel Palomares",
-      "Title": "La desconocida miniserie de Netflix que descubrí por casualidad y puedes ver de 5.000 formas distintas",
-      "Description": "A veces llegan series que son diferentes no por la trama, sino por la manera en que están diseñadas, como pasa con El tiempo que te doy\r\n, o por que como Black Mirror: Bandersnatch, su visionado implica de una forma más activa al espectador al tratarse de la …",
-      "Url": "https://www.trendencias.com/series-de-television/desconocida-miniserie-netflix-que-descubri-casualidad-puedes-ver-5-000-formas-distintas",
-      "UrlToImage": "https://i.blogs.es/2c5736/caleidoscopio-netflix/840_560.png",
-      "PublishedAt": "2023-06-19T09:35:01Z",
-      "Content": "A veces llegan series que son diferentes no por la trama, sino por la manera en que están diseñadas, como pasa con El tiempo que te doy\r\n, o por que como Black Mirror: Bandersnatch, su visionado impl… [+3224 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Alberto García",
-      "Title": "Esta oferta en el juego de rol de El Señor de los Anillos es un tesoro: ponte en la piel de Peter Jackson y crea tu propia Tierra Media",
-      "Description": "Tanto las novelas como las películas de 'El Señor de los Anillos' han conseguido crear una enorme comunidad durante todos estos años. Más allá de las nuevas series, películas y videojuegos, podemos encontrar juegos de rol donde podemos profundizar mucho más e…",
-      "Url": "https://www.espinof.com/seleccion/crea-historia-tu-propia-tierra-media-embarcate-nueva-aventura-esta-oferta-juego-rol-senor-anillos",
-      "UrlToImage": "https://i.blogs.es/e74da9/el-anillo-unico/840_560.jpeg",
-      "PublishedAt": "2023-06-19T09:20:53Z",
-      "Content": "Tanto las novelas como las películas de 'El Señor de los Anillos' han conseguido crear una enorme comunidad durante todos estos años. Más allá de las nuevas series, películas y videojuegos, podemos e… [+1868 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Pablo Naranjo",
-      "Title": "De 'Cites Barcelona' a los cuchillos en Twitter: Joel Joan estalla contra Carlos Cuevas",
-      "Description": "Si te gustan las ficciones con extra de romanticismo, dosis de drama y con un reparto de infarto, debes de echarle un ojo a 'Cites Barcelona', la serie de televisión que narra los encuentros entre varias parejas que se han conocido por Internet. Aunque en un …",
-      "Url": "https://www.trendencias.com/celebrities/cites-barcelona-a-cuchillos-twitter-joel-joan-estalla-carlos-cuevas",
-      "UrlToImage": "https://i.blogs.es/67d053/my-project-1---2023-06-19t102639.225/840_560.jpeg",
-      "PublishedAt": "2023-06-19T09:15:15Z",
-      "Content": "Si te gustan las ficciones con extra de romanticismo, dosis de drama y con un reparto de infarto, debes de echarle un ojo a 'Cites Barcelona', la serie de televisión que narra los encuentros entre va… [+2591 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Eduardo Cardenal",
-      "Title": "'The Witcher': Henry Cavill se despide entre lágrimas de sus compañeros de la serie: \"Os voy a echar mucho de menos\"",
-      "Description": "EL FINAL Aunque Netflix ha confirmado que la serie tendrá cuarta y quinta temporada, la tercera es la última protagonizada por Cavill.'The Witcher': Henry Cavill se despide entre lágrimas de sus compañeros de la serie: \"Os voy a echar mucho de menos\"",
-      "Url": "https://www.ecartelera.com/noticias/the-witcher-henry-cavill-despide-lagrimas-companeros-serie-73780/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/73700/73780-h2.jpg",
-      "PublishedAt": "2023-06-19T08:53:30Z",
-      "Content": "El 29 de junio se estrena en Netflix la tercera temporada de 'The Witcher', última con Henry Cavill en el papel de Geralt de Rivia. El actor, al que sustituirá Liam Hemsworth en la cuarta y quinta en… [+2273 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Lionel Shriver, la perseguidora",
-      "Description": "Falta cada vez menos para serie de TVcomo ‘The Twilight Zone’ o ‘Black Mirror’ y con Lionel Shriver (Carolina del Norte, 1957) como escritora y anfitriona. O tal vez —en tiempos cada vez más (in)correctos e (hiper)sensibles— eso no llegue nunca a HBO o a Netf…",
-      "Url": "https://www.abc.es/cultura/cultural/lionel-shriver-perseguidora-20230619181754-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2023/06/18/lionel-U36366884872zlF-1024x512@abc.jpg",
-      "PublishedAt": "2023-06-19T08:39:48Z",
-      "Content": "Falta cada vez menos para serie de TVcomo The Twilight Zone o Black Mirror y con Lionel Shriver (Carolina del Norte, 1957) como escritora y anfitriona. O tal vez en tiempos cada vez más (in)correctos… [+594 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Sergio Cejas (Beld)",
-      "Title": "Henry Cavill se despide de Geralt de Rivia entre lágrimas: el actor no puede evitar emocionarse en su adiós a la serie de The Witcher",
-      "Description": "Este fin de semana en el evento TUDUM 2023, el mismo que nos ha dejado con el primer adelanto de la serie de acción real de One Piece, ha habido una presentación en la que han salido a escena los diferentes actores principales de The Witcher, la serie de Netf…",
-      "Url": "https://www.vidaextra.com/series/henry-cavill-se-despide-geralt-rivia-lagrimas-actor-no-puede-evitar-emocionarse-su-adios-a-serie-the-witcher",
-      "UrlToImage": "https://i.blogs.es/a650aa/henry-cavill/840_560.jpeg",
-      "PublishedAt": "2023-06-19T08:38:18Z",
-      "Content": "Este fin de semana en el evento TUDUM 2023, el mismo que nos ha dejado con el primer adelanto de la serie de acción real de One Piece, ha habido una presentación en la que han salido a escena los dif… [+1851 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "Una de las series de animación más aclamadas vuelve con su live-action: Netflix desvela las primeras imágenes de 'Avatar: La leyenda de Aang'",
-      "Description": "El de 'One Piece' no es la única adaptación live-action que tiene Netflix entre manos y, de hecho, tengo bastantes más ganas de esta. Estoy hablando de 'Avatar: La leyenda de Aang' ('Avatar: The Last Airbender'), reboot de la serie animada iniciada en 2005 y …",
-      "Url": "https://www.espinof.com/netflix/series-animacion-aclamadas-vuelve-su-live-action-netflix-desvela-primeras-imagenes-avatar-leyenda-aang",
-      "UrlToImage": "https://i.blogs.es/9c928d/avtr_101_unit_01655/840_560.jpeg",
-      "PublishedAt": "2023-06-19T08:22:44Z",
-      "Content": "El de 'One Piece' no es la única adaptación live-action que tiene Netflix entre manos y, de hecho, tengo bastantes más ganas de esta. Estoy hablando de 'Avatar: La leyenda de Aang' ('Avatar: The Last… [+1840 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Juan Sanmartín",
-      "Title": "No solo tú te emocionaste con One Piece: el reparto de la serie de Netflix reaccionó al tráiler con risas y lágrimas",
-      "Description": "Por fin ha sucedido el momento que todos esperábamos. El primer tráiler de One Piece ha sido estrenado por Netflix y nos ha permitido echar un vistazo a cómo se verá la versión live action del manga creado por Eiichiro Oda. Las aventuras de los Sombrero de Pa…",
-      "Url": "https://www.vidaextra.com/series/no-solo-tu-te-emocionaste-one-piece-reparto-serie-netflix-reacciono-al-trailer-risas-lagrimas",
-      "UrlToImage": "https://i.blogs.es/0d60c2/aaaabsj4qoepmevtkq8ylgpccbl3fod4djkbeg5vbk9myca1mlziwqvsfzdfz-7xvxyoxgpwd-hefqpwavdjfngc9yqww7as1ijhpxlc/840_560.jpeg",
-      "PublishedAt": "2023-06-19T08:17:26Z",
-      "Content": "Por fin ha sucedido el momento que todos esperábamos. El primer tráiler de One Piece ha sido estrenado por Netflix y nos ha permitido echar un vistazo a cómo se verá la versión live action del manga … [+1294 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Marieta Taibo",
-      "Title": "\"Extremadamente picantes\": así define Nicola Coughlan las escenas de sexo de 'Los Bridgerton 3'",
-      "Description": "La protagonista de esta tercera tanda de episodios de la serie de Netflix 'Los Bridgerton' ha contado más detalles sobre lo que veremos y suenan de lo más excitantes...",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a44249167/bridgerton-3-escenas-sexo-nicola-coughlan/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/4-bridgerton-302-unit-02700r2b-64900d56266f7.jpeg?crop=1.00xw:0.751xh;0,0&resize=1200:*",
-      "PublishedAt": "2023-06-19T08:17:00Z",
-      "Content": "Eran las imágenes más esperadas de la temporada y, al fin, ya está en nuestro poder. Gracias al evento Tudum, organizado por Netflix para sus fans, ya hemos visto las primeras fotos de 'Los Bridgerto… [+1546 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Fran San Nicolás",
-      "Title": "Vuelve el stock del Nintendo Switch Pro Controller edición The Legend of Zelda: Tears of the Kingdom en Carrefour",
-      "Description": "Con el mercado de videojuegos físicos cada vez más orientado hacia la venta digital, cada vez son menos los jugadores que deciden coleccionar títulos en sus estanterías. Sin embargo, el deseo de coleccionismo de algunos usuarios se ha ido adaptando con el pas…",
-      "Url": "https://www.vidaextra.com/seleccion/vuelve-stock-nintendo-switch-pro-controller-edicion-the-legend-of-zelda-tears-of-the-kingdom-carrefour",
-      "UrlToImage": "https://i.blogs.es/85b386/mando-zelda-totk-portada/840_560.jpeg",
-      "PublishedAt": "2023-06-19T07:43:27Z",
-      "Content": "Con el mercado de videojuegos físicos cada vez más orientado hacia la venta digital, cada vez son menos los jugadores que deciden coleccionar títulos en sus estanterías. Sin embargo, el deseo de cole… [+2139 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Estrella Gomez, Leanne Butkovic",
-      "Title": "La serie de acción real de One Piece se deja ver en su primer tráiler y confirma su fecha de estreno en Netflix",
-      "Description": "¿Preparado para zarpar?\nNetflix ha compartido el primer tráiler y la fecha de estreno de la esperada adaptación de One Piece en acción real.",
-      "Url": "https://es.ign.com/one-piece-live-action/191925/news/la-serie-de-accion-real-de-one-piece-se-deja-ver-en-su-primer-trailer-y-confirma-su-fecha-de-estreno",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/news/n/netflixs-l/netflixs-live-action-one-piece-gets-release-date-and-first-t_avtt.1200.jpg",
-      "PublishedAt": "2023-06-19T07:30:30Z",
-      "Content": "Ya casi es hora de zarpar: Netflix ha revelado por fin el primer tráiler y la fecha de estreno de la serie de acción real de One Piece. Llegará al servicio de streaming el 31 de agosto de 2023.\r\nPued… [+1578 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Gerard Mart�",
-      "Title": "The Witcher: Henry Cavill se despide entre lágrimas de su papel como Geralt de Rivia",
-      "Description": "<!--cache-->El actor de Geralt de Rivia rompió a llorar cuando se le preguntó acerca de su contribución en la última temporada. El actor agradeció el 'trabajo, cuidado y esfurezo' a sus compañeros de reparto.<!--aa--->El pasado fin de semana se celebró en Bra…",
-      "Url": "https://vandal.elespanol.com/noticia/1350763281/the-witcher-henry-cavill-se-despide-entre-lagrimas-de-su-papel-como-geralt-de-rivia/",
-      "UrlToImage": "https://media.vandal.net/i/ivandal/1200x630/6-2023/20236199713_1.jpg",
-      "PublishedAt": "2023-06-19T07:29:00Z",
-      "Content": "El pasado fin de semana se celebr en Brasil el Tudum de Netflix, un festival promocional en el que centenares de fans de la plataforma de streaming pudieron conocer las novedades sobre varios proyect… [+1773 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Miguel Jorge",
-      "Title": "El reality de El Juego del Calamar de Netflix se estrenará en noviembre",
-      "Description": "Ha pasado más de un año desde que se anunció, y quizás ya te habías olvidado de la propuesta, pero lo cierto es que Netflix va a estrenar finalmente un reality, un concurso en vivo, de esa serie que arrasó en su estrenó y que vieron millones de personas. El p…",
-      "Url": "https://es.gizmodo.com/netflix-el-juego-del-calamar-noviembre-estreno-serie-1850552649",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1e27e8357f335fe848ecc71d7d2e8d8c.jpg",
-      "PublishedAt": "2023-06-19T07:08:00Z",
-      "Content": "Ha pasado más de un año desde que se anunció, y quizás ya te habías olvidado de la propuesta, pero lo cierto es que Netflix va a estrenar finalmente un reality, un concurso en vivo, de esa serie que … [+2199 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bolsamania.com"
-      },
-      "Author": "Hector",
-      "Title": "La inesperada serie que lo está petando en Netflix",
-      "Description": "Ya se nos escapan por completo los criterios del gran público. Hay fenómenos que nacen de forma inesperada, pero siempre haciendo gala de alguna virtud diferencial. Sin embargo, el éxito de Yakamoz S-245 no es algo demasiado fácil de explicar. En el año 2020 …",
-      "Url": "https://www.bolsamania.com/cine/la-inesperada-serie-que-lo-esta-petando-en-netflix/",
-      "UrlToImage": "https://www.bolsamania.com/cine/wp-content/uploads/2023/06/1-43.jpg",
-      "PublishedAt": "2023-06-19T07:00:33Z",
-      "Content": "Yakamoz S-245\r\nYa se nos escapan por completo los criterios del gran público. Hay fenómenos que nacen de forma inesperada, pero siempre haciendo gala de alguna virtud diferencial. Sin embargo, el éxi… [+785 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Clarín"
-      },
-      "Author": "Silvina Lamazares",
-      "Title": "Lo mejor y lo peor sobre Perfil falso, la serie hot colombiana que calienta el podio de Netflix",
-      "Description": "A lo largo de diez episodios, combina varios géneros, condimentados por el erotismo, la pasión y la venganza. Los riesgos de una aplicación de citas.",
-      "Url": "https://www.clarin.com/espectaculos/tv/mejor-peor-perfil-falso-serie-hot-colombiana-calienta-podio-netflix_0_XuuiEH74ow.html",
-      "UrlToImage": "https://www.clarin.com/img/2023/06/14/rqwjmnFc__1256x620__1.jpg",
-      "PublishedAt": "2023-06-19T00:34:26Z",
-      "Content": "Si uno ve completo el primer capítulo de Perfil falso probablemente se quiera devorar la serie. Porque el episodio inicial de esta flamante serie colombiana de Netflix es una subserie en sí misma y n… [+3694 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "'Demon Slayer: Kimetsu no Yaiba' anuncia su cuarta temporada; esto sabemos",
-      "Description": "Tras el lanzamiento del episodio número 11, el último de la tercera temporada del popular animeDemon Slayer: Kimetsu no Yaiba, se dio a conocer de manera oficial que el 'Hashira Training Arc' del manga protagonizado porTanjiro y Nezukoserá adaptado a la famos…",
-      "Url": "https://www.milenio.com/espectaculos/television/demon-slayer-kimetsu-yaiba-anuncia-cuarta-temporada",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/06/18/demon-slayer-kimetsu-no-yaiba.jpg",
-      "PublishedAt": "2023-06-18T21:26:40Z",
-      "Content": "Tras el lanzamiento del episodio número 11, el último de la tercera temporada del popular anime Demon Slayer: Kimetsu no Yaiba, se dio a conocer de manera oficial que el 'Hashira Training Arc' del ma… [+1922 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Gonzalo Franco",
-      "Title": "'El problema de los tres cuerpos': Tráiler de la nueva serie de los creadores de 'Juego de Tronos' para Netflix",
-      "Description": "CIENCIA FICCIÓN DE PRIMERA David Benoiff y D.B. Weiss llevan a cabo la adaptación de la exitosa novela de ciencia ficción del escritor chino Liu Cixin.'El problema de los tres cuerpos': Tráiler de la nueva serie de los creadores de 'Juego de Tronos' para Netf…",
-      "Url": "https://www.ecartelera.com/noticias/el-problema-de-los-tres-cuerpos-trailer-netflix-73777/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/73700/73777-h2.jpg",
-      "PublishedAt": "2023-06-18T17:09:00Z",
-      "Content": "Tras la exitosa (y polémica) 'Juego de Tronos', David Benioff y D.B. Weiss ya tienen un nuevo proyecto. Su fichaje por Netflix se dio hace unos años por una cantidad astronómica, y ahora ambos creado… [+1555 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "The Weeknd asegura que las escenas de sexo de 'The Idol' son malas e incómodas a posta: \"Utilizamos a Verhoeven como referencia\"",
-      "Description": "Más que lujuria, el sexo en 'The Idol' es cuestión de glotonería. Así lo describe The Weeknd en una reciente entrevista a GQ. En ella, el cantante metido a actor y cocreador de la serie de HBO habla largo y tendido sobre cómo se supone que su siniestro person…",
-      "Url": "https://www.espinof.com/series-de-ficcion/the-weeknd-asegura-que-escenas-sexo-the-idol-malas-e-incomodas-a-posta-utilizamos-a-verhoeven-como-referencia",
-      "UrlToImage": "https://i.blogs.es/91d55b/the-idol-escena-sexo/840_560.jpeg",
-      "PublishedAt": "2023-06-18T17:00:46Z",
-      "Content": "Más que lujuria, el sexo en 'The Idol' es cuestión de glotonería. Así lo describe The Weeknd en una reciente entrevista a GQ. En ella, el cantante metido a actor y cocreador de la serie de HBO habla … [+1869 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Lupin, parte 3: Netflix publicó un tráiler inédito de lo nuevo de la serie francesa",
-      "Description": "Omar Sy regresará a la pantalla chica bajo el personaje de Assane Diop, tras dos años del estreno de la segunda entrega; la última temporada saldrá a la luz este año",
-      "Url": "https://www.lanacion.com.ar/espectaculos/lupin-parte-3-netflix-publico-un-trailer-inedito-de-lo-nuevo-de-la-serie-francesa-nid18062023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/04ctgfCbXbWk3tB2XEIrXpCvAOs=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UX3FVLH33RAKDIJJKWKSLT4EN4.jpg",
-      "PublishedAt": "2023-06-18T14:59:35Z",
-      "Content": "Los suscriptores de Netflix permanecieron a la expectativa de la continuación de la exitosa serie deLupin, tras el estreno de la segunda entrega en junio de 2021. El propio Omar Sy, quien protagoniza… [+2929 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "Todo el mundo habla de 'From' como la nueva 'Perdidos'. Para Harold Perrineau, trabajar en la icónica serie fue toda una pesadilla",
-      "Description": "Cada poco tiempo se estrena en televisión o en alguna que otra plataforma una serie con la etiqueta de la nueva 'Perdidos'. Ahora mismo el título lo parece ostentar 'From', el drama de misterio cuya temporada 2 se está emitiendo semanalmente en HBO Max.\n<!-- …",
-      "Url": "https://www.espinof.com/series-de-ficcion/todo-mundo-habla-from-como-nueva-perdidos-para-harold-perrineau-trabajar-iconica-serie-fue-toda-pesadilla",
-      "UrlToImage": "https://i.blogs.es/2ddb2b/from-button-1-1644020167709/840_560.jpeg",
-      "PublishedAt": "2023-06-18T14:00:47Z",
-      "Content": "Cada poco tiempo se estrena en televisión o en alguna que otra plataforma una serie con la etiqueta de la nueva 'Perdidos'. Ahora mismo el título lo parece ostentar 'From', el drama de misterio cuya … [+4612 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "John Tones",
-      "Title": "El contenido de las plataformas no va a estar ahí para siempre: lo estamos descubriendo por las malas",
-      "Description": "Las plataformas de streaming han acabado tocando de muerte al formato físico. ¿O no? Aunque llevamos hablando del declive del mercado de DVD y Blu-Ray desde incluso antes de la llegada de plataformas como Disney+ o HBO Max, lo cierto es que las películas en d…",
-      "Url": "https://www.xataka.com/streaming/contenido-plataformas-no-va-a-estar-ahi-para-siempre-estamos-descubriendo-malas",
-      "UrlToImage": "https://i.blogs.es/982b19/descargar/840_560.jpeg",
-      "PublishedAt": "2023-06-18T14:00:46Z",
-      "Content": "Las plataformas de streaming han acabado tocando de muerte al formato físico. ¿O no? Aunque llevamos hablando del declive del mercado de DVD y Blu-Ray desde incluso antes de la llegada de plataformas… [+6255 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Gonzalo Franco",
-      "Title": "Ya puedes ver la primera escena de la segunda temporada de 'Heartstopper'",
-      "Description": "VIVA EL AMOR Netflix desvela durante el TUDUM un clip con la primera escena de la nueva temporada de la serie, con Nick y Charlie locamente enamorados.Ya puedes ver la primera escena de la segunda temporada de 'Heartstopper'",
-      "Url": "https://www.ecartelera.com/noticias/heartstopper-primera-escena-temporada-2-netflix-73776/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/73700/73776-h2.jpg",
-      "PublishedAt": "2023-06-18T13:12:00Z",
-      "Content": "El fenómeno 'Heartstopper' está listo para volver a la carga. La aclamada serie de Netflix regresará pronto con su segunda temporada. Por ello, la plataforma de streaming ya ha liberado la que será l… [+1804 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakahome.com"
-      },
-      "Author": "Eva Rodriguez",
-      "Title": "Algunas smart TV van muy lentas incluso cuando están nuevas: la publicidad tiene mucha parte de culpa",
-      "Description": "Después de un concienzudo análisis del mercado (y de echar algún vistazo a nuestras guías y recomendaciones), te decides a comprar un nuevo smart TV: lo sacas de la caja, lo montas, lo enchufas y enciendes la tele. Comienzas a disfrutar de la nueva reina de t…",
-      "Url": "https://www.xatakahome.com/servicios-de-smart-tv/algunas-smart-tv-van-muy-lentas-incluso-cuando-estan-nuevas-publicidad-tiene-mucha-parte-culpa",
-      "UrlToImage": "https://i.blogs.es/34dbbc/tele/840_560.jpeg",
-      "PublishedAt": "2023-06-18T13:00:47Z",
-      "Content": "Después de un concienzudo análisis del mercado (y de echar algún vistazo a nuestras guías y recomendaciones), te decides a comprar un nuevo smart TV: lo sacas de la caja, lo montas, lo enchufas y enc… [+7480 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elotrolado.net"
-      },
-      "Author": "Benzo",
-      "Title": "Netflix muestra sus próximas apuestas: El problema de los 3 cuerpos, One Piece, The Witcher y más",
-      "Description": "<table><tr><td></td></tr></table>Netflix ha celebrado una nueva edición del evento Tudum durante el cual ha mostrado sus propuestas para los próximos meses, incluyendo El problema de los 3 cuerpos, la serie basada en las novelas de ciencia ficción homónimas, …",
-      "Url": "https://www.elotrolado.net/noticias/internet/netflix-tudum-2023-resumen",
-      "UrlToImage": "https://images.elotrolado.net/headers/upload/c/a/caf619_one-piece_news.jpg?1200",
-      "PublishedAt": "2023-06-18T12:30:12Z",
-      "Content": "Netflix ha celebrado una nueva edición del evento Tudum durante el cual ha mostrado sus propuestas para los próximos meses, incluyendo El problema de los 3 cuerpos, la serie basada en las novelas de … [+4454 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "La Voz",
-      "Title": "«Stranger Things» ficha a Linda Hamilton para su quinta temporada",
-      "Description": "La actriz que dio vida a la mítica heroína Sarah Connor en «Terminator» estará en la temporada final de la serie de Netflix",
-      "Url": "https://www.lavozdegalicia.es/noticia/series/2023/06/18/stranger-things-ficha-linda-hamilton-quinta-temporada/00031687088103587785534.htm",
-      "UrlToImage": "https://www.lavozdegalicia.es/default/2023/06/18/00121687088282676309361/Foto/ACE053H14.jpg",
-      "PublishedAt": "2023-06-18T12:10:00Z",
-      "Content": "El homenaje a la iconografa de los 80contina en Stranger Things.Linda Hamilton, la mtica Sarah Connor de Terminator, se incorpora a la quinta temporada de la serie de Netflix. As lo han anunciado dur… [+2654 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Esteban García Marcos",
-      "Title": "Esta serie es mejor que \"Juego de Tronos\" según el gran público y está arrasando en HBO Max",
-      "Description": "La nueva \"Juego de Tronos\" no es de fantasía como todo el mundo parecía preveer. No se trata de Sombra y hueso ni de ninguna otra película por el estilo, sino que está ambientada en el mundo real. Se trata de \"Succession\" y está en el catálogo de HBO Max, pro…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/esta-serie-es-mejor-que-juego-de-tronos-segun-el-gran-publico-y-esta-arrasando-en-hbo-max",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/06/juego-de-tronos.webp?width=1200",
-      "PublishedAt": "2023-06-18T11:01:28Z",
-      "Content": "Todo el mundo quiere batir a \"Juego de Tronos\" y parece que solo HBO Max ha sido capaz\r\nLa nueva \"Juego de Tronos\" no es de fantasía como todo el mundo parecía preveer. No se trata de Sombra y hueso … [+2865 chars]"
     }
   ]
 }
