@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1066,
+  "TotalResults": 1067,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Jorge Arturo Mora",
+      "Title": "¡Es oficial! Superman tiene nuevo actor y viene desde Netflix",
+      "Description": "David Corenswet, conocido por sus roles en ‘Hollywood’ y ‘The Politician’ será el nuevo Superman. Además se anunció a la nueva Lois Lane, quien es reconocida por una premiada serie de Prime Video",
+      "Url": "https://www.nacion.com/viva/entretenimiento/es-oficial-superman-tiene-nuevo-actor-y-viene/6R45GCWM7ZCL7PVJ3ZFFPC5S2U/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/UfNWZ-ZWZftulPmfiyCOLTXcCS4=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/C3A3K3C64BHDJOXVY3XV3JVLEM.jpg",
+      "PublishedAt": "2023-06-27T22:18:07Z",
+      "Content": "La revelación finalmente ha llegado. El rostro de Superman y Lois Lane no será más el de Henry Cavill y el de Amy Adams; ahora serán los intérpretes David Corenswet y Rachel Brosnahan quienes encarna… [+2341 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/641d5b/runtime-service-5/840_560.jpeg",
       "PublishedAt": "2023-06-23T16:01:22Z",
       "Content": "Tengo que decir que estoy bastante contento con las series que me recomienda Netflix. Aunque de vez en cuando se cuela alguna peli o serie rara, considero que acierta bastante. Es un algoritmo que se… [+3696 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Pedro Gallego",
-      "Title": "Es una de las películas de terror más bestias del año y ya se puede ver en HBO Max: movidas familiares en medio de un despiporre sangriento que continúa una mítica saga",
-      "Description": "Uno no se puede despistar nunca. Dejas de mirar un segundo a tu familia y de repente os azota una maldición milenaria donde os volvéis poseídos sedientos de sangre. O simplemente una plataforma de streaming decide subir uno de los estrenos más destacados del …",
-      "Url": "https://www.espinof.com/hbo/peliculas-terror-bestias-ano-se-puede-ver-hbo-max-movidas-familiares-medio-despiporre-sangriento-que-continua-mitica-saga",
-      "UrlToImage": "https://i.blogs.es/84fda7/posesion-infernal-el-despertar-2023/840_560.jpeg",
-      "PublishedAt": "2023-06-23T16:01:22Z",
-      "Content": "Uno no se puede despistar nunca. Dejas de mirar un segundo a tu familia y de repente os azota una maldición milenaria donde os volvéis poseídos sedientos de sangre. O simplemente una plataforma de st… [+2831 chars]"
     }
   ]
 }
