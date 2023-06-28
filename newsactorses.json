@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 818,
+  "TotalResults": 820,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "macamilarincon",
+      "Title": "Muere Nicolas Coster, estrella de \"Santa Barbara\" y \"Another World\", a los 89 años",
+      "Description": "Nicolas Coster, actor veterano con más de 100 papeles en cine y televisión, y conocido por su trabajo en los dramas diurnos “Santa Barbara” y “Another World”, murió el lunes 26 de junio, anunció su hija en una publicación de Facebook.",
+      "Url": "https://cnnespanol.cnn.com/2023/06/27/muere-nicolas-coster-estrella-de-santa-barbara-y-another-world-a-los-89-anos/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/06/nicolas-coster.jpeg?quality=100&strip=info",
+      "PublishedAt": "2023-06-27T18:41:27Z",
+      "Content": "(CNN) Nicolas Coster, actor veterano con más de 100 papeles en cine y televisión, y conocido por su trabajo en los dramas diurnos Santa Barbara y Another World, murió el lunes 26 de junio, anunció su… [+489 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así está hoy Natasha Klauss, protagonista de Pasión de Gavilanes: celebró sus 48 años en una playa paradisíaca",
+      "Description": "La serie regresó a Telemundo en 2022 con la segunda temporada, 20 años después de su estreno en la TV; la actriz destacó que se encuentra en “una de las mejores etapas” de su vida",
+      "Url": "https://www.lanacion.com.ar/espectaculos/asi-esta-hoy-natasha-klauss-protagonista-de-pasion-de-gavilanes-celebro-sus-48-anos-en-una-playa-nid27062023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/JnwI9dPLnf-eXgvqBH1vrYouZik=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/QBQ2S2GH4NEXVBP6GRVBMGVB2E.png",
+      "PublishedAt": "2023-06-27T18:40:41Z",
+      "Content": "El catálogo de Netflix se renueva de manera continua y, entre su oferta, se encuentran producciones que se estrenaron años atrás pero que resurgen entre los suscriptores del gigante de streaming. Fue… [+2722 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1123,19 +1149,6 @@
     },
     {
       "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "LA NACION",
-      "Title": "Chris Noth se sintió destratado por el elenco de Sex & The City tras las acusaciones de abuso: “Considera que le deben una disculpa”",
-      "Description": "“No recibe invitaciones a fiestas ni saludos de cumpleaños”, afirmó una fuente cercana al actor que interpretaba a Mr. Big en la serie",
-      "Url": "https://es-us.vida-estilo.yahoo.com/chris-noth-sinti%C3%B3-destratado-elenco-231908392.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/wX46SiGiB9ZM8XuZgiNuCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/es/lanacion.com.ar/b99e5eda468ca344f001b87c56c5e28a",
-      "PublishedAt": "2023-06-23T23:19:08Z",
-      "Content": "Chris Noth se sintió destratado por el elenco de Sex &amp; The City tras las acusaciones de abuso: Considera que le deben una disculpa\r\nA raíz del escándalo por las acusaciones de abuso sexual presen… [+4045 chars]"
-    },
-    {
-      "Source": {
         "Id": "la-nacion",
         "Name": "La Nacion"
       },
@@ -1146,6 +1159,19 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/vE0l2vN1iVKyy6THp671S2VdoA0=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/24JA3VXPTNHE3IQBS2I3ICCRU4.jpg",
       "PublishedAt": "2023-06-23T23:19:08Z",
       "Content": "A raíz del escándalo por las acusaciones de abuso sexual presentadas por varias mujeres en su contra, Chris Noth habría sido cancelado por sus excompañeros de Sex &amp; The City. Fuentes cercanas al … [+3696 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "LA NACION",
+      "Title": "Chris Noth se sintió destratado por el elenco de Sex & The City tras las acusaciones de abuso: “Considera que le deben una disculpa”",
+      "Description": "“No recibe invitaciones a fiestas ni saludos de cumpleaños”, afirmó una fuente cercana al actor que interpretaba a Mr. Big en la serie",
+      "Url": "https://es-us.vida-estilo.yahoo.com/chris-noth-sinti%C3%B3-destratado-elenco-231908392.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/wX46SiGiB9ZM8XuZgiNuCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/es/lanacion.com.ar/b99e5eda468ca344f001b87c56c5e28a",
+      "PublishedAt": "2023-06-23T23:19:08Z",
+      "Content": "Chris Noth se sintió destratado por el elenco de Sex &amp; The City tras las acusaciones de abuso: Considera que le deben una disculpa\r\nA raíz del escándalo por las acusaciones de abuso sexual presen… [+4045 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/2519d1/parejas-con-mas-quimica-del-cine/840_560.jpeg",
       "PublishedAt": "2023-06-23T13:55:41Z",
       "Content": "En alguna ocasión te hemos hablado de nuestras parejas de televisión favoritas\r\n, pero el cine nos ha dejado muchísimas, algunas con tanta química que nos parece mentira que no estuvieran liados al v… [+5267 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Sergio Cejas (Beld)",
-      "Title": "Pedro Pascal habrá bordado su papel en The Last of Us, pero también se tuvo en cuenta a otro oscarizado actor para hacer de Joel",
-      "Description": "La serie de The Last of Us de HBO ha sido todo un éxito y estamos ansiosos de que se estrene dentro de un buen tiempo su segunda temporada. Uno de los grandes motivos que hizo tan especial a esta adaptación fue la excelente interpretación de actores como Pedr…",
-      "Url": "https://www.vidaextra.com/series/pedro-pascal-habra-bordado-su-papel-the-last-of-us-tambien-se-tuvo-cuenta-a-otro-oscarizado-actor-para-hacer-joel",
-      "UrlToImage": "https://i.blogs.es/fa39c9/the-last-of-us-hbo/840_560.jpeg",
-      "PublishedAt": "2023-06-23T13:06:17Z",
-      "Content": "La serie de The Last of Us de HBO ha sido todo un éxito y estamos ansiosos de que se estrene dentro de un buen tiempo su segunda temporada. Uno de los grandes motivos que hizo tan especial a esta ada… [+2386 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Gerard Mart�",
-      "Title": "Super Mario Bros. Wonder seguiría contando con Charles Martinet como la voz de Mario",
-      "Description": "<!--cache-->Se especula con que Charles Martinet no habría sido sustituido por otro actor de doblaje en la nueva entrega en 2D, sino que sencillamente habría grabado nuevas líneas después de mucho tiempo.<!--aa--->Ayer os contamos que no pocos fans de Mario e…",
-      "Url": "https://vandal.elespanol.com/noticia/1350763429/super-mario-bros-wonder-seguiria-contando-con-charles-martinet-como-la-voz-de-mario/",
-      "UrlToImage": "https://media.vandal.net/i/ivandal/1200x630/6-2023/20236231350839_1.jpg",
-      "PublishedAt": "2023-06-23T12:01:00Z",
-      "Content": "Ayer os contamos que no pocos fans de Mario estaban preocupados por si Charles Martinet, la voz habitual del fontanero y de otros personajes de su universo como Luigi, Wario o Waluigi, regresara para… [+1706 chars]"
     }
   ]
 }
