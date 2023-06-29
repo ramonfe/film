@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1200,
+  "TotalResults": 1201,
   "Articles": [
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "Nikhil’s Spy to release in over 1600 screens - 123telugu",
+      "Description": "<ol><li>Nikhil’s Spy to release in over 1600 screens  123telugu\r\n</li><li>Spy Review: Mission Fails..  Greatandhra\r\n</li><li>Akkineni Naga Chaitanya makes stylish appearance at pre-release event of Nikhil's 'Spy'; Check out the pi  Indiatimes.com\r\n</li><li>Sp…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LjEyM3RlbHVndS5jb20vbW5ld3MvbmlraGlscy1zcHktdG8tcmVsZWFzZS1pbi1vdmVyLTE2MDAtc2NyZWVucy5odG1s0gFUaHR0cHM6Ly93d3cuMTIzdGVsdWd1LmNvbS9tbmV3cy9uaWtoaWxzLXNweS10by1yZWxlYXNlLWluLW92ZXItMTYwMC1zY3JlZW5zLmh0bWwvYW1w?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-06-28T21:30:00Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://images.hothardware.com/contentimages/newsitem/61912/content/hero-SKDY-Press-Image.jpg",
       "PublishedAt": "2023-06-27T12:00:00Z",
       "Content": "Skullcandy is launching an entirely new line-up of portable Bluetooth speakers just in time for those summer camping trips, pool parties, or outdoor movie nights.This year has been busy for Park City… [+1671 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Vansh Mehra",
-      "Title": "Rey Star Wars Movie Release Date Rumors: When Is It Coming Out?",
-      "Description": "Many fans are expecting a Rey Star Wars movie to happen and eagerly waiting for the release date after the way Rise of Skywalker ended. It would continue the story of the main franchise, so it is understandable why fans would want this follow-up to the sequel…",
-      "Url": "https://www.comingsoon.net/guides/news/1300069-rey-star-wars-movie-release-date-rumors-when-is-it-coming-out",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/06/star-wars-rey.jpg?resize=1200,630",
-      "PublishedAt": "2023-06-27T11:51:44Z",
-      "Content": "Many fans are expecting a Rey Star Wars movie to happen and eagerly waiting for the release date after the way Rise of Skywalker ended. It would continue the story of the main franchise, so it is und… [+1825 chars]"
     }
   ]
 }
