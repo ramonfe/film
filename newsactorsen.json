@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 952,
+  "TotalResults": 954,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "'Superman' Candidate Tom Brittney Sends Love to Fans After Losing Role to David Corenswet",
+      "Description": "Tom Brittney is sending a message to fans after losing out on the role of Clark Kent/Superman in the upcoming movie Superman: Legacy. The 32-year-old British actor was one of three actors who were brought in by Warner Bros. to do a screen test for the upcomin…",
+      "Url": "https://www.justjared.com/2023/06/27/superman-candidate-tom-brittney-sends-love-to-fans-after-losing-role-to-david-corenswet/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/06/brittney-speaks.jpg",
+      "PublishedAt": "2023-06-28T01:36:12Z",
+      "Content": "Tom Brittney is sending a message to fans after losing out on the role of Clark Kent/Superman in the upcoming movie Superman: Legacy.\r\nThe 32-year-old British actor was one of three actors who were b… [+678 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "Cannot get ManytoManyField content to display on my web page",
+      "Description": "I am having trouble accessing a list of data on a through table. The through table is called Cast and has a ManyToManyField for my Movie table (which lists every movie in the database) and another ManyToManyField for my Person table (which lists every actor).…",
+      "Url": "https://stackoverflow.com/questions/76568336/cannot-get-manytomanyfield-content-to-display-on-my-web-page",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2023-06-28T01:13:30Z",
+      "Content": "Your Cast modeling makes not much sense, it acts as a group of people and that group of people can be assigned to multiple movies.\r\nYou can model this as:\r\nclass Movie(models.Model):\r\n title = models… [+1415 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/06/harrison-retire.jpg",
       "PublishedAt": "2023-06-24T04:26:18Z",
       "Content": "Harrison Ford is becoming busier than ever as he starts his octogenarian life.\r\nThe 80-year-old actor, who is promoting and premiering his newest movie, Indiana Jones and the Dial of Destiny, opened … [+644 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Jennifer Lawrence Talks Shooting Nude Scene & Other Raunchy Content for 'No Hard Feelings'",
-      "Description": "Jennifer Lawrence strips down for a nude scene in her new movie No Hard Feelings, and that isn’t the only raunchy moment to come from the R-rated comedy. The 32-year-old Hunger Games actress opened up about some of the project’s wilder moments in a recent int…",
-      "Url": "https://www.justjared.com/2023/06/23/jennifer-lawrence-talks-shooting-nude-scene-other-raunchy-content-for-no-hard-feelings/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/06/jennifer-nude.jpg",
-      "PublishedAt": "2023-06-23T23:03:21Z",
-      "Content": "Jennifer Lawrence strips down for a nude scene in her new movie No Hard Feelings, and that isn't the only raunchy moment to come from the R-rated comedy. \r\nThe 32-year-old Hunger Games actress opened… [+1138 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Taylor Sheridan Talks Matthew McConaughey-Led Yellowstone Follow-Up",
-      "Description": "Taylor Sheridan has given an update on the rumored Matthew McConaughey-led Yellowstone spin-off. The creator revealed the team behind the show has had talks with the actor. Sheridan has spoken with McConaughey about the show Speaking to The Hollywood Reporter…",
-      "Url": "https://www.comingsoon.net/tv/news/1299487-taylor-sheridan-talks-matthew-mcconaughey-led-yellowstone-follow-up",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/06/matthew-mcconaughey.jpg?resize=1200,630",
-      "PublishedAt": "2023-06-23T21:36:33Z",
-      "Content": "Taylor Sheridan has given an update on the rumored Matthew McConaughey-led Yellowstone spin-off. The creator revealed the team behind the show has had talks with the actor.\r\nSpeaking to The Hollywood… [+1480 chars]"
     }
   ]
 }
