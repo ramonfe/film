@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1111,
+  "TotalResults": 1112,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "En fotos: el reencuentro del elenco de El amor después del amor en la Legislatura porteña",
+      "Description": "Los actores y los productores de la serie de Netflix, que repasa la vida de Fito Páez, fue declarada de interés cultural por la ciudad de Buenos Aires",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/en-fotos-el-reencuentro-del-elenco-de-el-amor-despues-del-amor-en-la-legislatura-portena-nid28062023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/eFc7OGUrailXjz02vrjjl45JaOc=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/X33HWQAKIZFGBAFUHJPZM32WCI.JPG",
+      "PublishedAt": "2023-06-29T02:59:07Z",
+      "Content": "El amor después del amor, la serie de Netflix basada en la vida de Fito Páez desde su infancia hasta el lanzamiento de su disco más exitoso, se convirtió en una de las ficciones más comentadas y fest… [+1239 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/88d2bd28-8181-417f-9536-d8efd466f14c_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-06-25T20:28:46Z",
       "Content": "La bomba estaba camuflada bajo una maraña de tablones de madera y clavos salientes. Cuando Gary Wright se topó con ella en el aparcamiento detrás de su tienda de informática, no se le ocurrió apartar… [+171 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Darío del Alcázar",
-      "Title": "'La que se avecina' recupera a cuatro de sus personajes más míticos en su nueva temporada",
-      "Description": "'La que se avecina' sigue siendo una de las series más exitosas de nuestro país después de 14 temporadas y suponer una reinvención de la exitosa 'Aquí no hay quien viva'. Su nueva temporada fue todo un éxito en 'Amazon Prime Video' después de la mudanza de Mo…",
-      "Url": "https://www.trendencias.com/celebrities/que-se-avecina-recupera-a-cuatro-sus-personajes-miticos-su-nueva-temporada",
-      "UrlToImage": "https://i.blogs.es/5dc5ab/342978373_521396230006407_7061401623974811576_n/840_560.jpeg",
-      "PublishedAt": "2023-06-25T19:05:23Z",
-      "Content": "'La que se avecina' sigue siendo una de las series más exitosas de nuestro país después de 14 temporadas y suponer una reinvención de la exitosa 'Aquí no hay quien viva'. Su nueva temporada fue todo … [+1641 chars]"
     }
   ]
 }
