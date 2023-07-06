@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "msmash",
+      "Title": "Amazon CEO Asks His Hollywood Studio To Explain Its Big Spending",
+      "Description": "Amazon CEO Andy Jassy is taking a hard look at how much the company's Hollywood studio spends on original TV programming. From a report: In recent weeks, he has asked executives for detailed budget analyses of some of their biggest shows, according to people …",
+      "Url": "https://slashdot.org/story/23/07/05/166243/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "PublishedAt": "2023-07-05T16:06:00Z",
+      "Content": "In recent weeks, he has asked executives for detailed budget analyses of some of their biggest shows, according to people familiar with the matter, scrutinizing the studio's ballooning costs and mixe… [+1080 chars]"
+    },
     {
       "Source": {
         "Id": "independent",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230605_WST_436081_Womens-World-Cup-rights-2027.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2023-06-05T19:20:03Z",
       "Content": "This summers edition of the FIFA Womens World Cup is the last in the current US TV rights deal. FOX Sports picked up the rights to the 2015 tournament, airing both that and 2019. There is growing spe… [+7982 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Tiffany Kelly",
-      "Title": "Not having HBO Max kept Ronald from ‘Jury Duty’ from being screened off the show",
-      "Description": "Jury Duty became a hit after it premiered on Amazon's Freevee service on April 7. The premise is simple, but it was hard to pull off: a California man, Ronald Gladden, thinks he signed up to be on a documentary about the jury duty process, but the show is one…",
-      "Url": "https://www.dailydot.com/unclick/jury-duty-ronald-not-recognizing-other-actors/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/06/ronaldjuryduty.png?auto=compress&fm=png",
-      "PublishedAt": "2023-06-05T16:55:18Z",
-      "Content": "Jury Duty became a hit after it premiered on Amazon’s Freevee service on April 7. The premise is simple, but it was hard to pull off: a California man, Ronald Gladden, thinks he signed up to be on a … [+2372 chars]"
     }
   ]
 }
