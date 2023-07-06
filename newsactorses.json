@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 828,
+  "TotalResults": 829,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Raquel Morales",
+      "Title": "La serie de The Witcher tiene \"un plan muy bueno\" para explicar el cambio de actor",
+      "Description": "Los productores hablan de la transición entre actores dentro de la ficción.\nNetflix afronta una de las decisiones más controvertidas con optimismo y tiene un plan para presentar al nuevo Geralt de Rivia.",
+      "Url": "https://es.ign.com/netflix/192326/news/la-serie-de-the-witcher-tiene-un-plan-muy-bueno-para-explicar-el-cambio-de-actor",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/the-witcher_2hcc.1200.jpg",
+      "PublishedAt": "2023-07-05T18:30:21Z",
+      "Content": "Netflix se ha enfrentado a una gran polémica con The Witcher debido a su sonado cambio de actor. Las primeras temporadas tuvieron una fantástica acogida con Henry Cavill como Geralt de Rivia, quien s… [+2132 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/e4216d/muerte-bajo-el-sol-1982-peter-unisov/840_560.jpeg",
       "PublishedAt": "2023-07-01T12:30:55Z",
       "Content": "Rian Johnson ha vuelto a poner de moda los detectives perspicaces y las intrigas sofisticadas además de divertidas, tanto con la saga de 'Puñales por la espalda' como con su serie 'Poker Face' (que e… [+2734 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Kim Cattrall contó cómo fue su vuelta a And Just Like That, y cuál fue su exigencia",
-      "Description": "La actriz que interpreta a Samanta en la popular serie, reveló durante una entrevista una de las condiciones que puso para negociar su vuelta al universo de Sex and the City",
-      "Url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/kim-cattrall-conto-como-fue-su-vuelta-a-and-just-like-that-y-cual-fue-su-exigencia-nid01072023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/sgAJsaVeQXxcIFSn1WkMTfGpGOg=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/GHY33HS5JRC6POMCQCUHEAQG4M.jpg",
-      "PublishedAt": "2023-07-01T04:49:17Z",
-      "Content": "And Just Like That ya se encuentra a disposición del público. La segunda temporada de la secuela de Sex and the City está disponible a través de HBO Max, y los fans de esta saga celebran el reencuent… [+3845 chars]"
     }
   ]
 }

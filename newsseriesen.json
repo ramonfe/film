@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Eddie Makuch",
+      "Title": "Daniel Radcliffe Says It Would Be \"Very Weird\" For Him To Appear In New Harry Potter Series",
+      "Description": "Actor Daniel Radcliffe has commented on the upcoming Harry Potter TV series that's in the works for the streaming service Max (formerly known as HBO Max), revealing whether or not he plans to be a part of it. Speaking to Access Hollywood, Radcliffe said what …",
+      "Url": "https://www.gamespot.com/articles/daniel-radcliffe-says-it-would-be-very-weird-for-him-to-appear-in-new-harry-potter-series/1100-6515684/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4160876-screenshot2023-07-05at2.19.50pm.png",
+      "PublishedAt": "2023-07-05T18:03:00Z",
+      "Content": "Actor Daniel Radcliffe has commented on the upcoming Harry Potter TV series that's in the works for the streaming service Max (formerly known as HBO Max), revealing whether or not he plans to be a pa… [+2310 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/06/Alice-in-Borderland-Season-3-Release-Date.jpg?resize=1200,630",
       "PublishedAt": "2023-06-06T14:24:29Z",
       "Content": "Those hunting for an Alice in Borderland season 3 release date are no doubt desperate to know what happens next in the brutal show. Heres the latest information concerning a third season release date… [+1805 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Kyle Fansler",
-      "Title": "Media giants battle for Women's World Cup 2027 US TV rights",
-      "Description": "This summer’s edition of the FIFA Women’s World Cup is the last in the current US TV rights deal. FOX Sports picked up the rights to the 2015 tournament, airing both that and 2019. There is growing speculation that the 2027 tournament will be in North America…",
-      "Url": "https://worldsoccertalk.com/news/media-giants-battle-for-womens-world-cup-2027-us-tv-rights-20230605-WST-436081.html",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230605_WST_436081_Womens-World-Cup-rights-2027.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2023-06-05T19:20:03Z",
-      "Content": "This summers edition of the FIFA Womens World Cup is the last in the current US TV rights deal. FOX Sports picked up the rights to the 2015 tournament, airing both that and 2019. There is growing spe… [+7982 chars]"
     }
   ]
 }
