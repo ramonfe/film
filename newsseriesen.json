@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Ellie Harrison and Annabel Nugent",
+      "Title": "New on Apple TV+ this July: Every TV show landing on streaming service",
+      "Description": "From a murder mystery series to a sci-fi adventure, here are the titles arriving on Apple TV+ this month",
+      "Url": "https://www.independent.co.uk/arts-entertainment/tv/news/apple-tv-new-series-july-2023-b2369898.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/07/05/15/newFile-8.jpg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-07-05T14:47:33Z",
+      "Content": "Sign up to our free IndyArts newsletter for all the latest entertainment news and reviews\r\nSign up to our free IndyArts newsletter\r\nIts July and Apple TV+ subscribers have plenty to get stuck into.\r\n… [+2018 chars]"
+    },
     {
       "Source": {
         "Id": null,
