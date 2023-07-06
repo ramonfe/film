@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1200,
+  "TotalResults": 1201,
   "Articles": [
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "Disney Deletes Streaming Movie That Only Released In May 2023 - Kotaku",
+      "Description": "<ol><li>Disney Deletes Streaming Movie That Only Released In May 2023  Kotaku\r\n</li><li>Disney Erases New Movie From Existence After Two Months  Giant Freakin Robot\r\n</li><li>Latest Disney News: As Disney Plus erases a $50 million failure from existence, a Pi…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiU2h0dHBzOi8va290YWt1LmNvbS9kaXNuZXktc3RyZWFtaW5nLWNyYXRlci10YXgtcm9ydC1zY2FtLXdyaXRlb2ZmLWRlbGV0ZS0xODUwNjA0ODYx0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-07-05T00:49:00Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/493367?v=1688226916",
       "PublishedAt": "2023-07-01T15:55:04Z",
       "Content": "Google translated caption: \r\nFeeling overwhelmed! Master's realm!The most overwhelming movie I've seen in years!The second time I see it, I see more.I saw this work twice and spent 6 hours of my life… [+203 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Marla Añonuevo",
-      "Title": "Horimiya: The Missing Pieces Episode 2 Release Date & Time",
-      "Description": "Here is the must-know information about the Horimiya: The Missing Pieces episode 2 release date and time. This is when the new Horimiya: The Missing Pieces episode will be available on Crunchyroll for those in the US (ET, CT, and PT) time zones. When is the H…",
-      "Url": "https://www.comingsoon.net/guides/news/1301450-horimiya-the-missing-pieces-episode-2-release-date-time-when-pt-et-ct",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/06/horimiya-piece-ep-2.png?resize=1200,630",
-      "PublishedAt": "2023-07-01T15:00:00Z",
-      "Content": "Here is the must-know information about the Horimiya: The Missing Pieces episode 2 release date and time. This is when the new Horimiya: The Missing Pieces episode will be available on Crunchyroll fo… [+695 chars]"
     }
   ]
 }
