@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 830,
+  "TotalResults": 831,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "LUIS MARTÍNEZ",
+      "Title": "Antonia San Juan: \"Solamente una mujer machista no dice la edad. Tengo 62 años\"",
+      "Description": "La actriz y directora regresa al cine con 'Liuben', una coproducción hispano-búlgara firmada por Venci Kostov sobre la identidad, la maternidad, la emigración y hasta el patriarcado. Y lo hace a la vez que prepara su regreso al escenario del Teatro Pavón de M…",
+      "Url": "https://www.elmundo.es/cultura/cine/2023/07/06/64a5b0bae4d4d83b798b458a.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/b5586298a5041fb62fb15f5bcb8d1f52/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/05/16885800244854.jpg",
+      "PublishedAt": "2023-07-06T01:04:03Z",
+      "Content": "Cada uno recuerda a una actriz como quiere. O como puede. O como desea. Pese a lo poco que se ha prodigado en el cine y la televisión, Antonia San Juan (Las Palmas de Gran Canaria, 1961) cuenta sus p… [+6338 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.bolsamania.com/cine/wp-content/uploads/2023/07/1-1.jpg",
       "PublishedAt": "2023-07-01T14:12:55Z",
       "Content": "Alan Arkin\r\nSe va uno de los grandes del cine. Nunca es fácil decir adiós a una leyenda como Alan Arkin. El actor dePequeña Miss Sunshine o Eduardo Manostijeras fallecía a los 89 años de edad, dejánd… [+751 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "El truco de belleza de Sofía Vergara para estar espléndida a los 51 años tiene sello español",
-      "Description": "Sofía Vergara ha incendiado la redes sociales con un posado en bikini con el que ha aprovechado para presentar su propia firma de cosmética llamada toty . A punto de cumplir 51 años (10 de julio), la actriz de origen colombiano, sabe que protegerse del sol es…",
-      "Url": "https://www.abc.es/estilo/belleza/truco-belleza-sofia-vergara-estar-esplendida-anos-20230701153928-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/estilo/2023/06/29/sofia-vergara-crema-U25728736124ZyB-1024x512@abc.jpg",
-      "PublishedAt": "2023-07-01T13:39:29Z",
-      "Content": "Sofía Vergara ha incendiado la redes sociales con un posado en bikini con el que ha aprovechado para presentar su propia firma de cosmética llamada toty. A punto de cumplir 51 años (10 de julio), la … [+2581 chars]"
     }
   ]
 }
