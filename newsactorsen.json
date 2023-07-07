@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 995,
+  "TotalResults": 996,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Jimmy Briggs",
+      "Title": "Mission Impossible: Dead Reckoning director praises lead star Tom Cruise for saving cinema",
+      "Description": "On Monday, Tom Cruise, 61, attended the film's premiere in Sydney alongside movie director Christopher McQuarrie, 54, who praised the actor for 'saving cinema'.",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-12269219/Mission-Impossible-Dead-Reckoning-director-praises-lead-star-Tom-Cruise-saving-cinema.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/07/06/03/72902435-0-image-a-30_1688610628445.jpg",
+      "PublishedAt": "2023-07-06T02:59:48Z",
+      "Content": "He is currently in Australia to promote his new action blockbuster Mission Impossible: Dead Reckoning.\r\nAnd on Monday, Tom Cruise, 61, attended the film's premiere in Sydney alongside movie director … [+2228 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://gdb.voanews.com/01000000-0a00-0242-8ab5-08db7b44dace_w1200_r1.jpg",
       "PublishedAt": "2023-07-02T22:00:24Z",
       "Content": "Indiana Jones, and executives at the Walt Disney Co. and Lucasfilm, made a somewhat dispiriting discovery this weekend. Moviegoers didn't rush to the theater in significant numbers to see Indiana Jon… [+4460 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Adafruit.com"
-      },
-      "Author": "gareth branwyn",
-      "Title": "What Will Amazon’s Warhammer 40,000 Series Likely Cover? #SciFiSunday",
-      "Description": "As you may have already heard, actor Henry Cavil (Superman, The Witcher) and Amazon are developing content in the Warhammer 40,000 universe, in partnership with Games Workshop. But, WH40 is so vast, so space operatic — there are countless time periods and cor…",
-      "Url": "https://blog.adafruit.com/2023/07/02/what-will-amazons-warhammer-40000-series-likely-cover-scifisunday/",
-      "UrlToImage": "https://cdn-blog.adafruit.com/uploads/2023/07/Screenshot-2023-07-02-at-1.43.23-PM.png",
-      "PublishedAt": "2023-07-02T21:15:42Z",
-      "Content": "As you may have already heard, actor Henry Cavil (Superman, The Witcher) and Amazon are developing content in the Warhammer 40,000 universe, in partnership with Games Workshop. But, WH40 is so vast, … [+3257 chars]"
     }
   ]
 }
