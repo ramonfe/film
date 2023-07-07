@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1213,
+  "TotalResults": 1216,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Askubuntu.com"
+      },
+      "Author": "Brandon Rickman",
+      "Title": "Using Ubuntu 20.04 LTS, after latest software update I am unable to scrape movies in my Kodi library. Is this an Ubuntu issue?",
+      "Description": "Here is the specific section of the kodi.log that shows what is happening:\n2023-07-05 21:23:00.818 T:139783248335744 NOTICE: Starting Kodi from Debian (18.6 Debian package version: 2:18.6+dfsg1-2ubuntu1). Platform: Linux x86 64-bit\n2023-07-05 21:23:00.818 T:1…",
+      "Url": "https://askubuntu.com/questions/1476480/using-ubuntu-20-04-lts-after-latest-software-update-i-am-unable-to-scrape-movie",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+      "PublishedAt": "2023-07-06T04:57:22Z",
+      "Content": "Here is the specific section of the kodi.log that shows what is happening:\r\n2023-07-05 21:23:00.818 T:139783248335744 NOTICE: Starting Kodi from Debian (18.6 Debian package version: 2:18.6+dfsg1-2ubu… [+4764 chars]"
+    },
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Jacob Stolworthy",
+      "Title": "Streaming service Disney+ removes original movie 48 days after release",
+      "Description": "It will no longer be available to watch anywhere",
+      "Url": "https://www.independent.co.uk/arts-entertainment/films/news/disney-plus-crater-removed-b2370300.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/07/04/15/newFile-1.jpg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-07-06T04:54:43Z",
+      "Content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nAn original movie has become unavailable to watch after … [+2197 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GoNintendo"
+      },
+      "Author": "rawmeatcowboy",
+      "Title": "Radiant Tale's opening movie released",
+      "Description": "The next otome Switch release",
+      "Url": "https://gonintendo.com/contents/22793-radiant-tale-s-opening-movie-released",
+      "UrlToImage": "https://gonintendo.com/attachments/image/31310/file/medium-5a905bd6979e1b23fc171727f5fafa50.png",
+      "PublishedAt": "2023-07-06T04:48:00Z",
+      "Content": "As weve previously covered, the otome title Radiant Tale is launching for Switch on July 27th. In this heartwarming and colorful adventure, Tifalia joins a motley band of circus performers tasked wit… [+954 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7305e814ac640a1d1bc78ee6f2ab4d7f.jpg",
       "PublishedAt": "2023-07-03T19:30:00Z",
       "Content": "All signs point to this months release of Barbie being a massive hit. It just seems to be the summer movie most people are talking about, and tracking on its opening weekend says its likely to beat t… [+585 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Thegatewaypundit.com"
-      },
-      "Author": "Paul Serran",
-      "Title": "Kevin Spacey Trial: First Accuser Labels Actor as a Widely-Known ‘Predator’, Compares Him to Character in the Movie ‘Se7en’",
-      "Description": "Thinking he was shielded by his fame, Kevin Spacey repeatedly engaged in criminal behavior that was widely known in the community surrounding the ‘Old Vic’ theater in London, where he was artistic director – says one of his accusers.\nThe post Kevin Spacey Tri…",
-      "Url": "https://www.thegatewaypundit.com/2023/07/kevin-spacey-trial-first-accuser-labels-actor-as/",
-      "UrlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/zvvz-1-1200x630.jpg",
-      "PublishedAt": "2023-07-03T19:00:53Z",
-      "Content": "Thinking he was shielded by his fame, Kevin Spacey repeatedly engaged in criminal behavior that was widely known in the community surrounding the ‘Old Vic’ theater in London, where he was artistic di… [+3337 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Destructoid"
-      },
-      "Author": "Steven Mills",
-      "Title": "Bandai Namco Summer Showcase recap",
-      "Description": "Some upcoming game updates and a new game reveal\nOver the weekend Bandai Namco hosted their own Summer Showcase event at the Anime Expo in Los Angeles. The event included some updates and gameplay trailers for several previously announced titles as well as th…",
-      "Url": "https://www.destructoid.com/bandai-namco-summer-showcase-recap/",
-      "UrlToImage": "https://www.destructoid.com/wp-content/uploads/2023/07/Jujustu-Kaisen-Cursed-Clash-Announcement.png",
-      "PublishedAt": "2023-07-03T18:17:43Z",
-      "Content": "Some upcoming game updates and a new game reveal\r\nOver the weekend Bandai Namco hosted their own Summer Showcase event at the Anime Expo in Los Angeles. The event included some updates and gameplay t… [+3858 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "James Mangold Discusses the Fate of Shia LaBeouf’s Mutt in INDIANA JONES AND THE DIAL OF DESTINY",
-      "Description": "Leading up to the release of Indiana Jones and the Dial of Destiny, a lot of fans were wondering how the story would address Shia LaBeouf’s character Mutt, the son of Indiana and Marion. The movie definitely does address him and in a way he plays a key part i…",
-      "Url": "https://geektyrant.com/news/james-mangold-discusses-the-fate-of-shia-labeoufs-mutt-in-indiana-jones-and-the-dial-of-destiny",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a02924dfdf54348208ddae/1688407229531/james-mangold-discusses-the-fate-of-shia-labeoufs-mutt-in-indiana-jones-and-the-dial-of-destiny.jpg?format=1500w",
-      "PublishedAt": "2023-07-03T18:00:00Z",
-      "Content": "Leading up to the release of Indiana Jones and the Dial of Destiny, a lot of fans were wondering how the story would address Shia LaBeoufs character Mutt, the son of Indiana and Marion. The movie def… [+2164 chars]"
     }
   ]
 }
