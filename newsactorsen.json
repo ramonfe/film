@@ -1,8 +1,1113 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 979,
+  "TotalResults": 944,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ansa",
+        "Name": "ANSA.it"
+      },
+      "Author": "",
+      "Title": "Brad Pitt a Silverstone per il Gran Premio di Formula 1",
+      "Description": "epa10735894 US actor Brad Pitt, playing Sonny Hayes of the fictional Apex team for an F1-inspired movie, arrives for the Formula 1 British Grand Prix 2023, at the Silverstone Circuit race track in Silverstone, Britain, 09 July 2023. EPA/CHRISTIAN BRUNA (ANSA)…",
+      "Url": "https://www.ansa.it/sito/photogallery/people/2023/07/09/brad-pitt-a-silverstone-per-il-gran-premio-di-formula-1_0e2a83c5-414c-4b57-8101-b1f04262322d.html",
+      "UrlToImage": "https://www.ansa.it/webimages/img_900x700/2023/7/9/f33db67741585194d5fa0098aee91738.jpg",
+      "PublishedAt": "2023-07-09T13:29:59Z",
+      "Content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all’abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad … [+320 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forevergeek.com"
+      },
+      "Author": "Danny Munro",
+      "Title": "The Simpsons' original voice actor predicts when the show will end permanently",
+      "Description": "The chances are that The Simpsons has been on TV for longer than the person reading this has been alive, but will it ever actually...\nThe post The Simpsons' original voice actor predicts when the show will end permanently appeared first on ForeverGeek.",
+      "Url": "https://www.forevergeek.com/will-the-simpsons-ever-come-to-an-end/",
+      "UrlToImage": "https://cdn1.forevergeek.com/uploads/33/2023/07/Homers-Car-Crash-Hallucination-_-The-Simpsons-0-43-screenshot.png",
+      "PublishedAt": "2023-07-09T12:00:00Z",
+      "Content": "The chances are that The Simpsons has been on TV for longer than the person reading this has been alive, but will it ever actually come to an end?\r\nHaving first aired in the US in December 1989, The … [+3454 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "deadline.com",
+      "Title": "Elle Fanning Reveals She Lost A Role As A 16-Year-Old Because She “Wasn’t Sexy Enough”",
+      "Description": "Former child star Elle Fanning has shared her teenage experience of the darker side of Hollywood. The star of Hulu’s The Great, and younger sister of actress Dakota, told The Times newspaper that, when she was 16 years old, she auditioned for a role in a come…",
+      "Url": "https://biztoc.com/x/4ad42358cba915b2",
+      "UrlToImage": "https://c.biztoc.com/p/4ad42358cba915b2/s.webp",
+      "PublishedAt": "2023-07-09T11:16:08Z",
+      "Content": "Former child star Elle Fanning has shared her teenage experience of the darker side of Hollywood.The star of Hulus The Great, and younger sister of actress Dakota, told The Times newspaper that, when… [+293 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Deadline"
+      },
+      "Author": "Caroline Frost",
+      "Title": "Elle Fanning Reveals She Lost A Role As A 16-Year-Old Because She “Wasn’t Sexy Enough”",
+      "Description": "Former child star Elle Fanning has shared her teenage experience of the darker side of Hollywood.  The star of Hulu’s The Great, and younger sister of actress Dakota, told The Times newspaper that, when she was 16 years old, she auditioned for a role in a com…",
+      "Url": "https://deadline.com/2023/07/the-great-elle-fanning-reveals-she-lost-a-role-as-a-16-year-old-because-she-wasnt-sexy-enough-1235432565/",
+      "UrlToImage": "https://deadline.com/wp-content/uploads/2023/07/GettyImages-1498318024-e1688900766658.jpg?w=1024",
+      "PublishedAt": "2023-07-09T11:15:54Z",
+      "Content": "Former child star Elle Fanning has shared her teenage experience of the darker side of Hollywood. \r\nThe star of Hulu’s The Great, and younger sister of actress Dakota, told The Times newspaper that, … [+905 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "How to select multiple choices for a field in django?",
+      "Description": "Ihave this Actor model on the app called crew.\nfrom django.db import models\n\n# Create your models here.\nclass Parent(models.Model):\n # name=models.CharField(max_length=30,unique=True,default=None)\n name=models.CharField(max_length=30,unique=True,default=None)…",
+      "Url": "https://stackoverflow.com/questions/76647063/how-to-select-multiple-choices-for-a-field-in-django",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2023-07-09T10:52:41Z",
+      "Content": "Ihave this Actor model on the app called crew.\r\nfrom django.db import models\r\n# Create your models here.\r\nclass Parent(models.Model):\r\n # name=models.CharField(max_length=30,unique=True,default=None)… [+2332 chars]"
+    },
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Joshua Comins",
+      "Title": "'Sound of Freedom' movie prompts crucial call to action: ‘God's children are no longer for sale'",
+      "Description": "Former DHS special agent Tim Ballard and actor Jim Caviezel share how \"Sound of Freedom\" tells the brave quest of rescuing trafficked children on Fox News primetime shows.",
+      "Url": "https://www.foxnews.com/media/sound-of-freedom-gods-children-no-longer-sale",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/S562389-Enhanced-NR-1.jpg",
+      "PublishedAt": "2023-07-09T10:00:32Z",
+      "Content": "Operation Underground Railroad founder Tim Ballard's film \"Sound of Freedom,\" which highlights the realities of child sex-trafficking, is continuing to draw in audiences across the country.\r\nThe movi… [+3053 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lewrockwell.com"
+      },
+      "Author": "Llewellyn H. Rockwell, Jr.",
+      "Title": "The Film “Sound of Freedom” Exposes Today’s Global Slavery",
+      "Description": "Writes Ginny Garner: Lew, I highly recommend the powerful film “Sound of Freedom” starring Jim Caviezel, the actor best known for portraying Jesus in the Mel Gibson movie “The Passion of the Christ.” Did you know “Sound of Freedom” reportedly drew more movieg…",
+      "Url": "https://www.lewrockwell.com/political-theatre/the-film-sound-of-freedom-exposes-todays-global-slavery/",
+      "UrlToImage": "https://lrc-cdn.s3.amazonaws.com/assets/2021/02/LRC-share.jpg",
+      "PublishedAt": "2023-07-09T07:50:09Z",
+      "Content": "Writes Ginny Garner:\r\nLew,\r\nI highly recommend the powerful film “Sound of Freedom” starring Jim Caviezel, the actor best known for portraying Jesus in the Mel Gibson movie “The Passion of the Christ… [+2148 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "etimes.in",
+      "Title": "Throwback: When a fan slapped Abhishek",
+      "Description": "An old video interview of Abhishek Bachchan has gone viral. In the video, the actor can be seen saying that he once got slapped by a lady who didn't like his acting in the movie ‘Shararat’, released in 2002.",
+      "Url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-abhishek-bachchan-was-once-slapped-by-a-fan-and-was-asked-to-quit-acting/articleshow/101609772.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-101609746,width-1070,height-580,imgsize-43722,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2023-07-09T06:30:17Z",
+      "Content": "Is Shraddha Kapoor going to star opposite Kartik Aaryan in 'Chandu Champion'? Here's what we know...Kartik Aaryan and Shraddha Kapoor might share the screen space for their upcoming sports drama, 'Ch… [+172 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kemifilani.ng"
+      },
+      "Author": "Mercy Trin",
+      "Title": "Regina Daniels leaves her friends speechless as she splashes 10 million on gold jewelry (Video)",
+      "Description": "Nollywood actress, Regina Daniels has acquired a new piece of jewelry worth millions. The movie star, in a video posted to her Instagram story, showed off her newly acquired jewelry said to be worth N10 million. In the video, the wife of billionaire Ned Nwoko…",
+      "Url": "https://www.kemifilani.ng/entertainment/regina-daniels-splashes-10-million-on-gold-jewelry",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Regina-Daniels-splashes-10-million-on-gold-jewelry-Kemi-Filani-blog-min.jpg",
+      "PublishedAt": "2023-07-09T05:00:00Z",
+      "Content": "Nollywood actress, Regina Daniels has acquired a new piece of jewelry worth millions.\r\nThe movie star, in a video posted to her Instagram story, showed off her newly acquired jewelry said to be worth… [+1274 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Punch"
+      },
+      "Author": "Tofarati Ige",
+      "Title": "How working with veterans in Ijakumo helped me— Lolade Okusanya",
+      "Description": "An actress and content creator, Lolade Okusanya, has said that working with veteran actors on the set of the movie, Ijakumo: The Born Again Stripper, helped her to deliver her roles as twin sisters better. In a statement sent to Sunday Scoop, she said, “Meeti…",
+      "Url": "https://punchng.com/how-working-with-veterans-in-ijakumo-helped-me-lolade-okusanya/",
+      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/07/08213326/Lolade-Okusanya.jpg",
+      "PublishedAt": "2023-07-09T03:31:38Z",
+      "Content": "An actress and content creator, Lolade Okusanya, has said that working with veteran actors on the set of the movie, Ijakumo: The Born Again Stripper, helped her to deliver her roles as twin sisters b… [+1106 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kemifilani.ng"
+      },
+      "Author": "Mercy Trin",
+      "Title": "\"They're always the first to arrive movie location\" Yomi Fabiyi reacts as veteran, Alapinni becomes a car owner",
+      "Description": "Nollywood actor, Yomi Fabiyi has penned an appreciation note to all who donated and contributed towards the financial assistance of veteran Yoruba actor, Alapinni. Kemi Filani reported days back that Alapinni had cried out over his financial status and his fa…",
+      "Url": "https://www.kemifilani.ng/entertainment/yomi-fabiyi-reacts-as-veteran-alapinni-becomes-a-car-owner",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/They-are-always-the-first-to-arrive-movie-location-Yomi-Fabiyi-reacts-as-Alapinni-becomes-a-car-owner-Kemi-Fikani-blog-min.jpg",
+      "PublishedAt": "2023-07-09T03:13:00Z",
+      "Content": "Nollywood actor, Yomi Fabiyi has penned an appreciation note to all who donated and contributed towards the financial assistance of veteran Yoruba actor, Alapinni.\r\nKemi Filani reported days back tha… [+2807 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freerepublic.com"
+      },
+      "Author": "The Hollywood Reporter",
+      "Title": "Margia Dean, B-Movie Actress Known for ‘The Quatermass Xperiment’ and More, Dies at 101",
+      "Description": "She did lots of work at Lippert Pictures, including the first two features directed by the legendary Sam Fuller and 'Superman and the Mole Men.'Margia Dean, who co-starred in the cult sci-fi classic The Quatermass Xperiment and appeared alongside the likes of…",
+      "Url": "https://freerepublic.com/focus/f-chat/4166546/posts",
+      "UrlToImage": null,
+      "PublishedAt": "2023-07-09T01:17:14Z",
+      "Content": "Skip to comments.\r\nMargia Dean, B-Movie Actress Known for The Quatermass Xperiment and More, Dies at 101The Hollywood Reporter ^\r\n | JULY 6, 2023\r\n | Mike Barnes\r\nPosted on 07/08/2023 6:17:14 PM PDT … [+5248 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Billie Walker",
+      "Title": "‘And Just Like That’ Needs to Stop Enabling Carrie’s Ageism",
+      "Description": "Photo Illustration by Erin O'Flynn/The Daily Beast/Getty Images and Max\r\nThroughout Hollywood’s history, an older actress was often only given a few options for roles: She could play a matron (Doubt), an abhorrent sexual predator (Notes on a Scandal, Misery),…",
+      "Url": "https://www.thedailybeast.com/obsessed/and-just-like-that-carries-self-hating-ageism-needs-to-stop",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1688825464/230707-walker-carrie-bradshaw-ageism-hero_ocvdh7",
+      "PublishedAt": "2023-07-09T01:09:39Z",
+      "Content": "Throughout Hollywoods history, an older actress was often only given a few options for roles: She could play a matron (Doubt), an abhorrent sexual predator (Notes on a Scandal, Misery), or a horrors … [+6743 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Brad Pitt Spends Another Day at F1 Grand Prix of Great Britain As Filming for New Movie Begins",
+      "Description": "Brad Pitt is spending another day at the races! The 69-year-old Oscar-winning actor was all smiles as he arrived at the F1 Grand Prix of Great Britain on Saturday (July 8) at the Silverstone Circuit in Northampton, England. PHOTOS: Check out the latest pics o…",
+      "Url": "https://www.justjared.com/2023/07/08/brad-pitt-spends-another-day-at-f1-grand-prix-of-great-britain-as-filming-for-new-movie-begins/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/brad-green-f1.jpg",
+      "PublishedAt": "2023-07-08T22:08:45Z",
+      "Content": "Brad Pitt is spending another day at the races!\r\nThe 69-year-old Oscar-winning actor was all smiles as he arrived at the F1 Grand Prix of Great Britain on Saturday (July 8) at the Silverstone Circuit… [+771 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "ImportError: cannot import name 'Movie' from partially initialized module 'movie.models' (most likely due to a circular import)",
+      "Description": "I have two apps, crew and movie, i've put the Movie table as a foreignkey to models on crew like actor,director etc so that i can access filmography of each of them.\nAlso i did the same on Movie table to select each crew member while adding a movie details.\nb…",
+      "Url": "https://stackoverflow.com/questions/76643509/importerror-cannot-import-name-movie-from-partially-initialized-module-movie",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2023-07-08T19:50:32Z",
+      "Content": "I have two apps, crew and movie, i've put the Movie table as a foreignkey to models on crew like actor,director etc so that i can access filmography of each of them.\r\nAlso i did the same on Movie tab… [+4092 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Comic-Con 2023 Friday Schedule Highlights - GEN V, THE CONTINENTAL, INVINCIBLE, RICK & MORTY, and More",
+      "Description": "The Friday schedule for Comic-Con 2023 has been released and if you’re attending the big geek culture event this year, there are plenty of panels to attend even though hardly any of the big studios are showing up this year. I’ve gone through and listed some o…",
+      "Url": "https://geektyrant.com/news/comic-con-2023-friday-schedule-highlights",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a975e368433c0655a7d41d/1688842834882/Screen+Shot+2023-07-08+at+9.01.43+AM.jpg?format=1500w",
+      "PublishedAt": "2023-07-08T19:00:00Z",
+      "Content": "The Friday schedule for Comic-Con 2023 has been released and if youre attending the big geek culture event this year, there are plenty of panels to attend even though hardly any of the big studios ar… [+9415 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TVLine"
+      },
+      "Author": "Vlada Gelman",
+      "Title": "Jewel Staite: There’s ‘a Better Chance’ of L.A. Complex Revival (‘There’s Always Rumblings’) Than More Firefly",
+      "Description": "Jewel Staite is all too familiar with the heartbreak of a cancelled TV show. The actress co-starred as mechanic Kaylee in the cult fave Firefly, then was part of another short-lived drama, The L.A. Complex. With their devoted fanbases, both series are often t…",
+      "Url": "https://tvline.com/interviews/the-la-complex-revival-firefly-season-2-jewel-staite-interview-1235008597/",
+      "UrlToImage": "https://tvline.com/wp-content/uploads/2023/07/jewel-staite-la-complex-firefly.jpg",
+      "PublishedAt": "2023-07-08T17:00:34Z",
+      "Content": "Jewel Staite is all too familiar with the heartbreak of a cancelled TV show. The actress co-starred as mechanic Kaylee in the cult fave Firefly, then was part of another short-lived drama, The L.A. C… [+3548 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Sabienna Bowman",
+      "Title": "Taylor Lautner Backflips His Way Into a Reunion With Taylor Swift on Stage at Her Kansas City Show",
+      "Description": "Taylor Swift and Taylor Lautner are reunited (professionally) and it feels so good. On July 7, Lautner backflipped his way onstage to surprise fans at Swift's Kansas City show. The duo's reunion came as Swift premiered the new music video for \"I Can See You\" …",
+      "Url": "https://www.popsugar.com/celebrity/taylor-swift-taylor-lautner-reunion-49221030",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/GDWjweIQxJbFWwwl3rv9EmhDpQc/8x315:5993x3457/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/07/08/664/n/1922398/d94f571364a9792ae289e6.65075330_.jpg",
+      "PublishedAt": "2023-07-08T15:40:02Z",
+      "Content": "Taylor Swift and Taylor Lautner are reunited (professionally) and it feels so good. On July 7, Lautner backflipped his way onstage to surprise fans at Swift's Kansas City show. The duo's reunion came… [+1957 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "UPROXX"
+      },
+      "Author": "Matthewprigge",
+      "Title": "Michael Cera Missed Out On A ‘Barbie’ Group Chat Because He Only Has A Flip Phone",
+      "Description": "Warner Bros. Discovery\r\n\n\nThe actor proudly only has a flip phone, so he missed out on a fun gathering for the 'Barbie' movie.",
+      "Url": "https://uproxx.com/movies/michael-cera-missed-barbie-group-chat-flip-phone/",
+      "UrlToImage": "https://uproxx.com/wp-content/uploads/2023/04/Cera.jpg?w=1024",
+      "PublishedAt": "2023-07-08T15:29:55Z",
+      "Content": "Michael Cera doesnt have a smart phone, and good for him. Humanity did just fine without them for an awfully long time. That doesnt mean he doesnt miss out on some of the finer things the technology … [+1416 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Mirror Online"
+      },
+      "Author": "mirrornews@mirror.co.uk (Charlotte Everett)",
+      "Title": "Cillian Murphy and Florence Pugh 'tested for chemistry' before Oppenheimer's nude scenes",
+      "Description": "Oppenheimer is one of this year's most hyped films, being released on July 21, the same day as the Barbie movie, with Peaky Blinders star Cillian Murphy and Don't Worry Darling actress Florence Pugh taking starring roles",
+      "Url": "https://www.mirror.co.uk/3am/celebrity-news/cillian-murphy-florence-pugh-tested-30420873",
+      "UrlToImage": "https://i2-prod.mirror.co.uk/incoming/article30420883.ece/ALTERNATES/s1200/0_Murphy.jpg",
+      "PublishedAt": "2023-07-08T14:59:03Z",
+      "Content": "Oppenheimer's Cillian Murphy says he was subjected to \"chemistry tests\" with Florence Pugh before prolonged nudity scenes.\r\n The film is one of this year's most hyped movies, which is set to include … [+2002 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kemifilani.ng"
+      },
+      "Author": "Mercy Trin",
+      "Title": "\"Still the same girl but with a different way of life\" Regina Daniels sends quick PSA",
+      "Description": "Nollywood actress, Regina Daniels who is living the dream life of many ladies, has issued a quick PSA. The movie star shared gorgeous photos from her visit to her husband, Ned Nwoko's office in the House of Assembly. Accompanying the photos was a short messag…",
+      "Url": "https://www.kemifilani.ng/entertainment/regina-daniels-says-she-is-still-the-same-girl-but-with-a-different-way-of-life",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Still-the-same-girl-but-with-a-different-way-of-life-Regina-Daniels-Kemi-Filani-blog-min.jpg",
+      "PublishedAt": "2023-07-08T12:57:30Z",
+      "Content": "Nollywood actress, Regina Daniels who is living the dream life of many ladies, has issued a quick PSA.\r\nThe movie star shared gorgeous photos from her visit to her husband, Ned Nwoko’s office in the … [+1270 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kemifilani.ng"
+      },
+      "Author": "Dami Kayode",
+      "Title": "\"This little light of mine\" Bukunmi Oluwasina makes list of 100 most impactful people",
+      "Description": "Nollywood actress Bukunmi Oluwasina has made the list of 100 most impactful people in Africa, alongside senior colleagues such as Richard Mofe Damijo, Kunle Remi and Kunle Afolayan. The list compiled by Ranks Magazine Africa revealed that Bukunmi Oluwasina ma…",
+      "Url": "https://www.kemifilani.ng/entertainment/bukunmi-oluwasina-makes-list-of-100-most-impactful-people",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/06/Bukunmi-Oluwasina-leaves-many-in-fear-as-she-reveals-her-dying-wish-Kemi-Filani-blog-min-scaled.jpg",
+      "PublishedAt": "2023-07-08T12:13:19Z",
+      "Content": "Nollywood actress Bukunmi Oluwasina has made the list of 100 most impactful people in Africa, alongside senior colleagues such as Richard Mofe Damijo, Kunle Remi and Kunle Afolayan.\r\nThe list compile… [+1754 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "AP",
+      "Title": "'M*A*S*H' star Alan Alda, who kept boots & dog tags from show, to auction off TV memorabilia",
+      "Description": "Alan Alda, the actor who played the wisecracking surgeon Hawkeye in the TV series \"M*A*S*H,\" plans to auction off the boots and dog tags he wore during the TV show's 11-season run.",
+      "Url": "https://economictimes.indiatimes.com/magazines/panache/mash-star-alan-alda-who-kept-boots-dog-tags-from-show-to-auction-tv-memorabilia/articleshow/101594903.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-101594915,width-1070,height-580,imgsize-150730,overlay-etpanache/photo.jpg",
+      "PublishedAt": "2023-07-08T11:54:15Z",
+      "Content": "DALLAS: The combat boots and dog tags that Alan Alda wore to portray the wisecracking surgeon Hawkeye on the beloved television series \"M-A-S-H\" meant so much to him that when the show ended 40 years… [+3699 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Punch"
+      },
+      "Author": "Peace Akinyode",
+      "Title": "Keke Palmer reacts to partner’s comments on Las Vegas outfit",
+      "Description": "American actress, Keke Palmer has responded to her partner’s public remarks on an outfit she wore to an event in Las Vegas. Dressed in a black bodysuit, and sheer Givenchy dress, the TV personality attended an Usher’s residency show which was held in Las Vega…",
+      "Url": "https://punchng.com/keke-palmer-reacts-to-partners-comments-on-las-vegas-outfit/",
+      "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/07/06094925/d61db294-28e7-4404-9bb6-19c3a186add5-e1688633364437.jpg",
+      "PublishedAt": "2023-07-08T11:30:48Z",
+      "Content": "American actress, Keke Palmer has responded to her partner’s public remarks on an outfit she wore to an event in Las Vegas.\r\nDressed in a black bodysuit, and sheer Givenchy dress, the TV personality … [+2208 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "nytimes.com",
+      "Title": "Pom Klementieff Is Hooked on Skydiving, Thanks to Tom Cruise",
+      "Description": "“I love playing a villain,” Pom Klementieff said. “There’s something cathartic and a little bit insane about it that’s really enjoyable.” The “Guardians of the Galaxy” actress, who plays a villain in the new “Mission: Impossible” movie, considers “Gone Girl” …",
+      "Url": "https://biztoc.com/x/0b1934368105d4bc",
+      "UrlToImage": "https://c.biztoc.com/p/0b1934368105d4bc/s.webp",
+      "PublishedAt": "2023-07-08T10:59:42Z",
+      "Content": "I love playing a villain, Pom Klementieff said. Theres something cathartic and a little bit insane about it thats really enjoyable.The Guardians of the Galaxy actress, who plays a villain in the new … [+282 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Withinnigeria.com"
+      },
+      "Author": "Makky",
+      "Title": "Why I haven't slept with a man for 4 years - Lizzy Gold spills",
+      "Description": "Nollywood actress, Lizzy Gold Onuwaje speaks on why she has been celibate for four years. The movie star disclosed this via her official handle on the new",
+      "Url": "https://www.withinnigeria.com/entertainment/2023/07/08/why-i-havent-slept-with-a-man-for-4-years-lizzy-gold-spills/",
+      "UrlToImage": "https://www.withinnigeria.com/entertainment/wp-content/uploads/sites/6/2023/07/liz-co.jpg",
+      "PublishedAt": "2023-07-08T09:39:20Z",
+      "Content": "Nollywood actress, Lizzy Gold Onuwaje speaks on why she has been celibate for four years.\r\nThe movie star disclosed this via her official handle on the new social app, Threads.\r\nThe mother of two not… [+546 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "Allyson McCabe",
+      "Title": "Some advice from filmmaker Cheryl Dunye: 'Keep putting yourself out where you belong'",
+      "Description": "Growing up in Philadelphia, Cheryl Dunye says she was fascinated by the stories reflected in her mother's scrapbook photos. She studied filmmaking in college and graduate school but didn't see people who looked like her on screen.\nDunye changed that with her …",
+      "Url": "https://www.npr.org/2023/07/08/1186387526/cheryl-dunye-the-watermelon-woman",
+      "UrlToImage": "https://media.npr.org/assets/img/2023/07/07/cheryl-dunye-1.26.14-fullbleed-photo-by-jamie-hopper-_wide-b43c21b46838c9dae8be78a46f33f56aaa7f2204-s1400-c100.jpg",
+      "PublishedAt": "2023-07-08T09:00:42Z",
+      "Content": "Cheryl Dunye's 1996 debut, The Watermelon Woman, is being added to the Criterion Collection. It's a long overdue honor for the filmmaker who shaped how Black LGBTQ+ stories are told.\r\nJamie Hopper\r\nG… [+6509 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "youtube.com",
+      "Title": "We live in an industry now where every movie has to be a hit, says director Alex Winters",
+      "Description": "Alex Winters, actor and director, joins 'Last Call' to discuss movie ticket sales, his new documentary on YouTube and more. #alexwinters",
+      "Url": "https://biztoc.com/x/5e4f7305ad9eb105",
+      "UrlToImage": "https://c.biztoc.com/p/5e4f7305ad9eb105/s.webp",
+      "PublishedAt": "2023-07-08T07:08:13Z",
+      "Content": "Alex Winters, actor and director, joins 'Last Call' to discuss movie ticket sales, his new documentary on YouTube and more.\r\n#alexwinters\r\nThis story appeared on youtube.com, ."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kemifilani.ng"
+      },
+      "Author": "Dami Kayode",
+      "Title": "\"God listens, and he rewards\" Toyin Abraham brags as Ijakumo breaks records on Netflix",
+      "Description": "Multiple award-winning Nollywood actress Toyin Abraham Ajewole has shown off her bragging rights as her movie, Ijakumo, breaks records on Netflix. On Instagram, Toyin Abraham preached how speaking one's desires into existence and how God listens and rewards e…",
+      "Url": "https://www.kemifilani.ng/entertainment/toyin-abraham-brags-as-ijakumo-breaks-records-on-netflix",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Toyin-Abraham-brags-as-Ijakumo-breaks-records-on-Netflix.jpg",
+      "PublishedAt": "2023-07-08T07:00:00Z",
+      "Content": "Multiple award-winning Nollywood actress Toyin Abraham Ajewole has shown off her bragging rights as her movie, Ijakumo, breaks records on Netflix.\r\nOn Instagram, Toyin Abraham preached how speaking o… [+1620 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kemifilani.ng"
+      },
+      "Author": "Mercy Trin",
+      "Title": "\"I made family with some good humans\" Actor Wole Ojo emotional as he reminisces on his failed first attempt in Nollywood",
+      "Description": "Nollywood actor, Wole Ojo is in his feelings as he reminisces on his 2014 failed first attempt in Nollywood. He recounted how he worked on the movie, THE ORIGINALS, a project that would always be in his heart because he made family with some good humans. His …",
+      "Url": "https://www.kemifilani.ng/entertainment/wole-ojo-emotional-as-he-reminisces-on-his-failed-first-attempt-in-nollywood",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/I-made-family-with-some-good-humans-Wole-Ojo-reminisces-on-his-first-failed-attempt-in-Nollywood-Kemi-Filani-blog-min.jpg",
+      "PublishedAt": "2023-07-08T06:04:00Z",
+      "Content": "Nollywood actor, Wole Ojo is in his feelings as he reminisces on his 2014 failed first attempt in Nollywood.\r\nHe recounted how he worked on the movie, THE ORIGINALS, a project that would always be in… [+2046 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Karen Allen Reveals Why She Was Not Impressed With Her 'Indiana Jones' Role In The Last Movie",
+      "Description": "Karen Allen is best known to fans as Marion, the longtime love of Harrison Ford‘s title character in the long-running Indiana Jones franchise. However, the 71-year-old actress revealed that she was a bit disappointed with just how little screen time she actua…",
+      "Url": "https://www.justjared.com/2023/07/08/karen-allen-reveals-why-she-was-not-impressed-with-her-indiana-jones-role-in-the-last-movie/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/karen-dial.jpg",
+      "PublishedAt": "2023-07-08T04:09:35Z",
+      "Content": "Karen Allen is best known to fans as Marion, the longtime love of Harrison Ford‘s title character in the long-running Indiana Jones franchise.\r\nHowever, the 71-year-old actress revealed that she was … [+1919 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Theplaylist.net"
+      },
+      "Author": "Christopher Marc",
+      "Title": "‘Deadpool 3’: Jennifer Garner Set To Reprise Elektra Role After Nearly 20 Years",
+      "Description": "As the rumors have suggested so far, it’s starting to look like Marvel’s “Deadpool 3” will host a cornucopia of cameos from the 20th Century era of Marvel. The third, currently unofficially titled “Deadpool” movie will already feature a long-dreamt-for crosso…",
+      "Url": "https://theplaylist.net/deadpool-3-marvel-elektra-jennifer-garner-20230707/",
+      "UrlToImage": "https://cdn.theplaylist.net/wp-content/uploads/2023/07/07193100/DEADPOOL-3_JENNIFER-GARNER_ELEKTRA_MARVEL-STUDIOS_.jpg",
+      "PublishedAt": "2023-07-08T01:33:02Z",
+      "Content": "As the rumors have suggested so far, its starting to look like MarvelsDeadpool 3 will host a cornucopia of cameos from the 20th Century era of Marvel. The third, currently unofficially titled “Deadpo… [+2160 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Margot Robbie Has Paid Homage To 9 Different Barbie Dolls On The 'Barbie' Press Tour - See Them All Here!",
+      "Description": "Margot Robbie is living her dream life as Barbie right now! After kicking off the press tour for the Barbie movie last week, the 33-year-old actress has channeled 9 different dolls so far. Margot has been working with stylist Andrew Mukamal to recreate signat…",
+      "Url": "https://www.justjared.com/2023/07/07/margot-robbie-has-paid-homage-to-9-different-barbie-dolls-on-the-barbie-press-tour-see-them-all-here/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/margot-barbies.jpg",
+      "PublishedAt": "2023-07-08T01:32:55Z",
+      "Content": "Margot Robbie is living her dream life as Barbie right now!\r\nAfter kicking off the press tour for the Barbie movie last week, the 33-year-old actress has channeled 9 different dolls so far.\r\nMargot h… [+261 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "hollywoodreporter.com",
+      "Title": "Sandra Oh Says She Wants to Return for New ‘Princess Diaries’ Movie: “I Am Ready for the Queen”",
+      "Description": "Sandra Oh would love to reprise her role as Vice Principal Gupta in the third installment of The Princess Diaries, which is currently in development. During an interview with Entertainment Weekly, posted online Friday, the actress had a message for the film’s…",
+      "Url": "https://biztoc.com/x/f566b958e7e0418a",
+      "UrlToImage": "https://c.biztoc.com/p/f566b958e7e0418a/s.webp",
+      "PublishedAt": "2023-07-08T00:50:05Z",
+      "Content": "Sandra Oh would love to reprise her role as Vice Principal Gupta in the third installment of The Princess Diaries, which is currently in development.During an interview with Entertainment Weekly, pos… [+336 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Cillian Murphy's 'Oppenheimer' Castmates Reveal That He Missed Group Dinners, Explain Why",
+      "Description": "Cillian Murphy missed out on a key opportunity to bond with his castmates while not filming their new movie Oppenheimer. The 47-year-old Peaky Blinders actor – who brings J. Robert Oppenheimer, the “father of the atomic bomb” to life – skipped out on group di…",
+      "Url": "https://www.justjared.com/2023/07/07/cillian-murphys-oppenheimer-castmates-reveal-that-he-missed-group-dinners-explain-why/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/cillian-dinners.jpg",
+      "PublishedAt": "2023-07-07T22:22:01Z",
+      "Content": "Cillian Murphy missed out on a key opportunity to bond with his castmates while not filming their new movie Oppenheimer. \r\nThe 47-year-old Peaky Blinders actor – who brings J. Robert Oppenheimer, the… [+1083 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Chanel Vargas",
+      "Title": "Arsema Thomas Shares Her Predictions For \"Queen Charlotte\" Season 2",
+      "Description": "Image Source: Arsema Thomas / Photo Illustration by Ava Cruz\nAs fans campaign for a second season of \"Queen Charlotte,\" we're still reeling from season one's incredible performances, namely Arsema Thomas's impressive portrayal of Lady Agatha Danbury. In \"Brid…",
+      "Url": "https://www.popsugar.com/celebrity/arsema-thomas-last-call-interview-49216248",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/IyNRGoCt_7nZh0NKj_RKVdXOpuM=/0x0:1198x629/fit-in/1200x630/filters:format_auto():quality(85):upscale()/2023/07/07/791/n/1922398/61ad56cc64a852b97d2ba6.27996971_.jpg",
+      "PublishedAt": "2023-07-07T21:20:03Z",
+      "Content": "As fans campaign for a second season of \"Queen Charlotte,\" we're still reeling from season one's incredible performances, namely Arsema Thomas's impressive portrayal of Lady Agatha Danbury. In \"Bridg… [+8088 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Footwear News"
+      },
+      "Author": "Amina Ayoud",
+      "Title": "Margot Robbie Is ‘Totally Hair’ Barbie in Pucci Minidress & Hot Pink Heels for Movie Photocall in Mexico",
+      "Description": "The \"Amsterdam\" actress was joined by her \"Barbie\" co-star Ryan Gosling.",
+      "Url": "http://footwearnews.com/fashion/celebrity-style/margot-robbie-barbie-mexico-pucci-dress-pumps-1203488899/",
+      "UrlToImage": "https://footwearnews.com/wp-content/uploads/2023/07/rgtwo.jpg",
+      "PublishedAt": "2023-07-07T21:04:09Z",
+      "Content": "After dressing up like “Earring Magic” Barbie for the Mexico City premiere of Greta Gerwig’s “Barbie” on Thursday night, Margot Robbie continued channeling the plastic doll during a photocall on Frid… [+2713 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Jennifer Garner Reportedly Returning as Elektra For 'Deadpool 3'!",
+      "Description": "Jennifer Garner is returning to the role of Elektra! The 51-year-old actress will be joining Ryan Reynolds and Hugh Jackman as the iconic character in Deadpool 3! Keep reading to find out more… According to sources close to the movie, they told The Hollywood …",
+      "Url": "https://www.justjared.com/2023/07/07/jennifer-garner-returning-elektra-for-deadpool-3/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/garner-elektra.jpg",
+      "PublishedAt": "2023-07-07T21:03:26Z",
+      "Content": "Jennifer Garner is returning to the role of Elektra!\r\nThe 51-year-old actress will be joining Ryan Reynolds and Hugh Jackman as the iconic character in Deadpool 3!\r\nKeep reading to find out more…\r\nAc… [+667 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Spencer Legacy",
+      "Title": "Jennifer Garner Joins Deadpool 3 Cast as Elektra",
+      "Description": "Jennifer Garner will be making her return to Marvel next year, as the actress will be reprising her role as Elektra in the upcoming Marvel Cinematic Universe sequel Deadpool 3. Will Jennifer Garner be playing Elektra in Deadpool 3? According to The Hollywood …",
+      "Url": "https://www.comingsoon.net/movies/news/1304270-jennifer-garner-joins-deadpool-3-cast-as-elektra",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/jennifer-garner-header.png?resize=1200,630",
+      "PublishedAt": "2023-07-07T20:58:01Z",
+      "Content": "Jennifer Garner will be making her return to Marvel next year, as the actress will be reprising her role as Elektra in the upcoming Marvel Cinematic Universesequel Deadpool 3.\r\nAccording to The Holly… [+1470 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Variety"
+      },
+      "Author": "Sophia Scorziello",
+      "Title": "Matty Matheson on Transitioning From Real-Life Chef to ‘The Bear’ Star: ‘Acting Scares the S— Out of Me’",
+      "Description": "Being a television personality is a lot different than playing a television character. For someone like cooking TV personality Matty Matheson, the latter can be terrifying. “Acting scares the shit out of me,” said Matheson, actor and executive producer on FX’…",
+      "Url": "https://variety.com/2023/tv/news/matty-matheson-chef-the-bear-courtney-storer-vice-1235664207/",
+      "UrlToImage": "https://variety.com/wp-content/uploads/2023/07/THE_BEAR_203_0749R-e1688758121256.jpg?w=1000&h=563&crop=1",
+      "PublishedAt": "2023-07-07T20:21:05Z",
+      "Content": "Being a television personality is a lot different than playing a television character. For someone like cooking TV personality Matty Matheson, the latter can be terrifying.\r\n“Acting scares the shit o… [+6038 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Victoria Edel",
+      "Title": "Ashley Park's Star Turn Anchors the Hilarious and Absurd \"Joy Ride\"",
+      "Description": "In POPSUGAR's series \"In Our Queue,\" we're reviewing the buzziest new projects with a critical eye on what works - and what doesn't. This week, Victoria Edel is breaking down \"Joy Ride.\"\nCan one vacation be a total, life-destroying trainwreck, a drug-fueled p…",
+      "Url": "https://www.popsugar.com/entertainment/joy-ride-movie-review-49220236",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/BsXr8CTOMheT9B4plzd0YuSDcEg=/0x0:3589x1884/fit-in/3600x2400/filters:format_auto():quality(85):upscale()/2023/07/07/752/n/1922283/c17673d364a84577044518.94510579_.jpg",
+      "PublishedAt": "2023-07-07T20:05:10Z",
+      "Content": "In POPSUGAR's series \"In Our Queue,\" we're reviewing the buzziest new projects with a critical eye on what works and what doesn't. This week, Victoria Edel is breaking down \"Joy Ride.\"\r\nCan one vacat… [+2997 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Inside the Magic"
+      },
+      "Author": "Melanie Weir",
+      "Title": "Molly Weasley and Griphook Star in Peacock Children’s Show ‘Moley’",
+      "Description": "Molly Weasley and Griphook were never in a scene together in Harry Potter. As a matter of fact, even though actor Warwick Davis played Professor Flitwick in the film series as well, the only time he and actress Julie Walters were ever in scenes together was d…",
+      "Url": "https://insidethemagic.net/2023/07/harry-potter-actors-star-in-moley-mw1/",
+      "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2023/07/moley-on-peacock.jpg",
+      "PublishedAt": "2023-07-07T19:49:30Z",
+      "Content": "Molly Weasley and Griphook were never in a scene together in Harry Potter. As a matter of fact, even though actor Warwick Davis played Professor Flitwick in the film series as well, the only time he … [+2098 chars]"
+    },
+    {
+      "Source": {
+        "Id": "breitbart-news",
+        "Name": "Breitbart News"
+      },
+      "Author": "Warner Todd Huston, Warner Todd Huston",
+      "Title": "Transgender Actor Hari Nef Says 'Barbie' Film Will Be a Source of Inspiration for Trans People",
+      "Description": "Transgender actor Hari Nef recently claimed that Warner Bros. upcoming \"Barbie\" movie, based on the venerable girl's fashion doll toys, will be an inspiration to transgender and gay people everywhere.",
+      "Url": "https://www.breitbart.com/entertainment/2023/07/07/transgender-actor-hari-nef-says-barbie-film-will-be-a-source-of-inspiration-for-trans-people/",
+      "UrlToImage": "https://media.breitbart.com/media/2023/07/HariNefBarbie-640x335.jpg",
+      "PublishedAt": "2023-07-07T19:48:30Z",
+      "Content": "Transgender actor Hari Nef recently claimed that Warner Bros. upcoming Barbie movie, based on the venerable girl’s fashion doll toys, will be an inspiration to transgender and gay people everywhere.\r… [+3015 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Jonathan Sim",
+      "Title": "Deadpool 3 Star Karan Soni Says MCU Movie Won’t Feel Different From First Two",
+      "Description": "Deadpool 3 actor Karan Soni says the new movie won’t feel different from the first two. The third movie in the Deadpool series starring Ryan Reynolds will be the first one set in the Marvel Cinematic Universe. The MCU has made exclusively PG-13 movies so far,…",
+      "Url": "https://www.comingsoon.net/movies/news/1304225-deadpool-3-star-karan-soni-says-mcu-movie-wont-feel-different-from-first-two",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/03/karan-soni-dopinder-deadpool-deadpool-2-deadpool-3.png?resize=1200,630",
+      "PublishedAt": "2023-07-07T19:37:29Z",
+      "Content": "Deadpool 3 actor Karan Soni says the new movie wont feel different from the first two.\r\nThe third movie in the Deadpool series starring Ryan Reynolds will be the first one set in the Marvel Cinematic… [+1512 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cult of Mac"
+      },
+      "Author": "Scout Tafoya",
+      "Title": "The Crowded Room goes from arthouse to madhouse [Apple TV+ recap]",
+      "Description": "Apple TV+ limited series The Crowded Room plays its final hand this week, and the show finally broke me the way it reportedly “broke” its lead actor, Tom Holland. Danny finally gets to know all of his personalities at Rya’s behest, though he may have blown hi…",
+      "Url": "https://www.cultofmac.com/820094/the-crowded-room-recap-apple-tv-plus/",
+      "UrlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/07/The_Crowded_Room_Photo_010705-1.jpeg",
+      "PublishedAt": "2023-07-07T19:00:35Z",
+      "Content": "Apple TV+ limited series The Crowded Room plays its final hand this week, and the show finally broke me the way it reportedly broke its lead actor, Tom Holland. Danny finally gets to know all of his … [+6888 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Anthony Nash",
+      "Title": "Drake Takes Shot at Donald Glover’s ‘This is America’ During Performance",
+      "Description": "During the opening night of Drake’s “It’s All a Blur” tour, the rapper took some shots at rapper/singer/actor/director Donald Glover for his song “This is America.” What did Drake say about Donald Glover? While Drake performed his 2011 hit “Headlines,” a tick…",
+      "Url": "https://www.comingsoon.net/music/news/1304204-drake-takes-shot-at-donald-glovers-this-is-america-during-performance",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/childish-gambino-this-is-america-screenshot.png?resize=1200,630",
+      "PublishedAt": "2023-07-07T18:46:27Z",
+      "Content": "During the opening night of Drakes Its All a Blur tour, the rapper took some shots at rapper/singer/actor/director Donald Glover for his song This is America. \r\nWhile Drake performed his 2011 hit Hea… [+1151 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Anne Easton, Contributor, \n Anne Easton, Contributor\n https://www.forbes.com/sites/anneeaston/",
+      "Title": "Mary J. Blige Turns Her Hits ‘Real Love’ And ‘Strength Of A Woman’ Into Two New Movies",
+      "Description": "She may be a busy woman, but now Mary J. Blige, the multi Grammy-winning singer-songwriter and Academy-award nominated actress, can add movie producer to her resume.",
+      "Url": "https://www.forbes.com/sites/anneeaston/2023/07/07/mary-j-blige-turns-her-hits-real-love-and-strength-of-a-woman-into-two-new-movies/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/64a844fcf33e7a1d5f91cf1d/0x0.jpg?format=jpg&width=1200",
+      "PublishedAt": "2023-07-07T18:26:37Z",
+      "Content": "(L to R) Ajiona Alexus and Da'Vinchi star in \"Mary J. Blige's Real Love,\" streaming on Lifetime. \r\nCourtesy: Lifetime\r\nMary J. Blige is a busy woman.\r\nBut recently, shes found time to add one more ti… [+5109 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Mirror Online"
+      },
+      "Author": "mirrornews@mirror.co.uk (Alex West)",
+      "Title": "Karen Allen, 71, 'disappointed' at her small role in the latest Indiana Jones movie",
+      "Description": "Karen Allen has played Marion Ravenwood for years, but her role in the latest Indiana Jones movie seems to be a bit of a let down for the veteran actress",
+      "Url": "https://www.mirror.co.uk/3am/us-celebrity-news/karen-allen-71-disappointed-small-30416070",
+      "UrlToImage": "https://i2-prod.mirror.co.uk/incoming/article30416515.ece/ALTERNATES/s1200/1_Karen-Allen-23182150646160.jpg",
+      "PublishedAt": "2023-07-07T17:54:50Z",
+      "Content": "Marion Ravenwood is anything but a minor character in the hearts of fans.\r\nHowever, in the recent film Indiana Jones and the Dial of Destiny, it seems that Karen Allen's role has been reasonably dimi… [+2449 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Jim Caviezel Offers Update on Mel Gibson's PASSION OF THE CHRIST: RESURRECTION and Says \"It Might Be Two Films\"",
+      "Description": "There have been reports that director Mel Gibson was developing his sequel to Passion of the Christ, which is titled Passion of the Christ: Ressurection. Jim Caviezel, who played Jesus in the first film, recently offered an update on the project and he believ…",
+      "Url": "https://geektyrant.com/news/jim-caviezel-offers-update-on-mel-gibsons-passion-of-the-christ-resurrection-and-says-it-might-be-two-films",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a7494a5817e82514b753ad/1688751022325/jim-caviezel-offers-update-on-mel-gibsons-passion-of-the-christ-resurrection-and-says-it-might-be-two-films.jpg?format=1500w",
+      "PublishedAt": "2023-07-07T17:30:00Z",
+      "Content": "There have been reports that director Mel Gibson was developing his sequel to Passion of the Christ, which is titled Passion of the Christ: Ressurection. Jim Caviezel, who played Jesus in the first f… [+1557 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "fortune.com",
+      "Title": "87-year-old French film legend Alain Delon was bullied by his girlfriend, children say",
+      "Description": "The children of French actor Alain Delon accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, and a French prosecutor directed police to investigate the legal complaints. The prosecutor, Jean-Cédric Gaux, said …",
+      "Url": "https://biztoc.com/x/c026cf52944f0637",
+      "UrlToImage": "https://c.biztoc.com/p/c026cf52944f0637/s.webp",
+      "PublishedAt": "2023-07-07T17:26:03Z",
+      "Content": "The children of French actor Alain Delon accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, and a French prosecutor directed police to investigate t… [+300 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "WWD"
+      },
+      "Author": "Kristopher Fraser",
+      "Title": "Margot Robbie Wears Pink Balmain Minidress Inspired by ’90s ‘Earring Magic’ Barbie for Movie Premiere in Mexico",
+      "Description": "The actress is continuing the press tour for the film in which she plays the title character.",
+      "Url": "https://wwd.com/pop-culture/celebrity-news/margot-robbie-barbie-balmain-mexico-pink-dress-1235729631/",
+      "UrlToImage": "https://wwd.com/wp-content/uploads/2023/07/GettyImages-1521025960.jpg?w=1024",
+      "PublishedAt": "2023-07-07T17:22:36Z",
+      "Content": "Margot Robbie attended the Mexico City premiere of her new film “Barbie” on Thursday, channeling inspiration from another Barbie doll. \r\nThe actress wore a pink leather minidress with sheer sleeves a… [+1533 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "Author": "Giles Richards at Silverstone",
+      "Title": "Pitt stop: actor Brad takes to Silverstone track as Formula One meets Hollywood",
+      "Description": "<ul><li>American actor to star in Apex, a new film about the sport</li><li>Filming will take place at Silverstone this weekend</li></ul>With Formula One hosting Brad Pitt and a full-scale film production at the British Grand Prix this weekend making a movie a…",
+      "Url": "https://www.theguardian.com/sport/2023/jul/07/brad-pitt-takes-to-the-track-as-formula-one-meets-hollywood-at-british-gp",
+      "UrlToImage": "https://i.guim.co.uk/img/media/a37cc887c2c8f7c6d4fa712f9e637ea34ca2bec3/0_207_2393_1435/master/2393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=709a1d3c09354f553f25cdacbfdcdb7e",
+      "PublishedAt": "2023-07-07T17:19:15Z",
+      "Content": "With Formula One hosting Brad Pitt and a full-scale film production at the British Grand Prix this weekend making a movie about the sport with Lewis Hamilton as a producer, the two different worlds h… [+8651 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Michele Mendez",
+      "Title": "The Meaning Behind Taylor Swift's \"Better Than Revenge\" Lyrics, and Why She Changed Them",
+      "Description": "It's a Taylor Swift summer. Apart from taking over the world with her Eras Tour and latest single \"Cruel Summer,\" Swift has now returned with another rerecorded album: \"Speak Now (Taylor's Version).\" The record dropped on July 7 - 13 years after Swift release…",
+      "Url": "https://www.popsugar.com/entertainment/taylor-swift-better-than-revenge-meaning-49219905",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/WwWANdpBAAYMkKRX7R8ERguI3KQ=/0x155:2656x1549/2656x3984/filters:format_auto():quality(85):extract_cover()/2023/07/07/442/n/48559432/393db8cd64a7dcb63a9173.17658400_.jpg",
+      "PublishedAt": "2023-07-07T16:45:04Z",
+      "Content": "It's a Taylor Swift summer. Apart from taking over the world with her Eras Tour and latest single \"Cruel Summer,\" Swift has now returned with another rerecorded album: \"Speak Now (Taylor's Version).\"… [+4400 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Caller"
+      },
+      "Author": "Leena Nasir",
+      "Title": "Karen Allen ‘Disappointed’ By Reduced Screen Time In New ‘Indiana Jones’ Movie",
+      "Description": "Actress Karen Allen said she was &quot;disappointed&quot; by the amount of screen time she got in &quot;Indiana Jones and the Dial of Destiny&quot;",
+      "Url": "https://dailycaller.com/2023/07/07/karen-allen-disappointed-screen-time-indiana-jones-movie/",
+      "UrlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/07/Karen-Allen-e1688744575765.jpg",
+      "PublishedAt": "2023-07-07T16:12:15Z",
+      "Content": "Actress Karen Allen said she was “disappointed” by the amount of screen time she got in “Indiana Jones and the Dial of Destiny,” according to a recent interview with The Hollywood Reporter.\r\nThe 71-y… [+2442 chars]"
+    },
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Amy Woodyatt",
+      "Title": "First look at Brad Pitt's F1 movie and car as filming gets underway at Silverstone",
+      "Description": "Apple Original Films has unveiled details of Oscar winner Brad Pitt's eagerly awaited Formula 1 feature film, as crews begin filming scenes with the actor at Silverstone, where Sunday's British Grand Prix is being staged.",
+      "Url": "https://www.cnn.com/2023/07/07/motorsport/brad-pitt-f1-film-intl-spt-scli/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230707083605-01-brad-pitt-f1-film.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2023-07-07T16:07:41Z",
+      "Content": "Apple Original Films has unveiled details ofOscar winner Brad Pitts eagerly awaited Formula 1 feature film, as crews begin filming scenes with the actor at Silverstone, where Sundays British Grand Pr… [+2587 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GamesRadar+"
+      },
+      "Author": "Richard Edwards, Molly Edwards",
+      "Title": "Ahsoka star addresses Dave Filoni's plans for a Star Wars crossover movie",
+      "Description": "EXCLUSIVE: Sabine actor Natasha Liu Bordizzo tells SFX magazine about Dave Filoni's Star Wars film",
+      "Url": "https://www.gamesradar.com/ahsoka-dave-filoni-star-wars-movie-natasha-liu-bordizzo/",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/8ZCSEQyRYAAamYGtEQQegg-1200-80.jpg",
+      "PublishedAt": "2023-07-07T15:00:00Z",
+      "Content": "Ahsoka is the latest Star Wars project from the mind of Dave Filoni, architect of animated shows The Clone Wars and Rebels. The series will feature the first live-action appearance of multiple Rebels… [+1744 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Eddie Makuch",
+      "Title": "Secret Invasion's Emilia Clarke Reacts To People Saying Green Screen Acting Isn't \"Real\"",
+      "Description": "Actress Emilia Clarke has responded to claims from some people that acting in front of a green screen is not \"real\" acting. Clarke, who has had a number of roles in the past involving green screen acting, said in an interview with the LA Times that this stigm…",
+      "Url": "https://www.gamespot.com/articles/secret-invasions-emilia-clarke-reacts-to-people-saying-green-screen-acting-isnt-real/1100-6515757/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4162567-screenshot2023-07-07at11.03.17am.png",
+      "PublishedAt": "2023-07-07T14:48:00Z",
+      "Content": "Actress Emilia Clarke has responded to claims from some people that acting in front of a green screen is not \"real\" acting. Clarke, who has had a number of roles in the past involving green screen ac… [+1191 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tudor Leonte",
+      "Title": "Paramount Plus Schedule July 10-16: New TV & Movies Being Added",
+      "Description": "The Paramount Plus schedule for July 10-16 features Emily, Goliath, It Follows, and more. Starting Monday, July 10, Paramount Plus subscribers can watch Emily, a biographical drama focusing on the life of Emily Brontë. Written and directed by Golden Globe-win…",
+      "Url": "https://www.comingsoon.net/guides/news/1302901-paramount-plus-schedule-july-10-16-new-tv-movies-being-added",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/emily.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-07T14:39:04Z",
+      "Content": "The Paramount Plus schedule for July 10-16 features Emily, Goliath, It Follows, and more. \r\nStarting Monday, July 10, Paramount Plus subscribers can watch Emily, a biographical drama focusing on the … [+1889 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Consequence.net"
+      },
+      "Author": "Anne Erickson",
+      "Title": "Ghost Team Up with Actor Patrick Wilson for Cover of Shakespears Sister’s “Stay”: Stream",
+      "Description": "The song soundtracks the final scene and end credits of the new movie Insidious: The Red Door.\nGhost Team Up with Actor Patrick Wilson for Cover of Shakespears Sister’s “Stay”: Stream\nAnne Erickson",
+      "Url": "https://consequence.net/2023/07/ghost-patrick-wilson-shakespears-sister-stay/",
+      "UrlToImage": "https://consequence.net/wp-content/uploads/2023/07/Ghost-and-Patrick-WIlson.jpg?quality=80",
+      "PublishedAt": "2023-07-07T14:17:58Z",
+      "Content": "Ghost recently released a covers EP called PHANTOMIME, but they evidently have more covers in them. The Swedish metal band has unleashed a cover of Shakespears Sister’s 1992 single “Stay” featuring a… [+3194 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Inside the Magic"
+      },
+      "Author": "Thomas Hitchen",
+      "Title": "Updates Shared After Timothée Chalamet Replaces ‘Pirates’ Star Johnny Depp in New Movie",
+      "Description": "Johnny Depp films are some of the most popular out there, but soon new Hollywood royalty Timothée Chalamet will replace the star in one of his iconic roles. Actor Johnny Depp is slowly re-entering the entertainment industry following years of litigation relat…",
+      "Url": "https://insidethemagic.net/2023/07/timothee-chalamet-replaces-johnny-depp-upcoming-movie-th1/",
+      "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2023/07/timothee-chalamet-johnny-depp.jpg",
+      "PublishedAt": "2023-07-07T13:58:42Z",
+      "Content": "Johnny Depp films are some of the most popular out there, but soon new Hollywood royalty Timothée Chalamet will replace the star in one of his iconic roles.\r\nCredit: Disney\r\nActor Johnny Depp is slow… [+5446 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "French actor Alain Delon's children accuse his companion of bullying, dog cruelty",
+      "Description": "The children of French actor Alain Delon have accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, A French prosecutor has directed police to investigate the legal complaints",
+      "Url": "https://abcnews.go.com/International/wireStory/french-actor-alain-delons-children-accuse-companion-bullying-100838354",
+      "UrlToImage": "https://s.abcnews.com/images/International/wirestory_9bc44405d228e8a327decd42f3223a0f_16x9_992.jpg",
+      "PublishedAt": "2023-07-07T13:18:34Z",
+      "Content": "PARIS -- The children of French actor Alain Delon accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, and a French prosecutor directed police to inve… [+1242 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "French actor Alain Delon's children accuse his companion of bullying, dog cruelty",
+      "Description": "The children of French actor Alain Delon have accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, A French prosecutor has directed police to investigate the legal complaints",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/french-actor-alain-delons-children-accuse-companion-bullying-100838357",
+      "UrlToImage": "https://s.abcnews.com/images/International/wirestory_9bc44405d228e8a327decd42f3223a0f_12x5_992.jpg",
+      "PublishedAt": "2023-07-07T13:18:03Z",
+      "Content": "PARIS -- The children of French actor Alain Delon accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, and a French prosecutor directed police to inve… [+1242 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "French actor Alain Delon's children accuse his companion of bullying, dog cruelty",
+      "Description": "The children of French actor Alain Delon have accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, A French prosecutor has directed police to investigate the legal complaints",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/french-actor-alain-delons-children-accuse-companion-bullying-100838368",
+      "UrlToImage": "https://s.abcnews.com/images/International/wirestory_9bc44405d228e8a327decd42f3223a0f_16x9_992.jpg",
+      "PublishedAt": "2023-07-07T13:03:30Z",
+      "Content": "PARIS -- The children of French actor Alain Delon accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, and a French prosecutor directed police to inve… [+1242 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "French actor Alain Delon's children accuse his companion of bullying, dog cruelty",
+      "Description": "The children of French actor Alain Delon have accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, A French prosecutor has directed police to investigate the legal complaints",
+      "Url": "https://abcnews.go.com/International/wireStory/french-actor-alain-delons-children-accuse-companion-bullying-100838346",
+      "UrlToImage": "https://s.abcnews.com/images/International/wirestory_9bc44405d228e8a327decd42f3223a0f_12x5_992.jpg",
+      "PublishedAt": "2023-07-07T13:02:43Z",
+      "Content": "PARIS -- The children of French actor Alain Delon accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, and a French prosecutor directed police to inve… [+1242 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "The New WONKA Movie Will Be a \"Companion\" to Gene Wilder's Classic Film and Roald Dahl’s Book",
+      "Description": "I really wish I was excited about the upcoming movie Wonka, which tells the origin story of Willy Wonka from Roald Dahl’s Charlie and the Chocolate Factory book. I’ve seen footage from the film, though, and nothing I’ve seen has piqued my interest. Timothée C…",
+      "Url": "https://geektyrant.com/news/the-new-wonka-movie-by-a-companion-to-gene-wilders-classic-film-and-roald-dahls-book",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a5c51cbf0aa7631b1d084b/1688734820641/wonka-set-video-offer-new-look-at-timothee-chalamet-as-willy-wonka.jpg?format=1500w",
+      "PublishedAt": "2023-07-07T13:00:00Z",
+      "Content": "I really wish I was excited about the upcoming movie Wonka, which tells the origin story of Willy Wonka from Roald Dahls Charlie and the Chocolate Factory book. Ive seen footage from the film, though… [+2165 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Metal Injection.net"
+      },
+      "Author": "Greg Kennelty",
+      "Title": "GHOST Streams Cover Of 1992 Hit \"Stay\" With Actor PATRICK WILSON",
+      "Description": "It's featured in the new Insidious movie.",
+      "Url": "https://metalinjection.net/new-music/ghost-streams-cover-of-1992-hit-stay-with-actor-patrick-wilson",
+      "UrlToImage": "https://cdn-p.smehost.net/sites/7f9737f2506941499994d771a29ad47a/wp-content/uploads/2023/07/Forge-Wilson.png",
+      "PublishedAt": "2023-07-07T12:59:21Z",
+      "Content": "Ghost is now streaming their cover of Shakespears Sister's 1992 hit \"Stay\" with some guest vocal contributions from actor Patrick Wilson (The Phantom Of The Opera, the Insidious series, etc.). The co… [+3655 chars]"
+    },
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Via AP news wire",
+      "Title": "French actor Alain Delon's children accuse his companion of bullying, dog cruelty",
+      "Description": "The children of French actor Alain Delon have accused a woman who lived with the 87-year-old movie star of bullying him and of mistreating his dog, A French prosecutor has directed police to investigate the legal complaints",
+      "Url": "https://www.independent.co.uk/news/alain-delon-ap-french-paris-b2371300.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/07/07/14/France_Alain_Delon_Probe_37056.jpg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-07-07T12:58:07Z",
+      "Content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nThe children of French actor Alain Delon accused a w… [+1380 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Eddie Makuch",
+      "Title": "Deadpool 3, First Under Disney, Feels The Same As First Two And Earns Its \"Hard R,\" Actor Says",
+      "Description": "Deadpool 3 is the first entry in the foul-mouthed series since Disney acquired 20th Century Fox. Fans might be happy to hear that the family-friendly Disney doesn't appear to be throttling the third film when it comes to content. Karan Soni, who plays Dopinde…",
+      "Url": "https://www.gamespot.com/articles/deadpool-3-first-under-disney-feels-the-same-as-first-two-and-earns-its-hard-r-actor-says/1100-6515751/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4162553-screenshot2023-07-07at8.54.24am.png",
+      "PublishedAt": "2023-07-07T12:37:00Z",
+      "Content": "Deadpool 3 is the first entry in the foul-mouthed series since Disney acquired 20th Century Fox. Fans might be happy to hear that the family-friendly Disney doesn't appear to be throttling the third … [+1814 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Chanel Vargas",
+      "Title": "Sherry Cola Explains Why \"Joy Ride\" Is Such a Pivotal Moment For the APIA Community",
+      "Description": "Image Source: Jonny Marlow / Photo Illustration by Aly Lim\nDiversity does not equal representation, an unfortunate truth many Asian and Asian American actors in Hollywood have grappled with for decades. When Sherry Cola realized she'd been cast as a lead acto…",
+      "Url": "https://www.popsugar.com/entertainment/sherry-cola-asian-representation-hollywood-quotes-49218384",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/2Ito8c6lqani069kjRqFE1ARYEs=/0x0:1200x630/1200x630/filters:format_auto():quality(85):extract_cover()/2023/07/05/872/n/1922283/04d251c564a5caea46acd2.08261056_.jpg",
+      "PublishedAt": "2023-07-07T12:05:11Z",
+      "Content": "Diversity does not equal representation, an unfortunate truth many Asian and Asian American actors in Hollywood have grappled with for decades. When Sherry Cola realized she'd been cast as a lead act… [+6490 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Comic-Con 2023 Wednesday and Thursday Schedule Highlights",
+      "Description": "Comic-Con International has released the Wednesday and Thursday schedules for the event. This next year is going to be pretty light on studio representation as Marvel Studios, Sony Pictures, Netflix, HBO, Lucasfilm, and Universal Pictures have all bailed on t…",
+      "Url": "https://geektyrant.com/news/comic-con-2023-wednesday-and-thursday-schedule-highlights",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a7048dabac676bcd2e5af2/1688731221568/comic-con-2023-wednesday-and-thursday-schedule-highlights.jpg?format=1500w",
+      "PublishedAt": "2023-07-07T12:00:00Z",
+      "Content": "Comic-Con International has released the Wednesday and Thursday schedules for the event. This next year is going to be pretty light on studio representation as Marvel Studios, Sony Pictures, Netflix,… [+7692 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "SB Nation"
+      },
+      "Author": "Mark Schofield",
+      "Title": "Brad Pitt might be the biggest story of the British Grand Prix",
+      "Description": "The actor is at Silverstone filming an upcoming F1 movie, and was the topic of the day Thursday",
+      "Url": "https://www.sbnation.com/formula-one/2023/7/7/23786628/brad-pitt-f1-lewis-hamilton-british-grand-prix",
+      "UrlToImage": "https://cdn.vox-cdn.com/thumbor/grapoorflt1m47veXMMzG5KAZyw=/0x0:5105x2673/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24774451/1519175752.jpg",
+      "PublishedAt": "2023-07-07T12:00:00Z",
+      "Content": "Photo by Kym Illman/Getty Images\r\n\n \n\n The actor is at Silverstone filming an upcoming F1 movie, and was the topic of the day Thursday At Thursday’s press conferences ahead of the British Grand Prix,… [+4137 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Mack Ashworth",
+      "Title": "The Witcher Liam Hemsworth First Look Deepfake: What Will New Geralt Look Like?",
+      "Description": "With the exit of one Witcher actor comes the entrance of another and fans are desperate to get a first look at Liam Hemsworth as Geralt in The Witcher season 4. While, at the time of writing, there hasn’t been any official reveal of Hemsworth in costume, fans…",
+      "Url": "https://www.comingsoon.net/guides/news/1303937-the-witcher-liam-hemsworth-first-look-new-geralt-deepfake-ai-fanart",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/The-Witcher-Liam-Hemsworth-First-Look.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-07T11:30:15Z",
+      "Content": "With the exit of one Witcher actor comes the entrance of another and fans are desperate to get a first look at Liam Hemsworth as Geralt in The Witcher season 4. While, at the time of writing, there h… [+1446 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Louder"
+      },
+      "Author": "elizabeth.capewell@futurenet.com (Liz Scarlett)",
+      "Title": "Listen to Ghost's new single featuring Patrick Wilson - a cover of Shakespears Sister’s Stay, as featured in the new Insidious movie",
+      "Description": "Ghost share their cover of Shakespears Sister’s Stay, recorded for the soundtrack of new horror film Insidious: The Red Door, featuring guest vocals from actor Patrick Wilson",
+      "Url": "https://www.loudersound.com/news/ghost-share-stay-cover-with-patrick-wilson",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/uZGZexxDEbKqstWdGxmKbc-1200-80.jpg",
+      "PublishedAt": "2023-07-07T10:06:07Z",
+      "Content": "Ghost have released a new single, Stay, featuring guest vocals from actor Patrick Wilson.\r\nThe track is a cover of Shakespears Sister’s 1992 hit, and appears in the final scene and credits of the new… [+2888 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Week Magazine"
+      },
+      "Author": "Brendan Morrow",
+      "Title": "How the 'Mission: Impossible' franchise pulled off its wildest stunts",
+      "Description": "For nearly 30 years, Tom Cruise has chosen to accept his mission of risking his life to entertain us. The \"Mission: Impossible\" franchise is famous for its increasingly jaw-dropping stunts that Cruise personally performs, and he may have outdone himself for t…",
+      "Url": "https://theweek.com/culture/entertainment/1024797/how-the-mission-impossible-franchise-pulled-off-its-wildest-stunts",
+      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1688661813/DeadReckoning.png",
+      "PublishedAt": "2023-07-07T09:07:05Z",
+      "Content": "For nearly 30 years, Tom Cruise has chosen to accept his mission of risking his life to entertain us. The \"Mission: Impossible\" franchise is famous for its increasingly jaw-dropping stunts that Cruis… [+8368 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG"
+      },
+      "Author": "Taiwo Owolawi",
+      "Title": "“I No Play When I Small”: Funny Video As Mercy Johnson and Kids Replicate Little Mermaid Movie in Family Pool",
+      "Description": "Nollywood actress Mercy Johnson and her kids recently replicated a viral scene from The Little Mermaid movie and the funny video raised comments from fans.",
+      "Url": "https://www.legit.ng/entertainment/celebrities/1542955-i-play-i-small-funny-video-mercy-johnson-kids-replicate-mermaid-movie-family-pool/",
+      "UrlToImage": "https://netstorage-legit.akamaized.net/images/64847ef5c83d64a8.jpg",
+      "PublishedAt": "2023-07-07T06:46:28Z",
+      "Content": "<ul><li>Popular Nollywood actress, Mercy Johnson Okojie, has once again got fans laughing hard over a fun video with her children</li><li>The movie star and three of her kids were seen replicating a … [+3334 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Tyler Hynes' Fans Pick Out His Best Hallmark Channel Movie Kisses - Vote For Your Fave!",
+      "Description": "Tyler Hynes remains one of the most popular actors on Hallmark Channel and it’s not hard to see just why. The 37-year-old actor has charmed fans with not only his smile on screen, but his connection with them as well. Just Jared has already ranked all of Tyle…",
+      "Url": "https://www.justjared.com/2023/07/07/tyler-hynes-fans-pick-out-his-best-hallmark-channel-movie-kisses-vote-for-your-fave/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/tyler-kiss.jpg",
+      "PublishedAt": "2023-07-07T06:32:23Z",
+      "Content": "Tyler Hynes remains one of the most popular actors on Hallmark Channel and it’s not hard to see just why.\r\nThe 37-year-old actor has charmed fans with not only his smile on screen, but his connection… [+722 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Indian Express"
+      },
+      "Author": "Entertainment Desk",
+      "Title": "‘Shah Rukh Khan said call me on actress roundtable, I’m not praising other guys’: Rajeev Masand recalls dealing with movie star egos for his roundtables",
+      "Description": "Former film journalist Rajeev Masand looked back on hosting his popular roundtable interviews, and spoke about dealing with movie star egos.",
+      "Url": "https://indianexpress.com/article/entertainment/bollywood/shah-rukh-khan-rajeev-masand-movie-star-egos-on-roundtables-8802981/",
+      "UrlToImage": "https://images.indianexpress.com/2023/07/shah-rukh-khan-masand.jpg",
+      "PublishedAt": "2023-07-07T05:34:24Z",
+      "Content": "Former film journalist and now COO at the Dharma Cornerstone Agency Rajeev Masand opened up about coordinating and hosting his popular roundtable interviews, which involved dealing with movie star ta… [+2132 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kemifilani.ng"
+      },
+      "Author": "Mercy Trin",
+      "Title": "Odunlade Adekola reacts as Lateef Adedimeji shows support for his newest project in a comic way (Video)",
+      "Description": "Nollywood actor, Odunlade Adekola is set to hit the cinema with his new project, Orisa, which would premiere on July 21st. Ahead of his movie premiere, the talented actor has been receiving support from his colleagues. One of which is Lateef Adedimeji. Taking…",
+      "Url": "https://www.kemifilani.ng/entertainment/odunlade-adekola-grateful-as-lateef-adedimeji-shows-support-for-his-newest-project-in-a-comic-way",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Odunlade-Adekola-reacts-as-Lateef-Adedimeji-shows-support-for-his-latest-project-Kemi-Filani-blog-min.jpg",
+      "PublishedAt": "2023-07-07T05:30:00Z",
+      "Content": "Nollywood actor, Odunlade Adekola is set to hit the cinema with his new project, Orisa, which would premiere on July 21st.\r\nAhead of his movie premiere, the talented actor has been receiving support … [+1179 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thehillstimes.in"
+      },
+      "Author": "The Hills Times",
+      "Title": "Gippy Grewal begins shooting for his next movie ‘Shinda Shinda No Papa’",
+      "Description": "Chandigarh, July 6 (PTI): Singer-actor Gippy Grewal has started filming for his next Punjabi movie “Shinda Shinda No Papa”, the makers announced here on Wednesday. Billed as a heart-warming family comedy, the film is helmed by Amarpreet GS Chhabra and produce…",
+      "Url": "https://thehillstimes.in/entertainment/gippy-grewal-begins-shooting-for-his-next-movie-shinda-shinda-no-papa",
+      "UrlToImage": "https://thehillstimes.in/wp-content/uploads/2023/07/gippy-grewal-begins-shooting-for-his-next-movie-shinda-shinda-no-papa-2023-07-05.jpg",
+      "PublishedAt": "2023-07-07T03:07:40Z",
+      "Content": "Chandigarh, July 6 (PTI): Singer-actor Gippy Grewal has started filming for his next Punjabi movie “Shinda Shinda No Papa”, the makers announced here on Wednesday.Billed as a heart-warming family com… [+1601 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Dark Horizons"
+      },
+      "Author": "Garth Franklin",
+      "Title": "Don’t Expect “Shang Chi 2” Until 2026",
+      "Description": "Already out there promoting the “Barbie” movie, actor Simu Liu has offered an update on where things stand with the sequel to “Shang-Chi and the Legend of the Ten Rings” which was released in September 2021. At the time, Marvel Studios president Kevin Feige c…",
+      "Url": "https://www.darkhorizons.com/dont-expect-shang-chi-2-until-2026/",
+      "UrlToImage": "https://cdndh.darkhorizons.com/wp-content/uploads/2023/07/dont-expect-shang-chi-2-until-2026.jpg",
+      "PublishedAt": "2023-07-07T00:50:45Z",
+      "Content": "Already out there promoting the “Barbie” movie, actor Simu Liu has offered an update on where things stand with the sequel to “Shang-Chi and the Legend of the Ten Rings” which was released in Septemb… [+1535 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Ashleigh Gray",
+      "Title": "Eva Mendes declares beau Ryan Gosling 'the greatest actor I've ever worked with' as she plugs Barbie",
+      "Description": "Eva Mendes took to Instagram on Wednesday and Thursday to gush about her man Ryan Gosling ahead of his Barbie movie debut.",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-12272901/Eva-Mendes-declares-beau-Ryan-Gosling-greatest-actor-Ive-worked-plugs-Barbie.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/07/06/22/72939727-0-image-a-162_1688679261312.jpg",
+      "PublishedAt": "2023-07-06T22:28:11Z",
+      "Content": "Eva Mendes took to Instagram on Wednesday and Thursday to gush about her man Ryan Gosling ahead of his Barbie movie debut.\r\nIn two back-to-back posts shared with her 4.3 million followers, the 49-yea… [+4442 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Amber Heard Talks About the Pressure of AQUAMAN 2 as DC Films Continue to Flop",
+      "Description": "Black Adam, Shazam! Fury of the Gods, and The Flash, have all flopped at the box office. DC Studios is in a big funk at the moment, and fans aren’t expecting the upcoming films Blue Beetle or Aquaman and The Lost Kingdom to be any better. It seems like DC has…",
+      "Url": "https://geektyrant.com/news/amber-heard-talks-about-the-pressure-of-aquaman-2-as-dc-films-continue-to-flop",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a4833766421a2ffe2925f7/1688679051913/amber-heard-mera.jpg?format=1500w",
+      "PublishedAt": "2023-07-06T21:30:00Z",
+      "Content": "Black Adam, Shazam! Fury of the Gods, and The Flash, have all flopped at the box office. DC Studios is in a big funk at the moment, and fans arent expecting the upcoming films Blue Beetleor Aquaman a… [+2763 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Page Six"
+      },
+      "Author": "Nicki Gostin",
+      "Title": "Kim Cattrall throws shade at ‘Sex and the City’ movie she refused to do",
+      "Description": "The actress, who played fan-favorite Samantha Jones, made headlines when she declined to appear in a third film due to a \"heartbreaking\" storyline.",
+      "Url": "https://pagesix.com/2023/07/06/kim-cattrall-throws-shade-at-satc-movie-she-refused-to-do/",
+      "UrlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/07/1-1-1.jpg?quality=75&strip=all&w=1200",
+      "PublishedAt": "2023-07-06T21:20:10Z",
+      "Content": "And just like that … Kim Cattrall continued to fan the flames after her highly publicized exit from the “Sex and the City” franchise.\r\nThe 66-year-old actress poked fun at her refusal to return for a… [+4384 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Catholicnewsagency.com"
+      },
+      "Author": "Peter Pinedo",
+      "Title": "Anti-human-trafficking film 'Sound of Freedom' just topped ‘Indiana Jones’ at box office",
+      "Description": "Eduardo Verástegui speaks at the Vitae Summit in Vatican City on Sept. 1, 2022. / Courtney Mares/CNA\n\nWashington, D.C. Newsroom, Jul 6, 2023 / 15:19 pm (CNA).\n“Sound of Freedom,” an anti-human-trafficking film made by Catholic filmmakers Eduardo Verastegui an…",
+      "Url": "https://www.catholicnewsagency.com/news/254744/producer-reveals-reason-behind-anti-human-trafficking-film-that-just-topped-indiana-jones-at-box-office",
+      "UrlToImage": "https://www.catholicnewsagency.com/storage/image/whatsapp-image-2022-09-07-at-11.34.54-pm.jpeg?jpg",
+      "PublishedAt": "2023-07-06T21:19:00Z",
+      "Content": "Verastegui felt called to build a movement to end child sex trafficking.\r\nThats when I realized I was called to make a movie, but not only a movie, I wanted to dedicate my life, along with Tim and ma… [+3081 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "hollywoodreporter.com",
+      "Title": "Margia Dean, B-Movie Actress Known for ‘The Quatermass Xperiment’ and More, Dies at 101",
+      "Description": "Margia Dean, who co-starred in the cult sci-fi classic The Quatermass Xperiment and appeared alongside the likes of Clint Eastwood, Vincent Price, Esther Williams and George Reeves in other movies, has died. She was 101. Dean died June 23 in her apartment in …",
+      "Url": "https://biztoc.com/x/e17977929ab002c4",
+      "UrlToImage": "https://c.biztoc.com/p/e17977929ab002c4/s.webp",
+      "PublishedAt": "2023-07-06T21:18:03Z",
+      "Content": "Margia Dean, who co-starred in the cult sci-fi classic The Quatermass Xperiment and appeared alongside the likes of Clint Eastwood, Vincent Price, Esther Williams and George Reeves in other movies, h… [+339 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -197,1111 +1302,6 @@
       "UrlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/07/NYPICHPDPICT000013661206.jpg?quality=75&strip=all&w=1200",
       "PublishedAt": "2023-07-06T14:21:15Z",
       "Content": "Lindsey Shaw claims she was fired from “Pretty Little Liars” over concerns about her weight loss and drug use.\r\n“I basically got let go from ‘Pretty Little Liars’ Season 5 because of the weight that … [+3291 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETCanada.com"
-      },
-      "Author": "Emerson Pearson",
-      "Title": "Bob Dylan Gave Notes And ‘Personally Annotated’ Script For Upcoming Movie About Him Starring Timotheé Chalamet",
-      "Description": "Bob Dylan is lending his personal touch to James Mangold's upcoming film about the timeless music icon. Made clear not to be called a biopic, Mangold recently appeared on the \"Happy Sad Confused\" podcast to discuss how his film \"A Complete Unknown\", which sta…",
-      "Url": "https://etcanada.com/news/1004201/bob-dylan-gave-notes-and-personally-annotated-script-for-upcoming-movie-about-him-starring-timothee-chalamet/",
-      "UrlToImage": "https://etcanada.com/wp-content/uploads/2022/11/GettyImages-474013596.jpg?quality=80&strip=all&w=720&h=480&crop=1",
-      "PublishedAt": "2023-07-06T14:12:00Z",
-      "Content": "Bob Dylan is lending his personal touch to James Mangold’s upcoming film about the timeless music icon.\r\nMade clear not to be called a biopic, Mangold recently appeared on the “Happy Sad Confused” po… [+1671 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG"
-      },
-      "Author": "Maymunah Ajetunmobi",
-      "Title": "“I’ll Surely Miss You”: Kemi Korede Loses 120-Year-Old Grandma, Shares Video of Aged Woman Praying for Her",
-      "Description": "Actress Kemi Korede has announced the sad passing of her 120-year-old grandmother. The movie star also shared a video of her late grandma. Read more on Legit.ng",
-      "Url": "https://www.legit.ng/entertainment/celebrities/1542849-ill-surely-kemi-korede-loses-120-year-grandma-shares-video-aged-woman-praying-her/",
-      "UrlToImage": "https://netstorage-legit.akamaized.net/images/b26257a8f7eab6d9.jpg",
-      "PublishedAt": "2023-07-06T14:00:16Z",
-      "Content": "<ul><li>Actress Kemi Korede shocked people with a video of her vibrant 120-year-old grandma, who passed away recently</li><li>The actress shared the sad news on Instagram, expressing how much she wou… [+2542 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Plos.org"
-      },
-      "Author": "Gillian Murphy, Didier Ching, John Twomey, Conor Linehan",
-      "Title": "Face/Off: Changing the face of movies with deepfakes",
-      "Description": "There are growing concerns about the potential for deepfake technology to spread misinformation and distort memories, though many also highlight creative applications such as recasting movies using other actors, or younger versions of the same actor. In the c…",
-      "Url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287503",
-      "UrlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0287503.g002&size=inline",
-      "PublishedAt": "2023-07-06T14:00:00Z",
-      "Content": "4.1 Quantitative analysis\r\nParticipants rated the deepfakes as moderately convincing on average, on a scale of 0100, where 100 is extremely convincingThe Shining remake (M = 61.78, SD = 31.02), The M… [+19440 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Independent.ie"
-      },
-      "Author": "Concubhar Ó Liatháin",
-      "Title": "Cork Peaky Blinders star Cillian Murphy ‘did not approve’ Ron de Santis anti LGBT ads",
-      "Description": "A political attack ad circulated by Ron de Santis, the Republican US Presidency hopeful, in which he likens himself to a Peaky Blinders character played by Cork actor, Cillian Murphy, in an effort to highlight his anti LGBT stance has met with a frosty recept…",
-      "Url": "https://www.independent.ie/world-news/cork-peaky-blinders-star-cillian-murphy-did-not-approve-ron-de-santis-anti-lgbt-ads/a663858066.html",
-      "UrlToImage": "https://focus.independent.ie/thumbor/ydWzkXLdZzCrzrCEGcZASIPmNXE=/58x0:1124x711/1066x711/prod-mh-ireland/f9d9cda0-cbf8-41c2-aa3f-bdbd9e37df87/24b4c71b-2f73-4de8-9571-10b76e617dbb/f9d9cda0-cbf8-41c2-aa3f-bdbd9e37df87.jpg",
-      "PublishedAt": "2023-07-06T13:45:26Z",
-      "Content": "A political attack ad circulated by Ron de Santis, the Republican US Presidency hopeful, in which he likens himself to a Peaky Blinders character played by Cork actor, Cillian Murphy, in an effort to… [+98 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Decider"
-      },
-      "Author": "mliss1578",
-      "Title": "The Weeknd Delivered One of 2023’s Best Performances in ‘The Idol’",
-      "Description": "It’s funny, the scenes that get stuck in your head. The bit from The Sopranos I think of most often has nothing to do with Tony: It’s a devastated Johnny Sack confronting his wife Ginny about her eating disorder, reassuring her he loves and desires her just a…",
-      "Url": "https://decider.com/2023/07/06/the-weeknd-the-idol-2023-best-performances/",
-      "UrlToImage": "https://decider.com/wp-content/uploads/2023/07/THE-WEEKND-THE-IDOL-2023-BEST-PERFORMANCES.jpg?quality=75&strip=all&w=1200",
-      "PublishedAt": "2023-07-06T13:25:00Z",
-      "Content": "Its funny, the scenes that get stuck in your head. The bit from The Sopranos I think of most often has nothing to do with Tony: Its a devastated Johnny Sack confronting his wife Ginny about her eatin… [+9381 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Megan Hemenway",
-      "Title": "8 Reasons Bruce Lee's Martial Arts Movie Career Couldn't Happen Today",
-      "Description": "Although Bruce Lee had an incredible career as an actor and martial artist, it’s more than likely that that success would not have happened today.",
-      "Url": "https://screenrant.com/bruce-lee-martial-arts-movie-career-not-happen-today/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/bruce-lee-martial-arts-movie-career-not-happen-today.jpg",
-      "PublishedAt": "2023-07-06T13:00:18Z",
-      "Content": "Throughout the 1970s, Bruce Leemade a significant impact on Hollywood by being a leader in martial arts films, however, his illustrious career probably would not have worked in the modern day. Due to… [+6417 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Celebitchy.com"
-      },
-      "Author": "Kaiser",
-      "Title": "Keke Palmer’s partner Darius Jackson shamed Keke for what she wore to Usher’s show",
-      "Description": "Embed from Getty Images Keke Palmer is everything – a quadruple threat (actress/TV hostess/singer/catch-all entertainer) and the breadwinner of her family. She welcomed her son Leodis “Leo” Andrelton Jackson back in February, not even five full months ago. Ke…",
-      "Url": "https://www.celebitchy.com/824760/keke_palmers_partner_darius_jackson_shamed_keke_for_what_she_wore_to_ushers_show/",
-      "UrlToImage": null,
-      "PublishedAt": "2023-07-06T12:40:33Z",
-      "Content": "Embed from Getty Images\r\nKeke Palmer is everything – a quadruple threat (actress/TV hostess/singer/catch-all entertainer) and the breadwinner of her family. She welcomed her son Leodis Leo Andrelton … [+3511 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Minneapolis Star Tribune"
-      },
-      "Author": "CLAUDIA LAUER and BEATRICE DUPUY",
-      "Title": "Father of the bride and teen who tried to save friend among 5 killed in Philadelphia shooting",
-      "Description": "A father who was preparing to walk his eldest daughter down the aisle. An aspiring actor who appeared as an extra in the ''Creed'' movie franchise. A teenager who tried to help a wounded friend. These are the stories of those killed in the all-too-familiar th…",
-      "Url": "https://www.startribune.com/father-of-the-bride-and-teen-who-tried-to-save-friend-among-5-killed-in-philadelphia-shooting/600287675/",
-      "UrlToImage": "https://chorus.stimg.co/24772836/1philly070623.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
-      "PublishedAt": "2023-07-06T12:10:07Z",
-      "Content": "PHILADELPHIA A father who was preparing to walk his eldest daughter down the aisle. An aspiring actor who appeared as an extra in the ''Creed'' movie franchise. A teenager who tried to help a wounded… [+4917 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Boston Herald"
-      },
-      "Author": "Associated Press",
-      "Title": "Father of the bride and teen who tried to save friend among 5 killed in Philadelphia shooting",
-      "Description": "A father who was preparing to walk his eldest daughter down the aisle. An aspiring actor who appeared as an extra in the “Creed” movie franchise. A teenager who tried to help a wounded friend. These are the stories of those who were killed in what has been th…",
-      "Url": "https://www.bostonherald.com/2023/07/06/father-of-the-bride-and-teen-who-tried-to-save-friend-among-5-killed-in-philadelphia-shooting/",
-      "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2023/07/Philadelphia_Shooting_42646.jpg?w=1024&h=682",
-      "PublishedAt": "2023-07-06T12:09:12Z",
-      "Content": "By CLAUDIA LAUER and BEATRICE DUPUY (Associated Press)\r\nPHILADELPHIA (AP) — A father who was preparing to walk his eldest daughter down the aisle. An aspiring actor who appeared as an extra in the “C… [+4789 chars]"
-    },
-    {
-      "Source": {
-        "Id": "associated-press",
-        "Name": "Associated Press"
-      },
-      "Author": "By CLAUDIA LAUER and BEATRICE DUPUY - Associated Press",
-      "Title": "Father of the bride and teen who tried to save friend among 5 killed in Philadelphia shooting",
-      "Description": "A father who was preparing to walk his eldest daughter down the aisle. An aspiring actor who appeared as an extra in the “Creed” movie franchise. A teenager who tried to help a wounded friend. These are the stories of…",
-      "Url": "https://apnews.com/article/philadelphia-shooting-victims-8de8da4e5e3cb5d9252233372c250ba8",
-      "UrlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/5/8e/58e79eff-025b-5b49-9903-328538460216/64a6b1a8b86d3.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-      "PublishedAt": "2023-07-06T12:08:38Z",
-      "Content": "By CLAUDIA LAUER and BEATRICE DUPUY - Associated Press\r\nPHILADELPHIA (AP) A father who was preparing to walk his eldest daughter down the aisle. An aspiring actor who appeared as an extra in the Cree… [+5233 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG"
-      },
-      "Author": "Maymunah Ajetunmobi",
-      "Title": "“The Real Definition of Fine Wine”: Fans, Colleagues Drool Over Tantalizing Photos of RMD on 62nd Birthday",
-      "Description": "Veteran Nigerian actor, RMD has taken to social media with photos to celebrate his 62nd birthday. The movie star got fans and colleagues drooling over him.",
-      "Url": "https://www.legit.ng/entertainment/celebrities/1542834-real-definition-fine-wine-fans-colleagues-drool-tantalizing-photos-rmd-62nd-birthday/",
-      "UrlToImage": "https://netstorage-legit.akamaized.net/images/d1cdec880ba1a553.jpg",
-      "PublishedAt": "2023-07-06T11:53:55Z",
-      "Content": "<ul><li>Much loved veteran actor Richard Mofe-Damijo aka RMD is 62 today, July 6, and he's celebrating online</li><li>The movie star shared dapper photos specially taken for the occasion, which got p… [+2935 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Mail"
-      },
-      "Author": "Codie Bullen",
-      "Title": "Brad Pitt, 59, looks like he's ageing in reverse as he films his new F1 movie at Silverstone",
-      "Description": "The actor, 59, donned a blue jacket, teamed with white trousers and a t-shirt as he filmed on the iconic race course.",
-      "Url": "https://www.dailymail.co.uk/tvshowbiz/brad-pitt/article-12270451/Brad-Pitt-59-looks-like-hes-ageing-reverse-films-new-F1-movie-Silverstone.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/07/06/11/72915109-0-image-a-34_1688639271335.jpg",
-      "PublishedAt": "2023-07-06T11:32:42Z",
-      "Content": "Brad Pitt looked youthful as he was pictured filming his new F1 movie at Silverstone Circuit on Thursday. \r\nThe actor, 59, donned a blue jacket, teamed with white trousers and a t-shirt as he filmed … [+6645 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Mail"
-      },
-      "Author": "Lily Jobson",
-      "Title": "Cynthia Erivo gets stuck into character in the highly awaited Wicked movie on set in Surrey",
-      "Description": "The actress, 36, was spotted on set of the highly anticipated Wicked movie in Surrey, painted head to toe in green paint.",
-      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-12270415/Cynthia-Erivo-gets-stuck-character-highly-awaited-Wicked-movie-set-Surrey.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/07/06/12/72914987-0-image-a-40_1688642759645.jpg",
-      "PublishedAt": "2023-07-06T11:31:44Z",
-      "Content": "Cynthia Erivo was spotted on set of the highly anticipated Wicked movie in Surrey, painted head to toe in green paint. \r\nThe actress, 36, who plays the main character in the movie Elphaba, looked unr… [+4189 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The New Republic"
-      },
-      "Author": "John Last",
-      "Title": "White House Floats the Idea of Blocking Out the Sun",
-      "Description": "Last week, the United States government tiptoed a little closer to the world of science fiction. In a 44-page report it seemed at pains to say was not its own idea, the White House laid out a five-year research plan to explore the development and eventual dep…",
-      "Url": "https://newrepublic.com/article/174071/white-house-blocking-sun-geoengineering-solar-radiation-management",
-      "UrlToImage": "https://images.newrepublic.com/bb0f3fae6221d1ab1c8fcb180402bb909eeaef63.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
-      "PublishedAt": "2023-07-06T10:00:00Z",
-      "Content": "In calling for more study, the report acknowledges that the potentially irreversible impacts of SRM on human health and the environment are still largely unknown. But it proposes what it calls a risk… [+811 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Week Magazine"
-      },
-      "Author": "Brendan Morrow",
-      "Title": "Who is Taylor Swift singing about on 'Speak Now'? A complete guide to the album",
-      "Description": "It's time to go back to December — or, rather, October 2010. Taylor Swift is about to drop the re-recorded version of her third studio album \"Speak Now,\" leading fans to revisit drama from more than a decade ago involving John Mayer, Kanye West, Joe Jonas, an…",
-      "Url": "https://theweek.com/feature/briefing/1024743/who-is-taylor-swift-singing-about-on-speak-now-a-complete-guide-to-the",
-      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1688390210/GettyImages-120634245.jpg",
-      "PublishedAt": "2023-07-06T09:16:05Z",
-      "Content": "It's time to go back to December or, rather, October 2010. Taylor Swift is about to drop the re-recorded version of her third studio album \"Speak Now,\" leading fans to revisit drama from more than a … [+6628 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Kemifilani.ng"
-      },
-      "Author": "Mercy Trin",
-      "Title": "Emotional moment Tawa Ajisefinni reunites with her colleague after 4years (Video)",
-      "Description": "Nollywood actress, Tawa Ajisefinni has left many emotional with a reunion video. The movie star, who days back returned to Nigeria after 4 years of living in the US with her husband, is catching up on old-time friends and family. In a video posted to her Inst…",
-      "Url": "https://www.kemifilani.ng/entertainment/emotional-moment-tawa-ajisefinni-reunites-with-her-colleague-after-4years",
-      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Tawa-Ajisefinni-reunites-with-Monsuru-Omoalfa-Kemi-Filani-blog-min.jpg",
-      "PublishedAt": "2023-07-06T08:12:17Z",
-      "Content": "Nollywood actress, Tawa Ajisefinni has left many emotional with a reunion video.\r\nThe movie star, who days back returned to Nigeria after 4 years of living in the US with her husband, is catching up … [+1892 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The A.V. Club"
-      },
-      "Author": "William Hughes",
-      "Title": "Even Seth Rogen finds his new Sausage Party show \"unbelievably shocking\"",
-      "Description": "If there’s a celebrity we’re inclined to believe when it comes to describing his own work as shocking or not, it’s probably Seth Rogen. Over the last decade or so, Rogen—in both his capacity as an actor, and especially as a producer on some of the goriest, gr…",
-      "Url": "https://www.avclub.com/even-seth-rogen-finds-his-new-sausage-party-show-unbel-1850609156",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a22b30beba2cd5fce93ec67055140369.png",
-      "PublishedAt": "2023-07-06T04:56:00Z",
-      "Content": "If theres a celebrity were inclined to believe when it comes to describing his own work as shocking or not, its probably Seth Rogen. Over the last decade or so, Rogenin both his capacity as an actor,… [+1986 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Mail"
-      },
-      "Author": "Jimmy Briggs",
-      "Title": "Mission Impossible: Dead Reckoning director praises lead star Tom Cruise for saving cinema",
-      "Description": "On Monday, Tom Cruise, 61, attended the film's premiere in Sydney alongside movie director Christopher McQuarrie, 54, who praised the actor for 'saving cinema'.",
-      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-12269219/Mission-Impossible-Dead-Reckoning-director-praises-lead-star-Tom-Cruise-saving-cinema.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/07/06/03/72902435-0-image-a-30_1688610628445.jpg",
-      "PublishedAt": "2023-07-06T02:59:48Z",
-      "Content": "He is currently in Australia to promote his new action blockbuster Mission Impossible: Dead Reckoning.\r\nAnd on Monday, Tom Cruise, 61, attended the film's premiere in Sydney alongside movie director … [+2228 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "CLAUDIA LAUER and BEATRICE DUPUY",
-      "Title": "Father of the bride, teen who tried to save friend among 5 killed in Philadelphia shooting",
-      "Description": "A father who was preparing to walk his eldest daughter down the aisle.  An aspiring actor who appeared as an extra in the “Creed” movie franchise.  Five...",
-      "Url": "https://news.yahoo.com/father-bride-teen-tried-save-012254868.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/MRA.Tn1F7iRThPih_JCEXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/26b11967657ec1d814fdbba8cd212996",
-      "PublishedAt": "2023-07-06T01:22:54Z",
-      "Content": "PHILADELPHIA (AP) A father who was preparing to walk his eldest daughter down the aisle. An aspiring actor who appeared as an extra in the Creed movie franchise. A teenager who tried to help a wounde… [+4833 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Katie Cassidy Reveals If She Was Nervous Or Excited About Her First Hallmark Channel Movie",
-      "Description": "Katie Cassidy is about to star in her first ever Hallmark Channel movie this weekend! The actress, who is best known for her role on The CW’s Arrow, stars alongside Stephen Huszar (who’s also her boyfriend!) in A Royal Christmas Crush, which debuts on Saturda…",
-      "Url": "https://www.justjared.com/2023/07/05/katie-cassidy-reveals-if-she-was-nervous-or-excited-about-her-first-hallmark-channel-movie/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/katie-first.jpg",
-      "PublishedAt": "2023-07-06T00:33:27Z",
-      "Content": "Katie Cassidy is about to star in her first ever Hallmark Channel movie this weekend!\r\nThe actress, who is best known for her role on The CW’s Arrow, stars alongside Stephen Huszar (who’s also her bo… [+1131 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Shaun White Ran Lines With Girlfriend Nina Dobrev To Help Her Prepare For 'Out-Laws' Audition",
-      "Description": "Nina Dobrev is giving a special shout out to her longtime boyfriend, Shaun White. The 34-year-old actress and Shaun, 36, have been dating since 2019, and he had a big hand in her latest role in Netflix’s The Out-Laws. Keep reading to find out more… While prom…",
-      "Url": "https://www.justjared.com/2023/07/05/shaun-white-ran-lines-with-girlfriend-nina-dobrev-to-help-her-prepare-for-out-laws-audition/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/shaun-help.jpg",
-      "PublishedAt": "2023-07-05T23:40:56Z",
-      "Content": "Nina Dobrev is giving a special shout out to her longtime boyfriend, Shaun White.\r\nThe 34-year-old actress and Shaun, 36, have been dating since 2019, and he had a big hand in her latest role in Netf… [+598 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Russell Crowe Is Asked So Many GLADIATOR 2 Questions That \"They Should Be F-ing Paying Me\"",
-      "Description": "With Ridley Scott currently in production on Gladiator 2 and Russell Crowe making the press rounds, the actor is constantly asked about the movie, which is funny because he has really nothing to do with it. I don’t understand what people keep asking him about…",
-      "Url": "https://geektyrant.com/news/russell-crowe-is-asked-so-many-gladiator-2-questions-that-they-should-be-f-ing-paying-me",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a2eaa1e59acd2ae7b8fea1/1688596202623/russell-crowe-is-asked-so-many-gladiator-2-questions-that-they-should-be-f-ing-paying-me.jpg?format=1500w",
-      "PublishedAt": "2023-07-05T22:30:00Z",
-      "Content": "With Ridley Scottcurrently in production onGladiator 2and Russell Crowe making the press rounds, the actor is constantly asked about the movie, which is funny because he has really nothing to do with… [+2020 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Page Six"
-      },
-      "Author": "Tamantha Ryan",
-      "Title": "Mindy Kaling shares rare video of her two kids celebrating the Fourth of July",
-      "Description": "Mindy Kaling spent her Fourth of July surrounded by family.\n\n\n\nThe \"Mindy Project\" alum, 44, shared a rare video on Instagram of her kids, daughter, Katherine, 5, and son, Spencer, 2, enjoying Independence Day in their backyard on Tuesday.\n\n\n\nIn the clip, whi…",
-      "Url": "https://pagesix.com/2023/07/05/mindy-kaling-shares-rare-video-of-her-two-kids-celebrating-the-fourth-of-july/",
-      "UrlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/07/NYPICHPDPICT000013637382.jpg?quality=75&strip=all&w=1200",
-      "PublishedAt": "2023-07-05T21:49:58Z",
-      "Content": "Mindy Kaling spent her Fourth of July surrounded by family.\r\nThe “Mindy Project” alum, 44, shared a rare video on Instagram of her kids, daughter, Katherine, 5, and son, Spencer, 2, enjoying Independ… [+2783 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Alicia Geigel",
-      "Title": "All the Behind-the-Scenes \"Boy Meets World\" Drama Explained By the Cast",
-      "Description": "In the 1990s, there was an undeniable boom of incredibly successful sitcoms. The decade was flooded with sitcoms that would ultimately define that era of television. In just 10 years, viewers became glued to shows that have stood the test of time, like \"The F…",
-      "Url": "https://www.popsugar.com/entertainment/boy-meets-world-drama-49215432",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/IFZfzhaY8ICnRs483Rvu2gM0l5E=/0x697:3000x2272/3000x2661/filters:format_auto():quality(85):extract_cover()/2023/06/29/989/n/46712211/a7fd67b8649e097e5e5b58.50083655_.jpg",
-      "PublishedAt": "2023-07-05T21:15:03Z",
-      "Content": "In the 1990s, there was an undeniable boom of incredibly successful sitcoms. The decade was flooded with sitcoms that would ultimately define that era of television. In just 10 years, viewers became … [+9553 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "Meagan Navarro",
-      "Title": "Lin Shaye Reflects on Elise Rainer’s Franchise Legacy Ahead of ‘Insidious: The Red Door’ [Interview]",
-      "Description": "Actor Lin Shaye’s memorable introduction as psychic Elise Rainer in 2011’s Insidious quickly established the character as a franchise mainstay. Sony Pictures is heading back into The Further with Insidious: The Red Door, set to release in theaters on July 7, …",
-      "Url": "https://bloody-disgusting.com/interviews/3768238/lin-shaye-reflects-on-elise-rainers-franchise-legacy/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2019/12/lin_shaye-insidious.jpg?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2023-07-05T21:08:35Z",
-      "Content": "Welcome back to DEAD Time. Sometimes the truth is stranger than fiction and sometimes things really do go bump in the night. The paranormal is often portrayed in horror movies for maximum dramatic ef… [+13385 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Brit + Co"
-      },
-      "Author": "Chloe Williams​",
-      "Title": "Everything We Know About \"The Seven Husbands of Evelyn Hugo\" Movie",
-      "Description": "We'd consider Colleen Hoover, Taylor Jenkins Reid, and Emily Henry to be three of BookTok's queens. From Hoover's emotional It Ends With Us to Henry's witty Book Lovers, there's something for every kind of romance lover. Reid's The Seven Husbands of Evelyn Hu…",
-      "Url": "https://www.brit.co/the-seven-husbands-of-evelyn-hugo-movie/",
-      "UrlToImage": "https://www.brit.co/media-library/the-seven-husbands-of-evelyn-hugo-movie.jpg?id=34288186&width=1200&height=600&coordinates=122%2C852%2C171%2C-1",
-      "PublishedAt": "2023-07-05T21:01:51Z",
-      "Content": "We'd consider Colleen Hoover, Taylor Jenkins Reid, and Emily Henry to be three of BookTok's queens. From Hoover's emotional It Ends With Us to Henry's witty Book Lovers, there's something for every k… [+1804 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "polygon.com",
-      "Title": "Emperor of Cinema Martin Scorsese has another killer movie on the way",
-      "Description": "Martin Scorsese is a lot of things: an underrated actor, the genius behind the greatest film never made, and a guy who made the terrible mistake of making a thoughtful, well-written critique of Marvel movies, one time. He’s also one of the greatest living Ame…",
-      "Url": "https://biztoc.com/x/619dbb907f00d3c6",
-      "UrlToImage": "https://c.biztoc.com/p/619dbb907f00d3c6/s.webp",
-      "PublishedAt": "2023-07-05T20:32:03Z",
-      "Content": "Martin Scorsese is a lot of things: an underrated actor, the genius behind the greatest film never made, and a guy who made the terrible mistake of making a thoughtful, well-written critique of Marve… [+309 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "First Sinister Look at THE NUN 2 and New Details Shared on the Story",
-      "Description": "The image above offers us a first look at the high-anticipated horror sequel The Nun 2, which is a film that looks absolutely terrifying. I’m a fan of the Conjuring universe movies, and The Nun 2 looks like this next film is going to be much better than the f…",
-      "Url": "https://geektyrant.com/news/first-sinister-look-at-the-nun-2-and-new-details-shared-on-the-story",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a591c3fe4bcf70aeea21ee/1688588931232/first-sinister-look-at-the-nun-2-and-new-details-shared-on-the-story.jpg?format=1500w",
-      "PublishedAt": "2023-07-05T20:28:00Z",
-      "Content": "The image above offers us a first look at the high-anticipated horror sequel The Nun 2, which is a film that looks absolutely terrifying. Im a fan of the Conjuring universe movies, and The Nun 2 look… [+2793 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mirror Online"
-      },
-      "Author": "mirrornews@mirror.co.uk (Seamus Duff)",
-      "Title": "Danniella Westbrook claims 'nightmare' surgery put a stop to huge TV comeback",
-      "Description": "The former soap actress had hoped to prove herself in one of the toughest reality shows around - but botched surgery and health issues meant she was unable to commit to the show",
-      "Url": "https://www.mirror.co.uk/3am/celebrity-news/danniella-westbrook-claims-nightmare-surgery-30400024",
-      "UrlToImage": "https://i2-prod.mirror.co.uk/incoming/article30400054.ece/ALTERNATES/s1200/0_MAIN-Danniella-Westbrook-reveals-nightmare-surgery-put-a-stop-to-huge-TV-comeback.jpg",
-      "PublishedAt": "2023-07-05T19:48:21Z",
-      "Content": "Danniella Westbrook says her chance of enjoying a huge television comeback was scuppered by a horrifying surgery experience.\r\nThe 49-year-old former EastEnders star has been something of an open book… [+3010 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Extra"
-      },
-      "Author": "Extra Staff",
-      "Title": "Adam DeVine on His ‘Tender’ Kiss with Pierce Brosnan in ‘The Out-Laws’ (Exclusive)",
-      "Description": "Adam DeVine and Nina Dobrev star in the new action-comedy movie “The Out-Laws,” about a straitlaced bank manager who discovers his future in-laws are infamous outlaws.\n “What we were trying to do with the movie is just have fun from the second it starts till …",
-      "Url": "https://extratv.com/2023/07/05/adam-devine-on-his-tender-kiss-with-pierce-brosnan-in-the-out-laws-exclusive/",
-      "UrlToImage": "https://extra-images.akamaized.net/image/e5/16by9/2023/07/05/e5b114786a2549d595a1cea8827858a4_xl.jpg",
-      "PublishedAt": "2023-07-05T19:44:08Z",
-      "Content": "Adam DeVine and Nina Dobrev star in the new action-comedy movie “The Out-Laws,” about a straitlaced bank manager who discovers his future in-laws are infamous outlaws.\n “What we were trying to do wit… [+2279 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Michele Mendez",
-      "Title": "Ashley Park's Rumored Exes Include a Couple of Broadway Stars",
-      "Description": "Ashley Park is heading to the big screen this summer with \"Joy Ride.\" The raunchy comedy, which hits theaters on July 7, stars Park, Sherry Cola, Stephanie Hsu, and Sabrina Wu as four Asian American friends who embark on a life-changing trip to China. The \"Em…",
-      "Url": "https://www.popsugar.com/celebrity/ashley-park-dating-49216085",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/03SG1N0VQLBqrVd9Zx4OSa4Wd_c/0x516:3027x2105/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2023/06/30/804/n/48559432/cf8d2b97649f1c5e74faf7.27642129_.jpg",
-      "PublishedAt": "2023-07-05T18:55:02Z",
-      "Content": "It's also speculated that Park once dated the French actor and model Lucas Bravo, who has starred alongside Park in \"Emily In Paris\" since 2020. Fans on Reddit noted the pair had mentioned each other… [+1700 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BroBible"
-      },
-      "Author": "Eric Italiano",
-      "Title": "Title Of Brad Pitt’s F1 Movie Has Been Revealed, Filming To Take Place At British Grand Prix",
-      "Description": "Obviously not letting himself be content with simply making one of the most successful movies of all time in last summer’s Top Gun: Maverick, director Joseph Kosinski is following up that film with a massive Formula One drama that’s set to star Academy Award-…",
-      "Url": "https://brobible.com/culture/article/brad-pitt-f1-movie-title-apex/",
-      "UrlToImage": "https://brobible.com/wp-content/uploads/2023/07/brad-pitt-posing-on-an-f1-race-track.jpg",
-      "PublishedAt": "2023-07-05T18:54:25Z",
-      "Content": "Getty Image\r\nObviously not letting himself be content with simply making one of the most successful movies of all time in last summer’s Top Gun: Maverick, director Joseph Kosinski is following up tha… [+1960 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "Meagan Navarro",
-      "Title": "‘The Mean One’ – Whoville Horror Movie Starring ‘Terrifier 2’ Actor David Howard Thornton Sets VOD Release",
-      "Description": "The Mean One, a highly unofficial Christmas horror movie that turns the Grinch into a slasher movie maniac, received a limited theatrical release last holiday season. THR reports today that the holiday slasher finally set a date for home release. Steven LaMor…",
-      "Url": "https://bloody-disgusting.com/movie/3768214/the-mean-one-whoville-horror-movie-sets-vod-release/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2022/11/mean-one-trailer.png?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2023-07-05T18:50:07Z",
-      "Content": "The Mean One, a highly unofficial Christmas horror movie that turns the Grinch into a slasher movie maniac, received a limited theatrical release last holiday season. THR reports today that the holid… [+2000 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Arnold Schwarzenegger Wanted to “Outdo Stallone” by Killing a Ton of People in TERMINATOR 2",
-      "Description": "It’s no secret that Arnold Schwarzenegger and Sylvester Stallone had a heated rivalry in the ‘80s and ‘90s. In fact, the two actually hated each other as they were trying to be the biggest and baddest action stars in Hollywood. They’re friends now, but their …",
-      "Url": "https://geektyrant.com/news/arnold-schwarzenegger-wanted-to-outdo-stallone-by-killing-a-ton-of-people-in-terminator-2",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a48b10f51ec3339b397fd8/1688581829327/arnold-schwarzenegger-wanted-to-outdo-stallone-by-killing-a-ton-of-people-in-terminator-2.jpg?format=1500w",
-      "PublishedAt": "2023-07-05T18:30:00Z",
-      "Content": "Its no secret that Arnold Schwarzeneggerand Sylvester Stallone had a heated rivalry in the 80s and 90s. In fact, the two actually hated each other as they were trying to be the biggest and baddest ac… [+1710 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Eddie Makuch",
-      "Title": "Daniel Radcliffe Says It Would Be \"Very Weird\" For Him To Appear In New Harry Potter Series",
-      "Description": "Actor Daniel Radcliffe has commented on the upcoming Harry Potter TV series that's in the works for the streaming service Max (formerly known as HBO Max), revealing whether or not he plans to be a part of it. Speaking to Access Hollywood, Radcliffe said what …",
-      "Url": "https://www.gamespot.com/articles/daniel-radcliffe-says-it-would-be-very-weird-for-him-to-appear-in-new-harry-potter-series/1100-6515684/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4160876-screenshot2023-07-05at2.19.50pm.png",
-      "PublishedAt": "2023-07-05T18:03:00Z",
-      "Content": "Actor Daniel Radcliffe has commented on the upcoming Harry Potter TV series that's in the works for the streaming service Max (formerly known as HBO Max), revealing whether or not he plans to be a pa… [+2310 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Grant Hermanns",
-      "Title": "\"It's Been A Finicky Franchise\": Insidious Elise Actor Reveals One Issue of Horror Movie Franchise",
-      "Description": "Exclusive: Elise actor Lin Shaye reveals her one issue with the Insidious horror movie franchise and her hopes for future installments to repair it.",
-      "Url": "https://screenrant.com/insidious-movie-franchise-horror-issue-lin-shaye-explained/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/lin-shaye-insidious-the-last-key-video.jpg",
-      "PublishedAt": "2023-07-05T17:49:51Z",
-      "Content": "With the mainline movies nearing their end, Lin Shaye reveals her one issue of the Insidioushorror franchise. Shaye has been one of the sole stars of every Insidious movie, portraying psychic Elise R… [+2938 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mirror Online"
-      },
-      "Author": "mirrornews@mirror.co.uk (Tom Bryant)",
-      "Title": "Corrie legend looks back on her life for TV documentary to mark her 90th birthday",
-      "Description": "The actress will join former co-star Bradley Walsh for the ITV show, which will trace her first footsteps into showbiz before her debut appearance on the soap in 1964",
-      "Url": "https://www.mirror.co.uk/tv/tv-news/corrie-legend-looks-back-life-30398982",
-      "UrlToImage": "https://i2-prod.mirror.co.uk/incoming/article30399004.ece/ALTERNATES/s1200/0_ITV-ARCHIVE.jpg",
-      "PublishedAt": "2023-07-05T17:01:00Z",
-      "Content": "Coronation Street legend Barbara Knox will celebrate her 90th birthday by telling of her dramatic life on screen.\r\n The actress, who has played Rita Tanner for more than half a century, will join for… [+1610 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Smallville Actress Involved In Sex Cult Released from Prison",
-      "Description": "Actress Allison Mack, who previously starred in the hit TV series Smallville, was released from prison today (via Deadline) after serving three years for her participation in the notorious NXIVM cult and its subsequent sex trafficking charges. What was Alliso…",
-      "Url": "https://www.comingsoon.net/tv/news/1303174-smallville-actress-involved-in-sex-cult-released-from-prison",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/allison-mack-header.jpg?resize=1200,630",
-      "PublishedAt": "2023-07-05T16:46:15Z",
-      "Content": "Actress Allison Mack, who previously starred in the hit TV series Smallville, was released from prison today (via Deadline) after serving three years for her participation in the notorious NXIVM cult… [+1790 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Katy Rath",
-      "Title": "Sam Claflin's Huntsman Role Proves He Still Needs His Own Disney Live-Action Prince Movie",
-      "Description": "Actor Sam Claflin played William in the Snow White and the Huntsman franchise, and the role has effectively cemented him as a prince for the ages.",
-      "Url": "https://screenrant.com/sam-claflin-huntsman-william-prince-disney-movie/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/sam-claflin-huntsman-william-prince-disney-movie.jpg",
-      "PublishedAt": "2023-07-05T16:40:15Z",
-      "Content": "Actor Sam Claflin has had a storied career in the industry, but his portrayal of William, aka Prince Charming, in the Snow White and the Huntsmanfranchise begs the question of why he hasn't led his o… [+3902 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livejournal.com"
-      },
-      "Author": "silverstarry",
-      "Title": "Great Australian Bake Off 7x4",
-      "Description": "For season seven, judges and hosts Maggie Beer, Matt Moran, Claire Hooper, and Mel Buttle (who all appeared on the show for seasons 2-6) have been replaced. The two new judges are pastry chef Darren Purchese and British TV cook and personality Rachel Khoo. Th…",
-      "Url": "https://ohnotheydidnt.livejournal.com/126325329.html",
-      "UrlToImage": "https://i.postimg.cc/5NQr754M/bake-off.png",
-      "PublishedAt": "2023-07-05T16:15:42Z",
-      "Content": "For season seven, judges and hosts Maggie Beer, Matt Moran, Claire Hooper, and Mel Buttle (who all appeared on the show for seasons 2-6) have been replaced. The two new judges are pastry chef Darren … [+4030 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "New York Post"
-      },
-      "Author": "Lauren Sarner",
-      "Title": "Why ‘Barbie’ director Greta Gerwig refused to CGI this ‘beautiful’ body part",
-      "Description": "She’s plastic, but this was not fantastic. \n\n\n\n“Barbie” director Greta Gerwig has revealed her refusal to CGI a certain body part of the famous doll in the upcoming film, calling the very idea \"terrifying.\" \n\n\n\n“There was a big discussion in the beginning,” G…",
-      "Url": "https://nypost.com/2023/07/05/why-barbie-director-greta-gerwig-refused-to-cgi-this-body-part/",
-      "UrlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000013622751.jpg?quality=75&strip=all&w=1024",
-      "PublishedAt": "2023-07-05T16:13:37Z",
-      "Content": "Shes plastic, but this was not fantastic. \r\nBarbie director Greta Gerwig has revealed her refusal to CGI a certain body part of the famous doll in the upcoming film, calling the very idea “terrifying… [+2670 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "New York Post"
-      },
-      "Author": "Johnny Oleksinski",
-      "Title": "‘Mission: Impossible – Dead Reckoning Part One’ review: Summer’s best movie",
-      "Description": "The new movies “Mission: Impossible - Dead Reckoning Part One” and “Indiana Jones and the Dial of Destiny” have a lot in common.\n\n\n\nBoth are part of decades-old American franchises that have been led by the same stars from day one — Tom Cruise and Harrison Fo…",
-      "Url": "https://nypost.com/2023/07/05/mission-impossible-dead-reckoning-part-one-review/",
-      "UrlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000013389610.jpg?quality=75&strip=all&w=1024",
-      "PublishedAt": "2023-07-05T16:01:00Z",
-      "Content": "The new movies Mission: Impossible – Dead Reckoning Part One and Indiana Jones and the Dial of Destiny have a lot in common.\r\nBoth are part of decades-old American franchises that have been led by th… [+4878 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Decider"
-      },
-      "Author": "mliss1578",
-      "Title": "Tom Cruise Plans to Make ‘Mission: Impossible’ Movies Until He’s 80 — Like Harrison Ford and ‘Indiana Jones’",
-      "Description": "Tom Cruise‘s need for speed isn’t slowing down any time soon. The actor, whose seventh Mission: Impossible film comes out this month, plans on making movies well into his eighties — much like industry vet Harrison Ford. \n\n\n\nWhile speaking to the Sydney Mornin…",
-      "Url": "https://decider.com/2023/07/05/tom-cruise-mission-impossible-movies-until-80-like-harrison-ford/",
-      "UrlToImage": "https://decider.com/wp-content/uploads/2023/07/tom-harrison.jpg?quality=75&strip=all&w=1200",
-      "PublishedAt": "2023-07-05T15:59:23Z",
-      "Content": "Tom Cruise‘s need for speed isn’t slowing down any time soon. The actor, whose seventh Mission: Impossiblefilm comes out this month, plans on making movies well into his eighties much like industry v… [+2088 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Inside the Magic"
-      },
-      "Author": "Andrew Boardwine",
-      "Title": "Disney Changes Entire Movie, Confirms Bill Murray Removed",
-      "Description": "Actor Bill Murray, who has become a Hollywood legend, is in the midst of some serious allegations. Murray’s breakthrough in the film industry came with his role in the cult classic comedy film Caddyshack in 1980, where he played the lovable and eccentric grou…",
-      "Url": "https://insidethemagic.net/2023/07/disney-changed-entire-movie-confirms-legend-bill-murray-removed-ab1/",
-      "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2022/12/bill-murray-ant-man.jpg",
-      "PublishedAt": "2023-07-05T15:52:01Z",
-      "Content": "Actor Bill Murray, who has become a Hollywood legend, is in the midst of some serious allegations.\r\nMurray’s breakthrough in the film industry came with his role in the cult classic comedy film Caddy… [+3103 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "newsweek.com",
-      "Title": "Michael Cera's botched response to 'Jeopardy!' question goes viral",
-      "Description": "An awkward moment featuring actor Michael Cera on Celebrity Jeopardy! has gone viral again, months after the actor's appearance on the show. The former Arrested Development star appeared on the celebrity version of the popular TV quiz show in January and comp…",
-      "Url": "https://biztoc.com/x/c7a9cd2b605a15ab",
-      "UrlToImage": "https://c.biztoc.com/p/c7a9cd2b605a15ab/s.webp",
-      "PublishedAt": "2023-07-05T15:40:03Z",
-      "Content": "An awkward moment featuring actor Michael Cera on Celebrity Jeopardy! has gone viral again, months after the actor's appearance on the show.The former Arrested Development star appeared on the celebr… [+315 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Anthony Mackie Was So Nervous Acting with Harrison Ford That He Forgot His Lines in CAPTAIN AMERICA: BRAVE NEW WORLD",
-      "Description": "Anthony Mackie and Harrison Ford are going to be sharing a good amount of screen time together in Captain America: Brave New World. Mackie takes on the role of Sam Wilson, aka Captain America, and Ford is set to play General Ross, who is President of the Unit…",
-      "Url": "https://geektyrant.com/news/anthony-mackie-was-so-nervous-acting-with-harrison-ford-that-he-forgot-his-lines",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a344ccfac1654de660530e/1688571022917/anthony-mackie-was-so-nervous-acting-with-harrison-ford-that-he-forgot-his-lines.jpg?format=1500w",
-      "PublishedAt": "2023-07-05T15:30:00Z",
-      "Content": "Anthony Mackie and Harrison Ford are going to be sharing a good amount of screen time together inCaptain America: Brave New World. Mackie takes on the role of Sam Wilson, aka Captain America, and For… [+1907 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Benedict Cumberbatch Teases Doctor Strange's Return To MCU Next Year",
-      "Description": "After Doctor Strange in the Multiverse of Madness, it shouldn’t really come as a surprise that Benedict Cumberbatch is not done with the role of Doctor Strange. Now the actor is teasing his return to the MCU in a new movie next year. Cumberbatch recently said…",
-      "Url": "https://geektyrant.com/news/benedict-cumberbatch-teases-doctor-stranges-return-to-mcu-next-year",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a4f647f51ec3339b4345e4/1688569360795/benedict-cumberbatch-teases-doctor-stranges-return-to-mcu-next-year.jpg?format=1500w",
-      "PublishedAt": "2023-07-05T15:02:00Z",
-      "Content": "After Doctor Strange in the Multiverse of Madness, it shouldnt really come as a surprise that Benedict Cumberbatch is not done with the role of Doctor Strange. Now the actor is teasing his return to … [+1587 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Martin Scorsese's KILLERS OF THE FLOWER MOON Get's a Great New Trailer",
-      "Description": "Apple TV+ has released a full trailer for Martin Scorsese’s incredible-looking film Killers of the Flower Moon, which tells the dark and tragic story of greed and murder in the heart of America. This movie looks incredible and it’s based on David Grann’s book…",
-      "Url": "https://geektyrant.com/news/martin-scorseses-killers-of-the-flower-moon-gets-a-great-new-trailer",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a57beb6da74758b5d578a3/1688567876723/Screen+Shot+2023-07-05+at+8.36.18+AM.jpg?format=1500w",
-      "PublishedAt": "2023-07-05T14:37:00Z",
-      "Content": "Apple TV+ has released a full trailer for Martin Scorseses incredible-looking film Killers of the Flower Moon, which tells the dark and tragic story of greed and murder in the heart of America. This … [+2966 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Benedict Cumberbatch Teases Doctor Strange Return Next Year in New MCU Project",
-      "Description": "In a recent interview at the JW3 Speaker Series, Benedict Cumberbatch confirmed that he is scheduled to film “some Marvel capers” next year, teasing his Doctor Strange return after over a year since the theatrical release of Doctor Strange in the Multiverse o…",
-      "Url": "https://www.comingsoon.net/movies/news/1303090-benedict-cumberbatch-doctor-strange-return-next-year",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2022/04/doctor-strange-2-clip-e1688567066567.jpg?resize=1200,630",
-      "PublishedAt": "2023-07-05T14:28:55Z",
-      "Content": "In a recent interview at the JW3 Speaker Series, Benedict Cumberbatch confirmed that he is scheduled to film some Marvel capers next year, teasing his Doctor Strange return after over a year since th… [+1217 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Dan Girolamo",
-      "Title": "Tom Cruise Wants to Make Mission: Impossible Films Until He’s 80",
-      "Description": "Tom Cruise celebrated his 61st birthday on July 3, and despite his age, the veteran actor has no plans of slowing down. There have been rumors that Mission: Impossible – Dead Reckoning Parts One and Two will be Cruise’s last two films in the franchise. Howeve…",
-      "Url": "https://www.comingsoon.net/movies/news/1303101-tom-cruise-wants-to-make-mission-impossible-films-until-hes-80",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Tom-Cruise-Mission-Impossisble-7.jpg?resize=1200,630",
-      "PublishedAt": "2023-07-05T14:21:18Z",
-      "Content": "Tom Cruise celebrated his 61st birthday on July 3, and despite his age, the veteran actor has no plans of slowing down. There have been rumors that Mission: Impossible Dead Reckoning Parts One and Tw… [+1927 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "vanityfair.com",
-      "Title": "Daniel Radcliffe Won’t Play “Old, Haggard” Harry Potter in New TV Show",
-      "Description": "After playing the role of Harry Potter for more than a decade, Daniel Radcliffe is in no rush to reprise his role in an upcoming TV show adaptation destined for Max. “It seems to me that they are wanting to make a fresh series,” the actor told Entertainment T…",
-      "Url": "https://biztoc.com/x/95009858971d9e8d",
-      "UrlToImage": "https://c.biztoc.com/p/95009858971d9e8d/s.webp",
-      "PublishedAt": "2023-07-05T13:50:06Z",
-      "Content": "After playing the role of Harry Potter for more than a decade, Daniel Radcliffe is in no rush to reprise his role in an upcoming TV show adaptation destined for Max.It seems to me that they are wanti… [+303 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vanity Fair"
-      },
-      "Author": "Savannah Walsh",
-      "Title": "Daniel Radcliffe Won’t Play “Old, Haggard” Harry Potter in New TV Show",
-      "Description": "While the actor is “certainly not seeking” a role in the upcoming Max series, he wishes “the kids nothing but the best.”",
-      "Url": "https://www.vanityfair.com/hollywood/2023/07/daniel-radcliffe-wont-play-old-haggard-harry-potter-in-new-tv-show",
-      "UrlToImage": "https://media.vanityfair.com/photos/64a56ba5fa3d2f4f2b8958dd/16:9/w_1280,c_limit/1384684390",
-      "PublishedAt": "2023-07-05T13:44:23Z",
-      "Content": "After playing the role of Harry Potter for more than a decade, Daniel Radcliffe is in no rush to reprise his role in an upcoming TV show adaptation destined for Max.\r\nIt seems to me that they are wan… [+2280 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Freerepublic.com"
-      },
-      "Author": "SLAY",
-      "Title": "Jim Caviezel Reveals Disney Told Him to Remove Reference to God from Movie Script",
-      "Description": "Christian actor Jim Caviezel has revealed that Disney executives told him to remove all references to God from the script of one of his hit movies. Caviezel, one of the rare vocal Christians in Hollywood, gave a behind-the-scenes insight into working with Dis…",
-      "Url": "https://freerepublic.com/focus/f-chat/4165641/posts",
-      "UrlToImage": null,
-      "PublishedAt": "2023-07-05T12:52:35Z",
-      "Content": "Skip to comments.\r\nJim Caviezel Reveals Disney Told Him to Remove Reference to God from Movie ScriptSLAY ^\r\n | July 4, 2023 - 7:32 pm\r\n | Frank Bergman\r\nPosted on 07/05/2023 5:52:35 AM PDT by Red Bad… [+5845 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gadgets360.com"
-      },
-      "Author": "Rahul Chettiyar, Ali Pardiwala",
-      "Title": "Daniel Radcliffe Says He’s ‘Definitely Not Seeking’ a Cameo in Max’s Harry Potter TV Series: Report",
-      "Description": "Daniel Radcliffe seems content with not returning in a cameo role in Max’s upcoming TV series adaptation of Harry Potter. In an interview, the British actor, known for playing the titular wizard in the eight-film-long franchise, confirmed that he’s not active…",
-      "Url": "https://www.gadgets360.com/entertainment/news/daniel-radcliffe-harry-potter-tv-series-not-returning-cameo-hbo-max-jk-rowling-4179817",
-      "UrlToImage": "https://i.gadgets360cdn.com/large/daniel_radcliffe_no_cameo_harry_potter_series_1688555428953.jpg",
-      "PublishedAt": "2023-07-05T11:03:27Z",
-      "Content": "Daniel Radcliffe is stated to be fine with not returning in Max's upcoming TV series adaptation of Harry Potter, even in a cameo role. Speaking to ComicBook.com, the British actor, known for playing … [+2847 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Week Magazine"
-      },
-      "Author": "Theara Coleman",
-      "Title": "The troubling rise of review bombing",
-      "Description": "Criticism of television shows, movies, video games, and books is nothing new. But the internet has made it easier than ever to weaponize critical commentary with sprees of \"review bombing,\" wherein users hoping to call attention to a particular cultural or po…",
-      "Url": "https://theweek.com/feature/briefing/1024746/the-troubling-rise-of-review-bombing",
-      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1688406301/GettyImages-1304929256.jpg",
-      "PublishedAt": "2023-07-05T09:55:06Z",
-      "Content": "Criticism of television shows, movies, video games, and books is nothing new. But the internet has made it easier than ever to weaponize critical commentary with sprees of \"review bombing,\" wherein u… [+4635 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Kemifilani.ng"
-      },
-      "Author": "Mercy Trin",
-      "Title": "Actress Mosun Filani marks birthday with gratitude",
-      "Description": "It is Nollywood actress, Mosun Filani's birthday, and the movie star is marking her new age with gratitude. Taking to her Instagram page to share new photos, Mosun expressed gratitude to His for the gift of life. She appreciated him for another beautiful year…",
-      "Url": "https://www.kemifilani.ng/entertainment/mosun-filani-marks-birthday-with-gratitude",
-      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Thank-u-Jesus-for-the-gift-of-life-Mosun-Filani-celebrates-birthday-Kemi-Filani-blog-min.jpg",
-      "PublishedAt": "2023-07-05T09:14:53Z",
-      "Content": "It is Nollywood actress, Mosun Filani’s birthday, and the movie star is marking her new age with gratitude.\r\nTaking to her Instagram page to share new photos, Mosun expressed gratitude to His for the… [+2899 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Week Magazine"
-      },
-      "Author": "Brendan Morrow",
-      "Title": "Who will be nominated at the 2023 Emmys?",
-      "Description": "If you star in a drama series that's not \"Succession,\" we love you, but you are not serious contenders at the 2023 Emmys. This year's awards show should see \"Succession\" and \"Ted Lasso\" once again dominate, especially since both have (seemingly) aired their f…",
-      "Url": "https://theweek.com/feature/briefing/1024692/2023-emmy-nominations-predictions",
-      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1688132459/GettyImages-1422064145.jpg",
-      "PublishedAt": "2023-07-05T09:07:05Z",
-      "Content": "If you star in a drama series that's not \"Succession,\" we love you, but you are not serious contenders at the 2023 Emmys. This year's awards show should see \"Succession\" and \"Ted Lasso\" once again do… [+13632 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "TV satire series is safety valve in troubled Burkina",
-      "Description": "So, if you are a citizen of Burkina Faso, what can you do?\n\nWell, instead of plunging into despair, you can turn to the safety valve of laughter -- making light of some of the country's many problems.\n\nJust in time, one of the Sahel nation's best-loved comedy…",
-      "Url": "https://www.france24.com/en/live-news/20230705-tv-satire-series-is-safety-valve-in-troubled-burkina",
-      "UrlToImage": "https://s.france24.com/media/display/5e839b16-1af8-11ee-9deb-005056a90321/w:1280/p:16x9/c333ce5cd223536b12ef01b2016ed0163aaa8fc4.jpg",
-      "PublishedAt": "2023-07-05T05:54:14Z",
-      "Content": "Ouagadougou (AFP) Your country is one of the poorest in the world, battered by a bloody jihadist insurgency and last year underwent two military coups. So, if you are a citizen of Burkina Faso, what … [+3283 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "deadline.com",
-      "Title": "Benedict Cumberbatch Hints At Doctor Strange’s Marvel Return In New MCU Movie “Next Year”",
-      "Description": "Benedict Cumberbatch is seemingly not done playing Doctor Strange in the Marvel Cinematic Universe. The actor recently hinted at his return in a new movie next year. “There are some Marvel capers in the making next year,” Cumberbatch said while being a guest …",
-      "Url": "https://biztoc.com/x/040d4ccffdc389a8",
-      "UrlToImage": "https://c.biztoc.com/p/040d4ccffdc389a8/s.webp",
-      "PublishedAt": "2023-07-05T04:08:05Z",
-      "Content": "Benedict Cumberbatch is seemingly not done playing Doctor Strange in the Marvel Cinematic Universe. The actor recently hinted at his return in a new movie next year.There are some Marvel capers in th… [+311 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "Armando Tinoco",
-      "Title": "Benedict Cumberbatch Hints At Doctor Strange’s Marvel Return In New MCU Movie “Next Year”",
-      "Description": "Benedict Cumberbatch is seemingly not done playing Doctor Strange in the Marvel Cinematic Universe. The actor recently hinted at his return in a new movie next year. “There are some Marvel capers in the making next year,” Cumberbatch said while being a guest …",
-      "Url": "https://deadline.com/2023/07/benedict-cumberbatch-doctor-strange-marvel-return-mcu-movie-1235430108/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2023/07/benedict-cumberbatch-doctor-strange-in-the-multiverse-of-madness.jpg?w=1024",
-      "PublishedAt": "2023-07-05T04:02:22Z",
-      "Content": "Benedict Cumberbatch is seemingly not done playing Doctor Strange in the Marvel Cinematic Universe. The actor recently hinted at his return in a new movie next year.\r\n“There are some Marvel capers in… [+1543 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Guardian"
-      },
-      "Author": "Emma Brockes",
-      "Title": "The trauma of Cary Grant: how he thrived after a terrible childhood - as told by his daughter",
-      "Description": "Born into extreme poverty, Grant was told as a child his mother had died. She had actually been placed in a psychiatric institution. It was the start of a life of repression and extraordinary reinventionDuring the casting process for Archie – a forthcoming se…",
-      "Url": "https://www.theguardian.com/film/2023/jul/05/jennifer-grant-on-her-dad-cary-grant",
-      "UrlToImage": "https://i.guim.co.uk/img/media/ae0e5c8bdedb16e32ea9575e48011abfc2270820/0_0_2048_1229/master/2048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0a76e47246e4a8c7a0482ed54be90e9",
-      "PublishedAt": "2023-07-05T04:00:23Z",
-      "Content": "During the casting process for Archie a forthcoming series for ITVX about the life of Cary Grant, the late actors daughter, Jennifer, had several, unbreakable criteria. The actor playing her dad need… [+11118 chars]"
-    },
-    {
-      "Source": {
-        "Id": "breitbart-news",
-        "Name": "Breitbart News"
-      },
-      "Author": "Paul Bois, Paul Bois",
-      "Title": "Oscar-Winner Mira Sorvino Implores People to See 'Sound of Freedom': Will Inspire You to End Child Sex Trafficking",
-      "Description": "Academy Award-winning actress Mira Sorvino has called upon people to see the movie \"Sound of Freedom\", in which she stars alongside actor Jim Caviezel, asking people to ignore those who might describe it as \"political.\"",
-      "Url": "https://www.breitbart.com/entertainment/2023/07/04/oscar-winner-mira-sorvino-implores-people-to-see-sound-of-freedom-will-inspire-you-to-end-child-sex-trafficking/",
-      "UrlToImage": "https://media.breitbart.com/media/2023/07/soundoffreedom-640x335.jpg",
-      "PublishedAt": "2023-07-04T22:25:31Z",
-      "Content": "Academy Award-winning actress Mira Sorvino has called upon people to see the movie Sound of Freedom, in which she stars alongside actor Jim Caviezel (pictured above), asking people to ignore those wh… [+2064 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Noah Dominguez",
-      "Title": "Quentin Tarantino Dashes Hopes for Kill Bill: Volume 3",
-      "Description": "Quentin Tarantino has officially put the kibosh on rumors regarding a potential third entry in the Kill Bill saga. While speaking with the Flemish newspaper De Morgen, Tarantino effectively shut down the idea of a Kill Bill: Volume 3 starring original lead Um…",
-      "Url": "https://www.comingsoon.net/movies/news/1302515-quentin-tarantino-dashes-hopes-for-kill-bill-volume-3",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Kill-Bill-Vol-2.jpg?resize=1200,630",
-      "PublishedAt": "2023-07-04T21:30:00Z",
-      "Content": "Quentin Tarantino has officially put the kibosh on rumors regarding a potential third entry in the Kill Billsaga.\r\nWhile speaking with the Flemish newspaper De Morgen, Tarantino effectively shut down… [+2965 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Indiana Jones 5 Actress Asked for Script Changes Over Problematic Scene",
-      "Description": "Shaunette Renée Wilson stars alongside Harrison Ford in Indiana Jones and the Dial of Destiny. According to the actress, she had requests for changes once she got the script. What issues did Shaunette Renée Wilson have? Speaking to Variety, Wilson revealed on…",
-      "Url": "https://www.comingsoon.net/movies/news/1302472-indiana-jones-5-actress-asked-for-script-changes-over-problematic-scene",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/shaunette-renee-wilson-indiana-jones-and-the-dial-of-destiny.png?resize=1200,630",
-      "PublishedAt": "2023-07-04T19:30:00Z",
-      "Content": "Shaunette Renée Wilson stars alongside Harrison Ford in Indiana Jones and the Dial of Destiny. According to the actress, she had requests for changes once she got the script.\r\nSpeaking to Variety, Wi… [+1547 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "INDIANA JONES 5 Actress Says She Was Disappointed She Wasn't in the Movie More",
-      "Description": "Indiana Jones and the Dial of Destiny came out this past weekend and while the movie fell below expectations at the box office, audiences and fans who have watched seem to have enjoyed it. It’s not as good as any of the other films in the original trilogy, bu…",
-      "Url": "https://geektyrant.com/news/indiana-jones-5-actress-says-she-was-disappointed-she-wasnt-in-the-movie-more",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a0fa8441f8925b7c0c3b53/1688495408958/Screen+Shot+2023-07-01+at+10.54.14+PM.jpg?format=1500w",
-      "PublishedAt": "2023-07-04T18:30:00Z",
-      "Content": "Indiana Jones and the Dial of Destiny came out this past weekend and while the movie fell below expectations at the box office, audiences and fans who have watched seem to have enjoyed it. Its not as… [+2559 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Mail"
-      },
-      "Author": "Laura Collins",
-      "Title": "Murdaugh movie casting call seeks actor to 'splash' and 'float' for Mallory Beach role",
-      "Description": "The casting call posted by Atlanta-based Set Life Casting, and obtained exclusively by DailyMail.com features a picture of Mallory Beach, 19, with the word, 'FLOAT' across her face.",
-      "Url": "https://www.dailymail.co.uk/news/article-12251185/Murdaugh-movie-casting-call-seeks-actor-splash-float-Mallory-Beach-role.html",
-      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/06/30/17/72721511-0-image-a-77_1688142732670.jpg",
-      "PublishedAt": "2023-07-04T18:29:16Z",
-      "Content": "The lawyer for boating accident victim Mallory Beach's family has condemned a film company's efforts to cast her role in a forthcoming drama series based on Alex Murdaugh as 'dehumanizing and thought… [+8636 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Succession’s Brian Cox Reveals Who Should Have Been Logan Roy’s Successor",
-      "Description": "In a recent interview with Screen Rant, Emmy-winning actor Brian Cox has opened up about the series finale of HBO’s acclaimed drama Succession, revealing which of Logan Roy’s children would have been his pick to become the next Waystar CEO. Although he feels …",
-      "Url": "https://www.comingsoon.net/movies/news/1302805-successions-brian-cox-reveals-who-should-have-been-logan-roys-successor",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/Succession-Season-4-how-many-episodes.jpg?resize=1200,630",
-      "PublishedAt": "2023-07-04T18:00:00Z",
-      "Content": "In a recent interview with Screen Rant, Emmy-winning actor Brian Cox has opened up about the series finale of HBOs acclaimed drama Succession, revealing which of Logan Roys children would have been h… [+1993 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETCanada.com"
-      },
-      "Author": "Melissa Romualdi",
-      "Title": "Simu Liu And Girlfriend Allison Hsu Hang Out In Muskoka For Canada Day Long Weekend",
-      "Description": "Simu Liu celebrated the long weekend in true Canadian fashion — at the lake. The actor, who's gearing up for his role in the anticipated \"Barbie\" movie, headed to cottage country in Muskoka with his girlfriend Allison Hsu to spend time with friends he conside…",
-      "Url": "https://etcanada.com/news/1003653/simu-liu-and-girlfriend-allison-hsu-hang-out-in-muskoka-for-canada-day-long-weekend/",
-      "UrlToImage": "https://etcanada.com/wp-content/uploads/2023/02/GettyImages-1463013155.jpg?quality=80&strip=all&w=720&h=480&crop=1",
-      "PublishedAt": "2023-07-04T17:46:15Z",
-      "Content": "Simu Liu celebrated the long weekend in true Canadian fashion at the lake.\r\nThe actor, who’s gearing up for his role in the anticipated “Barbie” movie, headed to cottage country in Muskoka with his g… [+1369 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Wealthofgeeks.com"
-      },
-      "Author": "Michael Dinich",
-      "Title": "Movies Where Actors Dropped Out During Production",
-      "Description": "July 4, 2023 Making a movie is a huge undertaking that requires a lot of time, money, and effort from everyone involved. So, when an actor or actress suddenly",
-      "Url": "https://wealthofgeeks.com/movies-where-actors-dropped-out-during-production/",
-      "UrlToImage": "https://wealthofgeeks.com/wp-content/uploads/2023/04/Lord-of-The-Rings-The-Fellowship-of-The-King.png",
-      "PublishedAt": "2023-07-04T16:00:05Z",
-      "Content": "Making a movie is a huge undertaking that requires a lot of time, money, and effort from everyone involved. So, when an actor or actress suddenly decides to leave a project in the middle of shooting,… [+4015 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Captain America 4: Anthony Mackie Talks Working With Harrison Ford on MCU Sequel",
-      "Description": "Captain America star Anthony Mackie has discussed his experience of working with iconic actor Harrison Ford on Captain America: Brave New World. What did Anthony Mackie say about working with Harrison Ford? In an Inverse feature, Mackie revealed that he was n…",
-      "Url": "https://www.comingsoon.net/movies/news/1302476-captain-america-4-anthony-mackie-talks-working-with-harrison-ford-on-mcu-sequel",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/mackie-ford-header.png?resize=1200,630",
-      "PublishedAt": "2023-07-04T16:00:00Z",
-      "Content": "Captain America star Anthony Mackie has discussed his experience of working with iconic actor Harrison Ford on Captain America: Brave New World.\r\nIn an Inverse feature, Mackie revealed that he was ne… [+1638 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Briefly.co.za"
-      },
-      "Author": "Privie Kandi",
-      "Title": "Kagiso Rakosa Who Played Sharon in ‘Generations’ Set to Return to TV: SA Reacts: “Sis Connie Lifted the Ban”",
-      "Description": "Former 'Generations' actress Kagiso Rakosa is returning to television in a much-awaited show titled 'Magaeng'. This follows reports that she was blacklisted.",
-      "Url": "https://briefly.co.za/entertainment/tv-shows/163211-kagiso-rakosa-played-sharon-generations-set-retun-tv-sa-reacts-sis-connie-lifted-ban/",
-      "UrlToImage": "https://netstorage-briefly.akamaized.net/images/d14fadb0f2f87b20.jpg",
-      "PublishedAt": "2023-07-04T15:14:02Z",
-      "Content": "<ul><li>Kagiso Rakosa returns to TV in the highly anticipated series Magaeng alongside industry veterans Sdumo Mtshali and Tinah Mnumzana</li><li>Magaeng set to premiere exclusively on Mzansi Magic o… [+2774 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Nicolas Cage Almost Played Dracula in Scrapped Adaptation of CASTLEVANIA",
-      "Description": "Here’s an interesting bit of movie trivia that James Wan recently shared. It turns out that before Nicolas Cage played Dracula in Renfield, he was set to play the iconic vampire in a scrapped adaptation of the popular video game franchise Castlevania! Wan was…",
-      "Url": "https://geektyrant.com/news/nicolas-cage-was-set-to-play-dracula-in-scrapped-adaptation-of-castlevania",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64a2f473018b5f3fe5d7ef73/1688481008730/nicolas-cage-was-set-to-play-dracula-in-scrapped-adaptation-of-castlevania.jpg?format=1500w",
-      "PublishedAt": "2023-07-04T14:30:00Z",
-      "Content": "Heres an interesting bit of movie trivia thatJames Wanrecently shared. It turns out that before Nicolas Cage played Dracula in Renfield, he was set to play the iconic vampire in a scrapped adaptation… [+2188 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Kevin Spacey Faces New Allegations, Compared to One of His Movie Characters While in Court",
-      "Description": "Kevin Spacey is facing new allegations while in courting facing 12 sexual assault charges. The 63-year-old actor is currently on trial in London. Earlier this year, he continued to assert his innocence. However, new details about his alleged assault came to l…",
-      "Url": "https://www.justjared.com/2023/07/04/kevin-spacey-faces-new-allegations-compared-to-one-of-his-movie-characters-while-in-court/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/kevin-allegations.jpg",
-      "PublishedAt": "2023-07-04T14:29:44Z",
-      "Content": "Kevin Spacey is facing new allegations while in courting facing 12 sexual assault charges. \r\nThe 63-year-old actor is currently on trial in London. Earlier this year, he continued to assert his innoc… [+1186 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "TIMESOFINDIA.COM",
-      "Title": "Maniesh Paul lost 10 kgs in 3 weeks",
-      "Description": "Actor Maniesh Paul's trainer has revealed a massive and intense weight loss journey of the actor for his new project Rafuchakkar. The movie was released on June 15. In a long post, Praveen Nair has spoken about the challenges they faced to make sure Paul fits…",
-      "Url": "https://timesofindia.indiatimes.com/life-style/health-fitness/fitness/maniesh-paul-lost-10-kgs-in-3-weeks-trainer-shares-weight-loss-secrets-of-the-actor/articleshow/101487397.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-101487445,width-1070,height-580,imgsize-990309,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2023-07-04T12:30:00Z",
-      "Content": "Why are kids dying of heart diseases? Here are key questions answered by doctorsKids, as young as 13 year old, are dying of heart complications. The sudden onset of breathlessness and discomfort in k… [+179 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Guardian"
-      },
-      "Author": "Peter Bradshaw",
-      "Title": "Prisoner’s Daughter review – Brian Cox and Kate Beckinsale can’t save hammy ex-con drama",
-      "Description": "Catherine Hardwicke directs the Succession star and Beckinsale in a family drama that’s falls flat on its faceHere’s a terrible TV-movie-style piece of work with some awful acting and a deeply questionable, crass finale; it’s all the more wince-inducing given…",
-      "Url": "https://www.theguardian.com/film/2023/jul/04/prisoners-daughter-review-brian-cox-catherine-hardwicke-kate-beckinsale",
-      "UrlToImage": "https://i.guim.co.uk/img/media/82baf5bde654dbde14850c0256ccbc0ef46e54d7/0_290_8688_5213/master/8688.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTEucG5n&enable=upscale&s=ab5b23e6376262b63e7686d9a23e1f2d",
-      "PublishedAt": "2023-07-04T12:00:14Z",
-      "Content": "Heres a terrible TV-movie-style piece of work with some awful acting and a deeply questionable, crass finale; its all the more wince-inducing given the lineup of alpha talent behind it. Catherine Har… [+1634 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tudor Leonte",
-      "Title": "Why Was Henry Cavill Replaced in The Witcher?",
-      "Description": "The first half of The Witcher season 3 is already in the books, with Geralt of Rivia and his friends facing a plethora of old and new enemies. The recently-released episodes reminded everyone how fitting Henry Cavill was to portray Geralt, but then why was th…",
-      "Url": "https://www.comingsoon.net/guides/news/1302542-henry-cavill-replaced-the-witcher-season-4",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Henry-Cavill-replaced-The-Witcher.jpeg?resize=1200,630",
-      "PublishedAt": "2023-07-04T11:17:14Z",
-      "Content": "The first half of The Witcher season 3 is already in the books, with Geralt of Rivia and his friends facing a plethora of old and new enemies. The recently-released episodes reminded everyone how fit… [+1650 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Stanley Tucci Thinks Straight Actors Should Be Allowed to Play Gay Roles",
-      "Description": "Stanley Tucci is opening up about being a straight actor who has played gay roles on screen and why he thinks it’s “fine.” The 62-year-old actor, who is married to Emily Blunt‘s sister Felicity, played gay roles in the 2006 movie The Devil Wears Prada and the…",
-      "Url": "https://www.justjared.com/2023/07/04/stanley-tucci-thinks-straight-actors-should-be-allowed-to-play-gay-roles/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/tucci-gayroles.jpg",
-      "PublishedAt": "2023-07-04T05:16:43Z",
-      "Content": "Stanley Tucci is opening up about being a straight actor who has played gay roles on screen and why he thinks it’s “fine.”\r\nThe 62-year-old actor, who is married to Emily Blunt‘s sister Felicity, pla… [+649 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "blogTO"
-      },
-      "Author": "Ben Okazawa",
-      "Title": "Simu Liu shared photos celebrating the long weekend with his girlfriend in Muskoka",
-      "Description": "In true Toronto man fashion, Simu Liu escaped to Ontario's cottage country for the long weekend.\r\nThe Shang Chi and Barbie star took to Instagram on Sunday to share pictures of his getaway to 'Goshulak Island' in Muskoka.\r\nIt's not the name of a real island, …",
-      "Url": "https://www.blogto.com/film/2023/07/simu-liu-girlfriend/",
-      "UrlToImage": "https://media.blogto.com/articles/202373-simu-liu-girlfriend.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70",
-      "PublishedAt": "2023-07-04T04:00:19Z",
-      "Content": "In true Toronto man fashion, Simu Liu escaped to Ontario's cottage country for the long weekend.\r\nThe Shang Chi and Barbie star took to Instagram on Sunday to share pictures of his getaway to 'Goshul… [+843 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Joseph Baena References Dad Arnold Schwarzenegger in New Movie 'Called to Duty'",
-      "Description": "Joseph Baena is paying tribute to one of the greats – his dad Arnold Schwarzenegger. The 25-year-old actor and model is fresh off the release of his new movie Called to Duty, which features a direct reference to one of his dad’s most iconic lines. Read more a…",
-      "Url": "https://www.justjared.com/2023/07/03/joseph-baena-references-dad-arnold-schwarzenegger-in-new-movie-called-to-duty/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/joseph-arnold.jpg",
-      "PublishedAt": "2023-07-04T02:28:42Z",
-      "Content": "Joseph Baena is paying tribute to one of the greats – his dad Arnold Schwarzenegger. \r\nThe 25-year-old actor and model is fresh off the release of his new movie Called to Duty, which features a direc… [+734 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Nick Schager",
-      "Title": "‘Game of Thrones’ Stars Kit Harington and Rose Leslie Welcome Baby Girl",
-      "Description": "Edward Berthelot/Getty Images\r\nGame of Thrones alums Kit Harington and Rose Leslie have added a little girl to their family, the couple announced to People magazine Monday. Reportedly together since 2012, Harington and Leslie had their first child, a son, in …",
-      "Url": "https://www.thedailybeast.com/game-of-thrones-stars-kit-harington-and-rose-leslie-welcome-second-child-baby-girl",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_4049,w_7199,x_0,y_211/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1688429176/GettyImages-1457765767_b6wgqr",
-      "PublishedAt": "2023-07-04T00:07:42Z",
-      "Content": "Game of Thrones alums Kit Harington and Rose Leslie have added a little girl to their family, the couple announced to People magazine Monday. Reportedly together since 2012, Harington and Leslie had … [+824 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Wnd.com"
-      },
-      "Author": "Jack Davis, The Western Journal",
-      "Title": "Jim Caviezel reveals what Disney told him to do with references to God in 'Count of Monte Cristo'",
-      "Description": "Actor Jim Caviezel, a vocal Christian in a business not noted for its concerns for religion, revealed recently what took place behind the scenes of a Disney movie. Caviezel had landed the role of Edmond Dantes in an adaptation of the Alexandre Dumas novel and…",
-      "Url": "https://www.wnd.com/2023/07/jim-caviezel-reveals-disney-told-references-god-count-monte-cristo/",
-      "UrlToImage": "https://www.wnd.com/wp-content/uploads/2019/09/jesus-passion-of-the-christ-jim-caviezel-600-cropped.jpeg",
-      "PublishedAt": "2023-07-03T22:00:33Z",
-      "Content": "Actor Jim Caviezel, a vocal Christian in a business not noted for its concerns for religion, revealed recently what took place behind the scenes of a Disney movie.\r\nCaviezel had landed the role of Ed… [+3031 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "James Mangold Says an X-23 Movie Was Planned but Scrapped by Disney",
-      "Description": "James Mangold‘s Logan was a perfect end to Hugh Jackman’s Wolverine. That movie might be one of the best comic book films that has been made. Yeah, Jackman is coming back to reprise his role in Deadpool 3, but that movie will not mess with the story that Loga…",
-      "Url": "https://geektyrant.com/news/james-mangold-says-an-x-23-movie-was-planned-but-scrapped-by-disney",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/649f0973048cd50b9d6fdb2d/1688416208789/james-mangold-says-an-x-23-movie-was-planned-but-scrapped-by-disney.jpg?format=1500w",
-      "PublishedAt": "2023-07-03T20:30:00Z",
-      "Content": "James Mangolds Logan was a perfect end to Hugh Jackmans Wolverine. That movie might be one of the best comic book films that has been made. Yeah, Jackman is coming back to reprise his role inDeadpool… [+2983 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Grant Hermanns",
-      "Title": "Ghostbusters: Afterlife 2 Actor Confirms \"The Movie Is Done\" Filming & Addresses A Potential Release Delay",
-      "Description": "Exclusive: Ernie Hudson confirms that Ghostbusters: Afterlife 2 is officially done filming and addresses whether strikes will cause a release delay.",
-      "Url": "https://screenrant.com/ghostbusters-afterlife-2-filming-wrap-update-ernie-hudson/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/ernie-hudson-ghostbusters-afterlife-2-1.jpg",
-      "PublishedAt": "2023-07-03T20:25:31Z",
-      "Content": "With just a few months gone from when production kicked off, Ernie Hudson has confirmed that Ghostbusters: Afterlife 2is officially done filming. Hudson reprised his role of original Ghostbuster Wins… [+3112 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Thegatewaypundit.com"
-      },
-      "Author": "Jack Davis, The Western Journal",
-      "Title": "Jim Caviezel Reveals What Disney Told Him to Do with References to God in ‘Count of Monte Cristo’",
-      "Description": "Actor Jim Caviezel, a vocal Christian in a business not noted for its concerns for religion, revealed recently what took place behind the scenes of a Disney movie.\nThe post Jim Caviezel Reveals What Disney Told Him to Do with References to God in ‘Count of Mo…",
-      "Url": "https://www.thegatewaypundit.com/2023/07/jim-caviezel-reveals-disney-told-references-god-count/",
-      "UrlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/SoundofFreedom-Soars.jpg",
-      "PublishedAt": "2023-07-03T20:20:38Z",
-      "Content": "Actor Jim Caviezel, a vocal Christian in a business not noted for its concerns for religion, revealed recently what took place behind the scenes of a Disney movie.\r\nCaviezel had landed the role of Ed… [+2953 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Five Nights at Freddy’s Movie Photos Show BTS Look at Freddy Fazbear’s Live-Action Debut",
-      "Description": "Order up! A new batch of Five Nights at Freddy’s photos for Blumhouse‘s highly-anticipated adaptation are fresh out of the pizza oven. They give a behind-the-scenes look at the Freddy Fazbear suit created by The Jim Henson’s Creature Shop. The set photos feat…",
-      "Url": "https://www.comingsoon.net/movies/news/1302309-five-nights-at-freddys-movie-photos-bts-look-freddy-frazbear",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/five-nights-movie.jpg?resize=1200,630",
-      "PublishedAt": "2023-07-03T20:13:38Z",
-      "Content": "Order up! A new batch of Five Nights at Freddys photos for Blumhouses highly-anticipated adaptation are fresh out of the pizza oven. They give a behind-the-scenes look at the Freddy Fazbear suit crea… [+1306 chars]"
     }
   ]
 }
