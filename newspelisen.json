@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1166,
+  "TotalResults": 1167,
   "Articles": [
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Jacob Stolworthy",
+      "Title": "Streaming service Disney+ removes original movie just 48 days after release",
+      "Description": "It will no longer be available to watch anywhere",
+      "Url": "https://www.independent.co.uk/arts-entertainment/films/news/crater-movie-rotten-tomatoes-disney-plus-b2372061.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/07/04/15/newFile-1.jpg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-07-09T13:59:55Z",
+      "Content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nAn original movie has become unavailable to watch after … [+2197 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Past-lives.jpg?resize=1200,630",
       "PublishedAt": "2023-07-06T13:26:40Z",
       "Content": "The Past Lives streaming release date is highly anticipated as it offers a lovable romance drama, and viewers are wondering when they can start streaming the movie.\r\nIt is about two childhood friends… [+1719 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "New York is getting the first ever Angry Birds cafe",
-      "Description": "To give you an idea how old Angry Birds is, it arrived on iOS, webOS and something called Maemo 5 (?) before it even came to Android, according to our 2010 review. Not only is it still around over 13 years later, but developer Rovio is being purchased by Sega…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171320880",
-      "UrlToImage": null,
-      "PublishedAt": "2023-07-06T13:14:25Z",
-      "Content": "To give you an idea how old Angry Birds is, it arrived on iOS, webOS and something called Maemo 5 (?) before it even came to Android, according to our 2010 review. Not only is it still around over 13… [+1725 chars]"
     }
   ]
 }
