@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 783,
+  "TotalResults": 784,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Silvia Pinal: ¿Qué problemas de salud ha tenido la ‘última diva del cine mexicano’?",
+      "Description": "En años recientes, la actriz de 91 años Silvia Pinal ha presentado diversos problemas de salud que ha llegado a superar.",
+      "Url": "https://www.elfinanciero.com.mx/espectaculos/2023/07/10/que-problemas-de-salud-ha-tenido-silvia-pinal/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/EfOsB3hXxn_5bj0ejbI_r0UyPTo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/VBCBOHKPAJBBXM2HHRR5T3IYA4.jpg",
+      "PublishedAt": "2023-07-10T23:59:43Z",
+      "Content": "La primera actriz Silvia Pinal de 91 años, reconocida por sus labores dentro de la industria de la actuación, se ha convertido en una de las celebridades más longevas en México, incluso se le conoce … [+5464 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/491858dd-1b7d-447c-956f-e2ce65fabbcb_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-07-06T06:00:12Z",
       "Content": "Netflix se prepara para el cierre definitivo de Las Encinas. La plataforma renueva Élite para una octava temporada que está pensada para ser la última de la exitosa ficción juvenil y que tendrá como … [+3648 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "LUIS MARTÍNEZ",
-      "Title": "Antonia San Juan: \"Solamente una mujer machista no dice la edad. Tengo 62 años\"",
-      "Description": "La actriz y directora regresa al cine con 'Liuben', una coproducción hispano-búlgara firmada por Venci Kostov sobre la identidad, la maternidad, la emigración y hasta el patriarcado. Y lo hace a la vez que prepara su regreso al escenario del Teatro Pavón de M…",
-      "Url": "https://www.elmundo.es/cultura/cine/2023/07/06/64a5b0bae4d4d83b798b458a.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/b5586298a5041fb62fb15f5bcb8d1f52/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/05/16885800244854.jpg",
-      "PublishedAt": "2023-07-06T01:04:03Z",
-      "Content": "Cada uno recuerda a una actriz como quiere. O como puede. O como desea. Pese a lo poco que se ha prodigado en el cine y la televisión, Antonia San Juan (Las Palmas de Gran Canaria, 1961) cuenta sus p… [+6338 chars]"
     }
   ]
 }
