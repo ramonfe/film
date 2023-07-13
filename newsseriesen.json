@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 98,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The best Amazon Prime Day deals under $50 for 2023",
+      "Description": "Amazon Prime Day is a great time to grab the little things: accessories, dongles, chargers and other tech we all need, but don’t always think about until things get dire. We’ve reviewed and tested plenty of less-expensive tech and quite a few of our recommend…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171367033",
+      "UrlToImage": null,
+      "PublishedAt": "2023-07-12T14:13:38Z",
+      "Content": "Amazon Prime Day is a great time to grab the little things: accessories, dongles, chargers and other tech we all need, but don’t always think about until things get dire. We’ve reviewed and tested pl… [+10493 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
