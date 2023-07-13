@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 990,
+  "TotalResults": 993,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Premios Emmy 2023: todos los nominados",
+      "Description": "La serie de HBO Succession lidera ampliamente la lista de candidatos difundida este miércoles por la Academia de Televisión estadounidense; la ceremonia de entrega se celebrará el 18 de septiembre en Los Ángeles",
+      "Url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/premios-emmy-2023-todos-los-nominados-nid12072023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/jgLqfjtPqLu-_j8Q69HgGGYKImc=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/EQR4SG5TQFBDBOJRGJILTO6H5Y.JPG",
+      "PublishedAt": "2023-07-12T16:32:12Z",
+      "Content": "Este miércoles se dieron a conocer las nominaciones a los Emmys 2023, los premios que otorga la Academia de Televisión estadounidense para distinguir a lo mejor de la producción del último año (en es… [+2202 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Bill y Frank, el emotivo episodio 3 de 'The Last Of Us', recibe 7 nominaciones en los Emmy",
+      "Description": "Long, long time, el episodio tres de la exitosa serie de HBO Max, The Last Of Us que muestra la dramática y caótica historia de amor de Bill y Frank, recibió siete nominaciones en los premios Emmy, que se llevarán a cabo en septiembre de este año. Este miérco…",
+      "Url": "https://www.milenio.com/espectaculos/television/episodio-bill-y-frank-de-the-last-of-us-nominaciones-emmy",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/12/bill-y-frank-alcanzan-siete.jpg",
+      "PublishedAt": "2023-07-12T16:19:00Z",
+      "Content": "Long, long time, el episodio tres de la exitosa serie de HBO Max, The Last Of Us que muestra la dramática y caótica historia de amor de Bill y Frank, recibió siete nominaciones en los premios Emmy, q… [+1387 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Nayín Costas",
+      "Title": "HBO arrasa en las nominaciones a los Premios Emmy, con 'Succession' a la cabeza",
+      "Description": "La plataforma copa la lista de nominados gracias a la temporada final de su exitosa serie, pero también a 'The White Lotus' y 'The Last of Us'",
+      "Url": "https://www.elconfidencial.com/television/series-tv/2023-07-12/nominaciones-premios-emmy-succession-hbo_3699235/",
+      "UrlToImage": "https://images.ecestaticos.com/3rS4XhJBY94Kek042wcqkdMYA5I=/0x0:1200x800/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/6b9/ded/314/6b9ded314c10c618d4942decd09ceb1d.jpg",
+      "PublishedAt": "2023-07-12T16:08:00Z",
+      "Content": "HBO parte como la gran favorita de cara a la 75 edición de los Premios Emmy, unos galardones que este año tienen rpevisto entregar sus estatuillas en la primera mitad del mes de septiembre. Eso si la… [+3427 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -305,19 +344,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "Partirle la cara a Homelander será una realidad: Mortal Kombat confirma la llegada del héroe más infame de The Boys",
-      "Description": "El próximo mes de septiembre por fin tendremos en nuestras manos Mortal Kombat 1, el reboot de una saga tremendamente exitosa caracterizada por su brutal estilo de juego y sus sangrientos fatalities. Se han confirmado muchos luchadores por parte del estudio, …",
-      "Url": "https://www.vidaextra.com/accion/partirle-cara-a-homelander-sera-realidad-mortal-kombat-confirma-llegada-heroe-infame-the-boys",
-      "UrlToImage": "https://i.blogs.es/da84b8/homelander/840_560.jpeg",
-      "PublishedAt": "2023-07-11T19:00:47Z",
-      "Content": "El próximo mes de septiembre por fin tendremos en nuestras manos Mortal Kombat 1, el reboot de una saga tremendamente exitosa caracterizada por su brutal estilo de juego y sus sangrientos fatalities.… [+1275 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Xataka.com.mx"
       },
       "Author": "Kenth",
@@ -327,6 +353,19 @@
       "UrlToImage": "https://i.blogs.es/faa889/xtk/840_560.png",
       "PublishedAt": "2023-07-11T19:00:47Z",
       "Content": "Estamos a pocas semanas del estreno del reboot de 'Mortal Kombat 1', una entrega que generó numerosos rumores antes de confirmarse. Este reinicio de la saga promete traer \"nuevos aires\" no solo a la … [+2657 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Partirle la cara a Homelander será una realidad: Mortal Kombat confirma la llegada del héroe más infame de The Boys",
+      "Description": "El próximo mes de septiembre por fin tendremos en nuestras manos Mortal Kombat 1, el reboot de una saga tremendamente exitosa caracterizada por su brutal estilo de juego y sus sangrientos fatalities. Se han confirmado muchos luchadores por parte del estudio, …",
+      "Url": "https://www.vidaextra.com/accion/partirle-cara-a-homelander-sera-realidad-mortal-kombat-confirma-llegada-heroe-infame-the-boys",
+      "UrlToImage": "https://i.blogs.es/da84b8/homelander/840_560.jpeg",
+      "PublishedAt": "2023-07-11T19:00:47Z",
+      "Content": "El próximo mes de septiembre por fin tendremos en nuestras manos Mortal Kombat 1, el reboot de una saga tremendamente exitosa caracterizada por su brutal estilo de juego y sus sangrientos fatalities.… [+1275 chars]"
     },
     {
       "Source": {
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/07/portada-serie-from-hbo-max.jpg?width=1200",
       "PublishedAt": "2023-07-08T16:02:46Z",
       "Content": "Harold Perrineau es el protagonista de esta serie de terror disponible en HBO Max // Imagen: HBO Max.\r\nHay una serie de terror que está causando sensación desde su estreno en 2022. Se llama From, est… [+3187 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "Tiene casi un 10 en IMDb y recrea uno de los mayores desastres de la historia. Esta miniserie de 5 episodios es una joya que puedes ver en HBO Max",
-      "Description": "Lo malo de las miniseries que se convierten en fenómenos televisivos es que pegan muy fuerte durante un espacio muy limitado de tiempo y luego parece que pasan a un segundo plano y se quedan algo olvidados. Algo que, desde luego, no merece la sobresaliente 'C…",
-      "Url": "https://www.espinof.com/series-de-ficcion/tiene-casi-10-imdb-recrea-uno-mayores-desastres-historia-esta-miniserie-5-episodios-puedes-verla-hbo-max",
-      "UrlToImage": "https://i.blogs.es/51d02f/chernobil/840_560.jpeg",
-      "PublishedAt": "2023-07-08T16:01:54Z",
-      "Content": "Lo malo de las miniseries que se convierten en fenómenos televisivos es que pegan muy fuerte durante un espacio muy limitado de tiempo y luego parece que pasan a un segundo plano y se quedan algo olv… [+2489 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakamovil.com"
-      },
-      "Author": "Alejandro Alcolea",
-      "Title": "Con estos sencillos pasos preparo mi móvil para ir de vacaciones tranquilo y seguro",
-      "Description": "Ya estamos en pleno verano y muchos nos hemos ganado unas buenas vacaciones. El móvil va a ser un compañero imprescindible en vacaciones porque va a ser nuestro guía, nuestro entretenimiento si el viaje es largo, nuestra cámara de fotos y hasta nuestra identi…",
-      "Url": "https://www.xatakamovil.com/movil-y-sociedad/estos-sencillos-pasos-preparo-mi-movil-para-ir-vacaciones-tranquilo-seguro",
-      "UrlToImage": "https://i.blogs.es/9c3ce3/dsc01819/840_560.jpeg",
-      "PublishedAt": "2023-07-08T16:01:54Z",
-      "Content": "Ya estamos en pleno verano y muchos nos hemos ganado unas buenas vacaciones. El móvil va a ser un compañero imprescindible en vacaciones porque va a ser nuestro guía, nuestro entretenimiento si el vi… [+10913 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakamovil.com"
-      },
-      "Author": "Eva Rodriguez",
-      "Title": "Seis aplicaciones para amantes de series y cine que unifican el contenido en streaming para que no te pierdas nada",
-      "Description": "Lo bueno de tener tantos servicios de streaming en la palma de la mano (aunque pasando por caja) es que la oferta es tan grande que te falta tiempo para verlo todo. Lo no tan bueno es que ni lo tienes todo ni a veces tienes claro si esa serie de la que hablan…",
-      "Url": "https://www.xatakamovil.com/aplicaciones/seis-aplicaciones-para-amantes-series-cine-que-unifican-contenido-streaming-no-te-pierdas-nada",
-      "UrlToImage": "https://i.blogs.es/f6e44f/matoo-studio-3qdnesbmrjk-unsplash/840_560.jpeg",
-      "PublishedAt": "2023-07-08T14:01:53Z",
-      "Content": "Lo bueno de tener tantos servicios de streaming en la palma de la mano (aunque pasando por caja) es que la oferta es tan grande que te falta tiempo para verlo todo. Lo no tan bueno es que ni lo tiene… [+3499 chars]"
     }
   ]
 }
