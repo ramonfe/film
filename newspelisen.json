@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1296,
+  "TotalResults": 1297,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Raw Story"
+      },
+      "Author": "Greg Mitchell",
+      "Title": "The atomic age was born 78 years ago — government secrecy and 'cover-ups' have held sway ever since",
+      "Description": "While many people trace the dawn of the nuclear era to August 6, 1945, and the dropping of the atomic bomb over Hiroshima, it really began three weeks earlier, in the desert near Alamogordo, New Mexico, with the top-secret Trinity test, on July 16, 1945. This…",
+      "Url": "https://www.rawstory.com/oppenheimer/",
+      "UrlToImage": "https://www.rawstory.com/media-library/the-mushroom-cloud-from-an-atomic-bomb.jpg?id=34318697&width=1200&height=600&coordinates=0%2C916%2C0%2C917",
+      "PublishedAt": "2023-07-12T17:47:43Z",
+      "Content": "While many people trace the dawn of the nuclear era to August 6, 1945, and the dropping of the atomic bomb over Hiroshima, it really began three weeks earlier, in the desert near Alamogordo, New Mexi… [+7357 chars]"
+    },
     {
       "Source": {
         "Id": "google-news",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/6befae48256de7eb/s.webp",
       "PublishedAt": "2023-07-11T16:02:03Z",
       "Content": "The box office surprise of the summer is a movie about child sex trafficking called Sound of Freedom whose release has been years in the making after filming wrapped in 2018.The film tells the real-l… [+310 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "polygon.com",
-      "Title": "AMC says 20,000 people have booked to see the Barbenheimer double feature",
-      "Description": "Barbie and Oppenheimer seem to be proving the old saying: opposites attract. A week and a half out from both movies’ July 21 release, their combined magnetic pull is reportedly bringing in loads of people to the theater for a novel movie-going experience. Jus…",
-      "Url": "https://biztoc.com/x/2c52ebff47dd5bdd",
-      "UrlToImage": "https://c.biztoc.com/p/2c52ebff47dd5bdd/s.webp",
-      "PublishedAt": "2023-07-11T15:36:03Z",
-      "Content": "Barbie and Oppenheimer seem to be proving the old saying: opposites attract. A week and a half out from both movies July 21 release, their combined magnetic pull is reportedly bringing in loads of pe… [+299 chars]"
     }
   ]
 }
