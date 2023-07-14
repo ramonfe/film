@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1006,
+  "TotalResults": 1007,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Atomix"
+      },
+      "Author": "Alexis Patiño",
+      "Title": "Gypsy, la serie de Netflix de la que todos hablan",
+      "Description": "A pesar de las reacciones negativas contra sus políticas e implementaciones para evitar que sus usuarios compartan cuentas. Netflix continúa siendo una de las plataformas de streaming más populares entre los aficionados al cine y las series. Su catálogo cuent…",
+      "Url": "https://atomix.vg/gypsy-la-serie-de-netflix-de-la-que-todos-hablan/",
+      "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2023/07/gypsy.jpg",
+      "PublishedAt": "2023-07-12T23:43:53Z",
+      "Content": "A pesar de las reacciones negativas contra sus políticas e implementaciones para evitar que sus usuarios compartan cuentas. Netflix continúa siendo una de las plataformas de streaming más populares e… [+1467 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -513,19 +526,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Kenth",
-      "Title": "Homelander invade los videojuegos: el protagonista de 'The Boys' llega a 'Call of Duty' y todo apunta que estará en 'Mortal Kombat 1'",
-      "Description": "Estamos a pocas semanas del estreno del reboot de 'Mortal Kombat 1', una entrega que generó numerosos rumores antes de confirmarse. Este reinicio de la saga promete traer \"nuevos aires\" no solo a la historia, sino también a los roles que asumen los personajes…",
-      "Url": "https://www.xataka.com.mx/videojuegos/homelander-invade-videojuegos-protagonista-the-boys-llega-a-call-of-duty-todo-apunta-que-estara-mortal-kombat-1",
-      "UrlToImage": "https://i.blogs.es/faa889/xtk/840_560.png",
-      "PublishedAt": "2023-07-11T19:00:47Z",
-      "Content": "Estamos a pocas semanas del estreno del reboot de 'Mortal Kombat 1', una entrega que generó numerosos rumores antes de confirmarse. Este reinicio de la saga promete traer \"nuevos aires\" no solo a la … [+2657 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Vida Extra"
       },
       "Author": "Iván González",
@@ -535,6 +535,19 @@
       "UrlToImage": "https://i.blogs.es/da84b8/homelander/840_560.jpeg",
       "PublishedAt": "2023-07-11T19:00:47Z",
       "Content": "El próximo mes de septiembre por fin tendremos en nuestras manos Mortal Kombat 1, el reboot de una saga tremendamente exitosa caracterizada por su brutal estilo de juego y sus sangrientos fatalities.… [+1275 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Kenth",
+      "Title": "Homelander invade los videojuegos: el protagonista de 'The Boys' llega a 'Call of Duty' y todo apunta que estará en 'Mortal Kombat 1'",
+      "Description": "Estamos a pocas semanas del estreno del reboot de 'Mortal Kombat 1', una entrega que generó numerosos rumores antes de confirmarse. Este reinicio de la saga promete traer \"nuevos aires\" no solo a la historia, sino también a los roles que asumen los personajes…",
+      "Url": "https://www.xataka.com.mx/videojuegos/homelander-invade-videojuegos-protagonista-the-boys-llega-a-call-of-duty-todo-apunta-que-estara-mortal-kombat-1",
+      "UrlToImage": "https://i.blogs.es/faa889/xtk/840_560.png",
+      "PublishedAt": "2023-07-11T19:00:47Z",
+      "Content": "Estamos a pocas semanas del estreno del reboot de 'Mortal Kombat 1', una entrega que generó numerosos rumores antes de confirmarse. Este reinicio de la saga promete traer \"nuevos aires\" no solo a la … [+2657 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/28b5b9/betty/840_560.jpeg",
       "PublishedAt": "2023-07-10T08:24:27Z",
       "Content": "\"Se dice de mí, se dice que soy fea, que camino a lo malevo...\". Puede que a los chavales de la generación Z les cueste creérselo, pero en 1999, 'Betty la fea', una telenovela basada en que una mujer… [+1695 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Genbeta.com"
-      },
-      "Author": "Bárbara Bécares",
-      "Title": "El streaming pasa por su peor momento. Netflix quiso revolucionar una industria que era rentable, y se ha acabado rompiendo",
-      "Description": "Ahora mismo, todas las grandes empresas del mundo del streaming están en horas bajas, con una caída de los beneficios histórica, tras años de enorme bonanza. Concretamente Bloomberg publica que los beneficios de las grandes compañías de streaming han caído un…",
-      "Url": "https://www.genbeta.com/a-fondo/streaming-pasa-su-peor-momento-netflix-quiso-revolucionar-industria-que-era-rentable-se-ha-acabado-rompiendo",
-      "UrlToImage": "https://i.blogs.es/b49219/jonas-leupe-dzmnjkfduvi-unsplash/840_560.jpeg",
-      "PublishedAt": "2023-07-10T08:14:07Z",
-      "Content": "Ahora mismo, todas las grandes empresas del mundo del streaming están en horas bajas, con una caída de los beneficios histórica, tras años de enorme bonanza. Concretamente Bloomberg publica que los b… [+2819 chars]"
     }
   ]
 }
