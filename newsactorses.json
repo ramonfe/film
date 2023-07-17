@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 769,
+  "TotalResults": 770,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Fernando Neira",
+      "Title": "Jane Birkin, un ícono europeo que brilló entre el cine, la música y la moda",
+      "Description": "La actriz nacida en Inglaterra murió a los 76 años en su departamento de París; desarrolló la mayor parte de su carrera en Francia",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/jane-birkin-un-icono-europeo-que-brillo-entre-el-cine-la-musica-y-la-moda-nid16072023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/gsdSFBlPioFB0c5oRmrG_I3sZ0w=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HWBE2HP44BEQDITF5FQRNYAVHE.JPG",
+      "PublishedAt": "2023-07-16T19:06:03Z",
+      "Content": "La actriz y cantante inglesa Jane Birkin murió hoy a los 76 años en Francia, país en el que desarrolló la mayor parte de su carrera. En el capítulo de asociaciones de ideas ineludibles, ninguna podrá… [+6624 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/be7a0b87-441d-45be-937c-1bcabbad6f75_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-07-12T20:07:01Z",
       "Content": "Los caminos del algoritmo son inescrutables. Pocos hubieran apostado por que una película con Sandra Bullock sobre una plaga sobrenatural que hace que la gente se suicide se convertiría en uno de los… [+450 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Esther Palomera",
-      "Title": "Zapatero: \"Quienes más se juegan en estas elecciones son las mujeres que creen en la libertad y en la igualdad\"",
-      "Description": "Desde que salió de La Moncloa, nunca ha estado más activo ni más comprometido con Pedro Sánchez. Tanto que se ha echado a la carretera para pedir el voto con la intensidad que lo hizo en 2004 y 2008 cuando el candidato del PSOE a la Presidencia del Gobierno e…",
-      "Url": "https://www.eldiario.es/politica/zapatero-juegan-elecciones-son-mujeres-creen-libertad-igualdad_128_10368581.html",
-      "UrlToImage": "https://static.eldiario.es/clip/7723cb07-9648-44f2-9a33-de0ddc98a849_facebook-watermarked-aspect-ratio_default_0_x2506y872.jpg",
-      "PublishedAt": "2023-07-12T20:06:55Z",
-      "Content": "Desde que salió de La Moncloa, nunca ha estado más activo ni más comprometido con Pedro Sánchez. Tanto que se ha echado a la carretera para pedir el voto con la intensidad que lo hizo en 2004 y 2008 … [+923 chars]"
     }
   ]
 }
