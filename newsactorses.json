@@ -1,8 +1,658 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 789,
+  "TotalResults": 765,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DW (English)"
+      },
+      "Author": "Deutsche Welle",
+      "Title": "Cantante y actriz británica Jane Birkin muere a los 76 años",
+      "Description": "La mujer, que era especialmente famosa en Francia, es reconocida por su sensual canción \"Je t'aime moi non plus\", interpretada con una expareja. La cantante y actriz británica Jane Birkin falleció a los 76 años en París tras desarrollar casi toda su carrera a…",
+      "Url": "https://www.dw.com/es/cantante-y-actriz-brit%C3%A1nica-jane-birkin-muere-a-los-76-a%C3%B1os/a-66247394",
+      "UrlToImage": "https://static.dw.com/image/66247345_6.jpg",
+      "PublishedAt": "2023-07-16T12:34:00Z",
+      "Content": "La cantante y actriz británica Jane Birkin falleció a los 76 años en París tras desarrollar casi toda su carrera artística en Francia, aunque llevaba tiempo apartada de la escena por problemas de sal… [+1101 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Inés Álvarez",
+      "Title": "Marcos Ruiz y Miguel del Arco: El entretenimiento no está reñido con el pensamiento",
+      "Description": "Marcos Ruiz (Madrid, 1999) lo hemos visto en películas como 'Primos' y 'Las leyes de la frontera' y en las series 'El nudo' y 'Madres: amor y vida' y Miguel del Arco (Madrid, 1965) es dramaturgo, guionista, director de teatro y cine y actor (en televisión ha …",
+      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20230716/entrevista-marcos-ruiz-miguel-arco-noches-tefia-atresplayer-89753288",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/eca089e0-0d1b-4241-b2e0-c85b6951eb77_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-07-16T08:09:00Z",
+      "Content": "Marcos Ruiz (Madrid, 1999) lo hemos visto en películas como 'Primos' y 'Las leyes de la frontera' y en las series'El nudo' y 'Madres: amor y vida' y Miguel del Arco (Madrid, 1965) es dramaturgo, guio… [+7851 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Pedro Gallego",
+      "Title": "Más allá de Tom Cruise: 3 alucinantes películas de espionaje que ver en streaming si te gusta 'Misión imposible'",
+      "Description": "Tom Cruise vuelve para hacer despegar las carteleras con una nueva entrega de la franquicia de acción más consistente y espectacular. 'Misión imposible: Sentencia mortal - Parte 1' viene para consolidar la condición de una de las mejores sagas de espionaje de…",
+      "Url": "https://www.espinof.com/listas/alla-tom-cruise-3-alucinantes-peliculas-espionaje-que-ver-streaming-te-gusta-mision-imposible",
+      "UrlToImage": "https://i.blogs.es/354a79/mision-imposible-sentencia-mortal-2023-rebecca-ferguson/840_560.jpeg",
+      "PublishedAt": "2023-07-16T08:01:28Z",
+      "Content": "Tom Cruise vuelve para hacer despegar las carteleras con una nueva entrega de la franquicia de acción más consistente y espectacular. 'Misión imposible: Sentencia mortal - Parte 1' viene para consoli… [+3497 chars]"
+    },
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Estrella Gomez",
+      "Title": "Un actor de The Mandalorian cree que su personaje podría regresar a la serie a pesar de su aparente muerte",
+      "Description": "¿Lo adivinas?\nUno de los protagonistas de The Mandalorian, la serie de Star Wars, cree que su personaje podría regresar en un futuro.",
+      "Url": "https://es.ign.com/star-wars-the-mandalorian/192408/news/un-actor-de-the-mandalorian-cree-que-su-personaje-podria-regresar-a-la-serie-a-pesar-de-su-aparente",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/photo/default/mando-1673889869293-1686941261161_r1ys.1200.jpg",
+      "PublishedAt": "2023-07-16T07:00:30Z",
+      "Content": "Atención: este artículo contiene spoilers de la Temporada 3 de The Mandalorian.\r\nA estas alturas, los fans de Star Wars no se sorprenden si un personaje regresa de entre los muertos. Hay proyectos de… [+1891 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Generación Xbox"
+      },
+      "Author": "David Fernández",
+      "Title": "La Comic-Con podría confirmar más personajes de Mortal Kombat 1",
+      "Description": "Un personaje clásico de Mortal Kombat Armageddon podría llegar a Mortal Kombat 1 gracias a su actriz de voz en la nueva serie de la franquicia.",
+      "Url": "https://generacionxbox.com/la-comic-con-podria-confirmar-mas-personajes-de-mortal-kombat-1/",
+      "UrlToImage": "https://generacionxbox.com/wp-content/uploads/2023/07/mortal-kombat-1-liu-kang-comic-con-1.jpg",
+      "PublishedAt": "2023-07-16T07:00:00Z",
+      "Content": "Continuamos con las especulaciones sobre la llegada de personajes clásicos de la franquicia Mortal Kombat, y es que con el pasar de los días van saliendo más y más noticias que nos dan pistas sobre l… [+1820 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Núria Navarro",
+      "Title": "Pol López, actor: \"Está faltando salir a la calle\"",
+      "Description": "Si uno metiera en una coctelera a Zach Galifianakis el Alan de 'Resacón en Las Vegas' y a Kenneth Branagh, el resultado se parecería bastante a Pol López (Barcelona, 1984), un actor que se sale cuando parodia a Nadia Comaneci ('Crackòvia'), levanta un 'Hamlet…",
+      "Url": "https://www.elperiodico.com/es/opinion/20230716/pol-lopez-actor-faltando-salir-89875998",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/3f83114e-e522-4349-b6c5-dc3eedd7f286_21-9-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-07-16T05:00:08Z",
+      "Content": "Si uno metiera en una coctelera a Zach Galifianakis –el Alan de 'Resacón en Las Vegas'– y a Kenneth Branagh, el resultado se parecería bastante a Pol López (Barcelona, 1984), un actor que se sale cua… [+3991 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Captan juntos a Lewis Hamilton y Eiza González en un yate: ¿Y Shakira? Esto sabemos",
+      "Description": "Una serie de fotos que se hicieron virales muestran a Lewis Hamilton con la actriz mexicana Eiza González y otras personas en Ibiza.",
+      "Url": "https://www.elfinanciero.com.mx/espectaculos/2023/07/15/captan-a-lewis-hamilton-en-yate-con-eiza-gonzalez-y-sin-shakira/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/eP-Xs2EArvYz2UQFrR3ZXizh-rQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QNW5QKBMEFHL3LEIUU3HEBXWOU.jpg",
+      "PublishedAt": "2023-07-16T04:23:32Z",
+      "Content": "Desde hace meses, los rumores de una relación entre Shakira y Lewis Hamilton habían ido en aumento gracias a las múltiples veces en las que fueron captados juntos.\r\nSin embargo, dichas posibilidades … [+2259 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "María Aguirre",
+      "Title": "Phoebe Waller-Bridge completa su transición hacia el estilo más sofisticado",
+      "Description": "Tras su salto al cine comercial con 'Indiana Jones', la actriz, guionista y directora ha sorprendido con su última retahíla de looks",
+      "Url": "https://www.vanitatis.elconfidencial.com/estilo/moda/2023-07-16/phoebe-waller-bridge-estilo-indiana-jones_3693570/",
+      "UrlToImage": "https://images.ecestaticos.com/rIaK2ZxbCC7GmydstaXZZSoWzJc=/0x0:2272x1577/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/0f2/6d9/13e/0f26d913e1b27ca111e62b656aa354da.png,0,275,1)/f.elconfidencial.com/original/39c/add/1a4/39cadd1a42ef25fdccf563b293bf95e4.jpg",
+      "PublishedAt": "2023-07-16T03:00:00Z",
+      "Content": "Sorprender con la quinta entrega de una saga no es nada fácil. Más aún cuando hablamos de una de las más icónicas de todos los tiempos: Indiana Jones. Quizá por eso cuando la productora Lucasfilm se … [+4453 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Rtve.es"
+      },
+      "Author": null,
+      "Title": "Espacio en blanco - Carne roja, conducta animal - 16/07/23",
+      "Description": "La actriz Lluvia Rojo y el director de cine Miguel Romero, nos presentan \"Carne roja\", un thriller inquietante sobre algunos de los mundos oscuros como el maltrato animal, los asesinos en serie y otros horrores albergados en la deep web.\n\nJim Sullivan, artist…",
+      "Url": "https://www.rtve.es/play/audios/espacio-en-blanco/carne-roja-conducta-animal/6935759/",
+      "UrlToImage": "https://img2.rtve.es/a/6935759/?imgProgApi=imgBackground&w=800",
+      "PublishedAt": "2023-07-16T01:05:00Z",
+      "Content": "La actriz Lluvia Rojo y el director de cine Miguel Romero, nos presentan \"Carne roja\", un thriller inquietante sobre algunos de los mundos oscuros como el maltrato animal, los asesinos en serie y otr… [+129 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Mientras los dioses dormían la siesta",
+      "Description": "Quiso el azar, o quisieron mis padres, que yo naciera, mientras los dioses dormían la siesta, en la ciudad del polvo y la niebla, a orillas de un mar helado. Levemente envanecidos por el suceso, mi padre y su padre, que llevaban el mismo nombre, estuvieron de…",
+      "Url": "https://www.abc.es/cultura/jaime-bayly-dioses-dormian-siesta-20230716011557-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/cultura/2023/07/16/dormir-siesta-.jpg",
+      "PublishedAt": "2023-07-15T23:15:58Z",
+      "Content": "Quiso el azar, o quisieron mis padres, que yo naciera, mientras los dioses dormían la siesta, en la ciudad del polvo y la niebla, a orillas de un mar helado.\r\nLevemente envanecidos por el suceso, mi … [+600 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "¿Qué pasó con Steven Seagal? Así hundió su carrera el actor que pudo ser el rey del cine de acción tras el éxito de 'Alerta Máxima'",
+      "Description": "La figura del héroe de acción gozó de una gran popularidad en Hollywood durante la primera mitad de los años 90. Actores como Bruce Willis, Sylvester Stallone o Arnold Schwarzenegger estaban en la cima de su carrera y hubo muchos otros que intentaron rivaliza…",
+      "Url": "https://www.espinof.com/actores-y-actrices/que-paso-steven-seagal-asi-hundio-su-carrera-actor-que-pudo-ser-rey-cine-accion-exito-alerta-maxima",
+      "UrlToImage": "https://i.blogs.es/591728/alerta-maxima-steven-seagal-que-fue-hundio-carrera/840_560.jpeg",
+      "PublishedAt": "2023-07-15T20:01:22Z",
+      "Content": "La figura del héroe de acción gozó de una gran popularidad en Hollywood durante la primera mitad de los años 90. Actores como Bruce Willis, Sylvester Stallone o Arnold Schwarzenegger estaban en la ci… [+8585 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "MartinPixel",
+      "Title": "Pasaron casi dos años del estrenó ‘Black Widow’ en los cines y todavía tiene una de las peores escenas CGI de los últimos años",
+      "Description": "‘Black Widow’ no es una de las películas más recordadas de Marvel, lanzada en julio de 2021 como uno de los primeros estrenos importantes en el cine durante la pandemia del COVID-19. También fue la oportunidad para que Disney+ pusiera a prueba la opción de ve…",
+      "Url": "https://www.xataka.com.mx/cine-y-tv/pasaron-casi-dos-anos-estreno-black-widow-cines-todavia-tiene-peores-escenas-cgi-ultimos-anos",
+      "UrlToImage": "https://i.blogs.es/4f0722/black-widow-cgi/840_560.jpeg",
+      "PublishedAt": "2023-07-15T19:01:22Z",
+      "Content": "Black Widow no es una de las películas más recordadas de Marvel, lanzada en julio de 2021 como uno de los primeros estrenos importantes en el cine durante la pandemia del COVID-19. También fue la opo… [+1396 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "Hoy en Netflix: la espectacular película de ciencia ficción y acción que revolucionó Hollywood y confirmó a James Cameron como un maestro de ambos géneros",
+      "Description": "El catálogo de Netflix cambia de forma constante y últimamente es bastante habitual que aproveche los sábados para incluir títulos que no son producciones propias o al menos exclusivas -ahí quizá os interese este repaso de sus mejores películas de 2023-. Una …",
+      "Url": "https://www.espinof.com/netflix/hoy-netflix-espectacular-pelicula-ciencia-ficcion-accion-que-revoluciono-hollywood-confirmo-a-james-cameron-como-maestro-ambos-generos",
+      "UrlToImage": "https://i.blogs.es/66d708/t2/840_560.jpeg",
+      "PublishedAt": "2023-07-15T18:31:24Z",
+      "Content": "El catálogo de Netflix cambia de forma constante y últimamente es bastante habitual que aproveche los sábados para incluir títulos que no son producciones propias o al menos exclusivas -ahí quizá os … [+2167 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Elena Furiase : «He dejado de hacer muchas cosas por ser madre»",
+      "Description": "El poeta cubano José Martí aseguró que «hay tres cosas que cada persona debería hacer durante su vida: plantar un árbol, tener un hijo y escribir un libro». Elena Furiase , a sus 35 años, puede celebrar haber llevado a cabo las tres. Con 'El mundo secreto de …",
+      "Url": "https://www.abc.es/gente/elena-furiase-dejado-cosas-por-ser-madre-20230715173625-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2023/07/14/elena-furiase-festival-U87706413803Dpy-1024x512@abc.jpg",
+      "PublishedAt": "2023-07-15T15:20:32Z",
+      "Content": "El poeta cubano José Martí aseguró que «hay tres cosas que cada persona debería hacer durante su vida: plantar un árbol, tener un hijo y escribir un libro». Elena Furiase, a sus 35 años, puede celebr… [+4648 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Víctor López G.",
+      "Title": "Mario Casas: \"Sigo siendo el mismo de Fuga de Cerebros\"",
+      "Description": "El pasado viernes 14 de julio llegó a Netflix 'Bird Box Barcelona', el spin-off de la exitosa 'A ciegas' protagonizada por Sandra Bullock que traslada su escenario apocalíptico a la Ciudad Condal de la mano de los hermanos Álex y David Pastor. Con motivo de s…",
+      "Url": "https://www.espinof.com/entrevistas/sigo-siendo-fuga-cerebros-mario-casas-bird-box-barcelona",
+      "UrlToImage": "https://i.blogs.es/ad4d33/captura-de-pantalla-2023-07-13-a-las-16.46.54/840_560.jpeg",
+      "PublishedAt": "2023-07-15T14:01:22Z",
+      "Content": "El pasado viernes 14 de julio llegó a Netflix 'Bird Box Barcelona', el spin-off de la exitosa 'A ciegas' protagonizada por Sandra Bullock que traslada su escenario apocalíptico a la Ciudad Condal de … [+8065 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hibridosyelectricos.com"
+      },
+      "Author": "Óscar Almarza",
+      "Title": "La DGT tiene un mapa interactivo con 4600 kilómetros de rutas ciclistas seguras: así puedes consultarlo",
+      "Description": "El usuario ciclista lleva muchos años siendo un actor vulnerable en la carretera. A nivel urbano, se han realizado multitud de acciones con el objetivo de incentivar el uso de este medio de transporte. Sin embargo, en vías extraurbanas se ha podido observar c…",
+      "Url": "https://www.hibridosyelectricos.com/bicicletas/dgt-tiene-mapa-interactivo-con-4600-kilometros-rutas-ciclistas-seguras-puedes-consultarlo_70096_102.html",
+      "UrlToImage": "https://www.hibridosyelectricos.com/uploads/s1/48/80/55/ciclistas_6_489x275.jpeg",
+      "PublishedAt": "2023-07-15T14:00:00Z",
+      "Content": "El usuario ciclista lleva muchos años siendo un actor vulnerable en la carretera. A nivel urbano, se han realizado multitud de acciones con el objetivo de incentivar el uso de este medio de transport… [+2589 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elseptimoarte.net"
+      },
+      "Author": "wanchope",
+      "Title": "Robert Downey Jr.: 'Oppenheimer' es la mejor película en la que he estado",
+      "Description": "El actor Robert Downey Jr. ha declarado que el nuevo trabajo de Christopher Nolan, 'Oppenheimer', es la mejor película en la que ha participado: \"Voy a decirlo rotundamente: Esta es la mejor película en la que he estado. No puedo esperar a que todos ustedes l…",
+      "Url": "https://www.elseptimoarte.net/noticias/actualidad/robert-downey-jr-oppenheimer-es-la-mejor-pelicula-en-la-que-he-estado45719.html",
+      "UrlToImage": null,
+      "PublishedAt": "2023-07-15T10:03:00Z",
+      "Content": "El actor  Robert Downey Jr.  ha declarado que el nuevo trabajo de  Christopher Nolan , ' Oppenheimer ', es la mejor película en la que ha participado:  \"Voy a decirlo rotundamente: Esta es la mejor p… [+3644 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "La última película de Adam Driver que está arrasando en todo el mundo en Netflix",
+      "Description": "Si hubo un personaje que logró hacerse un hueco importante entre los personajes más interesantes de la última saga de Star Wars ese fue Kylo Ren. Esto se debe en buena medida al gran nivel de actuación que suele desplegar Kylo Ren, un actor que hasta ese mome…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/la-ultima-pelicula-de-adam-driver-que-esta-arrasando-en-todo-el-mundo-en-netflix",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/07/20231279921_1.jpg?width=1200",
+      "PublishedAt": "2023-07-15T10:01:02Z",
+      "Content": "Esta película se la pegó en taquilla pero está arrasando en streaming\r\nSi hubo un personaje que logró hacerse un hueco importante entre los personajes más interesantes de la última saga de Star Wars … [+3228 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elseptimoarte.net"
+      },
+      "Author": "jescri",
+      "Title": "Robert Downey Jr.: 'Oppenheimer' es la mejor película en la que he estado",
+      "Description": "El actor Robert Downey Jr. ha declarado que el nuevo trabajo de Christopher Nolan, 'Oppenheimer', es la mejor película en la que ha participado: \"Solo voy a decirlo rotundamente: esta es la mejor película en la que he estado. No puedo esperar a que todos uste…",
+      "Url": "https://www.elseptimoarte.net/noticias/actualidad/robert-downey-jr-oppenheimer-es-la-mejor-pelicula-en-la-que-he-estado-45719.html",
+      "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/122904.jpg",
+      "PublishedAt": "2023-07-15T08:11:30Z",
+      "Content": "El actor Robert Downey Jr. ha declarado que el nuevo trabajo de Christopher Nolan, 'Oppenheimer', es la mejor película en la que ha participado: \"Voy a decirlo rotundamente: Esta es la mejor película… [+1412 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "Te contamos cómo Margot Robbie se ha convertido en la actriz favorita de Hollywood",
+      "Description": "Tanto por sus emocionantes actuaciones como por sus lookazos de alfombra roja, es la nueva sensación del cine",
+      "Url": "https://www.hola.com/fashion/tendencias/galeria/2023071575748/margot-robbie-looks-alfombra-roja-barbie-lobo-de-wall-street/1/",
+      "UrlToImage": "https://images.hola.com/fashion/imagenes/tendencias/2023071575748/margot-robbie-looks-alfombra-roja-barbie-lobo-de-wall-street/0-356-980/margot-robbie-t.jpg",
+      "PublishedAt": "2023-07-15T06:17:15Z",
+      "Content": "Recrea looks icónicos de Barbie\r\nLa última vez que Margot desfiló por la alfombra rosa, en el estreno londinense de Barbie, nos dejó sin aliento con un impactante vestido rosa satinado de gala, de co… [+448 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Wendy Guevara se decepciona de Bárbara Torres tras haber dicho que era su fan",
+      "Description": "La Influencer Wendy Guevara al inicio de La Casa de los Famosos se mostró emocionada por conocer a Bárbara Torres, ya que le externó es fan deExcelsa,el papel que interpretó la actriz en La Familia P. Luche.No obstante, a más de cinco semanas de que inició el…",
+      "Url": "https://www.milenio.com/espectaculos/famosos/wendy-guevara-se-decepciona-como-fan-de-barbara-torres-video",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/14/wendy-guevara-habla-de-barbara.jpg",
+      "PublishedAt": "2023-07-14T21:47:00Z",
+      "Content": "La Influencer Wendy Guevaraal inicio de La Casa de los Famososse mostró emocionada por conocer a Bárbara Torres, ya que le externó es fan de Excelsa, el papel que interpretó la actriz en La Familia P… [+4183 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Javier Zurro",
+      "Title": "“Éramos un gueto”, las pioneras del cine español que se partieron la cara para lograr medidas por la igualdad",
+      "Description": "“Fue una travesía del desierto muy dura. Era como si me hubieran dejado ver por una rendija cómo eran las cosas para luego cerrarme la rendija y quitarme todo”. Así define Isabel Coixet los siete años que pasaron desde que estrenara su primera película en 198…",
+      "Url": "https://www.eldiario.es/cultura/cine/gueto-pioneras-cine-espanol-partieron-cara-lograr-medidas-igualdad_1_10376529.html",
+      "UrlToImage": "https://static.eldiario.es/clip/fa832f50-2df9-4e8b-af36-cd2e8a3303f5_facebook-watermarked-aspect-ratio_default_1077249.jpg",
+      "PublishedAt": "2023-07-14T20:33:49Z",
+      "Content": "“Fue una travesía del desierto muy dura. Era como si me hubieran dejado ver por una rendija cómo eran las cosas para luego cerrarme la rendija y quitarme todo”. Así define Isabel Coixet los siete año… [+465 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Juan Luis Caviaro",
+      "Title": "\"Era increíble, rescató la película\". Quentin Tarantino tiene claro cuál es el mejor personaje de toda su carrera... y confiesa que ha plagiado a Alfred Hitchcock (pero a nadie más)",
+      "Description": "Teniendo en cuenta los numerosos y memorables personajes que ha creado a lo largo de su trayectoria, como guionista y director, pensaba que Quentin Tarantino no sería capaz de elegir sólo uno como su favorito. Pero lo ha hecho, y su elección es bastante curio…",
+      "Url": "https://www.espinof.com/directores-y-guionistas/era-increible-rescato-pelicula-quentin-tarantino-tiene-claro-cual-mejor-personaje-toda-su-carrera-confiesa-que-ha-plagiado-a-alfred-hitchcock-a-nadie",
+      "UrlToImage": "https://i.blogs.es/e8c38b/quentin-tarantino-su-mejor-personaje/840_560.jpeg",
+      "PublishedAt": "2023-07-14T20:01:13Z",
+      "Content": "Teniendo en cuenta los numerosos y memorables personajes que ha creado a lo largo de su trayectoria, como guionista y director, pensaba que Quentin Tarantino no sería capaz de elegir sólo uno como su… [+2569 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Kenth",
+      "Title": "Una \"versión mejorada\" de ‘The Last of Us 2’ está en desarrollo: Gustavo Santaolalla aseguró que ya se trabajan en algunos cambios",
+      "Description": "Tras el éxito de la serie de HBO 'The Last of Us', tanto los fans del juego como los espectadores del programa quedaron ansiosos por más contenido relacionado con el universo de la entrega de Naughty Dog. Lo más cercano que hemos tenido hasta ahora en relació…",
+      "Url": "https://www.xataka.com.mx/videojuegos/version-mejorada-the-last-of-us-2-esta-desarrollo-gustavo-santaolalla-aseguro-que-se-trabajan-algunos-cambios",
+      "UrlToImage": "https://i.blogs.es/19232a/lastofushunt2222-1621873113486-1633361603646/840_560.jpeg",
+      "PublishedAt": "2023-07-14T19:01:14Z",
+      "Content": "Tras el éxito de la serie de HBO 'The Last of Us', tanto los fans del juego como los espectadores del programa quedaron ansiosos por más contenido relacionado con el universo de la entrega de Naughty… [+1938 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Jorge Arturo Mora, El Universal / GDA",
+      "Title": "Fran Drescher: De adorable niñera a aguerrida líder de la huelga en Hollywood",
+      "Description": "La actriz Fran Drescher saltó a la fama en los 90 gracias a la serie ‘The Nanny’ y ahora es líder sindical de su gremio. El jueves fue aplaudida por su discurso en pro de pagos justos en la industria",
+      "Url": "https://www.nacion.com/teleguia/series-peliculas/fran-drescher-de-adorable-ninera-a-aguerrida-lider/U6UPKSSUHFAV7JFTYIXG3WF6MI/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/IcbKXOcwKF-gLZwQZsWK860ODu8=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/ZJNW3Q6QZNGJZNZR73YXIG2KS4.jpg",
+      "PublishedAt": "2023-07-14T19:00:00Z",
+      "Content": "Es fácil recordar a Fran Drescher como la simpática protagonista de la serie La niñera (The Nanny), aquel programa con el que muchos rememoran buenos chistes y también los grandes vestuarios y looks … [+4961 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Además de interpretar al personaje en el UCM, la actriz de Ms Marvel trabajará en el nuevo cómic de la superheroína",
+      "Description": "Si bien el Universo Cinematográfico de Marvel ha revolucionado por completo la franquicia del género de superhéroes, el origen de todos estos personajes radica en otro medio muy distinto: los cómics. Stan Lee, Jack Kirby o Brian Michael Bendis son algunos de …",
+      "Url": "https://www.vidaextra.com/series/interpretar-al-personaje-ucm-actriz-ms-marvel-trabajara-nuevo-comic-superheroina",
+      "UrlToImage": "https://i.blogs.es/754932/ms-marvel/840_560.jpeg",
+      "PublishedAt": "2023-07-14T18:31:12Z",
+      "Content": "Si bien el Universo Cinematográfico de Marvel ha revolucionado por completo la franquicia del género de superhéroes, el origen de todos estos personajes radica en otro medio muy distinto: los cómics.… [+1781 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Aristeguinoticias.com"
+      },
+      "Author": "Redacción AN / SH",
+      "Title": "¿Quién es Fran Drescher, la actriz que lidera la lucha contra Hollywood?",
+      "Description": "En un hecho sin precedentes, la actriz y comediantes oficializó la huelga de más de 160 mil actores de cine y televisión estadounidenses.",
+      "Url": "https://aristeguinoticias.com/1407/kiosko/quien-es-fran-drescher-la-actriz-que-lidera-la-lucha-contra-hollywood/",
+      "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2023/07/Fran-Drescher-SAG-AFTRA-huelga-14072023.jpg",
+      "PublishedAt": "2023-07-14T17:23:36Z",
+      "Content": "Fran Drescher ha dejado atrás la comedia para dar paso a la lucha contra la industria hollywoodense.\r\nEs probable que la recuerdes por su entrañable papel como ‘La Niñera’, la exitosa serie de la déc… [+2212 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Sergio Mayer también recibió la visita de su hijo cuando concursó en 'Big Brother VIP'",
+      "Description": "Poncho de Nigris y ‘Ponchito’ se robaron el corazón de los millones de televidentes que siguen La Casa de los Famosos, pues el hijo más grande del conductor regiomontano tuvo la oportunidad de entrar al reality show durante unos minutos para poder festejar su…",
+      "Url": "https://www.milenio.com/espectaculos/famosos/sergio-mayer-recibio-visita-hijo-big-brother",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/14/sergio-mayer-hijo-big-brother.jpg",
+      "PublishedAt": "2023-07-14T16:57:28Z",
+      "Content": "Poncho de Nigris y Ponchito se robaron el corazón de los millones de televidentes que siguen La Casa de los Famosos, pues el hijo más grande del conductor regiomontano tuvo la oportunidad de entrar a… [+1735 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Jorge Loser",
+      "Title": "\"Demasiada información basura\". El jefe de los cines AMC desmiente conspiraciones de QAnon sobre sabotajes en las proyecciones de 'Sound of Freedom'",
+      "Description": "El director de los cines AMC ha acallado las teorías de conspiración de que su cadena ha estado interrumpiendo deliberadamente las proyecciones de 'Sound of Freedom' tras las acusaciones de que el thriller tiene vínculos con el movimiento de conspiración QAno…",
+      "Url": "https://www.espinof.com/estrenos/demasiada-informacion-basura-jefe-cines-amc-desmiente-conspiraciones-qanon-sabotajes-proyecciones-sound-of-freedom",
+      "UrlToImage": "https://i.blogs.es/73f9d8/freedom/840_560.jpeg",
+      "PublishedAt": "2023-07-14T16:31:10Z",
+      "Content": "El director de los cines AMC ha acallado las teorías de conspiración de que su cadena ha estado interrumpiendo deliberadamente las proyecciones de 'Sound of Freedom' tras las acusaciones de que el th… [+2365 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "El Universal (México)",
+      "Title": "La faceta poco conocida de Hugh Laurie, el protagonista de la exitosa serie Doctor House",
+      "Description": "Antes de convertirse en una celebridad y ganar reconocimiento a nivel mundial, el actor pasó por la universidad",
+      "Url": "https://www.lanacion.com.ar/espectaculos/la-faceta-poco-conocida-de-hugh-laurie-el-protagonista-de-la-exitosa-serie-doctor-house-nid14072023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/at2qDxIseFwm6YhMPyEUyVgFtjQ=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/DAGJVILP45F2BJXOPJV3GHRF4I.jpg",
+      "PublishedAt": "2023-07-14T15:42:02Z",
+      "Content": "Hugh Laurie, conocido por su papel protagónico en la exitosa serieDoctor House, es un actor talentoso que dejó una huella en la industria del entretenimiento. Sin embargo, hay un aspecto de su vida q… [+1657 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "A pesar de que la huelga de actores acabe de comenzar, La Casa del Dragón no parará su producción por una sencilla razón",
+      "Description": "Hoy, 14 de julio, acaba de comenzar la huelga de actores en Hollywood, una protesta que se suma a la de los guionistas y que podría causar grandes problemas en la industria del cine y la televisión. Sin embargo, hay una producción que continúa a pesar de esta…",
+      "Url": "https://www.vidaextra.com/series/a-pesar-que-huelga-actores-acabe-comenzar-casa-dragon-no-parara-su-produccion-sencilla-razon",
+      "UrlToImage": "https://i.blogs.es/731246/house-of-the-dragon/840_560.jpeg",
+      "PublishedAt": "2023-07-14T15:31:10Z",
+      "Content": "Hoy, 14 de julio, acaba de comenzar la huelga de actores en Hollywood, una protesta que se suma a la de los guionistas y que podría causar grandes problemas en la industria del cine y la televisión. … [+1685 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Carles Planas Bou",
+      "Title": "Réplicas digitales y actores sin derechos: cómo la inteligencia artificial ha paralizado Hollywood",
+      "Description": "El pasado 17 de junio, Netflix estrenó la sexta temporada de la prestigiosa serie 'Black Mirror'. En su primer episodio, 'Joan is awful', Salma Hayek interpreta a una actriz del mismo nombre que ha vendido a una gran corporación los derechos de su réplica dig…",
+      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20230714/actores-huelga-hollywood-inteligencia-artificial-89884614",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/a3cc8e88-0962-4ddc-ba7f-1579d7a464d5_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-07-14T14:57:34Z",
+      "Content": "El pasado 17 de junio, Netflix estrenó la sexta temporada de la prestigiosa serie 'Black Mirror'. En su primer episodio, 'Joan is awful', Salma Hayek interpreta a una actriz del mismo nombre que ha v… [+3207 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Xavi Mogrovejo",
+      "Title": "Mortal Kombat 1: Art The Clown, Jack Torrance... los personajes invitados que nos gustaría ver",
+      "Description": "<!--cache-->La nueva entrega de Mortal Kombat introducirá en su roster a personajes violentísimos como Patriota o Pacificador, y en este artículo soñamos con otras incorporaciones que nos gustaría ver.El próximo 19 de septiembre llega a PS5, Xbox Series X/S, …",
+      "Url": "https://vandal.elespanol.com/noticia/1350763893/mortal-kombat-1-art-the-clown-jack-torrance-los-personajes-invitados-que-nos-gustaria-ver/",
+      "UrlToImage": "https://media.vandal.net/i/ivandal/1200x630/7-2023/202371411213339_1.jpg",
+      "PublishedAt": "2023-07-14T14:49:00Z",
+      "Content": "El prximo 19 de septiembre llega a PS5, Xbox Series X/S, Nintendo Switch y PC la siguiente entrega de la popular saga Mortal Kombat a manos de NetherRealm Studios. Esta nueva entrega, orientada a exp… [+11599 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Culturaocio.com"
+      },
+      "Author": null,
+      "Title": "Poker Face, la serie de Rian Johnson (Star Wars, Puñales por la espalda), ya tiene fecha de estreno en SkyShowtime",
+      "Description": "Poker Face, la nueva serie de Rian Johnson, director de Star Wars: Los últimos Jedi y las dos entregas de Puñales por la espalda, llega este mes de septiembre al servicio de streaming de SkyShowtime. La ficción de misterio cuenta con 10 episodios y está prota…",
+      "Url": "https://www.culturaocio.com/tv/noticia-poker-face-serie-rian-johnson-star-wars-punales-espalda-ya-tiene-fecha-estreno-skyshowtime-20230714164707.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230714164707_1200.jpg",
+      "PublishedAt": "2023-07-14T14:47:07Z",
+      "Content": "MADRID, 14 Jul. (CulturaOcio) - \r\n   Poker Face, la nueva serie de Rian Johnson, director de Star Wars: Los últimos Jedi y las dos entregas de Puñales por la espalda, llega este mes de septiembre al … [+934 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Carla Monfort",
+      "Title": "Anna Castillo encerrada en mitad del mar en la nueva película de Netlix: tráiler y fecha de estreno de 'Nowhere'",
+      "Description": "Anna Castillo estrena muy pronto 'Nowhere'. La película de supervivencia dirigida por Albert Pintó lanza su primer tráiler y confirma su fecha de estreno en Netflix: el próximo 29 de septiembre.\n<!-- BREAK 1 -->\nEn ningún lugar\n\nLa actriz Anna Castillo, conoc…",
+      "Url": "https://www.espinof.com/trailers/anna-castillo-encerrada-mitad-mar-nueva-pelicula-netlix-trailer-fecha-estreno-nowhere",
+      "UrlToImage": "https://i.blogs.es/03e159/nowhere/840_560.jpeg",
+      "PublishedAt": "2023-07-14T14:46:23Z",
+      "Content": "Anna Castillo estrena muy pronto 'Nowhere'. La película de supervivencia dirigida por Albert Pintó lanza su primer tráiler y confirma su fecha de estreno en Netflix: el próximo 29 de septiembre.\r\nLa … [+1166 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": null,
+      "Title": "¿Quién es Fran Drescher? De ser La Tata’ a liderar la huelga de los actores en Hollywood",
+      "Description": "Fran Drescher es especialmente recordada en Catalunya por ser la protagonista de La Tata’, la famosa serie estadounidense que emitió TV3 en los años 90, La niñera’ en el resto de España. Desde 2016, Drescher ostenta el cargo de presidenta del sindicato de act…",
+      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20230714/fran-drescher-tata-liderar-huelga-89879917",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/e5778d4a-8d01-495f-9b4c-7728c087f15e_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-07-14T12:43:47Z",
+      "Content": "Fran Drescher es especialmente recordada en Catalunya por ser la protagonista de ‘La Tata’, la famosa serie estadounidense que emitió TV3 en los años 90, ‘La niñera’ en el resto de España. Desde 2016… [+5015 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Jorge Loser",
+      "Title": "La gran película de culto de Marvel llega a Disney+: el director de 'Fast X' ofrece la mejor versión de uno de los Vengadores en un baño de tortas colosales",
+      "Description": "Cuando se hacen listas de las películas del Universo Cinematográfico Marvel (MCU), como pasa a menudo, una de las películas que generalmente termina casi al final es 'El increíble Hulk' de Louis Leterrier. Incluso cuando espectadores espectadores la recuerdan…",
+      "Url": "https://www.espinof.com/disney-plus/gran-pelicula-culto-marvel-llega-a-disney-director-fast-x-ofrece-mejor-version-uno-vengadores-bano-tortas-colosales",
+      "UrlToImage": "https://i.blogs.es/0cc3a7/increiblehulk/840_560.jpeg",
+      "PublishedAt": "2023-07-14T12:31:11Z",
+      "Content": "Cuando se hacen listas de las películas del Universo Cinematográfico Marvel (MCU), como pasa a menudo, una de las películas que generalmente termina casi al final es 'El increíble Hulk' de Louis Lete… [+5477 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "Nowhere, de Netflix, será la película española más angustiante del año, pero no te la querrás perder",
+      "Description": "¿Te gustó la película Oxígeno? Pues entonces Nowhere, de Netflix también, te va a llamar mucho la atención. Y es que hay una nueva película española (a pesar del título) en camino, y como la francesa será absolutamente angustiante pero seguro que valdrá la pe…",
+      "Url": "https://www.revistagq.com/articulo/nowhere-netflix-pelicula-espanola-estreno-sinopsis",
+      "UrlToImage": "https://media.revistagq.com/photos/64b13249e4755a6583b82a8b/16:9/w_1280,c_limit/nowhere-netflix-pelicula.jpeg",
+      "PublishedAt": "2023-07-14T11:35:04Z",
+      "Content": "¿Te gustó la película Oxígeno? Pues entonces Nowhere, de Netflix también, te va a llamar mucho la atención. Y es que hay una nueva película española (a pesar del título) en camino, y como la francesa… [+1357 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Huffingtonpost.es"
+      },
+      "Author": "Sergio Coto",
+      "Title": "Al actor Miguel Rellán no le tiembla la voz al decir todo esto sobre los últimos casos de censura de PP y Vox",
+      "Description": "<![CDATA[<p>El actor Miguel Rellán, conocido, sobre todo, por su papel en la serie Compañeros, ha alzado la voz contra los últimos casos de censura en el mundo de la cultura de varios ayuntamientos gobernados por PP y Vox en España.wf_cms.rss.read_more]]>",
+      "Url": "https://www.huffingtonpost.es/life/influencers-celebrities/actor-miguel-rellan-le-tiembla-voz-decir-esto-sobre-ultimos-casos-censura-pp-vox.html",
+      "UrlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2023/07/14/el-actor-miguel-rellan.jpeg",
+      "PublishedAt": "2023-07-14T11:02:05Z",
+      "Content": "El actor Miguel Rellán, conocido, sobre todo, por su papel en la serie Compañeros, ha alzado la voz contra los últimos casos de censura en el mundo de la cultura de varios ayuntamientos gobernados po… [+1222 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Anabel Palomares",
+      "Title": "“Manosear menos de 10 segundos no es acoso sexual”: la indignación por la decisión de un juez en Italia",
+      "Description": "Lo que ha pasado en Italia es preocupante. Mucho. Recientemente ha saltado la noticia de un caso que ha traspasado fronteras y que tiene a dos protagonistas: una estudiante de 17 años de una escuela secundaria de Roma\r\n y el conserje del centro.\n<!-- BREAK 1 …",
+      "Url": "https://www.trendencias.com/feminismo/manosear-10-segundos-no-acoso-sexual-indignacion-decision-juez-italia",
+      "UrlToImage": "https://i.blogs.es/565603/caso-acoso-sexual-italia/840_560.jpeg",
+      "PublishedAt": "2023-07-14T10:58:37Z",
+      "Content": "Lo que ha pasado en Italia es preocupante. Mucho. Recientemente ha saltado la noticia de un caso que ha traspasado fronteras y que tiene a dos protagonistas: una estudiante de 17 años de una escuela … [+4716 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Mundodeportivo.com"
+      },
+      "Author": "Autor Redacción",
+      "Title": "Detienen a una traficante de drogas por su conexión con la muerte del nieto de Robert De Niro",
+      "Description": "El pasado domingo 2 de julio, las autoridades estadounidenses encontraron muerto a Leandro De Niro, nieto de la estrella del mundo del cine de Hollywood, Robert De Niro. El joven de 19 años fue hallado muerto en un apartamento del Distrito Financiero de Nueva…",
+      "Url": "https://www.mundodeportivo.com/actualidad/20230714/1002038010/detienen-traficante-drogas-conexion-muerte-nieto-robert-niro-dct.html",
+      "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2023/07/14/64b118ccb8332.png",
+      "PublishedAt": "2023-07-14T10:18:56Z",
+      "Content": "El pasado domingo 2 de julio, las autoridades estadounidenses encontraron muerto a Leandro De Niro, nieto de la estrella del mundo del cine de Hollywood, Robert De Niro. El joven de 19 años fue halla… [+1948 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Pablo Naranjo",
+      "Title": "Mucho premio y poco arropar al niño: las desgarradoras historias de estos actores de Hollywood con sus hijos",
+      "Description": "Nacer como el hijo de un personaje famoso te lanza al estrellato desde la cuna y es algo que, te guste o no, te lo tienes que comer. Ser una celebridad archiconocida en el globo terráqueo no te convierte en un buen padre, y si no que se lo digan a esta lista …",
+      "Url": "https://www.trendencias.com/celebrities/mucho-premio-poco-arropar-al-nino-desgarradoras-historias-estos-actores-hollywood-sus-hijos",
+      "UrlToImage": "https://i.blogs.es/1e221b/captura-web_5-7-2023_171959_www.espinof.com/840_560.jpeg",
+      "PublishedAt": "2023-07-14T10:01:11Z",
+      "Content": "Nacer como el hijo de un personaje famoso te lanza al estrellato desde la cuna y es algo que, te guste o no, te lo tienes que comer. Ser una celebridad archiconocida en el globo terráqueo no te convi… [+4992 chars]"
+    },
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Andrea Duro, actriz de 'Física o química', y su 'topless' que evita la censura con dos detalles",
+      "Description": "Semidesnuda y tapándose los pechos. Así se ha mostrado recientemente a través de las redes,  Andrea Duro, la actriz entre otras de la histórica serie &apos;Física o química&apos;.",
+      "Url": "https://www.marca.com/tiramillas/cine/2023/07/14/64b10f1d268e3e5c728b4582.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/2b5a427872e9143c8f919c8726c04093/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/14/16893282844800.jpg",
+      "PublishedAt": "2023-07-14T09:56:20Z",
+      "Content": "Semidesnuda y tapándose los pechos. Así se ha mostrado recientemente a través de las redes, Andrea Duro, la actriz entre otras de la histórica serie 'Física o química'.\r\nLa intérprete se muestra al n… [+1042 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Formulatv.com"
+      },
+      "Author": "Redacción",
+      "Title": "Lydia Bosch se pronuncia tras el final de 'Mía es la venganza': \"Es una serie buenísima que necesitaba tiempo\"",
+      "Description": "SU COMUNICADO La actriz mantiene la esperanza de retomar 'Mía es la venganza': \"Hemos grabado un final digno, pero de aquí a octubre pueden pasar muchas cosas. A lo mejor luego ese no es el final y continuamos\".Lydia Bosch se pronuncia tras el final de 'Mía e…",
+      "Url": "https://www.formulatv.com/noticias/lydia-bosch-mia-es-la-venganza-necesitaba-tiempo-123508/",
+      "UrlToImage": "https://www.formulatv.com/images/articulos/123000/123508_Lqo40WgaPckE56vYt3172ezFUxL9mRiHJ-hog.jpg",
+      "PublishedAt": "2023-07-14T09:54:28Z",
+      "Content": "Últimamente se está hablando mucho de 'Mía es la venganza', pues era el regreso de las series diarias a Mediaset, habían apostado fuerte por la serie, y ante los bajos datos de audiencia en sus prime… [+2780 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "elDiario.es",
+      "Title": "El mensaje de la presidenta del sindicato de actores a los estudios de Hollywood por la huelga: \"Repartid la riqueza, no podéis existir sin nosotros\"",
+      "Description": "La presidenta del sindicato de actores de Estados Unidos, la actriz Fran Drescher, ha cargado este jueves contra las empresas de Hollywood por su \"avaricia\" a la hora de pagar a los actores y guionistas que hacen sus películas. \"Estamos siendo victimizado por…",
+      "Url": "https://www.eldiario.es/cultura/mensaje-presidenta-sindicato-actores-estudios-hollywood-huelga-repartid-riqueza-no-existir_1_10378044.html",
+      "UrlToImage": "https://static.eldiario.es/clip/083b358d-fd0d-4b9f-b6f9-40d361650ca3_facebook-watermarked-aspect-ratio_default_0_x2433y1309.jpg",
+      "PublishedAt": "2023-07-14T09:41:49Z",
+      "Content": "La presidenta del sindicato de actores de Estados Unidos, la actriz Fran Drescher, ha cargado este jueves contra las empresas de Hollywood por su “avaricia” a la hora de pagar a los actores y guionis… [+2186 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "GQ España",
+      "Title": "Cillian Murphy tiene una colección de coches que es la bomba",
+      "Description": "Su gran salto a la fama masiva se debe a la serie televisiva Peaky Blinders, interpretando al líder de una banda criminal en la Inglaterra de la posguerra, pero Cillian Murphy (Douglas, Condado de Cork, Irlanda, 1976) tiene a sus espaldas una sólida carrera c…",
+      "Url": "https://www.revistagq.com/articulo/cillian-murphy-coleccion-de-coches",
+      "UrlToImage": "https://media.revistagq.com/photos/64b008a76d65adfb0f3a63ff/16:9/w_1280,c_limit/7738094e1e020010fe29251dc16a2930.jpeg",
+      "PublishedAt": "2023-07-14T08:50:54Z",
+      "Content": "Su gran salto a la fama masiva se debe a la serie televisiva Peaky Blinders, interpretando al líder de una banda criminal en la Inglaterra de la posguerra, pero Cillian Murphy (Douglas, Condado de Co… [+1967 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Juan Sanmartín",
+      "Title": "Cómo Star Wars resolvió el eterno misterio del Bigfoot el día en el que Han Solo e Indiana Jones cruzaron caminos",
+      "Description": "Todos conocemos la historia detrás del Bigfoot o Sasquatch. Una suerte de homínido peludo bípedo, de un tamaño colosal y que recorre de forma huidiza los bosques de Norteamérica. Más vinculado con el mundo de la criptozoología que con los hechos empíricos que…",
+      "Url": "https://www.vidaextra.com/cultura/como-star-wars-resolvio-eterno-misterio-bigfoot-dia-que-han-solo-e-indiana-jones-cruzaron-caminos",
+      "UrlToImage": "https://i.blogs.es/90964b/han-solo-vs-indiana-jones-jpeg-64786bca414d9/840_560.jpeg",
+      "PublishedAt": "2023-07-14T06:01:07Z",
+      "Content": "Todos conocemos la historia detrás del Bigfoot o Sasquatch. Una suerte de homínido peludo bípedo, de un tamaño colosal y que recorre de forma huidiza los bosques de Norteamérica. Más vinculado con el… [+5382 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "EFE Latam Videos",
+      "Title": "El Sindicato de Actores de EE.UU. se declara en huelga y pone en jaque a Hollywood",
+      "Description": "Los Ángeles (EE.UU.), 13 jul (EFE).- El Sindicato de Actores de EE.UU. se declaró en huelga formalmente este jueves, tras la negociaciones fallidas con los estudios de Hollywood para la firma de un nuevo convenio colectivo. El gremio de intérpretes de EE.UU. …",
+      "Url": "https://es-us.noticias.yahoo.com/sindicato-actores-ee-uu-declara-043300176.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/YH37imDWFezF19OrdoCCgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/efe_latam_videos_321/3c7f561826513d00fa0d4c8ff85f73fc",
+      "PublishedAt": "2023-07-14T04:33:00Z",
+      "Content": "Los Ángeles (EE.UU.), 13 jul (EFE).- El Sindicato de Actores de EE.UU. se declaró en huelga formalmente este jueves, tras la negociaciones fallidas con los estudios de Hollywood para la firma de un n… [+4031 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lavozdegalicia.es"
+      },
+      "Author": "La Voz",
+      "Title": "Mario Casas estrena la versión española de «Bird Box»",
+      "Description": "«En España no estamos acostumbrados a hacer este tipo de cine», asegura el actor gallego",
+      "Url": "https://www.lavozdegalicia.es/noticia/series/2023/07/13/mario-casas-estrena-version-espanola-bird-box/00031689247241197711828.htm",
+      "UrlToImage": "https://www.lavozdegalicia.es/default/2023/07/13/00121689247682712655684/Foto/eup_20230629_162057969.jpg",
+      "PublishedAt": "2023-07-14T03:00:00Z",
+      "Content": "En el 2018 Netflix estren Bird Box, pelcula protagonizada por Sandra Bullock que se convirti en un xito mundial y uno de los filmes ms vistos de la historia de la plataforma. Ahora llega su primera c… [+3584 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Digital",
+      "Title": "Emilia Guiú: La actriz del Cine de Oro que tuvo un hijo que triunfó en Timbiriche y RBD",
+      "Description": "Sin duda, algunos actores y actrices de la Época de Oro del Cine Mexicano dejaron un gran legado a través de sus películas, pero también con su descendencia, ya que varios hijos de famosos del Cine de Oro se convirtieron en actores y músicos.Tal es el caso de…",
+      "Url": "https://www.milenio.com/espectaculos/cine/cine-de-oro-emilia-guiu-actriz-hijo-rbd",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2022/06/30/emilia-guiu-actriz-cine-oro.jpg",
+      "PublishedAt": "2023-07-13T23:15:00Z",
+      "Content": "Sin duda, algunos actores y actrices de la Época de Oro del Cine Mexicano dejaron un gran legado a través de sus películas, pero también con su descendencia, ya que varios hijos de famosos del Cine d… [+2219 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -652,656 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/a4870b/robert-downey-jr/840_560.jpeg",
       "PublishedAt": "2023-07-12T19:00:51Z",
       "Content": "Si hay un nombre que se ha convertido en historia dentro de Marvel Studios, ese es el de Robert Downey Jr. El actor estadounidense fue quien abrió el camino a una franquicia que ha dejado una marca e… [+1882 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Roberto Ruiz Anderson",
-      "Title": "Tom Holland, el actor que interpreta a Spiderman, se sincera sobre sus problemas con el alcohol",
-      "Description": "El popular actor, que acaba de estrenar la serie 'The Crowded Room' en Apple TV+, ha explicado de manera honesta los motivos por los que decidió dejar de consumir alcohol",
-      "Url": "https://www.elconfidencial.com/cultura/2023-07-12/tom-holland-actor-spiderman-problemas-alcohol_3699321/",
-      "UrlToImage": "https://images.ecestaticos.com/xzjzEPAB0R66U4SsYSxH9afE8Qg=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/e9b/9a3/ad6/e9b9a3ad6423061d6f2358fe5a17700e.jpg",
-      "PublishedAt": "2023-07-12T18:21:00Z",
-      "Content": "Tom Holland se sincera sobre cuánto tiempo lleva sin beber alcohol y su salud mentalEl actor Tom Holland huye de las redes sociales para proteger su salud mental: \"Caigo en espiral\"\r\nEl joven actor i… [+3748 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Jorge Loser",
-      "Title": "Todos los nominados a los Emmy 2023: 'Succession' y 'The Last of Us' lideran la gran batalla de las series en la que 'Obi Wan Kenobi' da la sorpresa",
-      "Description": "Las nominaciones a los Emmy 2023 se anunciaron según lo planeado el 12 de julio. El presidente de la Academia de Televisión, Frank Scherma, y la actriz Yvette Nicole Brown presentaron las nominaciones en vivo desde Los Ángeles. informando que los Emmy están p…",
-      "Url": "https://www.espinof.com/premios-emmy/todos-nominados-a-emmy-2023-succession-the-last-of-us-lideran-gran-batalla-series-que-obi-wan-kenobi-da-sorpresa",
-      "UrlToImage": "https://i.blogs.es/9855eb/emmy23/840_560.jpeg",
-      "PublishedAt": "2023-07-12T17:01:26Z",
-      "Content": "Las nominaciones a los Emmy 2023 se anunciaron según lo planeado el 12 de julio. El presidente de la Academia de Televisión, Frank Scherma, y la actriz Yvette Nicole Brown presentaron las nominacione… [+3092 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "The Last of Us conquista los Emmys: la adaptación de HBO consigue 24 nominaciones en los premios más prestigiosos de la televisión",
-      "Description": "Aunque haya pasado demasiado tiempo desde que terminó la serie, The Last of Us de HBO se ha coronado como una de las mejores series del año. La adaptación de la obra maestra de Naughty Dog ha sido un verdadero éxito mediático y, como era de esperar, los exper…",
-      "Url": "https://www.vidaextra.com/series/the-last-of-us-conquista-emmys-adaptacion-hbo-consigue-24-nominaciones-premios-prestigiosos-television",
-      "UrlToImage": "https://i.blogs.es/709b51/the-last-of-us/840_560.jpeg",
-      "PublishedAt": "2023-07-12T17:00:54Z",
-      "Content": "Aunque haya pasado demasiado tiempo desde que terminó la serie, The Last of Us de HBO se ha coronado como una de las mejores series del año. La adaptación de la obra maestra de Naughty Dog ha sido un… [+1715 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Los Premios Emmy 2023 desvelan sus nominaciones, con 'Succession', 'The Last of Us' y 'The White Lotus' de favoritas",
-      "Description": "Los Emmy 2023 ya tienen a sus finalistas: Succession, con 27 candidaturas, The Last of Us (24) The White Lotus (23) y Ted Lasso (22) parten como las grandes favoritas para la 75ª edición de los premios de la televisión.Eso es lo que ha dejado de sí la lectura…",
-      "Url": "https://www.eldiario.es/vertele/series/premios-emmy-2023-nominaciones-succession-the-last-of-us-the-white-lotus-favoritas_1_10372407.html",
-      "UrlToImage": "https://static.eldiario.es/clip/2226c00e-bcc4-409e-8990-42be71a0bc51_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-12T16:34:12Z",
-      "Content": "Los Emmy 2023 ya tienen a sus finalistas: Succession, con 27 candidaturas, The Last of Us (24) The White Lotus (23) y Ted Lasso (22)parten como las grandes favoritas para la 75ª edición de los premio… [+6432 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'Zorras', la serie más explícita sobre educación sexual",
-      "Description": "﻿¿Cómo llegar al orgasmo por primera vez? ¿ Qué es el 'squirt' ? ¿Y el BDSM? ' Zorras ' es la propuesta de Atresplayer para este verano que trata de arrojar luz sobre una serie de inquietudes sexuales que escapan a las explicaciones habituales en charlas de e…",
-      "Url": "https://www.abc.es/play/series/noticias/noemi-casquet-educacion-sexual-siempre-miramos-jovenes-20230712203302-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/06/30/poster-zorras-U83111557558XGN-1024x512@abc.jpg",
-      "PublishedAt": "2023-07-12T15:54:24Z",
-      "Content": "¿Cómo llegar al orgasmo por primera vez? ¿Qué es el 'squirt'? ¿Y el BDSM? 'Zorras' es la propuesta de Atresplayer para este verano que trata de arrojar luz sobre una serie de inquietudes sexuales que… [+5818 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia EFE",
-      "Title": "Pedro Pascal nominado al Emmy a mejor actor en serie de drama por The Last Of Us",
-      "Description": "La Academia de la Televisión de Estados Unidos nominó este miércoles al chileno Pedro Pascal protagonista de la serie de HBO The Last of Us, en la categoría de mejor actor en serie de drama para la 75 edición de los Emmy, hasta el momento prevista para el 18 …",
-      "Url": "https://www.milenio.com/espectaculos/famosos/pedro-pascal-nominado-al-emmy-a-mejor-actor-en-serie-de-drama",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/12/pedro-pascal-nominado-emmy-actuacion.jpg",
-      "PublishedAt": "2023-07-12T15:08:00Z",
-      "Content": "La Academia de la Televisión de Estados Unidos nominó este miércoles al chileno Pedro Pascal  protagonista de la serie de HBO The Last of Us, en la categoría de mejor actor en serie de drama para la … [+2670 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "María Domingo",
-      "Title": "Muere Mercedes López de Luzuriaga, Asun en 'Camera Café', a los 95 años",
-      "Description": "1927 - 2023 La actriz bilbaína interpretó diversos personajes en televisión. Su papel más recordado es el de Asun Sempere, la divertida becaria en la serie cómica de Telecinco 'Camera Café'.Muere Mercedes López de Luzuriaga, Asun en 'Camera Café', a los 95 añ…",
-      "Url": "https://www.ecartelera.com/noticias/mercedes-lopez-de-luzuriaga-camera-cafe-asun-74056/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/74000/74056-h2.jpg",
-      "PublishedAt": "2023-07-12T14:53:19Z",
-      "Content": "Mercedes López Luzuriaga, nacida en la localidad vizcaína de Lemóiz, madre de seis hijos y trabajadora del sector médico durante gran parte de su vida falleció el martes 11 de julio de 2023 con 95 añ… [+2456 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Emilia Clarke defiende la actuación frente a pantalla verde criticada por Anthony Hopkins",
-      "Description": "Emilia Clarke se unió hace poco al universo cinematográfico Marvel, esto al ser parte del elenco de la serie Secret Invasion en donde le da vida a G'iah, la hija Skrull de Talos.Y es justo por eso que la actriz ha decidido hablar en defensa de las actuaciones…",
-      "Url": "https://www.milenio.com/espectaculos/television/emilia-clarke-contradice-anthony-hopkins-actuacion-marvel",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/emilia-clarke-instagram.jpg",
-      "PublishedAt": "2023-07-12T13:53:00Z",
-      "Content": "Emilia Clarke se unió hace poco al universo cinematográficoMarvel, esto al ser parte del elenco de la serie Secret Invasion en donde le da vida a G'iah, la hija Skrull de Talos.\r\nY es justo por eso q… [+1654 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fabio.com.ar"
-      },
-      "Author": "Fabio Baccaglioni",
-      "Title": "El idioma original y cómo rompen las pelotas",
-      "Description": "No se trata de wokismo ni nada, estos boludos existieron siempre, yo mismo, cada tanto, tengo alguna rabieta semejante, se trata de una situación común en el cine: el idioma de los personajes.\r\n\nEstá claro que el cine no es un libro de historia, de hecho, cua…",
-      "Url": "https://www.fabio.com.ar/9104-el_idioma_original_y_como_rompen_las_pelotas",
-      "UrlToImage": "https://www.fabio.com.ar/images/reviews34/idiomaoriginal/idiomaoriginal.jpg",
-      "PublishedAt": "2023-07-12T13:30:00Z",
-      "Content": "12/07/2023 - 10:30:00 por Fabio Baccaglioni\r\n - 4 - 0 - En Cine\r\nNo se trata de wokismo ni nada, estos boludos existieron siempre, yo mismo, cada tanto, tengo alguna rabieta semejante, se trata de un… [+4947 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "Albert Sanchis",
-      "Title": "Hollywood afronta una huelga de 160.000 actores sesenta años después. Es algo para lo que no está preparado",
-      "Description": "Que se de una huelga en Hollywood es algo bastante inusual. Que se den dos a la vez es algo prácticamente inaudito. Mientras los guionistas llegan a su décima semana de protestas, una segunda huelga amenaza Hollywood: la de actores. En busca de salarios más a…",
-      "Url": "https://www.xataka.com/cine-y-tv/hollywood-afronta-huelga-160-000-actores-sesenta-anos-despues-algo-para-que-no-esta-preparado",
-      "UrlToImage": "https://i.blogs.es/07aeeb/ny-move-02/840_560.jpeg",
-      "PublishedAt": "2023-07-12T13:00:51Z",
-      "Content": "Que se de una huelga en Hollywood es algo bastante inusual. Que se den dos a la vez es algo prácticamente inaudito. Mientras los guionistas llegan a su décima semana de protestas, una segunda huelga … [+4955 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Muere a los 95 años la actriz Mercedes López de Luzuriaga, la becaria de 'Camera Café'",
-      "Description": "La actriz bilbaína Mercedes López de Luzuriaga, conocida por interpretar a la becaria Asun Sempere en la popular comedia de Telecinco 'Camera café', ha fallecido este miércoles, a los 95 años. El papel de Asun Sampere llegó a López de Luzuriaga en 2005, cuand…",
-      "Url": "https://www.abc.es/play/television/muere-anos-actriz-mercedes-lopez-luzuriaga-becaria-20230712142552-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/07/12/asuntelecinco-U01736277483aay-600x300@abc.jpg",
-      "PublishedAt": "2023-07-12T12:25:53Z",
-      "Content": "La actriz bilbaína Mercedes López de Luzuriaga, conocida por interpretar a la becaria Asun Sempere en la popular comedia de Telecinco 'Camera café', ha fallecido este miércoles, a los 95 años.\r\nEl pa… [+1019 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Tom Kuntz",
-      "Title": "Tom Cruise y la impresionante filmografía que lo ha convertido el actor mejor pagado del mundo",
-      "Description": "En sus 42 años de carrera, la fortuna de Tom Cruise se ha disparado gracias a una filmografía de impresión. A principios de 2023, Variety le nombró el actor mejor pagado del mundo. Lo consiguió gracias a Top Gun 2 y a un sueldo base de 14 millones de dólares …",
-      "Url": "https://www.revistagq.com/articulo/tom-cruise-y-la-impresionante-filmografia-que-lo-ha-convertido-en-el-actor-mejor-pagado-del-mundo",
-      "UrlToImage": "https://media.revistagq.com/photos/64ae641b6d65adfb0f3a631d/16:9/w_1280,c_limit/Tom-Cruise-Fortune.jpg",
-      "PublishedAt": "2023-07-12T11:21:57Z",
-      "Content": "En sus 42 años de carrera, la fortuna de Tom Cruise se ha disparado gracias a una filmografía de impresión. A principios de 2023, Variety le nombró el actor mejor pagado del mundo. Lo consiguió graci… [+2233 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Tom Cruise saltó seis veces por un acantilado para rodar Misión Imposible 7",
-      "Description": "Cada vez que se ve a Tom Cruise realizar una escena de acción temeraria en una entrega de ' Misión Imposible: sentencia mortal' , se puede tener por seguro que se ha grabado sin necesidad de dobles. El famoso actor que interpreta a Ethan Hunt en la saga ha vu…",
-      "Url": "https://www.abc.es/play/cine/noticias/tom-cruise-salto-seis-veces-acantilado-rodar-20230712131227-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/07/12/tom-cruise-salto-U08111762686jkw-600x300@abc.jpg",
-      "PublishedAt": "2023-07-12T11:12:28Z",
-      "Content": "Cada vez que se ve a Tom Cruise realizar una escena de acción temeraria en una entrega de 'Misión Imposible: sentencia mortal', se puede tener por seguro que se ha grabado sin necesidad de dobles. El… [+2994 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "Sound of Freedom, el éxito sorpresa de la cartelera norteamericana, es la película oficial de QAnon",
-      "Description": "“Los grandes estudios no quieren contratarme”, asegura Jim Caviezel, protagonista del éxito sorpresa Sound of Freedom, en una entrevista concedida al medio de comunicación ultraconservador Real America's Voice. “Pero todos ellos están controlados por los banc…",
-      "Url": "https://www.revistagq.com/articulo/sound-of-freedom-qanon",
-      "UrlToImage": "https://media.revistagq.com/photos/64ae6885e4755a6583b8270c/16:9/w_1280,c_limit/Captura%20de%20pantalla%202023-07-12%20a%20las%2010.46.36.png",
-      "PublishedAt": "2023-07-12T11:03:38Z",
-      "Content": "Los grandes estudios no quieren contratarme, asegura Jim Caviezel, protagonista del éxito sorpresa Sound of Freedom, en una entrevista concedida al medio de comunicación ultraconservador Real America… [+4558 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Jorge Loser",
-      "Title": "'Misión Imposible: Sentencia Mortal - Parte 1' demuestra que la saga es mucho más que el circo de Tom Cruise en un inmenso thriller conspiranoico poseído por Buster Keaton",
-      "Description": "Se ha estrenado ‘Misión Imposible: Sentencia Mortal – parte 1’, otra entrega extraordinaria de la mejor saga de agentes secretos del cine actual que continúa con la difícil tarea de superarse a sí misma, aunque en esta ocasión no lo haga de la forma que la ge…",
-      "Url": "https://www.espinof.com/estrenos/mision-imposible-sentencia-mortal-parte-1-demuestra-que-saga-mucho-que-circo-tom-cruise-inmenso-thriller-conspiranoico-poseido-buster-keaton",
-      "UrlToImage": "https://i.blogs.es/5b68a4/mission-impossible-dead-reckoning-part-one_3840x2160/840_560.jpeg",
-      "PublishedAt": "2023-07-12T11:00:48Z",
-      "Content": "Se ha estrenado Misión Imposible: Sentencia Mortal parte 1, otra entrega extraordinaria de la mejor saga de agentes secretos del cine actual que continúa con la difícil tarea de superarse a sí misma,… [+4742 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Cinco adultos y un bebé nonato: los asesinatos satánicos de Charles Manson y su secta de locos",
-      "Description": "El calor estival no fue lo único que hizo hervir la sangre de los estadounidenses el 9 de agosto de 1969. Aquella jornada, en la ciudad de Los Ángeles brotó a la par la ira y el pavor cuando los diarios informaron de que Sharon Tate , la esposa del director R…",
-      "Url": "https://www.abc.es/historia/cinco-adultos-bebe-nonato-asesinatos-satanicos-charles-20230712115455-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/historia/2023/07/12/manson2-U42115164164uza-1024x512@abc.jpg",
-      "PublishedAt": "2023-07-12T10:54:21Z",
-      "Content": "El calor estival no fue lo único que hizo hervir la sangre de los estadounidenses el 9 de agosto de 1969. Aquella jornada, en la ciudad de Los Ángeles brotó a la par la ira y el pavor cuando los diar… [+12871 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Berto Molina",
-      "Title": "'Mía es la venganza': la inesperada decisión tras la cancelación de la serie de Telecinco",
-      "Description": "Un actor de la ficción ofrece un dato clave para todos los seguidores de la historia de Sonia y Mario",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2023-07-12/mia-es-la-venganza-decision-cancelacion-telecinco_3698834/",
-      "UrlToImage": "https://images.ecestaticos.com/ZwBbipAi66tzaYj_klNuB84Gt1Q=/0x0:1790x1088/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/77d/375/273/77d375273bd16ba79254ac7d82915548.jpg",
-      "PublishedAt": "2023-07-12T09:51:00Z",
-      "Content": "Mía es la venganza era la gran apuesta de Telecinco para el arranque de su nuevo plan de rescate. La serie diaria, protagonizada por Lydia Bosch, llegaba a la sobremesa del canal principal de Mediase… [+1837 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Redacción Star Style",
-      "Title": "Nicole Kidman o cómo presumir de abdominales con vestido cut-out de Yves Saint Laurent a los 56",
-      "Description": "La actriz se encuentra en plena promo de su nueva serie Special Ops: Lioness junto a Zoe Saldana, presumiendo de tipazo con un vestido largo negro, escote halter, falda fluida y una maxi flor acompañada de guantes transparentes.",
-      "Url": "https://www.elle.com/es/star-style/el-estilo-de/a44513597/nicole-kidman-abdominales-vestido-cut-out-yves-saint-laurent-56-anos/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1534541529-64ae6913be718.jpg?crop=1.00xw:0.334xh;0,0.0370xh&resize=1200:*",
-      "PublishedAt": "2023-07-12T09:42:00Z",
-      "Content": "Nicole Kidman es una de las celebrities, de las actrices cuya carrera y estilo están siempre a la par, en la cima. Si recorriésemos sus éxitos siempre van de la mano de looks de ensueño que ya se han… [+1606 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "González Pons: «El 23J es fundamental para que España recupere la relevancia y el prestigio perdidos durante estos cinco años»",
-      "Description": "El vicesecretario de Institucional y eurodiputado del PP, Esteban González Pons , ha afirmado que «el próximo 23 de julio , los valencianos y los españoles, nos jugamos mucho respecto a nuestro país como actor global y a su posición en el mundo. También nos j…",
-      "Url": "https://www.abc.es/espana/comunidad-valenciana/gonzalez-pons-23j-fundamental-espana-recupere-relevancia-20230712111636-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2023/07/12/gonzalez-pons-U08317888604Yug-1024x512@abc.jpeg",
-      "PublishedAt": "2023-07-12T09:16:38Z",
-      "Content": "El vicesecretario de Institucional y eurodiputado del PP, Esteban González Pons, ha afirmado que «el próximo 23 de julio, los valencianos y los españoles, nos jugamos mucho respecto a nuestro país co… [+8916 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Marcelo Gil",
-      "Title": "No podemos pasar por alto el rollazo que Damson Idris está derrochando en las pistas de F1",
-      "Description": "Damson Idris pertenece a esa promoción de actores ingleses afrodescendientes que tantos éxitos están cosechando últimamente, quizá sea por la característica flema británica que lucen. Hablamos de intérpretes de la talla de John Boyega, Letitia Wright y Malach…",
-      "Url": "https://www.revistagq.com/articulo/damson-idris-look-fotos-apex-pelicula",
-      "UrlToImage": "https://media.revistagq.com/photos/64ad507f6d65adfb0f3a6304/16:9/w_1280,c_limit/GettyImages-1519084593.jpg",
-      "PublishedAt": "2023-07-12T09:11:13Z",
-      "Content": "Damson Idris pertenece a esa promoción de actores ingleses afrodescendientes que tantos éxitos están cosechando últimamente, quizá sea por la característica flema británica que lucen. Hablamos de int… [+2060 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Eduardo Bravo",
-      "Title": "El rótulo original de Hollywood cumple 100 años",
-      "Description": "¿Se imaginan desplazarse kilómetros para sacarse una selfie frente al cartel de Puerto Banús? ¿Y ante el de Residencial Francisco Hernando, más conocido como “El Pocero”? Pues eso es lo que hacen todos los días cientos de turistas que viajan hasta Los Ángeles…",
-      "Url": "https://www.revistagq.com/articulo/letrero-hollywood-historia",
-      "UrlToImage": "https://media.revistagq.com/photos/64ae5f158e7e7c1e1e0cba53/16:9/w_1280,c_limit/1249393950",
-      "PublishedAt": "2023-07-12T08:44:42Z",
-      "Content": "¿Se imaginan desplazarse kilómetros para sacarse una selfie frente al cartel de Puerto Banús? ¿Y ante el de Residencial Francisco Hernando, más conocido como El Pocero? Pues eso es lo que hacen todos… [+2713 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "Carlos Bonfil",
-      "Title": "Carlos Bonfil: Foro de la cineteca",
-      "Description": "Modelo para armar. Una joven estudiante, escuetamente identificada por la letra L, escribe cartas de amor al pretendiente de quien ha sido separada por un absurdo sistema de castas que le impide casarse con una persona de clase inferior a la suya. Esas cartas…",
-      "Url": "https://www.jornada.com.mx/2023/07/12/opinion/a09o1esp",
-      "UrlToImage": "https://www.jornada.com.mx/2023/07/12/fotos/a09o1esp-1.jpg",
-      "PublishedAt": "2023-07-12T08:32:55Z",
-      "Content": "odelo para armar. Una joven estudiante, escuetamente identificada por la letra L, escribe cartas de amor al pretendiente de quien ha sido separada por un absurdo sistema de castas que le impide casar… [+2528 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "La película de Barbie podría tener un pequeño \"problema\" según las primeras críticas",
-      "Description": "Que la película de Barbie va a ser un éxito de taquilla, de crítica y de público es algo que ya sabemos por descontado. El mundo entero está esperando a que llegue el 21 de julio para poder ir a descubrir el mundo de la muñeca de Mattel interpretada por Margo…",
-      "Url": "https://www.revistagq.com/articulo/pelicula-barbie-ryan-gosling-ken-protagonista",
-      "UrlToImage": "https://media.revistagq.com/photos/64ae57646d65adfb0f3a6316/16:9/w_1280,c_limit/pelicula-barbie-ken-ryan-gosling.jpeg",
-      "PublishedAt": "2023-07-12T07:36:45Z",
-      "Content": "Que la película de Barbie va a ser un éxito de taquilla, de crítica y de público es algo que ya sabemos por descontado. El mundo entero está esperando a que llegue el 21 de julio para poder ir a desc… [+2172 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Crítica de 'Misión imposible: Sentencia mortal': Ethan Hunt, la pócima de la eterna juventud de Tom Cruise",
-      "Description": "La auténtica misión imposible era llegar hasta aquí, treinta años después, con el mismo actor protagonista, Tom Cruise, en el papel de Ethan Hunt, un personaje de ficción que puede darse el lujo de no envejecer y que el tiempo no le impida estar a la altura d…",
-      "Url": "https://www.abc.es/play/cine/criticas/critica-mision-imposible-sentencia-mortal-ethan-hunt-20230711092446-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/07/12/mision-imposible-sentencia-mortal1-U28467232247aGl-1024x512@abc.jpg",
-      "PublishedAt": "2023-07-12T07:27:30Z",
-      "Content": "La auténtica misión imposible era llegar hasta aquí, treinta años después, con el mismo actor protagonista, Tom Cruise, en el papel de Ethan Hunt, un personaje de ficción que puede darse el lujo de n… [+3440 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Inés Álvarez",
-      "Title": "Marcos Ruiz y Miguel del Arco: El entretenimiento no está reñido con el pensamiento",
-      "Description": "Marcos Ruiz (Madrid, 1999) lo hemos visto en películas como 'Primos' y 'Las leyes de la frontera' y en las series 'El nudo' y 'Madres: amor y vida' y Miguel del Arco (Madrid, 1965) es dramaturgo, guionista, director de teatro y cine y actor (en televisión ha …",
-      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20230712/entrevista-marcos-ruiz-miguel-arco-noches-tefia-atresplayer-89753288",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/eca089e0-0d1b-4241-b2e0-c85b6951eb77_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-12T06:01:07Z",
-      "Content": "Marcos Ruiz (Madrid, 1999) lo hemos visto en películas como 'Primos' y 'Las leyes de la frontera' y en las series'El nudo' y 'Madres: amor y vida' y Miguel del Arco (Madrid, 1965) es dramaturgo, guio… [+7851 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Juan Sanmartín",
-      "Title": "\"¿Qué voy a hacer con un puto látigo?\": a Harrison Ford le pareció un disparate el atuendo de Indiana Jones la primera vez que lo vio",
-      "Description": "Ya lleva unos cuantos días en las salas de cine de todo el mundo Indiana Jones y el Dial del Destino. La quinta película de Harrison Ford como el famoso arquélogo nos permite ver de nuevo al actor enfundarse en su legendaria indumentaria a la que ya está acos…",
-      "Url": "https://www.vidaextra.com/cine/que-voy-a-hacer-puto-latigo-a-harrison-ford-le-parecio-disparate-atuendo-indiana-jones-primera-vez-que-vio",
-      "UrlToImage": "https://i.blogs.es/72db1b/image-asset/840_560.jpeg",
-      "PublishedAt": "2023-07-12T06:00:49Z",
-      "Content": "Ya lleva unos cuantos días en las salas de cine de todo el mundo Indiana Jones y el Dial del Destino. La quinta película de Harrison Ford como el famoso arquélogo nos permite ver de nuevo al actor en… [+1657 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "La Afición",
-      "Title": "Max Verstappen dejó en claro que no le interesa la nueva película de Brad Pitt",
-      "Description": "El piloto neerlandés, Max Verstappen, es un tipo muy duro que se ha caracterizado por ser de pocos amigos, muy serio y con una personalidad seria. Y ahora esta forma que le caracteriza salió a la luz nuevamente tras opinar sobre la nueva película que el actor…",
-      "Url": "https://www.milenio.com/deportes/f1/max-verstappen-comento-que-no-le-importa-la-pelicula-de-brad-pitt",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/max-verstappen-asegura-importa-pelicula.jpg",
-      "PublishedAt": "2023-07-12T00:19:00Z",
-      "Content": "El piloto neerlandés, Max Verstappen, es un tipo muy duro que se ha caracterizado por ser de pocos amigos, muy serio y con una personalidad seria. Y ahora esta forma que le caracteriza salió a la luz… [+2094 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencialdigital.com"
-      },
-      "Author": "Amparo Lopez Cal",
-      "Title": "El cambio de Candela Peña: Antes y después",
-      "Description": "En sus inicios \n\n \n \n \n Pelo más claro \n \n \n \n Maquillaje minimalista al audaz \n \n \n \n Versatilidad de vestuario \n \n \n \n Figura destacada en cine y televisión \n \n \n \n \n\n Candela Peña es una reconocida actriz...",
-      "Url": "https://www.elconfidencialdigital.com/articulo/actualidad/cambio-candela-pena-antes-despues/20230711105628605908.html",
-      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/07/11/2023071110310843593.jpg",
-      "PublishedAt": "2023-07-11T22:00:00Z",
-      "Content": "<ol><li>En sus inicios</li><li>Pelo más claro</li><li>Maquillaje minimalista al audaz</li><li>Versatilidad de vestuario</li><li>Figura destacada en cine y televisión</li></ol>Candela Peña es una reco… [+4876 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia EFE",
-      "Title": "Leslie Van Houten, seguidora de Charles Manson, en libertad condicional tras 53 años de prisión",
-      "Description": "Leslie Van Houten, integrante de la secta conocida como la 'Familia Manson', fue liberada este martes de una prisión de California (Estados Unidos) tras haber pasado 53 años entre rejas por su participación en dos asesinatos, según indicaron medios locales.La…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/integrante-familia-manson-asesinos-sharon-tate-libertad",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/11/leslie-van-houten-seguidora-de.jpg",
-      "PublishedAt": "2023-07-11T21:42:18Z",
-      "Content": "Leslie Van Houten, integrante de la secta conocida como la 'Familia Manson', fue liberada este martes de una prisión de California (Estados Unidos) tras haber pasado 53 años entre rejas por su partic… [+2042 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Perfil.com"
-      },
-      "Author": "Carolina Cuellar",
-      "Title": "Murió Marcela Ruiz, actriz de Chiquititas, Floricienta y Los Simuladores, a los 79 años",
-      "Description": "El último trabajo de la actriz y directora de larga trayectoria, fue en la serie María Marta, el crimen del country. Leer más",
-      "Url": "https://exitoina.perfil.com/noticias/destacada/murio-marcela-ruiz-actriz-de-chiquititas-floricienta-y-los-simuladores-79-anos.phtml",
-      "UrlToImage": "https://fotos.perfil.com/2023/07/11/trim/1140/641/marcela-ruiz-1608041.jpg",
-      "PublishedAt": "2023-07-11T20:54:58Z",
-      "Content": "La Asociación Argentina de Actores confirmó el martes 11 de julio la noticia de la muerte de Marcela Ruiz, actriz y directora con una larga trayectoria que brilló en recordadas ficciones como Perla N… [+1671 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Perfil.com"
-      },
-      "Author": "Vanesa Odino",
-      "Title": "De qué trata El cuerpo en llamas, la nueva serie protagonizada por Úrsula Corberó",
-      "Description": "La producción llegará a Netflix en septiembre y ya generó mucho revuelo entre los fans de la actriz. Leer más",
-      "Url": "https://caras.perfil.com/noticias/entretenimiento/de-que-trata-el-cuerpo-en-llamas-la-nueva-serie-protagonizada-por-ursula-corbero.phtml",
-      "UrlToImage": "https://fotos.perfil.com/2023/07/11/trim/1140/641/de-que-trata-el-cuerpo-en-llamas-la-nueva-serie-protagonizada-por-ursula-corbero-1608018.jpg",
-      "PublishedAt": "2023-07-11T20:42:21Z",
-      "Content": "Úrsula Corberó, famosa por su papel como Tokio en la exitosa serie de Netflix \"La casa de papel\", vuelve a la plataforma de streaming que la catapultó a la fama mundial con su nueva miniserie \"El cue… [+1696 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hipertextual"
-      },
-      "Author": "Nolan Rada Galindo",
-      "Title": "Se desmiente uno de los rumores más extraños de Tom Cruise",
-      "Description": "Tom Cruise es una de las figuras más importante del cine en la actualidad. Luego de los meses de confinamiento debido a la pandemia por la COVID-19, el actor tomó la bandera en defensa de la experiencia cinematográfica y desde entonces no ha parado en su camp…",
-      "Url": "http://hipertextual.com/2023/07/tom-cruise-personalidad-mision-imposible-7",
-      "UrlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/06/201216-tom-cruise-al-1039.jpg?fit=2500%2C1414&quality=50&strip=all&ssl=1",
-      "PublishedAt": "2023-07-11T18:43:00Z",
-      "Content": "Tom Cruise es una de las figuras más importante del cine en la actualidad. Luego de los meses de confinamiento debido a la pandemia por la COVID-19, el actor tomó la bandera en defensa de la experien… [+3825 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Los hermanos Valle retoman la ficción en su nuevo corto 'Kairós'",
-      "Description": "A pesar de su juventud, los hermanos consaburenses Carlos Valle (32 años) y Roberto Valle (27 años) , reconocen que el amor por el cine les llegó un día, filmando a su familia en su entorno natural y jugando a hacer cine con esa vieja videocámara que su padre…",
-      "Url": "https://www.abc.es/espana/castilla-la-mancha/toledo/hermanos-valle-retoman-ficcion-nuevo-corto-kairos-20230711192033-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2023/07/11/cine1-U55576510536lJD-1024x512@abc.jpg",
-      "PublishedAt": "2023-07-11T18:19:36Z",
-      "Content": "A pesar de su juventud, los hermanos consaburenses Carlos Valle (32 años) y Roberto Valle (27 años), reconocen que el amor por el cine les llegó un día, filmando a su familia en su entorno natural y … [+3923 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Jorge Loser",
-      "Title": "El impresionante nuevo tráiler de 'Ashoka' por fin da un vistazo completo al Gran Almirante Thrawn de la nueva serie de Disney+",
-      "Description": "{\"videoId\":\"x8mg3g4\",\"autoplay\":true,\"title\":\"Ahsoka _ Official Trailer _ Disney+ (2023)\",\"tag\":\"trailer\"}\n \r\n\n\r\n\n Star Wars ha dado un primer vistazo al Gran Almirante Thrawn en un nuevo tráiler de 'Ahsoka', que tendrá un estreno de dos episodios en Disney+ …",
-      "Url": "https://www.espinof.com/trailers/impresionante-nuevo-trailer-ashoka-fin-da-vistazo-completo-al-gran-almirante-thrawn-nueva-serie-disney",
-      "UrlToImage": "https://i.blogs.es/912f41/x720/840_560.jpeg",
-      "PublishedAt": "2023-07-11T17:51:25Z",
-      "Content": "Star Wars ha dado un primer vistazo al Gran Almirante Thrawn en un nuevo tráiler de'Ahsoka', que tendrá un estreno de dos episodios en Disney+ el 23 de agosto. Los asistentes a  Star Wars Celebration… [+1592 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Sergio Cejas (Beld)",
-      "Title": "El nuevo tráiler de Ahsoka tiene todo lo necesario para demostrar que aspira a ser una de las mejores series de Star Wars",
-      "Description": "Las historias del universo de Star Wars se expandirán dentro de unas semanas con el estreno de Ahsoka\r\n, la nueva serie de acción real que se estrenará en exclusiva en Disney Plus. Con motivo de su cada vez más inminente estreno ha salido a la luz un nuevo tr…",
-      "Url": "https://www.vidaextra.com/series/nuevo-trailer-ahsoka-tiene-todo-necesario-para-demostrar-que-aspira-a-ser-mejores-series-star-wars",
-      "UrlToImage": "https://i.blogs.es/60e899/ahsoka/840_560.jpeg",
-      "PublishedAt": "2023-07-11T17:13:09Z",
-      "Content": "Las historias del universo de Star Wars se expandirán dentro de unas semanas con el estreno de Ahsoka\r\n, la nueva serie de acción real que se estrenará en exclusiva en Disney Plus. Con motivo de su c… [+1697 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Rainn Wilson afirma que fue \"infeliz\" durante sus años en 'The Office': \"Nunca fue suficiente\"",
-      "Description": "La versión estadounidense de The Office puso punto y final a su andadura por NBC en 2013. Ha sido una de las ficciones más exitosas de las últimas décadas y con su inclusión en catalálogos de plataformas como Netflix, aún sigue viva. Por ello, la últimas decl…",
-      "Url": "https://www.eldiario.es/vertele/series/rainn-wilson-afirma-infeliz-durante-anos-the-office-suficiente_1_10369645.html",
-      "UrlToImage": "https://static.eldiario.es/clip/00bbf487-0d24-46bd-b4a8-942dcd516b51_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-11T16:23:13Z",
-      "Content": "La versión estadounidense de The Office puso punto y final a su andadura por NBC en 2013. Ha sido una de las ficciones más exitosas de las últimas décadas y con su inclusión en catalálogos de platafo… [+1839 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hola"
-      },
-      "Author": "hola.com",
-      "Title": "Talita Von Fürstenberg cae rendida al vestido verde más famoso del cine que ya llevó Victoria Beckham",
-      "Description": "Y la actriz Keira Knightley lo popularizó hace más de una década",
-      "Url": "https://www.hola.com/fashion/tendencias/2023071175730/talita-von-furstenberg-look-vestido-lencero-verde-pelicula-expiacion/",
-      "UrlToImage": "https://images.hola.com/fashion/imagenes/tendencias/2023071175730/talita-von-furstenberg-look-vestido-lencero-verde-pelicula-expiacion/0-356-822/talita1-t.jpg",
-      "PublishedAt": "2023-07-11T16:19:40Z",
-      "Content": "Desde hace casi un siglo la moda y el cine van de la mano creando auténticos éxitos históricos . Un poderoso gesto con el que demuestran la importancia que tiene la ropa frente a un escenario, cámara… [+3093 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "La docuserie sobre la \"maldición\" de 'Glee' ya tiene cadena y fecha de estreno en España",
-      "Description": "El historial tanto trágico como turbio en torno a Glee ha alimentado páginas y páginas durante años, las suficientes como para que Discovery+ se lanzara a producir un documental para hacer un recuento de esta crónica negra alrededor del reparto de aquella rec…",
-      "Url": "https://www.eldiario.es/vertele/series/docuserie-maldicion-glee-cadena-fecha-estreno-espana_1_10369392.html",
-      "UrlToImage": "https://static.eldiario.es/clip/05d39224-8234-435f-80b1-3a4a62ed6c7e_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-11T15:00:19Z",
-      "Content": "El historial tanto trágico como turbio en torno a Glee ha alimentado páginas y páginas durante años, las suficientes como para que Discovery+ se lanzara a producir un documental para hacer un recuent… [+2555 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.epe.es"
-      },
-      "Author": null,
-      "Title": "El misterio de Nadiuska, el mito del cine erótico que cayó en el olvido entre dificultades económicas y problemas de salud mental",
-      "Description": "Desde mediados de la década de los setenta, las revistas de chicas desnudas empezaron a copar los quioscos y el llamado cine de destape supuso una especie de revulsivo para una sociedad hastiada por el franquismo. Una de sus grandes figuras, Nadiuska, se conv…",
-      "Url": "https://www.epe.es/es/cultura/20230710/misterio-nadiuska-mito-cine-erotico-88785998",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/be48aca6-6799-46bf-93ee-8a8d66ad5ffd_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-11T13:12:56Z",
-      "Content": "Desde mediados de la década de los setenta, las revistas de chicas desnudas empezaron a copar los quioscos y el llamado cine de destape supuso una especie de revulsivo para una sociedad hastiada por … [+10430 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elseptimoarte.net"
-      },
-      "Author": "elseptimoarte",
-      "Title": "Más de 100 películas integran la programación online de Atlántida Film Fest 2023",
-      "Description": "Filmin ha anunciado los más de 100 títulos que integrarán la nueva edición online de Atlántida Film Fest. En su edición número 13, que se celebrará del 24 de julio al 24 de agosto, el mayor festival online de cine de Europa presenta una amplia y variada progr…",
-      "Url": "https://www.elseptimoarte.net/noticias/actualidad-festivales-y-premios/mas-de-100-peliculas-integran-la-programacion-online-de-atlantida-film-fest-2023-45691.html",
-      "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/122833.jpg",
-      "PublishedAt": "2023-07-11T12:21:28Z",
-      "Content": "Filmin ha anunciado los más de 100 títulos que integrarán la nueva edición online de Atlántida Film Fest. En su edición número 13, que se celebrará del 24 de julio al 24 de agosto, el mayor festival … [+11005 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "elDiario.es",
-      "Title": "Luis Tosar y Lucía Freitas: el ingrediente secreto del Festival de las Ideas y la Cultura de elDiario.es",
-      "Description": "Seguimos desvelando el menú del Festival de las Ideas y la Cultura que celebraremos en A Coruña los días 8 y 9 de septiembre. Uno de los platos principales será el que nos prepararán el actor Luis Tosar y la chef Lucía Freitas. El actor gallego se subirá al g…",
-      "Url": "https://www.eldiario.es/festival-de-las-ideas-y-la-cultura/luis-tosar-lucia-freitas-ingrediente-secreto-festival-ideas-cultura-eldiario_1_10367644.html",
-      "UrlToImage": "https://static.eldiario.es/clip/9ae26227-1fd9-44e5-b0de-cbc178144b62_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-11T12:18:57Z",
-      "Content": "Seguimos desvelando el menú del Festival de las Ideas y la Cultura que celebraremos en A Coruña los días 8 y 9 de septiembre. Uno de los platos principales será el que nos prepararán el actor Luis To… [+4608 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Gérard Depardieu, acusado de violación: «Se bajó los pantalones y me mostró su pene»",
-      "Description": "Esta lunes una nueva profesional del sector del cine, que prefiere mantenerse en el anonimato, ha acusado al actor francés Gérard Depardieu (74 años) de agresión sexual en el set de rodaje, aunque de momento no ha presentado denuncia por temor a represalias l…",
-      "Url": "https://www.abc.es/gente/gerard-depardieu-acusado-violacion-bajo-pantalones-mostro-20230711141634-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2023/07/11/Depardieu-U40685282814DdR-1024x512@abc.jpg",
-      "PublishedAt": "2023-07-11T12:16:36Z",
-      "Content": "Esta lunes una nueva profesional del sector del cine, que prefiere mantenerse en el anonimato, ha acusado al actor francés Gérard Depardieu (74 años) de agresión sexual en el set de rodaje, aunque de… [+1828 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Adam Sanchez",
-      "Title": "8 documentales y películas sobre fútbol femenino para ponerte al día antes del Mundial",
-      "Description": "En vísperas del Mundial de Fútbol Femenino, GQ ha preparado una selección de películas sobre fútbol femenino que te ayudarán a conocer la historia de este deporte. A partir del 20 de julio, las 32 mejores naciones del mundo del fútbol femenino lucharán en Aus…",
-      "Url": "https://www.revistagq.com/articulo/8-documentales-y-peliculas-sobre-futbol-femenino-para-ponerte-al-dia-antes-del-mundial",
-      "UrlToImage": "https://media.revistagq.com/photos/64ad3a4ee4755a6583b82619/16:9/w_1280,c_limit/1148542267",
-      "PublishedAt": "2023-07-11T11:54:28Z",
-      "Content": "Les Joueuses #Paslàpourdanser\r\nCon 16 títulos de la liga francesa y 8 de la liga europea desde su creación en 2004, el Olympique Lyonnais se ha consolidado como uno de los clubes más poderosos del fú… [+3910 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "\"¿Por qué no soy una estrella?\". Rainn Wilson afirma que fue infeliz durante el rodaje de 'The Office' porque nunca sintió que fuera suficiente para él",
-      "Description": "Hace poco, Rainn Wilson (o sea, Dwight Schrute) se hizo viral cuando pilló en un avión a alguien a su lado viendo 'The office'. Ahora parece abrazar con fuerza su papel en una de las series más agradables, famosas y divertidas de todos los tiempos, pero no si…",
-      "Url": "https://www.espinof.com/actores-y-actrices/que-no-soy-estrella-rainn-wilson-afirma-que-fue-infeliz-durante-rodaje-the-office-porque-nunca-sintio-que-fuera-suficiente-para",
-      "UrlToImage": "https://i.blogs.es/2c7c87/dwight/840_560.jpeg",
-      "PublishedAt": "2023-07-11T10:40:47Z",
-      "Content": "Hace poco, Rainn Wilson (o sea, Dwight Schrute) se hizo viral cuando pilló en un avión a alguien a su lado viendo 'The office'. Ahora parece abrazar con fuerza su papel en una de las series más agrad… [+2108 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "GQ",
-      "Title": "Robert Downey Jr. escoge las dos películas más importantes de su carrera y, desde luego, no son las que te esperas",
-      "Description": "A tenor de sus últimas declaraciones, podríamos afirmar que Robert Downey Jr. quiere más a Cillian Murphy de lo que se quiere a sí mismo. El hombre que fue Iron Man lleva toda la gira promocional de Oppenheimer, la nueva y esperada película de Christopher Nol…",
-      "Url": "https://www.revistagq.com/articulo/robert-downey-jr-peliculas-mas-importantes",
-      "UrlToImage": "https://media.revistagq.com/photos/64ad113d6d65adfb0f3a62c9/16:9/w_1280,c_limit/Captura%20de%20pantalla%202023-07-11%20a%20las%2010.20.49.png",
-      "PublishedAt": "2023-07-11T09:17:16Z",
-      "Content": "A tenor de sus últimas declaraciones, podríamos afirmar que Robert Downey Jr. quiere más a Cillian Murphy de lo que se quiere a sí mismo. El hombre que fue Iron Man lleva toda la gira promocional de … [+4310 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Hayley Atwell, protagonista de Misión Imposible Sentencia mortal: \"Tom Cruise cree de verdad en el poder del cine\"",
-      "Description": "La actriz británica Hayley Atwell protagoniza junto a Tom Cruise la película Misión Imposible: Sentencia mortal - Parte 1, séptima entrega de la mítica saga de acción.",
-      "Url": "https://www.culturaocio.com/cine/noticia-hayley-atwell-protagonista-mision-imposible-sentencia-mortal-tom-cruise-cree-verdad-poder-cine-20230711110032.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230711110032_1200.jpg",
-      "PublishedAt": "2023-07-11T09:00:32Z",
-      "Content": "LOS ÁNGELES, 11 Jul. (CulturaOcio - Raquel Laguna) - \r\n   La actriz británica Hayley Atwell protagoniza junto a Tom Cruise la películaMisión Imposible: Sentencia mortal - Parte 1, séptima entrega de … [+3097 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Gerard Mart�",
-      "Title": "El actor de Adam Jensen en Deus Ex: Mankind Divided no trabaja en una nueva entrega",
-      "Description": "Elias Toufexis, el actor que participó en Human Revolution y Mankind Divided, afirma en su Twitter que en estos momentos está ocupado, pero que le gustaría trabajar en un nuevo Deus Ex.<!--aa--->Embracer Group, la compañía europea que adquirió el año pasado v…",
-      "Url": "https://vandal.elespanol.com/noticia/1350763804/el-actor-de-adam-jensen-en-deus-ex-mankind-divided-no-trabaja-en-una-nueva-entrega/",
-      "UrlToImage": "https://media.vandal.net/i/ivandal/1200x630/7-2023/20237119292452_1.jpg",
-      "PublishedAt": "2023-07-11T07:56:00Z",
-      "Content": "Embracer Group, la compaa europea que adquiri el ao pasado varios estudios y licencias de Square Enix, cuenta con los derechos de sagas tan importantes como Tomb Raider o Deus Ex, entre otras. Como b… [+2066 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "La probabilidad estadística del amor a primera vista, de Netflix, será la cinta romántica que te reconcilie con el género",
-      "Description": "Si las comedias y/o dramas románticos recientes te han hecho extrañar las de principios de los 2000, puede que La probabilidad estadística del amor a primera vista, de Netflix, por fin te reconcilie con este género cinematográfico, y no solo eso, que incluso …",
-      "Url": "https://www.revistagq.com/articulo/la-probabilidad-estadistica-del-amor-a-primera-vista-netflix-pelicula",
-      "UrlToImage": "https://media.revistagq.com/photos/64ad0421e4755a6583b825f7/16:9/w_1280,c_limit/EN-US_Love_At_First_Sight_Main_Vertical_27x40_RGB_PRE%20(1)%20(1).jpg",
-      "PublishedAt": "2023-07-11T07:31:29Z",
-      "Content": "Si las comedias y/o dramas románticos recientes te han hecho extrañar las de principios de los 2000, puede que La probabilidad estadística del amor a primera vista, de Netflix, por fin te reconcilie … [+1930 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eluniversal.com.co"
-      },
-      "Author": null,
-      "Title": "Cuando Sylvester Stallone llegó a Cartagena",
-      "Description": "El optimismo era un sentimiento generalizado en Cartagena desde mediados de los años 70 y a lo largo de la década de los 80. Comenzaban a desaparecer los viejos cines de barrio y la cartelera cinematográfica se concentró en el Centro. Cines como: Capitol 1 y …",
-      "Url": "https://www.eluniversal.com.co/opinion/columna/cuando-stallone-llego-a-cartagena-XG8558426",
-      "UrlToImage": "https://www.eluniversal.com.co/news-portlet/getogimage/4e0750b3-3852-43c7-a7a0-958d00392759.jpg",
-      "PublishedAt": "2023-07-11T05:00:00Z",
-      "Content": "El optimismo era un sentimiento generalizado en Cartagena desde mediados de los años 70 y a lo largo de la década de los 80. Comenzaban a desaparecer los viejos cines de barrio y la cartelera cinemat… [+2561 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Carlos Sosa",
-      "Title": "Fernando Clavijo, el presidente de Canarias que resucitó cuando casi nadie lo esperaba",
-      "Description": "Fernando Clavijo fue el primer sorprendido por los resultados electorales de mayo pasado. Y no porque su partido saliera triunfador o hubiera mejorado en su apoyo ciudadano respecto a 2019. Todo lo contrario. Desde que él es el líder de Coalición Canaria (CC)…",
-      "Url": "https://www.eldiario.es/canariasahora/politica/fernando-clavijo-presidente-canarias-resucito-nadie-esperaba_1_10365600.html",
-      "UrlToImage": "https://static.eldiario.es/clip/c28eae5a-0ee3-42ef-9dd5-39a8b0558dfc_facebook-watermarked-aspect-ratio_default_0.",
-      "PublishedAt": "2023-07-11T00:03:32Z",
-      "Content": "Fernando Clavijo fue el primer sorprendido por los resultados electorales de mayo pasado. Y no porque su partido saliera triunfador o hubiera mejorado en su apoyo ciudadano respecto a 2019. Todo lo c… [+10168 chars]"
     }
   ]
 }
