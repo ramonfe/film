@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1266,
+  "TotalResults": 1267,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "WLKY Louisville"
+      },
+      "Author": "Danielle Goodman",
+      "Title": "La Grange drive-in hosting a Barbie party alongside movie",
+      "Description": "A summer blockbuster is coming to the Sauerbeck Family Drive-In. The La Grange drive-in theater is going all things pink.",
+      "Url": "https://www.wlky.com/article/la-grange-drive-in-barbie-movie-pink-party-tickets-theaters/44555896",
+      "UrlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/movie-popcorn-1662132589.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "PublishedAt": "2023-07-16T22:22:05Z",
+      "Content": "LA GRANGE, Ky. —A summer blockbuster is coming to the Sauerbeck Family Drive-In and the La Grange drive-in theater is going all things pink.\r\nStarting on Thursday, July 20 until Tuesday, July 25 the … [+720 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://s.france24.com/media/display/909db23e-21c5-11ee-9106-005056a90284/w:1280/p:16x9/a875369b038d1a1cec8ce5cf1b29a1d7c28ec457.jpg",
       "PublishedAt": "2023-07-13T21:38:12Z",
       "Content": "Los Angeles (AFP) Dominic Burgess has been a member of Hollywood's Screen Actors Guild for well over a decade, guest starring in high-profile TV shows from \"Modern Family\" and \"The Good Place\" to \"St… [+4062 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slate Magazine"
-      },
-      "Author": "Dan Kois",
-      "Title": "The New Movie That Will Be Required Viewing for Theater Kids for Decades",
-      "Description": "The delightful Theater Camp gives overdramatic young people what they’ve always craved, whether or not they deserve it.",
-      "Url": "https://slate.com/culture/2023/07/theater-camp-movie-ben-platt-molly-gordon.html",
-      "UrlToImage": "https://compote.slate.com/images/44867485-0513-46e3-a91d-3e853527cfd6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-      "PublishedAt": "2023-07-13T21:30:00Z",
-      "Content": "Its always a conundrum when you get a bunch of theater kids together: What should we watch? Sure, theyll spend a lot of time flirting and dancing around and arguing about Dear Evan Hansen and pretend… [+4957 chars]"
     }
   ]
 }
