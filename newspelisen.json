@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1265,
+  "TotalResults": 1266,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'Mission: Impossible' $80M Debut Ignites Box Office but Misses Expectations",
+      "Description": "After a globe-trotting publicity blitz by star Tom Cruise, \"Mission: Impossible – Dead Reckoning Part One\" launched with a franchise-best $80 million over five days, though it came in shy of industry expectations with a $56.2 million haul over the three-day w…",
+      "Url": "https://www.voanews.com/a/mission-impossible-80m-debut-ignites-box-office-but-misses-expectations-/7183185.html",
+      "UrlToImage": "https://gdb.voanews.com/01000000-0a00-0242-cb98-08db8645bff0_cx0_cy3_cw0_w1200_r1.jpg",
+      "PublishedAt": "2023-07-16T21:54:24Z",
+      "Content": "New York  After a globe-trotting publicity blitz by star Tom Cruise, \"Mission: Impossible Dead Reckoning Part One\" launched with a franchise-best $80 million over five days, though it came in shy of … [+5186 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://compote.slate.com/images/44867485-0513-46e3-a91d-3e853527cfd6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "PublishedAt": "2023-07-13T21:30:00Z",
       "Content": "Its always a conundrum when you get a bunch of theater kids together: What should we watch? Sure, theyll spend a lot of time flirting and dancing around and arguing about Dear Evan Hansen and pretend… [+4957 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Variety"
-      },
-      "Author": "Marcmalkin",
-      "Title": "Engaged ‘Theater Camp’ Stars Ben Platt and Noah Galvin Call Movie ‘Our First Child Together’",
-      "Description": "It’s good to know that Ben Platt and Molly Gordon’s failed childhood romance didn’t keep them from remaining life-long friends. The actors star in “Theater Camp,” a mockumentary about a performing arts summer camp co-directed by Gordon and Nick Lieberman. Sai…",
-      "Url": "https://variety.com/2023/film/columns/theater-camp-ben-platt-noah-galvin-1235668638/",
-      "UrlToImage": "https://variety.com/wp-content/uploads/2023/07/KBU_23_0707783962-1.jpg?w=1000&h=563&crop=1",
-      "PublishedAt": "2023-07-13T21:26:00Z",
-      "Content": "It’s good to know that Ben Platt and Molly Gordon’s failed childhood romance didn’t keep them from remaining life-long friends. The actors star in “Theater Camp,” a mockumentary about a performing ar… [+3035 chars]"
     }
   ]
 }
