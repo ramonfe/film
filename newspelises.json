@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 211,
+  "TotalResults": 212,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "El Periódico",
+      "Title": "'Oppenheimer': dónde se podrá ver la película de Christopher Nolan con la calidad más cercana a la original",
+      "Description": "'Oppenheimer', la nueva película de Christopher Nolan, no podrá proyectarse con la calidad deseada por el director en ninguna sala de cine española a partir de su estreno, el próximo jueves 20 de julio. El británico diseñó el filme para ser reproducido en IMA…",
+      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20230717/oppenheimer-pelicula-christopher-nolan-cines-89997819",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/93e345ed-f5e4-4451-a01a-c3aa78d6e7ed_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-07-17T17:23:34Z",
+      "Content": "'Oppenheimer', la nueva película de Christopher Nolan, no podrá proyectarse con la calidad deseada por el director en ninguna sala de cine española a partir de su estreno, el próximo jueves 20 de jul… [+2902 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/64a3ee768767c8c0bdf7e391/16:9/w_1280,c_limit/oppenheimer-barbie.jpg",
       "PublishedAt": "2023-07-04T10:06:36Z",
       "Content": "Oppenheimer y Barbie se han convertido en las únicas películas de las que todo el mundo habla, y es que ambos filmes no podían ser más diferentes, pero resulta que se estrenan el mismo día, y eso ha … [+2127 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "La increíble historia de George Lazenby, el James Bond con peor suerte",
-      "Description": "Escena pre-créditos: Queanbeyan, Australia\r\n\n\"Yo era un chico de pueblo, con 22 años, cuando me llevé a una muchacha que realmente me gustaba a ver 007 contra el Dr. No. Antes de entrar, pensaba que tenía como un 90% de posibilidades con ella. A la salida, cr…",
-      "Url": "https://www.revistagq.com/articulo/george-lazenby-james-bond-con-peor-suerte",
-      "UrlToImage": "https://media.revistagq.com/photos/5ca5faf8bda594df3633e414/16:9/w_1280,c_limit/lazenby_3748.png",
-      "PublishedAt": "2023-07-04T09:20:07Z",
-      "Content": "El actor llegó a odiar con tal intensidad al hombre que lo había descubierto seis años atrás que se negó a trabajar cuando él estuviese presente en el set. Durante la post-producción de Solo se vive … [+4770 chars]"
     }
   ]
 }
