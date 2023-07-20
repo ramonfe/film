@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 773,
+  "TotalResults": 774,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "LUIS MARTÍNEZ",
+      "Title": "50 años sin Bruce Lee: filósofo y coreógrafo de la patada en las costillas",
+      "Description": "Fue actor antes que luchador y bailarín antes que actor, protagonizó los éxitos más inesperados de la historia del cine y cambió para siempre la manera en que el cine representa el combate Leer",
+      "Url": "https://www.elmundo.es/cultura/cine/2023/07/19/64b6aeece85ece88408b456e.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/78f21ecb77dbba4994f36f04cab580c9/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/18/16896939999527.jpg",
+      "PublishedAt": "2023-07-19T05:10:36Z",
+      "Content": "Actualizado Miércoles,\r\n19\r\njulio\r\n2023\r\n-\r\n07:10\r\nLa pregunta, en realidad, no es \"¿Quién fue Bruce Lee?\" sino, mejor, ¿quién es? En el imaginario de cualquier babyboomer en pie, la respuesta es fác… [+9077 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/yJ8K6zi3Db2_tB5VJsSl9tmc1g0=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/3U3FRCQBPFC2TC66GN5XFNK6UE.jpg",
       "PublishedAt": "2023-07-13T20:00:03Z",
       "Content": "La nueva película de Tom Cruise, Misión Imposible: Sentencia mortal (parte uno), ya se estrenó. Mientras se proyecta en cines de todo el mundo, el actor decidió darles una sorpresa a los fans que asi… [+2761 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Reese Witherspoon y su recuerdo de una escena de sexo que protagonizó a los 19 años: “No fue una buena experiencia”",
-      "Description": "La actriz habló de sus comienzos en el cine y se refirió a la incomodidad que le generó fingir un orgasmo en el film Miedo, de 1996, junto a Mark Wahlberg",
-      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/reese-witherspoon-y-su-recuerdo-de-una-escena-de-sexo-que-protagonizo-junto-a-mark-wahlberg-no-fue-nid13072023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/S20AmnLht6jjkIWUXDpmHFbt_cs=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JFFP7NKIQVG5BDS5KHOO4QEG7M.JPG",
-      "PublishedAt": "2023-07-13T19:39:01Z",
-      "Content": "Reese Witherspoon es una de lasactrices más populares y queridas de Hollywood. Gracias a su talento, constancia y carisma ha sabido ganarse un lugar en la industria tanto delante de la pantalla como … [+5231 chars]"
     }
   ]
 }
