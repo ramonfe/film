@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 772,
+  "TotalResults": 773,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Mandy Moore reveló uno de los principales motivos por los que se sumó a la huelga de actores: “¡Me pagaron un centavo!”",
+      "Description": "La actriz de This Is Us participó este martes de la manifestación que se llevó a cabo en las oficinas de Disney en Burbank, California, en medio del paro que paraliza la industria del cine y la televisión en los Estados Unidos",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/mandy-moore-revelo-uno-de-los-principales-motivos-por-los-que-se-sumo-a-la-huelga-de-actores-me-nid19072023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/61rV1Em1E49kTSk2ljanebHQU4k=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/T6GAYL7XZNFHHIPTXLTXLLDPRY.jpg",
+      "PublishedAt": "2023-07-19T04:41:32Z",
+      "Content": "Desde que comenzó el paro de actores que mantiene en vilo a Hollywood, varios actores fueron retratados en las manifestaciones que se llevan a cabo en las afueras de los edificios de los grandes estu… [+4711 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/S20AmnLht6jjkIWUXDpmHFbt_cs=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/JFFP7NKIQVG5BDS5KHOO4QEG7M.JPG",
       "PublishedAt": "2023-07-13T19:39:01Z",
       "Content": "Reese Witherspoon es una de lasactrices más populares y queridas de Hollywood. Gracias a su talento, constancia y carisma ha sabido ganarse un lugar en la industria tanto delante de la pantalla como … [+5231 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Los actores se unen a los guionistas y van a una huelga que paralizará Hollywood por completo",
-      "Description": "Hollywood se paraliza. Los 160.000 actores representados por su sindicato (SAG-AFTRA) han confirmado que irán a una huelga que se suma a la que mantienen los guionistas desde el pasado 2 de mayo. Lo han anunciado en una rueda de prensa donde han confirmado lo…",
-      "Url": "https://www.eldiario.es/cultura/cine/actores-unen-guionistas-huelga-paralizara-hollywood-completo_1_10375453.html",
-      "UrlToImage": "https://static.eldiario.es/clip/0d8b806c-dba2-4744-8b5b-c2b5a49f58ac_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-13T19:17:06Z",
-      "Content": "Hollywood se paraliza. Los 160.000 actores representados por su sindicato (SAG-AFTRA) han confirmado que irán a una huelga que se suma a la que mantienen los guionistas desde el pasado 2 de mayo. Lo … [+9878 chars]"
     }
   ]
 }
