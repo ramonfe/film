@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1362,
+  "TotalResults": 1363,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Michelle Jaworski",
+      "Title": "The rise of Barbenheimer, the cinematic-social media crossover of the year",
+      "Description": "We saw our fair share of odd movie pairings before Barbenheimer. It’s not unusual to see filmmakers supporting each other’s movies alongside their own, especially amid the uncertain cinematic landscape struggling to recover from the pandemic. We’re not even s…",
+      "Url": "https://www.dailydot.com/unclick/barbenheimer-origin-barbie-oppenheimer-double-feature/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/07/barbenheimer.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-07-19T19:32:59Z",
+      "Content": "We saw our fair share of odd movie pairings before Barbenheimer. Its not unusual to see filmmakers supporting each others movies alongside their own, especially amid the uncertain cinematic landscape… [+20164 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64b56d0eed8b3a51b973eab6/1689683413640/Screen+Shot+2023-07-17+at+9.42.45+AM.jpg?format=1500w",
       "PublishedAt": "2023-07-18T12:30:00Z",
       "Content": "Focus Features has released the first trailer for The Holdovers, an upcoming comedy-drama, which comes from director Alexander Payne and actor Paul Giamatti. I dont know what it is about Paynes movie… [+1269 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "The Super Mario Bros. Movie: When can you watch it online? Check the release date for Netflix US and Peacock",
-      "Description": "After its theatrical run, The Super Mario Bros. Movie is all set to release on Peacock, after which it goes to Netflix US for 10 months. Here are the details.",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/the-super-mario-bros-movie-when-can-you-watch-it-online-check-the-release-date-for-netflix-us-and-peacock/articleshow/101865006.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-101865063,width-1070,height-580,imgsize-66372,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-07-18T12:29:30Z",
-      "Content": "The Super Mario Bros. Movie received a decent response in theatres since its April 2023 release. The animated film based on the much-loved videogame is now slated for release in the Peacock app in th… [+1666 chars]"
     }
   ]
 }
