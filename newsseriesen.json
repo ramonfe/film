@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lesswrong.com"
+      },
+      "Author": "Zvi",
+      "Title": "AI #21: The Cup Overfloweth",
+      "Description": "Published on July 20, 2023 9:30 PM GMTBy the Matt Levine Vacation Rule, I took several days to go to Seattle and there was a truly epic amount of news. We had x.AI, Llama 2, upgrades to ChatGPT, a profile of Anthropic, a ton of very interesting papers on a va…",
+      "Url": "https://www.lesswrong.com/posts/BHdEvjtfwpgrTh825/ai-21-the-cup-overfloweth",
+      "UrlToImage": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28eca0d5-1408-4266-bff9-ab4d2dec9f2b_1760x1612.jpeg",
+      "PublishedAt": "2023-07-20T21:30:17Z",
+      "Content": "By the Matt Levine Vacation Rule, I took several days to go to Seattle and there was a truly epic amount of news. We had x.AI, Llama 2, upgrades to ChatGPT, a profile of Anthropic, a ton of very inte… [+105737 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1289,6 @@
       "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/abbcffa62e96e0b45f80eabf0fd2e991.jpg",
       "PublishedAt": "2023-06-20T22:30:00Z",
       "Content": "For a long while, Netflix has decided the popularity of its most-watched TV series and movies should be determined by how many hours the streaming services customers watched it. So, for instance, if … [+1523 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "'Stranger Things' Season 4 Dethroned as Netflix's Second-Most Popular TV Show Ever - New Ranking Revealed!",
-      "Description": "Netflix has adjusted how they track viewership data, and as a result, there’s been a change in the most popular TV shows of all time on the streamer! The streaming service added an additional metric to the count: average viewership for its programming. This w…",
-      "Url": "https://www.justjared.com/2023/06/20/stranger-things-season-4-dethroned-as-netflixs-second-most-popular-tv-show-ever-new-ranking-revealed/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/06/netflix-most-popular-new-ranking1.jpg",
-      "PublishedAt": "2023-06-20T20:20:57Z",
-      "Content": "Netflix has adjusted how they track viewership data, and as a result, there’s been a change in the most popular TV shows of all time on the streamer!\r\nThe streaming service added an additional metric… [+669 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Knowyourmeme.com"
-      },
-      "Author": "Mateus",
-      "Title": "One Piece (Live-Action Netflix TV Series)",
-      "Description": "One Piece (Live-Action TV Series) is a television show adapting the manga and anime of the same name created by Eichiro Oda. The show is produced by Tomorrow Studios for the streaming service Netflix. The series is expected to premiere on August 31st, 2023. T…",
-      "Url": "https://knowyourmeme.com/memes/subcultures/one-piece-live-action-netflix-tv-series",
-      "UrlToImage": "https://i.kym-cdn.com/entries/icons/original/000/045/400/one_piece_banner.jpg",
-      "PublishedAt": "2023-06-20T14:35:29Z",
-      "Content": "About\r\nOne Piece (Live-Action TV Series) is a television show adapting the manga and anime of the same name created by Eichiro Oda. The show is produced by Tomorrow Studios for the streaming service … [+2184 chars]"
     }
   ]
 }
