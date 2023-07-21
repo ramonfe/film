@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 882,
+  "TotalResults": 884,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "El Tiempo (Colombia)",
+      "Title": "La sorpresiva serie de Netflix que va por su quinta temporada, destronó a “The Witcher” y se convirtió en un boom",
+      "Description": "Se trata de un reality show cuya segunda parte de la quinta temporada y ya es una de las favoritas de la plataforma de streaming",
+      "Url": "https://www.lanacion.com.ar/lifestyle/la-sorpresiva-serie-de-netflix-que-va-por-su-quinta-temporada-destrono-a-the-witcher-y-se-convirtio-nid20072023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/L8XWkGF_So2dNunnsYTxLIvKLpY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/E7HMTFK3SJHLRKNNBVS7ARFSDI.jpg",
+      "PublishedAt": "2023-07-20T20:54:45Z",
+      "Content": "Netflix es una de las plataformas de entretenimiento audiovisual más importante de todas, que suelen maravillar a todos sus más recientes fanáticos.\r\nLo cierto es que este servicio de streaming sumo … [+1400 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De qué trata la serie que HBO Max canceló pero que Netflix rescató y anunció otra temporada",
+      "Description": "El catálogo de las plataformas de streaming se renueva de manera continua y los suscriptores enloquecieron con la llegada de la última entrega de la saga",
+      "Url": "https://www.lanacion.com.ar/espectaculos/de-que-trata-la-serie-que-hbo-max-cancelo-pero-que-netflix-rescato-y-anuncio-otra-temporada-nid20072023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/Q-MT-BPp3r-yQJc3og2-Y6fmEV0=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/G7UQA44AFVHZPCA5JAYWBP72W4.png",
+      "PublishedAt": "2023-07-20T20:13:07Z",
+      "Content": "El catálogo de las plataformas de streaming se renueva continuamente y, al igual que las incorporaciones de la ficción son recurrentes y emocionan a los espectadores, también la decepción y la impote… [+2659 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -97,19 +123,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Xataka Android"
-      },
-      "Author": "Álvaro García M.",
-      "Title": "Que se pierda o se rompa el mando de tu Android TV no tiene por qué ser una mala noticia: mis dos recomendaciones ante estos casos",
-      "Description": "Que entre los cojines de los sofás hay un agujero negro es algo que la ciencia no ha podido probar, pero que sin embargo creo firmemente. Es la única explicación que encuentro a que los mandos del televisor desaparezcan de forma constante y reaparezcan en ese…",
-      "Url": "https://www.xatakandroid.com/tutoriales/que-se-pierda-se-rompa-mando-tu-android-tv-no-tiene-que-ser-mala-noticia-mis-dos-recomendaciones-estos-casos",
-      "UrlToImage": "https://i.blogs.es/a554ab/mando-tv/840_560.jpeg",
-      "PublishedAt": "2023-07-20T16:01:48Z",
-      "Content": "Que entre los cojines de los sofás hay un agujero negro es algo que la ciencia no ha podido probar, pero que sin embargo creo firmemente. Es la única explicación que encuentro a que los mandos del te… [+2859 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Espinof.com"
       },
       "Author": "Mariló Delgado",
@@ -119,6 +132,19 @@
       "UrlToImage": "https://i.blogs.es/4ec679/detective-conan_la-decimocuarta-victima/840_560.jpeg",
       "PublishedAt": "2023-07-20T16:01:48Z",
       "Content": "Decimos mucho que si los mil y pico capítulos de 'One Piece', pero la que tampoco baja el ritmo es 'Detective Conan', que además de superarla en número de episodios de anime con la adaptación del man… [+2043 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka Android"
+      },
+      "Author": "Álvaro García M.",
+      "Title": "Que se pierda o se rompa el mando de tu Android TV no tiene por qué ser una mala noticia: mis dos recomendaciones ante estos casos",
+      "Description": "Que entre los cojines de los sofás hay un agujero negro es algo que la ciencia no ha podido probar, pero que sin embargo creo firmemente. Es la única explicación que encuentro a que los mandos del televisor desaparezcan de forma constante y reaparezcan en ese…",
+      "Url": "https://www.xatakandroid.com/tutoriales/que-se-pierda-se-rompa-mando-tu-android-tv-no-tiene-que-ser-mala-noticia-mis-dos-recomendaciones-estos-casos",
+      "UrlToImage": "https://i.blogs.es/a554ab/mando-tv/840_560.jpeg",
+      "PublishedAt": "2023-07-20T16:01:48Z",
+      "Content": "Que entre los cojines de los sofás hay un agujero negro es algo que la ciencia no ha podido probar, pero que sin embargo creo firmemente. Es la única explicación que encuentro a que los mandos del te… [+2859 chars]"
     },
     {
       "Source": {
@@ -804,7 +830,7 @@
       "Author": "Randy Meeks",
       "Title": "Las 13 mejores películas originales de Netflix, de cine mafioso a clásicos navideños españoles",
       "Description": "El 16 de octubre de 2015, Netflix subía a su servicio la primera película original de su historia, tras años sirviendo de contenedor del resto de estudios, mucho antes de que a casi todos se les ocurriera montar sus propios Netflix. Se trataba de 'Beasts of n…",
-      "Url": "https://www.espinof.com/listas/mejores-peliculas-netflix-toda-su-historia",
+      "Url": "https://www.espinof.com/netflix/mejores-peliculas-netflix-toda-su-historia",
       "UrlToImage": "https://i.blogs.es/909950/mejores-peliculas-netflix/840_560.jpeg",
       "PublishedAt": "2023-07-18T15:01:39Z",
       "Content": "El 16 de octubre de 2015, Netflix subía a su servicio la primera película original de su historia, tras años sirviendo de contenedor del resto de estudios, mucho antes de que a casi todos se les ocur… [+9462 chars]"
@@ -817,7 +843,7 @@
       "Author": "Randy Meeks",
       "Title": "Las 13 mejores películas originales de Netflix, de cine mafioso a clásicos navideños españoles",
       "Description": "El 16 de octubre de 2015, Netflix subía a su servicio la primera película original de su historia, tras años sirviendo de contenedor del resto de estudios, mucho antes de que a casi todos se les ocurriera montar sus propios Netflix. Se trataba de 'Beasts of n…",
-      "Url": "https://www.espinof.com/netflix/mejores-peliculas-netflix-toda-su-historia",
+      "Url": "https://www.espinof.com/listas/mejores-peliculas-netflix-toda-su-historia",
       "UrlToImage": "https://i.blogs.es/909950/mejores-peliculas-netflix/840_560.jpeg",
       "PublishedAt": "2023-07-18T15:01:39Z",
       "Content": "El 16 de octubre de 2015, Netflix subía a su servicio la primera película original de su historia, tras años sirviendo de contenedor del resto de estudios, mucho antes de que a casi todos se les ocur… [+9462 chars]"
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/3d7857/la-oferta-2022/840_560.jpeg",
       "PublishedAt": "2023-07-16T13:01:29Z",
       "Content": "Un productor joven en Hollywood quiere demostrar lo que vale y pone sus ojos en uno de los libros más potentes pero más polémicos del momento. Trata de mover cielo y tierra a pesar de las dudas de un… [+2611 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Xavi Mogrovejo",
-      "Title": "El guionista de The Last of Us desvela si ha escrito o no la película de Borderlands",
-      "Description": "<!--cache-->Craig Mazin, cocreador de The Last of Us en HBO, ha confirmado que no está involucrado con la película de Borderlands y no ha usado ningún seudónimo.<!--aa--->No hace muchos días, se informó que Craig Mazin, guionista y cocreador de la serie de Th…",
-      "Url": "https://vandal.elespanol.com/noticia/1350763914/el-guionista-de-the-last-of-us-desvela-si-ha-escrito-o-no-la-pelicula-de-borderlands/",
-      "UrlToImage": "https://media.vandal.net/i/ivandal/1200x630/7-2023/20237161154098_1.jpg",
-      "PublishedAt": "2023-07-16T10:11:00Z",
-      "Content": "No hace muchos das, se inform que Craig Mazin, guionista y cocreador de la serie de The Last of Us, se bajaba de la pelcula de Borderlands y que firmara el libreto del largometraje ahora a manos de T… [+1983 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Eric Ramirez",
-      "Title": "Cazando Gangas México especial del Amazon Prime Day 2023: las mejores ofertas, promociones y descuentos en tecnología del último día",
-      "Description": "Todo lo bueno tiene un principio y un final, y las promociones y descuento del Amazon Prime Day 2023 están a menos de 24 horas de terminar. Pero todavía te queda casi un día para decidirte por esa pantalla, consola, computadora, smartphone o hasta gadget que …",
-      "Url": "https://www.xataka.com.mx/seleccion/cazando-gangas-mexico-especial-amazon-prime-day-2023-mejores-ofertas-promociones-descuentos-tecnologia-ultimo-dia",
-      "UrlToImage": "https://i.blogs.es/8f0902/cazando-gangas-mexico-amazon-mexico-prime-day-2023-ultimo-dia/840_560.jpeg",
-      "PublishedAt": "2023-07-16T06:00:11Z",
-      "Content": "Todo lo bueno tiene un principio y un final, y las promociones y descuento del Amazon Prime Day 2023 están a menos de 24 horas de terminar. Pero todavía te queda casi un día para decidirte por esa pa… [+8733 chars]"
     }
   ]
 }
