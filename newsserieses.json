@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 878,
+  "TotalResults": 880,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Berto Molina",
+      "Title": "Tráiler de la temporada 2 de '30 monedas', la serie de Álex de la Iglesia en HBO Max",
+      "Description": "Formará parte de la Sección Oficial de la 56ª edición del Festival Internacional de Cinema de Catalunya · Sitges de este año dentro de las Proyecciones Especiales",
+      "Url": "https://www.elconfidencial.com/television/series-tv/2023-07-20/30-monedas-hbo-max-temporada-2_3704831/",
+      "UrlToImage": "https://images.ecestaticos.com/kq-f-UfxsRjBMWZsUV-nSOXBqPg=/0x0:1230x812/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/d4f/151/77b/d4f15177b83b2131d6b7cc1cef339683.jpg",
+      "PublishedAt": "2023-07-20T17:40:00Z",
+      "Content": "En octubre llega a HBO Max la segunda temporada de 30 Monedas, la exitosa ficción de Álex de la Iglesia que hizo las delicias del cada vez más exigente público de contenidos audiovisuales. Ahora, la … [+1607 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Mark Grayson tiene ganas de volver: Invencible presenta un primer adelanto de su segunda temporada en forma de póster",
+      "Description": "Amazon Prime Video tiene en su haber dos de los proyectos del género de superhéroes más sorprendentes de los últimos años. Con la cuarta temporada de The Boys en pausa debido a la huelga de guionistas, hay otra adaptación animada que está a la vuelta de la es…",
+      "Url": "https://www.vidaextra.com/series/mark-grayson-tiene-ganas-volver-invencible-presenta-primer-adelanto-su-segunda-temporada-forma-poster",
+      "UrlToImage": "https://i.blogs.es/f50c41/invincible/840_560.jpeg",
+      "PublishedAt": "2023-07-20T17:31:49Z",
+      "Content": "Amazon Prime Video tiene en su haber dos de los proyectos del género de superhéroes más sorprendentes de los últimos años. Con la cuarta temporada de The Boys en pausa debido a la huelga de guionista… [+1226 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -45,19 +71,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "Este fin de semana tenemos el maratón definitivo de 'Detective Conan' y gratis: tres casos clásicos de Conan Edogawa llegan por tiempo limitado a Pluto TV",
-      "Description": "Decimos mucho que si los mil y pico capítulos de 'One Piece', pero la que tampoco baja el ritmo es 'Detective Conan', que además de superarla en número de episodios de anime con la adaptación del manga de Gōshō Aoyama también sigue estrenando una nueva pelícu…",
-      "Url": "https://www.espinof.com/anime/este-fin-semana-tenemos-maraton-definitivo-detective-conan-gratis-tres-casos-clasicos-conan-edogawa-llegan-tiempo-limitado-a-pluto-tv",
-      "UrlToImage": "https://i.blogs.es/4ec679/detective-conan_la-decimocuarta-victima/840_560.jpeg",
-      "PublishedAt": "2023-07-20T16:01:48Z",
-      "Content": "Decimos mucho que si los mil y pico capítulos de 'One Piece', pero la que tampoco baja el ritmo es 'Detective Conan', que además de superarla en número de episodios de anime con la adaptación del man… [+2043 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Xataka Android"
       },
       "Author": "Álvaro García M.",
@@ -67,6 +80,19 @@
       "UrlToImage": "https://i.blogs.es/a554ab/mando-tv/840_560.jpeg",
       "PublishedAt": "2023-07-20T16:01:48Z",
       "Content": "Que entre los cojines de los sofás hay un agujero negro es algo que la ciencia no ha podido probar, pero que sin embargo creo firmemente. Es la única explicación que encuentro a que los mandos del te… [+2859 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mariló Delgado",
+      "Title": "Este fin de semana tenemos el maratón definitivo de 'Detective Conan' y gratis: tres casos clásicos de Conan Edogawa llegan por tiempo limitado a Pluto TV",
+      "Description": "Decimos mucho que si los mil y pico capítulos de 'One Piece', pero la que tampoco baja el ritmo es 'Detective Conan', que además de superarla en número de episodios de anime con la adaptación del manga de Gōshō Aoyama también sigue estrenando una nueva pelícu…",
+      "Url": "https://www.espinof.com/anime/este-fin-semana-tenemos-maraton-definitivo-detective-conan-gratis-tres-casos-clasicos-conan-edogawa-llegan-tiempo-limitado-a-pluto-tv",
+      "UrlToImage": "https://i.blogs.es/4ec679/detective-conan_la-decimocuarta-victima/840_560.jpeg",
+      "PublishedAt": "2023-07-20T16:01:48Z",
+      "Content": "Decimos mucho que si los mil y pico capítulos de 'One Piece', pero la que tampoco baja el ritmo es 'Detective Conan', que además de superarla en número de episodios de anime con la adaptación del man… [+2043 chars]"
     },
     {
       "Source": {
@@ -752,7 +778,7 @@
       "Author": "Randy Meeks",
       "Title": "Las 13 mejores películas originales de Netflix, de cine mafioso a clásicos navideños españoles",
       "Description": "El 16 de octubre de 2015, Netflix subía a su servicio la primera película original de su historia, tras años sirviendo de contenedor del resto de estudios, mucho antes de que a casi todos se les ocurriera montar sus propios Netflix. Se trataba de 'Beasts of n…",
-      "Url": "https://www.espinof.com/netflix/mejores-peliculas-netflix-toda-su-historia",
+      "Url": "https://www.espinof.com/listas/mejores-peliculas-netflix-toda-su-historia",
       "UrlToImage": "https://i.blogs.es/909950/mejores-peliculas-netflix/840_560.jpeg",
       "PublishedAt": "2023-07-18T15:01:39Z",
       "Content": "El 16 de octubre de 2015, Netflix subía a su servicio la primera película original de su historia, tras años sirviendo de contenedor del resto de estudios, mucho antes de que a casi todos se les ocur… [+9462 chars]"
@@ -765,7 +791,7 @@
       "Author": "Randy Meeks",
       "Title": "Las 13 mejores películas originales de Netflix, de cine mafioso a clásicos navideños españoles",
       "Description": "El 16 de octubre de 2015, Netflix subía a su servicio la primera película original de su historia, tras años sirviendo de contenedor del resto de estudios, mucho antes de que a casi todos se les ocurriera montar sus propios Netflix. Se trataba de 'Beasts of n…",
-      "Url": "https://www.espinof.com/listas/mejores-peliculas-netflix-toda-su-historia",
+      "Url": "https://www.espinof.com/netflix/mejores-peliculas-netflix-toda-su-historia",
       "UrlToImage": "https://i.blogs.es/909950/mejores-peliculas-netflix/840_560.jpeg",
       "PublishedAt": "2023-07-18T15:01:39Z",
       "Content": "El 16 de octubre de 2015, Netflix subía a su servicio la primera película original de su historia, tras años sirviendo de contenedor del resto de estudios, mucho antes de que a casi todos se les ocur… [+9462 chars]"
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.07/article/64b2983059bf5b725b1cd81a.jpg",
       "PublishedAt": "2023-07-15T18:20:24Z",
       "Content": "Este jueves, la Policía arrestó a Rex Heuermann, de 59 años, sospechoso de ser el autor de una serie de asesinatos de mujeres en la costa sur de Long Island, Nueva York (EE.UU.), que lleva más de 10 … [+3587 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Esteban García Marcos",
-      "Title": "Esta recomendación de Stephen King es una locura brutal disponible en HBO Max",
-      "Description": "Hoy os traemos una de las mejores películas de terror que se pueden encontrar este año. La ha recomendado ni más ni menos que el genio del terror que es Stephen King. Por este mismo motivo ya es una película que merece la pena tener en el radar, pero si ademá…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/esta-recomendacion-de-stephen-king-es-una-locura-brutal-disponible-en-hbo-max",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/07/posesion-infernal-el-despertar-evil-dead-rise.jpg?width=1200",
-      "PublishedAt": "2023-07-15T17:01:22Z",
-      "Content": "Esta última recomendación es de una película de terror que ya es historia del cine\r\nHoy os traemos una de las mejores películas de terror que se pueden encontrar este año. La ha recomendado ni más ni… [+3452 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Julio Martín Alarcón",
-      "Title": "Víctor Manuel Saboya: \"Juanito disparó a su hermano a través de un armario; yo estaba allí\"",
-      "Description": "El heredero sin trono italiano protagoniza la serie documental de Netflix 'El príncipe que nunca reinó'",
-      "Url": "https://www.elconfidencial.com/cultura/2023-07-15/victor-manuel-saboya-emerito-juan-carlos_3700673/",
-      "UrlToImage": "https://images.ecestaticos.com/--iMgig4wpLj1UCO3jy-F0IHlpQ=/0x0:1280x720/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/4da/4e9/73d/4da4e973d8e14a31d662ada7d2f82565.jpg",
-      "PublishedAt": "2023-07-15T16:10:00Z",
-      "Content": "Condenar a un rey es un acto político. Lo demostró Oliver Cromwell en Inglaterra en 1649, cuando maniobró contra Carlos I de Inglaterra acusándole de traición. Juzgado y condenado por el Parlamento, … [+8570 chars]"
     }
   ]
 }
