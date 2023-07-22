@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 759,
+  "TotalResults": 760,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Yolanda Díaz consigue la foto con Almodóvar",
+      "Description": "La foto con Pedro Almodóvar es una de las piezas más codiciadas en la izquierda cada vez que hay elecciones y, en esta ocasión, el tanto se lo ha anotado Yolanda Díaz . En el último día de campaña, unas horas antes de que se pusiera fin a esta larga campaña e…",
+      "Url": "https://www.abc.es/cultura/yolanda-diaz-consigue-foto-almodovar-20230721150352-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/cultura/2023/07/21/diaz-almodovar-U57432156186hys-1024x512@abc.jpeg",
+      "PublishedAt": "2023-07-21T13:03:52Z",
+      "Content": "La foto con Pedro Almodóvar es una de las piezas más codiciadas en la izquierda cada vez que hay elecciones y, en esta ocasión, el tanto se lo ha anotado Yolanda Díaz. En el último día de campaña, un… [+3344 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/16/jorge-losa-niega-relacion-ferka.jpg",
       "PublishedAt": "2023-07-16T20:22:45Z",
       "Content": "En el reality show La Casa de los Famosos, una de las parejas más conocidas fue la formada por Jorge Losa y Ferka Quiroz. \r\nTras su salida del programa, Ferka defendió su relación con Jorge, con quie… [+3484 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Fernando Neira",
-      "Title": "Jane Birkin, un ícono europeo que brilló entre el cine, la música y la moda",
-      "Description": "La actriz nacida en Inglaterra murió a los 76 años en su departamento de París; desarrolló la mayor parte de su carrera en Francia",
-      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/jane-birkin-un-icono-europeo-que-brillo-entre-el-cine-la-musica-y-la-moda-nid16072023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/gsdSFBlPioFB0c5oRmrG_I3sZ0w=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HWBE2HP44BEQDITF5FQRNYAVHE.JPG",
-      "PublishedAt": "2023-07-16T19:06:03Z",
-      "Content": "La actriz y cantante inglesa Jane Birkin murió hoy a los 76 años en Francia, país en el que desarrolló la mayor parte de su carrera. En el capítulo de asociaciones de ideas ineludibles, ninguna podrá… [+6624 chars]"
     }
   ]
 }
