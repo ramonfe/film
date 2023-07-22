@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 755,
+  "TotalResults": 756,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "Todo sobre Margot Robbie, la nueva reina de la meca del cine y estrella de 'Barbie' que se planteó decir adiós a Hollywood",
+      "Description": "La actriz australiana está felizmente casada desde hace siete años con Tom Ackerley, productor de la película",
+      "Url": "https://www.hola.com/actualidad/20230721236126/margot-robbie-actriz-del-momento-protagonista-barbie/",
+      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20230721236126/margot-robbie-actriz-del-momento-protagonista-barbie/1-284-118/margotgettyp-t.jpg",
+      "PublishedAt": "2023-07-21T05:50:42Z",
+      "Content": "Si hay un nombre que suena con fuerza esta semana ese es el de Margot Robbie. Su papel en la película Barbie, que acaba de aterrizar en las salas de cine y promete ser un auténtico fenómeno de masas,… [+4096 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://resizer.glanacion.com/resizer/tBI1lAyhbb4DCRPVBkGXYH31QKA=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/QMOEEFVBUFFVHLIX6BFBD32E3U.png",
       "PublishedAt": "2023-07-16T16:48:23Z",
       "Content": "Salma Hayek revolucionó las redes sociales este fin de semana tras hacer pública una fotografía junto a su madre, en donde el parecido entre ambas dejó atónitos a sus seguidores. En el marco del cump… [+3218 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Esteban García Marcos",
-      "Title": "Esta película sobrecogedora tiene la mejor actuación de Christian Bale y está GRATIS en streaming",
-      "Description": "En ocasiones podemos encontrar lugares donde ver películas online gratis y de forma legal de forma muy interesante. Uno podría pensar que esas plataformas solo tienen películas reguleras, pero lo cierto es que en sus catálogos podemos encontrar auténticas joy…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/esta-pelicula-sobrecogedora-tiene-la-mejor-actuacion-de-christian-bale-y-esta-gratis-en-streaming",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/07/el-maquinista.png?width=1200",
-      "PublishedAt": "2023-07-16T14:15:45Z",
-      "Content": "Se trata de una película de culto realmente perturbadora\r\nEn ocasiones podemos encontrar lugares donde ver películas online gratis y de forma legal de forma muy interesante. Uno podría pensar que esa… [+2838 chars]"
     }
   ]
 }
