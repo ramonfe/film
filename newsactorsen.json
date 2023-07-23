@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1008,
+  "TotalResults": 1009,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kemifilani.ng"
+      },
+      "Author": "Dami Kayode",
+      "Title": "\"My box office queen\" Femi Adebayo bows to Funke Akindele as she supports his project - Kemi Filani News",
+      "Description": "Nollywood actor Femi Adebayo Salami has bowed to his female colleague, Funke Akindele after the latter massively supported his project. Funke Akindele had shared a video of Femi Adebayo's highly anticipated epic drama, Jagun Jagun, a Netflix featured movie. T…",
+      "Url": "https://www.kemifilani.ng/entertainment/my-box-office-queen-femi-adebayo-bows-to-funke-akindele-as-she-supports-his-project",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Collage-Maker-22-Jul-2023-10-24-PM-264.jpg",
+      "PublishedAt": "2023-07-22T22:40:50Z",
+      "Content": "Nollywood actor Femi Adebayo Salami has bowed to his female colleague, Funke Akindele after the latter massively supported his project.\r\nFunke Akindele had shared a video of Femi Adebayo’s highly ant… [+1726 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
       "PublishedAt": "2023-07-20T05:41:44Z",
       "Content": "iam working on a movie app and wants to add movie to watchlist.\r\nthis is my Movie model which is on the app Movies\r\nfrom django.db import models\r\n# Create your models here.\r\nfrom django.db import mod… [+4014 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Inside the Magic"
-      },
-      "Author": "Amanda Landwehr",
-      "Title": "Amid Amber Heard Controversy, ‘Aquaman 2’ Receives Backlash for Staggering Use of VFX",
-      "Description": "It’s been a bumpy ride for James Wan’s Aquaman and the Lost Kingdom (2023), which is still months away from its December 2023 premiere date. From disgraced Mera actress Amber Heard’s diminished role in the film to early viewers calling it borderline “unwatcha…",
-      "Url": "https://insidethemagic.net/2023/07/amid-new-amber-heard-controversy-aquaman-2-receives-backlash-for-staggering-use-of-vfx-aml1/",
-      "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2022/12/Aquaman-3.jpg",
-      "PublishedAt": "2023-07-20T03:49:11Z",
-      "Content": "It’s been a bumpy ride for James Wan’s Aquaman and the Lost Kingdom (2023), which is still months away from its December 2023 premiere date. From disgraced Mera actress Amber Heard’s diminished role … [+4337 chars]"
     }
   ]
 }
