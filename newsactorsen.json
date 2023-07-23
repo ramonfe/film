@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1009,
+  "TotalResults": 1010,
   "Articles": [
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "'Oppenheimer's Hearing Took an \"Emotional & Heavy\" Two Weeks to Film Says Cillian Murphy - Collider",
+      "Description": "<ol><li>'Oppenheimer's Hearing Took an \"Emotional & Heavy\" Two Weeks to Film Says Cillian Murphy  Collider\r\n</li><li>Sunshine: Cillian Murphy's Underrated Sci-Fi Movie Is Essential Viewing Before Oppenheimer  MovieWeb\r\n</li><li>You Need to See These Stars' Dr…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vY29sbGlkZXIuY29tL29wcGVuaGVpbWVyLWhlYXJpbmctY2lsbGlhbi1tdXJwaHktY29tbWVudHMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-07-22T23:30:00Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Destiny-Etiko-reacts-as-young-child-rejects-birthday-gifts-because-of-her-Kemi-Filani-blog-min.jpg",
       "PublishedAt": "2023-07-20T06:10:00Z",
       "Content": "Nollywood actress, Destiny Etiko is undeniably well-loved by adults and children.\r\nThe movie star shared a video of a female child who rejected getting a birthday present because of her.\r\nIn the vide… [+2534 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Stackoverflow.com"
-      },
-      "Author": "Stack Overflow",
-      "Title": "Only one movie is being added to watchlist",
-      "Description": "iam working on a movie app and wants to add movie to watchlist.\nthis is my Movie model which is on the app Movies\nfrom django.db import models\n\n# Create your models here.\nfrom django.db import models\nfrom django.contrib.auth.models import User\n\nfrom Crew.mode…",
-      "Url": "https://stackoverflow.com/questions/76726607/only-one-movie-is-being-added-to-watchlist",
-      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
-      "PublishedAt": "2023-07-20T05:41:44Z",
-      "Content": "iam working on a movie app and wants to add movie to watchlist.\r\nthis is my Movie model which is on the app Movies\r\nfrom django.db import models\r\n# Create your models here.\r\nfrom django.db import mod… [+4014 chars]"
     }
   ]
 }
