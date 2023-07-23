@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1507,
+  "TotalResults": 1509,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Dan Heching",
+      "Title": "Who was Ruth Handler? The story behind Barbie's mother figure in the new movie",
+      "Description": "If you're one of many who go to a cool movie theater this weekend to catch a screening of \"Barbie\" (or perhaps, a double-header of \"Barbenheimer\"), you'll almost certainly wonder about the character played by \"Cheers\" star Rhea Perlman.",
+      "Url": "https://www.cnn.com/2023/07/22/entertainment/ruth-handler-barbie-movie/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230722134149-ruth-handler-barbie-file.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2023-07-22T18:55:04Z",
+      "Content": "Editors Note: This article contains spoilers for the new Barbie movie.\r\nIf youre one of many who go to a cool movie theater this weekend to catch a screening of Barbie (or perhaps, a double-header of… [+3590 chars]"
+    },
+    {
+      "Source": {
+        "Id": "techradar",
+        "Name": "TechRadar"
+      },
+      "Author": "Vikki Blake",
+      "Title": "Borderlands movie is out August 2024",
+      "Description": "The beleaguered movie finally exits production hell and secures a solid release date.",
+      "Url": "https://www.techradar.com/gaming/borderlands-movie-is-out-august-2024",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/dd2zVyXDh8CJLDni785TvG-1200-80.jpg",
+      "PublishedAt": "2023-07-22T18:46:40Z",
+      "Content": "The Borderlands feature film will release on August 9, 2024.\r\nThat's according to a tweet posted to the game's official Twitter account, which has revealed that the star-studded feature – which is se… [+1851 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/364ec8d0718e0a24/s.webp",
       "PublishedAt": "2023-07-21T14:52:05Z",
       "Content": "Moviegoers no longer have to worry about paying extra for better seats at theaters operated by AMC Entertainment.The company has abandoned its pricing plan, AMC announced Thursday, leaving the cost o… [+260 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "apnews.com",
-      "Title": "A movie theater chain's plan to charge more for good seats, less for the front row, falls flat",
-      "Description": "Movie theater operator AMC has ditched plans to charge more seats with better sightlines after competitors did not follow along. AMC began the pilot program five months ago in three U.S. markets where it said it charged slightly more for better seats, and les…",
-      "Url": "https://biztoc.com/x/980bd3a1edc1e75c",
-      "UrlToImage": "https://c.biztoc.com/p/980bd3a1edc1e75c/s.webp",
-      "PublishedAt": "2023-07-21T14:48:04Z",
-      "Content": "Movie theater operator AMC has ditched plans to charge more seats with better sightlines after competitors did not follow along. AMC began the pilot program five months ago in three U.S. markets wher… [+233 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "The Associated Press",
-      "Title": "A movie theater chain's plan to charge more for good seats, less for the front row, falls flat",
-      "Description": "Movie theater operator AMC has ditched plans to charge more seats with better sightlines after competitors did not follow along",
-      "Url": "https://abcnews.go.com/Business/wireStory/movie-theater-chains-plan-charge-good-seats-front-101552251",
-      "UrlToImage": "https://s.abcnews.com/images/Entertainment/wirestory_98ec9694aa3b55a115f8d02ac30ab2d3_12x5_992.jpg",
-      "PublishedAt": "2023-07-21T14:47:31Z",
-      "Content": "Movie theater operator AMC has ditched plans to charge more seats with better sightlines after competitors did not follow along. \r\nAMC began the pilot program five months ago in three U.S. markets wh… [+915 chars]"
     }
   ]
 }
