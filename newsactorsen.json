@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1012,
+  "TotalResults": 1013,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "hollywoodreporter.com",
+      "Title": "Jamie Lynn Spears on ‘Zoey 102’ Reunion Movie: “Pinch-Me Moment”",
+      "Description": "Jamie Lynn Spears said reuniting with her Pacific Coast Academy squad for Zoey 102 was a “surreal” experience. During an interview with Entertainment Tonight, published online Thursday, the actress opened up about how the upcoming movie materialized to begin …",
+      "Url": "https://biztoc.com/x/39767773569a9021",
+      "UrlToImage": "https://c.biztoc.com/p/39767773569a9021/s.webp",
+      "PublishedAt": "2023-07-23T03:32:05Z",
+      "Content": "Jamie Lynn Spears said reuniting with her Pacific Coast Academy squad for Zoey 102 was a surreal experience.During an interview with Entertainment Tonight, published online Thursday, the actress open… [+305 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1231,12 +1244,12 @@
         "Name": "Kemifilani.ng"
       },
       "Author": "Mercy Trin",
-      "Title": "\"Why I am dragging Uche Elendu and her cohorts\" Angela Okorie spills (Video) - Kemi Filani News",
-      "Description": "Nollywood actress, Angela Okorie has revealed why she is at war with her colleagues, Uche Elendu, Anita Joseph, and others. In a video posted on her Instagram page, the movie star who has been dragging them for days now revealed that she is only trying to def…",
-      "Url": "https://www.kemifilani.ng/entertainment/angela-okorie-reveals-why-she-is-dragging-uche-elendu-and-her-cohorts",
-      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Why-I-am-at-war-with-Uche-Elendu-and-her-cohorts-Angela-Okorie-Kemi-Filani-blog-min.jpg",
+      "Title": "\"I'm an uncommon Alhaja\" Laide Bakare reveals an unknown fact about herself - Kemi Filani News",
+      "Description": "Nollywood actress, Laide Bakare has revealed an unknown fact about herself. The Yoruba actress, while sharing photos from her outfit to Odunlade Adekola's Orisa movie premiere, described herself as an uncommon Alhaja. According to Laide, she is her Woman's Cr…",
+      "Url": "https://www.kemifilani.ng/entertainment/laide-bakare-declares-herself-an-uncommon-alhaja",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Im-uncommon-Alhaja-Laide-Bakare-makes-declaration-about-herself-Kemi-Filani-blog-min.jpg",
       "PublishedAt": "2023-07-20T11:23:26Z",
-      "Content": "Nollywood actress, Angela Okorie has revealed why she is at war with her colleagues, Uche Elendu, Anita Joseph, and others.\r\nIn a video posted on her Instagram page, the movie star who has been dragg… [+3257 chars]"
+      "Content": "Nollywood actress, Laide Bakare has revealed an unknown fact about herself.\r\nThe Yoruba actress, while sharing photos from her outfit to Odunlade Adekola’s Orisa movie premiere, described herself as … [+1745 chars]"
     },
     {
       "Source": {
@@ -1244,12 +1257,12 @@
         "Name": "Kemifilani.ng"
       },
       "Author": "Mercy Trin",
-      "Title": "\"I'm an uncommon Alhaja\" Laide Bakare reveals an unknown fact about herself - Kemi Filani News",
-      "Description": "Nollywood actress, Laide Bakare has revealed an unknown fact about herself. The Yoruba actress, while sharing photos from her outfit to Odunlade Adekola's Orisa movie premiere, described herself as an uncommon Alhaja. According to Laide, she is her Woman's Cr…",
-      "Url": "https://www.kemifilani.ng/entertainment/laide-bakare-declares-herself-an-uncommon-alhaja",
-      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Im-uncommon-Alhaja-Laide-Bakare-makes-declaration-about-herself-Kemi-Filani-blog-min.jpg",
+      "Title": "\"Why I am dragging Uche Elendu and her cohorts\" Angela Okorie spills (Video) - Kemi Filani News",
+      "Description": "Nollywood actress, Angela Okorie has revealed why she is at war with her colleagues, Uche Elendu, Anita Joseph, and others. In a video posted on her Instagram page, the movie star who has been dragging them for days now revealed that she is only trying to def…",
+      "Url": "https://www.kemifilani.ng/entertainment/angela-okorie-reveals-why-she-is-dragging-uche-elendu-and-her-cohorts",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/07/Why-I-am-at-war-with-Uche-Elendu-and-her-cohorts-Angela-Okorie-Kemi-Filani-blog-min.jpg",
       "PublishedAt": "2023-07-20T11:23:26Z",
-      "Content": "Nollywood actress, Laide Bakare has revealed an unknown fact about herself.\r\nThe Yoruba actress, while sharing photos from her outfit to Odunlade Adekola’s Orisa movie premiere, described herself as … [+1745 chars]"
+      "Content": "Nollywood actress, Angela Okorie has revealed why she is at war with her colleagues, Uche Elendu, Anita Joseph, and others.\r\nIn a video posted on her Instagram page, the movie star who has been dragg… [+3257 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
       "PublishedAt": "2023-07-20T08:25:54Z",
       "Content": "i want to add a movie to watchlist,\r\nthis is the Movie model\r\nfrom django.db import models\r\n# Create your models here.\r\nfrom django.db import models\r\nfrom django.contrib.auth.models import User\r\nfrom… [+4047 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Saahil Chadha was offered SRK's role in Darr",
-      "Description": "Saahil Chadha has revealed in an interview that he was first offered Shah Rukh Khan's role in the thriller movie 'Darr,' directed by Aditya Chopra. He recalled that he gave his consent, and the paperwork was to be completed after the release of Lamhe. However…",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/saahil-chadha-reveals-aditya-chopra-offered-him-shah-rukh-khans-role-in-darr-recalls-getting-replaced-after-yash-chopra-took-over/articleshow/101981365.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-101981365,width-1070,height-580,imgsize-53206,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2023-07-20T08:19:07Z",
-      "Content": "Did you know Shah Rukh Khan, not Ranveer Singh was Sanjay Leela Bhansali's first choice for Khilji in 'Padmaavat'?Shah Rukh Khan was the first choice for Alauddin Khiljis character in 'Padmaavat,' re… [+211 chars]"
     }
   ]
 }
