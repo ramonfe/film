@@ -1,8 +1,463 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1481,
+  "TotalResults": 1516,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "MarketWatch"
+      },
+      "Author": "James Rogers",
+      "Title": ": AMC had its busiest weekend since 2019, boosted by ‘Barbie’ and ‘Oppenheimer’",
+      "Description": "AMC Entertainment Holdings Inc. AMC AMC has had its busiest weekend since 2019, boosted by the blockbuster openings of “Barbie” and “Oppenheimer,” the company said Monday. More than 7.8 million moviegoers in the U.S. and worldwide saw a movie at AMC between T…",
+      "Url": "https://www.marketwatch.com/story/amc-had-its-busiest-weekend-since-2019-boosted-by-barbie-and-oppenheimer-8335a379",
+      "UrlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "PublishedAt": "2023-07-24T12:54:25Z",
+      "Content": "AMC Entertainment Holdings Inc. AMC \r\n AMC,\r\n +1.62%\r\nhas had its busiest weekend since 2019, boosted by the blockbuster openings of Barbie and Oppenheimer, the company said Monday. More than 7.8 mil… [+1243 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Vansh Mehra",
+      "Title": "Outlander Season 8 Release Date Rumors: When is it Coming Out?",
+      "Description": "With season 7 currently going on, the Outlander season 8 release date is also highly anticipated. The series strongly features time travel as a nurse in World War II named Claire Beauchamp Randall mysteriously goes back in time to Scotland in 1743. She ends u…",
+      "Url": "https://www.comingsoon.net/guides/news/1309068-outlander-season-8-release-date-rumors-when-is-it-coming-out",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Outlander.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T12:47:50Z",
+      "Content": "With season 7 currently going on, the Outlander season 8 release date is also highly anticipated. The series strongly features time travel as a nurse in World War II named Claire Beauchamp Randall my… [+2082 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Vansh Mehra",
+      "Title": "Gran Turismo Movie Streaming Release Date Rumors",
+      "Description": "The Gran Turismo Movie streaming release date is hotly anticipated as it is a high-octane sports drama, and fans are wondering when they could stream it. The movie is based on an inspiring real-life tale. It tells the story of an underdog team featuring a hig…",
+      "Url": "https://www.comingsoon.net/guides/news/1308045-gran-turismo-movie-streaming-release-date-rumors",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/GRAN-TURISMO-Official-Trailer-HD-0-5-screenshot.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T12:42:13Z",
+      "Content": "The Gran Turismo Movie streaming release date is hotly anticipated as it is a high-octane sports drama, and fans are wondering when they could stream it.\r\nThe movie is based on an inspiring real-life… [+2407 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Vansh Mehra",
+      "Title": "Meg 2: The Trench Streaming Release Date Rumors",
+      "Description": "The Meg 2: The Trench streaming release is hotly anticipated as it offers a thrilling adventure, and viewers are wondering when they can start streaming the movie. It is a sequel to 2018’s monstrous shark movie, The Meg, which dives even deeper into the origi…",
+      "Url": "https://www.comingsoon.net/guides/news/1307945-meg-2-the-trench-streaming-release-date-rumors",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Meg-2-The-Trench-streaming-release-date.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T12:36:17Z",
+      "Content": "The Meg 2: The Trench streaming release is hotly anticipated as it offers a thrilling adventure, and viewers are wondering when they can start streaming the movie.\r\nIt is a sequel to 2018s monstrous … [+2512 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Vansh Mehra",
+      "Title": "Hijack Episode 7 Release Date & Time",
+      "Description": "The Hijack Episode 7 release date & time have been revealed. The next episode of the show is titled “Brace Brace Brace,” and it arrives on Apple TV+. It will be the epic finale where Sam Nelson, a corporate negotiator, will save all passengers of Flight KA29 …",
+      "Url": "https://www.comingsoon.net/guides/news/1309555-hijack-episode-7-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Hijack-Apple-TV.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T12:31:27Z",
+      "Content": "The Hijack Episode 7 release date &amp; time have been revealed. The next episode of the show is titled Brace Brace Brace, and it arrives on Apple TV+. It will be the epic finale where Sam Nelson, a … [+1960 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Vansh Mehra",
+      "Title": "Heartland Season 17 Streaming Release Date Rumors",
+      "Description": "The Heartland Season 17 streaming release date is hotly anticipated as its popularity has grown across the last few seasons, and fans are wondering when they could stream it. This Canadian series is based on Lauren Brooke’s Heartland book series. It follows t…",
+      "Url": "https://www.comingsoon.net/guides/news/1309539-heartland-season-17-streaming-release-date-rumors",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Heartland.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T12:26:13Z",
+      "Content": "The Heartland Season 17 streaming release date is hotly anticipated as its popularity has grown across the last few seasons, and fans are wondering when they could stream it.\r\nThis Canadian series is… [+2729 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livejournal.com"
+      },
+      "Author": "queenursula",
+      "Title": "'Oppenheimer' sparks online outrage in India due to Hindu scripture scene",
+      "Description": "'Oppenheimer' sparks online outrage in India due to Hindu scripture scene https://t.co/0oMIr1V00g pic.twitter.com/vccvrAcO6I\r\n— Reuters (@Reuters) July 24, 2023A scene in the film Oppenheimer where the protagonist recites a verse from the Bhagwad Gita, consid…",
+      "Url": "https://ohnotheydidnt.livejournal.com/126469646.html",
+      "UrlToImage": "https://l-stat.livejournal.net/img/sign.png",
+      "PublishedAt": "2023-07-24T12:24:59Z",
+      "Content": "'Oppenheimer' sparks online outrage in India due to Hindu scripture scene https://t.co/0oMIr1V00gpic.twitter.com/vccvrAcO6I\r\n— Reuters (@Reuters) July 24, 2023\r\nA scene in the film Oppenheimer where … [+868 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "investopedia.com",
+      "Title": "5 Things to Know Before Markets Open",
+      "Description": "Shares of movie theater chain AMC jump as the company files a revised stock conversion proposal, and Barbie and Oppenheimer bring a big weekend for the box office. Here’s what investors need to know today. AMC Entertainment Holding (AMC) shares surged more th…",
+      "Url": "https://biztoc.com/x/5e571bea6600ac2c",
+      "UrlToImage": "https://c.biztoc.com/p/5e571bea6600ac2c/s.webp",
+      "PublishedAt": "2023-07-24T12:22:03Z",
+      "Content": "Shares of movie theater chain AMC jump as the company files a revised stock conversion proposal, and Barbie and Oppenheimer bring a big weekend for the box office. Heres what investors need to know t… [+307 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Kayleena Pierce-Bohen",
+      "Title": "10 Reasons The Bobs Burgers Movie Was A Box Office Failure (Despite TV Show Success)",
+      "Description": "Bob's Burgers remains a hit TV show for Fox, but when it came time to release the Bob's Burgers movie in 2022, it was a box-office disaster.",
+      "Url": "https://screenrant.com/bobs-burgers-movie-fail-box-office-bomb-why/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/bobs-burgers-movie-flop.jpg",
+      "PublishedAt": "2023-07-24T12:21:20Z",
+      "Content": "Summary\r\n<ul><li> The Bob's Burgers Movie faced competition from big blockbuster sequels, making it challenging to attract a large audience at the box office. </li><li> The movie didn't resonate with… [+7427 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "The Lost Flowers of Alice Hart Streaming Release Date: When Is It Coming Out on Amazon Prime Video?",
+      "Description": "The Lost Flowers of Alice Hart Amazon Prime Video release date is around the corner, and viewers are wondering when they can start streaming The Lost Flowers of Alice Hart. Viewers are interested in seeing The Lost Flowers of Alice Hart as the series will be …",
+      "Url": "https://www.comingsoon.net/guides/news/1309090-the-lost-flowers-of-alice-hart-streaming-release-date-when-is-it-coming-out-on-amazon-prime-video",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/The-Lost-Flowers-of-Alice-Hart.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T12:10:20Z",
+      "Content": "The Lost Flowers of Alice Hart Amazon Prime Video release date is around the corner, and viewers are wondering when they can start streaming The Lost Flowers of Alice Hart.\r\nViewers are interested in… [+2140 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "investorplace.com",
+      "Title": "Why Is AMC Entertainment (AMC) Stock Up 39% Today?",
+      "Description": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AMC Entertainment (AMC) stock is climbing higher on Monday following an update for the movie theater company this morning. The post Why Is AMC Entertainment (AMC) Stock Up 39% Today? appeared firs…",
+      "Url": "https://biztoc.com/x/0b3b30aaa88601c1",
+      "UrlToImage": "https://c.biztoc.com/p/0b3b30aaa88601c1/s.webp",
+      "PublishedAt": "2023-07-24T12:04:10Z",
+      "Content": "InvestorPlace - Stock Market News, Stock Advice &amp; Trading TipsAMC Entertainment (AMC) stock is climbing higher on Monday following an update for the movie theater company this morning.The post Wh… [+261 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eonline.com"
+      },
+      "Author": "Kisha Forde",
+      "Title": "Amy Schumer Honors Women Killed in Trainwreck Theater Shooting",
+      "Description": "Amy Schumer is paying tribute to the two lives lost during the Trainwreck movie theater shooting.\nEight years after a gunman opened fire in a Louisiana theater showing the film, killing two women...",
+      "Url": "https://www.eonline.com/news/1381057/amy-schumer-honors-women-killed-in-trainwreck-movie-theater-shooting-on-8th-anniversary",
+      "UrlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202224/rs_1200x1200-220304092204-1200-Amy-Schumer-Red-Carpet.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "PublishedAt": "2023-07-24T12:03:03Z",
+      "Content": "Amy Schumer is paying tribute to the two lives lost during the Trainwreck movie theater shooting.\r\nEight years after a gunman opened fire in a Louisiana theater showing the film, killing two women an… [+786 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "RHOA Season 15 Episode 13 Release Date & Time",
+      "Description": "The RHOA Season 15 Episode 13 release date and time have been revealed. The next episode will air on Peacock. The next episode, titled “Peach Passion,” will see Drew suggesting that Kandi is spreading the Kissing LaToya rumor to promote her movie. Viewers wil…",
+      "Url": "https://www.comingsoon.net/guides/news/1309532-rhoa-season-15-episode-13-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/RHOA-Season-15-Episode-Release-Date.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T12:02:32Z",
+      "Content": "The RHOA Season 15 Episode 13 release date and time have been revealed. The next episode will air on Peacock. The next episode, titled Peach Passion, will see Drew suggesting that Kandi is spreading … [+1872 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Patently Apple"
+      },
+      "Author": "Jack Purcher",
+      "Title": "Apple TV+ to Release 'The Beanie Bubble' Film this Friday",
+      "Description": "This Friday, the Beanie Bubble movie premieres on Apple TV+ starring Zach Galifianakis, Elizabeth Banks, Sarah Snook, and Geraldine Viswanathan.",
+      "Url": "https://www.patentlyapple.com/2023/07/apple-tv-to-release-the-beanie-bubble-film-this-friday.html",
+      "UrlToImage": "https://patentlyapple.typepad.com/.a/6a0120a5580826970c02c1a6cf19c7200b-600wi",
+      "PublishedAt": "2023-07-24T11:43:43Z",
+      "Content": "This Friday, the Beanie Bubble movie premieres on Apple TV+ starring Zach Galifianakis, Elizabeth Banks, Sarah Snook, and Geraldine Viswanathan.\r\nWhy did the world suddenly treat stuffed animals like… [+639 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Investopedia"
+      },
+      "Author": "Terry Lane",
+      "Title": "5 Things to Know Before Markets Open",
+      "Description": "Shares of movie theater chain AMC jump as the company files a revised stock conversion proposal, and Barbie and Oppenheimer bring a big weekend for the box office. Here’s what investors need to know today.",
+      "Url": "https://www.investopedia.com/5-things-to-know-before-markets-open-july-24-2023-7564483",
+      "UrlToImage": "https://www.investopedia.com/thmb/WXzQOYAzuDm3-KSUv8gnYqrpzAE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1477867661-bc0684db2685457c8e1ba3bf4fecdc19.jpg",
+      "PublishedAt": "2023-07-24T11:18:54Z",
+      "Content": "Shares of movie theater chain AMC jump as the company files a revised stock conversion proposal, and Barbie and Oppenheimer bring a big weekend for the box office. Heres what investors need to know t… [+2056 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "MarketWatch"
+      },
+      "Author": "James Rogers",
+      "Title": ": Cinemark stock rises 1.6% as ‘Barbie’ and ‘Oppenheimer’ enjoy blockbuster opening weekend",
+      "Description": "Shares of movie theater operator Cinemark Holdings Inc. CNK rose 1.6% in premarket trades Monday, boosted by the strong opening weekend box office performance of “Barbie” and “Oppenheimer.” The eagerly-anticipated movies opened Friday. “Barbie” and “Oppenheim…",
+      "Url": "https://www.marketwatch.com/story/cinemark-stock-rises-1-6-as-barbie-and-oppenheimer-enjoy-blockbuster-opening-weekend-77799f4f",
+      "UrlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "PublishedAt": "2023-07-24T11:06:30Z",
+      "Content": "Shares of movie theater operator Cinemark Holdings Inc. \r\n CNK,\r\n -0.83%\r\nrose 1.6% in premarket trades Monday, boosted by the strong opening weekend box office performance of Barbie and Oppenheimer.… [+249 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "finance.yahoo.com",
+      "Title": "'Barbie' buzz likely just a flash in the pan for toymaker Mattel",
+      "Description": "The fanfare around Margot Robbie-starrer \"Barbie\" could jolt the iconic Mattel doll's sales out of a year-long slump, but Wall Street thinks the party in pink will be short-lived. While Mattel will report second-quarter results on Wednesday, days after the th…",
+      "Url": "https://biztoc.com/x/b0fa0499a68f7e6e",
+      "UrlToImage": "https://c.biztoc.com/p/b0fa0499a68f7e6e/s.webp",
+      "PublishedAt": "2023-07-24T10:58:03Z",
+      "Content": "The fanfare around Margot Robbie-starrer \"Barbie\" could jolt the iconic Mattel doll's sales out of a year-long slump, but Wall Street thinks the party in pink will be short-lived.While Mattel will re… [+295 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "My Adventures with Superman Episode 6 Release Date & Time",
+      "Description": "The My Adventures with Superman Episode 6 release date and time have been revealed. The next episode will air on Adult Swim. The next episode will see Superman and Lois Lane try to rescue Jimmy Olsen after he is kidnapped, only for them to deal with mad scien…",
+      "Url": "https://www.comingsoon.net/guides/news/1309510-my-adventures-with-superman-episode-6-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/06/My-Adventures-With-Superman.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T10:52:21Z",
+      "Content": "The My Adventures with Superman Episode 6 release date and time have been revealed. The next episode will air on Adult Swim. The next episode will see Superman and Lois Lane try to rescue Jimmy Olsen… [+1864 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "thestreet.com",
+      "Title": "Barbenheimer Blowout Weekend, New Conversion Plan Send AMC Soaring",
+      "Description": "Get Free Report shares soared higher Monday after summer blockbusters Barbie and Oppenheimer combined for the best box office weekend in four years and the movie theater chain revised plans for a controversial share conversion. 'Barbie', the Warner Bros. Disc…",
+      "Url": "https://biztoc.com/x/582f7585985bded7",
+      "UrlToImage": "https://c.biztoc.com/p/582f7585985bded7/s.webp",
+      "PublishedAt": "2023-07-24T10:50:14Z",
+      "Content": "Get Free Report shares soared higher Monday after summer blockbusters Barbie and Oppenheimer combined for the best box office weekend in four years and the movie theater chain revised plans for a con… [+308 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Vansh Mehra",
+      "Title": "American Ninja Warrior Season 15 Episode 8 Release Date & Time",
+      "Description": "NBC’s American Ninja Warriors Season 15 Episode 8 release date & time has been revealed. The next episode arrives on NBC. So far, we’ve seen the contestants go through 8 qualifying rounds. Episode 8 brings us to the first Semifinals, where the ninjas will go …",
+      "Url": "https://www.comingsoon.net/guides/news/1309079-american-ninja-warrior-season-15-episode-8-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/American-Ninja-Warrior-Season-15.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T10:38:57Z",
+      "Content": "NBCs American Ninja Warriors Season 15 Episode 8 release date &amp; time has been revealed. The next episode arrives on NBC. So far, weve seen the contestants go through 8 qualifying rounds. Episode … [+1684 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Vansh Mehra",
+      "Title": "America’s Got Talent Season 18 Episode 9 Release Date & Time",
+      "Description": "The America’s Got Talent Season 18 Episode 9 release date and time have been revealed. The next episode of the talent show airs on NBC. After giving us a special look at Simon’s most memorable auditions in episode 8, episode 9 will continue with some more aud…",
+      "Url": "https://www.comingsoon.net/guides/news/1309507-americas-got-talent-season-18-episode-9-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/06/Americas-Got-Talent-Season-18-Episode-5-Release-Date.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T10:35:08Z",
+      "Content": "The Americas Got Talent Season 18 Episode 9 release date and time have been revealed. The next episode of the talent show airs on NBC. After giving us a special look at Simons most memorable audition… [+1450 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "The Summer I Turned Pretty Season 2 Episode 6 Release Date & Time",
+      "Description": "The Summer I Turned Pretty Season 2 Episode 6 release date and time have been revealed. The next episode will air on Amazon Prime Video. The Summer I Turned Pretty focuses on a girl named Belly, who is caught in a love triangle between two brothers, Conrad an…",
+      "Url": "https://www.comingsoon.net/guides/news/1309474-the-summer-i-turned-pretty-season-2-episode-6-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/summer-i-turned-pretty-s2-e1688133656715.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T10:32:51Z",
+      "Content": "The Summer I Turned Pretty Season 2 Episode 6 release date and time have been revealed. The next episode will air on Amazon Prime Video. The Summer I Turned Pretty focuses on a girl named Belly, who … [+1928 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "reuters.com",
+      "Title": "'Barbie' buzz likely just a flash in the pan for toymaker Mattel",
+      "Description": "The fanfare around Margot Robbie-starrer \"Barbie\" could jolt the iconic Mattel (MAT.O) doll's sales out of a year-long slump, but Wall Street thinks the party in pink will be short-lived. While Mattel will report second-quarter results on Wednesday, days afte…",
+      "Url": "https://biztoc.com/x/488900b1e79ce7c8",
+      "UrlToImage": "https://c.biztoc.com/p/488900b1e79ce7c8/s.webp",
+      "PublishedAt": "2023-07-24T10:14:07Z",
+      "Content": "The fanfare around Margot Robbie-starrer \"Barbie\" could jolt the iconic Mattel (MAT.O) doll's sales out of a year-long slump, but Wall Street thinks the party in pink will be short-lived.While Mattel… [+290 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "Solar Opposites Season 4 Streaming Release Date: When Is It Coming Out on Hulu?",
+      "Description": "The Solar Opposites Season 4 Hulu release date is around the corner, and viewers are wondering when they can start streaming Solar Opposites Season 4. Viewers are interested to see Solar Opposites Season 4, as they want to see the new direction of the animate…",
+      "Url": "https://www.comingsoon.net/guides/news/1309108-solar-opposites-season-4-streaming-release-date-when-is-it-coming-out-on-hulu",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Solar-Opposites.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T10:01:14Z",
+      "Content": "The Solar Opposites Season 4Hulu release date is around the corner, and viewers are wondering when they can start streaming Solar Opposites Season 4.\r\nViewers are interested to see Solar Opposites Se… [+1916 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Marketscreener.com"
+      },
+      "Author": "Reuters",
+      "Title": "'Barbie' buzz likely just a flash in the pan for toymaker Mattel",
+      "Description": "(marketscreener.com) The fanfare around Margot\nRobbie-starrer \"Barbie\" could jolt the iconic Mattel\ndoll's sales out of a year-long slump, but Wall Street thinks\nthe party in pink will be short-lived.\n While Mattel will report second-quarter results on\nWednes…",
+      "Url": "https://www.marketscreener.com/quote/stock/MATTEL-INC-13462/news/Barbie-buzz-likely-just-a-flash-in-the-pan-for-toymaker-Mattel-44399350/",
+      "UrlToImage": "https://img.zonebourse.com/reuters/2023-07/2023-07-24T100726Z_1_LYNXMPEJ6N0AG_RTROPTP_3_MATTEL-RESULTS.JPG",
+      "PublishedAt": "2023-07-24T10:00:00Z",
+      "Content": "July 24 (Reuters) - The fanfare around Margot\r\nRobbie-starrer \"Barbie\" could jolt the iconic Mattel\r\ndoll's sales out of a year-long slump, but Wall Street thinks\r\nthe party in pink will be short-liv… [+2512 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "Strange Planet Streaming Release Date: When Is It Coming Out on Apple TV+?",
+      "Description": "The Strange Planet Apple TV+ release date is around the corner, and viewers are wondering when they can start streaming Strange Planet. Viewers are interested to see Strange Planet as the upcoming series will be based on Nathan W. Pyle’s best-selling graphic …",
+      "Url": "https://www.comingsoon.net/guides/news/1309075-strange-planet-streaming-release-date-when-is-it-coming-out-on-apple-tv",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Strange-Planet.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T09:57:26Z",
+      "Content": "The Strange Planet Apple TV+ release date is around the corner, and viewers are wondering when they can start streaming Strange Planet.\r\nViewers are interested to see Strange Planet as the upcoming s… [+1845 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "etimes.in",
+      "Title": "Juhi reveals deets about Hum Hain Rahi Pyar Ke",
+      "Description": "Actress Juhi Chawla shared a throwback video clip in which she shared details about a scene from the movie 'Hum Hain Rahi Pyar Ke' with co-star Aamir Khan, which recently completed 30 years of its release. In the clip, she mentioned how Aamir instructed her o…",
+      "Url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/juhi-chawla-reveals-deets-about-the-kurta-scene-in-hum-hain-rahi-pyar-ke-with-aamir-khan/articleshow/102077678.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-102077678,width-1070,height-580,imgsize-20056,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2023-07-24T09:56:21Z",
+      "Content": "Dalip Tahil reveals Aamir Khan cast him in 'Hum Hain Rahi Pyaar Ke' as the film clocks 30 yearsVeteran actor Dalip Tahil recently celebrated the 30th anniversary of his film 'Hum Hain Rahi Pyaar Ke' … [+191 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "Only Murders in the Building Season 3 Streaming Release Date: When Is It Coming Out on Hulu?",
+      "Description": "The Only Murders in the Building Season 3 Hulu release date is around the corner, and viewers are wondering when they can start streaming Only Murders in the Building Season 3. Viewers are interested in seeing Only Murders in the Building Season 3 as the seri…",
+      "Url": "https://www.comingsoon.net/guides/news/1309066-only-murders-in-the-building-season-3-streaming-release-date-when-is-it-coming-out-on-hulu",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Only-Murders-in-the-Building-1.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T09:38:52Z",
+      "Content": "The Only Murders in the Building Season 3 Hulu release date is around the corner, and viewers are wondering when they can start streaming Only Murders in the Building Season 3.\r\nViewers are intereste… [+1982 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "Destination NBA: A G League Odyssey Streaming Release Date: When Is It Coming Out on Amazon Prime Video?",
+      "Description": "The Destination NBA: A G League Odyssey Amazon Prime Video release date is around the corner, and viewers are wondering when they can start streaming the Destination NBA: A G League Odyssey documentary series. Viewers are interested to see the Destination NBA…",
+      "Url": "https://www.comingsoon.net/guides/news/1309039-destination-nba-a-g-league-odyssey-streaming-release-date-when-is-it-coming-out-on-amazon-prime-video",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Destination-NBA_-A-G-League-Odyssey.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T09:34:24Z",
+      "Content": "The Destination NBA: A G League Odyssey Amazon Prime Video release date is around the corner, and viewers are wondering when they can start streaming the Destination NBA: A G League Odyssey documenta… [+2159 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Week Magazine"
+      },
+      "Author": "Brendan Morrow",
+      "Title": "The best Easter eggs and references in 'Barbie' you might have missed",
+      "Description": "Leave it to Greta Gerwig to craft a Barbie movie that references everything from the history of Mattel, Stanley Kubrick films, Disney Channel originals and Michelangelo. From the in-jokes to the story behind those discontinued Barbies and Kens, let's break do…",
+      "Url": "https://theweek.com/culture/entertainment/1025207/the-best-easter-eggs-and-references-in-barbie-you-might-have-missed",
+      "UrlToImage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1689953590/Screen Shot 2023-07-21 at 11.32.46 AM.png",
+      "PublishedAt": "2023-07-24T09:31:07Z",
+      "Content": "Leave it to Greta Gerwig to craft a Barbie movie that references everything from the history of Mattel, Stanley Kubrick films, Disney Channel originals and Michelangelo. From the in-jokes to the stor… [+6511 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "Justified: City Primeval Episode 4 Release Date & Time",
+      "Description": "The Justified: City Primeval Episode 4 release date and time have been revealed. The next episode will air on FX and Hulu. The next episode of Justified: City Primeval will see Deputy U.S. Marshal Raylan Givens deal with the Albanian mob while defense attorne…",
+      "Url": "https://www.comingsoon.net/guides/news/1309468-justified-city-primeval-episode-4-release-date-time",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Justified-City-Primeval-1.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T09:24:36Z",
+      "Content": "The Justified: City Primeval Episode 4 release date and time have been revealed. The next episode will air on FX and Hulu. The next episode of Justified: City Primeval will see Deputy U.S. Marshal Ra… [+2131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Abdul Azim Naushad",
+      "Title": "Demons and Saviors Streaming Release Date: When Is It Coming Out on Hulu?",
+      "Description": "The Demons and Saviors Hulu release date is around the corner, and viewers are wondering when they can start streaming Demons and Saviors. Viewers are interested to see Demons and Saviors as the miniseries promises to tell a fascinating story about a figure k…",
+      "Url": "https://www.comingsoon.net/guides/news/1308990-demons-and-saviors-streaming-release-date-when-is-it-coming-out-on-hulu",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Demons-and-Saviors-Hulu.jpg?resize=1200,630",
+      "PublishedAt": "2023-07-24T09:21:38Z",
+      "Content": "The Demons and Saviors Hulu release date is around the corner, and viewers are wondering when they can start streaming Demons and Saviors.\r\nViewers are interested to see Demons and Saviors as the min… [+1886 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fast Company"
+      },
+      "Author": "Christopher Zara",
+      "Title": "‘Barbie’ and ‘Oppenheimer’ box office success: Movie synergy could be the future of cinema",
+      "Description": "“Barbenheimer” didn’t just work – it spun box office gold. The social media-fueled fusion of Greta Gerwig’s “Barbie” and Christopher Nolan’s “Oppenheimer” brought moviegoers back to the theaters in record numbers this weekend, vastly outperforming projections…",
+      "Url": "https://www.fastcompany.com/90927554/barbie-oppenheimer-box-office-total-record-movies-full-list-opening-weekend-future",
+      "UrlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2023/07/AP23194630241815.jpg",
+      "PublishedAt": "2023-07-24T09:15:00Z",
+      "Content": "“Barbenheimer” didn’t just work – it spun box office gold. The social media-fueled fusion of Greta Gerwig’s “Barbie” and Christopher Nolan’s “Oppenheimer” brought moviegoers back to the theaters in r… [+6263 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Jef Feeley and Michael Leonard",
+      "Title": "AMC Revises Stock-Conversion Plan That Was Rejected by Judge",
+      "Description": "AMC Entertainment has revised a stock-conversion proposal after a surprise court ruling scuttled an earlier version of the plan and caused the movie-theater ...",
+      "Url": "https://finance.yahoo.com/news/amc-revises-stock-conversion-plan-083133431.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/kduOq07VSWbv9GHJBG5U8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/e6ed6bf0-2a00-11ee-ba3f-d58885ac7e33",
+      "PublishedAt": "2023-07-24T08:31:33Z",
+      "Content": "(Bloomberg) AMC Entertainment Holdings Inc. has revised a stock-conversion proposal after a surprise court ruling scuttled an earlier version of the plan and caused the movie-theater chains shares to… [+3881 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Macupdate.com"
+      },
+      "Author": null,
+      "Title": "Tipard Blu-ray Player 6.2.58.133338 - Play Blu-ray disc and Newest Movie with Amazing Video Quality.",
+      "Description": "Do you have rows and rows of Blu-ray discs but have no efficient Blu-ray Player software? \n Tipard Blu-ray Player will meet all your needs to enjoy the latest Blu-ray movies at home. This Blu-ray Playing software cannot play any Blu-ray disc with the amazing …",
+      "Url": "https://www.macupdate.com/app/mac/64403/tipard-blu-ray-player",
+      "UrlToImage": null,
+      "PublishedAt": "2023-07-24T07:08:43Z",
+      "Content": "Do you have rows and rows of Blu-ray discs but have no efficient Blu-ray Player software? \r\nTipard Blu-ray Player will meet all your needs to enjoy the latest Blu-ray movies at home. This Blu-ray Pla… [+900 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -847,461 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-07-22T03:33:02Z",
       "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "marketwatch.com",
-      "Title": "AMC stock surges more than 70% after Delaware judge puts brakes APE-to-stock conversion plan",
-      "Description": "Shares of AMC Entertainment Holdings Inc. rocketed more than 60% higher on Friday after a judge in Delaware shot down a settlement that would have allowed the movie-theater chain to move ahead with a plan, maligned by some investors, to dump more shares onto …",
-      "Url": "https://biztoc.com/x/fbf94d124749b932",
-      "UrlToImage": "https://c.biztoc.com/p/fbf94d124749b932/s.webp",
-      "PublishedAt": "2023-07-22T03:08:03Z",
-      "Content": "Shares of AMC Entertainment Holdings Inc. rocketed more than 60% higher on Friday after a judge in Delaware shot down a settlement that would have allowed the movie-theater chain to move ahead with a… [+279 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Acecomments.mu.nu"
-      },
-      "Author": "WeirdDave",
-      "Title": "Now I Am Become ONT, The Destroyer Of Worlds",
-      "Description": "Big films this just released are Oppenheimer and Barbie. Movie theater lobbies are going to be interesting places this weekend. Anyone plan on seeing either one?...",
-      "Url": "https://acecomments.mu.nu/?post=405421",
-      "UrlToImage": null,
-      "PublishedAt": "2023-07-22T02:00:12Z",
-      "Content": "Big films this just released are Oppenheimer and Barbie. Movie theater lobbies are going to be interesting places this weekend."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "marketwatch.com",
-      "Title": "AMC stock surges 60% after Delaware judge puts brakes on APE-to-stock conversion plan",
-      "Description": "Shares of AMC Entertainment Holdings Inc. rocketed more than 60% higher on Friday after a judge in Delaware shot down a settlement that would have allowed the movie-theater chain to move ahead with a plan, maligned by some investors, to dump more shares onto …",
-      "Url": "https://biztoc.com/x/661b25fb7b8eb1ab",
-      "UrlToImage": "https://c.biztoc.com/p/661b25fb7b8eb1ab/s.webp",
-      "PublishedAt": "2023-07-22T01:04:03Z",
-      "Content": "Shares of AMC Entertainment Holdings Inc. rocketed more than 60% higher on Friday after a judge in Delaware shot down a settlement that would have allowed the movie-theater chain to move ahead with a… [+279 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Rlsbb.ru"
-      },
-      "Author": "OMEGA",
-      "Title": "Brewpub Simulator-TENOKE",
-      "Description": "Release Description: Turn a ruin into a _classy_ brewpubHave you ever wanted to open a pub? Now you can! Give new life to an old run-down brewery that you just inherited. Serve the best (or the worst) beer in town and make a reputation for yourself. Become th…",
-      "Url": "https://rlsbb.ru/brewpub-simulator-tenoke/",
-      "UrlToImage": null,
-      "PublishedAt": "2023-07-22T00:41:51Z",
-      "Content": "Release Description:\r\n Turn a ruin into a _classy_ brewpubHave you ever wanted to open a pub? Now you can! Give new life to an old run-down brewery that you just inherited. Serve the best (or the wor… [+676 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "fortune.com",
-      "Title": "Even with this weekend's ‘Barbenheimer’ premieres, movie theaters are struggling",
-      "Description": "As buzz builds into the premieres of Barbie and Oppenheimer, some on Wall Street are doubting whether the films will be enough to power further gains in movie-theater stocks as a strike by Hollywood writers and actors clouds the outlook for the industry. JPMo…",
-      "Url": "https://biztoc.com/x/139af7ea7af3b44b",
-      "UrlToImage": "https://c.biztoc.com/p/139af7ea7af3b44b/s.webp",
-      "PublishedAt": "2023-07-22T00:38:04Z",
-      "Content": "As buzz builds into the premieres of Barbie and Oppenheimer, some on Wall Street are doubting whether the films will be enough to power further gains in movie-theater stocks as a strike by Hollywood … [+318 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fortune",
-        "Name": "Fortune"
-      },
-      "Author": "Katrina Lewis, Stephanie Hughes, Samantha Stewart, Bloomberg",
-      "Title": "Even with this weekend's ‘Barbenheimer’ premieres, movie theaters are struggling—and the Hollywood strikes risk making things worse",
-      "Description": "The premieres of Barbie and Oppenheimer aren't expected to be enough to reverse the fortunes of movie theater stocks.",
-      "Url": "https://fortune.com/2023/07/21/movie-theaters-barbenheimer-barbie-oppenheimer-hollywood-strike/",
-      "UrlToImage": "https://content.fortune.com/wp-content/uploads/2023/07/GettyImages-1546218422-e1689985237649.jpg?resize=1200,600",
-      "PublishedAt": "2023-07-22T00:23:12Z",
-      "Content": "As buzz builds into the premieres of Barbie and Oppenheimer, some on Wall Street are doubting whether the films will be enough to power further gains in movie-theater stocks as a strike by Hollywood … [+3971 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Michael Leri",
-      "Title": "Mortal Kombat Legends: Cage Match Release Date Revealed in New Trailer",
-      "Description": "Mortal Kombat 1’s new roster additions and comic book character-filled DLC lineup were not the only pieces of Mortal Kombat news to come out of Comic-Con. The next animated film in the franchise also got a new trailer, which revealed the Mortal Kombat Legends…",
-      "Url": "https://www.comingsoon.net/movies/news/1309387-mortal-kombat-legends-cage-match-release-date-new-trailer",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/cage-match.jpg?resize=1200,630",
-      "PublishedAt": "2023-07-22T00:20:27Z",
-      "Content": "Mortal Kombat 1s new roster additions and comic book character-filled DLC lineup were not the only pieces of Mortal Kombat news to come out of Comic-Con. The next animated film in the franchise also … [+2159 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TMZ"
-      },
-      "Author": "TMZ Staff",
-      "Title": "'Barbie' Fans Dress Up To See Movie at The Grove in Los Angeles",
-      "Description": "Fans of Barbie are doing the most as they take in the movie at a famous landmark in Los Angeles ... dressing up in pink for the blockbuster flick. TMZ was on hand Friday at The Grove, where tons of folks piled in to the theater and did their best…",
-      "Url": "https://www.tmz.com/2023/07/21/barbie-fans-dress-up-see-movie-the-grove-los-angeles/",
-      "UrlToImage": "https://imagez.tmz.com/image/03/16by9/2023/07/21/034215879e7341d8910740f7c8e7cdb4_xl.jpg",
-      "PublishedAt": "2023-07-22T00:15:15Z",
-      "Content": "Fans of Barbie are doing the most as they take in the movie at a famous landmark in Los Angeles ... dressing up in pink for the blockbuster flick.\r\nTMZ was on hand Friday at The Grove, where tons of … [+412 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Eden Arielle Gordon",
-      "Title": "Barbie Has Long Been Labeled a Negative Influence on Girls - Will \"Barbie\" Change That?",
-      "Description": "It's the summer of Barbiecore fashion, \"Barbenheimer\" double features, and a worldwide shortage of a specific shade of fluorescent pink. Saying the \"Barbie\" movie has been hotly anticipated is like saying July in New York is hot - it doesn't do a modicum of j…",
-      "Url": "https://www.popsugar.com/entertainment/barbie-womanhood-essay-49230933",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/r7QFZc2fZw_CWq5FR5-2oPsl8Jw=/93x0:2946x1498/fit-in/3000x1500/filters:format_auto():quality(85):upscale()/2023/07/19/875/n/1922283/9daf1b7f64b840d6d3af19.59590987_.jpg",
-      "PublishedAt": "2023-07-21T23:55:02Z",
-      "Content": "It's the summer of Barbiecore fashion, \"Barbenheimer\" double features, and a worldwide shortage of a specific shade of fluorescent pink. Saying the \"Barbie\" movie has been hotly anticipated is like s… [+9065 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Extra"
-      },
-      "Author": "Extra Staff",
-      "Title": "Actors Strike Delays Release of Zendaya’s ‘Challengers’; Film Won’t Premiere at Venice Film Festival",
-      "Description": "Fans will now have to wait a bit longer to see Zendaya’s hot new film “Challengers.”\n The tennis drama, initially set to hit theaters September 15, has had its release pushed back to April 2024, E! News confirms.\n The studio told the outlet the delay is due t…",
-      "Url": "https://extratv.com/2023/07/21/actors-strike-delays-release-of-zendaya-s-challengers-film-won-t-premiere-at-venice-film-festival/",
-      "UrlToImage": "https://extra-images.akamaized.net/image/de/16by9/2023/07/21/de8c8ca970f54893b14ef91b739264dc_xl.jpeg",
-      "PublishedAt": "2023-07-21T23:30:12Z",
-      "Content": "Fans will now have to wait a bit longer to see Zendayas hot new film Challengers.\r\nThe tennis drama, initially set to hit theaters September 15, has had its release pushed back to April 2024, E! News… [+1537 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Brit + Co"
-      },
-      "Author": "Olivia Taylor",
-      "Title": "9 Must-See Movies That Will Convert The Film Haters In Your Life",
-      "Description": "There are generally two types of entertainment lovers: those who gravitate toward TV shows and those who adore the movies. For me personally, I find that it's hard to sit still for two hours, watching the characters live through whatever fantasies are being p…",
-      "Url": "https://www.brit.co/must-see-movies/",
-      "UrlToImage": "https://www.brit.co/media-library/constance-wu-in-crazy-rich-asians-must-see-movies.jpg?id=34652341&width=1200&height=600&coordinates=0%2C214%2C0%2C119",
-      "PublishedAt": "2023-07-21T23:28:46Z",
-      "Content": "There are generally two types of entertainment lovers: those who gravitate toward TV shows and those who adore the movies. For me personally, I find that it's hard to sit still for two hours, watchin… [+6393 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "variety.com",
-      "Title": "Greta Gerwig Refused to Cut a ‘Barbie’ Scene That’s the ‘Heart of the Movie,’ Told Execs: ‘If I Cut That, I Don’t Know Why I’m Making This Film’",
-      "Description": "Greta Gerwig’s “Barbie” is now playing in theaters nationwide, but one if its most emotional scenes might not have made it to the big screen had the filmmaker not held her ground against studio executives. In several interviews before the comedy’s theatrical …",
-      "Url": "https://biztoc.com/x/65fb4603b2a678f7",
-      "UrlToImage": "https://c.biztoc.com/p/65fb4603b2a678f7/s.webp",
-      "PublishedAt": "2023-07-21T22:54:04Z",
-      "Content": "Greta Gerwigs Barbie is now playing in theaters nationwide, but one if its most emotional scenes might not have made it to the big screen had the filmmaker not held her ground against studio executiv… [+295 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Everout.com"
-      },
-      "Author": "EverOut Staff",
-      "Title": "It's a Barbie World (Taylor's Version)",
-      "Description": "Where to Find Specials and Events Celebrating the Eras Tour and the Barbie Movie Release in Seattle This Weekend\n \n by EverOut Staff\n \n \n \n Are you ready for it? Greta Gerwig’s much-anticipated movie Barbie comes out this weekend, and Taylor Swift performs at…",
-      "Url": "https://everout.com/seattle/articles/its-a-barbie-world-taylors-version-where-to-find-specials-and-events-celebrating-the-eras-tour-and-the-barbie-movie-release-in-seattle-this-weekend/c5051/",
-      "UrlToImage": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTY4OTk2NjY5NDY1ODcwNS0zNjIyMzE1NjZfNjUxNzMzOTcwMzE4ODk2XzM3MzYxMTIyMjQ0NTg1MTIyMjlfbi5qcGVnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogMTIwMCwgImhlaWdodCI6IDYzMH19fQ==",
-      "PublishedAt": "2023-07-21T22:47:00Z",
-      "Content": "All contents © Index Newspapers, LLC. 2023800 Maynard Ave S, Ste 200, Seattle, WA 98134"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Rick & Michonne Trailer Reveals The Walking Dead’s Spin-off’s Title",
-      "Description": "The highly anticipated The Walking Dead spin-off series centering on Rick and Michonne has gotten a new title , and a fresh new teaser trailer ahead of its release next year. The series will be titled The Walking Dead: The Ones Who Live, and is set to release…",
-      "Url": "https://www.comingsoon.net/tv/news/1309370-rick-michonne-trailer-reveals-the-walking-deads-spin-offs-title",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/the-walking-dead-the-ones-who-live-rick-and-michonne.png?resize=1200,630",
-      "PublishedAt": "2023-07-21T22:19:57Z",
-      "Content": "The highly anticipated The Walking Dead spin-off series centering on Rick and Michonne has gotten a new title , and a fresh new teaser trailer ahead of its release next year.\r\nThe series will be titl… [+1696 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "'Barbenheimer' frenzy hits North American cinemas",
-      "Description": "\"Barbie\" and \"Oppenheimer\" hit North American movie theaters on Friday, in what is expected to be among Hollywood's biggest weekends of the year -- inspiring a frenzy for the diametrically opposed films.\n\nBut as fans of the iconic toy and history buffs intere…",
-      "Url": "https://www.france24.com/en/live-news/20230721-barbenheimer-frenzy-hits-north-american-cinemas",
-      "UrlToImage": "https://s.france24.com/media/display/aa20bdf6-2813-11ee-a9af-005056bfb2b6/w:1280/p:16x9/b926893da41b6f0cc730f7a5614ab453084a57ba.jpg",
-      "PublishedAt": "2023-07-21T22:12:23Z",
-      "Content": "Washington (AFP) Dolls in neon pink dreamhouses, scientists at Los Alamos, or both? \"Barbie\" and \"Oppenheimer\" hit North American movie theaters on Friday, in what is expected to be among Hollywood's… [+3426 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MarketWatch"
-      },
-      "Author": "Bill Peters",
-      "Title": ": AMC stock surges more than 70% after Delaware judge puts brakes APE-to-stock conversion plan",
-      "Description": "Shares of AMC Entertainment Holdings Inc. AMC rocketed more than 70% higher on Friday after a court in Delaware prevented the movie theater chain from moving forward with a plan, often maligned by some of its retail investors, that would dump more shares onto…",
-      "Url": "https://www.marketwatch.com/story/amc-stock-surges-more-than-70-after-delaware-judge-puts-brakes-ape-to-stock-conversion-plan-14e271f3",
-      "UrlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-      "PublishedAt": "2023-07-21T22:09:00Z",
-      "Content": "Shares of AMC Entertainment Holdings Inc. \r\n AMC,\r\n +1.62%\r\nrocketed more than 70% higher on Friday after a court in Delaware prevented the movie theater chain from moving forward with a plan, often … [+601 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Jeff Ames",
-      "Title": "Christopher Nolan Movies Ranked Including Oppenheimer",
-      "Description": "How do you gauge the filmography of someone who has never made a bad movie? Tasked with ranking the best Christopher Nolan movies after the release of Oppenheimer, I can’t help but marvel at the iconic director‘s incredible oeuvre and hate the idea of organiz…",
-      "Url": "https://www.comingsoon.net/movies/features/1307963-christopher-nolan-movies-ranked-including-oppenheimer",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/nolan-header.png?resize=1200,630",
-      "PublishedAt": "2023-07-21T22:00:00Z",
-      "Content": "How do you gauge the filmography of someone who has never made a bad movie? Tasked with ranking the best Christopher Nolan movies after the release of Oppenheimer, I cant help but marvel at the iconi… [+15039 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Variety"
-      },
-      "Author": "Zack Sharf",
-      "Title": "Greta Gerwig Refused to Cut a ‘Barbie’ Scene That’s the ‘Heart of the Movie,’ Told Execs: ‘If I Cut That, I Don’t Know Why I’m Making This Film’",
-      "Description": "Greta Gerwig’s “Barbie” is now playing in theaters nationwide, but one if its most emotional scenes might not have made it to the big screen had the filmmaker not held her ground against studio executives. In several interviews before the comedy’s theatrical …",
-      "Url": "https://variety.com/2023/film/news/barbie-cut-scene-greta-gerwig-refused-remove-old-woman-bench-scene-1235676474/",
-      "UrlToImage": "https://variety.com/wp-content/uploads/2023/07/MCDBARB_WB055.jpg?w=1000&h=563&crop=1",
-      "PublishedAt": "2023-07-21T21:44:56Z",
-      "Content": "Greta Gerwig’s “Barbie” is now playing in theaters nationwide, but one if its most emotional scenes might not have made it to the big screen had the filmmaker not held her ground against studio execu… [+2453 chars]"
-    },
-    {
-      "Source": {
-        "Id": "usa-today",
-        "Name": "USA Today"
-      },
-      "Author": "Prince J. Grimes",
-      "Title": "Movie theater snacks, ranked (and popcorn isn't No. 1)",
-      "Description": "It's time we put popcorn in its proper place among movie snacks.",
-      "Url": "https://ftw.usatoday.com/lists/movie-theater-snacks-ranked-popcorn-nachos",
-      "UrlToImage": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2023/07/AP-AMC-Theatre-Opening.jpg?w=1024&h=576&crop=1",
-      "PublishedAt": "2023-07-21T21:36:54Z",
-      "Content": "If you’re coming here looking for confirmation of the superiority of popcorn as the ultimate movie theater snack, you’ve come to the wrong place.\r\nIn fact, the idea for this ranking started out of my… [+2936 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Tiffany Kelly",
-      "Title": "I saw ‘Barbie’ after seeing all the memes, and here’s what I thought",
-      "Description": "There hasn’t been a pop culture meme that has taken over the internet quite like Barbenheimer. As staff writer Michelle Jaworski chronicled in her feature on the phenomenon this week, the word “Barbenheimer,” a blend of the movie titles Barbie and Oppenheimer…",
-      "Url": "https://www.dailydot.com/unclick/barbie-review-memes/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/07/barbieneonoutfits.png?auto=compress&fit=scale&fm=png&h=400&w=800",
-      "PublishedAt": "2023-07-21T20:30:00Z",
-      "Content": "This Week On The Internet is a weekly column that recaps the most pressing online discourse of the week and runs on Fridays in the Daily Dots web_crawlr newsletter. If you want to get this column a d… [+3356 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Star Trek: Prodigy Season 1, Episodes 11-20 Blu-ray & DVD Release Date Set",
-      "Description": "Paramount Home Entertainment has announced Star Trek: Prodigy Season 1 Blu-ray, DVD, and digital release date for episodes 11-20. This comes after Paramount cancelled the sci-fi animated comedy after one season. It was removed from the streamer, along with ot…",
-      "Url": "https://www.comingsoon.net/movies/news/1309275-star-trek-prodigy-season-1-episodes-11-20-blu-ray-dvd",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/star-trek-prodigy.png?resize=1200,630",
-      "PublishedAt": "2023-07-21T20:27:07Z",
-      "Content": "Paramount Home Entertainment has announced Star Trek: ProdigySeason 1 Blu-ray, DVD, and digital release date for episodes 11-20. This comes after Paramount cancelled the sci-fi animated comedy after … [+2451 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Jessica Vacco-Bolanos",
-      "Title": "14 of Margot Robbie's Best Movies, From \"Barbie\" to \"The Wolf of Wall Street\"",
-      "Description": "Before Margot Robbie was \"Barbie,\" she was Harley Quinn, Naomi Lapaglia, Tonya Harding, and many more characters. There's no doubt that Robbie loves her job as an actress, and while tackling the role of an iconic children's toy wasn't initially on her career …",
-      "Url": "https://www.popsugar.com/entertainment/margot-robbie-movies-49220332",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/HVfrlwPXavznY2R8y3B668yZKQk=/120x2:2958x1492/fit-in/3000x1492/filters:format_auto():quality(85):upscale()/2023/07/21/863/n/1922283/766eaa8b64badff0694679.20235814_.jpg",
-      "PublishedAt": "2023-07-21T20:15:03Z",
-      "Content": "Before Margot Robbie was \"Barbie,\" she was Harley Quinn, Naomi Lapaglia, Tonya Harding, and many more characters. There's no doubt that Robbie loves her job as an actress, and while tackling the role… [+5773 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "The Venture Bros. Movie Clip Has Brock Samson Clash With Red Death",
-      "Description": "Adult Swim has released a new The Venture Bros. movie clip from The Venture Bros.: Radiant Is The Blood Of The Baboon Heart that features Patrick Warburton‘s Brock Samson and Clancy Brown‘s Red Death having a brief confrontation. The film is now available dig…",
-      "Url": "https://www.comingsoon.net/movies/trailers/1309303-the-venture-bros-movie-clip-has-brock-samson-clash-with-red-death",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/venture-bros-header-1.png?resize=1200,630",
-      "PublishedAt": "2023-07-21T20:08:47Z",
-      "Content": "Adult Swim has released a new The Venture Bros. movie clip from The Venture Bros.: Radiant Is The Blood Of The Baboon Heart that features Patrick Warburtons Brock Samson and Clancy Browns Red Death h… [+1149 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Delightful Trailer For a Animated Movie About a Dog and a Robot ROBOT DREAMS",
-      "Description": "I’ve got a trailer here for you to watch for a delightful-looking little animated film titled Robot Dreams. The film has no dialogue, and it follows the adventures and misfortunes of Dog and Robot in NYC during the '80s. The movie is based on the popular grap…",
-      "Url": "https://geektyrant.com/news/delightful-trailer-for-a-animated-movie-about-a-dog-and-a-robot-robot-dreams",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64b702c75432452781279d4c/1689969359446/Screen+Shot+2023-07-18+at+2.32.15+PM.jpg?format=1500w",
-      "PublishedAt": "2023-07-21T19:55:00Z",
-      "Content": "Ive got a trailer here for you to watch for a delightful-looking little animated film titled Robot Dreams. The film has no dialogue, and it follows the adventures and misfortunes of Dog and Robot in … [+718 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "Indian stars bring superhero show to strike-hit Comic-Con",
-      "Description": "\"Kalki 2898 AD\" -- set for a 2024 release -- became the first-ever Indian movie given a coveted slot at the San Diego pop culture gathering's famous Hall H auditorium, where countless Marvel superhero films have been revealed.\n\nIn contrast with other toned-do…",
-      "Url": "https://www.france24.com/en/live-news/20230721-indian-stars-bring-superhero-show-to-strike-hit-comic-con",
-      "UrlToImage": "https://s.france24.com/media/display/83c08bc8-27fa-11ee-92f8-005056bf30b7/w:1280/p:16x9/7e028a0a45fdbb8ed36f16d7334b2cd77dfc288f.jpg",
-      "PublishedAt": "2023-07-21T19:12:20Z",
-      "Content": "San Diego (AFP) With strikes keeping Hollywood actors away from Comic-Con, megastars of Indian cinema stole the spotlight with the splashy launch of an ambitious new sci-fi that merges Hindu mytholog… [+3603 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "benzinga.com",
-      "Title": "If You Invested $1,000 In Mattel Stock When 'Barbie Girl' Song Was Released, Here's How Much You'd Have Today",
-      "Description": "Toy lovers are celebrating around the world with the release of the highly anticipated “Barbie” movie in theaters. A song about Barbie proved popular in the 1990s and told everyone life in plastic was fantastic. The question is whether life for Mattel shareho…",
-      "Url": "https://biztoc.com/x/19d7a52ab9d0e49e",
-      "UrlToImage": "https://c.biztoc.com/p/19d7a52ab9d0e49e/s.webp",
-      "PublishedAt": "2023-07-21T19:10:06Z",
-      "Content": "Toy lovers are celebrating around the world with the release of the highly anticipated Barbie movie in theaters.A song about Barbie proved popular in the 1990s and told everyone life in plastic was f… [+284 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Problemista Release Date for Julio Torres Comedy Delayed by A24 for Strike",
-      "Description": "Due to the ongoing actors strike, Deadline brings word that A24 has officially delayed the theatrical release for its upcoming surreal comedy Problemista, which hails from writer-director and star Julio Torres. Originally scheduled for a limited release on Au…",
-      "Url": "https://www.comingsoon.net/movies/news/1309219-problemista-release-date-delayed-a24-julio-torres-comedy",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Problemista-poster-1.jpg?resize=1200,630",
-      "PublishedAt": "2023-07-21T19:01:02Z",
-      "Content": "Due to the ongoing actors strike, Deadline brings word that A24 has officially delayed the theatrical release for its upcoming surreal comedy Problemista, which hails from writer-director and star Ju… [+1384 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hollywood Life"
-      },
-      "Author": "Avery Thompson",
-      "Title": "‘Saw X’: The Cast, Release Date & Everything To Know About The 10th ‘Saw’ Movie",
-      "Description": "Let's play a game... again. The 'Saw' franchise is expanding with 'Saw X.' Here are all the latest updates about the upcoming horror flick.",
-      "Url": "https://hollywoodlife.com/feature/saw-10-5138765/",
-      "UrlToImage": "https://hollywoodlife.com/wp-content/uploads/2023/07/‘Saw-X-The-Cast-Lionsgate-ftr-1.jpg",
-      "PublishedAt": "2023-07-21T19:00:23Z",
-      "Content": "View galleryImage Credit: Lionsgate\r\n<ul><li>Saw X will hit theaters on September 29, 2023.</li><li>Tobin Bell returns as John Kramer.</li><li>The tenth Saw movie is actually set between Saw and Saw … [+4354 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Audra Schroeder",
-      "Title": "“‘Break up with your girlfriend, I’m bored’ was her testimony”: Ariana Grande and Ethan Slater dating memes topple the web",
-      "Description": "Earlier this week, fans were shocked to learn Ariana Grande and husband Dalton Gomez had reportedly separated. She was then misreported as being in a relationship with Jonathan Bailey. Then came another twist: On Thursday, it was reported she and Wicked co-st…",
-      "Url": "https://www.dailydot.com/unclick/ariana-grande-ethan-slater-dating-rumors-memes/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/07/EXPORT-2up-98.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2023-07-21T18:58:44Z",
-      "Content": "Earlier this week, fans were shocked to learn Ariana Grande and husband Dalton Gomez had reportedly separated. She was then misreported as being in a relationship with Jonathan Bailey. Then came anot… [+1565 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Guardian"
-      },
-      "Author": "",
-      "Title": "Barbie world: fans across the globe celebrate movie release – in pictures",
-      "Description": "The buzzy release of Greta Gerwig’s Mattel epic, starring Margot Robbie and Ryan Gosling, has inspired parties, special events and costumes everywhere from Washington DC to Bangkok. The $145m-budgeted film is expected to top the global box office this weekend…",
-      "Url": "https://www.theguardian.com/film/gallery/2023/jul/21/barbie-movie-release-costume-fan-pictures",
-      "UrlToImage": "https://i.guim.co.uk/img/media/9ebab26ec4bdb48bef76a2068ea6555961bef508/0_297_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=035acccae2a91ffb26f59274bdfac70d",
-      "PublishedAt": "2023-07-21T18:47:58Z",
-      "Content": "The buzzy release of Greta Gerwigs Mattel epic, starring Margot Robbie and Ryan Gosling, has inspired parties, special events and costumes everywhere from Washington DC to Bangkok. The $145m-budgeted… [+127 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ETCanada.com"
-      },
-      "Author": "Corey Atad",
-      "Title": "Margot Robbie’s Friends Asked ‘What’s Wrong With You?’ For Not Kissing Ryan Gosling In ‘Barbie’",
-      "Description": "Even Margot Robbie was hoping \"Barbie\" would feature a little more smooching. In an interview with People, the actress talks about starring in the new film opposite Ryan Gosling, and the fact that Barbie and Ken never share a full-on kiss in the movie. [readm…",
-      "Url": "https://etcanada.com/news/1007859/margot-robbies-friends-asked-whats-wrong-with-you-for-not-kissing-ryan-gosling-in-barbie/",
-      "UrlToImage": "https://etcanada.com/wp-content/uploads/2023/07/shutterstock_editorial_14006685km.jpg?quality=80&strip=all&w=720&h=480&crop=1",
-      "PublishedAt": "2023-07-21T18:34:09Z",
-      "Content": "Even Margot Robbie was hoping “Barbie” would feature a little more smooching.\r\nIn an interview with People, the actress talks about starring in the new film opposite Ryan Gosling, and the fact that B… [+952 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Den of Geek US"
-      },
-      "Author": "David Crow",
-      "Title": "Delaying Dune 2 (and the Rest of the Fall Movie Release Schedule) Is a Terrible Idea",
-      "Description": "Are you going to the movies this weekend? Box office tracking suggests you probably are. If so, you’ve got options. Whether it’s basking in Greta Gerwig’s pink Barbie fantasia (released by Warner Bros. Pictures), getting lost in what may be Christopher Nolan’…",
-      "Url": "https://www.denofgeek.com/movies/delaying-dune-2-and-rest-of-fall-movie-release-schedule-terrible-idea/",
-      "UrlToImage": "https://www.denofgeek.com/wp-content/uploads/2023/06/Zendaya-in-Dune-2-copy.jpg",
-      "PublishedAt": "2023-07-21T18:32:03Z",
-      "Content": "Which makes sense if there was an existential threat that the studios needed to avoid like, say, a global pandemic which caused theaters to shut down for essentially a year between March 2020 and Mar… [+3194 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Kalea Martín",
-      "Title": "You're Never too Old to Enjoy a Barbie Cake. Here's How to Make One",
-      "Description": "The new \"Barbie\" movie hadn't even come out, and yet I'd already been invited to three Barbie themed pool parties. Ever since the plastic doll became this summer's \"It girl\" it seems everyone these days (including myself) will look for any excuse to wear jell…",
-      "Url": "https://www.popsugar.com/food/barbie-cake-49228871",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/J0u4GZ3fmIF7zaP0h1a4nKEb948/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2023/07/21/768/n/1922195/252fd74c64babfb13b0c57.34589027_.jpg",
-      "PublishedAt": "2023-07-21T18:30:03Z",
-      "Content": "The new \"Barbie\" movie hadn't even come out, and yet I'd already been invited to three Barbie themed pool parties. Ever since the plastic doll became this summer's \"It girl\" it seems everyone these d… [+3240 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Jonathan Sim",
-      "Title": "Zendaya Sports Movie Challengers Release Date Delayed",
-      "Description": "The new sports movie Challengers has been delayed. This movie is set to star Zendaya, Josh O’Connor, and Mike Faist. “Following a losing streak, the wife and coach of a Grand Slam champion signs him up for Challenger event where he will face off against her f…",
-      "Url": "https://www.comingsoon.net/movies/news/1309198-zendaya-sports-movie-challengers-release-date-delayed",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-21-at-1.49.19-PM.png?resize=1200,630",
-      "PublishedAt": "2023-07-21T18:13:15Z",
-      "Content": "The new sports movie Challengers has been delayed.\r\nThis movie is set to star Zendaya, Josh OConnor, and Mike Faist. Following a losing streak, the wife and coach of a Grand Slam champion signs him u… [+813 chars]"
-    },
-    {
-      "Source": {
-        "Id": "breitbart-news",
-        "Name": "Breitbart News"
-      },
-      "Author": "Amy Furr, Amy Furr",
-      "Title": "WATCH: Florida Man Gives 'Worst Performance' When Allegedly Beating 63-Year-Old over Theater Seats",
-      "Description": "A man allegedly attacked a 63-year-old man at a movie theater in Broward County, Florida, during an argument over seating.",
-      "Url": "https://www.breitbart.com/crime/2023/07/21/florida-man-gives-worst-performance-allegedly-beating-63-year-old-theater-seats/",
-      "UrlToImage": "https://media.breitbart.com/media/2023/07/man-attacks-moviegoer-over-seating-surveillance-video-640x335.jpg",
-      "PublishedAt": "2023-07-21T18:11:37Z",
-      "Content": "A man allegedly attacked a 63-year-old man at a movie theater in Broward County, Florida, during an argument over seating.\r\nThe Broward County Sheriff’s Office said Thursday the alleged attacker “gav… [+2528 chars]"
     }
   ]
 }
