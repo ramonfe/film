@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 721,
+  "TotalResults": 723,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La Comic-Con 2023 se resiente por la huelga de Hollywood",
+      "Description": "Sin lugar a dudas, la del 2023 ha sido una Comic-Con de San Diego extraña. Este pasado fin de semana se celebró la exposición de Comic-Con y lo hizo sin atascos, sin estrellas y con las calles de la ciudad de San Diego mostrándose relativamente tranquilas a p…",
+      "Url": "https://www.abc.es/cultura/comiccon-2023-resiente-huelga-hollywood-20230726184825-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2023/07/25/comic-con-huelga-U86562186772sqC-1024x512@abc.jpg",
+      "PublishedAt": "2023-07-25T16:49:40Z",
+      "Content": "Sin lugar a dudas, la del 2023 ha sido unaComic-Con de San Diego extraña. Este pasado fin de semana se celebró la exposición de Comic-Con y lo hizo sin atascos, sin estrellas y con las calles de la c… [+571 chars]"
+    },
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Raquel Morales",
+      "Title": "Aún queda mucho para la temporada 4 de The Witcher, pero ya podría tener villano",
+      "Description": "El personaje estaría interpretado por el actor Sharlto Copley.\nSe presentan muchos cambios en la serie de Netflix para las próximas temporadas, incluyendo un despiadado personaje antagonista.",
+      "Url": "https://es.ign.com/netflix/192816/news/aun-queda-mucho-para-la-temporada-4-de-the-witcher-pero-ya-podria-tener-villano",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/the-witcher_a8y3.1200.jpg",
+      "PublishedAt": "2023-07-25T16:00:28Z",
+      "Content": "La serie de The Witcher está experimentando cambios importantes como la salida de Henry Cavill como Geralt de Rivia. La temporada 3 está a punto de estrenarse para despedir los últimos capítulos del … [+1866 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/64b91bf8fdec95d9b3fbd7d2/16:9/w_1280,c_limit/476803910",
       "PublishedAt": "2023-07-20T12:10:16Z",
       "Content": "El diseñador Jonathan W. Anderson ha encumbrado a Loewe a lo más alto del Índice Lyst por primera vez en su historia. El Índice Lyst es una clasificación trimestral de las firmas y los productos de m… [+2171 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hosteltur.com"
-      },
-      "Author": "Hosteltur",
-      "Title": "NH Collection aterriza en Maldivas con un resort de 120 villas de lujo",
-      "Description": "Minor Hotels ha anunciado la llegada de la marca NH Collection en Maldivas con la apertura del nuevo NH Collection Maldives Havodda Resort. Este hotel, que se incorporará al portfolio del grupo el próximo mes de agosto, será el primer NH Collection ubicado fu…",
-      "Url": "https://www.hosteltur.com/158534_nh-collection-aterriza-en-maldivas-con-un-resort-de-120-villas-de-lujo.html",
-      "UrlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2023/07/20/M_123005_nh-hotel-abre-un-resort-en-maldivas-con-100-villas-de-lujo.jpg",
-      "PublishedAt": "2023-07-20T11:05:03Z",
-      "Content": "El complejo contará con 120 villas de lujo, 60 de ellas en la playa y las otras 60 sobre el agua, que ofrecerán vistas al océano Índico. Entre las distintas opciones gastronómicas, cuenta un restaura… [+1872 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Pablo Naranjo",
-      "Title": "¿Qué fue de Alejandro Tous? De su vida tras 'Yo soy Bea' a su historia de amor fallida con Ruth Núñez",
-      "Description": "Corría el mes de julio de 2006 cuando Telecinco decidió amenizar las tardes de verano con la emisión de 'Yo soy Bea', versión made in Spain de la telenovela 'Betty, la fea'. Los televidentes cayeron rendidos ante la historia de amor de aquella secretaria camu…",
-      "Url": "https://www.trendencias.com/celebrities/que-fue-alejandro-tous-su-vida-yo-soy-bea-a-su-historia-amor-fallida-ruth-nunez",
-      "UrlToImage": "https://i.blogs.es/6f6e95/01/840_560.jpeg",
-      "PublishedAt": "2023-07-20T10:01:49Z",
-      "Content": "Corría el mes de julio de 2006 cuando Telecinco decidió amenizar las tardes de verano con la emisión de 'Yo soy Bea', versión made in Spain de la telenovela 'Betty, la fea'. Los televidentes cayeron … [+2062 chars]"
     }
   ]
 }
