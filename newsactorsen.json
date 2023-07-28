@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1049,
+  "TotalResults": 1051,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Kristine Parks",
+      "Title": "Actor Joseph Gordon-Levitt says Big Tech, movie studios shouldn't profit off of labor-driven AI",
+      "Description": "Actor Joseph Gordon-Levitt wrote an op-ed for The Washington Post arguing entertainment industry workers should be compensated for their work, even if artificial intelligence continues it.",
+      "Url": "https://www.foxnews.com/media/actor-joseph-gordon-levitt-big-tech-movie-studios-shouldnt-profit-labor-driven-ai",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/GettyImages-1394329096.jpg",
+      "PublishedAt": "2023-07-27T17:20:29Z",
+      "Content": "Hollywood star actor Joseph Gordon-Levitt called for lawmakers to create a new intellectual property law that would force Big Tech to compensate workers whose input helped create Artificial Intellige… [+4032 chars]"
+    },
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "Actor Joseph Gordon-Levitt says Big Tech, movie studios shouldn't profit off of labor-driven AI - Fox News",
+      "Description": "Actor Joseph Gordon-Levitt says Big Tech, movie studios shouldn't profit off of labor-driven AI  Fox News",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2FjdG9yLWpvc2VwaC1nb3Jkb24tbGV2aXR0LWJpZy10ZWNoLW1vdmllLXN0dWRpb3Mtc2hvdWxkbnQtcHJvZml0LWxhYm9yLWRyaXZlbi1hadIBc2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL21lZGlhL2FjdG9yLWpvc2VwaC1nb3Jkb24tbGV2aXR0LWJpZy10ZWNoLW1vdmllLXN0dWRpb3Mtc2hvdWxkbnQtcHJvZml0LWxhYm9yLWRyaXZlbi1haS5hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-07-27T17:20:00Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://media.npr.org/assets/img/2023/07/19/8d2e7642-dd48-43f4-b47f-3f3afd3ba903_wide-0d877a899311671900c731628bf42dc05e06838a-s1400-c100.jpg",
       "PublishedAt": "2023-07-25T09:00:37Z",
       "Content": "The Netflix Bites pop-up restaurant, a marketing campaign by the streaming service, launched at the end of June.\r\nGrace Widyatmadja/NPR\r\nLOS ANGELES The experience starts outside, with diners queued … [+7486 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "Actor Dhanush's birthday surprise: 'Captain Miller' teaser to be unveiled on 28th July",
-      "Description": "The visionary behind this highly-anticipated project is director Arun Matheswaran, who is bringing to life a gripping and action-packed period drama centered around the renowned revolutionary leader, Captain Miller. The film's backdrop is set in the tumultuou…",
-      "Url": "https://economictimes.indiatimes.com/news/new-updates/actor-dhanushs-birthday-surprise-captain-miller-teaser-to-be-unveiled-on-28th-july/articleshow/102101132.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-102101212,width-1070,height-580,imgsize-17754,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-07-25T07:30:49Z",
-      "Content": "Celebrated actor Dhanush, well-known for his exceptional performances, is all set to add another feather to his cap on July 28 as he celebrates his birthday. The anticipation among his fans is at its… [+2559 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Common Dreams"
-      },
-      "Author": "Abby Zimet",
-      "Title": "The Feminist Agenda Will Kill Us All: Barbie Is Woke and Right-Wing Heads Are Exploding",
-      "Description": "In case you've been hiding in your cave, Barbie the (very pink) movie has opened - \"She can do anything, he's just Ken\" - to a flood of press, praise, profits and horror on the part of grown-ass men bleating about a \"man-hating...alienating, dangerous and per…",
-      "Url": "https://www.commondreams.org/further/the-feminist-agenda-will-kill-us-all-barbie-is-woke-and-right-wing-heads-are-exploding",
-      "UrlToImage": "https://www.commondreams.org/media-library/barbie-and-ken-dolls-reach-out-for-each-other.jpg?id=34658230&width=1200&height=600&coordinates=0%2C0%2C140%2C0",
-      "PublishedAt": "2023-07-25T06:57:23Z",
-      "Content": "In case you've been hiding in your cave, Barbie the (very pink) movie has opened - \"She can do anything, he's just Ken\" - to a flood of press, praise, profits and horror on the part of grown-ass men … [+7870 chars]"
     }
   ]
 }
