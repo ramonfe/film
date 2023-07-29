@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 97,
+  "TotalResults": 99,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The Emmys are reportedly delayed due to ongoing strikes",
+      "Description": "The Primetime Emmys won’t take place on September 18th, according to Variety. The publication reported on Thursday that vendors scheduled to work the event have been told the ceremony is delayed because of the writers’ and actors’ strikes that have shut down …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171490074",
+      "UrlToImage": null,
+      "PublishedAt": "2023-07-28T16:54:11Z",
+      "Content": "The Primetime Emmys won’t take place on September 18th, according toVariety. The publication reported on Thursday that vendors scheduled to work the event have been told the ceremony is delayed becau… [+2852 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Will Shanklin",
+      "Title": "The Emmys are reportedly delayed due to ongoing strikes",
+      "Description": "The Primetime Emmys won’t take place on September 18th, according toVariety. The publication reported on Thursday that vendors scheduled to work the event have been told the ceremony is delayed because of the writers’ and actors’ strikes that have shut down a…",
+      "Url": "https://www.engadget.com/the-emmys-are-reportedly-delayed-due-to-ongoing-strikes-164958589.html",
+      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/B8ZLSlzk3i8RlD4IxYRYeg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/72e4e600-2d63-11ee-baef-105abc83a10b.cf.jpg",
+      "PublishedAt": "2023-07-28T16:49:58Z",
+      "Content": "The Primetime Emmys wont take place on September 18th, according toVariety. The publication reported on Thursday that vendors scheduled to work the event have been told the ceremony is delayed becaus… [+2679 chars]"
+    },
     {
       "Source": {
         "Id": null,
