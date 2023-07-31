@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 674,
+  "TotalResults": 675,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Jacqueline Isola",
+      "Title": "La “muñeca” del momento. Margot Robbie: la curiosa predicción que le hizo Brad Pitt, los embates de la fama y su gran amor",
+      "Description": "Con la película “Barbie”, la actriz australiana se convirtió en la favorita de Hollywood y en la mejor paga de la industria del cine",
+      "Url": "https://www.lanacion.com.ar/revista-hola/la-muneca-del-momento-margot-robbie-la-curiosa-prediccion-que-le-hizo-brad-pitt-los-embates-de-la-nid30072023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-su-nueva-comedia-margot-interpreta-al-famoso-54TRGOQUJJFEJLO4WPIW57PRVI.jpg?auth=7b99431c6d99d9b9787de06fc69361e62c7fe1e0a9ce113f0ab98cfd11412658&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-07-30T06:03:00Z",
+      "Content": "Brad Pitt (59) lo predijo hace tres años. Frente a las cámaras y en medio de una entrevista, la estrella miró a Margot Robbie (33) y sentenció: Sos como una Barbie, entre risas, mientras promocionaba… [+3273 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/bb4e7a/trustcode/840_560.jpeg",
       "PublishedAt": "2023-07-25T11:00:53Z",
       "Content": "En Microsoft, los empleados esperan la formación en privacidad con las mismas ganas que la última temporada de Last of Us, y claro, en la empresa están encantados porque esas formaciones son la excus… [+3802 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Fincher, Cooper y Sofia Coppola competirán por el León de Oro en un Festival de Venecia que esquiva la huelga",
-      "Description": "El festival de Venecia ha pasado una semana bastante movida. El anuncio de la huelga de intérpretes que ha paralizado Hollywood amenazaba seriamente su sección oficial. Venecia es un certamen que vive, además de ser la plataforma de salida de películas de car…",
-      "Url": "https://www.eldiario.es/cultura/cine/fincher-cooper-sofia-coppola-competiran-leon-oro-festival-venecia-esquiva-huelga_1_10406253.html",
-      "UrlToImage": "https://static.eldiario.es/clip/6c2dec08-905f-4dbc-91fc-deede5315c34_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-25T11:00:22Z",
-      "Content": "El Festival de Venecia ha pasado una semana bastante movida. El anuncio de la huelga de intérpretes que ha paralizado Hollywood amenazaba seriamente su Sección Oficial. Venecia es un certamen que viv… [+5758 chars]"
     }
   ]
 }
