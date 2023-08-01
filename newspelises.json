@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 224,
+  "TotalResults": 225,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Cómo llevar el traje en tonos pastel como Ryan Gosling",
+      "Description": "«Ella lo es todo, él es simplemente Ken», reza el eslogan de la película Barbie que se ha convertido en el mayor éxito de taquilla de los últimos años en sus primeros días en las salas de cine. Esta frase que se interpreta casi como un mantra a lo largo de la…",
+      "Url": "https://www.abc.es/summum/estilo/moda/llevar-traje-tonos-pastel-ryan-gosling-20230731151215-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/summum/2023/07/31/Ryangosling_20230731150514-U35477058188pkn-1024x512@abc.jpg",
+      "PublishedAt": "2023-07-31T13:12:17Z",
+      "Content": "«Ella lo es todo, él es simplemente Ken», reza el eslogan de la película Barbie que se ha convertido en el mayor éxito de taquilla de los últimos años en sus primeros días en las salas de cine. Esta … [+3741 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/a6d0a9/guardianes-de-la-galaxia-3/840_560.jpeg",
       "PublishedAt": "2023-07-17T21:19:35Z",
       "Content": "Da la sensación de que Marvel ha empezado a perder el interés de un amplio sector del público. Este año pinchó en taquilla con 'Ant-Man y la Avispa: Quantumania' e 'Invasión Secreta' está pasando un … [+1635 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "'Barbie' Vs 'Oppenheimer', la España dividida no está solo en las urnas",
-      "Description": "España se juega mucho este fin de semana. La población se encuentra dividida y, aunque muchos tienen claro lo que harán, otros tantos decidirán a última hora, cuando estén frente al momento decisivo. No, no nos referimos a las elecciones del domingo. O no sol…",
-      "Url": "https://www.eldiario.es/cultura/cine/barbie-vs-oppenheimer-espana-dividida-no-urnas_1_10384384.html",
-      "UrlToImage": "https://static.eldiario.es/clip/c995ca50-2a98-4c55-934b-30a299b46ed1_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-17T20:39:57Z",
-      "Content": "España se juega mucho este fin de semana. La población se encuentra dividida y, aunque muchos tienen claro lo que harán, otros tantos decidirán a última hora, cuando estén frente al momento decisivo.… [+321 chars]"
     }
   ]
 }
