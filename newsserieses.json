@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 818,
+  "TotalResults": 819,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "ENRIQUE CORBELLA",
+      "Title": "Muere con 25 años el actor Angus Cloud, el famoso traficante de Euphoria",
+      "Description": "Angus Cloud, actor de 25 años famoso por su participación en la serie &apos;Euphoria&apos; de la HBO y que durante su vida &quot;habló abiertamente sobre su batalla con la salud me",
+      "Url": "https://www.marca.com/tiramillas/series/2023/08/01/64c8813e268e3e33278b45e7.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/7f023beee094bd09ebb0f616e4d00b56/resize/1200/f/jpg/assets/multimedia/imagenes/2023/08/01/16908621304785.jpg",
+      "PublishedAt": "2023-08-01T04:03:08Z",
+      "Content": "Angus Cloud, actor de 25 años famoso por su participación en la serie 'Euphoria' de la HBO y que durante su vida \"habló abiertamente sobre su batalla con la salud mental \", ha muerto a los 25 años un… [+2543 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/1dc5b9cd-92b3-4d66-afdf-f74d0aa923dc_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-07-28T05:00:29Z",
       "Content": "Netflix estrena este agosto una de sus grandes apuestas, la serie de imagen real'One Piece', que adapta el manga más vendido en Japón de todos los tiempos. Además, propone una buena dosis de acción c… [+8762 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Marta Medina",
-      "Title": "'Q, en el ojo del huracán': todo lo que usted debe saber sobre el auge de la conspiranoia en EEUU",
-      "Description": "Adam McKay ('No mires arriba', 2021) produce esta serie documental de seis capítulos disponible en HBO sobre QAnon y la 'alt right' en Estados Unidos",
-      "Url": "https://www.elconfidencial.com/cultura/2023-07-28/q-dentro-tormenta-adam-mckay-hbo_3708839/",
-      "UrlToImage": "https://images.ecestaticos.com/mIlyFJxCs7kCyCutyL42HxwofKU=/0x0:1920x1080/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/bc1/65f/980/bc165f980a809e5d668866a1148289ca.jpg",
-      "PublishedAt": "2023-07-28T03:00:00Z",
-      "Content": "La primera vez que oí hablar de QAnon ya era demasiado tarde. El 6 de enero de 2021, una turbamulta enfurecida asaltó el Capitolio de Estados Unidos, en Washington. Murieron cinco personas. Era el dí… [+7021 chars]"
     }
   ]
 }
