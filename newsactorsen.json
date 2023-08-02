@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1048,
+  "TotalResults": 1050,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Kyley Warren",
+      "Title": "Sarah Hyland's Must Haves: From Chocolate Supplements to Her Favorite Silk Eye Mask",
+      "Description": "With a career that's spanned more than 20 years, logged countless film and TV projects, and even featured a starring role in one of the most popular sitcoms of all time (casual), it's hard to imagine life could get much sweeter for Sarah Hyland - though her e…",
+      "Url": "https://www.popsugar.com/beauty/sarah-hyland-must-haves-49235675",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/Ymbj_vWTTBNaRnamKjwk0jfgx2g=/0x0:1198x629/fit-in/1200x630/filters:format_auto():quality(85):upscale()/2023/07/27/873/n/1922153/3a87209864c2cc638391d9.74671800_.jpg",
+      "PublishedAt": "2023-08-01T18:45:03Z",
+      "Content": "With a career that's spanned more than 20 years, logged countless film and TV projects, and even featured a starring role in one of the most popular sitcoms of all time (casual), it's hard to imagine… [+2558 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "cryptopotato.com",
+      "Title": "Margot Robbie Says Bitcoin Has “Ken Energy” as Quip Appears Canonical to Barbie Film",
+      "Description": "Ken’s job in the Barbie movie might literally be Bitcoin. Influencers across the crypto sphere went wild for Robbie’s remarks last week. During a recent interview, the Australian actress (Wolf of Wall Street, Suicide Squad) said Bitcoin talk is “Big Ken Energ…",
+      "Url": "https://biztoc.com/x/a6156da574114a64",
+      "UrlToImage": "https://c.biztoc.com/p/a6156da574114a64/s.webp",
+      "PublishedAt": "2023-08-01T18:38:18Z",
+      "Content": "Kens job in the Barbie movie might literally be Bitcoin.Influencers across the crypto sphere went wild for Robbies remarks last week. During a recent interview, the Australian actress (Wolf of Wall S… [+298 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -32,19 +58,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Emma Corrin Shares Their Excitement and Confusion About Starring in DEADPOOL 3 - \"It's an Absolute Mindf--k\"",
-      "Description": "Emma Corrin (The Crown) is set to play the villain in Marvel Studios’ Deadpool 3, and they will find themselves facing off with Ryan Reynolds’s Deadpool and Hugh Jackman’s Wolverine. For the first time, the actor has opened up about starring in the film, and …",
-      "Url": "https://geektyrant.com/news/emma-corrin-shares-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64c91d7a5735a13896462926/1690909004726/emma-corrin-shares-her-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k.jpg?format=1500w",
-      "PublishedAt": "2023-08-01T16:56:00Z",
-      "Content": "Emma Corrin(The Crown) is set to play the villain in Marvel Studios Deadpool 3, and they will find themselves facing off with Ryan Reynoldss Deadpool and Hugh Jackmans Wolverine. For the first time, … [+2546 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Kotaku"
       },
       "Author": "Isaiah Colbert",
@@ -54,6 +67,19 @@
       "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c9c11a4034bd8e59008639802324402b.jpg",
       "PublishedAt": "2023-08-01T16:56:00Z",
       "Content": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who play… [+2630 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Emma Corrin Shares Their Excitement and Confusion About Starring in DEADPOOL 3 - \"It's an Absolute Mindf--k\"",
+      "Description": "Emma Corrin (The Crown) is set to play the villain in Marvel Studios’ Deadpool 3, and they will find themselves facing off with Ryan Reynolds’s Deadpool and Hugh Jackman’s Wolverine. For the first time, the actor has opened up about starring in the film, and …",
+      "Url": "https://geektyrant.com/news/emma-corrin-shares-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64c91d7a5735a13896462926/1690909004726/emma-corrin-shares-her-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k.jpg?format=1500w",
+      "PublishedAt": "2023-08-01T16:56:00Z",
+      "Content": "Emma Corrin(The Crown) is set to play the villain in Marvel Studios Deadpool 3, and they will find themselves facing off with Ryan Reynoldss Deadpool and Hugh Jackmans Wolverine. For the first time, … [+2546 chars]"
     },
     {
       "Source": {
@@ -295,12 +321,12 @@
         "Name": "Bangkok Post"
       },
       "Author": "Bangkok Post Public Company Limited",
-      "Title": "Remembering an icon",
-      "Description": "On July 13, luk thung singer, actor, movie/TV producer and label owner Phanom Nopporn passed away in hospital at the age of 77. One of the giants of the \"country music\" genre, fans and stars of the luk thung industry attended his funeral on July 18 at Wat Ban…",
-      "Url": "https://www.bangkokpost.com/life/arts-and-entertainment/2621317/remembering-an-icon",
-      "UrlToImage": "https://static.bangkokpost.com/media/content/20230801/c2_2621317_230801133015.jpg",
+      "Title": "Friendship in action",
+      "Description": "There is probably nothing better than getting to work with a friend you have known and trusted for a long time. Director Sam Hargrave has been one of those good friends and long-time collaborators for the Australian star actor Chris Hemsworth. Movie fans may …",
+      "Url": "https://www.bangkokpost.com/life/social-and-lifestyle/2621249/friendship-in-action",
+      "UrlToImage": "https://static.bangkokpost.com/media/content/dcx/2023/08/01/4845317_700.jpg",
       "PublishedAt": "2023-07-31T21:00:00Z",
-      "Content": "On July 13, luk thung singer, actor, movie/TV producer and label owner Phanom Nopporn passed away in hospital at the age of 77. One of the giants of the \"country music\" genre, fans and stars of the l… [+4923 chars]"
+      "Content": "There is probably nothing better than getting to work with a friend you have known and trusted for a long time. Director Sam Hargrave has been one of those good friends and long-time collaborators fo… [+6666 chars]"
     },
     {
       "Source": {
@@ -308,12 +334,12 @@
         "Name": "Bangkok Post"
       },
       "Author": "Bangkok Post Public Company Limited",
-      "Title": "Friendship in action",
-      "Description": "There is probably nothing better than getting to work with a friend you have known and trusted for a long time. Director Sam Hargrave has been one of those good friends and long-time collaborators for the Australian star actor Chris Hemsworth. Movie fans may …",
-      "Url": "https://www.bangkokpost.com/life/social-and-lifestyle/2621249/friendship-in-action",
-      "UrlToImage": "https://static.bangkokpost.com/media/content/dcx/2023/08/01/4845317_700.jpg",
+      "Title": "Remembering an icon",
+      "Description": "On July 13, luk thung singer, actor, movie/TV producer and label owner Phanom Nopporn passed away in hospital at the age of 77. One of the giants of the \"country music\" genre, fans and stars of the luk thung industry attended his funeral on July 18 at Wat Ban…",
+      "Url": "https://www.bangkokpost.com/life/arts-and-entertainment/2621317/remembering-an-icon",
+      "UrlToImage": "https://static.bangkokpost.com/media/content/20230801/c2_2621317_230801133015.jpg",
       "PublishedAt": "2023-07-31T21:00:00Z",
-      "Content": "There is probably nothing better than getting to work with a friend you have known and trusted for a long time. Director Sam Hargrave has been one of those good friends and long-time collaborators fo… [+6666 chars]"
+      "Content": "On July 13, luk thung singer, actor, movie/TV producer and label owner Phanom Nopporn passed away in hospital at the age of 77. One of the giants of the \"country music\" genre, fans and stars of the l… [+4923 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2023/07/Lizzie-McGuire.jpg",
       "PublishedAt": "2023-07-29T11:30:25Z",
       "Content": "As actors across the United States continue to strike for fairer pay, one Disney Channel actor is revealing his own lack of compensation from Disney.\r\nWhile Disney CEO Bob Iger may not be too keen on… [+3511 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "deadline.com",
-      "Title": "‘American Pie’ Star Reveals Tiny Pay Cheque For Starring Role In $200m Hit Comedy",
-      "Description": "In this new era of actors’ financial transparency, actor Seann William Scott has revealed the paltry amount he was paid to appear in 1999 hit comedy American Pie. Scott told TV chat show host Rick Elsen that he earned $8,000 for his work on the movie, which w…",
-      "Url": "https://biztoc.com/x/4dc526a507810195",
-      "UrlToImage": "https://c.biztoc.com/p/4dc526a507810195/s.webp",
-      "PublishedAt": "2023-07-29T09:16:11Z",
-      "Content": "In this new era of actors financial transparency, actor Seann William Scott has revealed the paltry amount he was paid to appear in 1999 hit comedy American Pie.Scott told TV chat show host Rick Else… [+309 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "Caroline Frost",
-      "Title": "‘American Pie’ Star Reveals Tiny Pay Cheque For Starring Role In $200m Hit Comedy",
-      "Description": "In this new era of actors’ financial transparency, actor Seann William Scott has revealed the paltry amount he was paid to appear in 1999 hit comedy American Pie. Scott told TV chat show host Rick Elsen that he earned $8,000 for his work on the movie, which w…",
-      "Url": "https://deadline.com/2023/07/american-pie-star-seann-william-scott-reveals-tiny-pay-cheque-from-starring-role-in-hit-comedy-1235450822/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2023/07/Screenshot-2023-07-29-at-10.09.14.png?w=1024",
-      "PublishedAt": "2023-07-29T09:12:48Z",
-      "Content": "In this new era of actors’ financial transparency, actor Seann William Scott has revealed the paltry amount he was paid to appear in 1999 hit comedy American Pie.\r\nScott told TV chat show host Rick E… [+1442 chars]"
     }
   ]
 }
