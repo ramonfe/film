@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 725,
+  "TotalResults": 727,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Sofía Benavides",
+      "Title": "El camino poco probable de Angus Cloud: así pasó de mesero a actor célebre",
+      "Description": "A Angus Cloud, estrella de \"Euphoria\" y quien murió este lunes a los 25 años, lo descubrió en las calles de la ciudad de Nueva York la directora de casting Eléonore Hendricks, quien terminó llevándolo a participar en la aclamada serie.",
+      "Url": "https://cnnespanol.cnn.com/2023/08/01/improbable-viaje-angus-cloud-mesero-celebre-actor-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/08/fezco.jpg?quality=100&strip=info",
+      "PublishedAt": "2023-08-01T20:40:26Z",
+      "Content": "Adiós a \"Fezco\": el actor Angus Cloud murió a los 25 años 3:29\r\n(CNN) -- Hay un video viral del actor Angus Cloud que pasó casi desapercibido.\r\nLa estrella de \"Euphoria\", quien murió este lunes a los… [+3687 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Perfil.com"
+      },
+      "Author": "Carolina Cuellar",
+      "Title": "El dolor de Zendaya por la muerte de Angus Cloud: \"Estoy tan agradecida de haber podido llamarte hermano\"",
+      "Description": "La actriz y protagonista de Euphoria, serie en la que participó el actor, publicó un sentido mensaje y una foto. Leer más",
+      "Url": "https://exitoina.perfil.com/noticias/destacada/dolor-zendaya-muerte-de-angus-cloud-estoy-tan-agradecida-de-haber-podido-llamarte-hermano.phtml",
+      "UrlToImage": "https://fotos.perfil.com/2023/08/01/trim/1140/641/angus-cloud-y-zendaya-1622158.jpg",
+      "PublishedAt": "2023-08-01T20:08:01Z",
+      "Content": "Zendayapublicó un sentido mensaje por la muerte de Angus Cloud, quien fue su amigo y compañero de reparto en en la serie \"Euphoria\" de HBO, donde personificó a Fezco \"Fez\" O'Neill.\r\n\"No hay palabras … [+2700 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://images.hola.com/imagenes/actualidad/20230730236499/abril-zamora-quien-es-profesora-interpretacion-ot/1-287-10/abril-zamora1-t.jpg",
       "PublishedAt": "2023-07-30T07:00:09Z",
       "Content": "La próxima edición de Operación Triunfo no deja de sumar novedades. Nueva presentadora, que será Chenoa, y profesora de interpretación, Abril Zamora, que coge el testigo de los Javis, Ángel Llàcer, I… [+3067 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Jacqueline Isola",
-      "Title": "La “muñeca” del momento. Margot Robbie: la curiosa predicción que le hizo Brad Pitt, los embates de la fama y su gran amor",
-      "Description": "Con la película “Barbie”, la actriz australiana se convirtió en la favorita de Hollywood y en la mejor paga de la industria del cine",
-      "Url": "https://www.lanacion.com.ar/revista-hola/la-muneca-del-momento-margot-robbie-la-curiosa-prediccion-que-le-hizo-brad-pitt-los-embates-de-la-nid30072023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-su-nueva-comedia-margot-interpreta-al-famoso-54TRGOQUJJFEJLO4WPIW57PRVI.jpg?auth=7b99431c6d99d9b9787de06fc69361e62c7fe1e0a9ce113f0ab98cfd11412658&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-07-30T06:03:00Z",
-      "Content": "Brad Pitt (59) lo predijo hace tres años. Frente a las cámaras y en medio de una entrevista, la estrella miró a Margot Robbie (33) y sentenció: Sos como una Barbie, entre risas, mientras promocionaba… [+3273 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mundodeportivo.com"
-      },
-      "Author": "Esther Muntañola Prosper",
-      "Title": "El ganador de dos Goyas Roberto Álamo conquista el Audi Future Stories",
-      "Description": "El actor Roberto Álamo, ganador de dos premios Goya, es el protagonista de “El chófer”, el corto triunfador de la tercera edición de Audi Future Stories. El director y productor Kike Maíllo ha co-dirigido el film junto con Candela Buttigliero, autora del guio…",
-      "Url": "https://www.mundodeportivo.com/ocio/20230730/1002044417/ganador-dos-goyas-roberto-alamo-conquista-audi-future-stories.html",
-      "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2023/07/27/64c27fb36c6cc.r_d.2959-1842-2000.jpeg",
-      "PublishedAt": "2023-07-30T05:00:00Z",
-      "Content": "El actor Roberto Álamo, ganador de dos premios Goya, es el protagonista de El chófer, el corto triunfador de la tercera edición de Audi Future Stories. El director y productor Kike Maíllo ha co-dirig… [+2692 chars]"
     }
   ]
 }
