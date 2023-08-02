@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 675,
+  "TotalResults": 676,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Tomatazos",
+      "Title": "Andrew Garfield dice que su futuro como Spider-Man en Marvel \"tiene posibilidades infinitas\"",
+      "Description": "El actor de Peter Parker 3 habla sobre el mañana de su personaje en la industria del cine.",
+      "Url": "https://es-us.vida-estilo.yahoo.com/andrew-garfield-futuro-spider-man-013900624.html",
+      "UrlToImage": "https://media.zenfs.com/es/tomatazos_56/b118d200945c00ff4c91192d64953f0d",
+      "PublishedAt": "2023-08-01T01:39:00Z",
+      "Content": "Andrew Garfield dice que su futuro como Spider-Man en Marvel tiene posibilidades infinitas\r\nAndrew Garfield es uno de los favoritos en Marvel. El actor lleva varios años interpretando al Hombre Araña… [+4387 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-07-27T15:26:37Z",
       "Content": "Un neoludita....\r\nEste se pensaba que no les iba a llegar. Llegó en la industria manufacturera, luego a servicios de ingeniería, desarrollo, etc... y al cine pues también. No se puede parar estas cos… [+56 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Javier Chávez M",
-      "Title": "Muere Bo Goldman, guionista ganador del Oscar por 'Atrapado sin salida'",
-      "Description": "Bo Goldman, famoso guionista estadunidense, quien ganó premios Oscar por 'Atrapado sin salida' y 'Melvin y Howard' de Jonathan Demme, murió el martes a la edad de 90 años, confirmó su yerno, el director Todd Field, al medio New York Times.Goldman consiguió el…",
-      "Url": "https://www.milenio.com/espectaculos/cine/bo-goldman-muere-guionista-ganador-oscar",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/27/bo-goldman-guionista-ganador-oscar.jpg",
-      "PublishedAt": "2023-07-27T13:44:00Z",
-      "Content": "Bo Goldman, famoso guionista estadunidense, quien ganó premios Oscar por 'Atrapado sin salida' y 'Melvin y Howard' de Jonathan Demme, murió el martes a la edad de 90 años, confirmó su yerno, el direc… [+1268 chars]"
     }
   ]
 }
