@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1058,
+  "TotalResults": 1060,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "The success of 'Barbie' threatens Marvel: How many millions has Margot Robbie's movie made?",
+      "Description": "&apos;Barbie&apos; has been a complete success. Pink has flooded the summer thanks to the movie directed by Greta Gerwig, starring and produced by actress Margot Robbie. \nIts succe",
+      "Url": "https://www.marca.com/en/lifestyle/movies/2023/08/02/64ca77baca4741cf688b4598.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/f7b8754f4ff8a7f843628607e2758e6f/resize/1200/f/jpg/assets/multimedia/imagenes/2023/08/02/16909852084370.jpg",
+      "PublishedAt": "2023-08-02T15:44:32Z",
+      "Content": "'Barbie' has been a complete success. Pink has flooded the summer thanks to the movie directed by Greta Gerwig, starring and produced by actress Margot Robbie. \r\nIts success has been resounding, and … [+1454 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Siliconera"
+      },
+      "Author": "Stephanie Liu",
+      "Title": "Risae Matsuda Will Be New Voice of Yuna in Sword Art Online",
+      "Description": "Risae Matsuda will take over for Sayaka Kanda as Yuna in Sword Art Online properties. This is because Kanda died in 2021. Kanda originally voiced Yuna in Sword Art Online the Movie: Ordinal Scale. On her Twitter account, Matsuda said that she will continue to…",
+      "Url": "https://www.siliconera.com/risae-matsuda-will-be-new-voice-of-yuna-in-sword-art-online/",
+      "UrlToImage": "https://www.siliconera.com/wp-content/uploads/2023/08/yuna-sao-voice-actress-replacement-08022023.png",
+      "PublishedAt": "2023-08-02T15:00:36Z",
+      "Content": "Risae Matsuda will take over for Sayaka Kanda as Yuna in Sword Art Online properties. This is because Kanda died in 2021. Kanda originally voiced Yuna in Sword Art Online the Movie: Ordinal Scale. On… [+1181 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -409,19 +435,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Emma Corrin Shares Their Excitement and Confusion About Starring in DEADPOOL 3 - \"It's an Absolute Mindf--k\"",
-      "Description": "Emma Corrin (The Crown) is set to play the villain in Marvel Studios’ Deadpool 3, and they will find themselves facing off with Ryan Reynolds’s Deadpool and Hugh Jackman’s Wolverine. For the first time, the actor has opened up about starring in the film, and …",
-      "Url": "https://geektyrant.com/news/emma-corrin-shares-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64c91d7a5735a13896462926/1690909004726/emma-corrin-shares-her-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k.jpg?format=1500w",
-      "PublishedAt": "2023-08-01T16:56:00Z",
-      "Content": "Emma Corrin(The Crown) is set to play the villain in Marvel Studios Deadpool 3, and they will find themselves facing off with Ryan Reynoldss Deadpool and Hugh Jackmans Wolverine. For the first time, … [+2546 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Kotaku"
       },
       "Author": "Isaiah Colbert",
@@ -431,6 +444,19 @@
       "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c9c11a4034bd8e59008639802324402b.jpg",
       "PublishedAt": "2023-08-01T16:56:00Z",
       "Content": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who play… [+2630 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Emma Corrin Shares Their Excitement and Confusion About Starring in DEADPOOL 3 - \"It's an Absolute Mindf--k\"",
+      "Description": "Emma Corrin (The Crown) is set to play the villain in Marvel Studios’ Deadpool 3, and they will find themselves facing off with Ryan Reynolds’s Deadpool and Hugh Jackman’s Wolverine. For the first time, the actor has opened up about starring in the film, and …",
+      "Url": "https://geektyrant.com/news/emma-corrin-shares-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64c91d7a5735a13896462926/1690909004726/emma-corrin-shares-her-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k.jpg?format=1500w",
+      "PublishedAt": "2023-08-01T16:56:00Z",
+      "Content": "Emma Corrin(The Crown) is set to play the villain in Marvel Studios Deadpool 3, and they will find themselves facing off with Ryan Reynoldss Deadpool and Hugh Jackmans Wolverine. For the first time, … [+2546 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/07/hugh-role.jpg",
       "PublishedAt": "2023-07-31T01:34:19Z",
       "Content": "It was revealed that Hugh Grant will be playing an Oompa Loompa in the upcoming Wonka movie, opposite Timothee Chalamet.\r\nHowever, not everyone is excited to see him as such.\r\nOne actor, who has dwar… [+748 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "American Pie actor Seann William Scott made only $8000 in blockbuster film; hints at new sequel",
-      "Description": "The actor portrayed Steve Stifler in the hit 1999 movie. He went on to work in the film’s sequels as well.",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/american-pie-actor-seann-william-scott-made-only-8000-in-blockbuster-film-hints-at-new-sequel/articleshow/102252311.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-102252509,width-1070,height-580,imgsize-381848,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-07-30T13:38:27Z",
-      "Content": "Seann William Scott played the desire-obsessed Steve Stifler in American Pie, the 1999 teen comedy that set the box office on fire. The actor has revealed a shocking detail about the film. Heres what… [+2061 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Wealthofgeeks.com"
-      },
-      "Author": "Kev Stewart",
-      "Title": "Every George A. Romero Movie Ranked",
-      "Description": "The late George Andrew Romero was an American-Canadian filmmaker, writer, editor, and actor. He dabbled in several genres but was most fondly known for his ... Read More",
-      "Url": "https://wealthofgeeks.com/every-george-a-romero-movie-ranked/",
-      "UrlToImage": "https://wealthofgeeks.com/wp-content/uploads/2023/07/year-of-the-living-dead.png",
-      "PublishedAt": "2023-07-30T13:00:19Z",
-      "Content": "The late George Andrew Romero was an American-Canadian filmmaker, writer, editor, and actor. He dabbled in several genres but was most fondly known for his horror movies, particularly those focusing … [+12712 chars]"
     }
   ]
 }
