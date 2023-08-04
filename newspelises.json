@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 231,
+  "TotalResults": 232,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Alexandra González",
+      "Title": "¡Barbie llegará a streaming! Descubre la fecha de estreno en HBO Max",
+      "Description": "'Barbie'sigue siendo un fenómeno imparable en la taquilla mundial, superando incluso a una de las películas más taquilleras de Warner Bros. Discovery.Ahora, se dio a conocer que la película protagonizada por Margot Robbie podría llegar a plataformas digitales…",
+      "Url": "https://www.milenio.com/espectaculos/cine/barbie-llegara-hbo-max-conoce-fecha-estreno",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/03/barbie-se-estrenara-en-hbo.jpg",
+      "PublishedAt": "2023-08-03T17:42:53Z",
+      "Content": "'Barbie' sigue siendo un fenómeno imparable en la taquilla mundial, superando incluso a una de las películas más taquilleras de Warner Bros. Discovery. \r\nAhora, se dio a conocer que la película prota… [+2523 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-07-21T06:07:46Z",
       "Content": "No tienes 10$ para ver la película? Ya hay alguien que te lo paga \r\nY no pienses mal, es para que tú economía no se resienta."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "MartinPixel",
-      "Title": "Película ‘Oppenheimer’ en 35 mm en Cineteca Nacional: funciones, precio de boletos y cuáles son las diferencias con un cine tradicional",
-      "Description": "Pasaron tres años para regresar al cine por una película de Christopher Nolan. ‘Oppenheimer’ es su nueva producción que ya se encuentra disponible en todos los cines de México y como es característico del director, existirán versiones en IMAX, dependiendo el …",
-      "Url": "https://www.xataka.com.mx/cine-y-tv/pelicula-oppenheimer-35-mm-cineteca-nacional-funciones-precio-boletos-cuales-diferencias-cine-tradicional",
-      "UrlToImage": "https://i.blogs.es/51d9d2/oppenheimer-cineteca-nacional/840_560.jpeg",
-      "PublishedAt": "2023-07-21T01:01:53Z",
-      "Content": "Pasaron tres años para regresar al cine por una película de Christopher Nolan. Oppenheimer es su nueva producción que ya se encuentra disponible en todos los cines de México y como es característico … [+4724 chars]"
     }
   ]
 }
