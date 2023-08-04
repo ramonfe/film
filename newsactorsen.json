@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1071,
+  "TotalResults": 1074,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "nytimes.com",
+      "Title": "‘Shortcomings’ Review: Dazed and Confused",
+      "Description": "“Shortcomings,” the directorial debut of the actor Randall Park, opens with a movie-within-the-movie: it’s a spoof of “Crazy Rich Asians,” playing at an Asian film festival in the Bay Area. As Ben (Justin H. Min), a Japanese American cinephile, and his girlfr…",
+      "Url": "https://biztoc.com/x/d8c0c1e3a8d19645",
+      "UrlToImage": "https://c.biztoc.com/p/d8c0c1e3a8d19645/s.webp",
+      "PublishedAt": "2023-08-03T19:54:11Z",
+      "Content": "Shortcomings, the directorial debut of the actor Randall Park, opens with a movie-within-the-movie: its a spoof of Crazy Rich Asians, playing at an Asian film festival in the Bay Area. As Ben (Justin… [+308 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Jonathan Sim",
+      "Title": "Vanessa Kirby Will Reportedly Play Sue Storm in Fantastic Four",
+      "Description": "Actress Vanessa Kirby will reportedly portray Sue Storm/The Invisible Woman in the new Fantastic Four movie. This Marvel Cinematic Universe superhero movie is set to introduce this iconic superhero team into the MCU. In a live episode of The Hot Mic with Jeff…",
+      "Url": "https://www.comingsoon.net/movies/news/1314577-vanessa-kirby-will-reportedly-play-sue-storm-in-fantastic-four",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/08/GettyImages-1532375616.jpg?resize=1200,630",
+      "PublishedAt": "2023-08-03T19:32:07Z",
+      "Content": "Actress Vanessa Kirby will reportedly portray Sue Storm/The Invisible Woman in the new Fantastic Four movie.\r\nThis Marvel Cinematic Universe superhero movie is set to introduce this iconic superhero … [+1116 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Eddie Makuch",
+      "Title": "Tobey Maguire Says Playing Spider-Man In No Way Home \"Reinvigorated\" His Interest In Acting",
+      "Description": "Actor Tobey Maguire returned to play Peter Parker/Spider-Man once again alongside Andrew Garfield and Tom Holland in Spider-Man: No Way Home. Coming back to play the web-slinger helped Maguire feel \"reinvigorated\" about acting, he said the newly released book…",
+      "Url": "https://www.gamespot.com/articles/tobey-maguire-says-playing-spider-man-in-no-way-home-reinvigorated-his-interest-in-acting/1100-6516557/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4173667-screenshot2023-08-03at3.16.38pm.png",
+      "PublishedAt": "2023-08-03T19:01:00Z",
+      "Content": "Actor Tobey Maguire returned to play Peter Parker/Spider-Man once again alongside Andrew Garfield and Tom Holland in Spider-Man: No Way Home. Coming back to play the web-slinger helped Maguire feel \"… [+1947 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -148,19 +187,6 @@
     },
     {
       "Source": {
-        "Id": null,
-        "Name": "Cracked.com"
-      },
-      "Author": "Tim Grierson",
-      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
-      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
-      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
-      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
-      "PublishedAt": "2023-08-03T13:00:00Z",
-      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
-    },
-    {
-      "Source": {
         "Id": "google-news",
         "Name": "Google News"
       },
@@ -171,6 +197,19 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-03T13:00:00Z",
       "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cracked.com"
+      },
+      "Author": "Tim Grierson",
+      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
+      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
+      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
+      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
+      "PublishedAt": "2023-08-03T13:00:00Z",
+      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
     },
     {
       "Source": {
@@ -877,19 +916,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Kotaku"
-      },
-      "Author": "Isaiah Colbert",
-      "Title": "Holes Actor Wins Mortal Kombat Tourney In Goofy Movie Cosplay",
-      "Description": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who played Zero in the 2003 Disney film opposite Shia LaBeouf, won t…",
-      "Url": "https://kotaku.com/mortal-kombat-mk11-khleo-thomas-holes-cosplay-movies-1850696161",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c9c11a4034bd8e59008639802324402b.jpg",
-      "PublishedAt": "2023-08-01T16:56:00Z",
-      "Content": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who play… [+2630 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "GeekTyrant"
       },
       "Author": "Joey Paur",
@@ -899,6 +925,19 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64c91d7a5735a13896462926/1690909004726/emma-corrin-shares-her-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k.jpg?format=1500w",
       "PublishedAt": "2023-08-01T16:56:00Z",
       "Content": "Emma Corrin(The Crown) is set to play the villain in Marvel Studios Deadpool 3, and they will find themselves facing off with Ryan Reynoldss Deadpool and Hugh Jackmans Wolverine. For the first time, … [+2546 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kotaku"
+      },
+      "Author": "Isaiah Colbert",
+      "Title": "Holes Actor Wins Mortal Kombat Tourney In Goofy Movie Cosplay",
+      "Description": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who played Zero in the 2003 Disney film opposite Shia LaBeouf, won t…",
+      "Url": "https://kotaku.com/mortal-kombat-mk11-khleo-thomas-holes-cosplay-movies-1850696161",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c9c11a4034bd8e59008639802324402b.jpg",
+      "PublishedAt": "2023-08-01T16:56:00Z",
+      "Content": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who play… [+2630 chars]"
     },
     {
       "Source": {
@@ -1263,45 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-07-31T19:12:08Z",
       "Content": "Skip to comments.\r\nPaul Reubens, aka 'Pee-wee Herman,' dead at 70KCAL ^\r\n | Staff\r\nPosted on 07/31/2023 12:12:08 PM PDT by traderrob6\r\n\"Paul bravely and privately fought cancer for years with his tra… [+1407 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Jersey Shore: Family Vacation’s Sammi Giancola Reveals Why She’s Returning",
-      "Description": "The upcoming return of MTV‘s Jersey Shore: Family Vacation is set to include the return of original cast member Sammi “Sweetheart” Giancola, something that the actress says she’s missed. Sammi is set to return after more than 10 years away Giancola was an ori…",
-      "Url": "https://www.comingsoon.net/tv/news/1312793-jersey-shore-family-vacations-sammi-giancola-reveals-why-shes-returning",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/sammi-giancola-jersey-shore-family-vacation.png?resize=1200,630",
-      "PublishedAt": "2023-07-31T19:09:58Z",
-      "Content": "The upcoming return of MTVs Jersey Shore: Family Vacation is set to include the return of original cast member Sammi Sweetheart Giancola, something that the actress says shes missed. \r\nGiancola was a… [+1175 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nofilmschool.com"
-      },
-      "Author": "Guest Author",
-      "Title": "5 Ways to Successfully Fail in Hollywood",
-      "Description": "This post was written by C.M. Conway.Whenever I casually mention in conversations I pursued a career in Hollywood as an actress first, I receive the same reaction: an awkward pause.Sometimes the silence is filled with excited curiosity. Sometimes pity. Someti…",
-      "Url": "https://nofilmschool.com/how-to-fail-in-hollywood",
-      "UrlToImage": "https://nofilmschool.com/media-library/ben-played-by-adrain-gilbert-and-ellie-played-by-c-m-conway-dancing-in-a-department-store-in-how-to-successfully-fail-in-h.jpg?id=34658225&width=1200&height=600&coordinates=0%2C22%2C0%2C38",
-      "PublishedAt": "2023-07-31T19:00:13Z",
-      "Content": "This post was written by C.M. Conway.\r\nWhenever I casually mention in conversations I pursued a career in Hollywood as an actress first, I receive the same reaction: an awkward pause.\r\nSometimes the … [+14955 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Neatorama.com"
-      },
-      "Author": "Miss Cellania",
-      "Title": "Who Was That Character Actor?",
-      "Description": "In the vast spectrum between bankable movie stars and extras scrambling for jobs, there are character actors. They are the backbone of TV and movie productions, actors who are good at what they do and will take roles that don't get top billing. You see them o…",
-      "Url": "https://www.neatorama.com/2023/07/31/Who-Was-That-Character-Actor/",
-      "UrlToImage": null,
-      "PublishedAt": "2023-07-31T18:44:55Z",
-      "Content": "In the vast spectrum between bankable movie stars and extras scrambling for jobs, there are character actors. They are the backbone of TV and movie productions, actors who are good at what they do an… [+895 chars]"
     }
   ]
 }
