@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 727,
+  "TotalResults": 728,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "À Punt llena la cartelera de cine este agosto",
+      "Description": "La parrilla del mes de agosto se llena de cine en la televisión pública. Una interesante oferta para pasar las noches a la fresca ante la pantalla de À Punt y ponerse al día de las novedades más recientes de la cartelera que, a veces, quedan pendientes despué…",
+      "Url": "https://www.abc.es/espana/comunidad-valenciana/punt-llena-cartelera-cine-agosto-20230803162638-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2023/08/03/hijo-de-la-novia-U06337221188PYE-1024x512@abc.jpeg",
+      "PublishedAt": "2023-08-03T14:26:38Z",
+      "Content": "La parrilla del mes de agosto se llena de cine en la televisión pública. Una interesante oferta para pasar las noches a la fresca ante la pantalla de À Punt y ponerse al día de las novedades más reci… [+1433 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.eluniversal.com.co/binrepository/948x687/100c0/800d686/none/13704/IVIG/angus-cloud_8197107_20230731182610.jpg",
       "PublishedAt": "2023-07-31T23:07:56Z",
       "Content": "Angus Cloud, el actor de 25 años, que fue hallado muerto este lunes 31 de julio en su casa, no solo era famoso por ser uno de los protagonistas de la exitosa serie Euphoria, de HBO, sino por su relac… [+1831 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Muere Angus Cloud, actor de Fezco en ‘Euphoria’, a los 25 años: ‘La semana pasada enterró a su padre’",
-      "Description": "Angus Cloud, actor de la serie de HBO ‘Euphoria’, murió a los 25 años. Su personaje Fezco se ganó la fidelidad del público.",
-      "Url": "https://www.elfinanciero.com.mx/espectaculos/2023/07/31/muere-angus-cloud-actor-de-euforia-a-los-25-anos/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/mLD6hw0A49_98BIgD9VlxVxqAQw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/37CKD4EXRZEQDAMZY7DNBTZQ3Y.jpg",
-      "PublishedAt": "2023-07-31T23:04:33Z",
-      "Content": "El intérprete Angus Cloud, reconocido por su participación en la serie de Euphoria, fue encontrado sin vida a los 25 años de edad.\r\nLa familia del joven actor confirmó la noticia este lunes al medio … [+2303 chars]"
     }
   ]
 }
