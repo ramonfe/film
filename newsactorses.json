@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 737,
+  "TotalResults": 738,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Muyinteresante.es"
+      },
+      "Author": "Sarah Romero",
+      "Title": "Frases célebres de Charlie Chaplin",
+      "Description": "Sir Charles Spencer Chaplin (1889 – 1977), fue un actor cómico, compositor, productor, director y escritor británico conocido principalmente por ser todo un símbolo del humor y un destacado representante del cine mudo.",
+      "Url": "https://www.muyinteresante.es/curiosidades/29649.html",
+      "UrlToImage": "https://imagenes.muyinteresante.es/files/article_social/uploads/2023/08/03/64cbd3ed95f0c.jpeg",
+      "PublishedAt": "2023-08-04T03:00:00Z",
+      "Content": "Charles Chaplin era un símbolo del humor. Su fama, extendida entre otras cosas, gracias a su personaje de Charlot, le llevó obtener múltiples reconocimientos y nominaciones artísticas. Recibió en 192… [+4261 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://images.ecestaticos.com/8hvOcSMgILkuDmV-eeSfHzLkTtA=/0x0:640x407/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/e1d/b26/685/e1db266852a486a56227d55506614c0f.jpg",
       "PublishedAt": "2023-08-01T04:01:00Z",
       "Content": "El actor estadounidense Angus Cloud, conocido por su papel de Fezco en la exitosa serie de drama Euphoria (HBO), falleció a los 25 años de edad.\"Con mucho pesar en nuestro corazón hoy tuvimos que dec… [+2688 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Nuevo Herald"
-      },
-      "Author": "El Nuevo Herald",
-      "Title": "Fallece a los 25 años Angus Cloud, actor revelación de la serie “Euphoria”",
-      "Description": "Su papel lo convirtió en la estrella emergente de uno de los programas más populares de la televisión.",
-      "Url": "https://www.elnuevoherald.com/entretenimiento/article277837343.html",
-      "UrlToImage": "https://media.zenfs.com/es/el_nuevo_herald_986/61becbfe1bdeafba35ffcef0ae67a2db",
-      "PublishedAt": "2023-08-01T03:22:29Z",
-      "Content": "Angus Cloud, el actor que interpretó al vendedor de drogas Fezco Fez ONeill en la serie de HBO Euphoria, falleció a los 25 años.\r\nLa publicista de Cloud, Cait Bailey, dijo que el actor murió el lunes… [+2592 chars]"
     }
   ]
 }
