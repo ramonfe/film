@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1084,
+  "TotalResults": 1085,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ET Online",
+      "Title": "Bhabhiji Ghar Par Hai actor Vidisha Srivastava's secret to clear skin",
+      "Description": "Vidisha Srivastava, who plays Anita Bhabi in the TV show 'Bhabhiji Ghar Par Hai', has shared her go-to solution for a clean and clear skin during monsoons.",
+      "Url": "https://economictimes.indiatimes.com/news/web-stories/bhabhiji-ghar-par-hai-actor-vidisha-srivastavas-secret-to-clear-skin/slideshow/102416744.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-102417022,width-900,height-460,resizemode-4.cms",
+      "PublishedAt": "2023-08-04T06:45:23Z",
+      "Content": "Monsoon can be harsh on the skin, and with so much moisture all around, it's critical to keep it clean and fuss-free, the actor told IANS. (Image: Instagram/ Vidisha Srivastava)"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -317,19 +330,6 @@
     },
     {
       "Source": {
-        "Id": null,
-        "Name": "Cracked.com"
-      },
-      "Author": "Tim Grierson",
-      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
-      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
-      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
-      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
-      "PublishedAt": "2023-08-03T13:00:00Z",
-      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
-    },
-    {
-      "Source": {
         "Id": "google-news",
         "Name": "Google News"
       },
@@ -340,6 +340,19 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-03T13:00:00Z",
       "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cracked.com"
+      },
+      "Author": "Tim Grierson",
+      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
+      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
+      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
+      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
+      "PublishedAt": "2023-08-03T13:00:00Z",
+      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
     },
     {
       "Source": {
@@ -1046,19 +1059,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Kotaku"
-      },
-      "Author": "Isaiah Colbert",
-      "Title": "Holes Actor Wins Mortal Kombat Tourney In Goofy Movie Cosplay",
-      "Description": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who played Zero in the 2003 Disney film opposite Shia LaBeouf, won t…",
-      "Url": "https://kotaku.com/mortal-kombat-mk11-khleo-thomas-holes-cosplay-movies-1850696161",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c9c11a4034bd8e59008639802324402b.jpg",
-      "PublishedAt": "2023-08-01T16:56:00Z",
-      "Content": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who play… [+2630 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "GeekTyrant"
       },
       "Author": "Joey Paur",
@@ -1068,6 +1068,19 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64c91d7a5735a13896462926/1690909004726/emma-corrin-shares-her-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k.jpg?format=1500w",
       "PublishedAt": "2023-08-01T16:56:00Z",
       "Content": "Emma Corrin(The Crown) is set to play the villain in Marvel Studios Deadpool 3, and they will find themselves facing off with Ryan Reynoldss Deadpool and Hugh Jackmans Wolverine. For the first time, … [+2546 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kotaku"
+      },
+      "Author": "Isaiah Colbert",
+      "Title": "Holes Actor Wins Mortal Kombat Tourney In Goofy Movie Cosplay",
+      "Description": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who played Zero in the 2003 Disney film opposite Shia LaBeouf, won t…",
+      "Url": "https://kotaku.com/mortal-kombat-mk11-khleo-thomas-holes-cosplay-movies-1850696161",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c9c11a4034bd8e59008639802324402b.jpg",
+      "PublishedAt": "2023-08-01T16:56:00Z",
+      "Content": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who play… [+2630 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/NVzFeS07_wnjH7VLKb1kj-q1pj4=/0x0:4486x2355/fit-in/4500x3000/filters:format_auto():quality(85):upscale()/2023/07/31/950/n/1922398/da8d876964c82c3de6c522.44629087_.jpg",
       "PublishedAt": "2023-07-31T22:15:00Z",
       "Content": "\"Euphoria\" star Angus Cloud has died at age 25, TMZ reported on July 31. According to a statement from his family, the outlet noted that the actor was at his family's home in Oakland, CA. \"It is with… [+1296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Angus Cloud Passes Away, Euphoria Star was 25",
-      "Description": "Angus Cloud, the young actor who starred as Fezco in Euphoria, has died at the age of 25. TMZ first reported the news that he had died at his family’s home in Oakland and published a statement from Cloud’s family. The statement reads: “It is with the heaviest…",
-      "Url": "https://www.comingsoon.net/tv/news/1312867-angus-cloud-passes-away-euphoria-star-was-25",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/angus-cloud-header.png?resize=1200,630",
-      "PublishedAt": "2023-07-31T22:01:56Z",
-      "Content": "Angus Cloud, the young actor who starred as Fezco in Euphoria, has died at the age of 25.\r\nTMZ first reported the news that he had died at his familys home in Oakland and published a statement from C… [+1100 chars]"
     }
   ]
 }
