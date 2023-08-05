@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1058,
+  "TotalResults": 1062,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Guardian"
+      },
+      "Author": "Ben Beaumont-Thomas",
+      "Title": "Post your questions for Michael Imperioli",
+      "Description": "As he returns with his garage rock band Zopa, the Sopranos and White Lotus actor will take on your questionsHe is widely admired for a pedigree acting career, spanning The Sopranos, The White Lotus, Goodfellas and beyond – but you may not know that Michael Im…",
+      "Url": "https://www.theguardian.com/music/2023/aug/04/post-your-questions-for-michael-imperioli",
+      "UrlToImage": "https://i.guim.co.uk/img/media/f0ed5b533d41ea15bd4f94d42e240b1fc8e09648/0_0_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f1514248a7ff5b84dc972fadfcf98ed",
+      "PublishedAt": "2023-08-04T15:34:57Z",
+      "Content": "He is widely admired for a pedigree acting career, spanning The Sopranos, The White Lotus, Goodfellas and beyond but you may not know that Michael Imperioli also has a nice line in gritty garage rock… [+1983 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "NPR",
+      "Title": "Remembering Pee-Wee Herman Actor Paul Reubens",
+      "Description": "Actor Paul Reubens, who created the character Pee-wee Herman, died July 30 at age 70. His joyful, odd and subversive CBS TV show, <em>Pee-wee's Playhouse</em>, was loved by children and adults alike. He spoke with Terry Gross in 2004. We'll also hear from Lau…",
+      "Url": "https://www.npr.org/2023/08/01/1191357782/remembering-pee-wee-herman-actor-paul-reubens",
+      "UrlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "PublishedAt": "2023-08-04T15:32:06Z",
+      "Content": "Actor Paul Reubens, who created the character Pee-wee Herman, died July 30 at age 70. His joyful, odd and subversive CBS TV show, Pee-wee's Playhouse, was loved by children and adults alike. He spoke… [+248 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Siliconera"
+      },
+      "Author": "Stephanie Liu",
+      "Title": "Mononoke Movie Gets New Release Window, Voice Actor",
+      "Description": "A new key visual and trailer for the Mononoke movie is out, along with information on the new voice actor for Medicine Seller. Hiroshi Kamiya will take over the role in place of Takahiro Sakurai. The new trailer shows more information on what the movie will b…",
+      "Url": "https://www.siliconera.com/mononoke-movie-gets-new-release-window-voice-actor/",
+      "UrlToImage": "https://www.siliconera.com/wp-content/uploads/2023/08/mononoke-movie-key-visual-08042023.png",
+      "PublishedAt": "2023-08-04T15:30:36Z",
+      "Content": "A new key visual and trailer for the Mononoke movie is out, along with information on the new voice actor for Medicine Seller. Hiroshi Kamiya will take over the role in place of Takahiro Sakurai. The… [+1380 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Zendaya Talks Steamy Scenes in Her New Movie 'Challengers,' Reveals How Sexy Things Get",
+      "Description": "Zendaya is opening up about her steamy new movie Challengers. If you were unaware, the 26-year-old Euphoria actress finds herself in a love triangle with Mike Faist and Josh O’Connor in the tennis movie from director Luca Guadagnino. The trailer hints at some…",
+      "Url": "https://www.justjared.com/2023/08/04/zendaya-talks-steamy-scenes-in-her-new-movie-challengers-reveals-how-sexy-things-get/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/08/zendaya-steamy.jpg",
+      "PublishedAt": "2023-08-04T15:22:23Z",
+      "Content": "Zendaya is opening up about her steamy new movie Challengers.\r\nIf you were unaware, the 26-year-old Euphoria actress finds herself in a love triangle with Mike Faist and Josh O’Connor in the tennis m… [+1051 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -408,19 +460,6 @@
     },
     {
       "Source": {
-        "Id": null,
-        "Name": "Cracked.com"
-      },
-      "Author": "Tim Grierson",
-      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
-      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
-      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
-      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
-      "PublishedAt": "2023-08-03T13:00:00Z",
-      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
-    },
-    {
-      "Source": {
         "Id": "google-news",
         "Name": "Google News"
       },
@@ -431,6 +470,19 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-03T13:00:00Z",
       "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cracked.com"
+      },
+      "Author": "Tim Grierson",
+      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
+      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
+      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
+      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
+      "PublishedAt": "2023-08-03T13:00:00Z",
+      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
     },
     {
       "Source": {
@@ -1137,19 +1189,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Kotaku"
-      },
-      "Author": "Isaiah Colbert",
-      "Title": "Holes Actor Wins Mortal Kombat Tourney In Goofy Movie Cosplay",
-      "Description": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who played Zero in the 2003 Disney film opposite Shia LaBeouf, won t…",
-      "Url": "https://kotaku.com/mortal-kombat-mk11-khleo-thomas-holes-cosplay-movies-1850696161",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c9c11a4034bd8e59008639802324402b.jpg",
-      "PublishedAt": "2023-08-01T16:56:00Z",
-      "Content": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who play… [+2630 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "GeekTyrant"
       },
       "Author": "Joey Paur",
@@ -1159,6 +1198,19 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64c91d7a5735a13896462926/1690909004726/emma-corrin-shares-her-excitement-and-confusion-about-starring-in-deadpool-3-its-an-absolute-mindf-k.jpg?format=1500w",
       "PublishedAt": "2023-08-01T16:56:00Z",
       "Content": "Emma Corrin(The Crown) is set to play the villain in Marvel Studios Deadpool 3, and they will find themselves facing off with Ryan Reynoldss Deadpool and Hugh Jackmans Wolverine. For the first time, … [+2546 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kotaku"
+      },
+      "Author": "Isaiah Colbert",
+      "Title": "Holes Actor Wins Mortal Kombat Tourney In Goofy Movie Cosplay",
+      "Description": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who played Zero in the 2003 Disney film opposite Shia LaBeouf, won t…",
+      "Url": "https://kotaku.com/mortal-kombat-mk11-khleo-thomas-holes-cosplay-movies-1850696161",
+      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c9c11a4034bd8e59008639802324402b.jpg",
+      "PublishedAt": "2023-08-01T16:56:00Z",
+      "Content": "At Dream Con, an anime and video game convention in Austin, Texas, actor Khleo Thomas, perhaps best known for the 2003 movie Holes, competed in and won a Mortal Kombat 11 tournament. Thomas, who play… [+2630 chars]"
     },
     {
       "Source": {
@@ -1250,58 +1302,6 @@
       "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/08/My-heart-is-filled-with-so-much-joy-Deyemi-Okanlawon-rejoices-as-his-sister-welcomes-twins-Kemi-Filani-blog-min.jpg",
       "PublishedAt": "2023-08-01T14:40:15Z",
       "Content": "Nollywood actor, Deyemi Okanlawon is in a joyous mood over the latest additions to his family.\r\nThe movie star, via his Instagram page, announced the birth of his nieces.\r\nDeyemi revealed that his fa… [+1676 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Root"
-      },
-      "Author": "Stephanie Holland",
-      "Title": "Comfort TV: Here Are the Shows We Binge When We Need a Boost",
-      "Description": "Photo: Raymond Liu/HBO\r\nWe’ve all been there. You’ve had a tough day and all you want to do is shut the world out, eat some junk food and hit play on your favorite TV shows. These are the ones that are the television equivalent of chicken soup. They just make…",
-      "Url": "https://www.theroot.com/comfort-tv-here-are-the-shows-we-binge-when-we-need-a-1850692746",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/97eb3c9aa9c6eb144cc3effb7a914444.jpg",
-      "PublishedAt": "2023-08-01T12:30:00Z",
-      "Content": "Weve all been there. Youve had a tough day and all you want to do is shut the world out, eat some junk food and hit play on your favorite TV shows. These are the ones that are the television equivale… [+256 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Talkofnaija.com"
-      },
-      "Author": "Halima",
-      "Title": "“May God keep all our children and grant us long life and good health” - Wumi Toriola prays as she spends time with her son",
-      "Description": "Nollywood actress, Wumi Toriola has lamented over her son’s behavior. The movie star, who is overseas had shared a video of her dancing as her son interrupts her to show off his own dancing skills. Lamenting over it, Wumi Toriola stated that she has giving bi…",
-      "Url": "https://talkofnaija.com/may-god-keep-all-our-children-and-grant-us-long-life-and-good-health-wumi-toriola-prays-as-she-spends-time-with-her-son/",
-      "UrlToImage": "https://talkofnaija.com/wp-content/uploads/2023/08/Wumi-Toriola-.jpg",
-      "PublishedAt": "2023-08-01T12:22:13Z",
-      "Content": "Nollywood actress, Wumi Toriola has lamented over her sons behavior.\r\nThe movie star, who is overseas had shared a video of her dancing as her son interrupts her to show off his own dancing skills.\r\n… [+299 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Guardian"
-      },
-      "Author": "Ryan Gilbey",
-      "Title": "Paul Reubens obituary",
-      "Description": "Actor whose television character Pee-wee Herman delighted children and their parents in the 1980sOne of the most subversive and original figures in 1980s popular culture was a whey-faced, cherry-lipped, matchstick-thin child-man who wore a red bow tie, white …",
-      "Url": "https://www.theguardian.com/film/2023/aug/01/paul-reubens-obituary",
-      "UrlToImage": "https://i.guim.co.uk/img/media/a305dd3e7cec7be9e9ddac6b8dc293a20979daac/0_161_2828_1696/master/2828.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd2289d378c1078b978ca199765e01e6",
-      "PublishedAt": "2023-08-01T11:56:05Z",
-      "Content": "One of the most subversive and original figures in 1980s popular culture was a whey-faced, cherry-lipped, matchstick-thin child-man who wore a red bow tie, white tasselled loafers and a shrunken grey… [+6459 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "therighttrader.com",
-      "Title": "The Bitcoin symbol in the Barbie movie",
-      "Description": "The primary actress in the film Barbie, Margot Robbie, recently alluded to bitcoin in an interview. When she heard her husband Tom Ackerley and the television producer David Heyman discussing Bitcoin on the set, she claimed to be reminded of Ken’s character. …",
-      "Url": "https://biztoc.com/x/2625ec0dab4744d2",
-      "UrlToImage": "https://c.biztoc.com/p/2625ec0dab4744d2/s.webp",
-      "PublishedAt": "2023-08-01T10:06:05Z",
-      "Content": "The primary actress in the film Barbie, Margot Robbie, recently alluded to bitcoin in an interview. When she heard her husband Tom Ackerley and the television producer David Heyman discussing Bitcoin… [+307 chars]"
     }
   ]
 }
