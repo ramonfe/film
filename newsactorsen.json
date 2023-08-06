@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1084,
+  "TotalResults": 1085,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Times of Israel"
+      },
+      "Author": null,
+      "Title": "After 3 week delay, the ‘Barbie’ movie set to be released in United Arab Emirates",
+      "Description": "No explanation given for holdup, but movie’s inclusion of a transgender actress in one of the Barbie roles and other messaging on LGBTQ+ issues could have been issue",
+      "Url": "https://www.timesofisrael.com/after-3-week-delay-the-barbie-movie-set-to-be-released-in-united-arab-emirates/",
+      "UrlToImage": "https://static.timesofisrael.com/www/uploads/2023/08/AP23216394953287-e1691209509265-1024x640.jpg",
+      "PublishedAt": "2023-08-05T05:24:18Z",
+      "Content": "DUBAI, United Arab Emirates The United Arab Emirates has approved the release of the Barbie movie after a three-week delay over possible content issues.\r\nUAE officials didn’t explain the screening de… [+1471 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -746,19 +759,6 @@
     },
     {
       "Source": {
-        "Id": null,
-        "Name": "Cracked.com"
-      },
-      "Author": "Tim Grierson",
-      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
-      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
-      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
-      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
-      "PublishedAt": "2023-08-03T13:00:00Z",
-      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
-    },
-    {
-      "Source": {
         "Id": "google-news",
         "Name": "Google News"
       },
@@ -769,6 +769,19 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-03T13:00:00Z",
       "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cracked.com"
+      },
+      "Author": "Tim Grierson",
+      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
+      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
+      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
+      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
+      "PublishedAt": "2023-08-03T13:00:00Z",
+      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/08/I-had-you-in-my-30s-when-I-thought-i-wouldnt-be-able-to-have-my-own-child-Kemi-Afolabi-celebrates-daughter-ahead-of-her-birthday-Kemi-Filani-blog-min.jpg",
       "PublishedAt": "2023-08-02T05:35:00Z",
       "Content": "Nollywood actress, Kemi Afolabi Adesipe is reminiscing on her daughter’s birth ahead of her birthday in a few days.\r\nTaking to her Instagram page, the Yoruba movie star, revealed that she had her chi… [+2085 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Sushant Singh's sister shares throwback pic",
-      "Description": "Sushant Singh Rajput's sister Shweta Singh recently took to her IG handle to share a throwback pic of the late actor, where he is seen posing on a bike, along with the cast of his movie M.S. Dhoni: The Untold Story. The actor allegedly died by suicide in June…",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sushant-singh-rajputs-sister-shweta-singh-shares-throwback-pic-of-him-leaves-fans-emotional-see-inside/articleshow/102334208.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-102334078,width-1070,height-580,imgsize-114695,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2023-08-02T03:12:17Z",
-      "Content": "Mumbai court drops extortion charges against Javed Akhtar but summons him for criminal intimidation offence on Kangana Ranaut's complaintA Mumbai court while issuing summons to lyricist Javed Akhtar … [+227 chars]"
     }
   ]
 }
