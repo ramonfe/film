@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 745,
+  "TotalResults": 720,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Este es el sorprendente sueldo que han cobrado Margot Robbie y Ryan Gosling en 'Barbie'",
+      "Description": "La película de 'Barbie' se ha convertido en un auténtico fenómeno de masas a nivel mundial. Millones de personas han ido a ver ya la controvertida cinta de Greta Gerwig sobre la muñeca más famosa de la historia, estrenada hace apenas dos semanas, que lidera l…",
+      "Url": "https://www.abc.es/play/cine/noticias/sorprendente-sueldo-cobrado-margot-robbie-ryan-gosling-barbie-20230805152057-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/08/05/margot-robbie-U47406701360oTY-1024x512@abc.PNG",
+      "PublishedAt": "2023-08-05T13:22:33Z",
+      "Content": "La película de 'Barbie' se ha convertido en un auténtico fenómeno de masas a nivel mundial. Millones de personas han ido a ver ya la controvertida cinta de Greta Gerwig sobre la muñeca más famosa de … [+2547 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-01T17:16:30Z",
       "Content": "La única forma de que cuele es que la mayor sea mujer."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Darío del Alcázar",
-      "Title": "¿Quién es Álvaro Mel? Todo lo que no sabías del protagonista ideal de 'Un cuento perfecto': de ser dj a acabar en la interpretación gracias a este conocido actor",
-      "Description": "Todo el que haya comenzado a ver la última serie de Netflix inspirada en una de las nivelas de Elísabet Benavent, 'Un cuento perfecto', estarán de acuerdo con nosotros en que la imperfección de su personaje principal, David, le hace tan ideal como irresistibl…",
-      "Url": "https://www.trendencias.com/celebrities/quien-alvaro-mel-todo-que-no-sabias-protagonista-ideal-cuento-perfecto-ser-dj-a-acabar-interpretacion-gracias-a-este-conocido-actor",
-      "UrlToImage": "https://i.blogs.es/c89147/363785438_985438419241785_7316230916116290246_n/840_560.jpeg",
-      "PublishedAt": "2023-08-01T17:11:17Z",
-      "Content": "Todo el que haya comenzado a ver la última serie de Netflix inspirada en una de las nivelas de Elísabet Benavent, 'Un cuento perfecto', estarán de acuerdo con nosotros en que la imperfección de su pe… [+2754 chars]"
     }
   ]
 }

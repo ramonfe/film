@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 237,
+  "TotalResults": 228,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Este es el sorprendente sueldo que han cobrado Margot Robbie y Ryan Gosling en 'Barbie'",
+      "Description": "La película de 'Barbie' se ha convertido en un auténtico fenómeno de masas a nivel mundial. Millones de personas han ido a ver ya la controvertida cinta de Greta Gerwig sobre la muñeca más famosa de la historia, estrenada hace apenas dos semanas, que lidera l…",
+      "Url": "https://www.abc.es/play/cine/noticias/sorprendente-sueldo-cobrado-margot-robbie-ryan-gosling-barbie-20230805152057-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/08/05/margot-robbie-U47406701360oTY-1024x512@abc.PNG",
+      "PublishedAt": "2023-08-05T13:22:33Z",
+      "Content": "La película de 'Barbie' se ha convertido en un auténtico fenómeno de masas a nivel mundial. Millones de personas han ido a ver ya la controvertida cinta de Greta Gerwig sobre la muñeca más famosa de … [+2547 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/m1CxE-ZSFKF2MA95V-6tKS06XZw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UJVLOCYCGFHIJNXV5H2MN3OQTU.jpg",
       "PublishedAt": "2023-07-23T23:32:32Z",
       "Content": "Los cines por fin tienen algo que celebrar: Barbie, una comedia sobre la famosa muñeca de moda, y Oppenheimer, una biografía del inventor de la bomba atómica, atrajeron a los aficionados al cine en m… [+5003 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "ccguy",
-      "Title": "'Tierra de nuestras madres' tira de humor absurdo rural para lanzar una carcajada contra el capitalismo en el fin de semana más capitalista de la cartelera",
-      "Description": "'Tierra de nuestras madres' se niega a darle un misticismo inexistente a la España vaciada y se alza en armas no solo contra el capitalismo, sino también contra un tipo de cine rural cuqui, acercándose más a 'Destello bravío' y 'Amanece que no es poco' que a …",
-      "Url": "https://www.meneame.net/m/cultura/tierra-nuestras-madres-tira-humor-absurdo-rural-lanzar-carcajada",
-      "UrlToImage": null,
-      "PublishedAt": "2023-07-23T18:15:23Z",
-      "Content": "Ni zorra de si es buena, pero me ha gustado la reseña, y en este finde de mierda que estamos teniendo algo que no sea política puede estar bien..."
     }
   ]
 }
