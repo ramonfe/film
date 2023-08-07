@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 726,
+  "TotalResults": 727,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "La madre de Angus Cloud contó cómo transcurrieron las últimas horas del actor: “No tenía intenciones de quitarse la vida, pero no sé qué consumió esa noche”",
+      "Description": "En su cuenta de Facebook, Lisa McIaughlin compartió un emotivo posteo en el que brinda algunos detalles de la situación que atravesaba el intérprete de 25 años, conocido por su participación en la serie Euphoria",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/la-madre-de-angus-cloud-conto-como-transcurrieron-las-ultimas-horas-del-actor-no-tenia-intenciones-nid05082023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/FPIKDYSL-3cxSbSzfudr8skAuuA=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/6XOIDZJGU5AVDIZLMTFZTWPLXI.jpg",
+      "PublishedAt": "2023-08-06T00:28:36Z",
+      "Content": "La noticia de su muerte conmocionó a sus miles de fanáticos que lo descubrieron a través de la serie de HBO Euphoria y a sus colegas: Angus Cloud fue encontrado muerto en su casa de Oakland, Californ… [+4029 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/files/fp/uploads/2023/08/01/zendaya-y-angus-cloud.r_d.1412-768-0.jpeg",
       "PublishedAt": "2023-08-01T22:34:09Z",
       "Content": "La actriz estadounidense Zendaya recordó este martes a Angus Cloud, su compañero de reparto en la serie Euphoria (HBO), que murió este lunes a los 25 años, con una publicación de Instagram en la que … [+2204 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Trump, imputado por intentar revocar el resultado de las elecciones de 2020",
-      "Description": "El expresidente de Estados Unidos Donald Trump ha sido imputado este martes por un gran jurado de Washington en el marco de la investigación abierta en su contra por intentar revocar el resultado de las elecciones de 2020, que dieron la victoria a Joe Biden. …",
-      "Url": "https://www.abc.es/internacional/trump-imputado-intentar-revocar-resultado-elecciones-2020-20230802000641-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2023/08/02/trump.jpg",
-      "PublishedAt": "2023-08-01T22:06:41Z",
-      "Content": "Donald Trump ha vuelto a recibir este martes una imputación, esta vez por su campaña para dar la vuelta a los resultados de las elecciones presidenciales de 2020, en las que perdió frente al actual p… [+1725 chars]"
     }
   ]
 }
