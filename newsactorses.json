@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 727,
+  "TotalResults": 728,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Fernando Tejero, entre japutas y sin lengua",
+      "Description": "El actor Fernando Tejero tenía 14 años cuando su padre le hizo la temida pregunta a la que más o menos todos los nacidos antes de los ochenta hemos tenido que responder: ¿Vas a estudiar algo de provecho, o te pones a trabajar? Fernando cometió el error de ser…",
+      "Url": "https://www.abc.es/cultura/fernando-tejero-japutas-lengua-20230806042439-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/cultura/2023/08/04/tejero-1-U68684836856Jsk-1024x512@abc.jpg",
+      "PublishedAt": "2023-08-06T02:24:40Z",
+      "Content": "El actor Fernando Tejero tenía 14 años cuando su padre le hizo la temida pregunta a la que más o menos todos los nacidos antes de los ochenta hemos tenido que responder: ¿Vas a estudiar algo de prove… [+3493 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.eluniversal.com.co/binrepository/801x766/0c0/800d686/none/13704/WOOI/angus-cloud-2_8202811_20230801180231.jpg",
       "PublishedAt": "2023-08-01T23:02:26Z",
       "Content": "La actriz estadounidense Zendaya recordó este martes a Angus Cloud, su compañero de reparto en la serie Euphoria (HBO), que falleció ayer a los 25 años, con una publicación de Instagram en la que exp… [+2344 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Huffingtonpost.es"
-      },
-      "Author": "Jorge Álvarez",
-      "Title": "Zendaya se despide de Angus Cloud con un emocionante mensaje: \"Las palabras no son suficientes\"",
-      "Description": "<![CDATA[<p>La actriz estadounidense Zendaya recordó este martes a Angus Cloud, su compañero de reparto en la serie Euphoria (HBO), que murió este lunes a los 25 años, con una publicación de Instagram en la que expresó que \"las palabras no son suficientes\" pa…",
-      "Url": "https://www.huffingtonpost.es/life/influencers-celebrities/zendaya-despide-angus-cloud-emocionante-mensaje-las-palabras-son-suficientes.html",
-      "UrlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/files/fp/uploads/2023/08/01/zendaya-y-angus-cloud.r_d.1412-768-0.jpeg",
-      "PublishedAt": "2023-08-01T22:34:09Z",
-      "Content": "La actriz estadounidense Zendaya recordó este martes a Angus Cloud, su compañero de reparto en la serie Euphoria (HBO), que murió este lunes a los 25 años, con una publicación de Instagram en la que … [+2204 chars]"
     }
   ]
 }
