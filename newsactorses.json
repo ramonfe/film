@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 734,
+  "TotalResults": 735,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La madre de Angus Cloud ('Euphoria') rompe su silencio y revela la verdadera causa de la muerte de su hijo",
+      "Description": "La muerte de Angus Cloud todavía sigue sacudiendo a Hollywood casi una semana después de anunciarse su repentino fallecimiento con tan solo 25 años . El intérprete, conocido por su papel en la serie de HBO 'Euphoria' , fue encontrado sin pulso el pasado 31 de…",
+      "Url": "https://www.abc.es/play/series/noticias/madre-angus-cloud-rompe-silencio-revela-verdadera-20230806160118-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/08/06/angus-cloud-U35232684502HcC-1024x512@abc.jpg",
+      "PublishedAt": "2023-08-06T14:01:19Z",
+      "Content": "La muerte de Angus Cloud todavía sigue sacudiendo a Hollywood casi una semana después de anunciarse su repentino fallecimiento con tan solo 25 años. El intérprete, conocido por su papel en la serie d… [+3287 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/123107.jpg",
       "PublishedAt": "2023-08-02T07:51:50Z",
       "Content": "El director Edgar Wright y el actor Simon Pegg trabajan juntos en un nuevo proyecto que nada tendrá que ver con su famosa trilogía de Cornetto. El propio Pegg fue quien le dijo a DiscussingFilm que é… [+1182 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "La muerte de Angus Cloud: los conmovedores mensajes de despedida de Zendaya, Sydney Sweeney y el resto de sus compañeros de Euphoria",
-      "Description": "El joven actor que interpretó a Fezco en la popular serie de HBO falleció este martes, a los 25 años, una semana después de que falleciera su padre",
-      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/la-muerte-de-angus-cloud-los-conmovedores-mensajes-de-despedida-de-zendaya-sydney-sweeney-y-el-resto-nid02082023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/1oOp5g1kvrzjJmFZ67Oyn_Yzo1c=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/7AIMLGJS7JEJ3OXWG2I3KOBF2U.jpg",
-      "PublishedAt": "2023-08-02T07:46:13Z",
-      "Content": "La noticia de la muerte de Angus Cloud, a los 25 años, conmocionó a sus miles de seguidores y a la colonia artística estadounidense. Una vez superada la sorpresa y el estupor, varios de sus compañero… [+3999 chars]"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 229,
+  "TotalResults": 230,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Alexandra González",
+      "Title": "'Barbie' se vuelve la primera película dirigida por una mujer en llegar al billón de dólares",
+      "Description": "¡La película'Barbie' dirigida por Greta Gerwig ha marcado un hito histórico en la industria cinematográfica! Por primera vez, una película dirigida por una mujer ha logrado superar el billón de dólares en taquilla, consolidando a Gerwig como una figura destac…",
+      "Url": "https://www.milenio.com/espectaculos/cine/barbie-cinta-directora-llegar-billon-dolares",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/06/barbie-pelicula-dirigida-mujer-superar.jpg",
+      "PublishedAt": "2023-08-06T14:45:00Z",
+      "Content": "¡La película 'Barbie' dirigida por Greta Gerwig ha marcado un hito histórico en la industria cinematográfica! Por primera vez, una película dirigida por una mujer ha logrado superar el billón de dóla… [+4745 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/9e6703/peliculas-el-corte-ingles/840_560.jpeg",
       "PublishedAt": "2023-07-24T09:30:47Z",
       "Content": "Cada poco tiempo, El Corte Inglés comienza con sus ofertas en películas. Normalmente suele ser la misma promoción, la de \"llévate tres películas por el precio de dos\", pero en este caso es diferente,… [+4346 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Huffingtonpost.es"
-      },
-      "Author": "Uxía Prieto",
-      "Title": "'Barbie' devuelve la alegría a las salas de cine",
-      "Description": "<![CDATA[<p>Barbie es uno de los estrenos del año y ha conseguido poner de acuerdo a la crítica y a la taquilla. La película de Greta Gerwig está arrasando en la taquilla tanto a nivel internacional como nacional y dando una alegría a las salas de cine despué…",
-      "Url": "https://www.huffingtonpost.es/life/cultura/barbie-devuelve-alegria-salas-cine.html",
-      "UrlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2023/07/21/ryan-gosling-y-margot-robbie-en-barbieland.jpeg",
-      "PublishedAt": "2023-07-24T08:16:15Z",
-      "Content": "Barbie es uno de los estrenos del año y ha conseguido poner de acuerdo a la crítica y a la taquilla. La película de Greta Gerwig está arrasando en la taquilla tanto a nivel internacional como naciona… [+1024 chars]"
     }
   ]
 }
