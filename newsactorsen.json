@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1013,
+  "TotalResults": 1014,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Mail"
+      },
+      "Author": "Matt Demarco",
+      "Title": "Australian smash hit horror film Talk To Me is been banned from cinemas in Kuwait because it stars a trans person after making $18m at the US box office: 'Devastating and terrifying'",
+      "Description": "Kuwait has banned Aussie horror movie Talk to Me from its cinemas because it stars a trans actor.",
+      "Url": "https://www.dailymail.co.uk/tvshowbiz/article-12379763/Australian-smash-hit-horror-film-Talk-banned-cinemas-Kuwait-stars-trans-person-making-18m-box-office-Devastating-terrifying.html",
+      "UrlToImage": "https://i.dailymail.co.uk/1s/2023/08/07/06/74031957-0-image-a-52_1691387127927.jpg",
+      "PublishedAt": "2023-08-07T06:00:01Z",
+      "Content": "Kuwait has banned Aussie horror movie Talk to Me from its cinemas because it stars a trans actor.\r\nWhile banning films depicting LGBTQ themes or characters is not unusual in Middle Eastern states, th… [+2584 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -1032,19 +1045,6 @@
     },
     {
       "Source": {
-        "Id": null,
-        "Name": "Cracked.com"
-      },
-      "Author": "Tim Grierson",
-      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
-      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
-      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
-      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
-      "PublishedAt": "2023-08-03T13:00:00Z",
-      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
-    },
-    {
-      "Source": {
         "Id": "google-news",
         "Name": "Google News"
       },
@@ -1055,6 +1055,19 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-03T13:00:00Z",
       "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cracked.com"
+      },
+      "Author": "Tim Grierson",
+      "Title": "How Seth Rogen’s Comedies Became the Perfect End-of-Summer Treat",
+      "Description": "With the excellent new Teenage Mutant Ninja Turtles movie, the actor/writer/producer once again demonstrates why he’s the King of August at the box office",
+      "Url": "https://www.cracked.com/article_38914_how-seth-rogens-comedies-became-the-perfect-end-of-summer-treat.html",
+      "UrlToImage": "https://s3.crackedcdn.com/phpimages/article/4/8/9/904489.jpg",
+      "PublishedAt": "2023-08-03T13:00:00Z",
+      "Content": "Sometimes, a movie star or franchise rules a specific date on the release calendar. For years, Will Smith was the King of Independence Day. Liam Neeson would put out his geriaction flicks every Janua… [+7981 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/1de7c1af2e6ed446/s.webp",
       "PublishedAt": "2023-08-02T18:28:07Z",
       "Content": "Learn More \"Pee-wee's Playhouse\" is a beloved children's show that first aired in the mid-1980s. It was hosted by one of the most unique TV stars of all time in Pee-Wee Herman, the on-stage persona o… [+305 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Michelle Jaworski",
-      "Title": "The hottest memes of the summer",
-      "Description": "This column first appeared in web_crawlr, the Daily Dot's newsletter. If you want to get news like this before everyone else, sign up for the newsletter here and let us crawl the web so you don't have to. \n\n\n\n<!-- /wp:separator -->\n\r\n\nThis summer has been ful…",
-      "Url": "https://www.dailydot.com/unclick/hottest-memes-of-the-summer-2023/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/07/Summer-Memes.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2023-08-02T18:00:00Z",
-      "Content": "This column first appeared in web_crawlr, the Daily Dot’s newsletter. If you want to get news like this before everyone else, sign up for the newsletter here and let us crawl the web so you don’t hav… [+6141 chars]"
     }
   ]
 }
