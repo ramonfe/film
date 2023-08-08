@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1042,
+  "TotalResults": 1043,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "William Friedkin, Oscar-Winning Director of 'The Exorcist,' 'The French Connection,' Dead at 87",
+      "Description": "William Friedkin, the Oscar-winning director who became a top filmmaker in his 30s with the gripping \"The French Connection\" and the horrifying \"The Exorcist\" and struggled in the following decades to match his early success has died. He was 87.\n\n\nFriedkin, w…",
+      "Url": "https://www.voanews.com/a/william-friedkin-oscar-winning-director-of-the-exorcist-the-french-connection-dead-at-87-/7215259.html",
+      "UrlToImage": "https://gdb.voanews.com/01000000-0aff-0242-0669-08db97809d46_cx0_cy2_cw0_w1200_r1.jpg",
+      "PublishedAt": "2023-08-07T21:14:21Z",
+      "Content": "Los angeles  William Friedkin, the Oscar-winning director who became a top filmmaker in his 30s with the gripping \"The French Connection\" and the horrifying \"The Exorcist\" and struggled in the follow… [+4058 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://img.huffingtonpost.com/asset/64cbc9632200006e00ec71b7.jpeg?cache=GPwQJPnUAg&ops=1200_630",
       "PublishedAt": "2023-08-03T18:33:38Z",
       "Content": "Steven Spielberg was apparently really determined to convince Will Smith to star in the 1997 film Men in Black. \r\nDuring an appearance on Peacocks Hart to Heart, Smith told host Kevin Hart that Spiel… [+1207 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Christopher Nolan Explains Why It's Sometimes Hard to Hear Dialogue in His Films",
-      "Description": "Remember watching The Dark Knight Rises for the first time and having a hard time hearing what Bane was saying during the big opening sequence of the movie? There were so many complaints about the sound. This sound issue is something that we’ve consistently s…",
-      "Url": "https://geektyrant.com/news/christopher-nolan-explains-imax-cameras-are-reason-its-hard-to-hear-dialogue-in-his-films",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/64cbbb26045d0f4ddb17a0b9/1691087120917/christopher-nolan-explains-imax-cameras-are-reason-its-hard-to-hear-dialogue-in-his-films.jpg?format=1500w",
-      "PublishedAt": "2023-08-03T18:25:00Z",
-      "Content": "Remember watchingThe Dark Knight Risesfor the first time and having a hard time hearing what Bane was saying during the big opening sequence of the movie? There were so many complaints about the soun… [+2210 chars]"
     }
   ]
 }
