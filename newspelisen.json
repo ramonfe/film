@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1810,
+  "TotalResults": 1813,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Boston Globe"
+      },
+      "Author": "Matthew Gilbert",
+      "Title": "Unlike movie theater audiences, TV viewers aren’t captive to ads",
+      "Description": "My “Barbie” screening began 23 minutes after the 2 p.m. time listed in the paper. That’s, you know, enough time to take a shower, or do a light workout, or take my dog out for a walk.",
+      "Url": "https://www.bostonglobe.com/2023/08/08/lifestyle/unlike-movie-theater-audiences-tv-viewers-arent-captive-ads/",
+      "UrlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/wWzsdndAhH2ZTFvhWcfESd219p0=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/NS2MLLFWIVPLKJEVB5ZEVRA3OI.jpg",
+      "PublishedAt": "2023-08-08T17:32:27Z",
+      "Content": "Ill save you from my opinion of Barbie, since there is an abundance of Barb-analysis out there. Turns out there is a lot to say about the politics, aesthetics, and philosophical meaning of Barbie, Ke… [+1506 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Common Dreams"
+      },
+      "Author": "Gerard Boyce",
+      "Title": "The Scientist Who Walked Away From the Manhattan Project",
+      "Description": "Last month saw the release of the highly anticipated blockbuster movie Oppenheimer. Based on a biography of the head of the Manhattan Project, the U.S.’s secret World War II program to develop the atomic bomb, this movie has received positive reviews from cri…",
+      "Url": "https://www.commondreams.org/opinion/joseph-rotblat",
+      "UrlToImage": "https://www.commondreams.org/media-library/joseph-rotblat-with-his-hands-raised-sitting-in-front-of-books.jpg?id=34796140&width=1200&height=600&coordinates=0%2C303%2C0%2C303",
+      "PublishedAt": "2023-08-08T17:30:35Z",
+      "Content": "Last month saw the release of the highly anticipated blockbuster movie Oppenheimer. Based on a biography of the head of the Manhattan Project, the U.S.s secret World War II program to develop the ato… [+4592 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Mongodb.com"
+      },
+      "Author": "Alex Bevilacqua",
+      "Title": "Changes to the findOneAnd* APIs in Node.js Driver 6.0.0",
+      "Description": "Do you use the MongoDB Node.js driver? If so, there’s a good chance you use various find() operations regularly.\nMongoDB plans to release version 6.0.0 of the Node.js driver in August 2023, and we’ve made some exciting improvements to the findOneAnd&ast; oper…",
+      "Url": "https://mongodb.com/blog/post/behavioral-changes-find-one-family-apis-node-js-driver-6-0-0",
+      "UrlToImage": "https://webimages.mongodb.com/_com_assets/cms/kv6qz4v5ozumn6llm-Blog%20Header%204.png?auto=format%252Ccompress",
+      "PublishedAt": "2023-08-08T17:20:00Z",
+      "Content": "Do you use the MongoDB Node.js driver? If so, theres a good chance you use various find() operations regularly.\r\nMongoDB plans to release version 6.0.0 of the Node.js driver in August 2023, and weve … [+4476 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://www.adexchanger.com/wp-content/uploads/2023/08/movietheatresquare400.jpg",
       "PublishedAt": "2023-08-07T13:00:42Z",
       "Content": "Programmatic ad buying is picking up traction in connected TV land. Next up: movie theaters.\r\nOn Monday, in-cinema advertising company National CineMedia (NCM) announced plans to sell movie screen in… [+4244 chars]"
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "marca.com",
-      "Title": "Kim Kardashian joins the latest fashion trend and wears a Barbie-inspired outfit",
-      "Description": "The release of the &apos;Barbie&apos; movie a few weeks ago has sparked a wave of interest among celebrities aiming to embody the doll&apos;s iconic image.\nKim Kardashian is joinin",
-      "Url": "https://www.marca.com/en/lifestyle/celebrities/2023/08/07/64d0e815ca474101278b4588.html",
-      "UrlToImage": "https://phantom-marca.unidadeditorial.es/5bfefcee7188bd512ebb8c3115f84dfd/resize/1200/f/jpg/assets/multimedia/imagenes/2023/08/07/16914130202590.jpg",
-      "PublishedAt": "2023-08-07T13:00:07Z",
-      "Content": "The release of the 'Barbie' movie a few weeks ago has sparked a wave of interest among celebrities aiming to embody the doll's iconic image.\r\nKim Kardashian is joining this movement with a fresh appe… [+1255 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Apple Newsroom"
-      },
-      "Author": "Casey Liss",
-      "Title": "Announcing Callsheet",
-      "Description": "Today, I’m overjoyed to announce the release of my latest app, Callsheet.\n\n \n\nCallsheet, in short, allows you to look up movies, TV shows, cast, and crew. You\ncan think of it as similar to the IMDB app but… with respect for its users. Which,\nactually, makes i…",
-      "Url": "https://apps.apple.com/us/app/callsheet-find-cast-crew/id1672356376",
-      "UrlToImage": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/8b/c3/b08bc30e-481b-fca0-bb66-98bd83448743/AppIcon-0-1x_U007epad-85-220.jpeg/1200x630wa.png",
-      "PublishedAt": "2023-08-07T12:55:02Z",
-      "Content": "Find information about your favorite movies and shows, without constant login prompts, ads, auto-playing videos, and other junk.\r\nHave you ever wondered \"who is that actor?\", or perhaps \"when was thi… [+1815 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "'Barbie' dominates cinemas: Movie tops $1 billion globally in first for solo woman director",
-      "Description": "The pink wave has yet to crest, the 'Barbie' movie has sold more than a billion dollars worth of tickets at the global box office, after just 17 days on general release. The milestone makes Greta Gerwig the first woman to reach the such heights as a solo dire…",
-      "Url": "https://www.france24.com/en/video/20230807-barbie-dominates-cinemas-movie-tops-1-billion-globally-in-first-for-solo-woman-director",
-      "UrlToImage": "https://s.france24.com/media/display/db5bf12e-351f-11ee-b027-005056bfb2b6/w:1280/p:16x9/m:{\"brand\":\"FRANCE24\",\"lang\":\"EN\",\"program\":\"\",\"cartouche\":\"'BARBIE'\",\"hash\":\"54bf9728be40b2f6a2d6049c2189a8bda3ee077b80c046d25fc675a09871c719\",\"title\":\"Movie%20tops%250A%241%20billion%20globally\",\"id\":\"25aba80c-45fb-11ec-90e2-005056bf30b7\"}/EN_20230807_141316_141443_CS.jpg",
-      "PublishedAt": "2023-08-07T12:42:31Z",
-      "Content": "Issued on: 07/08/2023 - 14:42Modified: 07/08/2023 - 14:46\r\nThe pink wave has yet to crest, the 'Barbie' movie has sold more than a billion dollars worth of tickets at the global box office, after jus… [+196 chars]"
     }
   ]
 }
