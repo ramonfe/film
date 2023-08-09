@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 230,
+  "TotalResults": 231,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Disney crea grupo de trabajo para explorar la IA y bajar costos",
+      "Description": "Walt Disney creó un grupo de trabajo para estudiar la inteligencia artificial y cómo puede aplicarse en el conglomerado del entretenimiento, a pesar de que los guionistas y actores de Hollywood luchan por limitar la explotación de la tecnología por parte de l…",
+      "Url": "https://www.milenio.com/negocios/disney-crea-grupo-explorar-ia-y-bajar-costos",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/08/actores-guionistas-manifestandose-exterior-walt.jpg",
+      "PublishedAt": "2023-08-08T19:03:00Z",
+      "Content": "Walt Disney creó un grupo de trabajo para estudiar la inteligencia artificial y cómo puede aplicarse en el conglomerado del entretenimiento, a pesar de que los guionistas y actores de Hollywood lucha… [+6096 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/07/26/sonido-de-libertad-llegara-a.jpg",
       "PublishedAt": "2023-07-26T12:54:18Z",
       "Content": "El pasado 4 de julio se estrenó en Estados Unidos la película Sonido de Libertad, o Sound of Freedom la cual se volvió todo un éxito en taquilla al superar en ingresos a la quinta entrega de Indiana … [+1736 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Primeras imágenes de la serie 'Camilo Superstar' de Atresplayer, que se verá junto a 'La red púrpura' en San Sebastián",
-      "Description": "Camilo Superstar, la serie de Atresplayer sobre el desafío que fue para Camilo Sesto adaptar Jesucristo Superstar en España, ha lanzado ya sus primeras imágenes. La ficción de Atresmedia en colaboración con Buendía Estudios estará protagonizada por Alejandro …",
-      "Url": "https://www.eldiario.es/vertele/noticias/primeras-imagenes-serie-camilo-superstar-atresplayer-vera-red-purpura-san-sebastian_3_10409461.html",
-      "UrlToImage": "https://static.eldiario.es/clip/84e25cc9-7a4f-45f1-a3bb-c04c12e03ff8_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-07-26T11:57:14Z",
-      "Content": "Camilo Superstar, la serie de Atresplayer sobre el desafío que fue para Camilo Sesto adaptar Jesucristo Superstar en España, ha lanzado ya sus primeras imágenes. La ficción de Atresmedia en colaborac… [+2861 chars]"
     }
   ]
 }

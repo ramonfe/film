@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 723,
+  "TotalResults": 724,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia Reuters",
+      "Title": "Disney crea grupo de trabajo para explorar la IA y bajar costos",
+      "Description": "Walt Disney creó un grupo de trabajo para estudiar la inteligencia artificial y cómo puede aplicarse en el conglomerado del entretenimiento, a pesar de que los guionistas y actores de Hollywood luchan por limitar la explotación de la tecnología por parte de l…",
+      "Url": "https://www.milenio.com/negocios/disney-crea-grupo-explorar-ia-y-bajar-costos",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/08/actores-guionistas-manifestandose-exterior-walt.jpg",
+      "PublishedAt": "2023-08-08T19:03:00Z",
+      "Content": "Walt Disney creó un grupo de trabajo para estudiar la inteligencia artificial y cómo puede aplicarse en el conglomerado del entretenimiento, a pesar de que los guionistas y actores de Hollywood lucha… [+6096 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/64ccba6fc3d911ffcd5e96bb/16:9/w_1280,c_limit/matthew-macfadyen-sarah-snook.jpeg",
       "PublishedAt": "2023-08-04T10:18:19Z",
       "Content": "Han pasado meses desde la conclusión de Succession y muchos todavía estamos debatiendo la traición de Shiv Roy en el último momento, una decisión que allanó el camino para que su marido Tom, del que … [+3459 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Cristina Vila",
-      "Title": "El duro entrenamiento que puso a Henry Cavill a punto para su última temporada en The Witcher",
-      "Description": "Algunos fans aún siguen apenados por la marcha de Henry Cavill de The Witcher. El actor lo dio todo de sí mismo para interpretar a Geralt de Rivia, no solo mentalmente, sino también físicamente. El intérprete lleva años siendo conocido por tener un físico pri…",
-      "Url": "https://www.revistagq.com/articulo/entrenamiento-henry-cavill-the-witcher",
-      "UrlToImage": "https://media.revistagq.com/photos/64cb85d02a2ce6c05ac8fdbb/16:9/w_1280,c_limit/henry-cavill-entreno.jpg",
-      "PublishedAt": "2023-08-04T09:12:46Z",
-      "Content": "En su entreno incluía tres series de 10 repeticiones, haciendo una pausa de cuatro segundos cuando hayamos levantado el peso.\r\nEs otro ejercicio enfocado en los isquiotibiales, los glúteos y la espal… [+1920 chars]"
     }
   ]
 }
