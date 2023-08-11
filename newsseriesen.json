@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 96,
+  "TotalResults": 95,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Michelle Jaworski",
+      "Title": "Why has ‘Suits’ blown up so much on Netflix?",
+      "Description": "Netflix has seen its fair share of hit TV shows emerge and return over the past few weeks, with The Witcher, Never Have I Ever, Heartstopper, and The Lincoln Lawyer among them. But it’s far from Netflix’s biggest show of the summer. That honor goes to, of all…",
+      "Url": "https://www.dailydot.com/?p=1376180",
+      "UrlToImage": "https://uploads.dailydot.com/2023/08/suits.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-08-10T12:00:00Z",
+      "Content": "Netflix has seen its fair share of hit TV shows emerge and return over the past few weeks, with The Witcher, Never Have I Ever, Heartstopper, and The Lincoln Lawyer among them. But its far from Netfl… [+9478 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1224,32 +1237,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/07/1200x675-2.jpg?resize=1200,630",
       "PublishedAt": "2023-07-10T16:18:19Z",
       "Content": "Netflixs new reality television series, Zombieverse, gives contestants a chance to see if they could actually survive a real zombie apocalypse.\r\nNetflix has released the first trailer for Zombieverse… [+1671 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.2.0a22",
-      "Description": "2023.2.0a22\n\n July 10, 2023\n \n unityhub://2023.2.0a22/6c8dc80eafdf\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CP…",
-      "Url": "https://unity.com/releases/editor/alpha/2023.2.0a22",
-      "UrlToImage": null,
-      "PublishedAt": "2023-07-10T10:49:24Z",
-      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+175005 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Podcastone.com"
-      },
-      "Author": "info@podcastone.com, Adam Carolla",
-      "Title": "Jay Mohr Impersonations + News on Our Scorching Planet and Socialism Rants",
-      "Description": "Comedians Jay Mohr and Stephen Root join Adam for an unforgettable episode as Jay brings on the laughs with some impressive impersonations.  Stephen Root discloses his experiences working with the Coen Brothers and his early beginnings performing Shakespear. …",
-      "Url": "https://www.podcastone.com/episode/Jay-Mohr-Impersonations--News-on-Our-Scorching-Planet-and-Socialism-Rants",
-      "UrlToImage": "https://img.podcastone.com/images/313/ACS_fb.png",
-      "PublishedAt": "2023-07-10T07:01:00Z",
-      "Content": "Comedians Jay Mohr and Stephen Root join Adam for an unforgettable episode as Jay brings on the laughs with some impressive impersonations. Stephen Root discloses his experiences working with the Coe… [+1091 chars]"
     }
   ]
 }
