@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1806,
+  "TotalResults": 1808,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eurogamer.net"
+      },
+      "Author": "Vikki Blake",
+      "Title": "The live action Super Mario Bros. movie is getting a 4K theatrical re-release later this year",
+      "Description": "The Super Mario Bros. movie is getting a 4K theatrical re-release later in Japan this year.\nNo, I'm not talking about the record-breaking movie starring Chris Pratt and Jack Black – I'm talking about the infamous 1993 live-action offering starring Bob Hoskins…",
+      "Url": "https://www.eurogamer.net/the-live-action-super-mario-bros-movie-is-getting-a-4k-theatrical-re-release-later-this-year",
+      "UrlToImage": "https://assetsio.reedpopcdn.com/super-mario-bros-actor-bob-hoskins-dies-aged-71-1398861642834.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "PublishedAt": "2023-08-13T16:46:05Z",
+      "Content": "The Super Mario Bros. movie is getting a 4K theatrical re-release later in Japan this year.\r\nNo, I'm not talking about the record-breaking movie starring Chris Pratt and Jack Black – I'm talking abou… [+1286 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "How to add select foreign keys from django html template",
+      "Description": "iam trying to create an add movie function on my movie project,\nfields such as actor,director are added as foreign keys.\nwhen i do this via iam only able to add non foreign key fiels to the object.\nthis is the Movie model\nclass Movie(models.Model):\n user=mode…",
+      "Url": "https://stackoverflow.com/questions/76894196/how-to-select-foreign-keys-from-django-html-template",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2023-08-13T16:22:55Z",
+      "Content": "iam trying to create an add movie function on my movie project,\r\nfields such as actor,director are added as foreign keys.\r\nwhen i do this via iam only able to add non foreign key fiels to the object.… [+7395 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -1276,32 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-10T23:37:27Z",
       "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "JoBlo.com"
-      },
-      "Author": "Kevin Fraser",
-      "Title": "Deadpool 3 removed from Disney’s release schedule; will the movie be delayed?",
-      "Description": "Deadpool 3 may not see its May release as the Marvel sequel has been pulled from Disney's upcoming schedule.\nThe post Deadpool 3 removed from Disney’s release schedule; will the movie be delayed? appeared first on JoBlo.",
-      "Url": "https://www.joblo.com/deadpool-3-release-delayed/",
-      "UrlToImage": "https://www.joblo.com/wp-content/uploads/2023/08/deadpool-3-release-date-delay.jpg",
-      "PublishedAt": "2023-08-10T20:53:51Z",
-      "Content": "Deadpool 3 may not see its May release as the Marvel sequel has been pulled from Disney’s upcoming schedule.\r\nWe may have to wait a little longer for the release of Deadpool 3. The sequel, which will… [+2651 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Kara Hedash",
-      "Title": "Mattel's Real Weird Barbie Doll Misses The Point Of Kate McKinnon's Movie Character",
-      "Description": "Mattel is officially releasing a doll based on Kate McKinnon’s Weird Barbie character, but the release shows the company doesn’t understand the movie.",
-      "Url": "https://screenrant.com/weird-barbie-doll-mattel-movie-miss-point-character/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/mattel-s-real-weird-barbie-doll-misses-the-point-of-kate-mckinnon-s-movie-character.jpeg",
-      "PublishedAt": "2023-08-10T20:31:17Z",
-      "Content": "Warning: Spoilers ahead for Greta Gerwig's Barbie!Kate McKinnon's \"Weird Barbie\" was a highlight of Greta Gerwig's Barbie, but the fact that Mattel is now selling a Weird Barbie doll proves the compa… [+3476 chars]"
     }
   ]
 }
