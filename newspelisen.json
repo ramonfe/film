@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1802,
+  "TotalResults": 1805,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "New York Post"
+      },
+      "Author": "Mary K. Jacob",
+      "Title": "Exclusive Florida mansion with ex-Marines on patrol lists for $24.2M",
+      "Description": "This Delray Beach stunner has every amenity imaginable, such as a library and a movie theater, but it also comes with former military community security.",
+      "Url": "https://nypost.com/2023/08/14/florida-mansion-with-ex-marines-on-patrol-lists-for-24-2m/",
+      "UrlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-1tug8rqyn-1692044884096.jpg?quality=75&strip=all&1692031323&w=1024",
+      "PublishedAt": "2023-08-14T20:58:59Z",
+      "Content": "A Florida mansion in the exclusive Stone Creek Ranch community in Delray Beach has listed for $24.2 million. \r\nKnown as the Rosewood Estate and pegged as real estate “eye candy,” the mansion spans an… [+1467 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sneaker News"
+      },
+      "Author": "Jovani Hernandez",
+      "Title": "The Nike LeBron 21 “Movie Theater” Arrives To Silver Shelves Soon",
+      "Description": "LeBron James and his Nike family have been at it for more than 20 years. As “the kid from Akron” heads into his 21st professional season, he’s ready to share the Nike LeBron 21 with the world. An official press release for James’ 21st signature model hasn’t b…",
+      "Url": "https://sneakernews.com/2023/08/14/nike-lebron-21-movie-theater/",
+      "UrlToImage": "https://sneakernews.com/wp-content/uploads/2023/08/nike-lebron-21-movie-theater-2.jpg",
+      "PublishedAt": "2023-08-14T20:30:07Z",
+      "Content": "LeBron James and his Nike family have been at it for more than 20 years. As “the kid from Akron” heads into his 21st professional season, he’s ready to share the Nike LeBron 21 with the world.\r\nAn of… [+1139 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "David Wolinsky",
+      "Title": "1993's Mario Movie Is Coming Back To Theaters, In 4K",
+      "Description": "In commemoration of the upcoming 30th anniversary on September 15, Crunchyroll reports that Japan is set to mark the occasion with a celebratory screening of the 4K re-release of the Super Mario Bros. movie. This movie, known in Japan as Super Mario: Goddess …",
+      "Url": "https://www.gamespot.com/articles/1993s-mario-movie-is-coming-back-to-theaters-in-4k/1100-6516863/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1600/16003485/4178467-cropped.jpeg",
+      "PublishedAt": "2023-08-14T20:20:00Z",
+      "Content": "In commemoration of the upcoming 30th anniversary on September 15, Crunchyroll reports that Japan is set to mark the occasion with a celebratory screening of the 4K re-release of the Super Mario Bros… [+1890 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1263,45 +1302,6 @@
       "UrlToImage": "https://c.biztoc.com/p/00ab1b8da3dd89c0/s.webp",
       "PublishedAt": "2023-08-11T21:56:08Z",
       "Content": "Barbie is clearly a cultural phenomenon. Its already made over $1 billion worldwide and the Barbenheimer double-feature was a cinematic event unlike anything the industry had seen in years. And the s… [+293 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TheWrap"
-      },
-      "Author": "Drew Taylor",
-      "Title": "‘Barbie’ Even Drew Viewers Who Hadn’t Been to a Movie Theater Since Before COVID",
-      "Description": "A poll reveals 22% of patrons who saw the film hadn't seen one in several years\nThe post ‘Barbie’ Even Drew Viewers Who Hadn’t Been to a Movie Theater Since Before COVID appeared first on TheWrap.",
-      "Url": "http://www.thewrap.com/barbie-brought-back-movie-goers-covid-19/",
-      "UrlToImage": "https://www.thewrap.com/wp-content/uploads/2023/05/barbie.jpg",
-      "PublishedAt": "2023-08-11T21:39:35Z",
-      "Content": "Barbie is clearly a cultural phenomenon. Its already made over $1 billion worldwide and the Barbenheimer double-feature was a cinematic event unlike anything the industry had seen in years. And the s… [+1733 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "finance.yahoo.com",
-      "Title": "AMC’s Revised Stock Conversion Plan Is Approved by Court",
-      "Description": "AMC Entertainment Holdings Inc. won court approval of a stock conversion plan that had spurred a shareholder lawsuit and cast a cloud over the movie theater chain’s efforts to secure new financing. • None Maui Now Looks a Lot Less Like Paradise • None Consult…",
-      "Url": "https://biztoc.com/x/b74f13dd04b3c97a",
-      "UrlToImage": "https://c.biztoc.com/p/b74f13dd04b3c97a/s.webp",
-      "PublishedAt": "2023-08-11T21:34:03Z",
-      "Content": "AMC Entertainment Holdings Inc. won court approval of a stock conversion plan that had spurred a shareholder lawsuit and cast a cloud over the movie theater chains efforts to secure new financing.Non… [+276 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MarketWatch"
-      },
-      "Author": "Bill Peters",
-      "Title": ": AMC shares fall 27% after court OKs revised stock-conversion plan",
-      "Description": "Shares of movie-theater chain AMC Entertainment Holdings Inc. AMC tumbled 27% after hours on Friday after a court approved a revised but still-controversial stock-conversion plan intended to shore up the company’s finances, Bloomberg reported on Friday. The m…",
-      "Url": "https://www.marketwatch.com/story/amc-shares-fall-27-after-court-oks-revised-stock-conversion-plan-f3915170",
-      "UrlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-      "PublishedAt": "2023-08-11T21:16:00Z",
-      "Content": "Shares of movie-theater chain AMC Entertainment Holdings Inc. \r\n AMC,\r\n +5.62%\r\ntumbled 27% after hours on Friday after a court approved a revised but still-controversial stock-conversion plan intend… [+476 chars]"
     }
   ]
 }
