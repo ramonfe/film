@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 791,
+  "TotalResults": 793,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "Reparto y fecha de estreno de El elegido, la nueva serie de Netflix",
+      "Description": "El escritor Mark Millar y el artista Peter Gross son los autores de American Jesus, saga de novelas gráficas. La franquicia dará el salto a la pequeña pantalla de la mano de...",
+      "Url": "https://www.elmundo.es/television/series/2023/08/14/64d2a78be4d4d895018b4576.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/2e01a734d26ee47c06b716840faebd9e/resize/1200/f/jpg/assets/multimedia/imagenes/2023/08/08/16915294237343.jpg",
+      "PublishedAt": "2023-08-14T14:39:15Z",
+      "Content": "El escritor Mark Millar y el artista Peter Gross son los autores de American Jesus, saga de novelas gráficas. La franquicia dará el salto a la pequeña pantalla de la mano de Netflix, que lanzará una … [+1896 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Disney+ prepara dos escasas novedades para esta semana, pero se viene un auténtico bombazo",
+      "Description": "El catálogo de Disney+ ha recibido un pequeño parón vacacional. Si es cierto, tenemos dos series, por lo que no son pocas novedades. Sin embargo, siguen siéndolo si tneemos en cuenta que Disney+ suele ser la segunda plataforma en cantidad de novedades, solame…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/disney-prepara-dos-escasas-novedades-para-esta-semana-pero-se-viene-un-autentico-bombazo",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/08/the-bear-es-la-serie-de-disney.png?width=1200",
+      "PublishedAt": "2023-08-14T14:01:31Z",
+      "Content": "Esta es una de las series que llegarán esta semana\r\nEl catálogo de Disney+ ha recibido un pequeño parón vacacional. Si es cierto, tenemos dos series, por lo que no son pocas novedades. Sin embargo, s… [+3997 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -890,19 +916,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "\"Irme de 'El Ala Oeste de la Casa Blanca' es lo mejor que he hecho en mi vida\". Rob Lowe critica su paso por la serie de Aaron Sorkin y lo compara con una relación abusiva",
-      "Description": "Buena parte de la fama que tiene Aaron Sorkin se la debe a 'El ala oeste de la Casa Blanca', una aclamada serie de televisión que logró ganar el Emmy al mejor drama hasta en cuatro ocasiones -y de forma consecutiva-. Nada fue lo mismo desde que abandonase la …",
-      "Url": "https://www.espinof.com/actores-y-actrices/irme-ala-oeste-casa-blanca-mejor-que-he-hecho-mi-vida-rob-lowe-critica-su-paso-serie-aaron-sorkin-compara-relacion-abusiva",
-      "UrlToImage": "https://i.blogs.es/2e8af4/ala-oeste-casa-blanca-rob-lowe/840_560.jpeg",
-      "PublishedAt": "2023-08-10T17:01:05Z",
-      "Content": "Buena parte de la fama que tiene Aaron Sorkin se la debe a 'El ala oeste de la Casa Blanca', una aclamada serie de televisión que logró ganar el Emmy al mejor drama hasta en cuatro ocasiones -y de fo… [+2308 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Xataka.com.mx"
       },
       "Author": "Pablo Hernández",
@@ -912,6 +925,19 @@
       "UrlToImage": "https://i.blogs.es/62557b/alien-covenant-ridley-scott/840_560.jpeg",
       "PublishedAt": "2023-08-10T17:01:05Z",
       "Content": "El director de grandes obras como 'Alien', 'Blade Runner', 'Gladiator' y 'Black Hawk Down', Sir Ridley Scott ha declarado su arrepentimiento por no dirigir la secuela de 'Blade Runner'.\r\nEn una recie… [+2158 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "\"Irme de 'El Ala Oeste de la Casa Blanca' es lo mejor que he hecho en mi vida\". Rob Lowe critica su paso por la serie de Aaron Sorkin y lo compara con una relación abusiva",
+      "Description": "Buena parte de la fama que tiene Aaron Sorkin se la debe a 'El ala oeste de la Casa Blanca', una aclamada serie de televisión que logró ganar el Emmy al mejor drama hasta en cuatro ocasiones -y de forma consecutiva-. Nada fue lo mismo desde que abandonase la …",
+      "Url": "https://www.espinof.com/actores-y-actrices/irme-ala-oeste-casa-blanca-mejor-que-he-hecho-mi-vida-rob-lowe-critica-su-paso-serie-aaron-sorkin-compara-relacion-abusiva",
+      "UrlToImage": "https://i.blogs.es/2e8af4/ala-oeste-casa-blanca-rob-lowe/840_560.jpeg",
+      "PublishedAt": "2023-08-10T17:01:05Z",
+      "Content": "Buena parte de la fama que tiene Aaron Sorkin se la debe a 'El ala oeste de la Casa Blanca', una aclamada serie de televisión que logró ganar el Emmy al mejor drama hasta en cuatro ocasiones -y de fo… [+2308 chars]"
     },
     {
       "Source": {
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/65c6eb/sam-mendes/840_560.jpeg",
       "PublishedAt": "2023-08-10T08:31:04Z",
       "Content": "Tras la reciente 'El imperio de la luz', uno de los próximos proyectos de Sam Mendes será para HBO. El canal ha anunciado que ha dado luz verde a 'The Franchise', nueva serie cómica que será una sáti… [+1444 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Disney Plus también se plantea acabar con las cuentas compartidas, y no debería sorprendernos",
-      "Description": "Disney Plus tuvo uno de los mejores estrenos jamás para una plataforma de streaming. En un año y medio, logró lo que a Netflix le había costado prácticamente una década. Su contenido original, sobre todo de Marvel y Star Wars, atrajo a decenas de millones de …",
-      "Url": "https://www.revistagq.com/articulo/disney-plus-fin-cuentas-compartidas-contrasenas-medidas",
-      "UrlToImage": "https://media.revistagq.com/photos/64d498f9acf8dcea53d14aca/16:9/w_1280,c_limit/1245156167",
-      "PublishedAt": "2023-08-10T08:05:50Z",
-      "Content": "Disney Plus tuvo uno de los mejores estrenos jamás para una plataforma de streaming. En un año y medio, logró lo que a Netflix le había costado prácticamente una década. Su contenido original, sobre … [+2109 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "Hoy en TV: el sensacional thriller sin el que no existiría 'Mindhunter' y que fue uno de los fracasos más injustos de la historia del cine",
-      "Description": "Prácticamente ninguna otra serie de Netflix es tan querida como 'Mindhunter', la joya televisiva creada por Joe Penhall pero que todo el mundo asocia a David Fincher. Es lógico que así sea, ya que el autor de 'Perdida' era su productor ejecutivo, dirigió 7 de…",
-      "Url": "https://www.espinof.com/otras-cadenas/hoy-tv-sensacional-thriller-que-no-existiria-mindhunter-que-fue-uno-fracasos-injustos-historia-cine",
-      "UrlToImage": "https://i.blogs.es/b45c88/zodiac/840_560.jpeg",
-      "PublishedAt": "2023-08-10T08:01:04Z",
-      "Content": "Prácticamente ninguna otra serie de Netflix es tan querida como 'Mindhunter', la joya televisiva creada por Joe Penhall pero que todo el mundo asocia a David Fincher. Es lógico que así sea, ya que el… [+3310 chars]"
     }
   ]
 }
