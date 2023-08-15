@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1810,
+  "TotalResults": 1811,
   "Articles": [
+    {
+      "Source": {
+        "Id": "google-news",
+        "Name": "Google News"
+      },
+      "Author": null,
+      "Title": "Disney's Snow White: Has the fairy tale already gone sour? - BBC",
+      "Description": "<ol><li>Disney's Snow White: Has the fairy tale already gone sour?  BBC\r\n</li><li>Disney’s Snow White live-action controversy explained: A movie canceled before its release?  Dexerto\r\n</li><li>Rachel Zegler Cryptically Responds To ‘Snow White’ Movie Backlash:…",
+      "Url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiNGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9lbnRlcnRhaW5tZW50LWFydHMtNjY0OTY4NTDSAThodHRwczovL3d3dy5iYmMuY29tL25ld3MvZW50ZXJ0YWlubWVudC1hcnRzLTY2NDk2ODUwLmFtcA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "UrlToImage": null,
+      "PublishedAt": "2023-08-14T23:59:16Z",
+      "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -840,19 +853,6 @@
         "Id": null,
         "Name": "Soundandvision.com"
       },
-      "Author": "SV Staff",
-      "Title": "EISA Home Theater Audio & Video Awards 2023-2024",
-      "Description": "EISA, or the Expert Imaging and Sound Association, is an organisation representing 58 of the most respected special interest publications and websites from 29 countries that cover Hi-Fi, Home Theater Video, Home Theater Audio, Photography, Mobile Devices, and…",
-      "Url": "https://www.soundandvision.com/content/eisa-home-theater-audio-video-awards-2023-2024",
-      "UrlToImage": "https://www.soundandvision.com/images/823eisa.promo_.jpg",
-      "PublishedAt": "2023-08-14T00:00:00Z",
-      "Content": "EISA, or the Expert Imaging and Sound Association, is an organisation representing 58 of the most respected special interest publications and websites from 29 countries that cover Hi-Fi, Home Theater… [+23641 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Soundandvision.com"
-      },
       "Author": "Chris Chiarella",
       "Title": "Double Feature – Avatar and Avatar: The Way of Water",
       "Description": "Avatar (2009)\nPicture\nSound\nExtras\n\r\n\n\n\n\nAvatar: The Way of Water (2022)\nPicture\nSound\nExtras\n\r\n\n\n\n\nAre we officially in the post-originality era of film? Is everything now based on, inspired by or an homage to something else? When Avatar premiered in 2009, c…",
@@ -860,6 +860,19 @@
       "UrlToImage": "https://www.soundandvision.com/images/081423_avatar_avatar-way_of_water_aug-sep2023.png",
       "PublishedAt": "2023-08-14T00:00:00Z",
       "Content": "Avatar (2009)PictureSoundExtras\r\nAvatar: The Way of Water (2022)PictureSoundExtras\r\nAre we officially in the post-originality era of film? Is everything now based on, inspired by or an homage to some… [+4183 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Soundandvision.com"
+      },
+      "Author": "SV Staff",
+      "Title": "EISA Home Theater Audio & Video Awards 2023-2024",
+      "Description": "EISA, or the Expert Imaging and Sound Association, is an organisation representing 58 of the most respected special interest publications and websites from 29 countries that cover Hi-Fi, Home Theater Video, Home Theater Audio, Photography, Mobile Devices, and…",
+      "Url": "https://www.soundandvision.com/content/eisa-home-theater-audio-video-awards-2023-2024",
+      "UrlToImage": "https://www.soundandvision.com/images/823eisa.promo_.jpg",
+      "PublishedAt": "2023-08-14T00:00:00Z",
+      "Content": "EISA, or the Expert Imaging and Sound Association, is an organisation representing 58 of the most respected special interest publications and websites from 29 countries that cover Hi-Fi, Home Theater… [+23641 chars]"
     },
     {
       "Source": {
@@ -1289,19 +1302,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-12T03:05:20Z",
       "Content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livejournal.com"
-      },
-      "Author": "just444",
-      "Title": "Nearly 1 Out of 4 of ‘Barbie’ Viewers Hadn’t Gone to the Movies Since COVID",
-      "Description": "A new survey from The Quorum found that 11% of those who saw #Barbie had not been to a movie theater since before the COVID-19 pandemic. Another 11% could not recall the last time they had been to a movie theater. Check out the stats: https://t.co/NzKi58Wjyd …",
-      "Url": "https://ohnotheydidnt.livejournal.com/126603205.html",
-      "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/494543?v=1691805582",
-      "PublishedAt": "2023-08-12T01:59:30Z",
-      "Content": "A new survey from The Quorum found that 11% of those who saw #Barbie had not been to a movie theater since before the COVID-19 pandemic. \r\nAnother 11% could not recall the last time they had been to … [+366 chars]"
     }
   ]
 }
