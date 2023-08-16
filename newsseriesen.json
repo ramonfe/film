@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "msmash",
+      "Title": "Television Accounts for Less than Half of US Viewing Time for the First Time",
+      "Description": "Powered by shows like \"Suits\" on Netflix, streaming's share of U.S. viewing time grew to a new high in July, while television viewing fell below 50% for the first time, according to new Nielsen data. From a report: The milestone is the latest sign of the rapi…",
+      "Url": "https://entertainment.slashdot.org/story/23/08/15/1341220/television-accounts-for-less-than-half-of-us-viewing-time-for-the-first-time",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/tv_64.png",
+      "PublishedAt": "2023-08-15T14:00:00Z",
+      "Content": "The milestone is the latest sign of the rapid erosion of the cable-TV bundle, which has lost about a quarter of its subscribers over the past decade, as more Americans cut the cord in favor of stream… [+1129 chars]"
+    },
     {
       "Source": {
         "Id": "techradar",
