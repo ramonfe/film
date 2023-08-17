@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 933,
+  "TotalResults": 934,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-washington-post",
+        "Name": "The Washington Post"
+      },
+      "Author": "Michael O'Sullivan",
+      "Title": "‘Blue Beetle’: Some tired action tropes but with a fresh new face",
+      "Description": "Xolo Maridueña charms as a Mexican American superhero in the first DC Comics movie with a Latino actor in its title role.",
+      "Url": "https://www.washingtonpost.com/entertainment/movies/2023/08/16/blue-beetle-movie-review/",
+      "UrlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUFJZXYDUVAKNIYF6GW55OGQJQ.jpg&w=1440",
+      "PublishedAt": "2023-08-16T17:00:00Z",
+      "Content": "Comment on this story\r\nComment\r\nStarSolid\r\nStarSolid\r\nStarHalf\r\nStarOutline\r\n(2.5 stars)\r\nBlue Beetle, the next chapter in the DC Comics-inspired universe that tells the origin story of a not particu… [+4674 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://extra-images.akamaized.net/image/3d/16by9/2023/08/12/3d126602c5f646a0a8aa7d8557ac5823_xl.jpg",
       "PublishedAt": "2023-08-12T21:55:11Z",
       "Content": "Shelley Smith, a stunning blonde model who became an actress and later a marriage-and-fertility specialist, died August 8. She was 70.\r\nSmith's husband of 18 years, Michael Maguire, reported her deat… [+1943 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Root"
-      },
-      "Author": "Shanelle Genai",
-      "Title": "Say What Now?: Will Smith Details How He 'Went Too Far' While Shooting Emancipation",
-      "Description": "Will Smith attends ‘Bad Boys For Life’ photocall at Villa Magna hotel on January 08, 2020 in Madrid, Spain.\r\nPhoto: Pablo Cuadra/WireImage (Getty Images)\r\nWill Smith is opening up about a terrfying experience he endured while filming his most recent film, Ema…",
-      "Url": "https://www.theroot.com/say-what-now-will-smith-details-how-he-went-too-far-w-1850730829",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/924b3460d43d7b9fe8bdce3b1f2b82ce.jpg",
-      "PublishedAt": "2023-08-12T20:30:00Z",
-      "Content": "Will Smith is opening up about a terrfying experience he endured while filming his most recent film, Emancipation.\r\nSpeaking to Kevin Hart in the latest episode of his talk show Hart to Hart on Peaco… [+1730 chars]"
     }
   ]
 }
