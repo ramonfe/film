@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 211,
+  "TotalResults": 212,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Expansión.com",
+      "Title": "'Campeonex', mejor estreno de cine español en lo que va de año",
+      "Description": "La película ha congregado al 32% de espectadores en las salas, tras su estreno en 427 cines y 623 pantallas en toda España. La cifra de taquilla de este viernes casi dobla a la del",
+      "Url": "https://www.expansion.com/cine-y-series/2023/08/19/64e0b3bde5fdeae76f8b461a.html",
+      "UrlToImage": "https://phantom-expansion.unidadeditorial.es/7fb47ec90474a3266d52b25383853a3f/crop/0x0/2044x1363/resize/1200/f/jpg/assets/multimedia/imagenes/2023/08/19/16924476245008.jpg",
+      "PublishedAt": "2023-08-19T12:21:39Z",
+      "Content": "'Campeonex', de Javier Fesser, es el mejor estreno español en lo que va de año al conseguir una recaudación este pasado viernes de cerca de 603.000 euros, según ha informado en un comunicado RTVE, qu… [+516 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://www.elfinanciero.com.mx/resizer/doH-HM9HaEYSgZxtnUyJp0VyB_k=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ELSBR4YV2ZBPFKF3QJDWJN6DMY.jpg",
       "PublishedAt": "2023-08-03T15:00:00Z",
       "Content": "De las mentes brillantes y creativas de Cherry Chevapravatdumrong (Family Guy), Teresa Hsio (Awkwafina Is Nora From Queens) y Adele Lim (Crazy Rich Asians), llega una graciosa comedia sin límites, Lo… [+2861 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "À Punt llena la cartelera de cine este agosto",
-      "Description": "La parrilla del mes de agosto se llena de cine en la televisión pública. Una interesante oferta para pasar las noches a la fresca ante la pantalla de À Punt y ponerse al día de las novedades más recientes de la cartelera que, a veces, quedan pendientes despué…",
-      "Url": "https://www.abc.es/espana/comunidad-valenciana/punt-llena-cartelera-cine-agosto-20230803162638-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2023/08/03/hijo-de-la-novia-U06337221188PYE-1024x512@abc.jpeg",
-      "PublishedAt": "2023-08-03T14:26:38Z",
-      "Content": "La parrilla del mes de agosto se llena de cine en la televisión pública. Una interesante oferta para pasar las noches a la fresca ante la pantalla de À Punt y ponerse al día de las novedades más reci… [+1433 chars]"
     }
   ]
 }
