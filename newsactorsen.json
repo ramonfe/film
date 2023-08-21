@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 893,
+  "TotalResults": 895,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "",
+      "Title": "'Mutt' is a journey into what happens when your past and present collide",
+      "Description": "NPR's Ayesha Rascoe speaks with actor Lío Meheil and writer/director Vuk Longlov Klotz about their movie, \"Mutt.\"",
+      "Url": "https://www.npr.org/2023/08/20/1194905087/mutt-is-a-journey-into-what-happens-when-your-past-and-present-collide",
+      "UrlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "PublishedAt": "2023-08-20T12:03:35Z",
+      "Content": "NPR's Ayesha Rascoe speaks with actor Lío Meheil and writer/director Vuk Longlov Klotz about their movie, \"Mutt.\""
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "EditorDavid",
+      "Title": "Is 'Blue Beetle' the Best Modern DC Superhero Movie?",
+      "Description": "At the Washington Post, David Betancourt's title is \"reporter focusing on comic book culture.\" \nSaturday he wrote that the Blue Beetle movie \"isn't just a good superhero movie, it's the best film from DC in its modern era, this past decade marked by their str…",
+      "Url": "https://entertainment.slashdot.org/story/23/08/20/0320236/is-blue-beetle-the-best-modern-dc-superhero-movie",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/movies_64.png",
+      "PublishedAt": "2023-08-20T11:34:00Z",
+      "Content": "At the Washington Post, David Betancourt's title is \"reporter focusing on comic book culture.\"Saturday he wrote that the Blue Beetle movie \"isn't just a good superhero movie, it's the best film from … [+3046 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1276,32 +1302,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/08/taryn-manning-header.jpg?resize=1200,630",
       "PublishedAt": "2023-08-15T21:36:23Z",
       "Content": "Actress Taryn Manning best known for her role in the hit Netflix series Orange is the New Black has apologized after a video of her ranting about an affair went viral.\r\nThe video which Manning shared… [+1625 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "forbes.com",
-      "Title": "Movie Financier Sues Disney For Allegedly Using Accounting Tricks To Deprive ‘Hundreds Of Millions’ In Profit",
-      "Description": "TSG Entertainment, a film company that co-financed blockbusters including Deadpool and the latest Avatar, sued Disney and its Twentieth Century Fox film studio Tuesday, accusing the company of using accounting tricks to deprive it of “hundreds of millions” of…",
-      "Url": "https://biztoc.com/x/b17db3955240ea61",
-      "UrlToImage": "https://c.biztoc.com/p/b17db3955240ea61/s.webp",
-      "PublishedAt": "2023-08-15T21:26:03Z",
-      "Content": "TSG Entertainment, a film company that co-financed blockbusters including Deadpool and the latest Avatar, sued Disney and its Twentieth Century Fox film studio Tuesday, accusing the company of using … [+306 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Forbes"
-      },
-      "Author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
-      "Title": "Movie Financier Sues Disney For Allegedly Using Accounting Tricks To Deprive ‘Hundreds Of Millions’ In Profit",
-      "Description": "The suit, filed by financial company TSG Entertainment, comes two years after actress Scarlett Johansson accused Disney of breaching its contract by releasing ‘Black Widow’ on its streaming platform Disney+.",
-      "Url": "https://www.forbes.com/sites/brianbushard/2023/08/15/movie-financier-sues-disney-for-allegedly-using-accounting-tricks-to-deprive-hundreds-of-millions-in-profit/",
-      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/64dbdecdf46c9bc72488000e/0x0.jpg?format=jpg&crop=3941,2216,x0,y132,safe&width=1200",
-      "PublishedAt": "2023-08-15T21:06:12Z",
-      "Content": "TSG Entertainment, a film company that co-financed blockbusters including Deadpool and the latest Avatar, sued Disney and its Twentieth Century Fox film studio Tuesday, accusing the company of using … [+3592 chars]"
     }
   ]
 }
