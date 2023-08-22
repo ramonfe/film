@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 812,
+  "TotalResults": 813,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "Título y sinopsis de todos los capítulos de One Piece",
+      "Description": "Netflix estrenará el 31 de agosto One Piece, serie de acción real basada en el manga escrito e ilustrado por Eiichiro Oda. A semanas de su lanzamiento, la plataforma de streaming...",
+      "Url": "https://www.elmundo.es/television/series/2023/08/21/64d3fbb5fdddffa1238b4598.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/e138db4d5ea11afb4322cb1a16f5d739/resize/1200/f/jpg/assets/multimedia/imagenes/2023/08/09/16916154024306.jpg",
+      "PublishedAt": "2023-08-21T15:37:30Z",
+      "Content": "Netflix estrenará el 31 de agosto One Piece, serie de acción real basada en el manga escrito e ilustrado por Eiichiro Oda. A semanas de su lanzamiento, la plataforma de streaming ha publicado el títu… [+2877 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/c94042/royal-catering-rcpw-16.3/840_560.jpeg",
       "PublishedAt": "2023-08-17T08:15:13Z",
       "Content": "Una práctica como la de hacer palomitas cada vez que vemos una película o serie en casa y que hemos trasladado directamente del cine puede conllevar a problemas de salud a largo plazo, porque evident… [+2199 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "El elegido, de Netflix, es la miniserie fantástica que ningún fan de Mark Millar se va a querer perder",
-      "Description": "Fans de Mark Millar estáis de suerte, y es que acaba de llegar El elegido a Netflix, una miniserie de 6 episodios que adapta la trilogía de cómics American Jesus que Millar creó junto a Peter Gross.\r\n\nPara quienes no sepan quién es exactamente esta persona, c…",
-      "Url": "https://www.revistagq.com/articulo/el-elegido-netflix-serie-american-jesus-mark-millar",
-      "UrlToImage": "https://media.revistagq.com/photos/64ddd5ac0ff883482735e1ba/16:9/w_1280,c_limit/El_Elegido_u_S1_E2_00_35_39_08.jpg",
-      "PublishedAt": "2023-08-17T08:11:50Z",
-      "Content": "Fans de Mark Millar estáis de suerte, y es que acaba de llegar El elegido a Netflix, una miniserie de 6 episodios que adapta la trilogía de cómics American Jesus que Millar creó junto a Peter Gross.\r… [+1714 chars]"
     }
   ]
 }
