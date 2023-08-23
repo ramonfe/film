@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 666,
+  "TotalResults": 665,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hipertextual"
+      },
+      "Author": "Gonzalo Franco",
+      "Title": "‘Ahsoka’, crítica: Un rincón feliz para los fans de ‘Star Wars Rebels’",
+      "Description": "Ahsoka, la nueva serie de Star Wars, será el primer proyecto encabezado por Rosario Dawson, que lleva a la imagen real a uno de los personajes más apreciados de la saga galáctica. La actriz debutó en The Mandalorian y ahora le dará a la heroína su propio proy…",
+      "Url": "http://hipertextual.com/2023/08/ahsoka-critica",
+      "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/08/Ahsoka-scaled.jpg",
+      "PublishedAt": "2023-08-22T16:00:42Z",
+      "Content": "Ahsoka, la nueva serie de Star Wars, será el primer proyecto encabezado por Rosario Dawson, que lleva a la imagen real a uno de los personajes más apreciados de la saga galáctica. La actriz debutó en… [+9852 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://sm.ign.com/t/ign_es/news/t/the-last-o/the-last-of-us-showrunner-says-maybe-they-found-their-abby-b_uxvq.1200.jpg",
       "PublishedAt": "2023-08-17T13:00:29Z",
       "Content": "Una de las grandes incógnitas en torno a la segunda temporada de The Last of Us es quién interpretará a Abby. Los fans de los juegos ya saben que Abby es un personaje fundamental en The Last of Us: P… [+1860 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Robert De Niro cumple 80 años: un actor memorable y un adicto al amor",
-      "Description": "El famoso protagonista de 'El Padrino' cumple años, en concreto 80. Este último año la vida de Robert De Niro ha sido una completa montaña rusa, de las que no paran de subir y bajar a toda velocidad. Se ha tenido que enfrentar a lo más bonito de la vida, el n…",
-      "Url": "https://www.abc.es/gente/robert-niro-cumple-anos-actor-memorable-adicto-20230817142647-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2023/08/17/DL_u422167_004-U85887410844Rnt-600x300@abc.jpg",
-      "PublishedAt": "2023-08-17T12:29:57Z",
-      "Content": "El famoso protagonista de 'El Padrino' cumple años, en concreto 80. Este último año la vida de Robert De Niro ha sido una completa montaña rusa, de las que no paran de subir y bajar a toda velocidad.… [+2928 chars]"
     }
   ]
 }
