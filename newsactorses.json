@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 672,
+  "TotalResults": 673,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "Olivia Molina reflexiona sobre la maternidad después de 12 años alejada del cine",
+      "Description": "La actriz tiene dos hijos, Vera y Eric junto al actor Sergio Mur, y revela sus preocupaciones y sentimientos después de haber sido madre",
+      "Url": "https://www.hola.com/actualidad/20230822237551/olivia-molina-maternidad/",
+      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20230822237551/olivia-molina-maternidad/1-294-564/olivia-molina-gtres-t.jpg",
+      "PublishedAt": "2023-08-22T05:46:08Z",
+      "Content": "Olivia Molina regresa al cine después de doce años sin haber trabajado en una película. La hija de Angela Molina regresa por todo lo alto con la cinta Mi otro Jon, de Paco Arango, en la que trabaja c… [+2922 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/08/16/chucky-lozano-abre-puerta-jugar.jpg",
       "PublishedAt": "2023-08-16T21:32:00Z",
       "Content": "El futuro del mexicano, Hirving Chucky Lozano, aún es incierto debido a su situación actual con el Napoli. Las negociaciones respecto a una renovación contractual no han avanzado, lo cual representa … [+1803 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Las claves por las que el cine de Alfred Hitchcock se recordará más que los taquillazos actuales",
-      "Description": "¿Cómo acercarse a lo mil veces contado?, ¿cómo analizar lo analizado hasta la extenuación? Esa es la primera pregunta que debe responder quien decide hacer, por ejemplo, un documental sobre Alfred Hitchcock. Del director británico hay de todo. Libros, ensayos…",
-      "Url": "https://www.eldiario.es/cultura/cine/claves-cine-alfred-hitchcock-recordara-taquillazos-actuales_1_10448917.html",
-      "UrlToImage": "https://static.eldiario.es/clip/5492a305-ec0c-47a2-82f5-2c47dbcf5b84_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-08-16T21:15:02Z",
-      "Content": "¿Cómo acercarse a lo mil veces contado?, ¿cómo analizar lo analizado hasta la extenuación? Esa es la primera pregunta que debe responder quien decide hacer, por ejemplo, un documental sobre Alfred Hi… [+307 chars]"
     }
   ]
 }
