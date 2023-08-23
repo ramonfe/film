@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 810,
+  "TotalResults": 811,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Ursula Corberó tiene El cuerpo en llamas: cómo es la nueva serie de Netflix que protagoniza",
+      "Description": "Basada en una historia real, cuenta la investigación que se llevó a cabo en España luego del crimen de un agente de policía",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/ursula-corbero-tiene-el-cuerpo-en-llamas-como-es-la-nueva-serie-de-netflix-que-protagoniza-nid22082023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/8Gk-eWqmVNWd5Tkuik51b0ybgDY=/768x0/filters:format(webp):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YE23GKGKZBD23PYPMDCNX6AU3E.jpg",
+      "PublishedAt": "2023-08-22T22:53:11Z",
+      "Content": "En las últimas horas, Netflix publicó el trailer de la nueva serie protagonizada por Úrsula Corberó. La ficción, que está basada en la historia real de un crimen, es una de las más esperadas del año … [+3461 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/86eace/mapa/840_560.png",
       "PublishedAt": "2023-08-18T08:01:22Z",
       "Content": "¿Cuántas veces ves a un actor beberse una Pepsi en una peli? ¿Y conducir un Ford? La web Merchant Machine contó con qué frecuencia aparecen este tipo de colaboraciones en 2.227 películas y 890 series… [+2080 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "La temporada 5 de Stranger Things podría llegar con cambios muy importantes (y necesarios)",
-      "Description": "La espera por la temporada 5 de Stranger Things se mantiene y no parece que vaya a acabarse pronto, y es que primero con la huelga de guionistas y luego la de actores, la producción ha quedado completamente paralizada hasta nuevo aviso. Así que, si teníamos e…",
-      "Url": "https://www.revistagq.com/articulo/stranger-things-temporada-5-netflix-novedades-cambios",
-      "UrlToImage": "https://media.revistagq.com/photos/64df2266e175ca9577a75991/16:9/w_1280,c_limit/StrangerThings_StrangerThings4_9_02_16_44_23.jpg",
-      "PublishedAt": "2023-08-18T07:59:18Z",
-      "Content": "La espera por la temporada 5 de Stranger Things se mantiene y no parece que vaya a acabarse pronto, y es que primero con la huelga de guionistas y luego la de actores, la producción ha quedado comple… [+2131 chars]"
     }
   ]
 }
