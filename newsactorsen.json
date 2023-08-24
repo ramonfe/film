@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 858,
+  "TotalResults": 859,
   "Articles": [
+    {
+      "Source": {
+        "Id": "independent",
+        "Name": "Independent"
+      },
+      "Author": "Peony Hirwani",
+      "Title": "Gwyneth Paltrow’s body double from ‘Shallow Hal’ reveals how the movie nearly broke her",
+      "Description": "Actor reflects on how she suffered a massive crisis after the movie came out",
+      "Url": "https://www.independent.co.uk/arts-entertainment/films/news/gwyneth-paltrow-body-double-shallow-hal-b2397733.html",
+      "UrlToImage": "https://static.independent.co.uk/2023/08/23/05/gwyneth.jpeg?quality=75&width=1200&auto=webp",
+      "PublishedAt": "2023-08-23T05:48:19Z",
+      "Content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nGwyneth Paltrows body double from the 2001 film Shallow … [+3127 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://nofilmschool.com/media-library/lio-mehiel-as-fena-with-a-bandage-on-their-eyebrow-in-mutt.png?id=34930354&width=1200&height=600&coordinates=0%2C80%2C0%2C80",
       "PublishedAt": "2023-08-17T21:39:40Z",
       "Content": "Adobe Premiere Pro 23.6\r\nThe crux of this new update centers around this new optimized workflow with ARRIRAW. Since adding ARRIRAW support just about a year ago, Adobe has been working behind the sce… [+1736 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mirror Online"
-      },
-      "Author": "mirrornews@mirror.co.uk (Niamh Spence)",
-      "Title": "Judi Dench 'was never frightened' when being interviewed by 'one off' Michael Parkinson",
-      "Description": "British actress Dame Judi Dench has reflected on her appearances on Parkinson with late TV show host Sir Michael Parkinson as news of his death aged 88 has been announced",
-      "Url": "https://www.mirror.co.uk/3am/celebrity-news/judi-dench-was-never-frightened-30730090",
-      "UrlToImage": "https://i2-prod.mirror.co.uk/incoming/article30730073.ece/ALTERNATES/s1200/0_Judi-Dench.jpg",
-      "PublishedAt": "2023-08-17T20:36:27Z",
-      "Content": "Actress Dame Judi Dench has said that Sir Michael Parkinson was a really one-off person\" as the TV chat show host died aged 88.\r\nThe award winning actress appeared on Parkinson, the chat show hosted … [+2528 chars]"
     }
   ]
 }
