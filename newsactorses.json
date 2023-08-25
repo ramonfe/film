@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 680,
+  "TotalResults": 681,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Fran Besora",
+      "Title": "Apple ya habría filmado el vídeo de introducción de los iPhone 15 para su canal de YouTube",
+      "Description": "Cuando Apple presenta una nueva generación de iPhone, lanza una serie de vídeos en su canal de YouTube para complementar su anuncio. Uno de ellos es un \"Tour Guiado\" donde se muestran las novedades más importantes de los nuevos dispositivos y a tan solo tres …",
+      "Url": "https://www.lavanguardia.com/andro4all/apple/apple-habria-grabado-video-introduccion-iphone-15",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/08/video-iphone-15.jpg?width=1200",
+      "PublishedAt": "2023-08-24T06:59:21Z",
+      "Content": "Apple ya habría grabado el \"Tour Guiado\" de los iPhone 15\r\nCuando Apple presenta una nueva generación de iPhone, lanza una serie de vídeos en su canal de YouTube para complementar su anuncio. Uno de … [+1904 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2023/08/18/teresa-rabal-U10257730245ctv-1024x512@abc.jpeg",
       "PublishedAt": "2023-08-18T15:58:56Z",
       "Content": "Teresa Rabal Balaguer nació en Barcelona. Actriz, cantante, presentadora de televisión. Es hija de dos grandes actores: Francisco Rabal y Asunción Balaguer. Lleva toda la vida dedicada al espectáculo… [+4162 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "María Domingo Benito",
-      "Title": "David Harbour dice que el final de 'Stranger Things' es \"muy conmovedor\" y \"más grande\" que nunca",
-      "Description": "HYPE El actor que interpreta a Hopper dice que van a \"saldar deudas\" con los personajes que llevan desde la primera temporada de la serie de Netflix.David Harbour dice que el final de 'Stranger Things' es \"muy conmovedor\" y \"más grande\" que nunca",
-      "Url": "https://www.ecartelera.com/noticias/david-harbour-stranger-things-final-conmovedor-grande-74449/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/74400/74449-h2.jpg",
-      "PublishedAt": "2023-08-18T15:11:00Z",
-      "Content": "El actor que interpreta al jefe de policía Jim Hopper, David Harbour, ha hablado sobre lo que podemos esperar de la quinta temporada de 'Stranger Things' y nos ha dado una pista acerca del final de l… [+2518 chars]"
     }
   ]
 }
