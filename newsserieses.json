@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 875,
+  "TotalResults": 876,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "por fede durán",
+      "Title": "Esta serie de Netflix y la redistribución de la riqueza",
+      "Description": "Siguiendo la estela de Robin Hood, robar al rico goza de cierto predicamento en la historia del cine y la literatura. Al fin y al cabo, si las grandes corporaciones están donde están es por crear una posición dominante. Leer",
+      "Url": "https://www.elmundo.es/economia/actualidad-economica/2023/08/26/64df61fafc6c83d31f8b457c.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/b943c36bc8758023016243b612b6b9a2/resize/1200/f/jpg/assets/multimedia/imagenes/2023/08/18/16923613761766.jpg",
+      "PublishedAt": "2023-08-25T22:06:55Z",
+      "Content": "Series, economía y sabiduría\r\nSiguiendo la estela de Robin Hood, robar al rico goza de cierto predicamento en la historia del cine y la literatura. Al fin y al cabo, si las grandes corporaciones está… [+49 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -1289,19 +1302,6 @@
       "UrlToImage": "https://i.blogs.es/2284bb/one-piece-netflix/840_560.jpeg",
       "PublishedAt": "2023-08-23T09:01:18Z",
       "Content": "Ya nos llevan avisando desde hace muchos meses que la serie de acción real de 'One Piece' de Netflix va a ser su propia cosa y con su propio espíritu. Así que aunque esté basada en el manga de Eiichi… [+1536 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elseptimoarte.net"
-      },
-      "Author": "jescri",
-      "Title": "Ningún fuego se enciende solo. Tráiler de 'El cuerpo en llamas'",
-      "Description": "Netflix ha lanzado el tráiler de 'El cuerpo en llamas', serie thriller basada en hechos reales que llegará el próximo 8 de septiembre con un total de 8 episodios. Úrsula Corberó y Quim Gutiérrez son los protagonistas de esta serie limitada. \n\nMayo de 2017. Ap…",
-      "Url": "https://www.elseptimoarte.net/noticias/tv-series/ningun-fuego-se-enciende-solo-trailer-de-el-cuerpo-en-llamas-45974.html",
-      "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/123386.jpg",
-      "PublishedAt": "2023-08-23T08:38:16Z",
-      "Content": "Netflix ha lanzado el tráiler de 'El cuerpo en llamas', serie thriller basada en hechos reales que llegará el próximo 8 de septiembre con un total de 8 episodios. Úrsula Corberó y Quim Gutiérrez son … [+863 chars]"
     }
   ]
 }
