@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1570,
+  "TotalResults": 1571,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Robb Report"
+      },
+      "Author": "Bryan Hood",
+      "Title": "Tesla’s New Supercharger Station in L.A. Will Have a Diner and Drive-In Movie Theater, Because of Course",
+      "Description": "The EV maker has received approval from the city to move forward with the ambitious project.",
+      "Url": "https://robbreport.com/motors/cars/tesla-supercharger-station-retro-diner-movie-theater-1234888860/",
+      "UrlToImage": "https://robbreport.com/wp-content/uploads/2023/08/tesladiner.jpg?w=681&h=383&crop=1",
+      "PublishedAt": "2023-08-28T21:30:00Z",
+      "Content": "Can Tesla do for the filling station what it’s already done for the car?\r\nThe EV maker has received permission from Los Angeles to build a giant Supercharger station on the city’s west side, accordin… [+2331 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.independent.co.uk/2023/08/28/11/newFile-3.jpg?quality=75&width=1200&auto=webp",
       "PublishedAt": "2023-08-28T11:15:25Z",
       "Content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nAdam Sandler has achieved a career record with his brand… [+1564 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Mat Smith",
-      "Title": "The Morning After: ‘GTA VI’ hacker leaked game footage with a Fire TV Stick",
-      "Description": "All you need to leak footage from a highly anticipated, multimillion-dollar game is an Amazon Fire TV stick and a cheap UK hotel. That massive Grand Theft Auto VI\r\n leak came from Arion Kurtaj, a member of hacking group Lapsus$\r\n. And he managed to do so whil…",
-      "Url": "https://www.engadget.com/the-morning-after-gta-vi-hacker-leaked-game-footage-with-a-fire-tv-stick-111524232.html",
-      "UrlToImage": "https://s.yimg.com/uu/api/res/1.2/s4KNaUa5dRB7aNyJGyf23w--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-06/a8749e00-ac1f-11ea-9e9e-45277f05ecbf.cf.jpg",
-      "PublishedAt": "2023-08-28T11:15:24Z",
-      "Content": "All you need to leak footage from a highly anticipated, multimillion-dollar game is an Amazon Fire TV stick and a cheap UK hotel. That massive Grand Theft Auto VI\r\n leak came from Arion Kurtaj, a mem… [+3588 chars]"
     }
   ]
 }
