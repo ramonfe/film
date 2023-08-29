@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 827,
+  "TotalResults": 828,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Raquel Morales",
+      "Title": "La serie One Piece de Netflix es una adaptación muy fiel y épica: las primeras reacciones son muy positivas",
+      "Description": "Los fans esperan que el estreno cumpla con las expectativas.\nEsta adaptación live action se estrena el 31 de agosto, pero algunas personas ya han podido ver el nuevo estreno de Netflix y tienen buenos comentarios.",
+      "Url": "https://es.ign.com/netflix/193602/news/la-serie-one-piece-de-netflix-es-una-adaptacion-muy-fiel-y-epica-las-primeras-reacciones-son-muy-pos",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/one-piece-netflix_5xq4.1200.jpg",
+      "PublishedAt": "2023-08-28T13:30:22Z",
+      "Content": "Después de tantos meses de espera, esta es la semana más importante para los fans de One Piece. Netflix estrena la serie live-action el 31 de agosto, aunque ya ha mostrado muchos adelantos prometedor… [+2200 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/53a87e/ti4a1md9j5qharl60tsmpekssvg/840_560.jpeg",
       "PublishedAt": "2023-08-26T18:01:53Z",
       "Content": "En cuestión de popularidad, el animé japones puede llegar a estar mejor posicionado que el de ciertas producciones de animación occidentales. No por nada Netflix ha apostado mucho por meter produccio… [+3077 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Pedro Zárate",
-      "Title": "Hablemos del 2x06 de 'The Bear': una joya seriéfila con grandes estrellas, siete peces y una caótica cena navideña",
-      "Description": "Mirándolo desde el lado positivo, los episodios de una serie de televisión se pueden dividir en buenos, muy buenos o de un nivel superior. Y entre éstos últimos cada vez encontramos más 'episodios botella', como así se conoce a los que se ambientan en una úni…",
-      "Url": "https://www.eldiario.es/vertele/series/the-bear-2x06-joya-seriefila-grandes-estrellas-siete-peces-caotica-cena-navidena_1_10460369.html",
-      "UrlToImage": "https://static.eldiario.es/clip/7d0fc339-49b8-4da5-860d-959f5695a026_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-08-26T17:45:16Z",
-      "Content": "Mirándolo desde el lado positivo, los episodios de una serie de televisión se pueden dividir en buenos, muy buenos o de un nivel superior. Y entre éstos últimos cada vez encontramos más 'episodios bo… [+16592 chars]"
     }
   ]
 }
