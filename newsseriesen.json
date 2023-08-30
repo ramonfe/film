@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 73,
+  "TotalResults": 74,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.2.0b7",
+      "Description": "2023.2.0b7\n\n August 29, 2023\n \n unityhub://2023.2.0b7/0d37d648047c\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CP…",
+      "Url": "https://unity.com/releases/editor/beta/2023.2.0b7",
+      "UrlToImage": null,
+      "PublishedAt": "2023-08-29T22:05:40Z",
+      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+203611 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/f15a35faab0b546e/s.webp",
       "PublishedAt": "2023-08-16T01:12:09Z",
       "Content": "The days of sitting down to enjoy your favorite television show on traditional broadcast or cable are rapidly declining. For the first time, the total share watched among American viewers was below 5… [+296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "pymnts.com"
-      },
-      "Author": "PYMNTS",
-      "Title": "The Decline of Traditional TV: Streaming Takes Over",
-      "Description": "The days of sitting down to enjoy your favorite television show on traditional broadcast or cable are rapidly declining. For the first time, the total share watched among American viewers was below 50% in July, according to Nielsen’s The Gauge report Tuesday …",
-      "Url": "https://www.pymnts.com/subscriptions/2023/the-decline-of-traditional-tv-streaming-takes-over/",
-      "UrlToImage": "https://content.pymnts.com/wp-content/uploads/2023/03/streaming-tv-subscription-1000x600.jpg",
-      "PublishedAt": "2023-08-16T01:05:05Z",
-      "Content": "The days of sitting down to enjoy your favorite television show on traditional broadcast or cable are rapidly declining. For the first time, the total share watched among American viewers was below 5… [+2387 chars]"
     }
   ]
 }
