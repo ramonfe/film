@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Coleman Spilde",
+      "Title": "‘Bottoms’ Proves Cinema Needs More Lesbians Kicking the Crap Out of People",
+      "Description": "Photo Illustration by Thomas Levinson/The Daily Beast/Getty/Orion Pictures\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are roughly 47,000—…",
+      "Url": "https://www.thedailybeast.com/obsessed/bottoms-cinema-needs-more-lesbians-kicking-the-crap-out-of-people",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1693263278/230828-see-skip-tease_txb58z",
+      "PublishedAt": "2023-08-29T08:53:53Z",
+      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+5802 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -200,16 +213,16 @@
     },
     {
       "Source": {
-        "Id": "independent",
-        "Name": "Independent"
+        "Id": null,
+        "Name": null
       },
-      "Author": "Jacob Stolworthy",
-      "Title": "Netflix: Every movie and TV show coming to streaming service in August 2023",
-      "Description": "Including, for one of the first times, an HBO show",
-      "Url": "https://www.independent.co.uk/arts-entertainment/tv/news/netflix-new-releases-movies-tv-shows-b2395928.html",
-      "UrlToImage": "https://static.independent.co.uk/2023/07/31/15/newFile-6.jpg?quality=75&width=1200&auto=webp",
-      "PublishedAt": "2023-08-19T12:24:33Z",
-      "Content": "Sign up to our free IndyArts newsletter for all the latest entertainment news and reviews\r\nSign up to our free IndyArts newsletter\r\nNetflix has a busy August lined up.\r\nThe streaming service will thi… [+4529 chars]"
+      "Author": null,
+      "Title": null,
+      "Description": null,
+      "Url": null,
+      "UrlToImage": null,
+      "PublishedAt": null,
+      "Content": null
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://content.pymnts.com/wp-content/uploads/2023/03/streaming-tv-subscription-1000x600.jpg",
       "PublishedAt": "2023-08-16T01:05:05Z",
       "Content": "The days of sitting down to enjoy your favorite television show on traditional broadcast or cable are rapidly declining. For the first time, the total share watched among American viewers was below 5… [+2387 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thedailyupside.com",
-      "Title": "TV is Dead. Long Live TV",
-      "Description": "Americans are finally watching less television — only because they’ve switched to streaming. Nielsen data from July show that traditional TV accounted for less than half of all US viewing time for the first time ever. But the shows most people are watching on…",
-      "Url": "https://biztoc.com/x/1f5f2bae8f3884c7",
-      "UrlToImage": "https://c.biztoc.com/p/1f5f2bae8f3884c7/s.webp",
-      "PublishedAt": "2023-08-15T23:20:07Z",
-      "Content": "Americans are finally watching less television only because theyve switched to streaming.Nielsen data from July show that traditional TV accounted for less than half of all US viewing time for the fi… [+297 chars]"
     }
   ]
 }
