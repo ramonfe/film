@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 683,
+  "TotalResults": 684,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "FRANCE 24 English"
+      },
+      "Author": "FRANCE24",
+      "Title": "Strike-hit German stunt performers train kids during filming freeze",
+      "Description": "The stacked blue mats that catch his fall release a loud hiss as two burly men give the blond primary school pupil high-fives for his successful first attempt at being an action hero.\n\nWhile the actors' and writers' strikes in Hollywood freeze up film product…",
+      "Url": "https://www.france24.com/en/live-news/20230830-strike-hit-german-stunt-performers-train-kids-during-filming-freeze",
+      "UrlToImage": "https://s.france24.com/media/display/a2a4d3d6-46f5-11ee-ae0f-005056a90321/w:1280/p:16x9/634503bfc4beb560966846224c0ff1a0273b525a.jpg",
+      "PublishedAt": "2023-08-30T05:25:31Z",
+      "Content": "Babelsberg (Germany) (AFP) Ten-year-old Nathaniel squeezes his eyes shut, straightens his back and sucks in his breath as he plunges backward from the reinforced steel roof of a stunt car. The stacke… [+4386 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-08-28T11:32:06Z",
       "Content": "All you need to leak footage from a highly anticipated, multimillion-dollar game is an Amazon Fire TV stick and a cheap UK hotel. That massive Grand Theft Auto VI leak came from Arion Kurtaj, a membe… [+3959 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": null
-      },
-      "Author": null,
-      "Title": null,
-      "Description": null,
-      "Url": null,
-      "UrlToImage": null,
-      "PublishedAt": null,
-      "Content": null
     }
   ]
 }
