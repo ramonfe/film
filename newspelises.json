@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 202,
+  "TotalResults": 203,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Luis Acosta",
+      "Title": "Esta película que recién llegó a Netflix es tan absurda que entretiene, es de Mel Gibson y ya está en el top de lo más visto en México",
+      "Description": "Mel Gibson es una de esas celebridades que pasó de estar en lo más alto del cine a tener controversias tan polémicas que casi acaban con su carrera. Pero lo más sorprendente, es que una de sus películas peor valoradas del 2022 ha llegado a Netflix recientemen…",
+      "Url": "https://www.xataka.com.mx/cine-y-tv/pelicula-vista-netflix-esta-semana-mel-gibson-absurda-que-entretiene-esta-top-numero-uno-mexico",
+      "UrlToImage": "https://i.blogs.es/3ee81c/sin-titulo-11/840_560.jpeg",
+      "PublishedAt": "2023-08-30T00:01:19Z",
+      "Content": "Mel Gibson es una de esas celebridades que pasó de estar en lo más alto del cine a tener controversias tan polémicas que casi acaban con su carrera. Pero lo más sorprendente, es que una de sus pelícu… [+2939 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/08/24/oppenheimer-U40688224816lxm-1024x512@abc.jpg",
       "PublishedAt": "2023-08-24T12:47:07Z",
       "Content": "'Oppenheimer', la última película de Christopher Nolan, ya se ha convertido en su mayor éxito en España. Con una primera semana de infarto, con casi medio millón de espectadores y una recaudación tot… [+2641 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Amazon Prime Video rueda 'En fin', su comedia post-apocalíptica española, que desvela su reparto completo",
-      "Description": "Amazon Prime Video ha dado el pistoletazo de salida al rodaje de En fin, su nueva serie original. Anunciada a finales de abril como una de las bazas de producción original en España para el próximo año, esta comedia de humor negro y acción postapocalíptica, c…",
-      "Url": "https://www.eldiario.es/vertele/series/amazon-prime-video-rueda-comedia-post-apocaliptica-espanola-desvela-reparto-completo_1_10462950.html",
-      "UrlToImage": "https://static.eldiario.es/clip/437c7b4b-dd9c-460b-8aec-02e588f96b08_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-08-24T11:39:19Z",
-      "Content": "Amazon Prime Video ha dado el pistoletazo de salida al rodaje de En fin, su nueva serie original. Anunciada a finales de abril como una de las bazas de producción original en España para el próximo a… [+2609 chars]"
     }
   ]
 }
