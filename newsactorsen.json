@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 711,
+  "TotalResults": 712,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "Curtis M. Wong",
+      "Title": "Scarlett Johansson Was ‘Almost In Tears’ After Movie Was Booed At 2013 Venice Film Festival",
+      "Description": "The event’s artistic director recalls having to console the actor at a screening for “Under the Skin” 10 years ago.",
+      "Url": "https://www.huffpost.com/entry/scarlett-johansson-venice-film-festival-booing_n_64f0cc8ce4b0e2c4bd6b7aa1",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/64f0d0312300005a001e7ffa.jpeg?cache=nUCY7Yr7ua&ops=1200_630",
+      "PublishedAt": "2023-08-31T20:48:01Z",
+      "Content": "The artistic director of the Venice International Film Festival is recalling a time 10 years ago when he had to console actor Scarlett Johansson after one of her films drew audible scorn from viewers… [+2195 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2023/08/Ana-De-Armas-Yesterday-Trailer.jpg",
       "PublishedAt": "2023-08-30T19:58:09Z",
       "Content": "Actress Ana de Armas found herself the focus of a huge lawsuit last year for a movie that she did not even appear in, but a U.S. District Judge has aggressively dismissed the case to the relief of st… [+3110 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": null
-      },
-      "Author": null,
-      "Title": null,
-      "Description": null,
-      "Url": null,
-      "UrlToImage": null,
-      "PublishedAt": null,
-      "Content": null
     }
   ]
 }
