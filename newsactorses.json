@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 688,
+  "TotalResults": 691,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Vuelta al cole en el cine: las mejores películas que se estrenarán para competir en los Oscar y los Goya",
+      "Description": "Martin Scorsese, Ridley Scott , David Fincher, Bradley Cooper, J. A. Bayona... El nuevo curso llega repleto de grandes cineastas con la mirada puesta en los Oscar y los Goya, donde recibirán su particular boletín de notas y se dirimirá qué ha sido lo mejor de…",
+      "Url": "https://www.abc.es/play/cine/noticias/vuelta-cole-cine-mejores-peliculas-estrenaran-competir-20230831203304-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/08/31/collage-tamano-dos_20230831210106-U77601076340Cyc-1024x512@abc.PNG",
+      "PublishedAt": "2023-08-31T18:33:05Z",
+      "Content": "Martin Scorsese, Ridley Scott, David Fincher, Bradley Cooper, J. A. Bayona... El nuevo curso llega repleto de grandes cineastas con la mirada puesta en los Oscar y los Goya, donde recibirán su partic… [+5717 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "\"Tuvo un impacto enorme en mi vida\". Jason Statham elige la mejor película de acción de la historia y los dos actores que más han marcado su forma de actuar",
+      "Description": "Jason Statham es uno de los actores especializados en el género de acción más popular de los últimos años. Hace apenas unas semanas estrenó 'Megalodón 2: La Fosa' y muy pronto le veremos de nuevo en 'Los Mercenarios 4', pero, obviamente, no siempre fue una gr…",
+      "Url": "https://www.espinof.com/actores-y-actrices/tuvo-impacto-enorme-mi-vida-jason-statham-elige-mejor-pelicula-accion-historia-dos-actores-que-han-marcado-su-forma-actuar",
+      "UrlToImage": "https://i.blogs.es/1b55a1/jason-statham/840_560.jpeg",
+      "PublishedAt": "2023-08-31T18:31:46Z",
+      "Content": "Jason Statham es uno de los actores especializados en el género de acción más popular de los últimos años. Hace apenas unas semanas estrenó 'Megalodón 2: La Fosa' y muy pronto le veremos de nuevo en … [+1989 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "George Clooney y su mujer Amal, enamorados en Venecia: looks llamativos, paseos en góndola y cenas románticas",
+      "Description": "El actor y la abogada están en la bella ciudad italiana para participar de la 80ª edición del Festival de cine que comenzó ayer",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/george-clooney-y-su-mujer-amal-enamorados-en-venecia-looks-llamativos-paseos-en-gondola-y-cenas-nid31082023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/george-clooney-y-su-mujer-amal-fueron-capturados-3RWMQUQSDRA4ZLCGVZZOSUFJGM.jpg?auth=f0fed82a9fcdeeaf321ccee162cbf71c65afb308a2a6f8c3e6a1b1502f2450f3&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-08-31T18:31:40Z",
+      "Content": "Comenzó ayer la 80ª edición del Festival de Veneciay, a pesar de la huelga que mantiene paralizada a la industria en Hollywood, numerosas personalidades del mundo del cine desfilaron por la alfombra … [+4928 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -19,19 +58,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "Lo has visto en Breaking Bad, en The Boys y en Star Wars. Ahora, Giancarlo Esposito se ha reunido con los jefazos de DC Studios para tener un hueco en la franquicia",
-      "Description": "A falta de un año para que comience, el nuevo Universo Extendido de DC continúa uniendo cabos sueltos para poder relanzar la franquicia en todo su esplendor. Hasta el momento, hemos conocido a los actores que protagonizarán los primeros proyectos de DC Studio…",
-      "Url": "https://www.vidaextra.com/cine/has-visto-breaking-bad-the-boys-star-wars-ahora-giancarlo-esposito-se-ha-reunido-jefazos-dc-studios-para-tener-hueco-franquicia",
-      "UrlToImage": "https://i.blogs.es/ddd472/giancarlo-esposito/840_560.jpeg",
-      "PublishedAt": "2023-08-31T17:31:45Z",
-      "Content": "A falta de un año para que comience, el nuevo Universo Extendido de DC continúa uniendo cabos sueltos para poder relanzar la franquicia en todo su esplendor. Hasta el momento, hemos conocido a los ac… [+1634 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Espinof.com"
       },
       "Author": "Mariló Delgado",
@@ -41,6 +67,19 @@
       "UrlToImage": "https://i.blogs.es/7cd510/one-piece-de-netflix/840_560.jpeg",
       "PublishedAt": "2023-08-31T17:31:45Z",
       "Content": "Ha costado, y mucho, pero por fin Netflix ha roto la maldición con los remakes de anime y le ha dado un comienzo espectacular a 'One Piece'. Luffy, Nami, Zoro, Usopp y Sanji ya han zarpado del todo e… [+2651 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Lo has visto en Breaking Bad, en The Boys y en Star Wars. Ahora, Giancarlo Esposito se ha reunido con los jefazos de DC Studios para tener un hueco en la franquicia",
+      "Description": "A falta de un año para que comience, el nuevo Universo Extendido de DC continúa uniendo cabos sueltos para poder relanzar la franquicia en todo su esplendor. Hasta el momento, hemos conocido a los actores que protagonizarán los primeros proyectos de DC Studio…",
+      "Url": "https://www.vidaextra.com/cine/has-visto-breaking-bad-the-boys-star-wars-ahora-giancarlo-esposito-se-ha-reunido-jefazos-dc-studios-para-tener-hueco-franquicia",
+      "UrlToImage": "https://i.blogs.es/ddd472/giancarlo-esposito/840_560.jpeg",
+      "PublishedAt": "2023-08-31T17:31:45Z",
+      "Content": "A falta de un año para que comience, el nuevo Universo Extendido de DC continúa uniendo cabos sueltos para poder relanzar la franquicia en todo su esplendor. Hasta el momento, hemos conocido a los ac… [+1634 chars]"
     },
     {
       "Source": {
@@ -353,45 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/0370e6fa-ea1a-4251-b178-d9ff430d4aae_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-08-30T20:20:53Z",
       "Content": "Charlotte Rampling con una gorra de las SS y apenas unos tirantes cubriendo sus senos mientras baila. Pocas imágenes en la historia del cine han permanecido tan grabadas a fuego en la retina de los e… [+8142 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Acusan al director francés Philippe Garrel de abusos y proposiciones sexuales",
-      "Description": "Varias actrices, entre ellas Anna Mouglalis, Marie Vialle, Laurence Cordier y Clotilde Hesme, han acusado al cineasta francés de Philippe Garrel, director de 'Un verano ardiente' y 'Salvaje inocencia' y Oso de Plata a la mejor realización en el último Festiva…",
-      "Url": "https://www.abc.es/play/cine/noticias/acusan-director-frances-philippe-garrel-abusos-proposiciones-20230830201719-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/08/30/garrel1_20230830201544-U55466612346AFR-1024x512@abc.jpg",
-      "PublishedAt": "2023-08-30T18:17:20Z",
-      "Content": "Varias actrices, entre ellas Anna Mouglalis, Marie Vialle, Laurence Cordier y Clotilde Hesme, han acusado al cineasta francés de Philippe Garrel, director de 'Un verano ardiente' y 'Salvaje inocencia… [+1346 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "Un juez desestima la demanda de los fans de Ana de Armas, indignados por la \"publicidad engañosa\" de 'Yesterday': \"Es la tercera vez y la última\"",
-      "Description": "Más de uno se preguntó por qué Ana de Armas salía en el tráiler de 'Yesterday' y luego no apareció en la película. Solo hay que mirar a los dos fans indignados que llevaron a juicio a la productora por ese motivo y cuya demanda ha sido finalmente descartada.\n…",
-      "Url": "https://www.espinof.com/legislacion/juez-desestima-demanda-fans-indignados-porque-ana-armas-no-saliera-yesterday",
-      "UrlToImage": "https://i.blogs.es/2855ea/yesterday/840_560.jpeg",
-      "PublishedAt": "2023-08-30T18:01:27Z",
-      "Content": "Más de uno se preguntó por qué Ana de Armas salía en el tráiler de 'Yesterday' y luego no apareció en la película. Solo hay que mirar a los dos fans indignados que llevaron a juicio a la productora p… [+1520 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "El cine italiano resurge en la Mostra de Venecia y con el espíritu de Cinecittà",
-      "Description": "La falta de divos estadounidenses en el Festival de cine de Venecia, inmersos en una huelga que va para largo, no le asusta al director de la Mostra, Alberto Barbera. «Las consecuencias de la huelga , que tiene sus buenos y compartibles motivos, son modestas …",
-      "Url": "https://www.abc.es/play/cine/noticias/cine-italiano-resurge-mostra-venecia-espiritu-cinecitta-20230829185634-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/08/29/6289473-U40345306383QMO-1024x512@abc.jpg",
-      "PublishedAt": "2023-08-30T16:56:35Z",
-      "Content": "La falta de divos estadounidenses en el Festival de cine de Venecia, inmersos en una huelga que va para largo, no le asusta al director de la Mostra, Alberto Barbera. «Las consecuencias de la huelga,… [+4095 chars]"
     }
   ]
 }

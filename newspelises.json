@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 203,
+  "TotalResults": 204,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Vuelta al cole en el cine: las mejores películas que se estrenarán para competir en los Oscar y los Goya",
+      "Description": "Martin Scorsese, Ridley Scott , David Fincher, Bradley Cooper, J. A. Bayona... El nuevo curso llega repleto de grandes cineastas con la mirada puesta en los Oscar y los Goya, donde recibirán su particular boletín de notas y se dirimirá qué ha sido lo mejor de…",
+      "Url": "https://www.abc.es/play/cine/noticias/vuelta-cole-cine-mejores-peliculas-estrenaran-competir-20230831203304-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/08/31/collage-tamano-dos_20230831210106-U77601076340Cyc-1024x512@abc.PNG",
+      "PublishedAt": "2023-08-31T18:33:05Z",
+      "Content": "Martin Scorsese, Ridley Scott, David Fincher, Bradley Cooper, J. A. Bayona... El nuevo curso llega repleto de grandes cineastas con la mirada puesta en los Oscar y los Goya, donde recibirán su partic… [+5717 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/1689cf/flash-2023-andy-muschietti/840_560.jpeg",
       "PublishedAt": "2023-08-25T09:01:40Z",
       "Content": "Hasta qué punto la estrategia comunicativa de Warner Bros. Discovery y DC Comics ha puesto una cruz a todas sus producciones pendientes es difícil de calcular, ya que el propio Universo Extendido de … [+3140 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Oppenheimer supera a Origen y El caballero oscuro y ya es la película más taquillera de Christopher Nolan en España",
-      "Description": "Tras su llegada a las salas de cine el pasado 20 de julio, Oppenheimer, la última película de Christopher Nolan, continúa su triunfal andadura por los cines españoles donde la última cinta del aclamado director suma ya más de 17 millones de euros en taquilla\n…",
-      "Url": "https://www.culturaocio.com/cine/noticia-oppenheimer-supera-origen-caballero-oscuro-ya-pelicula-mas-taquillera-christopher-nolan-espana-20230825105336.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230825105336_1200.jpg",
-      "PublishedAt": "2023-08-25T08:53:36Z",
-      "Content": "MADRID, 25 Ago. (CulturaOcio) - \r\n   Tras su llegada a las salas de cine el pasado 20 de julio, Oppenheimer, la última película de Christopher Nolan, continúa su triunfal andadura por los cines españ… [+3332 chars]"
     }
   ]
 }
