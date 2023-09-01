@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 201,
+  "TotalResults": 202,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Europapress.es"
+      },
+      "Author": null,
+      "Title": "El Cine de Verano de Diputación de Sevilla encara su recta final con 19.000 espectadores y 69 títulos",
+      "Description": "El Cine de Verano 'Patio de la Diputación', que arrancaba el pasado 28 de junio con la película española 'Modelo 77' del sevillano Alberto Rodríguez en su cartelera, afronta ya su recta final hasta el próximo 10 de septiembre, cuando se habrán proyectado un t…",
+      "Url": "https://www.europapress.es/andalucia/sevilla-00357/noticia-cine-verano-diputacion-sevilla-encara-recta-final-19000-espectadores-69-titulos-20230831162547.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230831162547_1200.jpg",
+      "PublishedAt": "2023-08-31T14:25:47Z",
+      "Content": "SEVILLA, 31 Ago. (EUROPA PRESS) - \r\n El Cine de Verano 'Patio de la Diputación', que arrancaba el pasado 28 de junio con la película española 'Modelo 77' del sevillano Alberto Rodríguez en su cartele… [+3376 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/64e85ac358e2ca894a3d971d/16:9/w_1280,c_limit/dune-parte-2-fecha-2024.jpg",
       "PublishedAt": "2023-08-25T07:44:30Z",
       "Content": "Cuando en 2020 se retrasaron los estrenos de cine, las carteleras tardaron un tiempo en ajustarse, pero como demuestra** Dune: Parte Dos** y otros tantos títulos que han vuelto a mover sus fechas, el… [+2018 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Víctor López G.",
-      "Title": "Las Tortugas Ninja más adolescentes quieren poner las cosas difíciles a Mario Casas en su debut como director: lo mejor y lo peor de los estrenos de cine",
-      "Description": "Sé que a estas alturas puede sonar a cliché estival, pero esta vez es más real que nunca: si hay un momento ideal para ir al cine es este fin de semana, mientras la ola de calor salvaje que nos está haciendo la vida imposible aún sigue dando guerra. Pero ojo,…",
-      "Url": "https://www.espinof.com/estrenos/tortugas-ninja-adolescentes-quieren-poner-cosas-dificiles-a-mario-casas-su-debut-como-director-mejor-peor-estrenos-cine",
-      "UrlToImage": "https://i.blogs.es/e7ece5/slack-imgs/840_560.jpeg",
-      "PublishedAt": "2023-08-25T07:01:39Z",
-      "Content": "Sé que a estas alturas puede sonar a cliché estival, pero esta vez es más real que nunca: si hay un momento ideal para ir al cine es este fin de semana, mientras la ola de calor salvaje que nos está … [+2748 chars]"
     }
   ]
 }
