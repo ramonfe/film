@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 666,
+  "TotalResults": 667,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-irish-times",
+        "Name": "The Irish Times"
+      },
+      "Author": "Donald Clarke",
+      "Title": "The Movie Quiz: How many Irish films have won the Golden Lion?",
+      "Description": "Plus: Who won best actor last year at the Venice Film Festival?",
+      "Url": "https://www.irishtimes.com/culture/film/2023/09/01/the-movie-quiz-how-many-irish-films-have-won-the-golden-lion/",
+      "UrlToImage": "https://www.irishtimes.com/resizer/4bV07ZeJSxgfQ-ZJzGea8iJCco4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/Y6TYL4NMEVDSDF2TSHP3T3ETZU.jpg",
+      "PublishedAt": "2023-09-01T04:00:00Z",
+      "Content": "Donald Clarke, a contributor to The Irish Times, is Chief Film Correspondent and a regular columnist"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1693434700/Drew_Barry_Beautiful_by_Drew_Home_Collection_meoafr",
       "PublishedAt": "2023-08-30T22:34:51Z",
       "Content": "Scouted selects products independently. If you purchase something from our posts, we may earn a small commission.\r\nWhat first comes to mind when you think of actress, TV host, and entrepreneur Drew B… [+4037 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eonline.com"
-      },
-      "Author": "Alexandra Bellusci",
-      "Title": "Why Harry Potter's Bonnie Wright Is \"Frustrated\" by Movie Role",
-      "Description": "Slytherin to Bonnie Wright's chamber of secrets.\nThe actress, who portrayed Ginny Weasley in the Harry Potter franchise, recently revealed that she was frustrated that her character didn't have as...",
-      "Url": "https://www.eonline.com/news/1384481/harry-potters-bonnie-wright-shared-shes-frustrated-over-character-ginnys-lack-of-screen-time",
-      "UrlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023730/cr_1200x1200-230830142000-GettyImages-1455138469.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-      "PublishedAt": "2023-08-30T22:22:07Z",
-      "Content": "But the fans of Hogwarts' finest had her back, despite Wright feeling the filmmakers could have fit in a larger role for Gilly, who she played in all eight films, from 2001 to 2011.\r\n\"And when fans d… [+767 chars]"
     }
   ]
 }
