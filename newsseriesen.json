@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Boing Boing"
+      },
+      "Author": "Ruben Bolling",
+      "Title": "Warner Bros. Discovery will try interrupting your streaming movie on Max with CNN news alerts",
+      "Description": "Warner Bros. Discovery will soon include CNN content on its streaming service Max (formerly HBO Max). \n\n\n\nBut the company also unveiled plans to test an obnoxious feature that would interrupt your streaming movie or TV show with CNN news alerts. Link to the V…",
+      "Url": "https://boingboing.net/2023/09/01/warner-bros-discovery-will-try-interrupting-your-streaming-movie-on-max-with-cnn-news-alerts.html",
+      "UrlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/shutterstock_1008257860.jpg?fit=1200%2C750&ssl=1",
+      "PublishedAt": "2023-09-01T15:16:00Z",
+      "Content": "Warner Bros. Discovery will soon include CNN content on its streaming service Max (formerly HBO Max). \r\nBut the company also unveiled plans to test an obnoxious feature that would interrupt your stre… [+925 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://nofilmschool.com/media-library/sag-aftra-picket-signs.jpg?id=34331702&width=1200&height=600&coordinates=0%2C21%2C0%2C22",
       "PublishedAt": "2023-08-21T14:00:06Z",
       "Content": "Zoey 102 | Official Trailer | Paramount+\r\nThe benefit of going in cold was that I read a fantastic, and subversive, romantic comedy that would appeal to anyone while honoring fans of the original sho… [+6255 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": null
-      },
-      "Author": null,
-      "Title": null,
-      "Description": null,
-      "Url": null,
-      "UrlToImage": null,
-      "PublishedAt": null,
-      "Content": null
     }
   ]
 }
