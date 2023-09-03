@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 879,
+  "TotalResults": 880,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "La segunda temporada de The Last of Us se comenzará a filmar apenas termine la huelga en Hollywood",
+      "Description": "La serie protagonizada por Pedro Pascal y Bella Ramsey, fue uno de los mayores éxitos de HBO durante este 2023. Y según confirmó el creador de este título, todo está listo para comenzar a grabar los nuevos episodios",
+      "Url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/la-segunda-temporada-de-the-last-of-us-se-comenzara-a-filmar-apenas-termine-la-huelga-en-hollywood-nid02092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/the-last-of-QRDLG6XFBZGLTNJ2XPVUK6WNCE.JPG?auth=a8b364d60d5bf63d64eac8b4847a13e31818deaa6e955066c76489206c294725&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-02T03:47:40Z",
+      "Content": "Antes de su estreno, las expectativas de HBO con respecto a The Last of Us eran muy elevadas. La ficción basada en el videojuego homónimo de Playstation, gira alrededor del vínculo entre un hombre ad… [+3534 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/964a43/pr-image-appple-tv_key-visual_us/840_560.jpeg",
       "PublishedAt": "2023-09-01T12:29:59Z",
       "Content": "Apple TV+ es una de las grandes plataformas de streaming del momento, con éxitos en su catálogo como 'Ted Lasso', 'See', 'Fundación', o 'Para toda la humanidad', y además con la posibilidad de disfru… [+1375 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "HBO retrasa a 2024 el esperado regreso de 'True Detective' con Jodie Foster",
-      "Description": "La esperada cuarta temporada de True Detective verá retrasado su estreno respecto a lo previsto.Aunque HBO no había puesto fecha concreta en el calendario, sí había avanzado que la serie formaba parte de su catálogo de lanzamientos para 2023. De hecho, las pr…",
-      "Url": "https://www.eldiario.es/vertele/series/hbo-retrasa-2024-esperado-regreso-true-detective-jodie-foster_1_10480552.html",
-      "UrlToImage": "https://static.eldiario.es/clip/2afeea5a-2f19-4f16-aa81-f522f87aacdc_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-09-01T11:04:04Z",
-      "Content": "La esperada cuarta temporada de True Detective verá retrasado su estreno respecto a lo previsto.\r\nHBO sentencia 'The Idol' tras un sinfín de polémicas y descarta una segunda temporada\r\nAunque HBO no … [+2380 chars]"
     }
   ]
 }
