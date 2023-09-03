@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 192,
+  "TotalResults": 193,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La Cineteca comienza temporada con proyecciones de Kubrick y Nolan",
+      "Description": "Tras la celebración del cine de verano al aire libre, Cineteca Madrid (Plaza de Legazpi, 8) se suma a la rentrée de la agenda cultural de la capital volviendo a abrir al público sus tres salas (Azcona, Borau y Plató) para refugiarse de la lluvia con lo mejor …",
+      "Url": "https://www.abc.es/espana/madrid/semana-mantita-pelis-cineteca-20230902122818-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2023/09/02/Interstellar4-U66327370570Tdn-1024x512@abc.jpg",
+      "PublishedAt": "2023-09-02T17:19:38Z",
+      "Content": "Tras la celebración del cine de verano al aire libre, Cineteca Madrid (Plaza de Legazpi, 8) se suma a la rentrée de la agenda cultural de la capital volviendo a abrir al público sus tres salas (Azcon… [+3798 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.ecartelera.com/noticias/74500/74539-h2.jpg",
       "PublishedAt": "2023-08-28T09:51:42Z",
       "Content": "Fin de semana interesante en la taquilla norteamericana. El domingo volvía a celebrarse en un montón de cines de Estados Unidos el National Cinema Day, su Fiesta del Cine, con entradas a 4 dólares. '… [+2867 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "\"Hay palabras escritas\". Denis Villeneuve sueña con rodar 'Dune 3', pero avisa que esta sería su última adaptación de las novelas",
-      "Description": "Donde comen dos comen tres. Eso ha debido pensar Denis Villeneuve, que ha vocalizado algo que todos dábamos por hecho: que estaba pensando en 'Dune' como una trilogía. Y es que la (única) buena noticia del retraso de su segunda parte es que en Warner confían …",
-      "Url": "https://www.espinof.com/proyectos/hay-palabras-escritas-denis-villeneuve-suena-rodar-dune-3-avisa-que-esta-seria-su-ultima-adaptacion-novelas",
-      "UrlToImage": "https://i.blogs.es/1e047c/dune2/840_560.jpeg",
-      "PublishedAt": "2023-08-28T09:30:48Z",
-      "Content": "Donde comen dos comen tres. Eso ha debido pensar Denis Villeneuve, que ha vocalizado algo que todos dábamos por hecho: que estaba pensando en 'Dune' como una trilogía. Y es que la (única) buena notic… [+1225 chars]"
     }
   ]
 }
