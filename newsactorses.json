@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 612,
+  "TotalResults": 613,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Raquel Morales",
+      "Title": "Ben Affleck es jugador de Valorant y ha revelado qué personaje es su main",
+      "Description": "El actor asistió al torneo Valorant Champions.\nEl actor que ha interpretado a Batman en el cine se declara fan del juego de disparos y se le da muy bien un personaje en concreto.",
+      "Url": "https://es.ign.com/valorant/193688/news/ben-affleck-es-jugador-de-valorant-y-ha-revelado-que-personaje-es-su-main",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/ben-affleck-valorant_g33z.1200.jpg",
+      "PublishedAt": "2023-09-02T15:00:30Z",
+      "Content": "Los videojuegos y el cine acercan cada vez más posturas. Ya muchos actores y directores muestran su pasión por este arte interactivo que consigue muchos ingresos a lo largo del año. Hemos visto mucha… [+1912 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/127075/pokemon-serie/840_560.jpeg",
       "PublishedAt": "2023-09-01T01:01:51Z",
       "Content": "De acuerdo con información de TV Tokyo, se encuentra en proceso de desarrollo una serie de drama de acción en vivo basada en el universo de 'Pokémon'. El estreno de esta serie está programado para el… [+1892 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Pablo Hernández",
-      "Title": "Después de 'The Witcher', Henry Cavill se hace con el próximo gran papel de fantasía con el director de John Wick",
-      "Description": "Henry Cavill se convertirá en el inmortal Highlander. El director de John Wick, Chad Stahelski, dirigirá el reinicio del legendario clásico de fantasía. Así es como se dio a conocer gracias al reporte inicial de TheHollywoodReporter y posteriormente se confir…",
-      "Url": "https://www.xataka.com.mx/cine-y-tv/despues-the-witcher-henry-cavill-se-hace-proximo-gran-papel-fantasia-director-john-wick",
-      "UrlToImage": "https://i.blogs.es/746c7a/highlander-cavill/840_560.jpeg",
-      "PublishedAt": "2023-09-01T00:01:51Z",
-      "Content": "Henry Cavill se convertirá en el inmortal Highlander. El director de John Wick, Chad Stahelski, dirigirá el reinicio del legendario clásico de fantasía. Así es como se dio a conocer gracias al report… [+2459 chars]"
     }
   ]
 }
