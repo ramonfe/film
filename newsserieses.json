@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 877,
+  "TotalResults": 878,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "¿Has visto 'Un cuento perfecto? Te proponemos 6 series románticas que te encantarán como la serie de Netflix",
+      "Description": "Disfruta de grandes historias de amor con estas ficciones entre las que se encuentra otra adaptación de Elísabet Benavent",
+      "Url": "https://www.hola.com/actualidad/galeria/20230903237903/un-cuento-perfecto-otras-series-romanticas-que-te-gustaran/1/",
+      "UrlToImage": "https://www.hola.com/imagenes/actualidad/20230903237903/un-cuento-perfecto-otras-series-romanticas-que-te-gustaran/1-297-151/un-cuento-perfectos01e0608112022felipehernandezdscf8023-e.jpg",
+      "PublishedAt": "2023-09-03T06:41:03Z",
+      "Content": "Sin ninguna duda, Un cuento perfecto, la serie de Netflix adaptación de la novela de Elísabet Benavent, se ha convertido en la ficción romántica de este verano. Desde su estreno, el 28 de julio, está… [+391 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/097977/fundacion2/840_560.jpeg",
       "PublishedAt": "2023-09-01T16:00:28Z",
       "Content": "Aunque su falta adaptaciones al cine le haya restado popularidad, Fundación ha sido a menudo incluida junto con obras como Dune y Star Wars, como una de las obras de ciencia ficción más icónicas e in… [+9103 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Raquel Morales",
-      "Title": "He visto One Piece en Netflix y es la digna adaptación que los fans necesitaban ver",
-      "Description": "La serie live-action ha superado mis expectativas.\nLa serie One Piece de Netflix es la mejor adaptación live-action que se podría haber hecho del manganime de los Sombrero de Paja.",
-      "Url": "https://es.ign.com/netflix/193752/news/he-visto-one-piece-en-netflix-y-es-la-digna-adaptacion-que-los-fans-necesitaban-ver",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/one-piece_ep2k.1200.jpg",
-      "PublishedAt": "2023-09-01T16:00:27Z",
-      "Content": "Es difícil explicar qué significa One Piece a alguien que empiece la serie de Netflix sin saber nada. Lo que sí tenemos claro es que es la mejor historia de piratas que se ha escrito. La obra de Eiic… [+5415 chars]"
     }
   ]
 }
