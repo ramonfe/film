@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 635,
+  "TotalResults": 636,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://variety.com/wp-content/uploads/2023/09/Tony-Leung-conference-screengrab-cr-res.jpg?w=1000&h=563&crop=1",
       "PublishedAt": "2023-09-02T12:29:17Z",
       "Content": "Renowned Hong Kong actor Tony Leung Chiu-wai ditched his quiet, brooding persona on Saturday in Venice, where he is to receive a Golden Lion Lifetime Achievement Award.\r\nInstead, at a press conferenc… [+4027 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Fardeen treats his fans with a dapper photo",
-      "Description": "Fardeen Khan expressed his gratitude to his fans on Instagram with a stylish photo of himself. The actor thanked his followers for their support and positivity. Celebrities like Bobby Deol and Dia Mirza commented with heart and fire emojis. Fardeen Khan, who …",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/fardeen-khan-treats-his-fans-with-a-dapper-photo-on-instagram-bobby-deol-dia-mirza-react/articleshow/103299764.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-103299764,width-1070,height-580,imgsize-88878,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2023-09-02T03:27:22Z",
-      "Content": "Fardeen Khan sets the Instagram on fire with his shirtless photo; Dia Mirza, Abhishek Bachchan, Bobby Deol and others REACT - See postFardeen Khan, who is set to make a comeback, teased his fans by s… [+233 chars]"
     }
   ]
 }
