@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Eddie Makuch",
+      "Title": "Breaking Bad Star Aaron Paul Gets $0 From Streaming On Netflix",
+      "Description": "Breaking Bad is one of television's most popular TV shows, but series star Aaron Paul is not taking home residual checks from Netflix, where the show is streaming in the US. Appearing on the picket line outside Sony Pictures Studio recently, The Independent r…",
+      "Url": "https://www.gamespot.com/articles/breaking-bad-star-aaron-paul-gets-0-from-streaming-on-netflix/1100-6517457/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4188455-ap.jpeg",
+      "PublishedAt": "2023-09-05T13:42:00Z",
+      "Content": "Breaking Bad is one of television's most popular TV shows, but series star Aaron Paul is not taking home residual checks from Netflix, where the show is streaming in the US. Appearing on the picket l… [+2124 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.newrepublic.com/77616687262aadefabb8afedcd03afaf3e9a7924.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "PublishedAt": "2023-08-24T10:00:00Z",
       "Content": "In many ways, this is still the ethos of HGTVs real estate programming, whether its original recipe House Hunters, its numerous spin-offs,or any of the dozens of home renovation shows that have poppe… [+2645 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.2.0b6",
-      "Description": "2023.2.0b6\n\n August 23, 2023\n \n unityhub://2023.2.0b6/ae7cc5a95f70\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CP…",
-      "Url": "https://unity.com/releases/editor/beta/2023.2.0b6",
-      "UrlToImage": null,
-      "PublishedAt": "2023-08-23T16:37:08Z",
-      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+200292 chars]"
     }
   ]
 }
