@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 633,
+  "TotalResults": 634,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-irish-times",
+        "Name": "The Irish Times"
+      },
+      "Author": "Ed Power",
+      "Title": "Top Boy: Barry Keoghan has made the most terrifying 10 seconds of TV you’ll see this year",
+      "Description": "Television: The Oscar-nominated Dublin actor steals every scene as he lands in Ronan Bennett’s guilty-pleasure Netflix show",
+      "Url": "https://www.irishtimes.com/culture/tv-radio/2023/09/06/top-boy-barry-keoghan-has-made-the-most-terrifying-10-seconds-of-tv-youll-see-this-year/",
+      "UrlToImage": "https://www.irishtimes.com/resizer/jSANu8FRtTKady0YXMJePDTgt3o=/1200x630/filters:format(jpg):quality(70):focal(911x741:921x751)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/WNXU2CIAKBDARE7J5GC76HISY4.jpg",
+      "PublishedAt": "2023-09-06T20:00:00Z",
+      "Content": "The final series of Ronan Bennetts Top Boy (Netflix, from Thursday, September 7th) redefines the concept of guilty pleasure. Set in the London criminal underworld, the shows concluding run of episode… [+2146 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.catholicnewsagency.com/storage/image/1b454a4f-0b31-4ca8-a630-e2e5e0aaf39e.jpg?jpg",
       "PublishedAt": "2023-09-05T11:00:00Z",
       "Content": "We hope that people seeing the movie might get affected by Mother Teresa and discover that they should also do little acts of kindness and be more compassionate and have more open eyes and be less ab… [+2334 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Has Lakshya bagged another Karan Johar film?",
-      "Description": "Actor Lakshya, who made his debut in the film Dostana 2, has reportedly bagged another film with Karan Johar. The upcoming movie is said to be an action flick and Lakshya may play the antagonist. Karan Johar had previously announced his plans to direct an act…",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/has-lakshya-bagged-another-karan-johar-film-after-shelved-dostana-2/articleshow/103390737.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-103388662,width-1070,height-580,imgsize-23372,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2023-09-05T10:02:25Z",
-      "Content": "This temple in Bihar is the oldest functional temple ever"
     }
   ]
 }
