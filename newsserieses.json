@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 884,
+  "TotalResults": 885,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "SARA POLO",
+      "Title": "Netflix se rinde al triángulo amoroso que desembocó en el crimen de la Guardia Urbana: \"Rosa Peral vive en una huida hacia adelante\"",
+      "Description": "La plataforma lanza a la vez el documental 'Las cintas de Rosa Peral', en el que la asesina habla desde prisión; y 'El cuerpo en llamas', la serie de ficción que protagoniza Úrsula Corberó Leer",
+      "Url": "https://www.elmundo.es/television/series/2023/09/06/64f8727ee85eceb5038b459e.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/1690607828bfcd5e0c399fee38e85be3/resize/1200/f/jpg/assets/multimedia/imagenes/2023/09/06/16940213832416.jpg",
+      "PublishedAt": "2023-09-06T19:28:35Z",
+      "Content": "\"Me gustaría con esto que se viera la persona que yo soy, no la que han vendido los medios de comunicación». Se presenta a cámara Rosa Peral, 42 años, condenada a 25 por asesinar a su novio Pedro con… [+5475 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/d5a267/tlm_dt2_stills_request_4k_rec709_20230228.0020/840_560.jpeg",
       "PublishedAt": "2023-09-06T07:01:40Z",
       "Content": "Primer miércoles de septiembre y en lo que sobrevivimos el temporal es momento de ponernos, como cada semana, con los estrenos de esta semana en nuestro querido streaming. Para estos días tenemos 46 … [+4164 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Luis Acosta",
-      "Title": "Al fin llegó a Star+ la trilogía más famosa de comedia y ciencia ficción que se convirtió en icono cultural",
-      "Description": "'Volver al Futuro' es sin duda la comedia de ciencia ficción más famosa del cine, una película exitosa que se transformó en una saga de culto y que marcó a toda una generación. A casi 40 años de su estreno la primer cinta marcó el camino para que dos película…",
-      "Url": "https://www.xataka.com.mx/cine-y-tv/se-convirtio-fenomeno-cultural-saga-comedia-ciencia-ficcion-famosa-cine-se-puede-ver-completa-star-plus",
-      "UrlToImage": "https://i.blogs.es/a0e1b0/sin-titulo-1/840_560.jpeg",
-      "PublishedAt": "2023-09-06T00:01:34Z",
-      "Content": "'Volver al Futuro' es sin duda la comedia de ciencia ficción más famosa del cine, una película exitosa que se transformó en una saga de culto y que marcó a toda una generación. A casi 40 años de su e… [+3091 chars]"
     }
   ]
 }

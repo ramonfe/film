@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 627,
+  "TotalResults": 628,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Arnold Schwarzenegger reveló el grave error por el que peligró su vida en una operación a corazón abierto: “Estaba en medio de un desastre”",
+      "Description": "El actor habló de un episodio que vivió en 2018, cuando se sometió a una cirugía cardíaca para cambiar una válvula del corazón que derivó en una serie de complicaciones que lo tuvieron “al borde de la muerte”",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/arnold-schwarzenegger-revelo-el-grave-error-por-el-que-peligro-su-vida-en-una-operacion-a-corazon-nid06092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/arnold-schwarzenegger-hablo-sobre-un-momento-muy-D5ZIVCAJOZDOFOO4CTRGIKOLRQ.jpg?auth=fcc10e5ca5852a43e0798aa2381c212019d2504583aef9ab14c155df89a3beaf&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-06T19:31:17Z",
+      "Content": "La popularidad de Arnold Schwarzenegger ha crecido notoriamente en los últimos meses, gracias al éxito de su documental y del largometraje de acción que se incorporó a Netflix, FUBAR, en el que se lo… [+4282 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/09/05/elhormigueromariooscarcasas-U04774327176TaB-1024x512@abc.jpg",
       "PublishedAt": "2023-09-05T21:01:08Z",
       "Content": "La baza de 'El Hormiguero' invitando a Isabel Pantoja a amadrinar el estreno de la 18º temporada fue un gran acierto: el programa de Pablo Motos lideró su franja de emisión, obteniendo un 18,7% de cu… [+2570 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Pablo Caruana Húder",
-      "Title": "El monólogo de Vicky Luengo sobre el tratamiento judicial de la violencia sexual abre la puerta entre la calle y el teatro",
-      "Description": "El teatro es un arma cargada de futuro. Eso es lo que pasa en Prima Facie, el montaje que ha abierto la temporada en los Teatros del Canal de Madrid en el que la actriz Vicky Luengo consigue que la obra sobre violencia sexual de Suzie Miller, estrenada con gr…",
-      "Url": "https://www.eldiario.es/cultura/teatro/monologo-vicky-luengo-tratamiento-judicial-violencia-sexual-abre-puerta-calle-teatro_1_10489807.html",
-      "UrlToImage": "https://static.eldiario.es/clip/f7f1fb89-34b6-4a16-a77f-496c0a371e28_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-09-05T20:50:39Z",
-      "Content": "El teatro es un arma cargada de futuro. Eso es lo que pasa en Prima Facie, el montaje que ha abierto la temporada en los Teatros del Canal de Madrid en el que la actriz Vicky Luengo consigue que la o… [+137 chars]"
     }
   ]
 }
