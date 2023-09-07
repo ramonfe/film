@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 628,
+  "TotalResults": 629,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Austin Butler Stars in 'The Bikeriders' - Watch the Trailer!",
+      "Description": "Austin Butler is starring in his next big film. The 32-year-olad actor is featured in the newly released trailer and poster for the upcoming feature film The Bikeriders, written and directed by Jeff Nichols, which was was screened last week at the 2023 Tellur…",
+      "Url": "https://www.justjared.com/2023/09/06/austin-butler-stars-in-the-bikeriders-watch-the-trailer/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/09/bikeriders-trailer-social.jpg",
+      "PublishedAt": "2023-09-06T17:24:21Z",
+      "Content": "Austin Butler is starring in his next big film.\r\nThe 32-year-olad actor is featured in the newly released trailer and poster for the upcoming feature film The Bikeriders, written and directed by Jeff… [+1520 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imagez.tmz.com/image/88/16by9/2023/08/17/88a28048833849b19c643d56ca81b88a_xl.jpg",
       "PublishedAt": "2023-09-05T07:15:08Z",
       "Content": "\"Brady Bunch\" movie star Olivia Hack claims her boyfriend's estranged wife is \"unhinged\" ... and now she's getting court-ordered protection.\r\nOlivia beelined it to court recently and filed for a temp… [+1131 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
