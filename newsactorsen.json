@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 637,
+  "TotalResults": 638,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Rhea Mogul",
+      "Title": "This actor is so huge his fans lined up at 4.30 a.m. to watch his new movie",
+      "Description": "Jubilant movie fans thronged Indian cinemas before the crack of dawn on Thursday, bursting fire crackers and dancing on the street to welcome the latest release by one of the country's biggest stars.",
+      "Url": "https://www.cnn.com/2023/09/06/india/jawan-shah-rukh-khan-movie-release-india-intl-hnk/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230906223855-02-shah-rukh-khan-jawan-090723.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2023-09-07T03:59:04Z",
+      "Content": "Jubilant movie fans thronged Indian cinemas before the crack of dawn on Thursday, bursting fire crackers and dancing on the street to welcome the latest release by one of the countrys biggest stars.\r… [+2959 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://nofilmschool.com/media-library/bryan-cranston-as-walter-white-and-aaron-paul-as-jesse-pinkman-in-hazmat-suits-in-breaking-bad.jpg?id=34073626&width=1200&height=600&coordinates=0%2C71%2C0%2C72",
       "PublishedAt": "2023-09-05T15:51:34Z",
       "Content": "If you're the actor on a TV show that found an audience on a streamer after airing on a traditional network, you're probably out on the picket lines. \r\nWe heard fromRick and Morty actor Spencer Gramm… [+1081 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Sushmita Sen",
-      "Title": "Jim & Andy: The Great Beyond: Where to Watch & Stream Online",
-      "Description": "Jim & Andy: The Great Beyond is a critically acclaimed documentary that is available to watch and stream online. In the film, director Chris Smith features behind-the-scene moments of actor Jim Carry portraying his idol, Andy Kaufman, in the film Man on the M…",
-      "Url": "https://www.comingsoon.net/guides/news/1332634-jim-andy-the-great-beyond-where-to-watch-stream-online",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/where-to-watch-Jim-and-Andy-The-Great-Beyond.jpg?resize=1200,630",
-      "PublishedAt": "2023-09-05T15:01:43Z",
-      "Content": "Jim &amp; Andy: The Great Beyond is a critically acclaimed documentary that is available to watch and stream online. In the film, director Chris Smith features behind-the-scene moments of actor Jim C… [+1968 chars]"
     }
   ]
 }
