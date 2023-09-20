@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 992,
+  "TotalResults": 993,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "Javier Marquez",
+      "Title": "Paint se prepara para la mayor actualización de su historia: tendrá tres funciones clásicas de Photoshop",
+      "Description": "Paint es uno de esos históricos de la informática que todos conocemos. Su origen se remonta al año 1985, cuando Microsoft lo incluyó en, nada más y nada menos, que Windows 1.0. Sí, han pasado casi cuatro décadas desde aquel entonces y este programa se resiste…",
+      "Url": "https://www.xataka.com/aplicaciones/paint-se-prepara-para-mayor-actualizacion-su-historia-tendra-tres-funciones-clasicas-photoshop",
+      "UrlToImage": "https://i.blogs.es/5ea0ab/paint-microsoft-windows-11/840_560.jpeg",
+      "PublishedAt": "2023-09-19T22:30:28Z",
+      "Content": "Paint es uno de esos históricos de la informática que todos conocemos. Su origen se remonta al año 1985, cuando Microsoft lo incluyó en, nada más y nada menos, que Windows 1.0. Sí, han pasado casi cu… [+2572 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/410b9b/barras-de-sonido-amazon/840_560.jpeg",
       "PublishedAt": "2023-09-19T09:04:21Z",
       "Content": "El próximo evento de ofertas de Amazon ya es oficial. El Prime Day de octubre, llamado en esta ocasión como Fiesta de ofertas Prime, dará comienzo a las 00:00 del 10 de octubre y terminará a las 23:5… [+5896 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Vidas robadas (e inventadas): de Rosa Peral a Magic Johnson",
-      "Description": "La ficción, es lo que tiene, queda grabada en la memoria con más fuerza que la realidad vivida a distancia. Nadie que haya visto 'The Crown' puede imaginarse un pasillo de Buckingham o una discusión entre la Reina Isabel y Lady Di diferentes a como los mostró…",
-      "Url": "https://www.abc.es/play/television/noticias/fernando-munoz-vidas-robadas-inventadas-rosa-peral-magic-johnson-20230919205222-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/09/18/escena-cuerpo-llamas-peral-real-U07684144011PkW-1024x512@abc.jpg",
-      "PublishedAt": "2023-09-19T08:58:09Z",
-      "Content": "La ficción, es lo que tiene, queda grabada en la memoria con más fuerza que la realidad vivida a distancia. Nadie que haya visto 'The Crown' puede imaginarse un pasillo de Buckingham o una discusión … [+597 chars]"
     }
   ]
 }
