@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 680,
+  "TotalResults": 681,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Crítica de 'Jeanne du Barry' (**): El rey Johnny Depp y su última cortesana",
+      "Description": "Esta película inauguró el pasado Festival de Cannes y es absolutamente francesa, desde su directora y protagonista, Maïwenn, hasta el personaje biografiado, Jeanne du Barry, la última 'favorita' del rey Luis XV, y el rumbo hacia el pasaje también favorito de …",
+      "Url": "https://www.abc.es/play/cine/criticas/critica-jeanne-barry-rey-johnny-depp-ultima-20230919183917-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/09/19/1683129731703-U74043541756syb-1024x512@abc.jpg",
+      "PublishedAt": "2023-09-19T16:39:20Z",
+      "Content": "Esta película inauguró el pasado Festival de Cannes y es absolutamente francesa, desde su directora y protagonista, Maïwenn, hasta el personaje biografiado, Jeanne du Barry, la última 'favorita' del … [+1925 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2023/09/18/ursula-kiiD--1024x512@abc.jpg",
       "PublishedAt": "2023-09-18T15:44:02Z",
       "Content": "Ha sido en una de las entrevistas por la promoción de la serie donde ha confesado una dolencia que padece desde que era pequeña y que le ha granjeado algunos problemas. No demasiado graves, pero sí l… [+1816 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "A. Richart",
-      "Title": "Todo lo que debes saber sobre 'Ena', la nueva serie de TVE sobre la reina Victoria Eugenia",
-      "Description": "Una actriz anglo-danesa encarnará a la monarca de principios del siglo XX, mientras que un actor repetirá con su papel de García Lorca después de interpretarlo en otra serie",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2023-09-18/ena-reina-victoria-eugenia-nueva-serie-tve1-la-cometa-tv_3737133/",
-      "UrlToImage": "https://images.ecestaticos.com/3pNnv4t6oYlTt_Sc63d8536KKns=/0x0:900x600/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/b10/c90/a78/b10c90a7866eba6a4292c4c26d25609b.jpg",
-      "PublishedAt": "2023-09-18T14:48:00Z",
-      "Content": "TVE comienza la promoción de Salón de té La Moderna, tan solo dos semanas después de arrancar sus grabacionesLa Promesa, el arma de TVE contra Ana Rosa Quintana: redobla por sorpresa su emisiónTelevi… [+5163 chars]"
     }
   ]
 }
