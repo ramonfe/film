@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "The Feed",
+      "Title": "Still Up: See rom-com series’ release date, storyline, cast, streaming platform and more",
+      "Description": "The new Apple TV+ series \"Still Up,\" a romantic comedy about two insomniac best friends, arrives on September 22, 2023. Starring Craig Roberts as Danny and Antonia Thomas as Lisa, the show explores their bond during late-night hours. The eight-episode series …",
+      "Url": "https://economictimes.indiatimes.com/news/international/us/still-up-see-rom-com-series-release-date-storyline-cast-streaming-platform-and-more/articleshow/103814375.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-103815297,width-1200,height-630,imgsize-15904,overlay-economictimes/photo.jpg",
+      "PublishedAt": "2023-09-20T14:02:18Z",
+      "Content": "The upcoming British comedy series, \"Still Up,\" is set to premiere on Apple TV+ on September 22, 2023, offering a fresh take on romantic comedy. Still Up: Storyline\r\nThis unique show focuses on the l… [+1740 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/one-piece-header-1.png?resize=1200,630",
       "PublishedAt": "2023-09-12T16:27:35Z",
       "Content": "Netflix has released a One Piece video that goes behind-the-scenes on the popular live-action series and delves into the process of designing the sets.\r\nThe video features the cast and crew discussin… [+933 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Woman of The Hour: Netflix Nabs Rights to Anna Kendrick’s Feature Directorial Debut",
-      "Description": "According to Deadline, Netflix has officially acquired the distribution rights to Pitch Perfect star Anna Kendrick’s feature-length directorial debut Woman of the Hour. The thriller is based on the true story of Cheryl Bradshaw, who participated in an 80s’ ma…",
-      "Url": "https://www.comingsoon.net/movies/news/1338687-woman-of-the-hour-netflix-anna-kendrick",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/Woman-of-the-hour-e1694531129671.jpg?resize=1200,630",
-      "PublishedAt": "2023-09-12T15:31:35Z",
-      "Content": "According to Deadline, Netflix has officially acquired the distribution rights to Pitch Perfect star Anna Kendricks feature-length directorial debut Woman of the Hour. The thriller is based on the tr… [+1376 chars]"
     }
   ]
 }
