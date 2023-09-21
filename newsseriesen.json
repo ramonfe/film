@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "Surviving Paradise Trailer Previews Netflix’s Newest Reality Competition Series",
+      "Description": "Netflix has released the official Surviving Paradise trailer for its forthcoming reality competition series, featuring twelve strangers fighting for the chance to win the grand prize of $100,000. The show will start streaming on October 20 with nine episodes.…",
+      "Url": "https://www.comingsoon.net/tv/trailers/1346066-surviving-paradise-trailer-netflix",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/Surviving-Paradise.jpg?resize=1200,630",
+      "PublishedAt": "2023-09-20T16:28:52Z",
+      "Content": "Netflix has released the official Surviving Paradise trailer for its forthcoming reality competition series, featuring twelve strangers fighting for the chance to win the grand prize of $100,000. The… [+1050 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-09-13T08:39:30Z",
       "Content": "<li>2D: Fixed an issue where a GameObject instantiated by a Tile is recreated on the player when the user refreshes the Tile without changing the Tile.\r\n(UUM-45589)\r\n</li><li>2D: Fixed an issue where… [+60886 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Spencer Legacy",
-      "Title": "Netflix One Piece Video Shows How the Ships & Sets Were Designed",
-      "Description": "Netflix has released a One Piece video that goes behind-the-scenes on the popular live-action series and delves into the process of designing the sets. What does the latest Netflix One Piece video show? The video features the cast and crew discussing how each…",
-      "Url": "https://www.comingsoon.net/tv/trailers/1338886-netflix-one-piece-video-shows-how-the-ships-sets-were-designed",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/one-piece-header-1.png?resize=1200,630",
-      "PublishedAt": "2023-09-12T16:27:35Z",
-      "Content": "Netflix has released a One Piece video that goes behind-the-scenes on the popular live-action series and delves into the process of designing the sets.\r\nThe video features the cast and crew discussin… [+933 chars]"
     }
   ]
 }
