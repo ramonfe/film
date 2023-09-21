@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1018,
+  "TotalResults": 1023,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "John Tones",
+      "Title": "Tras años atiborrando su catálogo, Netflix ha decidido dar un giro: más calidad, menos cantidad",
+      "Description": "Hace no demasiados meses hablábamos de Netflix como un contenedor en el que cabía de todo: algunos estrenos llamativos y mucha programación de relleno, a veces procedente de geografías remotas y, a priori, no muy atractivas para el consumidor autóctono. Un ti…",
+      "Url": "https://www.xataka.com/streaming/anos-atiborrando-su-catalogo-netflix-ha-decidido-dar-giro-calidad-cantidad",
+      "UrlToImage": "https://i.blogs.es/210f74/thibault-penin-ygcwl8jsxwu-unsplash/840_560.jpeg",
+      "PublishedAt": "2023-09-20T15:54:28Z",
+      "Content": "Hace no demasiados meses hablábamos de Netflix como un contenedor en el que cabía de todo: algunos estrenos llamativos y mucha programación de relleno, a veces procedente de geografías remotas y, a p… [+3449 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "20minutos.es"
+      },
+      "Author": "Amaya Larrañeta",
+      "Title": "La casa de Rosa Peral en la serie 'El cuerpo en llamas', a la venta por una cantidad millonaria",
+      "Description": "La vivienda utilizada para grabar la serie de Netflix El cuerpo en llamas, que protagoniza Úrsula Corberó junto a Quim Gutiérrez sobre el crimen de la Guardia...",
+      "Url": "https://www.20minutos.es/noticia/5174360/0/casa-serie-rosa-peral-netflix-sale-venta-por-un-precio-millonario/",
+      "UrlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/files/redes_20m/uploads/imagenes/2023/04/18/ursula-corbero-en-el-cuerpo-en-llamas.jpeg",
+      "PublishedAt": "2023-09-20T15:38:17Z",
+      "Content": "La vivienda utilizada para grabar la serie de Netflix El cuerpo en llamas, que protagoniza Úrsula Corberó junto a Quim Gutiérrez sobre el crimen de la Guardia Urbana por el que están en prisión Rosa … [+1032 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Culturaocio.com"
+      },
+      "Author": null,
+      "Title": "Rosa Peral carga contra Úrsula Corberó y El cuerpo en llamas: \"He cobrado cero euros\"",
+      "Description": "El estreno de El cuerpo en llamas, la serie de Netflix basada en un truculento caso real, el conocido como crimen de la Guardia Urbana, sigue dando que hablar. Tras solicitar judicialmente el 'secuestro' de la serie, y también dar su versión de los hechos en …",
+      "Url": "https://www.culturaocio.com/tv/noticia-rosa-peral-carga-contra-ursula-corbero-cuerpo-llamas-he-cobrado-cero-euros-20230920170828.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230920170828_1200.jpg",
+      "PublishedAt": "2023-09-20T15:08:28Z",
+      "Content": "MADRID, 20 Sep. (CulturaOcio) -\r\n   El estreno de El cuerpo en llamas, la serie de Netflix basada en un truculento caso real, el conocido como crimen de la Guardia Urbana, sigue dando que hablar. Tra… [+2490 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "'The Continental' es brutal cuando apuesta por la acción al estilo 'John Wick', pero la miniserie en Amazon Prime Video habría funcionado mejor como película",
+      "Description": "Nadie daba un duro por 'John Wick' cuando la película de acción protagonizada por Keanu Reeves estuvo a punto de ni siquiera estrenarse en los cines de Estados Unidos. Sin embargo, fue un notable éxito comercial llevó a que Lionsgate apostase con fuerza por c…",
+      "Url": "https://www.espinof.com/criticas/the-continental-brutal-cuando-apuesta-accion-al-estilo-john-wick-miniserie-amazon-prime-video-habria-funcionado-mejor-como-pelicula",
+      "UrlToImage": "https://i.blogs.es/18b71e/the-continental-poster/840_560.jpeg",
+      "PublishedAt": "2023-09-20T15:01:03Z",
+      "Content": "Nadie daba un duro por 'John Wick' cuando la película de acción protagonizada por Keanu Reeves estuvo a punto de ni siquiera estrenarse en los cines de Estados Unidos. Sin embargo, fue un notable éxi… [+5775 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Pablo Hernández",
+      "Title": "Obligada para los fans de 'Game of Thrones': esta película es brutal, visualmente impactante, tiene un gran reparto y se puede ver gratis en México",
+      "Description": "Si te gustan las escenas de violencia y aventura en la época antigua, no te pierdas el éxito histórico 'Centurion'. Con actores de Marvel, 'Game of Thrones' y 'The Walking Dead', esta película te hará vibrar y está disponible en Paramount+, Claro Video y ViX …",
+      "Url": "https://www.xataka.com.mx/streaming/obligada-para-fans-game-of-thrones-esta-pelicula-brutal-visualmente-impactante-tiene-gran-reparto-se-puede-ver-gratis-mexico",
+      "UrlToImage": "https://i.blogs.es/904e2b/centurion-1_waifu2x_photo_noise3_scale/840_560.png",
+      "PublishedAt": "2023-09-20T15:01:03Z",
+      "Content": "Si te gustan las escenas de violencia y aventura en la época antigua, no te pierdas el éxito histórico 'Centurion'. Con actores de Marvel, 'Game of Thrones' y 'The Walking Dead', esta película te har… [+2994 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/650abed98191bbbfe4c82c9e/16:9/w_1280,c_limit/STAT_20210120_07102_R_f.jpg",
       "PublishedAt": "2023-09-20T09:46:14Z",
       "Content": "Ya se han publicado los números de la semana, y la película más vista de Netflix era la que probablemente muchos esperaban, además de ser también la que ha devuelto tu ilusión por las comedias románt… [+2108 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Alberto García",
-      "Title": "El LEGO de Marvel mejor valorado en Amazon tiene una puntuación casi perfecta y es una fantástica pieza de exposición",
-      "Description": "La marca LEGO tiene un buen número de construcciones de Marvel, muchas de ellas destinadas al coleccionismo por su construcción y por los accesorios que incluyen. Entre todo su catálogo, el LEGO 76223 corresponde al Nanoguantelete de Iron Man (69,99 euros), l…",
-      "Url": "https://www.espinof.com/seleccion/lego-marvel-mejor-valorado-amazon-tiene-puntuacion-casi-perfecta-fantastica-pieza-exposicion",
-      "UrlToImage": "https://i.blogs.es/e571bc/vengadores-endgame/840_560.jpeg",
-      "PublishedAt": "2023-09-20T09:41:58Z",
-      "Content": "La marca LEGO tiene un buen número de construcciones de Marvel, muchas de ellas destinadas al coleccionismo por su construcción y por los accesorios que incluyen. Entre todo su catálogo, el LEGO 7622… [+2202 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": null,
-      "Title": "La serie coreana que está emocionando a todos y que es perfecta para entrar en otoño",
-      "Description": "Solo lleva unas semanas en Netflix y ya está cautivando a los amantes de las series coreanas... y a muchos más. 'Tu tiempo llama' es la serie perfecta para entrar en el otoño: un romance que trasciende el tiempo y el espacio.",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a45215993/tu-tiempo-llama-serie-coreana-netflix/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/tu-tiempo-llama-4-650ab4d6251bc.jpg?crop=1.00xw:0.753xh;0,0.120xh&resize=1200:*",
-      "PublishedAt": "2023-09-20T09:23:00Z",
-      "Content": "Todos los meses, Netflix al menos estrena una nueva serie coreana o k-drama, un 'género' en el que es sin duda la plataforma más fuerte. Los fans lo saben y acaban convirtiendo cada uno de sus lanzam… [+3850 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "El anime de 'Onimusha' revela su primer tráiler con duelos de infarto y samurais: el anime de Netflix basado en los videojuegos de Capcom ya tiene fecha de estreno",
-      "Description": "Netflix ha encontrado un filón con el anime, y más todavía con las series basadas en videojuegos entre 'Tekken: Bloodline' y 'Cyberpunk: Edgerunners' y 'Castlevania', que regresa también este mismo año con un spin-off.\n<!-- BREAK 1 -->\nYa ha pasado casi, casi…",
-      "Url": "https://www.espinof.com/anime/anime-onimusha-revela-su-primer-trailer-duelos-infarto-samurais-anime-netflix-basado-videojuegos-capcom-tiene-fecha-estreno",
-      "UrlToImage": "https://i.blogs.es/564aa2/sin-titulo-2/840_560.jpeg",
-      "PublishedAt": "2023-09-20T09:11:57Z",
-      "Content": "Netflix ha encontrado un filón con el anime, y más todavía con las series basadas en videojuegos entre 'Tekken: Bloodline' y 'Cyberpunk: Edgerunners' y 'Castlevania', que regresa también este mismo a… [+1360 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Rosa Peral ataca desde la cárcel a Úrsula Corberó por 'El cuerpo en llamas': «¿En qué momento...?»",
-      "Description": "En apenas unas semanas, 'El cuerpo en llamas' ha conseguido convertirse en la serie del momento. La producción de Netflix, con Úrsula Corberó y Quim Gutiérrez a la cabeza, ha conseguido enganchar a los espectadores gracias a la surrealista historia real que t…",
-      "Url": "https://www.abc.es/play/series/noticias/rosa-peral-ataca-carcel-ursula-corbero-cuerpo-llamas-20230920105613-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/09/20/ursula-corbero-rosa-peral-U35028850450WIw-1024x512@abc.jpg",
-      "PublishedAt": "2023-09-20T08:56:34Z",
-      "Content": "En apenas unas semanas, 'El cuerpo en llamas' ha conseguido convertirse en la serie del momento. La producción de Netflix, con Úrsula Corberó y Quim Gutiérrez a la cabeza, ha conseguido enganchar a l… [+3911 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "El documental de Beckham en Netflix tiene tráiler, y es mucho más de lo que imaginabas",
-      "Description": "Después de una espera bastante considerable, el documental de Beckham para Netflix por fin ha presentado su tráiler y su fecha de estreno. A estas alturas si estabas familiarizado ya con el proyecto, sabrás que se trata de un especial de 4 episodios en los qu…",
-      "Url": "https://www.revistagq.com/articulo/david-beckham-netflix-documental-trailer-estreno",
-      "UrlToImage": "https://media.revistagq.com/photos/650aaad3cf4dcca9b7657574/16:9/w_1280,c_limit/Beckham_n_S1_E1_00_49_02_22.jpg",
-      "PublishedAt": "2023-09-20T08:23:01Z",
-      "Content": "Después de una espera bastante considerable, el documental de Beckham para Netflix por fin ha presentado su tráiler y su fecha de estreno. A estas alturas si estabas familiarizado ya con el proyecto,… [+2070 chars]"
     }
   ]
 }
