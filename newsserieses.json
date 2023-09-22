@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1064,
+  "TotalResults": 1065,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "Revelan la causa de muerte de Angus Cloud, estrella de la serie 'Euphoria' de HBO",
+      "Description": "Aunque fuentes cercanas a la familia aseguraron que el joven tenía pensamientos suicidas, su madre aseguró que Angus \"no tenía intención de acabar con su vida\".",
+      "Url": "https://actualidad.rt.com/actualidad/480754-revelan-causa-muerte-estrella-serie-television-eeuu",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.09/article/650cac81e9ff7136f862dada.jpg",
+      "PublishedAt": "2023-09-21T22:03:08Z",
+      "Content": "Angus Cloud, estrella de la serie 'Euphoria', de HBO, murió el pasado mes de julio por una sobredosis accidental de una combinación letal de varias drogas, informó Variety este jueves. La Oficina For… [+425 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/650c10c2412c7d5135ff2140/16:9/w_1280,c_limit/james-bond.jpeg",
       "PublishedAt": "2023-09-21T09:49:48Z",
       "Content": "La búsqueda del próximo James Bond sigue hasta el momento (a menos que Eon Productions ya haya elegido y no lo haya revelado, claro), pero la nueva cara del espía británico más famoso de todos los ti… [+2239 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "EL MUNDO",
-      "Title": "La casa de Rosa Peral que aparece en El cuerpo en llamas, a la venta por 2,5 millones",
-      "Description": "La serie El cuerpo en llamas de  Netflix  ha devuelto a la actualidad el conocido como \"crimen de la Guardia Urbana\", en el que Rosa Peral y Albert López, que eran...",
-      "Url": "https://www.elmundo.es/television/series/2023/09/21/650bff97e85ecee4678b45ac.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/4963e809e5c12e2ee16dda608aab68c3/crop/0x0/1084x723/f/jpg/assets/multimedia/imagenes/2023/09/21/16952875044170.jpg",
-      "PublishedAt": "2023-09-21T09:34:55Z",
-      "Content": "La serie El cuerpo en llamas de Netflix ha devuelto a la actualidad el conocido como \"crimen de la Guardia Urbana\", en el que Rosa Peral y Albert López, que eran agentes, fueron condenados, respectiv… [+1563 chars]"
     }
   ]
 }
