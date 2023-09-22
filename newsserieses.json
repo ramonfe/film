@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1072,
+  "TotalResults": 1073,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Esta es la edad real de los actores de 'Sex Education'",
+      "Description": "Han pasado casi dos años desde que 'Sex Education' lanzara su última temporada y los fans de la ficción de Netflix están como locos con su regreso. La cuarta entrega de la serie se ha estrenado este jueves 21 de septiembre en la plataforma de contenido y ha t…",
+      "Url": "https://www.abc.es/play/series/noticias/esta-es-edad-real-actores-sex-education-20230921112325-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/09/21/sex-education-U81160883057LvB-1024x512@abc.jpg",
+      "PublishedAt": "2023-09-21T15:02:20Z",
+      "Content": "Han pasado casi dos años desde que 'Sex Education' lanzara su última temporada y los fans de la ficción de Netflix están como locos con su regreso. La cuarta entrega de la serie se ha estrenado este … [+3701 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/c76168/log/840_560.jpeg",
       "PublishedAt": "2023-09-21T00:00:41Z",
       "Content": "Una de las mejores películas de terror del 2021 recientemente ha llegado a Netflix, 'La casa bajo el agua' o 'The Deep House', promete mantenerte en constante claustrofobia y asfixia a lo largo de su… [+2539 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturacolectiva.com"
-      },
-      "Author": "Nayeli Párraga",
-      "Title": "‘Como agua para chocolate’ tendrá nueva adaptación como serie y ya queremos verla",
-      "Description": "La apasionada historia de Tita y Pedro en 'Como agua para chocolate' llegará a la pantalla chica por HBO Max",
-      "Url": "https://culturacolectiva.com/celebridades/como-agua-para-chocolate-serie-hbo/",
-      "UrlToImage": "https://i0.wp.com/culturacolectiva.com/wp-content/uploads/2023/09/como-agua-para-chocolate-serie-hbo.jpg?fit=1200%2C630&ssl=1",
-      "PublishedAt": "2023-09-20T22:26:07Z",
-      "Content": "La apasionada historia del amor prohibido entre Tita y Pedro en Como agua como chocolate llegará a la televisión en formato serie.\r\nEsta nueva adaptación de la novela de 1989 de Laura Esquivel, será … [+1669 chars]"
     }
   ]
 }
