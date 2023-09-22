@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BGR"
+      },
+      "Author": "Andy Meek",
+      "Title": "I have tried so many times to get into Apple’s The Morning Show and just can’t do it",
+      "Description": "Apple TV+ is home to so much great streaming content, from understated yet breathtaking dramas like Drops of God to comedies like Ted Lasso and …\nThe post I have tried so many times to get into Apple’s The Morning Show and just can’t do it appeared first on B…",
+      "Url": "https://bgr.com/entertainment/i-have-tried-so-many-times-to-get-into-apples-the-morning-show-and-just-cant-do-it/",
+      "UrlToImage": "https://bgr.com/wp-content/uploads/2023/09/rsz_1the_morning_show_photo_030410.jpg?quality=82&strip=all",
+      "PublishedAt": "2023-09-21T23:04:00Z",
+      "Content": "Apple TV+ is home to so much great streaming content, from understated yet breathtaking dramas like Drops of God to comedies like Ted Lasso and Acapulco, thrillers like Hijack, and pulse-pounding spy… [+3761 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/gX4T6r5NRoGP5yCB0fQtqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/5e8ff870-5257-11ee-8575-52bdd20e1ed9",
       "PublishedAt": "2023-09-13T17:15:32Z",
       "Content": "Apple TV+\r\n has some intriguing TV series on hand to keep you occupied this fall. Along with the return of The Morning Show and the debut of a show that features Godzilla\r\n, the captivating For All M… [+787 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.2.0b9",
-      "Description": "2023.2.0b9\n\n September 13, 2023\n \n unityhub://2023.2.0b9/130cc5e39ab5\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL…",
-      "Url": "https://unity.com/releases/editor/beta/2023.2.0b9",
-      "UrlToImage": null,
-      "PublishedAt": "2023-09-13T16:47:50Z",
-      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+212533 chars]"
     }
   ]
 }
