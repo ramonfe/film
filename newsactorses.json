@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 699,
+  "TotalResults": 693,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Angus Cloud: revelan el resultado de la autopsia del actor de Euphoria",
+      "Description": "El joven murió en su casa de California el 31 de julio, a los 25 años; había alcanzado la fama por su interpretación de Fezco en la serie de Sam Levinson en cuya segunda temporada tuvo un protagónico mayor",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/angus-cloud-revelan-el-resultado-de-la-autopsia-del-actor-de-euphoria-nid21092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-actor-que-murio-a-los-25-anos-era-reconocido-6XOIDZJGU5AVDIZLMTFZTWPLXI.jpg?auth=3f6ab049c1ee37fdbd01991e8ba790bdc6cb87cbb755344e1a2cbfaa350429bd&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-21T21:25:48Z",
+      "Content": "La muerte del joven actor Angus Cloud conmocionó a Hollywood. El intérprete, quien fue hallado sin vida en su casa de Oakland, California, el 31 de julio, tenía un largo futuro en la industria debido… [+4460 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.eluniversal.com.co/binrepository/1205x686/212c0/800d686/none/13704/YFLX/emma-roberts_8536377_20230920154438.jpg",
       "PublishedAt": "2023-09-20T20:44:33Z",
       "Content": "American Horror Story es una exitosa serie de televisión estadounidense de antología y horror creada por Ryan Murphy y Brad Falchuk. En este 2023 se estrena su nueva temporada titulada Delicate en la… [+1824 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Carlos del Castillo",
-      "Title": "El director español que ya hace doblajes con inteligencia artificial: \"Hay cosas por ajustar, pero el resultado es espectacular\"",
-      "Description": "Una nueva inteligencia artificial ha causado furor en redes la última semana. Se trata de aplicaciones capaces de alterar un vídeo que muestre a una persona hablando en su idioma para que parezca que lo hace en otra lengua. La tecnología copia su timbre de vo…",
-      "Url": "https://www.eldiario.es/tecnologia/director-espanol-doblajes-inteligencia-artificial-hay-cosas-ajustar-resultado-espectacular_1_10522934.html",
-      "UrlToImage": "https://static.eldiario.es/clip/af47b9d4-269f-41ab-a3f4-a9108ae93ca3_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-09-20T20:34:55Z",
-      "Content": "Una nueva inteligencia artificial ha causado furor en redes la última semana. Se trata de aplicaciones capaces de alterar un vídeo que muestre a una persona hablando en su idioma para que parezca que… [+8683 chars]"
     }
   ]
 }
