@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 698,
+  "TotalResults": 699,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Revelan el motivo de la muerte del actor de 'Euphoria' Angus Cloud",
+      "Description": "Tenía apenas 25 años cuando la familia de Angus Cloud comunicó la muerte del actor de la serie 'Euphoria' hace unas semanas. En el momento, no trascendió la causa del fallecimiento y no se ha conocido hasta ahora: se ha tratado de una sobredosis accidental de…",
+      "Url": "https://www.abc.es/play/series/revelan-motivo-muerte-actor-euphoria-angus-cloud-20230921220210-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/09/21/AngusCloud-kmW--1024x512@abc.jpg",
+      "PublishedAt": "2023-09-21T20:02:12Z",
+      "Content": "Tenía apenas 25 años cuando la familia de Angus Cloud comunicó la muerte del actor de la serie 'Euphoria' hace unas semanas. En el momento, no trascendió la causa del fallecimiento y no se ha conocid… [+1404 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/af47b9d4-269f-41ab-a3f4-a9108ae93ca3_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-09-20T20:34:55Z",
       "Content": "Una nueva inteligencia artificial ha causado furor en redes la última semana. Se trata de aplicaciones capaces de alterar un vídeo que muestre a una persona hablando en su idioma para que parezca que… [+8683 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "De 'La pelota vasca' a 'No me llame Ternera': la compleja y polémica relación del cine con ETA",
-      "Description": "“Seguro que si ETA hubiese asesinado a familias de los directivos de Netflix, no producirían una parodia de sus asesinos”. La frase, pronunciada por José Alcaraz Martos, presidente de Voces contra el Terrorismo, podría haber sido dicha hace una semana, cuando…",
-      "Url": "https://www.eldiario.es/cultura/cine/pelota-vasca-no-llame-ternera-compleja-polemica-relacion-cine-eta_1_10528916.html",
-      "UrlToImage": "https://static.eldiario.es/clip/861322b4-966b-4f4a-8bbc-5e4d5365464e_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-09-20T20:34:50Z",
-      "Content": "“Seguro que si ETA hubiese asesinado a familias de los directivos de Netflix, no producirían una parodia de sus asesinos”. La frase, pronunciada por José Alcaraz Martos, presidente de Voces contra el… [+276 chars]"
     }
   ]
 }
