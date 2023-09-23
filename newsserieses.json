@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1084,
+  "TotalResults": 1086,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "LUIGI BENEDICTO BORGES",
+      "Title": "El 'pieza' canario con flequillo de la serie de éxito de Netflix (y la polémica por su acento isleño de chef y pirata)",
+      "Description": "Se llama Taz Skylar, vivió en Tenerife hasta los 20 años fabricando tablas de surf, quiso entrar en el Ejército británico pero un golpe en la cabeza le dejó fuera y ahora una única serie de televisión lo ha catapultado a la fama mundial. \"No descartes nunca q…",
+      "Url": "https://www.elmundo.es/cronica/2023/09/22/6504a21be85ece3e1a8b45d2.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/5194334dbf1aad5542e21f324ce26c83/crop/28x1/1197x800/f/jpg/assets/multimedia/imagenes/2023/09/15/16948017228840.jpg",
+      "PublishedAt": "2023-09-22T13:58:42Z",
+      "Content": "Actualizado Viernes,\r\n22\r\nseptiembre\r\n2023\r\n-\r\n15:58\r\nSe llama Taz Skylar, vivió en Tenerife hasta los 20 años fabricando tablas de surf, quiso entrar en el Ejército británico pero un golpe en la cab… [+259 chars]"
+    },
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Estrella Gomez",
+      "Title": "Amazon Prime Video contará con anuncios a partir de 2024 y tendrás que pagar más si quieres evitarlos",
+      "Description": "Toca pasar por caja.\nAmazon Prime Video ha anunciado una serie de cambios que entrarán en vigor a partir del año que viene. También afectarán a España.",
+      "Url": "https://es.ign.com/amazon-prime-video/194431/news/amazon-prime-video-contara-con-anuncios-a-partir-de-2024-y-tendras-que-pagar-mas-si-quieres-evitarlo",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/prime-video-abril-2023_e3ru.1200.jpg",
+      "PublishedAt": "2023-09-22T13:30:25Z",
+      "Content": "Las distintas plataformas de streaming han sufrido una serie de cambios en estos últimos meses. Sin ir más lejos, Disney+ eliminó esta semana una de sus funciones más queridas, mientras que Netflix d… [+1779 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i.blogs.es/9bf287/20230616000480_0/840_560.jpeg",
       "PublishedAt": "2023-09-21T18:00:43Z",
       "Content": "Los propios responsables de Disney no daban demasiado crédito cuando se estrenó en Estados Unidos en agosto, como contaba The Hollywood Reporter: \"la respuesta de los consumidores de todo el mundo a … [+2042 chars]"
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "ALMUDENA RIVERA",
-      "Title": "'Power', el documental sobre el poder de la inclusión en el deporte",
-      "Description": "Fundación Sanitas estrena una serie documental de tres capítulos que visibiliza el deporte inclusivo. Producido por Play the Unit, podrá verse a partir de este viernes en Amazon Prime Vídeo  Leer",
-      "Url": "https://www.marca.com/paralimpicos/2023/09/21/650bfec8268e3e24248b45a7.html",
-      "UrlToImage": "https://phantom-marca.unidadeditorial.es/93d853d54653c149ebe24149188dbf63/resize/1200/f/jpg/assets/multimedia/imagenes/2023/09/21/16952851371602.jpg",
-      "PublishedAt": "2023-09-21T17:39:42Z",
-      "Content": "El Museo del Traje de Madrid se ha vestido este jueves de gala para acoger la presentación del documental 'Power', de la Fundación Sanitas y producido por Play The Unit. Deportistas de la talla de Ca… [+4689 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mundodeportivo.com"
-      },
-      "Author": "Autor Redacción",
-      "Title": "La tóxica relación abierta de Rosa Peral en prisión: \"Estaba obsesionada con ella\"",
-      "Description": "Debido a la gran repercusión que está generando el caso de Rosa Peral en las últimas semanas por el estreno de su serie en Netflix, 'El cuerpo en llamas', 'Y ahora Sonsoles' ha querido dar un paso más y ha hablado con una excompañera de prisión de la exguardi…",
-      "Url": "https://www.mundodeportivo.com/actualidad/20230921/1002073430/toxica-relacion-abierta-rosa-peral-prision-obsesionada-dct.html",
-      "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2023/09/21/650c78d60b2fe.png",
-      "PublishedAt": "2023-09-21T17:35:22Z",
-      "Content": "Debido a la gran repercusión que está generando el caso de Rosa Peral en las últimas semanas por el estreno de su serie en Netflix, 'El cuerpo en llamas', 'Y ahora Sonsoles' ha querido dar un paso má… [+1645 chars]"
     }
   ]
 }
