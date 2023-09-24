@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1096,
+  "TotalResults": 1097,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Donato del Blanco",
+      "Title": "La serie de Netflix basada en dos casos reales que tiene pocos capítulos y te dejará sin aliento con el desenlace",
+      "Description": "Se trata de una producción que se estrenó en la plataforma de streaming en 2019 y te mantendrá expectante de inicio a fin",
+      "Url": "https://www.lanacion.com.ar/espectaculos/la-serie-de-netflix-basada-en-dos-casos-reales-tiene-pocos-capitulos-y-te-dejara-sin-aliento-con-el-nid23092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-trama-completa-se-extiende-en-16-capitulos-de-IPERKA75QNBMNKJPRYDUK2WZR4.jpg?auth=b9a382d4d82ae3ffc52be06f7b476ab6adfa8a237b9928cac348ee7b17315cfd&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-23T16:15:35Z",
+      "Content": "Dos historias basadas en hechos reales alcanzaron lo más alto del ranking de Netflix a nivel mundial en el momento que se estrenaron. Se trata de Dirty John, una producción que pertenece al género de… [+8595 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/teKa-Fo9cqbDm1bGh6nr6UhyY0o=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/QQWRQIE4KZD3FCHMM4RKMMIXTQ.jpg",
       "PublishedAt": "2023-09-22T16:48:18Z",
       "Content": "Netflix retomará su serie más popular y la convertirá en una competencia: El juego del calamar: El desafío.En esta ocasión, el programapondrá a competir a 456 participantes por un premio de $4.56 mil… [+3428 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Críticas a Millie Bobby Brown por atribuirse una novela escrita por otra autora",
-      "Description": "Millie Bobby Brown saltó a la fama hace ya varios años, siendo tan solo una niña, gracias a la serie de Netflix Stranger Things. Ahora, a sus 19 años, se ha convertido en uno de los rostros jóvenes más conocidos del planeta ha decidido probar suerte como escr…",
-      "Url": "https://www.culturaocio.com/tv/noticia-criticas-millie-bobby-brown-atribuirse-novela-escrita-otra-autora-20230922183648.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230922183648_1200.jpg",
-      "PublishedAt": "2023-09-22T16:36:48Z",
-      "Content": "MADRID, 22 Sep. (CulturaOcio) - \r\n   Millie Bobby Brown saltó a la fama hace ya varios años, siendo tan solo una niña, gracias a la serie de Netflix Stranger Things. Ahora, a sus 19 años, se ha conve… [+3698 chars]"
     }
   ]
 }
