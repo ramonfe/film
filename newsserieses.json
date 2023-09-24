@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1080,
+  "TotalResults": 1081,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Sebastián Espósito",
+      "Title": "Fabiana Cantilo: “Fito me devolvió todo lo que yo misma me saqué por consumir sustancias tóxicas”",
+      "Description": "La cantante habla de todo en una charla a fondo con LA NACION: la lucha contra sus adicciones, los “10 años y 10 meses” que lleva sin consumir sustancia alguna, su relación con Fito Páez, lo que opina de la serie de Netflix, El amor después del amor y los tre…",
+      "Url": "https://www.lanacion.com.ar/espectaculos/musica/fabiana-cantilo-fito-me-devolvio-todo-lo-que-yo-misma-me-saque-por-consumir-sustancias-toxicas-nid23092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/fabiana-cantilo-habla-de-todo-en-una-extensa-HRXT6TI2GRGDFHHLLQQZUI7URI.JPG?auth=e9398b57828f9c7d13e364eeb8df574ce2c4b357e5ddeb835f097dd7bcb6fad0&width=1920&height=1440&quality=70&smart=true",
+      "PublishedAt": "2023-09-23T03:01:00Z",
+      "Content": "23 de septiembre de 202300:01\r\nFabiana Cantilo quiere hablar de su colaboración con la Fundación Planeta Vivo Argentina, que preside Fernando Pieroni y que rescata animales en cautiverio. Pero no es … [+14500 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/04/logo-disney.png?width=1200",
       "PublishedAt": "2023-09-22T11:01:09Z",
       "Content": "Disney+ recorta una de sus funcionalidades\r\nNo es extraño que a veces grandes grupos de amigos queden online para ver una película o serie juntos. A veces reunirse es imposible, por lo que surgieron … [+2830 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "La temporada 2 de 'Kengan Ashura' llegará a Netflix en dos partes, y su nuevo tráiler promete resolver el torneo más grande del anime de artes marciales",
-      "Description": "Casi parece que Netflix se ha estado guardando los estrenos de anime para finales de año, porque estos últimos meses van a venir bastante cargaditos. Y si hace nada llegó una nueva temporada de 'Baki Hanma' para enfrentarle contra Yujiro Hanma, no es el único…",
-      "Url": "https://www.espinof.com/anime/temporada-2-kengan-ashura-llegara-a-netflix-dos-partes-su-nuevo-trailer-promete-resolver-torneo-grande-anime-artes-marciales",
-      "UrlToImage": "https://i.blogs.es/50c912/kengan-ashura/840_560.jpeg",
-      "PublishedAt": "2023-09-22T11:00:49Z",
-      "Content": "Casi parece que Netflix se ha estado guardando los estrenos de anime para finales de año, porque estos últimos meses van a venir bastante cargaditos. Y si hace nada llegó una nueva temporada de 'Baki… [+1641 chars]"
     }
   ]
 }
