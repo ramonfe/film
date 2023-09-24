@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 180,
+  "TotalResults": 181,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Marcelo Stiletano",
+      "Title": "La Fiesta del Cine: qué se podrá ver durante cuatro días a precios rebajados en todas las salas del país",
+      "Description": "Del 1° al 4 de octubre, los complejos tendrán disponible una cartelera especial con las películas más vistas de este año, los éxitos actuales y los estrenos de la próxima semana. También habrá descuentos en el precio de los combos de comida y bebida",
+      "Url": "https://www.lanacion.com.ar/espectaculos/la-fiesta-del-cine-que-se-podra-ver-durante-cuatro-dias-a-precios-rebajados-en-todas-las-salas-del-nid23092023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/barbie-la-pelicula-mas-vista-de-2023-en-la-SBOMUWB44JGPTCOPNKSB54JWTY.png?auth=4b66dc694561f12f0ddd6c31f68202e620bc95a4cf7f83c781965d73b8ab40a1&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-09-23T22:00:17Z",
+      "Content": "Entre el domingo 1° y el miércoles 4 de octubre\r\n las cadenas y complejos más importantes de la Argentina se sumarán a la Fiesta del Cine, que se realiza por segunda vez en este año. Esta nueva exper… [+2659 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/18/barbie-especial.jpg",
       "PublishedAt": "2023-09-19T01:42:58Z",
       "Content": "El estreno de la copia pirata de la película de Warner Bros. Barbie lideró la taquilla en Rusia en su primer fin de semana pese a la total ausencia de publicidad en la cartelera.\r\nBarbie recaudó unos… [+2129 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Karra Elejalde se 'mosquea' con Pablo Motos por monopolizar la entrevista hablando de 'Ocho apellidos vascos'",
-      "Description": "Karra Elejalde y Carmen Machi vuelven a trabajar juntos por cuarta vez . Tras romper la taquilla doblemente con l as dos entregas de 'Ocho apellidos ', y haber formado parte en el reparto coral de 'Rumbos' , los dos geniales actores vuelven a mostrar su quími…",
-      "Url": "https://www.abc.es/play/television/noticias/karra-elejalde-mosquea-pablo-motos-monopolizar-entrevista-20230918225204-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/09/18/elhormiguero-U72454456418kKd-1024x512@abc.jpg",
-      "PublishedAt": "2023-09-18T20:52:05Z",
-      "Content": "Karra Elejalde y Carmen Machi vuelven a trabajar juntos por cuarta vez. Tras romper la taquilla doblemente con las dos entregas de 'Ocho apellidos', y haber formado parte en el reparto coral de 'Rumb… [+3564 chars]"
     }
   ]
 }
