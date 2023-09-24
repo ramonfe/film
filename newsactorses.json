@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 702,
+  "TotalResults": 703,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Animada investigación de Trueba y Mariscal sobre un pianista disparado",
+      "Description": "A Fernando Trueba le gusta -mucho- el cine francés, la música 'latina' y cierto tipo de dibujo animado, con lo que ha encontrado en 'Dispararon al pianista' su película perfecta, o sea, para hacerla con lo que más le gusta, con la compañía de Javier Mariscal …",
+      "Url": "https://www.abc.es/play/cine/animada-investigacion-trueba-mariscal-sobre-pianista-disparado-20230923172318-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/09/23/truebaaa-U05266432435Ipn-1024x512@abc.jpg",
+      "PublishedAt": "2023-09-23T15:23:19Z",
+      "Content": "A Fernando Trueba le gusta -mucho- el cine francés, la música 'latina' y cierto tipo de dibujo animado, con lo que ha encontrado en 'Dispararon al pianista' su película perfecta, o sea, para hacerla … [+593 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/09/21/AngusCloud-kmW--1024x512@abc.jpg",
       "PublishedAt": "2023-09-21T20:02:12Z",
       "Content": "Tenía apenas 25 años cuando la familia de Angus Cloud comunicó la muerte del actor de la serie 'Euphoria' hace unas semanas. En el momento, no trascendió la causa del fallecimiento y no se ha conocid… [+1404 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Europapress.es"
-      },
-      "Author": null,
-      "Title": "La autopsia revela que el actor Angus Cloud, protagonista de 'Euphoria', murió de una sobredosis de fentanilo",
-      "Description": "El actor protagonista de la serie 'Euphoria', Angus Cloud, murió de una sobredosis accidental de fentanilo, cocaína y metanfetamina, entre otras drogas, según ha confirmado la oficina forense del condado de Alameda a 'Variety'.",
-      "Url": "https://www.europapress.es/cultura/cine-00128/noticia-autopsia-revela-actor-angus-cloud-protagonista-euphoria-murio-sobredosis-fentanilo-20230921213254.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230921213254_1200.jpg",
-      "PublishedAt": "2023-09-21T19:32:54Z",
-      "Content": "MADRID, 21 Sep. (EUROPA PRESS) - \r\n El actor protagonista de la serie 'Euphoria', Angus Cloud, murió de una sobredosis accidental de fentanilo, cocaína y metanfetamina, entre otras drogas, según ha c… [+1207 chars]"
     }
   ]
 }
