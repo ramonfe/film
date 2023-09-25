@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 174,
+  "TotalResults": 171,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Sandra Moreno",
+      "Title": "Estos son los días que podrás ir al cine por solo 3,50 euros: conoce los increíbles descuentos",
+      "Description": "La XXI edición de la Fiesta del Cine llega a las salas españolas en las que se podrá disfrutar de las películas de la cartelera por un precio reducido a la mitad de lo que cuesta una entrada normal.",
+      "Url": "https://www.elespanol.com/sociedad/consumo/20230924/dias-podras-ir-cine-solo-euros-conoce-increibles-descuentos/795920495_0.html",
+      "UrlToImage": "https://s1.eestatic.com/2023/07/11/madrid/778182213_236280932_1200x630.jpg",
+      "PublishedAt": "2023-09-24T11:48:35Z",
+      "Content": "Regresa a las salas de proyecciones de España la espera Fiesta del Cine. La XXI edición vuelve acompañada de precios muy reducidos para que los espectadores puedan disfrutar de las películas más espe… [+3194 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/410b9b/barras-de-sonido-amazon/840_560.jpeg",
       "PublishedAt": "2023-09-19T09:04:21Z",
       "Content": "El próximo evento de ofertas de Amazon ya es oficial. El Prime Day de octubre, llamado en esta ocasión como Fiesta de ofertas Prime, dará comienzo a las 00:00 del 10 de octubre y terminará a las 23:5… [+5896 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Agencia EFE",
-      "Title": "Estrenan 'Barbie' en Rusia con copia 'pirata'; se convierte en lo más visto del país",
-      "Description": "El estreno de la copia pirata de la película de Warner Bros.Barbielideró la taquilla en Rusia en su primer fin de semana pese a la total ausencia de publicidad en la cartelera.Barbierecaudó unos 125 mil dólares el primer fin de semana, cifra que la prensa loc…",
-      "Url": "https://www.milenio.com/espectaculos/cine/barbie-estrenan-pelicula-rusia-extra-oficial",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/18/barbie-especial.jpg",
-      "PublishedAt": "2023-09-19T01:42:58Z",
-      "Content": "El estreno de la copia pirata de la película de Warner Bros. Barbie lideró la taquilla en Rusia en su primer fin de semana pese a la total ausencia de publicidad en la cartelera.\r\nBarbie recaudó unos… [+2129 chars]"
     }
   ]
 }
