@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 693,
+  "TotalResults": 694,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "AFP",
+      "Title": "Muere el actor David McCallum, el forense de \"NCIS\", a los 90 años",
+      "Description": "El actor británico David McCallum, quien interpretó al forense Ducky en la serie de criminalística \"NCIS\" durante 20 temporadas, ha fallecido a los 90 años, según la...",
+      "Url": "https://www.elmundo.es/cultura/2023/09/26/65122756e9cf4a463a8b457f.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/f9b0b2aac63b0586798bd686d8d2e85d/resize/1200/f/jpg/assets/multimedia/imagenes/2023/09/26/16956882962995.jpg",
+      "PublishedAt": "2023-09-26T00:36:41Z",
+      "Content": "El actor británico David McCallum, quien interpretó al forense Ducky en la serie de criminalística \"NCIS\" durante 20 temporadas, ha fallecido a los 90 años, según la información de varios medios esta… [+1559 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2022/12/09/639315a7c2d60.jpeg",
       "PublishedAt": "2023-09-25T10:49:40Z",
       "Content": "El actor y productor de cine porno Ignacio Allende, Torbe, ha reconocido los delitos de distribución y posesión de pornografía infantil por los que es juzgado este lunes a cambio de una pena de años … [+3819 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Torbe esquiva la cárcel al pactar dos años de prisión y una multa de 65.000 euros por difundir vídeos sexuales de una menor",
-      "Description": "El director de cine y productor de películas para adultos, Ignacio Allende Fernández, alias Torbe, se librará previsiblemente de entrar en prisión al pactar una condena de dos años de cárcel y una multa de 65.000 euros con la fiscal y las partes al reconocer …",
-      "Url": "https://www.abc.es/espana/madrid/torbe-acepta-condena-siete-anos-pedia-fiscalia-20230925113628-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2023/09/25/torbe-U74378523387hUS-1024x512@abc.JPG",
-      "PublishedAt": "2023-09-25T10:38:39Z",
-      "Content": "El director de cine y productor de películas para adultos, Ignacio Allende Fernández, alias Torbe, se librará previsiblemente de entrar en prisión al pactar una condena de dos años de cárcel y una mu… [+4352 chars]"
     }
   ]
 }
