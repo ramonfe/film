@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 176,
+  "TotalResults": 177,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "José Juan de Ávila",
+      "Title": "Estrenarán documental sobre Fractalis, obra de Gabriela Ortiz",
+      "Description": "El concierto para piano y orquesta Fractalis (2022), de Gabriela Ortiz, llega a la pantalla grande gracias a un documental realizado por Adrián Pallares, que se estrenará el próximo 4 de octubre en la sala Julio Bracho del Centro Cultural Universitario a las …",
+      "Url": "https://www.milenio.com/cultura/estrenaran-documental-sobre-fractalis",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/25/ana-gabriela-fernandez-adrian-pallares.jpg",
+      "PublishedAt": "2023-09-26T06:59:14Z",
+      "Content": "El concierto para piano y orquesta Fractalis (2022), de Gabriela Ortiz, llega a la pantalla grande gracias a un documental realizado por Adrián Pallares, que se estrenará el próximo 4 de octubre en l… [+3947 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/6bfabe/moonfall-donde-ver-hbo-y-prime-video/840_560.jpeg",
       "PublishedAt": "2023-09-21T10:34:02Z",
       "Content": "El cine de catástrofes siempre se ha caracterizado por tener un reparto plagado de estrellas y por contar en su trama algunos de los miedos a que se acabe el mundo que más aterrorizan al mundo, y que… [+2781 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "GQ España",
-      "Title": "James Bond podría sufrir cambios más allá de su actor protagonista",
-      "Description": "La búsqueda del próximo James Bond sigue hasta el momento (a menos que Eon Productions ya haya elegido y no lo haya revelado, claro), pero la nueva cara del espía británico más famoso de todos los tiempos no es lo único que podría cambiar en la franquicia de …",
-      "Url": "https://www.revistagq.com/articulo/james-bond-cambio-tiempo-peliculas-spin-offs",
-      "UrlToImage": "https://media.revistagq.com/photos/650c10c2412c7d5135ff2140/16:9/w_1280,c_limit/james-bond.jpeg",
-      "PublishedAt": "2023-09-21T09:49:48Z",
-      "Content": "La búsqueda del próximo James Bond sigue hasta el momento (a menos que Eon Productions ya haya elegido y no lo haya revelado, claro), pero la nueva cara del espía británico más famoso de todos los ti… [+2239 chars]"
     }
   ]
 }

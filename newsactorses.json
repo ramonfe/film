@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 699,
+  "TotalResults": 700,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "Maxi Iglesias explica en El Hormiguero sus palabras sobre los ojos azules",
+      "Description": "Maxi Iglesias acudió a El Hormiguero el lunes 25 de septiembre. El actor, que presentó la serie Los artistas: primeros trazos, aclaró unas recientes declaraciones que hizo en...",
+      "Url": "https://www.elmundo.es/television/2023/09/26/651275f6fdddff19b88b4599.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/d2772e827c5354fe233febd93cfc59d6/resize/1200/f/jpg/assets/multimedia/imagenes/2023/09/26/16957106285850.jpg",
+      "PublishedAt": "2023-09-26T06:50:52Z",
+      "Content": "Maxi Iglesias acudió a El Hormiguero el lunes 25 de septiembre. El actor, que presentó la serie Los artistas: primeros trazos, aclaró unas recientes declaraciones que hizo en una entrevista con La Va… [+2055 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/d3c3f761-7747-46d8-a06f-b7718096b173_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-09-25T11:47:37Z",
       "Content": "Como toda serie diaria, La Promesa tiene un nutrido grupo de personajes fijos y otro, más reducido, de personajes que tan pronto llegan como se van. Entre los segundos está destacando últimamente Ant… [+2083 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Daniel Gonz�lez",
-      "Title": "Una estrella de Demon Slayer se unirá pronto al reparto de Genshin Impact",
-      "Description": "<!--cache-->El actor de doblaje Ray Chase, conocido por interpretar a Tengen Uzui en el anime Demon Slayer, se unirá al reparto de voces de Genshin Impact para interpretar a Neuvillette.<!--aa--->Esta semana los amantes del anime tienen motivos para prestar a…",
-      "Url": "https://vandal.elespanol.com/noticia/1350765605/una-estrella-de-demon-slayer-se-unira-pronto-al-reparto-de-genshin-impact/",
-      "UrlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/9/9-2023/25/20239259591233_1.jpg",
-      "PublishedAt": "2023-09-25T11:27:00Z",
-      "Content": "Esta semana los amantes del anime tienen motivos para prestar atencin a Genshin Impact, el JRPG de HoYoverse, pues dentro de solo unos das el free to play de la compaa china recibir nuevos contenidos… [+3103 chars]"
     }
   ]
 }
