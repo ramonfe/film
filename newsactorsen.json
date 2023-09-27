@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 550,
+  "TotalResults": 551,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Ariana Grande & Ethan Slater Spotted at Disney World, Two Months After Dating Rumors Started",
+      "Description": "Ariana Grande and Ethan Slater appear to be going strong as a couple despite all of the drama surrounding their relationship. The 30-year-old singer and the 31-year-old Broadway actor, who met while filming the upcoming movie version of the musical Wicked, we…",
+      "Url": "https://www.justjared.com/2023/09/25/ariana-grande-ethan-slater-spotted-at-disney-world-two-months-after-dating-rumors-started/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/09/ariana-disn.jpg",
+      "PublishedAt": "2023-09-26T03:37:36Z",
+      "Content": "Ariana Grande and Ethan Slater appear to be going strong as a couple despite all of the drama surrounding their relationship.\r\nThe 30-year-old singer and the 31-year-old Broadway actor, who met while… [+735 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/09/emilie-married.jpg",
       "PublishedAt": "2023-09-23T20:00:01Z",
       "Content": "Emilie Ullerup is making her return to Hallmark Channel in the new film Return to You and we bet fans will want to know more about her after watching the movie.\r\nThe 38-year-old actress, who was born… [+730 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lesswrong.com"
-      },
-      "Author": "David Udell",
-      "Title": "Sparse Coding, for Mechanistic Interpretability and Activation Engineering",
-      "Description": "Published on September 23, 2023 7:16 PM GMTEspecial thanks to Logan Riggs and Monte MacDiarmid, for pointing me towards this whole research direction and for code discussion, respectively. Thanks to Alex Turner for project feedback and for orienting me toward…",
-      "Url": "https://www.lesswrong.com/posts/iaJFJ5Qm29ixtrWsn/sparse-coding-for-mechanistic-interpretability-and",
-      "UrlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-      "PublishedAt": "2023-09-23T19:16:31Z",
-      "Content": "Especial thanks to Logan Riggs and Monte MacDiarmid, for pointing me towards this whole research direction and for code discussion, respectively. Thanks to Alex Turner for project feedback and for or… [+67172 chars]"
     }
   ]
 }
