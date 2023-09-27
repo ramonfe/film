@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 106,
+  "TotalResults": 107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Coleman Spilde",
+      "Title": "Mel Gibson’s Flop Casting Makes Terrible ‘John Wick’ Series Even Worse",
+      "Description": "Photo Illustration by Thomas Levinson/The Daily Beast/Getty/Peacock\r\nNot sure what to watch next? Subscribe to The Daily Beast’s Obsessed See Skip newsletter here and get the latest show and movie recommendations every Tuesday.There are roughly 47,000—oh, wai…",
+      "Url": "https://www.thedailybeast.com/obsessed/mel-gibsons-flop-casting-makes-terrible-john-wick-series-even-worse",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1695695954/230925-see-skip-tease_fe1dun",
+      "PublishedAt": "2023-09-26T05:22:13Z",
+      "Content": "Not sure what to watch next?Subscribe to The Daily Beasts Obsessed See Skip newsletter hereand get the latest show and movie recommendations every Tuesday.\r\nThere are roughly 47,000oh, wait, a new Ne… [+7303 chars]"
+    },
     {
       "Source": {
         "Id": "the-verge",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230918_WST_456619_serie-a-logo.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2023-09-18T16:00:00Z",
       "Content": "CBS Sports are in talks to renew their US media rights to Serie A, an executive has revealed to World Soccer Talk.\r\nSerie As current media rights deal expires at the end of the 2023/24 season. While … [+2491 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "Caroline Bologna",
-      "Title": "This German Thriller Is A Top Show On Netflix Right Now",
-      "Description": "A newly canceled sports drama and two fantasy adaptations are also trending on streaming services like Hulu, Apple TV+, Prime Video and Max.",
-      "Url": "https://www.huffpost.com/entry/dear-child-popular-netflix-shows_l_6507b0b9e4b000617d38e8fd",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/6507c5be2300001a00935730.jpg?cache=YOG6N5XAe0&ops=1200_630",
-      "PublishedAt": "2023-09-18T15:24:09Z",
-      "Content": "Dear Child is currently one of the most popular shows on Netflix, according to the streaming services public ranking system.\r\nThis German thriller series is a six-part adaptation of Romy Hausmanns be… [+2796 chars]"
     }
   ]
 }
