@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 187,
+  "TotalResults": 188,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Camilo Sesto vuelve a ser una 'superstar'",
+      "Description": "Camilo Sesto estaba en la cumbre de su éxito cuando, como si un halo de luz lo hubiera derribado del caballo de la fama, se propuso traer a España un musical sobre Jesucristo. Sabía, porque era imposible no saberlo, que poner a cantar ópera rock a Jesuscristo…",
+      "Url": "https://www.abc.es/play/series/camilo-sesto-vuelve-superstar-20230927181504-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/09/27/Camilo10_20230927181117-U42444223854uoh-1024x512@abc.jpg",
+      "PublishedAt": "2023-09-27T16:15:07Z",
+      "Content": "Camilo Sesto estaba en la cumbre de su éxito cuando, como si un halo de luz lo hubiera derribado del caballo de la fama, se propuso traer a España un musical sobre Jesucristo. Sabía, porque era impos… [+1730 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.eestatic.com/2023/07/11/madrid/778182213_236280932_1200x630.jpg",
       "PublishedAt": "2023-09-24T11:48:35Z",
       "Content": "Regresa a las salas de proyecciones de España la espera Fiesta del Cine. La XXI edición vuelve acompañada de precios muy reducidos para que los espectadores puedan disfrutar de las películas más espe… [+3194 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Marcelo Stiletano",
-      "Title": "La Fiesta del Cine: qué se podrá ver durante cuatro días a precios rebajados en todas las salas del país",
-      "Description": "Del 1° al 4 de octubre, los complejos tendrán disponible una cartelera especial con las películas más vistas de este año, los éxitos actuales y los estrenos de la próxima semana. También habrá descuentos en el precio de los combos de comida y bebida",
-      "Url": "https://www.lanacion.com.ar/espectaculos/la-fiesta-del-cine-que-se-podra-ver-durante-cuatro-dias-a-precios-rebajados-en-todas-las-salas-del-nid23092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/barbie-la-pelicula-mas-vista-de-2023-en-la-SBOMUWB44JGPTCOPNKSB54JWTY.png?auth=4b66dc694561f12f0ddd6c31f68202e620bc95a4cf7f83c781965d73b8ab40a1&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-23T22:00:17Z",
-      "Content": "Entre el domingo 1° y el miércoles 4 de octubre\r\n las cadenas y complejos más importantes de la Argentina se sumarán a la Fiesta del Cine, que se realiza por segunda vez en este año. Esta nueva exper… [+2659 chars]"
     }
   ]
 }
