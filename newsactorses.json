@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 750,
+  "TotalResults": 743,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "LUIS MARTÍNEZ",
+      "Title": "Jessica Chastain: \"En Hollywood me dicen que no debería ser tan bocazas\"",
+      "Description": "La actriz aprovecha la presentación de 'Memory', de Michel Franco, para comentar la huelga de actores, hablar del sexismo en la industria del cine y --película obliga-- hacer memoria Leer",
+      "Url": "https://www.elmundo.es/cultura/cine/2023/09/28/651465fb21efa07c108b4583.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/2150d93090fa31705c969699125fde3b/resize/1200/f/jpg/assets/multimedia/imagenes/2023/09/27/16958357524949.jpg",
+      "PublishedAt": "2023-09-27T22:04:58Z",
+      "Content": "Hace apenas unas semanas, en un Festival de Venecia huérfan de actores por la huelga, Jessica Chastain (Sacramento, California, 1977), subió al estrado y dejó claro de qué va ella y de qué va todo es… [+4913 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/26/competencia-ofrece-recompensas-participantes-ivett.jpeg",
       "PublishedAt": "2023-09-26T22:29:00Z",
       "Content": "Por décimo año consecutivo, el 48 Hour Film Project lanza el reto a cineastas emergentes o con experiencia para realizar cortometrajes en un lapso de 48 horas; el rally encabezado por la productora C… [+2709 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Carlos Megía",
-      "Title": "Millie Bobby Brown: la joven de 19 años se reinventa con cosmética, una boda y un ‘contrato ridículamente lucrativo’",
-      "Description": "La actriz británica, envuelta en la temprana fama que obtuvo gracias a su personaje de Eleven, en la serie Stranger Things, no se durmió en los laureles e invirtió su capital en diversos negocios; hoy en día dirige un imperio multidisciplinar millonario",
-      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/millie-bobby-brown-la-joven-de-19-anos-se-reinventa-con-cosmetica-una-boda-y-un-contrato-nid26092023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/millie-bobby-brown-tiene-una-firma-de-cosmeticos-4Z7RY4UOPFHT5LQT7JMPDZOXBQ.jpg?auth=b5c2e82e09d43cfc33e705cac0c988ad14976a27d397bfddc86ee16c63fb3054&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-09-26T22:00:23Z",
-      "Content": "Es uno de los mitos favoritos de Hollywood: el adolescente profesionalmente perdido y personalmente desorientado, incapaz de comprender que el estrellato de su infancia se desvaneció con el cambio de… [+4699 chars]"
     }
   ]
 }
