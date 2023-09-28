@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 118,
+  "TotalResults": 119,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "Late-Night TV Shows in US Announce Their Return After Hollywood Writers Strike Ends",
+      "Description": "TV's late-night hosts planned to return to their evening sketches and monologues by next week, reinstating the flow of topical humor silenced for five months by the newly ended Hollywood's writers strike.\n\n\nBill Maher led the charge back to work by announcing…",
+      "Url": "https://www.voanews.com/a/late-night-tv-shows-in-us-announce-their-return-after-hollywood-writers-strike-ends-/7287643.html",
+      "UrlToImage": "https://gdb.voanews.com/01000000-0a00-0242-ce63-08dbbf976f13_w1200_r1.jpg",
+      "PublishedAt": "2023-09-27T20:28:04Z",
+      "Content": "NEW YORK  TV's late-night hosts planned to return to their evening sketches and monologues by next week, reinstating the flow of topical humor silenced for five months by the newly ended Hollywood's … [+3137 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-09-21T19:38:48Z",
       "Content": "Description: The most comprehensive video downloading solution allows you to download videos from Amazon Prime, Netflix, Hulu, Disney+, HBO, and over 1000 other streaming websites. \r\nOn-demand videos… [+6015 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Root"
-      },
-      "Author": "Stephanie Holland",
-      "Title": "Ten Year Itch: The Most Memorable TV Premieres of 2013",
-      "Description": "Screenshot: Brooklyn Nine-Nine/YouTube\r\nAs the new fall TV season kicks off, it’s abundantly clear that the television landscape has undergone drastic changes. Broadcast and cable no longer set the standard for what kind of series audiences crave. Just for fu…",
-      "Url": "https://www.theroot.com/ten-year-itch-the-most-memorable-tv-premieres-of-2013-1850857927",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/90f9bde7d8a19e7e5292be82d98cbb08.jpg",
-      "PublishedAt": "2023-09-20T20:30:03Z",
-      "Content": "As the new fall TV season kicks off, its abundantly clear that the television landscape has undergone drastic changes. Broadcast and cable no longer set the standard for what kind of series audiences… [+175 chars]"
     }
   ]
 }

@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 746,
+  "TotalResults": 749,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Mauel Turizo deja al descubierto el incidente que sufrió Shakira durante el rodaje del videoclip de 'Copa Vacía'",
+      "Description": "Grandes éxitos como 'La Bachata' , 'El Merengue' o 'Copa Vacía' le han valido al invitado que visitó 'El Hormiguer o' este miércoles 27 de septiembre el apodo del 'rey de la bachata'. Además, ha conquistado 17 discos de platino y está nominado a los Latin Ame…",
+      "Url": "https://www.abc.es/play/television/noticias/mauel-turizo-deja-descubierto-incidente-sufrio-shakira-20230927224739-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/09/27/elhormiguero-U48424254150wPk-1024x512@abc.jpg",
+      "PublishedAt": "2023-09-27T20:47:40Z",
+      "Content": "Grandes éxitos como 'La Bachata', 'El Merengue' o 'Copa Vacía' le han valido al invitado que visitó 'El Hormiguero' este miércoles 27 de septiembre el apodo del 'rey de la bachata'. Además, ha conqui… [+2142 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Pablo Caruana Húder",
+      "Title": "La descarnada mirada sobre la juventud de Alberto San Juan y Andrés Lima",
+      "Description": "Esta jueves se estrena en las Naves del Español (Madrid) la historia de Luis (Jesús Barranco), el monstruo, y Lucía (Lucía Juárez), una adolescente que se ahoga en un cóctel de incomprensión, drogas, autodestrucción y rebeldía. Esa es la historia, la rendija,…",
+      "Url": "https://www.eldiario.es/cultura/teatro/descarnada-mirada-juventud-alberto-san-juan-andres-lima_1_10550990.html",
+      "UrlToImage": "https://static.eldiario.es/clip/076eec4b-06d5-476e-b34a-1095171fb6bf_facebook-watermarked-aspect-ratio_default_0_x2549y4268.jpg",
+      "PublishedAt": "2023-09-27T20:28:54Z",
+      "Content": "Esta jueves se estrena en las Naves del Español (Madrid) la historia de Luis (Jesús Barranco), el monstruo, y Lucía (Lucía Juárez), una adolescente que se ahoga en un cóctel de incomprensión, drogas,… [+1112 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Laura García Higueras",
+      "Title": "Fin a la huelga de guionistas de Hollywood: logros y causas pendientes",
+      "Description": "El Sindicato de Guionistas de Estados Unidos (WGA) puso fin este martes a la huelga tras 148 días de paro, después de haber alcanzado un acuerdo tentativo con los estudios de Hollywood. La decisión no es definitiva, ya que el convenio cerrado con la Alianza d…",
+      "Url": "https://www.eldiario.es/cultura/cine/huelga-guionistas-hollywood-logros-causas-pendientes_1_10548658.html",
+      "UrlToImage": "https://static.eldiario.es/clip/9d875c61-37bf-4ee5-af33-032122661fac_facebook-watermarked-aspect-ratio_default_0_x2226y866.jpg",
+      "PublishedAt": "2023-09-27T20:28:50Z",
+      "Content": "El Sindicato de Guionistas de Estados Unidos (WGA) puso fin este martes a la huelga tras 148 días de paro, después de haber alcanzado un acuerdo tentativo con los estudios de Hollywood. La decisión n… [+967 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -19,19 +58,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Eluniversal.com.co"
-      },
-      "Author": "EFE",
-      "Title": "¡Debut español! Carlos Ponce se estrena en el mundo de las series",
-      "Description": "El actor puertorriqueño Carlos Ponce anunció en una entrevista con EFE que se prepara para pasar el resto de 2023 en España, donde actuará en su primera serie producida allí.",
-      "Url": "https://www.eluniversal.com.co/farandula/debut-espanol-carlos-ponce-se-estrena-en-el-mundo-de-las-series-BX9099210",
-      "UrlToImage": "https://www.eluniversal.com.co/binrepository/901x686/101c0/800d686/none/13704/QMHS/carlosponce_8585126_20230927082316.jpg",
-      "PublishedAt": "2023-09-27T19:30:00Z",
-      "Content": "El actor puertorriqueño Carlos Ponce anunció en una entrevista con EFE que se prepara para pasar el resto de 2023 en España, donde actuará en su primera serie producida allí.\r\nEstoy muy contento por … [+2008 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Lavozdegalicia.es"
       },
       "Author": "Jose Luis Losa",
@@ -41,6 +67,19 @@
       "UrlToImage": "https://www.lavozdegalicia.es/assets/themes/${theme}/images/og_default.jpg",
       "PublishedAt": "2023-09-27T19:30:00Z",
       "Content": "Percibo que este tiempo lquido de tanta narracin cinematogrfica o televisiva fugaz, de tanto consumo al por mayor de imgenes en plataformas demasiadas veces vacas, llevan a pensar que hay algunas ese… [+2976 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eluniversal.com.co"
+      },
+      "Author": "EFE",
+      "Title": "¡Debut español! Carlos Ponce se estrena en el mundo de las series",
+      "Description": "El actor puertorriqueño Carlos Ponce anunció en una entrevista con EFE que se prepara para pasar el resto de 2023 en España, donde actuará en su primera serie producida allí.",
+      "Url": "https://www.eluniversal.com.co/farandula/debut-espanol-carlos-ponce-se-estrena-en-el-mundo-de-las-series-BX9099210",
+      "UrlToImage": "https://www.eluniversal.com.co/binrepository/901x686/101c0/800d686/none/13704/QMHS/carlosponce_8585126_20230927082316.jpg",
+      "PublishedAt": "2023-09-27T19:30:00Z",
+      "Content": "El actor puertorriqueño Carlos Ponce anunció en una entrevista con EFE que se prepara para pasar el resto de 2023 en España, donde actuará en su primera serie producida allí.\r\nEstoy muy contento por … [+2008 chars]"
     },
     {
       "Source": {
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/26/mario-casas-especial.jpg",
       "PublishedAt": "2023-09-26T21:29:06Z",
       "Content": "Recientemente, se dieron a conocer algunas fotografías donde se puede observar al actor español Mario Casas en compañía de la mexicana Eiza González en lo que parece ser una romántica y divertida cit… [+1442 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eluniversal.com.co"
-      },
-      "Author": "EFE",
-      "Title": "El homenaje a Gael García Bernal en Francia: “hacer cine era rebeldía”",
-      "Description": "El actor mexicano Gael García Bernal está siendo homenajeado en la edición 32 del Festival Biarritz América Latina, un reconocimiento que siente como un “cariñito” para alguien que no creía posible tener una carrera en el cine porque, cuando empezó en los 90,…",
-      "Url": "https://www.eluniversal.com.co/cultural/el-homenaje-a-gael-garcia-bernal-en-francia-hacer-cine-era-rebeldia-KL9094950",
-      "UrlToImage": "https://www.eluniversal.com.co/binrepository/869x686/19c0/800d686/none/13704/RMVR/image_content_8580577_20230926145228.jpg",
-      "PublishedAt": "2023-09-26T19:52:22Z",
-      "Content": "El actor mexicano Gael García Bernal está siendo homenajeado en la edición 32 del Festival Biarritz América Latina, un reconocimiento que siente como un cariñito para alguien que no creía posible ten… [+3785 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "'La memoria infinita' es el documental más bello del año: la directora de 'El agente topo' firma, Alzheimer mediante, el romance más arrebatador del año | Festival de San Sebastián 2023",
-      "Description": "Nada me da más miedo que olvidar. Que los amigos, los amores, la familia, las noches más divertidas y los llantos más amargos se conviertan en un mero humo borroso tras el que sea imposible distinguir nada. Que la vida se convierta en una nebulosa incognoscib…",
-      "Url": "https://www.espinof.com/criticas/memoria-infinita-documental-bello-ano-directora-agente-topo-firma-alzheimer-mediante-romance-arrebatador-ano-festival-san-sebastian-2023",
-      "UrlToImage": "https://i.blogs.es/a96015/memoria/840_560.jpeg",
-      "PublishedAt": "2023-09-26T19:31:24Z",
-      "Content": "Nada me da más miedo que olvidar. Que los amigos, los amores, la familia, las noches más divertidas y los llantos más amargos se conviertan en un mero humo borroso tras el que sea imposible distingui… [+6379 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Redacción Star Style",
-      "Title": "Michelle Dockery (Downton Abbey) se casa en la vida real y este es su vestido de novia",
-      "Description": "Una de las bodas más esperadas de la serie fue la de Lady Mary y Matthew, que tuvo lugar en el primer capítulo de la tercera temporada y ahora se ha hecho realidad con su actriz casándose de verdad con su prometido.",
-      "Url": "https://www.elle.com/es/star-style/el-estilo-de/a45326554/michelle-dockery-downton-abbey-vestido-de-novia/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/381626237-680860157332055-8609569450591128623-n-651328bfc15e4.jpg?crop=1xw:0.4xh;center,top&resize=1200:*",
-      "PublishedAt": "2023-09-26T19:04:00Z",
-      "Content": "A Michelle Dockery la conocimos gracias a su papel de Lady Mary en la serie de televisión 'Downton Abbey'. Después la vimos en la gran pantalla junto a Julianne Moore y Lupita Nyong'o en 'Non-Stop' y… [+1608 chars]"
     }
   ]
 }
