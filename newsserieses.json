@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1122,
+  "TotalResults": 1123,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Publico.es"
+      },
+      "Author": "zeleb.publico.es",
+      "Title": "¿Qué hace Sofía Vergara?",
+      "Description": "La actriz se pone al frente de 'Griselda', la serie de Netflix que cuenta la vida de Griselda Blanco, una de las grandes capos de la mafia.",
+      "Url": "https://zeleb.publico.es/noticia/que-hace-sofia-vergara/",
+      "UrlToImage": "https://zeleb.publico.es/wp-content/uploads/2023/09/DL_u541529_007-1.jpg",
+      "PublishedAt": "2023-09-28T01:04:53Z",
+      "Content": "Cuando pensamos en Sofía Vergara nos es muy complicado disociar su imagen de la inocente Gloria Delgado-Pritchett, uno de los personajes principales de la serie Modern Family y que le valió varias no… [+2873 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d4716b040bf6223b817bafbc3b04e165.jpg",
       "PublishedAt": "2023-09-27T16:35:00Z",
       "Content": "Durante su evento de transmisión en vivo centrado en animación Drop 01, netflix reveló un primer mirado Samurai de ojos azules, una nueva serie de Michael Green (Una inquietante en Venecia), su cogui… [+2142 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Miguel Paredes",
-      "Title": "Parece mentira, pero esta smart TV tiene todo lo que necesitas y solo cuesta 169 euros",
-      "Description": "Si buscas un televisor inteligente bueno, bonito y barato no estás limitado al catálogo de Xiaomi, en tiendas como Amazon se pueden encontrar opciones más que interesantes de otras firmas. Hoy quiero hablarte de una smart TV de TD Systems, puede ser tuya por …",
-      "Url": "https://www.lavanguardia.com/andro4all/ofertas/parece-mentira-pero-esta-smart-tv-tiene-todo-lo-que-necesitas-y-solo-cuesta-169-euros",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/08/td-systems-android-tv.jpg?width=1200",
-      "PublishedAt": "2023-09-27T16:31:36Z",
-      "Content": "Unas de las smart TV de TD Systems.\r\nSi buscas un televisor inteligente bueno, bonito y barato no estás limitado al catálogo de Xiaomi, en tiendas como Amazon se pueden encontrar opciones más que int… [+2423 chars]"
     }
   ]
 }

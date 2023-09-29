@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 743,
+  "TotalResults": 744,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Publico.es"
+      },
+      "Author": "zeleb.publico.es",
+      "Title": "¿Qué hace Sofía Vergara?",
+      "Description": "La actriz se pone al frente de 'Griselda', la serie de Netflix que cuenta la vida de Griselda Blanco, una de las grandes capos de la mafia.",
+      "Url": "https://zeleb.publico.es/noticia/que-hace-sofia-vergara/",
+      "UrlToImage": "https://zeleb.publico.es/wp-content/uploads/2023/09/DL_u541529_007-1.jpg",
+      "PublishedAt": "2023-09-28T01:04:53Z",
+      "Content": "Cuando pensamos en Sofía Vergara nos es muy complicado disociar su imagen de la inocente Gloria Delgado-Pritchett, uno de los personajes principales de la serie Modern Family y que le valió varias no… [+2873 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavozdegalicia.es/default/2023/09/20/00121695222182052378996/Foto/j_20230915_151758000.jpg",
       "PublishedAt": "2023-09-27T03:00:00Z",
       "Content": "Cuntas veces hemos culpado al cine de nuestras altas expectativas sobre los flechazos. El amor a primera vista es casi un subgnero cinematogrfico, pero la realidad, de nuevo, sorprende cuando se mont… [+4774 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Ivett Salgado Méndez",
-      "Title": "Retan a cineastas a hacer cortos en 48 horas",
-      "Description": "Por décimo año consecutivo, el 48 Hour Film Project lanza el reto a cineastas emergentes o con experiencia para realizar cortometrajes en un lapso de 48 horas; el rally encabezado por la productora Camila Demichelis incluye en su jurado a Carlos Cuarón, Emili…",
-      "Url": "https://www.milenio.com/espectaculos/cine/comenzara-48-hour-film-project-mexico",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/26/competencia-ofrece-recompensas-participantes-ivett.jpeg",
-      "PublishedAt": "2023-09-26T22:29:00Z",
-      "Content": "Por décimo año consecutivo, el 48 Hour Film Project lanza el reto a cineastas emergentes o con experiencia para realizar cortometrajes en un lapso de 48 horas; el rally encabezado por la productora C… [+2709 chars]"
     }
   ]
 }
