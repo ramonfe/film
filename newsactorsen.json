@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 557,
+  "TotalResults": 558,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://iili.io/JJiBHgt.md.jpg",
       "PublishedAt": "2023-09-26T18:00:08Z",
       "Content": "If you're on Twitter and other socials, you may have noticed a Getty images promotional photo of Kevin James for his CBS show The King of Queens being used as a reaction, a lot. According to Know You… [+1656 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Emma Stone Returns to TV in 'The Curse' with Nathan Fielder, Showtime Reveals Show Will Debut on Streaming First",
-      "Description": "Emma Stone will be back on television this fall in the new series The Curse, which is a co-production of Showtime and A24. The Oscar-winning actress previously starred in the limited series Maniac, which was released on Netflix in 2018. The Curse is billed as…",
-      "Url": "https://www.justjared.com/2023/09/26/emma-stone-returns-to-tv-in-the-curse-with-nathan-fielder-showtime-reveals-show-will-debut-on-streaming-first/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/09/curse-look.jpg",
-      "PublishedAt": "2023-09-26T17:55:30Z",
-      "Content": "Emma Stone will be back on television this fall in the new series The Curse, which is a co-production of Showtime and A24.\r\nThe Oscar-winning actress previously starred in the limited series Maniac, … [+883 chars]"
     }
   ]
 }
