@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1649,
+  "TotalResults": 1651,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Netflix animation event dropped trailers for Tomb Raider, Devil May Cry and Sonic",
+      "Description": "Netflix held a virtual event called DROP 01 to celebrate its forthcoming slate of animated projects. The showcase was an absolute cornucopia of trailers and announcements for animation fans, particularly those who enjoy video game adaptations (all of us.) It …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171912953",
+      "UrlToImage": null,
+      "PublishedAt": "2023-09-28T16:14:10Z",
+      "Content": "Netflix held a virtual event called DROP 01 to celebrate its forthcoming slate of animated projects. The showcase was an absolute cornucopia of trailers and announcements for animation fans, particul… [+2661 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Lawrence Bonk",
+      "Title": "Netflix animation event dropped trailers for Tomb Raider, Devil May Cry and Sonic",
+      "Description": "Netflix held a virtual event called DROP 01\r\n to celebrate its forthcoming slate of animated projects. The showcase was an absolute cornucopia of trailers and announcements for animation fans, particularly those who enjoy video game adaptations (all of us.) I…",
+      "Url": "https://www.engadget.com/netflix-animation-event-dropped-trailers-for-tomb-raider-devil-may-cry-and-sonic-160012736.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/I7HABs2K1yHYwEVK.fWjyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzI-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/18537c40-5e16-11ee-b7ed-4943369cced9",
+      "PublishedAt": "2023-09-28T16:00:12Z",
+      "Content": "Netflix held a virtual event called DROP 01\r\n to celebrate its forthcoming slate of animated projects. The showcase was an absolute cornucopia of trailers and announcements for animation fans, partic… [+3253 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-09-27T21:24:21Z",
       "Content": "Beautiful video enlargements using machine learning. Trained on thousands of videos and combining information from multiple input video frames, Topaz Video Enhance AI enlarges your video up to 8K res… [+3036 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "NACON Revolution 5 Pro Controller Release Date & Pre-Order Window Announced",
-      "Description": "NACON announced on Wednesday that it would be releasing a brand new controller, the Revolution 5 Pro, later this year, offering up a PlayStation-licensed controller compatible with multiple platforms. What does the NACON Revolution 5 Pro controller feature? T…",
-      "Url": "https://www.comingsoon.net/games/news/1352278-nacon-revolution-5-pro-controller-release-date-pre-order-window-announced",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/nacon-revolution-5-pro-controller.png?resize=1200,630",
-      "PublishedAt": "2023-09-27T21:22:00Z",
-      "Content": "NACON announced on Wednesday that it would be releasing a brand new controller, the Revolution 5 Pro, later this year, offering up a PlayStation-licensed controller compatible with multiple platforms… [+991 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Steven Petite",
-      "Title": "Best Super Mario Gift Ideas 2023 - Switch Games, Mario Movie Merch, And More",
-      "Description": "Super Mario has been the face of Nintendo, if not gaming in general, for 35-plus years. But 2023 has been particularly special for the mustachioed plumber who simply can't stop running, jumping, and reminding us his name. This year, Mario and his brother Luig…",
-      "Url": "https://www.gamespot.com/gallery/best-super-mario-gift-ideas-2023-switch-games-mario-movie-merch-and-more/2900-4872/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4197555-mariooooo.jpg",
-      "PublishedAt": "2023-09-27T21:06:00Z",
-      "Content": "The products discussed here were independently chosen by our editors.\r\n GameSpot may get a share of the revenue if you buy anything featured on our site."
     }
   ]
 }
