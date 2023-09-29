@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 122,
+  "TotalResults": 124,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Whitney Jefferson",
+      "Title": "Why Apple’s ‘The Super Models’ is a worthy look back into the 1980s fashion industry",
+      "Description": "Now Streaming is a weekly column that reviews and analyzes the latest streaming content for you and runs on Wednesdays in the Daily Dot’s web_crawlr newsletter. If you want to get this column a day before we publish it, subscribe to web_crawlr, where you’ll g…",
+      "Url": "https://www.dailydot.com/upstream/the-super-models-apple-tv-review/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/09/super-models.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-09-28T11:00:00Z",
+      "Content": "Now Streaming is a weekly column that reviews and analyzes the latest streaming content for you and runs on Wednesdays in the Daily Dots web_crawlr newsletter. If you want to get this column a day be… [+3887 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Tamal Kundu",
+      "Title": "Raised by Wolves Season 3 Release Date Rumors: Is It Coming Out?",
+      "Description": "Created by Aaron Guzikowski (The Red Road), with Ridley Scott (Blade Runner) directing the first two episodes and serving as an executive producer, Raised by Wolves is a science fiction drama series that premiered on HBO Max. The deeply philosophical and theo…",
+      "Url": "https://www.comingsoon.net/guides/news/1352384-raised-by-wolves-season-3-release-date-rumors-is-it-coming-out",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/Raised_by_Wolves_1200x675.jpg?resize=1200,630",
+      "PublishedAt": "2023-09-28T09:05:34Z",
+      "Content": "Created by Aaron Guzikowski (The Red Road), with Ridley Scott (Blade Runner) directing the first two episodes and serving as an executive producer, Raised by Wolves is a science fiction drama series … [+3135 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/buggy-the-clown.jpg?resize=1200,630",
       "PublishedAt": "2023-09-22T15:12:34Z",
       "Content": "Fans are wondering who the One Piece Buggy the Clown live-action actor is. The person playing the character in the Netflix show has set a vivid impression upon viewers, leading to curiosity. But who … [+1640 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Squid Game: The Challenge Teaser Trailer Sets Release Date for Netflix Reality Show",
-      "Description": "Netflix has dropped a brand new Squid Game: The Challenge teaser trailer for its newest reality competition, inspired by the streamer’s mega-hit K-drama of the same name. The show is scheduled to make its debut on November 22. The video previews the 456 conte…",
-      "Url": "https://www.comingsoon.net/tv/trailers/1348392-squid-game-the-challenge-teaser-trailer-release-date-netflix",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/squid-game-challenge-e1695392196439.jpeg?resize=1200,630",
-      "PublishedAt": "2023-09-22T14:46:09Z",
-      "Content": "Netflix has dropped a brand new Squid Game: The Challenge teaser trailer for its newest reality competition, inspired by the streamers mega-hit K-drama of the same name. The show is scheduled to make… [+1806 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Anonymous",
-      "Title": "2023.3.0a6",
-      "Description": "2023.3.0a6\n\n September 21, 2023\n \n unityhub://2023.3.0a6/db70364f4159\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL…",
-      "Url": "https://unity.com/releases/editor/alpha/2023.3.0a6",
-      "UrlToImage": null,
-      "PublishedAt": "2023-09-22T06:36:01Z",
-      "Content": "<li>2D: Fixed an issue where a GameObject instantiated by a Tile is recreated on the player when the user refreshes the Tile without changing the Tile.\r\n(UUM-45589)\r\n</li><li>2D: Fixed an issue where… [+70781 chars]"
     }
   ]
 }
