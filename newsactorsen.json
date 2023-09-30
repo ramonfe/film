@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 579,
+  "TotalResults": 580,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Daniel Radcliffe and other 'Harry Potter' stars remember 'magnificent' Michael Gambon - CNN",
+      "Description": "Daniel Radcliffe and other 'Harry Potter' stars remember 'magnificent' Michael GambonCNN Before Dumbledore, Michael Gambon Played One of the Greatest Movie VillainsCollider Remembering Michael Gambon: The iconic Dumbledore who enchanted the worldWION Michael …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171916245",
+      "UrlToImage": null,
+      "PublishedAt": "2023-09-29T04:32:35Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://apicms.thestar.com.my/uploads/images/2023/09/28/2308698.jpg",
       "PublishedAt": "2023-09-28T12:05:00Z",
       "Content": "LONDON (Reuters) -British-Irish actor Michael Gambon, best known to global audiences for playing the wise professor Albus Dumbledore in the \"Harry Potter\" movie franchise and whose career was launche… [+3156 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-jerusalem-post",
-        "Name": "The Jerusalem Post"
-      },
-      "Author": "By REUTERS",
-      "Title": "Michael Gambon, British actor who played Dumbledore, dies aged 82",
-      "Description": "Michael Gambon's best-known role was as Dumbledore in the \"Harry Potter\" franchise, a role he took over from the third installment in the eight-movie series after he replaced the late Richard Harris.",
-      "Url": "https://www.jpost.com/international/article-760820",
-      "UrlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/554379",
-      "PublishedAt": "2023-09-28T12:01:27Z",
-      "Content": "British-Irish actor Michael Gambon, best known to global audiences for playing the wise professor Albus Dumbledore in the \"Harry Potter\" movie franchise and whose career was launched by his mentor La… [+3267 chars]"
     }
   ]
 }
