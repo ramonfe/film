@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1104,
+  "TotalResults": 1088,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "ALBERTO REY",
+      "Title": "¿Quién es Erin Carter?, la peor serie de la semana: relleno de Netflix",
+      "Description": "Hay un género muy concreto de series que no sé si debería tener espacio en esta sección: las series de relleno de Netflix. Que casi todos tengamos clarísimo cuáles son y para...",
+      "Url": "https://www.elmundo.es/cultura/2023/09/30/650d99cce9cf4a73378b45c9.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/98d5b56f73640cd885d87d34fab2b28c/f/jpg/assets/multimedia/imagenes/2023/09/22/16953901281493.jpg",
+      "PublishedAt": "2023-09-30T12:37:04Z",
+      "Content": "Hay un género muy concreto de series que no sé si debería tener espacio en esta sección: las series de relleno de Netflix. Que casi todos tengamos clarísimo cuáles son y para qué valen indica que el … [+2795 chars]"
+    },
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Victoria Beckham recuerda el momento más duro de su marido en el fútbol: \"Quiero matar a gente\"",
+      "Description": "Queda muy poco para que la serie documental de David y Victoria Beckham vea la luz en Netflix. La productora ha ido dando algunos detalles acerca de lo que se va a ver en los cuatr",
+      "Url": "https://www.marca.com/tiramillas/series/2023/09/30/6518044422601d73348b457d.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/a817b2db5864c64454797c72526c3b29/resize/1200/f/jpg/assets/multimedia/imagenes/2023/09/30/16960727647223.jpg",
+      "PublishedAt": "2023-09-30T11:20:38Z",
+      "Content": "Queda muy poco para que la serie documental de David y Victoria Beckham vea la luz en Netflix. La productora ha ido dando algunos detalles acerca de lo que se va a ver en los cuatro capítulos, desde … [+1860 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Jorge Arturo Mora",
+      "Title": "‘Hora de Aventura’: 5 años después, la serie de Finn y Jake se quedó con nosotros para siempre",
+      "Description": "Ante el lanzamiento de la serie ‘Fiona y Cake’, en HBO MAX, conviene recordar uno de los grandes hitos de la animación contemporánea: 'Hora de Aventura', una serie que exploró la nostalgia, el existencialismo y el temor al futuro",
+      "Url": "https://www.nacion.com/viva/television/hora-de-aventura-5-anos-despues-la-serie-de-finn-y/TIDWGJMJKFFM5FMIGZWJVWG5JE/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/KUS9OlcocQtlPs4nE69H2zU70iU=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/OZRTWMNPUZHYTPGSE66HNQV2DE.jpg",
+      "PublishedAt": "2023-09-30T11:18:00Z",
+      "Content": "Es cierto que la animación ha gozado de buena salud en los últimos veinte años, pero la serieHora de Aventuramarcó un parteaguas dentro de la industria. Cuando fue anunciada como una travesía de un p… [+4236 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "Una sorprendente película de ciencia ficción y terror, una de las mejores miniseries de 2023 y más: 4 grandes estrenos en streaming de septiembre para ver este fin de semana",
+      "Description": "Todos los sábados os ofrezco una lista con recomendaciones de películas o series en streaming, pero a veces he notado que solamente existe interés en algunos lectores hacia aquellos títulos más recientes. Por ello, la selección de hoy es de 4 grandes estrenos…",
+      "Url": "https://www.espinof.com/listas/sorprendente-pelicula-ciencia-ficcion-terror-mejores-miniseries-2023-4-grandes-estrenos-streaming-septiembre-para-ver-este-fin-semana",
+      "UrlToImage": "https://i.blogs.es/e72086/nadie-te-salvara-poster/840_560.jpeg",
+      "PublishedAt": "2023-09-30T11:01:38Z",
+      "Content": "Todos los sábados os ofrezco una lista con recomendaciones de películas o series en streaming, pero a veces he notado que solamente existe interés en algunos lectores hacia aquellos títulos más recie… [+3475 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Formulatv.com"
+      },
+      "Author": "Fernando S. Palenzuela",
+      "Title": "Pedro Casablanc ('Los Farad'): \"Fui a pedir trabajo a una película y me lo negaron porque estaba en una serie\"",
+      "Description": "ENTREVISTA El intérprete da vida al personaje de Susana Abaitua en la ficción de Amazon Prime Video.Pedro Casablanc ('Los Farad'): \"Fui a pedir trabajo a una película y me lo negaron porque estaba en una serie\"",
+      "Url": "https://www.formulatv.com/noticias/pedro-casablanc-los-farad-trabajo-pelicula-serie-124602/",
+      "UrlToImage": "https://www.formulatv.com/images/articulos/124000/124602_JB3zYgqs2v75Ui6Jx4eWF9tokHEP8Nm0R-hog.jpg",
+      "PublishedAt": "2023-09-30T10:35:00Z",
+      "Content": "Entre los próximos proyectos que Amazon Prime Video tiene esperando en la guantera se encuentra 'Los Farad'. En ella representa la Marbella de los años 80, centrada en una familia que vive de la vent… [+7598 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elotrolado.net"
+      },
+      "Author": "Benzo",
+      "Title": "Loki regresa a Disney+, Netflix estrena Cadáveres, Cocina con química llega a Apple TV+ y Domina debuta en Movistar+",
+      "Description": "<table><tr><td></td></tr></table>En octubre regresan las series de Marvel con la segunda temporada de Loki, mientras que en Netflix el protagonismo es para dos miniseries: Cadáveres, basada en un cómic de DC y con el siempre solvente Stephen Graham, y La Caíd…",
+      "Url": "https://www.elotrolado.net/noticias/internet/series-netflix-apple-movistar-disney-octubre-2023",
+      "UrlToImage": "https://images.elotrolado.net/headers/upload/9/f/9ff58d_cocina-con-quimica_news.jpg?1200",
+      "PublishedAt": "2023-09-30T10:33:56Z",
+      "Content": "En octubre regresan las series de Marvel con la segunda temporada de Loki, mientras que en Netflix el protagonismo es para dos miniseries: Cadáveres, basada en un cómic de DC y con el siempre solvent… [+15980 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Pablo Vázquez",
+      "Title": "'Vida perra': una escandalosa y desternillante película que trae de vuelta el humor sexual, gamberro y políticamente incorrecto del modo más extraño imaginable",
+      "Description": "'Vida perra' ('Strays') es un triunfal y desternillante experimento que parte de un guion escrito por Dan Perrault, uno de los creadores de la serie 'Gamberro de instituto' ('American Vandal'), dirigido para la ocasión por Josh Greenbaum, autor, entre otros, …",
+      "Url": "https://www.espinof.com/criticas/vida-perra-escandalosa-desternillante-pelicula-que-trae-vuelta-humor-sexual-gamberro-politicamente-incorrecto-modo-extrano-imaginable",
+      "UrlToImage": "https://i.blogs.es/20ac51/vida_perra_strays_2023_critica_espinof/840_560.jpeg",
+      "PublishedAt": "2023-09-30T10:01:37Z",
+      "Content": "'Vida perra' ('Strays') es un triunfal y desternillante experimento que parte de un guion escrito por Dan Perrault, uno de los creadores de la serie 'Gamberro de instituto' ('American Vandal'), dirig… [+4314 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -301,97 +392,6 @@
       "UrlToImage": "https://i.blogs.es/63a7c2/ambicion/840_560.jpeg",
       "PublishedAt": "2023-09-29T14:01:34Z",
       "Content": "Tradicionalmente, los documentales sobre conciertos han sido una excusa para mostrar unos cuantos minutos en el backstage, normalmente de la forma más afable y preparada posible, con el índice de rea… [+6378 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Applesfera.com"
-      },
-      "Author": "Miguel López",
-      "Title": "Alucinante tráiler de la nueva Black Mirror de Apple TV+: 'Esto va a doler' parte como favorita para la Concha de Oro",
-      "Description": "Imagina que, de repente, un avance tecnológico te permite saber cuánto está enamorada tu pareja de ti. Y viceversa, claro. Un simple porcentaje que puede confirmar vuestra relación... o ponerla en entredicho. Es la premisa de 'Esto va a doler', la nueva pelíc…",
-      "Url": "https://www.applesfera.com/servicios-apple/alucinante-trailer-nueva-black-mirror-apple-tv-esto-va-a-doler-parte-como-favorita-para-concha-oro",
-      "UrlToImage": "https://i.blogs.es/ac71c7/apple_tv_fingernails_key_art_graphic_header_16_9_show_home.jpg.large_2x/840_560.jpeg",
-      "PublishedAt": "2023-09-29T14:01:33Z",
-      "Content": "Imagina que, de repente, un avance tecnológico te permite saber cuánto está enamorada tu pareja de ti. Y viceversa, claro. Un simple porcentaje que puede confirmar vuestra relación... o ponerla en en… [+1697 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Sergio Cejas (Beld)",
-      "Title": "Esta maravillosa película de ciencia ficción y aventuras con monstruos gigantes es del director de The Creator y la puedes ver en streaming",
-      "Description": "Uno de los grandes estrenos que se acaba de producir hoy mismo en todos los cines es el de The Creator, la nueva película de acción y ciencia ficción a cargo de Gareth Edwards, conocido por ser el director de películas como Rogue One: Una historia de Star War…",
-      "Url": "https://www.vidaextra.com/cine/esta-maravillosa-pelicula-ciencia-ficcion-aventuras-monstruos-gigantes-director-the-creator-puedes-ver-streaming",
-      "UrlToImage": "https://i.blogs.es/b6fbd4/monsters/840_560.jpeg",
-      "PublishedAt": "2023-09-29T13:54:57Z",
-      "Content": "Uno de los grandes estrenos que se acaba de producir hoy mismo en todos los cines es el de The Creator, la nueva película de acción y ciencia ficción a cargo de Gareth Edwards, conocido por ser el di… [+2113 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Jack King",
-      "Title": "James Bond: ¿Quién dirigirá la próxima película? De Christopher Nolan a Greta Gerwig, he aquí los posibles candidatos",
-      "Description": "Dos años después del canto del cisne de Daniel Craig como James Bond en No es hora de morir, los productores de James Bond se afanan por definir los próximos pasos de la franquicia más antigua del cine. Barbara Broccoli afirmó en junio del año pasado que la p…",
-      "Url": "https://www.revistagq.com/articulo/james-bond-quien-dirigira-la-proxima-pelicula-christopher-nolan-greta-gerwig",
-      "UrlToImage": "https://media.revistagq.com/photos/6516b611e9a1a4fb90564374/16:9/w_1280,c_limit/Next-bond-director-hp-b.jpg",
-      "PublishedAt": "2023-09-29T12:53:50Z",
-      "Content": "Por qué sí: Villeneuve es un poco como Nolan en el sentido de que su filmografía ya habla por sí mismo. No hay más que ver su lista de películas: Blade Runner 2049. Sicario. Arrival. Prisioneros. Dun… [+2294 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Lucy Ford",
-      "Title": "Las 10 mejores series de terror para no pegar ojo en toda la noche",
-      "Description": "Las series de terror han sido un componente imprescindible de la televisión desde que La dimensión desconocida nos dio los primeros sustos de la semana, pasando por Buffy, cazavampiros e incluso por El club de la medianoche (no la de Netflix, pero relacionada…",
-      "Url": "https://www.revistagq.com/articulo/series-terror-recientes-2023",
-      "UrlToImage": "https://media.revistagq.com/photos/6516abc990b2b2f8c12c5a6e/16:9/w_1280,c_limit/Best-horror-tv-shows.jpeg",
-      "PublishedAt": "2023-09-29T12:41:49Z",
-      "Content": "Algunos tropos de terror son demasiado buenos para morir, y el slasher clásico es uno de ellos. No importa cuántas veces hayas visto a un villano enmascarado blandir un cuchillo sobre un grupo de víc… [+2482 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "GQ España",
-      "Title": "Fernando Guallar: \"Está muy bien que plantemos pequeñas semillas como La ternura, porque no se hacen películas así en España\"",
-      "Description": "Es indudable que Fernando Guallar se ha ganado a pulso el título de galán –en la pequeña y en la gran pantalla, si es que sigue habiendo tal diferenciación– gracias a títulos como Luis Miguel: La serie, Explota, Explota o Velvet Colección. Sin embargo, el act…",
-      "Url": "https://www.revistagq.com/articulo/fernando-guallar-la-ternura-reina-roja-tras-la-pared-la-segunda-muerte-valenciana",
-      "UrlToImage": "https://media.revistagq.com/photos/65155cf6f7ef2711ae397e78/16:9/w_1280,c_limit/GQ%20Fernando%20Guallar%20La%20Ternura%20001.jpg",
-      "PublishedAt": "2023-09-29T11:56:58Z",
-      "Content": "Esta película me ha generado muchísima madurez como actor. En cuanto al código interpretativo, es un cambio de registro absoluto respecto a lo que venía haciendo. Por ejemplo, hemos trabajado con un … [+3934 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "'La Mesías': la madurez de Los Javis se cristaliza en una de las mejores series españolas de todos los tiempos poniendo como excusa a las Flos Mariae | Festival de San Sebastián 2023",
-      "Description": "Como una loncha de queso en un sándwich preso. Seguramente has reconocido la frase: en 2014 la canción 'Amén' se convirtió de golpe y porrazo en uno de los vídeos virales más potentes de todos los tiempos en España y las Flos Mariae pasaron a formar parte del…",
-      "Url": "https://www.espinof.com/criticas/mesias-madurez-javis-se-cristaliza-mejores-series-espanolas-todos-tiempos-poniendo-como-excusa-a-flos-mariae-festival-san-sebastian-2023",
-      "UrlToImage": "https://i.blogs.es/61eaeb/mesias-1-/840_560.jpeg",
-      "PublishedAt": "2023-09-29T11:31:32Z",
-      "Content": "Como una loncha de queso en un sándwich preso. Seguramente has reconocido la frase: en 2014 la canción 'Amén' se convirtió de golpe y porrazo en uno de los vídeos virales más potentes de todos los ti… [+5947 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Elena Sánchez-Beato",
-      "Title": "'Amar es para siempre' en su punto más dramático con la elección de Victoria y el nuevo lapsus de Federico",
-      "Description": "Cada vez nos encontramos más cerca del final de la serie.  'Amar es para siempre' está desenlazando muchas de sus tramas y dramas a pesar de que siempre surja algo nuevo. Una semana más que acaba y nuestra telenovela favorita sigue dando de qué hablar. Ya en …",
-      "Url": "https://www.trendencias.com/telenovelas/amar-para-siempre-su-punto-dramatico-eleccion-victoria-nuevo-lapsus-federico",
-      "UrlToImage": "https://i.blogs.es/bb278a/amar-cap-2721-min-1046x616-1-/840_560.jpeg",
-      "PublishedAt": "2023-09-29T11:26:07Z",
-      "Content": "Cada vez nos encontramos más cerca del final de la serie.  'Amar es para siempre' está desenlazando muchas de sus tramas y dramas a pesar de que siempre surja algo nuevo. Una semana más que acaba y n… [+1728 chars]"
     }
   ]
 }
