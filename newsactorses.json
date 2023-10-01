@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 743,
+  "TotalResults": 744,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Un premio Nobel de Literatura para clausurar el festival de cine de San Sebastián",
+      "Description": "Empezó con nubarrones y tormentas el festival de San Sebastián y, nueve días después, se clausuró con un sol veraniego y la sensación de que la falta de estrellas no ha deslucido la 71ª edición. Lo metafórico del tiempo se puede trasladar a la película elegid…",
+      "Url": "https://www.abc.es/play/cine/premio-nobel-literatura-clausurar-festival-cine-san-20230930170528-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/09/30/byrne-U65813068558fOE-1024x512@abc.jpg",
+      "PublishedAt": "2023-09-30T15:05:31Z",
+      "Content": "Empezó con nubarrones y tormentas el festival de San Sebastián y, nueve días después, se clausuró con un sol veraniego y la sensación de que la falta de estrellas no ha deslucido la 71ª edición. Lo m… [+2631 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2023/09/29/fotos/a12o1esp-1.jpg",
       "PublishedAt": "2023-09-29T08:00:33Z",
       "Content": "El mexicano lleva el humor en los genes; se burla de todo. Es un factor que nos hace sobrellevar la vida ante todas las complejidades de este país. Pero el humor en el cine mexicano nos da identidad.… [+8764 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "A. Richart",
-      "Title": "Stéphanie Magnin, de 'Salón de té La Moderna': del 'Callejeros' italiano a participar en 'The Crown'",
-      "Description": "La actriz de la serie de La 1 de TVE tuvo que compaginar estudios y trabajo para conseguir su objetivo y ha participado en otras series de Netflix y HBO Max",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2023-09-29/stephanie-magnin-de-salon-de-te-la-moderna-del-callejeros-italiano-a-participar-en-the-crown_3722569/",
-      "UrlToImage": "https://images.ecestaticos.com/Qn-c8T8AjILFUQdob1OvJG1GAYQ=/0x0:1772x1181/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/71d/d5b/699/71dd5b69915dd35e861cd23dbed0b27a.jpg",
-      "PublishedAt": "2023-09-29T07:56:00Z",
-      "Content": "Reparto de La Promesa: conoce a todos los personajes de la serie de TVE​Ana Blanco no abandona TVE: presentará este mítico programa de la cadena públicaLa nueva serie de época Salón de té La Moderna … [+4105 chars]"
     }
   ]
 }
