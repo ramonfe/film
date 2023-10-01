@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1659,
+  "TotalResults": 1660,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "deadline.com",
+      "Title": "Arrest In AMC Movie Theater Incident Where Patron Was Brutally Attacked In Dispute Over Reserved Seats",
+      "Description": "UPDATE, SEPT. 29: A 27-year-old man has been arrested for a widely publicized fight with a 63- year-old man over movie theater seats in Pompano Beach, the Broward Sheriff’s Office announced Friday. Jesse Montez Thorton II, 27, faces one count of aggravated ba…",
+      "Url": "https://biztoc.com/x/adfd8e36e076b7bc",
+      "UrlToImage": "https://c.biztoc.com/p/adfd8e36e076b7bc/s.webp",
+      "PublishedAt": "2023-09-30T03:06:07Z",
+      "Content": "UPDATE, SEPT. 29: A 27-year-old man has been arrested for a widely publicized fight with a 63- year-old man over movie theater seats in Pompano Beach, the Broward Sheriffs Office announced Friday.Jes… [+308 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-104047775,width-1200,height-630,imgsize-15278,overlay-economictimes/photo.jpg",
       "PublishedAt": "2023-09-29T13:33:25Z",
       "Content": "The Ministry of Information and Broadcasting on Friday ordered an inquiry in the Mumbai office of CBFC after Tamil actor Vishal alleged that he had to pay money to receive a certificate for the Hindi… [+2383 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cisa.gov"
-      },
-      "Author": "CISA",
-      "Title": "Vulnerability Summary for the Week of September 18, 2023",
-      "Description": "High Vulnerabilities\r\n\n<table><tr><th>Primary\nVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source & Patch Info</th>\n</tr>\r\n<tr><td>acronis -- cyber_protect_home_office</td>\n<td>Sensitive information disclosure due to …",
-      "Url": "https://www.cisa.gov/news-events/bulletins/sb23-272",
-      "UrlToImage": null,
-      "PublishedAt": "2023-09-29T13:31:29Z",
-      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1127 chars]"
     }
   ]
 }
