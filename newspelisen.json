@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1420,
+  "TotalResults": 1425,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "'PAW Patrol' shows bark at box office while 'The Creator' and 'Dumb Money' disappoint",
+      "Description": "After several quiet weeks in movie theaters, four films entered wide release over the weekend",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/paw-patrol-shows-bark-box-office-creator-dumb-103640761",
+      "UrlToImage": "https://i.abcnewsfe.com/a/04c6be4a-7941-4591-9220-2defebe900bb/wirestory_f70ac42d987e7917cfd2c36781beb580_12x5.jpg?w=992",
+      "PublishedAt": "2023-10-01T16:54:19Z",
+      "Content": "After several quiet weeks in movie theaters, four films entered wide release over the weekend. PAW Patrol: The Might Movie came out the top dog, with $23 million in ticket sales, according to studio … [+4153 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "'PAW Patrol' shows bark at box office while 'The Creator' and 'Dumb Money' disappoint",
+      "Description": "After several quiet weeks in movie theaters, four films entered wide release over the weekend",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/paw-patrol-shows-bark-box-office-creator-dumb-103640701",
+      "UrlToImage": "https://i.abcnewsfe.com/a/04c6be4a-7941-4591-9220-2defebe900bb/wirestory_f70ac42d987e7917cfd2c36781beb580_12x5.jpg?w=992",
+      "PublishedAt": "2023-10-01T16:46:43Z",
+      "Content": "After several quiet weeks in movie theaters, four films entered wide release over the weekend. PAW Patrol: The Might Movie came out the top dog, with $23 million in ticket sales, according to studio … [+4153 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Jireh Deng",
+      "Title": "Alice Wu's \"Saving Face\" Told a Queer Asian Story When It Was Far From the Mainstream",
+      "Description": "This LGBTQ+ History Month, we're asking writers to reflect on a moment in queer pop culture history that has allowed them to experience queer liberation in their own lives. Check out our coverage here.\n\nLong before the commercial success of \"Crazy Rich Asians…",
+      "Url": "https://www.popsugar.com/entertainment/alice-wu-saving-face-queer-asian-inspiration-essay-49283884",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/AzgyRz_wLvqJl1YUcSi1CNRCsjs=/0x0:1198x629/fit-in/1200x630/top/filters:format_auto():quality(85):upscale()/2023/10/01/698/n/1922283/689a8b0e65199415dc8ee7.28560704_.jpg",
+      "PublishedAt": "2023-10-01T16:30:07Z",
+      "Content": "This LGBTQ+ History Month, we're asking writers to reflect on a moment in queer pop culture history that has allowed them to experience queer liberation in their own lives. Check out our coverage her… [+7266 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hollywood Life"
+      },
+      "Author": "Elisabeth McGowan",
+      "Title": "Beyonce’s ‘Renaissance’ Tour Movie: What We Know About the Release Date, Behind-the-Scenes & More",
+      "Description": "The ‘Single Ladies’ artist is reportedly receiving a similar deal as Taylor Swift’s ‘Eras’ tour movie.",
+      "Url": "https://hollywoodlife.com/feature/beyonces-renaissance-world-tour-movie-everything-we-know-5169228/",
+      "UrlToImage": "https://hollywoodlife.com/wp-content/uploads/2023/10/beyonce-featured.jpg",
+      "PublishedAt": "2023-10-01T16:00:10Z",
+      "Content": "Image Credit: Frank Micelotta/PictureGroup for Parkwood/Shutterstock\r\nBeyoncés Renaissance world tour is reportedly receiving the same treatment as Taylor Swifts Eras tour. The Single Ladies artists … [+2374 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -110,19 +175,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Jonathan Sim",
-      "Title": "The Creator Review: A Beautifully Mediocre Sci-Fi Movie",
-      "Description": "Artificial intelligence is at the forefront of every discussion we’ve been having in the entertainment industry. A big reason why the WGA and SAG-AFTRA went on strike is the looming threat that AI poses to their jobs. With the WGA strike reaching an end recen…",
-      "Url": "https://www.comingsoon.net/movies/reviews/1354600-the-creator-review-a-beautifully-mediocre-sci-fi-movie",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/V1-0036_frm_pull.035.jpg?resize=1200,630",
-      "PublishedAt": "2023-09-30T19:00:00Z",
-      "Content": "Artificial intelligence is at the forefront of every discussion weve been having in the entertainment industry. A big reason why the WGA and SAG-AFTRA went on strike is the looming threat that AI pos… [+5933 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Siliconera"
       },
       "Author": "Jenni Lada",
@@ -132,6 +184,19 @@
       "UrlToImage": "https://www.siliconera.com/wp-content/uploads/2023/09/the-ranma-1-2-ova-and-movies-collection-preserves-the-past.jpeg",
       "PublishedAt": "2023-09-30T19:00:00Z",
       "Content": "Viz Media often releases these catch up DVDs and Blu-rays. Theyre a way to bring older series back. Think of it as a means of ensuring certain things arent lost to time. Ranma 1/2 Ova and Movies Coll… [+2839 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Jonathan Sim",
+      "Title": "The Creator Review: A Beautifully Mediocre Sci-Fi Movie",
+      "Description": "Artificial intelligence is at the forefront of every discussion we’ve been having in the entertainment industry. A big reason why the WGA and SAG-AFTRA went on strike is the looming threat that AI poses to their jobs. With the WGA strike reaching an end recen…",
+      "Url": "https://www.comingsoon.net/movies/reviews/1354600-the-creator-review-a-beautifully-mediocre-sci-fi-movie",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/V1-0036_frm_pull.035.jpg?resize=1200,630",
+      "PublishedAt": "2023-09-30T19:00:00Z",
+      "Content": "Artificial intelligence is at the forefront of every discussion weve been having in the entertainment industry. A big reason why the WGA and SAG-AFTRA went on strike is the looming threat that AI pos… [+5933 chars]"
     },
     {
       "Source": {
@@ -327,71 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/linus-charlie-brown-super7.jpg?resize=1200,630",
       "PublishedAt": "2023-09-29T20:00:00Z",
       "Content": "ComingSoon is excited to debut a collaboration between Super7 and Peanuts on a new ReAction figure holiday box set themed all around the classic animated film A Charlie Brown Christmas.\r\nThe new rele… [+1589 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Gremlins: Secrets of the Mogwai Now Available on Digital",
-      "Description": "To mark its digital release, Warner Bros. has revealed a brand new Gremlins: Secrets of the Mogwai trailer, highlighting the magical origins of the adorable Gizmo. The first ten episodes of the animated prequel is now available to rent or buy on digital platf…",
-      "Url": "https://www.comingsoon.net/tv/trailers/1354503-gremlins-secrets-of-the-mogwai-now-available-on-digital",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/mogwai.jpg?resize=1200,630",
-      "PublishedAt": "2023-09-29T19:47:52Z",
-      "Content": "To mark its digital release, Warner Bros. has revealed a brand new Gremlins: Secrets of the Mogwai trailer, highlighting the magical origins of the adorable Gizmo. \r\nThe first ten episodes of the ani… [+1752 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "looper.com",
-      "Title": "Barbie: The 3 Best Scenes From The IMAX Re-Release You Didn't See The First Time",
-      "Description": "Learn More Barbie: The 3 Best Scenes From The IMAX Re-Release You Didn't See The First Time There's already a ton of stuff to love in Greta Gerwig's \"Barbie\" movie. A cotton-candy pink confection with a sly, subversive message lurking just beneath its shiny s…",
-      "Url": "https://biztoc.com/x/1e4711a44c238a61",
-      "UrlToImage": "https://c.biztoc.com/p/1e4711a44c238a61/s.webp",
-      "PublishedAt": "2023-09-29T19:10:05Z",
-      "Content": "Learn More Barbie: The 3 Best Scenes From The IMAX Re-Release You Didn't See The First Time There's already a ton of stuff to love in Greta Gerwig's \"Barbie\" movie. A cotton-candy pink confection wit… [+319 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "Meagan Navarro",
-      "Title": "‘Where the Devil Roams’ – New Movie from ‘Hellbender’ Filmmakers Sets November Release",
-      "Description": "The Adams Family debuted on the scene with The Deeper You Dig and returned last year for Shudder’s Hellbender. Up next from the family – and yes, they are indeed a real family – is Where the Devil Roams, and the film is headed the theaters in November. Yellow…",
-      "Url": "https://bloody-disgusting.com/movie/3781729/where-the-devil-roams-new-movie-november-release/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2023/08/WHERE_THE_DEVIL_ROAMS_4PRESS.jpg?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2023-09-29T19:09:10Z",
-      "Content": "Amandla Stenberg (Bodies Bodies Bodies) leads the genre-bending werewolf movie My Animal, available now in select theaters and VOD, and the musically inclined actor also wrote and performed a new sin… [+1869 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Abdul Azim Naushad",
-      "Title": "Mech Cadets Season 2 Release Date Rumors: Is It Coming Out?",
-      "Description": "Viewers and fans of Mech Cadets have been wondering whether this animated action-adventure show is getting a second season, ever since the first season debuted on August 10, 2023. It revolves around Stanford Yu, who becomes a pilot for the Robo Mechs protecti…",
-      "Url": "https://www.comingsoon.net/guides/news/1354302-mech-cadets-season-2-release-date-rumors-is-it-coming-out",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/mech-cadets.jpg?resize=1200,630",
-      "PublishedAt": "2023-09-29T18:57:27Z",
-      "Content": "Viewers and fans of Mech Cadetshave been wondering whether this animated action-adventure show is getting a second season, ever since the first season debuted on August 10, 2023. It revolves around S… [+1736 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Abdul Azim Naushad",
-      "Title": "My Dad the Bounty Hunter Season 3 Release Date Rumors: Is It Coming Out?",
-      "Description": "My Dad the Bounty Hunter viewers are curious about whether the animated series is getting a third season. The first two seasons last premiered in February 2023 and August 2023. The story follows Terry, whose children Lisa and Sean, follow him wherever he goes…",
-      "Url": "https://www.comingsoon.net/guides/news/1354266-my-dad-the-bounty-hunter-season-3-release-date-rumors-is-it-coming-out",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/bounty-hunter-1.jpg?resize=1200,630",
-      "PublishedAt": "2023-09-29T18:46:48Z",
-      "Content": "My Dad the Bounty Hunterviewers are curious about whether the animated series is getting a third season. The first two seasons last premiered in February 2023 and August 2023. The story follows Terry… [+1328 chars]"
     }
   ]
 }

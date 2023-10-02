@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 734,
+  "TotalResults": 735,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Series con familias disfuncionales que harán que te alegres de tu soltería",
+      "Description": "Dice Salman Rushdie que «la familia es la fuente de todos los desastres humanos». La verdad es que, si echamos la vista atrás hasta la primera familia, el violento suceso entre Caín y Abel parece darle la razón a Rushdie y marcar un tono bastante pesimista al…",
+      "Url": "https://www.abc.es/play/cine/criticas/series-familias-disfuncionales-haran-alegres-solteria-20231001192212-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/09/29/succession-U74804004038zJW-1024x512@abc.jpg",
+      "PublishedAt": "2023-10-01T16:56:30Z",
+      "Content": "Dice Salman Rushdie que «la familia es la fuente de todos los desastres humanos». La verdad es que, si echamos la vista atrás hasta la primera familia, el violento suceso entre Caín y Abel parece dar… [+3436 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/80f8af15-e839-40f6-9400-b6f77b179905_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-09-29T12:39:24Z",
       "Content": "Las fronteras entre cine y series a veces se difuminan. Lo hacen gracias al nivel creativo mostrado desde hace años en las producciones de 'la pequeña pantalla' y también cuando un festival de cine p… [+4908 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "GQ España",
-      "Title": "Fernando Guallar: \"Está muy bien que plantemos pequeñas semillas como La ternura, porque no se hacen películas así en España\"",
-      "Description": "Es indudable que Fernando Guallar se ha ganado a pulso el título de galán –en la pequeña y en la gran pantalla, si es que sigue habiendo tal diferenciación– gracias a títulos como Luis Miguel: La serie, Explota, Explota o Velvet Colección. Sin embargo, el act…",
-      "Url": "https://www.revistagq.com/articulo/fernando-guallar-la-ternura-reina-roja-tras-la-pared-la-segunda-muerte-valenciana",
-      "UrlToImage": "https://media.revistagq.com/photos/65155cf6f7ef2711ae397e78/16:9/w_1280,c_limit/GQ%20Fernando%20Guallar%20La%20Ternura%20001.jpg",
-      "PublishedAt": "2023-09-29T11:56:58Z",
-      "Content": "Esta película me ha generado muchísima madurez como actor. En cuanto al código interpretativo, es un cambio de registro absoluto respecto a lo que venía haciendo. Por ejemplo, hemos trabajado con un … [+3934 chars]"
     }
   ]
 }
