@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 580,
+  "TotalResults": 553,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Japan Times"
+      },
+      "Author": "The Japan Times",
+      "Title": "Japanese actor Fuji wins top lead actor prize at San Sebastian",
+      "Description": "Seasoned Japanese actor Tatsuya Fuji won the Silver Shell for Best Leading Performance on Saturday for his performance in the movie \"Great Absence\" at the 71st San Sebastian International Film Festival in Spain.",
+      "Url": "https://www.japantimes.co.jp/news/2023/10/01/japan/fuji-san-sebastian-wins/",
+      "UrlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/01/255049.jpg",
+      "PublishedAt": "2023-10-01T10:51:00Z",
+      "Content": "SAN SEBASTIAN, Spain Seasoned Japanese actor Tatsuya Fuji won the Silver Shell for Best Leading Performance on Saturday for his performance in the movie \"Great Absence\" at the 71st San Sebastian Inte… [+1058 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Japan Times"
+      },
+      "Author": "The Japan Times",
+      "Title": "Japanese actor Tatsuya Fuji wins top lead actor prize at San Sebastian",
+      "Description": "Seasoned Japanese actor Tatsuya Fuji won the Silver Shell for Best Leading Performance on Saturday for his performance in the movie \"Great Absence\" at the 71st San Sebastian International Film Festival in Spain.",
+      "Url": "https://www.japantimes.co.jp/culture/2023/10/01/entertainment-news/fuji-san-sebastian-wins/",
+      "UrlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/01/255049.jpg",
+      "PublishedAt": "2023-10-01T10:51:00Z",
+      "Content": "SAN SEBASTIAN, Spain Seasoned Japanese actor Tatsuya Fuji won the Silver Shell for Best Leading Performance on Saturday for his performance in the movie \"Great Absence\" at the 71st San Sebastian Inte… [+1058 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-104047775,width-1200,height-630,imgsize-15278,overlay-economictimes/photo.jpg",
       "PublishedAt": "2023-09-29T13:33:25Z",
       "Content": "The Ministry of Information and Broadcasting on Friday ordered an inquiry in the Mumbai office of CBFC after Tamil actor Vishal alleged that he had to pay money to receive a certificate for the Hindi… [+2383 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cisa.gov"
-      },
-      "Author": "CISA",
-      "Title": "Vulnerability Summary for the Week of September 18, 2023",
-      "Description": "High Vulnerabilities\r\n\n<table><tr><th>Primary\nVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source & Patch Info</th>\n</tr>\r\n<tr><td>acronis -- cyber_protect_home_office</td>\n<td>Sensitive information disclosure due to …",
-      "Url": "https://www.cisa.gov/news-events/bulletins/sb23-272",
-      "UrlToImage": null,
-      "PublishedAt": "2023-09-29T13:31:29Z",
-      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1127 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Protothema.gr"
-      },
-      "Author": "Newsroom",
-      "Title": "“Hercules” actor Kevin Sorbo says Hollywood canceled him because of his Christian beliefs",
-      "Description": "Kevin Sorbo recently teamed up with wife Sam for the movie 'Miracle in East Texas,' produced by their own production company",
-      "Url": "https://en.protothema.gr/hercules-actor-kevin-sorbo-says-hollywood-canceled-him-because-of-his-christian-beliefs/",
-      "UrlToImage": "https://en.protothema.gr/wp-content/uploads/2023/09/hjhk-150x150.png",
-      "PublishedAt": "2023-09-29T13:11:45Z",
-      "Content": "Kevin Sorbo opened up about being canceled in Hollywood for years because of his Christian beliefs and conservative views.\r\nThe 64-year-old actor skyrocketed to international fame when he starred as … [+597 chars]"
     }
   ]
 }

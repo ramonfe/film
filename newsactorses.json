@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 754,
+  "TotalResults": 732,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "O corno, de la española Jaione Camborda, gana la Concha de Oro en San Sebastián",
+      "Description": "San Sebastián. O corno, de la directora española Jaione Camborda, se alzó con la Concha de Oro a la mejor película del Festival de Cine de San Sebastián, mientras la argentina Puan logró los premios a mejores guión y actor.",
+      "Url": "https://www.jornada.com.mx/2023/10/01/espectaculos/a06n1esp",
+      "UrlToImage": "https://www.jornada.com.mx/2023/10/01/fotos/a06n1esp-1.jpg",
+      "PublishedAt": "2023-10-01T09:37:04Z",
+      "Content": "Periódico La JornadaDomingo 1º de octubre de 2023, p. 6\r\nSan Sebastián. O corno, de la directora española Jaione Camborda, se alzó con la Concha de Oro a la mejor película del Festival de Cine de San… [+3959 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/09/29/1471771108-U45143766586QCL-1024x512@abc.jpg",
       "PublishedAt": "2023-09-29T11:32:12Z",
       "Content": "A punto de clausurarse la 71 edición del Festival de San Sebastián y de que el jurado internacional que preside Claire Denis pase su lista de premiados, se puede ofrecer ya una impresión general sobr… [+3494 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "La equivocación de Pedro Sanchéz que dejó en 'shock' a la familia de Álvaro de Luna: envió por error unas condolencias por su muerte",
-      "Description": "Ayer por la tarde, Álvaro de Luna (29 años) visitó el programa 'Zapeando', de La Sexta, como parte de la gira promocional de su segundo disco , 'Uno', que estará disponible a partir de este viernes 29 de septiembre en tiendas físicas y online. Durante la entr…",
-      "Url": "https://www.abc.es/gente/tremendo-susto-familia-alvaro-luna-pedro-sanchez-20230929131722-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2023/09/29/alvaro-U68064312338Ghb-1024x512@abc.jpg",
-      "PublishedAt": "2023-09-29T11:17:22Z",
-      "Content": "Ayer por la tarde, Álvaro de Luna (29 años) visitó el programa 'Zapeando', de La Sexta, como parte de la gira promocional de su segundo disco, 'Uno', que estará disponible a partir de este viernes 29… [+2219 chars]"
     }
   ]
 }
