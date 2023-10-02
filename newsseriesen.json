@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 124,
+  "TotalResults": 125,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "polygon.com",
+      "Title": "Every movie and show coming to Netflix in October",
+      "Description": "Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s firehose of content makes what’s coming and going difficult to parse. October might be time fo…",
+      "Url": "https://biztoc.com/x/9aac4fd00bd7a179",
+      "UrlToImage": "https://c.biztoc.com/p/9aac4fd00bd7a179/s.webp",
+      "PublishedAt": "2023-10-01T18:02:06Z",
+      "Content": "Even with Netflixs recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming services firehose of content makes whats comi… [+307 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.rawstory.com/media-library/what-you-need-to-know-about-the-sag-aftra-strike-that-will-upend-hollywood.jpg?id=34335875&width=1200&height=600&coordinates=0%2C145%2C0%2C146",
       "PublishedAt": "2023-09-27T10:54:13Z",
       "Content": "The leaders of the Writers Guild of America on Tuesday called off a monthslong strike that has paralyzed Hollywood, accepting a pay deal hammered out with production studios.\r\nThe powerful writers' u… [+3308 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The New Republic"
-      },
-      "Author": "Phillip Maciak",
-      "Title": "Reservation Dogs Was a Miracle",
-      "Description": "In this depressing and precarious year for television, there have nonetheless been a few small, isolated miracles. Fresh off the disappointment of an expensive Lord of the Rings spin-off whose viewership took a nosedive after its ballyhooed premiere, this sum…",
-      "Url": "https://newrepublic.com/article/175052/reservation-dogs-miracle-fx-tv-review",
-      "UrlToImage": "https://images.newrepublic.com/0a76ce4ceaad1fbf86f7891756215352581d0170.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "PublishedAt": "2023-09-27T10:00:00Z",
-      "Content": "At the start of the series, we meet Bear (DPharoah Woon-A-Tai), along with his childhood friends Elora Danan (Kawennáhere Devery Jacobs), Willie Jack (Pauline Alexis), and Cheese (Lane Factor). These… [+2193 chars]"
     }
   ]
 }
