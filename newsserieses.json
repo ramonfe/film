@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1097,
+  "TotalResults": 1099,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lavozdegalicia.es"
+      },
+      "Author": "Colpisa",
+      "Title": "Apple TV+ estrena «The Changeling», una oscura fábula sobre el miedo a la paternidad",
+      "Description": "Protagonizada por LaKeith Stanfield y Clark Backo, la serie comienza como un cuento de hadas que acaba mutando en pesadilla",
+      "Url": "https://www.lavozdegalicia.es/noticia/sociedad/2023/10/01/oscura-fabula-sobre-paternidad/0003_202310G1P55993.htm",
+      "UrlToImage": "https://www.lavozdegalicia.es/default/2023/09/30/00121696070532271108318/Foto/The_Changeling_Serie_de_TV-802727549-large.jpg",
+      "PublishedAt": "2023-10-01T03:00:00Z",
+      "Content": "No es un simple remake de Al final de la escalera, aunque la pelcula de Peter Medak de 1980 originalmente compartiera ese ttulo. En realidad, el nombre de la nueva serie de Apple TV+ evoca una figura… [+3624 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "A. Richart",
+      "Title": "Todas las series de estreno en Netflix, HBO Max, Disney+, Prime Video, Atresplayer y Filmin, del 2 al 8 de octubre de 2023",
+      "Description": "La nueva serie de María Pedraza, Omar Sy en la tercera temporada de 'Lupin' o Tom Hiddleston en la segunda temporada de 'Loki', entre los actores destacados de la semana",
+      "Url": "https://www.elconfidencial.com/television/series-tv/2023-10-01/listado-series-estreno-semana-40-netflix-hbo-max-disney_3744166/",
+      "UrlToImage": "https://images.ecestaticos.com/bHOcySCDa_5SB5iycrFMdXzUc50=/0x0:1600x1067/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/41c/18c/26b/41c18c26bce8b4b80b86a6b1255a9537.jpg",
+      "PublishedAt": "2023-10-01T03:00:00Z",
+      "Content": "Dónde y cuándo ver Las supermodelos, la reunión de las grandes musas de los 90SkyShowtime estrenará la nueva serie producida por Almodóvar, con un reparto de lujoLas principales plataformas de vídeo … [+10424 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -58,19 +84,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Luis Acosta",
-      "Title": "Es una de las joyas más divertidas de Prime Video, mezcla 'The Office' y a un falso jurado para hacerte reír a carcajadas",
-      "Description": "Existen muchas series de comedia, pero de vez en cuando, una joyita escondida nos hace reír a carcajadas genuinamente. 'Jury Duty' o 'El Jurado', es una de esas series al estilo de 'The Office' que no te va a decepcionar porque es algo tan novedoso como diver…",
-      "Url": "https://www.xataka.com.mx/cine-y-tv/joyas-divertidas-prime-video-mezcla-the-office-a-falso-jurado-para-hacerte-reir-a-carcajadas",
-      "UrlToImage": "https://i.blogs.es/61838d/jury-duty-prime-video/840_560.jpeg",
-      "PublishedAt": "2023-09-30T17:01:38Z",
-      "Content": "Existen muchas series de comedia, pero de vez en cuando, una joyita escondida nos hace reír a carcajadas genuinamente. 'Jury Duty' o 'El Jurado', es una de esas series al estilo de 'The Office' que n… [+2505 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Espinof.com"
       },
       "Author": "Mariló Delgado",
@@ -80,6 +93,19 @@
       "UrlToImage": "https://i.blogs.es/1eab3d/friends/840_560.jpeg",
       "PublishedAt": "2023-09-30T17:01:38Z",
       "Content": "Entre todas las grandes sitcoms de la historia, 'Friends' tiene un puesto de honor. Incluso 20 años después de que se emitiera su último capítulo seguimos hablando de ella... Y de su final. Porque de… [+5216 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Luis Acosta",
+      "Title": "Es una de las joyas más divertidas de Prime Video, mezcla 'The Office' y a un falso jurado para hacerte reír a carcajadas",
+      "Description": "Existen muchas series de comedia, pero de vez en cuando, una joyita escondida nos hace reír a carcajadas genuinamente. 'Jury Duty' o 'El Jurado', es una de esas series al estilo de 'The Office' que no te va a decepcionar porque es algo tan novedoso como diver…",
+      "Url": "https://www.xataka.com.mx/cine-y-tv/joyas-divertidas-prime-video-mezcla-the-office-a-falso-jurado-para-hacerte-reir-a-carcajadas",
+      "UrlToImage": "https://i.blogs.es/61838d/jury-duty-prime-video/840_560.jpeg",
+      "PublishedAt": "2023-09-30T17:01:38Z",
+      "Content": "Existen muchas series de comedia, pero de vez en cuando, una joyita escondida nos hace reír a carcajadas genuinamente. 'Jury Duty' o 'El Jurado', es una de esas series al estilo de 'The Office' que n… [+2505 chars]"
     },
     {
       "Source": {
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i.blogs.es/8a94c8/mel-gibson-the-continental/840_560.jpeg",
       "PublishedAt": "2023-09-29T17:01:32Z",
       "Content": "El enorme éxito de 'John Wick' ha dado pie a una franquicia millonaria cuya etapa más reciente es 'The Continental', la entretenida serie de Amazon Prime Video que también es la primera entrega de es… [+3774 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"Hay un sinfín de películas y series que exploran este concepto\": el creador de Invencible asegura que la segunda temporada no se centrará en los multiversos",
-      "Description": "Queda muy poco para que podamos disfrutar de la segunda temporada de Invencible, una de las grandes series que Amazon Prime Video tiene preparada junto a Gen V, el spin-off de The Boys, para hacer frente a las producciones de Marvel y DC Studios.\n<!-- BREAK 1…",
-      "Url": "https://www.vidaextra.com/series/hay-sinfin-peliculas-series-que-exploran-este-concepto-creador-invencible-asegura-que-segunda-temporada-no-se-centrara-multiversos",
-      "UrlToImage": "https://i.blogs.es/490385/invencible/840_560.jpeg",
-      "PublishedAt": "2023-09-29T16:32:49Z",
-      "Content": "Queda muy poco para que podamos disfrutar de la segunda temporada de Invencible, una de las grandes series que Amazon Prime Video tiene preparada junto a Gen V, el spin-off de The Boys, para hacer fr… [+1910 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Robos, delirios y pasados que no se olvidan para encarar el otoño",
-      "Description": "La acción está asegurada en el mes de octubre con los estrenos de las series que las plataformas han planteado en pleno arranque de una nueva temporada. Disney + lo hace a lo grande y trae de vuelta una de las series más esperadas por todos los fans del unive…",
-      "Url": "https://www.abc.es/play/series/robos-delirios-pasados-olvidan-encarar-otono-20230929182859-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/09/29/MLun9VechjavaLijvo9Qs9_20230929182429-U33145387428oYI-1024x512@abc.jpg",
-      "PublishedAt": "2023-09-29T16:29:23Z",
-      "Content": "La acción está asegurada en el mes de octubre con los estrenos de las series que las plataformas han planteado en pleno arranque de una nueva temporada. Disney + lo hace a lo grande y trae de vuelta … [+2767 chars]"
     }
   ]
 }
