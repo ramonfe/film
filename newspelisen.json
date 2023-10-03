@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1441,
+  "TotalResults": 1443,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Beyonce Officially Announces 'Renaissance' Movie After Wrapping Tour - Watch the Trailer!",
+      "Description": "Beyonce has officially announced that Renaissance: A Film By Beyonce is coming soon! Just one day after rumors started swirling that Beyonce is preparing for a theatrical release of the film by partnering with AMC Theatres, just like Taylor Swift did for The …",
+      "Url": "https://www.justjared.com/2023/10/02/beyonce-officially-announces-renaissance-movie-after-wrapping-tour-watch-the-trailer/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/10/bey-movie.jpg",
+      "PublishedAt": "2023-10-02T05:54:05Z",
+      "Content": "Beyonce has officially announced that Renaissance: A Film By Beyonce is coming soon!\r\nJust one day after rumors started swirling that Beyonce is preparing for a theatrical release of the film by part… [+1262 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Duckdb.org"
+      },
+      "Author": "Mojzis",
+      "Title": "Even Friendlier SQL with DuckDB - DuckDB",
+      "Description": "TLDR; DuckDB continues to push the boundaries of SQL syntax to both simplify queries and make more advanced analyses possible. Highlights include dynamic column selection, queries that start with the FROM clause, function chaining, and list comprehensions. We…",
+      "Url": "https://duckdb.org/2023/08/23/even-friendlier-sql.html",
+      "UrlToImage": "https://duckdb.org/images/sharingduckdb.jpg",
+      "PublishedAt": "2023-10-02T05:47:01Z",
+      "Content": "TLDR; DuckDB continues to push the boundaries of SQL syntax to both simplify queries and make more advanced analyses possible. Highlights include dynamic column selection, queries that start with the… [+24286 chars]"
+    },
     {
       "Source": {
         "Id": "breitbart-news",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://vcdn1-english.vnecdn.net/2023/09/30/giamdocnguoianh143911696002371-7963-8627-1696086096.png?w=680&h=0&q=100&dpr=1&fit=crop&s=vyv9zHeNAPu8ketEvl5Isw",
       "PublishedAt": "2023-10-01T00:00:00Z",
       "Content": "The People's Court of Ho Chi Minh City decided on Friday to reject the lawsuit filed by Benedict Daniel Sullivan, 60, against CJ CGV Vietnam Co. Ltd, the largest cinema complex in the country.\r\nSulli… [+3117 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "cnbc.com",
-      "Title": "Beyoncé's Renaissance World Tour in talks with AMC for a concert film",
-      "Description": "Beyoncé's Renaissance World Tour may be coming to a theater near you. Makers of a concert film based on the smash-hit concert are reportedly in advanced talks to directly distribute the movie through AMC Theaters , according to a Variety report. Major talent …",
-      "Url": "https://biztoc.com/x/12f650d6f8e3ac35",
-      "UrlToImage": "https://c.biztoc.com/p/12f650d6f8e3ac35/s.webp",
-      "PublishedAt": "2023-09-30T19:34:05Z",
-      "Content": "Beyoncé's Renaissance World Tour may be coming to a theater near you.Makers of a concert film based on the smash-hit concert are reportedly in advanced talks to directly distribute the movie through … [+286 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Siliconera"
-      },
-      "Author": "Jenni Lada",
-      "Title": "The Ranma 1/2 Ova and Movies Collection Preserves the Past",
-      "Description": "Viz Media often releases these “catch up” DVDs and Blu-rays. They’re a way to bring older series back. Think of it as a means of ensuring certain things aren’t lost to time. Ranma 1/2 Ova and Movies Collection is essentially that. It’s a simple release that k…",
-      "Url": "https://www.siliconera.com/the-ranma-1-2-ova-and-movies-collection-preserves-the-past/",
-      "UrlToImage": "https://www.siliconera.com/wp-content/uploads/2023/09/the-ranma-1-2-ova-and-movies-collection-preserves-the-past.jpeg",
-      "PublishedAt": "2023-09-30T19:00:00Z",
-      "Content": "Viz Media often releases these catch up DVDs and Blu-rays. Theyre a way to bring older series back. Think of it as a means of ensuring certain things arent lost to time. Ranma 1/2 Ova and Movies Coll… [+2839 chars]"
     }
   ]
 }
