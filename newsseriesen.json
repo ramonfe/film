@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 126,
+  "TotalResults": 127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Anonymous",
+      "Title": "2023.2.0b11",
+      "Description": "2023.2.0b11\n\n September 27, 2023\n \n unityhub://2023.2.0b11/fbd28bb1e682\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (…",
+      "Url": "https://unity.com/releases/editor/beta/2023.2.0b11",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-03T06:36:01Z",
+      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+225538 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/09/netflix-most-popular-2020-tv1.jpg",
       "PublishedAt": "2023-09-27T14:39:31Z",
       "Content": "Netflix is sharing the full list of movies and television shows that won’t be available to watch for much longer.\r\nIf you don’t know, every month, the streamer removes certain titles from streaming a… [+1136 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Apoorvrastogi",
-      "Title": "Space Force Season 2 Streaming: Watch & Stream via Netflix",
-      "Description": "Space Force Season 2 is a continuation of the Steve Carell-created space-drama series. Released in 2022, the second installment of the workplace comedy show picks up right where the first season left off. After defying the President’s order, General Naird and…",
-      "Url": "https://www.comingsoon.net/guides/news/1350630-space-force-season-2-streaming-watch-stream-via-netflix",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/Space-Force-Season-1.jpg?resize=1200,630",
-      "PublishedAt": "2023-09-27T13:55:10Z",
-      "Content": "Space Force Season 2 is a continuation of the Steve Carell-created space-drama series. Released in 2022, the second installment of the workplace comedy show picks up right where the first season left… [+3119 chars]"
     }
   ]
 }
