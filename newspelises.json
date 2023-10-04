@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 195,
+  "TotalResults": 196,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Los Mercenarios 4: en qué plataforma de streaming y cuándo se estrenará la nueva cinta de acción",
+      "Description": "El cine de acción de los 80 y 90 tiene nombre y apellidos: Arnold Schwarzenegger y Sylvester Stallone. Durante año trajeron cintas rebosantes de testosterona en la que las escenas de acción y los guiones simples eran perfectos para poner el cerebro en automát…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/los-mercenarios-4-en-que-plataforma-de-streaming-y-cuando-se-estrenara-la-nueva-cinta-de-accion",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/10/los-mercenarios-4.png?width=1200",
+      "PublishedAt": "2023-10-03T15:01:29Z",
+      "Content": "La cinta de acción regresa con su cuarta entrega\r\nEl cine de acción de los 80 y 90 tiene nombre y apellidos: Arnold Schwarzenegger y Sylvester Stallone. Durante año trajeron cintas rebosantes de test… [+2965 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/40ae52/depredador-predator-todas-las-peliculas-ranking/840_560.jpeg",
       "PublishedAt": "2023-09-28T19:31:28Z",
       "Content": "Cualquier día es bueno para hablar de nuestras sagas favoritas, los rumores sobre 'Prey 2' o las declaraciones de Shane Black admitiendo que se equivocaron con la última secuela, nos anima a revisar … [+8262 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'The Book of Mormon', , de Broadway a Madrid vía Uganda",
-      "Description": "' The Book of Mormon ' es un musical escrito por Trey Parker, Robert López y Matt Stone , los creadores de la serie de animación 'South Park'. Es una pista del carácter de esta obra, sin duda uno de los grandes fenómenos recientes de Broadway , donde se estre…",
-      "Url": "https://www.abc.es/cultura/teatros/the-book-mormon-broadway-madrid-via-uganda-20230928194605-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/cultura/2023/09/28/Mormon-U34682786685OVD-1024x512@abc.jpg",
-      "PublishedAt": "2023-09-28T17:46:06Z",
-      "Content": "'The Book of Mormon' es un musical escrito por Trey Parker, Robert López y Matt Stone, los creadores de la serie de animación 'South Park'. Es una pista del carácter de esta obra, sin duda uno de los… [+4505 chars]"
     }
   ]
 }
