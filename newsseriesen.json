@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 131,
+  "TotalResults": 132,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vulture"
+      },
+      "Author": "By Maggie Fremont",
+      "Title": "The Morning Show Recap: Trashed",
+      "Description": "For those wondering where Bradley Jackson was on January 6th, this is the episode for you. A recap and review of ‘Love Island,’ episode 5 of season 3, streaming now on Apple TV+.",
+      "Url": "http://www.vulture.com/article/the-morning-show-recap-season-3-episode-5-love-island.html",
+      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/5de/19b/4d712f3354c2fad30f2f63658a349422c4-the-morning-show-episode-5.1x.rsocial.w1200.jpg",
+      "PublishedAt": "2023-10-04T05:00:11Z",
+      "Content": "Hey, The Morning Show, come here. I have something to whisper softly in your ear: No one asked for this. This?! To relive one of the bleakest swathes of time in recent memory? It is the hardest of pa… [+9755 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-09-28T06:33:02Z",
       "Content": "<li>2D: Fixed Shadergraph light texture node to work correctly with prefabs and preview windows.\r\n(UUM-1946)\r\n</li><li>Android: Fixed URP FinalBlit on Adreno 3XX GPUs.\r\n(UUM-41795)First seen in 2023.… [+93644 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "James Whitbrook",
-      "Title": "Castlevania: Nocturne's Opening Explores the Bloody Belmont Legacy",
-      "Description": "Screenshot: Netflix\r\nNetflix’s new Castlevania show, Nocturne, is set hundreds of years after the events of the original series, with a long-line descendant of heroes Trevor Belmont and Sypha Belnades, Richter, headlining the cast. What better way to connect …",
-      "Url": "https://gizmodo.com/castlevania-nocturne-opening-konami-netflix-richter-1850879753",
-      "UrlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/aa59f88c314ba4294ae5c07b439f9870.png",
-      "PublishedAt": "2023-09-27T22:00:00Z",
-      "Content": "Netflixs new Castlevania show, Nocturne, is set hundreds of years after the events of the original series, with a long-line descendant of heroes Trevor Belmont and Sypha Belnades, Richter, headlining… [+1606 chars]"
     }
   ]
 }

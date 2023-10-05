@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 551,
+  "TotalResults": 552,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Rediff.com"
+      },
+      "Author": "ANI",
+      "Title": "Raees Actor Mahira Khan's Wedding Album",
+      "Description": "Pakistan movie star Mahira Khan tied the knot with long-time beau Salim Karim on Sunday, October 1.",
+      "Url": "https://www.rediff.com/movies/report/raees-actor-mahira-khans-wedding-album/20231004.htm",
+      "UrlToImage": "https://im.rediff.com/movies/2023/oct/03mahirahkhan1.jpg",
+      "PublishedAt": "2023-10-04T05:19:26Z",
+      "Content": "Photograph: Kind courtesy Mahira Khan/Instagram\r\nPakistan movie star Mahira Khan tied the knot with long-time beau Salim Karim on Sunday, October 1.\r\nOn Tuesday, October 3, the Raees actor shared the… [+1039 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
       "PublishedAt": "2023-10-02T14:40:00Z",
       "Content": "The Oscar-winning actor took to his Instagram on Sunday to give his fans a heads-up that anything they may see about him online linked to a dental plan was not actually him. \"BEWARE!! There's a video… [+1167 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Mikael Thalen",
-      "Title": "Deepfake of Tom Hanks endorsing dental plan sparks warning from the actor",
-      "Description": "Hollywood actor Tom Hanks has urged his fans not to fall for a deepfake video that purports to show him endorsing a dental plan.\n\n\nIn a post on Instagram, Hanks shared a screenshot from the AI-generated video that alerted his more than 9.5 million followers o…",
-      "Url": "https://www.dailydot.com/debug/tom-hanks-deepfake-dental-plan-ad/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/10/hanks.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2023-10-02T14:22:45Z",
-      "Content": "Hollywood actor Tom Hanks has urged his fans not to fall for a deepfake video that purports to show him endorsing a dental plan.\r\nIn a post on Instagram, Hanks shared a screenshot from the AI-generat… [+2046 chars]"
     }
   ]
 }
