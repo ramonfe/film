@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 550,
+  "TotalResults": 551,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Hero Fiennes Tiffin Thanks Josephine Langford, Anna Todd & More As 'After' Film Series Comes to an End",
+      "Description": "Hero Fiennes Tiffin is saying goodbye to the After movie franchise! The 25-year-old actor has starred as Hardin Scott in all five films, which were based on the best-selling, fan-favorite book series by Anna Todd. After Everything, the final film in the franc…",
+      "Url": "https://www.justjared.com/2023/10/03/hero-fiennes-tiffin-thanks-josephine-langford-anna-todd-more-as-after-film-series-comes-to-an-end/",
+      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/10/hero-thanks.jpg",
+      "PublishedAt": "2023-10-04T00:58:53Z",
+      "Content": "Hero Fiennes Tiffin is saying goodbye to the After movie franchise!\r\nThe 25-year-old actor has starred as Hardin Scott in all five films, which were based on the best-selling, fan-favorite book serie… [+1160 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2023/10/hanks.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2023-10-02T14:22:45Z",
       "Content": "Hollywood actor Tom Hanks has urged his fans not to fall for a deepfake video that purports to show him endorsing a dental plan.\r\nIn a post on Instagram, Hanks shared a screenshot from the AI-generat… [+2046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cisa.gov"
-      },
-      "Author": "CISA",
-      "Title": "Vulnerability Summary for the Week of September 25, 2023",
-      "Description": "High Vulnerabilities\n\n<table><tr><th>Primary\nVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source & Patch Info</th>\n</tr>\r\n<tr><td>accusoft -- imagegear</td>\n<td>An out-of-bounds write vulnerability exists in the tiff_…",
-      "Url": "https://www.cisa.gov/news-events/bulletins/sb23-275",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-02T11:30:10Z",
-      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1127 chars]"
     }
   ]
 }
