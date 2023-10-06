@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 770,
+  "TotalResults": 771,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eurogamer.es"
+      },
+      "Author": "Josep Maria Sempere",
+      "Title": "Tráiler de la nueva serie de televisión de imagen real de Pokémon",
+      "Description": "TV Tokyo ha publicado el primer tráiler de la serie de imagen real de Pokémon, titulada Pokétsume (la traducción literal sería Pack Your Pocket With Adventure).\n\nPokétsume ha sido producida en colaboración con The Pokémon Company, y tiene como protagonista a …",
+      "Url": "https://www.eurogamer.es/trailer-de-la-nueva-serie-de-television-de-imagen-real-de-pokemon",
+      "UrlToImage": "https://assetsio.reedpopcdn.com/poketsume-Madoka_Akagi.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "PublishedAt": "2023-10-05T20:02:36Z",
+      "Content": "TV Tokyo ha publicado el primer tráiler de la serie de imagen real de Pokémon, titulada Pokétsume (la traducción literal sería Pack Your Pocket With Adventure).\r\nPokétsume ha sido producida en colabo… [+1403 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/cultura/2023/10/04/SPACEY-k7SC--1024x512@abc.jpg",
       "PublishedAt": "2023-10-04T16:55:16Z",
       "Content": "Kevin Spacey ha sido trasladado de urgencia al hospital por un posible ataque cardíaco después de que se le entumeciera el brazo. El actor notó los síntomas durante el 15º Festival Internacional de C… [+506 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Pedro Gallego",
-      "Title": "Víctor Erice reivindica la mística de la imagen con 'Cerrar los ojos', un viaje a través de los recuerdos y el celuloide cuyo pecado es no ser una obra maestra",
-      "Description": "Comentar arte en todas sus extensiones a veces tiene un componente de dejar el puzzle medianamente hecho. No del todo, porque tampoco hay que revelarle todo al público. Pero sí que es cierto que la crítica cultural, en su papel de acercar a autor y espectador…",
-      "Url": "https://www.espinof.com/criticas/victor-erice-reivindica-mistica-imagen-cerrar-ojos-viaje-a-traves-recuerdos-celuloide-cuyo-pecado-no-ser-obra-maestra",
-      "UrlToImage": "https://i.blogs.es/09d44f/cerrar-los-ojos-2023-victor-erice/840_560.jpeg",
-      "PublishedAt": "2023-10-04T16:01:59Z",
-      "Content": "Comentar arte en todas sus extensiones a veces tiene un componente de dejar el puzzle medianamente hecho. No del todo, porque tampoco hay que revelarle todo al público. Pero sí que es cierto que la c… [+5266 chars]"
     }
   ]
 }
