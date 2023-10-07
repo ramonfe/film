@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1126,
+  "TotalResults": 1127,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "John Tones",
+      "Title": "Las peores películas de superhéroes Marvel que he visto",
+      "Description": "Ya. Sabemos que el momento en el que llega al streaming una serie de Marvel que casi todo el mundo coincide en que es notable, como el caso de 'Loki' (que acaba de estrenar su temporada 2), no es el mejor momento para venir con la bajona. Pero qué demonios: a…",
+      "Url": "https://www.espinof.com/listas/peores-peliculas-superheroes-marvel-que-he-visto",
+      "UrlToImage": "https://i.blogs.es/9e5ffb/marvel-peores-peliculas-comics/840_560.jpeg",
+      "PublishedAt": "2023-10-06T20:42:08Z",
+      "Content": "Ya. Sabemos que el momento en el que llega al streaming una serie de Marvel que casi todo el mundo coincide en que es notable, como el caso de 'Loki' (que acaba de estrenar su temporada 2), no es el … [+1951 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/506834/loki-temporada-2/840_560.jpeg",
       "PublishedAt": "2023-10-06T09:40:41Z",
       "Content": "Desde el estreno de 'Bruja Escarlata y Visión' en enero de 2021, Marvel ha lanzado varias series de televisión, pero hasta ahora ninguna había pasado aún de su primera entrega. Eso acaba de cambiar c… [+3393 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Tu serie favorita en Netflix acaba de batir un récord muy importante que podría cambiar su futuro",
-      "Description": "Tal vez la vieras en su momento, tal vez la hayas descubierto hace poco, pero seguro que se convirtió en tu serie favorita en Netflix como le ha ocurrido a millones de espectadores en Estados Unidos que llevan semanas reproduciéndola sin parar. Tanto es así q…",
-      "Url": "https://www.revistagq.com/articulo/serie-favorita-netflix-suits-record-streaming",
-      "UrlToImage": "https://media.revistagq.com/photos/651fd0c08bdb7faece6bca58/16:9/w_1280,c_limit/serie-favorita-en-netflix-suits.jpeg",
-      "PublishedAt": "2023-10-06T09:19:35Z",
-      "Content": "Tal vez la vieras en su momento, tal vez la hayas descubierto hace poco, pero seguro que se convirtió en tu serie favorita en Netflix como le ha ocurrido a millones de espectadores en Estados Unidos … [+2011 chars]"
     }
   ]
 }
