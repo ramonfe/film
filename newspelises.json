@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 193,
+  "TotalResults": 194,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Netflix confirma la fecha de estreno de una de las películas más esperadas del año: está basada en una historia real",
+      "Description": "El pasado 9 de septiembre se estrenaba oficialmente en la clausura del Festival de Venecia el nuevo trabajo de Juan Antonio Bayona, 'La sociedad de la nieve' . Esa fue la primera vez que el mundo veía cómo el director de 'Lo imposible' llevaba a la gran panta…",
+      "Url": "https://www.abc.es/play/cine/netflix-confirma-fecha-estreno-peliculas-esperadas-ano-20231006172558-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/10/06/soceidad-nieve-netflix-kNiG--1024x512@abc.jpg",
+      "PublishedAt": "2023-10-06T15:25:59Z",
+      "Content": "El pasado 9 de septiembre se estrenaba oficialmente en la clausura del Festival de Venecia el nuevo trabajo de Juan Antonio Bayona, 'La sociedad de la nieve'. Esa fue la primera vez que el mundo veía… [+3180 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/801811b2-53aa-490e-97a4-d6f6078d22ab_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-10-02T07:21:00Z",
       "Content": "La Fiesta del Cine vuelve por segunda vez este 2023 para impulsar y fomentar la asistencia a las salas de cine. Desde este lunes 2 de octubre hasta el jueves día 5 se podrán ver todas las películas e… [+1207 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elseptimoarte.net"
-      },
-      "Author": "wanchope",
-      "Title": "La superpelícula de la Patrulla Canina se impone a la superpelícula de Jigsaw",
-      "Description": "Los niños le han ganado la mano a los adultos. 'La Patrulla Canina: La superpelícula' se impone a 'Saw X' en la lucha por el primer puesto de la taquilla norteamericana. La cinta de animación ha recaudado 23 millones (siempre) de dólares, diez millones más de…",
-      "Url": "https://www.elseptimoarte.net/noticias/ranking-de-taquilla/la-superpelicula-de-la-patrulla-canina-se-impone-a-la-superpelicula-de-jigsaw--46254.html",
-      "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/123938.jpg",
-      "PublishedAt": "2023-10-01T20:12:00Z",
-      "Content": "Los niños le han ganado la mano a los adultos. 'La Patrulla Canina: La superpelícula' se impone a 'Saw X' en la lucha por el primer puesto de la taquilla norteamericana. La cinta de animación ha reca… [+1980 chars]"
     }
   ]
 }

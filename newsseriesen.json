@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 143,
+  "TotalResults": 144,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "October Prime Day 2023: The best early deals you can shop now",
+      "Description": "We're getting close to the start of Prime Big Deal Days, Amazon's second site-wide sale of 2023. While the October Prime sale doesn't officially happen until October 10 and 11, there are already plenty of early deals to be found. For some of them, you'll need…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171963949",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-06T15:52:32Z",
+      "Content": "We're getting close to the start of Prime Big Deal Days, Amazon's second site-wide sale of 2023. While the October Prime sale doesn't officially happen until October 10 and 11, there are already plen… [+15336 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/9aac4fd00bd7a179/s.webp",
       "PublishedAt": "2023-10-01T18:02:06Z",
       "Content": "Even with Netflixs recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming services firehose of content makes whats comi… [+307 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Independent.ie"
-      },
-      "Author": "Paul Whitington and Sheena McGinley",
-      "Title": "What to watch on TV, Netflix, Apple TV+, Prime and Disney+ today: Baz Ashmawy’s new quiz show, season two of Murdaugh Murders and Emily Blunt in A Quiet Place",
-      "Description": "Planning a night on the couch? Here are the top picks for today’s TV and streaming options.",
-      "Url": "https://www.independent.ie/entertainment/television/what-to-watch-on-tv-netflix-apple-tv-prime-and-disney-today-baz-ashmawys-new-quiz-show-season-two-of-murdaugh-murders-and-emily-blunt-in-a-quiet-place/a1431665671.html",
-      "UrlToImage": "https://focus.independent.ie/thumbor/xpuABtHqRYuZE3GpTDk3cgau47I=/0x0:1536x1024/1536x1024/prod-mh-ireland/4138e664-324d-428f-9a2c-15917eeb0f57/16a072a8-4d22-4425-af69-b5e27eb42364/4138e664-324d-428f-9a2c-15917eeb0f57.jpg",
-      "PublishedAt": "2023-09-30T23:00:00Z",
-      "Content": "Planning a night on the couch? Here are the top picks for todays TV and streaming options.The Money ListRTÉ One, 8pm Baz Ashmawy hosts this new Sunday-night quiz in which two teams of strangers are c… [+3609 chars]"
     }
   ]
 }
