@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 621,
+  "TotalResults": 622,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "YURI KAGEYAMA Associated Press",
+      "Title": "Japan auteur Yamada sticks to exploring the human condition after 90 films",
+      "Description": "Yoji Yamada has directed 90 films, including “Tora-san,” which tops the Guinness World Records for the longest-running movie series starring the same actor",
+      "Url": "https://abcnews.go.com/International/wireStory/japan-auteur-yamada-sticks-exploring-human-condition-after-103803408",
+      "UrlToImage": "https://i.abcnewsfe.com/a/d276a997-26fb-49d4-8479-0912c4d84171/wirestory_502f11bb7f0e968d74969bc2314775d3_16x9.jpg?w=992",
+      "PublishedAt": "2023-10-07T08:06:10Z",
+      "Content": "TOKYO -- Yoji Yamada has directed 90 films, including Tora-san, which tops the Guinness World Records for the longest-running movie series starring the same actor. In each of the 48 installments, beg… [+4593 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Anna-Kendrick-Pitch-Perfect.jpg?resize=1200,630",
       "PublishedAt": "2023-10-06T07:53:04Z",
       "Content": "Anna Kendrick is an American actress, most famous for her roles in many critically acclaimed and commercially successful movies and series, including Up in the Air (2009) and the Pitch Perfect franch… [+2692 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Netizens praise Suhana Khan's real accent",
-      "Description": "Suhana Khan, daughter of Bollywood actor Shah Rukh Khan, is gaining popularity even before her film debut. In a recent event, she discussed her upcoming movie and her role in it. The video of her interview has gone viral, receiving praise from netizens. Fans …",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/netizens-praise-the-archies-star-suhana-khan-for-her-real-accent-say-no-wonder-she-is-srks-daughter/articleshow/104208653.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-104208653,width-1070,height-580,imgsize-51240,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2023-10-06T07:43:23Z",
-      "Content": "Suhana Khan says parents Shah Rukh Khan and Gauri Khan are her 'biggest source of guidance'Suhana Khan, the actor in the film \"The Archies,\" spoke about her parents, Shah Rukh Khan and Gauri Khan, be… [+183 chars]"
     }
   ]
 }
