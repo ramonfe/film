@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1132,
+  "TotalResults": 1133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Daniel G. Sastre",
+      "Title": "Victoria Beckham: creada por los ricos, robada por los pobres",
+      "Description": "Las seis sedes de la Copa del Mundo de 2030, la serie de Netflix sobre el matrimonio Beckham y la cumbre europea de Granada centran el interés en las redes",
+      "Url": "https://www.elperiodico.com/es/extra/20231007/victoria-beckham-creada-ricos-robada-pobres-93030464",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/a83fe2f4-26c0-4a88-9e75-e00cf7a2c0bc_21-9-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-10-07T06:01:04Z",
+      "Content": "La escena lleva unos días dando la vuelta al mundo. Se acaba de estrenar la serie 'Beckham', que consta de cuatro capítulos sobre la vida del conocido exfutbolista. Enseguida se ha colocado entre los… [+1449 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/4f2f1c2c-03c2-45ff-a389-aa2307cfb21f_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-10-06T11:21:27Z",
       "Content": "Amazon Prime Video ha publicado un nuevo tráiler y el póster oficial de Romancero, su nueva serie española. Los materiales han sido desvelados durante la rueda de prensa celebrada en el Festival de c… [+1563 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Elena Sánchez-Beato",
-      "Title": "Sabemos la nueva serie por la que Onur Seyit ha dicho adiós a 'Hermanos'",
-      "Description": "Los fanáticos de 'Hermanos' se quedaron atónitos cuando conocieron la noticia de que Onur Seyit, uno de los protagonistas más activos de la ficción turca, diría adiós para siempre a la serie al acabar el primer capítulo de la cuarta temporada con un trágico f…",
-      "Url": "https://www.trendencias.com/telenovelas/sabemos-nueva-serie-que-onur-seyit-ha-dicho-adios-a-hermanos",
-      "UrlToImage": "https://i.blogs.es/c37d03/doruk-hermanos-1-/840_560.jpeg",
-      "PublishedAt": "2023-10-06T11:16:34Z",
-      "Content": "Los fanáticos de 'Hermanos' se quedaron atónitos cuando conocieron la noticia de que Onur Seyit, uno de los protagonistas más activos de la ficción turca, diría adiós para siempre a la serie al acaba… [+2111 chars]"
     }
   ]
 }
