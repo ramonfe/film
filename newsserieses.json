@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1056,
+  "TotalResults": 1057,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Clarín"
+      },
+      "Author": "Clarín.com",
+      "Title": "Netflix: ¿Lupin está basada en una historia real?",
+      "Description": "La nueva temporada de la serie dominó las tendencias el fin de semana.La parte 3 tiene 7 episodios.",
+      "Url": "https://www.clarin.com/internacional/netflix-lupin-basada-historia-real_0_lu18dJj6tU.html",
+      "UrlToImage": "https://www.clarin.com/img/2023/10/08/qVMmCkt4l_1256x620__1.jpg",
+      "PublishedAt": "2023-10-08T21:20:50Z",
+      "Content": "Netflix estrenó la tercera parte de Lupin y la serie no tardó casi nada en ubicarse número 1 entre las tendencias del fin de semana.\r\nLa ficción de George Kay y François Uzán, de 7 episodios, vuelve … [+2829 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/e319bd/halloween-en-apple/840_560.jpeg",
       "PublishedAt": "2023-10-07T11:00:47Z",
       "Content": "Calabazas, murciélagos y esqueletos. Llega el mes spooky, el octubre de Halloween. Los cinéfilos afilan sus listas de películas más aterradoras. Los bibliófilos recomiendan lecturas de clásicos como … [+6589 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Alberto García",
-      "Title": "Los cascos más icónicos de Star Wars bajan de precio con las nuevas ofertas de Amazon y El Corte Inglés",
-      "Description": "Si hablamos de 'Star Wars' podemos decir que las espadas láser son los accesorios más icónicos de toda la saga, pero también lo son los cascos. Estos últimos se han utilizado desde el 'Episodio IV: Una nueva esperanza' hasta el día de hoy, encontrando a difer…",
-      "Url": "https://www.espinof.com/seleccion/cascos-iconicos-star-wars-bajan-precio-nuevas-ofertas-amazon-corte-ingles",
-      "UrlToImage": "https://i.blogs.es/d0a4dc/obi-wan-kenobi/840_560.jpeg",
-      "PublishedAt": "2023-10-07T10:00:48Z",
-      "Content": "Si hablamos de 'Star Wars' podemos decir que las espadas láser son los accesorios más icónicos de toda la saga, pero también lo son los cascos. Estos últimos se han utilizado desde el 'Episodio IV: U… [+4567 chars]"
     }
   ]
 }
