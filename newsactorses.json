@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 716,
+  "TotalResults": 717,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Los Angeles Times"
+      },
+      "Author": "Tommy Calle",
+      "Title": "A William Levy le dijeron 'Vuelve a mi' y ahora está de regreso con una desgarradora historia y en buena compañía",
+      "Description": "El actor cubano comparte créditos con Samadhi Zendejas en una cruda serie que parte con el secuestro de un niño, el dolor de una madre y el apoyo de un hombre que busca justicia",
+      "Url": "https://www.latimes.com/espanol/entretenimiento/articulo/2023-10-08/a-william-levy-le-dijeron-vuelve-a-mi-y-ahora-esta-de-regreso-con-una-desgarradora-historia",
+      "UrlToImage": "https://ca-times.brightspotcdn.com/dims4/default/f3db646/2147483647/strip/true/crop/3012x1581+0+205/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F69%2F53731c574705aea3ee8cef54e8f8%2Fsamadhi-zendejas-william-levy-2-bts-vuelve-a-mi.jpg",
+      "PublishedAt": "2023-10-08T20:10:16Z",
+      "Content": "SERIE  Antes de comenzar su carrera como actor de telenovelas, series y películas cinematográficas, el cubano William Levy se dio a conocer como uno de los participantes en el reality Protagonistas d… [+14334 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/2d6c0f7f-5869-4ec9-952a-d9e74a30ad68_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-10-06T20:08:29Z",
       "Content": "Rodeado de su grupo 'New Orleans Jazz Band', el neoyorquino Woody Allen arrancaba los primeros sonidos de su clarinete ante más de diez mil personas que le ovacionaban en el Centro Cultural Internaci… [+19486 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Publico.es"
-      },
-      "Author": "Europa Press",
-      "Title": "Muere a los 82 años el actor Francisco Vidal, quien dio vida al cura Marcelino de la serie 'Crónicas de un pueblo'",
-      "Description": "El mundo del cine y del teatro español se despide del icónico actor de cine y de teatro en las redes sociales.",
-      "Url": "https://www.publico.es/culturas/muere-82-anos-actor-francisco-vidal-dio-vida-cura-marcelino-serie-cronicas-pueblo.html",
-      "UrlToImage": "https://www.publico.es/uploads/2023/10/06/652056b3aeda6.jpeg",
-      "PublishedAt": "2023-10-06T18:51:00Z",
-      "Content": "El actor Francisco Vidal, quien dio vida al cura Marcelino de la serie Crónicas de un pueblo y que en los últimos años tuvo papeles en producciones como El secreto de Puente Viejo o La señora, ha fal… [+1039 chars]"
     }
   ]
 }
