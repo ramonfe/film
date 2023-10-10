@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 190,
+  "TotalResults": 191,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Marcos Méndez, Lorenzo Ayuso",
+      "Title": "José Coronado retoma 'Entrevías': \"No soy James Dean o un animal al que quiere la cámara, sino un obrero del oficio\"",
+      "Description": "Telecinco retoma este martes su exitosa serie Entrevías con el estreno de su tercera temporada. Convertida en referente de la ficción televisiva en abierto, vuelve a elevar a José Coronado en una fusión que ya triunfó con El Príncipe (2014-2016) y con Vivir s…",
+      "Url": "https://www.eldiario.es/vertele/entrevistas/jose-coronado-entrevias-telecinco-no-soy-james-dean-animal-quiere-camara-obrero-oficio_1_10582838.html",
+      "UrlToImage": "https://static.eldiario.es/clip/35b14cbe-7907-4def-a9fd-25806c40f602_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-10-09T18:45:08Z",
+      "Content": "Telecinco retoma este martes su exitosa serie Entrevías con el estreno de su tercera temporada. Convertida en referente de la ficción televisiva en abierto, vuelve a elevar a José Coronado en una fus… [+14872 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/651ea7082b447b8d1ebb9529/16:9/w_1280,c_limit/Lady-gaga-harley-quinn.jpg",
       "PublishedAt": "2023-10-05T14:00:47Z",
       "Content": "Joker: Folie à Deux, secuela de la película protagonizada por Joaquin Phoenix en la que el director Todd Phillips revisitaba El rey de la comedia, de 1992, era un proyecto inevitable desde que la pri… [+2415 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Regresa la saga más taquillera del cine español con 'Ocho apellidos marroquís'",
-      "Description": "Casi 10 años después del estreno de 'Ocho apellidos vascos' , la saga de mayor éxito de la historia del cine español regresa con una nueva entrega que llegará a los cines el próximo 1 de diciembre de 2023 . Con sus precursoras ocupando la primera y tercera po…",
-      "Url": "https://www.abc.es/play/cine/noticias/ocho-apellidos-marroquis-regreso-saga-taquillera-cine-20231005133849-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/10/05/ocho-apellidos-marroquis-U84581774232JAo-1024x512@abc.jpg",
-      "PublishedAt": "2023-10-05T12:52:41Z",
-      "Content": "Casi 10 años después del estreno de 'Ocho apellidos vascos', la saga de mayor éxito de la historia del cine español regresa con una nueva entrega que llegará a los cines el próximo 1 de diciembre de … [+1965 chars]"
     }
   ]
 }
