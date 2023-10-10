@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 143,
+  "TotalResults": 144,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Vansh Mehra",
+      "Title": "Lupin: Is It Dubbed in English & Who Is the Voice Actor?",
+      "Description": "Views of Lupin have a few questions about the language characters speak and whether the Netflix TV show is dubbed in English and, if so, who the voice actor is. Here’s what you need to know about the Lupin dub. Is Lupin dubbed in English? Yes, all seasons of …",
+      "Url": "https://www.comingsoon.net/guides/news/1360996-lupin-language-is-it-dubbed-in-english-who-is-the-voice-actor",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Is-Lupin-dubbed-in-English.jpg?resize=1200,630",
+      "PublishedAt": "2023-10-09T13:42:04Z",
+      "Content": "Views of Lupin have a few questions about the language characters speak and whether the Netflix TV show is dubbed in English and, if so, who the voice actor is. Heres what you need to know about the … [+2284 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Kiff-Season-1-Episodes-41-42-Release-Date-Time.jpg?resize=1200,630",
       "PublishedAt": "2023-10-05T04:52:06Z",
       "Content": "The Kiff Season 1 Episodes 41 &amp; 42release date and time have been revealed. The episode will air on Disney Plus. Episode 41, titled You Cant Handle the Tooth! will show Kiff swamped with work. Ho… [+1766 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.3.0a8",
-      "Description": "2023.3.0a8\n\n October 5, 2023\n \n unityhub://2023.3.0a8/aef773e5a80b\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2CP…",
-      "Url": "https://unity.com/releases/editor/alpha/2023.3.0a8",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-05T04:37:32Z",
-      "Content": "<li>2D: Fixed an issue where a GameObject instantiated by a Tile is recreated on the player when the user refreshes the Tile without changing the Tile.\r\n(UUM-45589)\r\n</li><li>2D: Fixed an issue where… [+82172 chars]"
     }
   ]
 }
