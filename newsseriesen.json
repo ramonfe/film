@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 150,
+  "TotalResults": 151,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "Caroline Bologna",
+      "Title": "This Cult Period Rom-Com Is A Top Show On Max Right Now",
+      "Description": "Two celebrity docuseries and a superhero show are also trending on streaming services like Netflix, Apple TV+, Hulu and Prime Video.",
+      "Url": "https://www.huffpost.com/entry/our-flag-means-death-popular-shows_l_65232bfae4b0102e69623cd4",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/65244f842400005400322092.jpg?cache=SHQaXqlaI2&ops=1200_630",
+      "PublishedAt": "2023-10-10T13:41:41Z",
+      "Content": "Our Flag Means Death is currently one of the most popular shows on Max, according to the streaming services public ranking system.\r\nThis period rom-com is loosely based on the life of Stede Bonnet, a… [+2931 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Collage-Maker-06-Oct-2023-06-58-PM-1501.jpg?resize=1200,630",
       "PublishedAt": "2023-10-06T13:30:25Z",
       "Content": "Forgetting Sarah Marshallis a 2008 American romantic comedy that follows Peter Bretter, a music composer for a TV show starring his girlfriend, Sarah Marshall, in the lead role. After a five-year rel… [+2456 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "The Morning After: Sony offers 100 free movies to its PlayStation Plus Premium subscribers",
-      "Description": "Sony has released its own movie streaming app for PlayStation 4 and PlayStation 5. There’s a decent perk for subscribers of PlayStation Plus Premium: Members get access to a library of up to 100 ad-free Sony Pictures films at no extra cost.\n Sony \nSony says t…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=171962695",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-06T11:33:22Z",
-      "Content": "Sony has released its own movie streaming app for PlayStation 4 and PlayStation 5. There’s a decent perk for subscribers of PlayStation Plus Premium: Members get access to a library of up to 100 ad-f… [+4068 chars]"
     }
   ]
 }
