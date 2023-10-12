@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1452,
+  "TotalResults": 1442,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Mobileread.com"
+      },
+      "Author": "mkgtu",
+      "Title": "New York Magazine fails",
+      "Description": "Code:\n---------\ncalibre, version 6.28.1 (win32, embedded-python: True)\nConversion error: Failed: Fetch news from New York Magazine\n\nFetch news from New York Magazine\nConversion options changed from defaults:\n output_profile: 'generic_eink_hd'\n verbose: 2\nReso…",
+      "Url": "https://www.mobileread.com/forums/showthread.php?s=e12b217eaf3c40b73ce496dfc0c56f6f&p=4362589#post4362589",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-11T00:10:28Z",
+      "Content": "<table><tr><td>\r\nToday, 08:10 PM\r\n</td><td>\r\n \r\n#1</td></tr><tr><td>\r\n Device: Currently:Voyage, Oasis 3, Kindle mobile apps, andKindle Fire\r\n</td><td>\r\ncalibre, version 6.28.1 (win32, embedded-pytho… [+20101 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Inside the Magic"
+      },
+      "Author": "Amanda Landwehr",
+      "Title": "As Disney Scraps Marvel’s Movie Slate, ‘Deadpool 3’ Reportedly a “Top Priority”",
+      "Description": "With Disney constantly reshuffling Marvel’s release slate, it only makes sense that the struggling superhero studio would have to prioritize some projects over others. And according to a new report, Ryan Reynolds’ Deadpool threequel will take precedence over …",
+      "Url": "https://insidethemagic.net/2023/10/as-disney-scraps-marvel-movie-deadpool-3-reportedly-a-top-priority-aml1/",
+      "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2023/10/Untitled-1200-×-600-px-94.jpg",
+      "PublishedAt": "2023-10-11T00:02:53Z",
+      "Content": "With Disney constantly reshuffling Marvel’s release slate, it only makes sense that the struggling superhero studio would have to prioritize some projects over others. And according to a new report, … [+4907 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Collage-Maker-10-Oct-2023-06-32-PM-766.jpg?resize=1200,630",
       "PublishedAt": "2023-10-10T13:04:46Z",
       "Content": "The Kardashians Season 4 Episode 4 release date and time have been revealed. The episode will air on Hulu and Disney Plus (internationally). Titled London Here We Come, it follows Kim as she heads to… [+1822 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MarketWatch"
-      },
-      "Author": "James Rogers",
-      "Title": ": Imax’s China privatization proposal fails to reach shareholder threshold",
-      "Description": "Imax Corp.’s IMAX proposal to acquire Imax China’s outstanding 96.3 million shares will not proceed following a vote by the company’s China shareholders, the high-end movie theater operator announced Tuesday. “Even though our proposal received the vast majori…",
-      "Url": "https://www.marketwatch.com/story/imaxs-china-privatization-proposal-fails-to-reach-shareholder-threshold-8876e18b",
-      "UrlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-      "PublishedAt": "2023-10-10T12:55:36Z",
-      "Content": "Imax Corp.s \r\n IMAX,\r\n -1.87%\r\nproposal to acquire Imax Chinas outstanding 96.3 million shares will not proceed following a vote by the companys China shareholders, the high-end movie theater operato… [+352 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Devanshi Basu",
-      "Title": "When Is Tiger 3 Trailer Coming Out? Katrina Kaif’s Fighting Fire in Character Poster",
-      "Description": "The excitement in the air is palpable as the much-anticipated third installment of the Tiger franchise, Tiger 3 is gearing up for its release during Diwali 2023. With every passing day, the buzz surrounding the movie is growing stronger, all credit to the rel…",
-      "Url": "https://www.comingsoon.net/indian/news/1362217-when-is-tiger-3-trailer-coming-out-katrina-kaifs-fighting-fire-in-character-poster",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Untitled-design-11-1.png?resize=1200,630",
-      "PublishedAt": "2023-10-10T12:29:03Z",
-      "Content": "The excitement in the air is palpable as the much-anticipated third installment of the Tiger franchise, Tiger 3 is gearing up for its release during Diwali 2023. With every passing day, the buzz surr… [+1234 chars]"
     }
   ]
 }
