@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 755,
+  "TotalResults": 756,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Cynthia Caccia",
+      "Title": "En fotos: del llamativo look de Taylor Swift a una Angelina Jolie irreconocible",
+      "Description": "Mientras que la cantante presentó su documental en el cine, del otro lado del océano se conocieron las primeras imágenes de la actriz en la piel de María Callas; además Luis Miguel hizo vibrar a su público en Miami",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/en-fotos-del-llamativo-look-de-taylor-swift-a-una-angelina-jolie-irreconocible-nid12102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/antes-de-su-llegada-a-sudamerica-taylor-swift-6LDRK6QSBRCEFP2D4VNKIIIYKA.JPG?auth=05a3bc26ccac886edc1780deadcc6b0ba19e6e921499fdf22cd5e345818c8ff6&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-12T16:19:05Z",
+      "Content": "Después de arrasar con su gira por todo Estados Unidos y México y mientras se prepara para desembarcar en Sudamérica, Taylor Swift\r\npresentó su concierto hecho película en Los Ángeles. La avant premi… [+2849 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/3d7021/wp11044483/840_560.jpeg",
       "PublishedAt": "2023-10-11T14:56:16Z",
       "Content": "La buena película de terror es la que sabe crear tensión, la que provoca que te lleves las manos a la cara para dejar una rendija entre los dedos por la que mirar cuál va a ser el fatal desenlace. Si… [+2405 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Europapress.es"
-      },
-      "Author": null,
-      "Title": "Berto Romero cambia de registro con una mezcla de terror y comedia en la serie 'El otro lado'",
-      "Description": "El actor, guionista y cómico Berto Romero cambia de registro con la serie 'El otro lado' (Movistar+), en la que lleva \"hasta las últimas consecuencias\" la mezcla de terror paranormal y comedia y que cuenta en su reparto con Andreu Buenafuente, Maria Botto, Ev…",
-      "Url": "https://www.europapress.es/catalunya/noticia-berto-romero-cambia-registro-mezcla-terror-comedia-serie-otro-lado-20231011163008.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231011163008_1200.jpg",
-      "PublishedAt": "2023-10-11T14:30:08Z",
-      "Content": "SITGES (BARCELONA), 11 Oct. (EUROPA PRESS) - \r\n El actor, guionista y cómico Berto Romero cambia de registro con la serie 'El otro lado' (Movistar+), en la que lleva \"hasta las últimas consecuencias\"… [+1792 chars]"
     }
   ]
 }
