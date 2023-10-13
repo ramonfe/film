@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 762,
+  "TotalResults": 763,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Bruce Willis “no lee ni habla, ve la vida como detrás de un mosquitero y ya no tiene alegría de vivir”, aseguró un amigo del actor",
+      "Description": "Glenn Gordon Caron, creador de Luz de luna, la serie que lanzó a la fama al protagonista de Duro de matar, reveló que lo visita todos los meses y dio detalles sobre el estado en el que se encuentra el actor",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/bruce-willis-no-lee-ni-habla-ve-la-vida-como-detras-de-un-mosquitero-y-ya-no-tiene-alegria-de-vivir-nid12102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/bruce-willis-no-lee-ni-habla-ve-la-vida-como-IJVMPNVCMJATFFQU4O6LVVJEYQ.JPG?auth=a4eaadc98e589ee3c84a1e972f2b4c6db3630ec83bd161f73b7e1defa8c67182&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-10-12T20:33:09Z",
+      "Content": "Sin dudas, Luz de luna marcó un antes y un después en la carrera de Bruce Willis. La comedia romántica en la que compartía cartel con la ya experimentada Cybill Shepherd fue concebida para competir c… [+4022 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/09/28/eduardo-verastegui-conferencia-politica-accion.jpg",
       "PublishedAt": "2023-10-11T16:43:26Z",
       "Content": "Eduardo Verástegui acaparó reflectores en su registro como aspirante a la candidatura independiente presidencial, pero el estrellato no duró mucho. Bastó de un par de días para que cayera en una mese… [+3468 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Jada Pinkett revela que ella y Will Smith están separados desde 2016",
-      "Description": "Jada Pinkett y Will Smith han formado siempre una de las parejas más populares de Hollywood . Pese a sus más y sus menos y sus idas y venidas -la actriz confesó que nunca quiso haberse casado con él- eran un ejemplo de familia amplia y unida... aunque, según …",
-      "Url": "https://www.abc.es/gente/jada-pinkett-revela-will-smith-separados-2016-20231011183725-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2023/10/11/smith-pinkett-k67E--1024x512@abc.jpg",
-      "PublishedAt": "2023-10-11T16:37:26Z",
-      "Content": "Jada Pinkett y Will Smith han formado siempre una de las parejas más populares de Hollywood. Pese a sus más y sus menos y sus idas y venidas -la actriz confesó que nunca quiso haberse casado con él- … [+2349 chars]"
     }
   ]
 }

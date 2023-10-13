@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 203,
+  "TotalResults": 204,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Laura García Higueras",
+      "Title": "A Taylor Swift ya no le bastan los estadios, quiere llenar los cines (y su bolsillo)",
+      "Description": "Al tiempo que agota las entradas de todos los conciertos de su gira, Taylor Swift se ha propuesto un nuevo asalto, llenar las salas de cine. La cantante, que continúa viajando por el mundo con su espectáculo, añade a partir de este viernes 13 de octubre un nu…",
+      "Url": "https://www.eldiario.es/cultura/cine/taylor-swift-no-le-bastan-estadios-quiere-llenar-cines-bolsillo_1_10590499.html",
+      "UrlToImage": "https://static.eldiario.es/clip/2bf9e7dc-8942-40b4-bd3b-8d751745dc3a_facebook-watermarked-aspect-ratio_default_0_x1494y645.jpg",
+      "PublishedAt": "2023-10-12T20:02:49Z",
+      "Content": "Al tiempo que agota las entradas de todos los conciertos de su gira, Taylor Swift se ha propuesto un nuevo asalto, llenar las salas de cine. La cantante, que continúa viajando por el mundo con su esp… [+471 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/6523ebe382bd62b35cd7cb81/16:9/w_1280,c_limit/sangrientos-dieciseis-prime-video.jpeg",
       "PublishedAt": "2023-10-09T12:10:09Z",
       "Content": "En las últimas semanas hemos tenido unos más que interesantes estrenos de terror, pero sin duda,** Sangrientos Dieciséis** de Prime Video es la que más aplausos se está llevando. Tal vez te haya pasa… [+1812 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "Cómo El exorcista utilizó la música para diferenciarse del resto de películas de terror",
-      "Description": "Para muchos es, fue y será para siempre La Canción de El Exorcista™, pero lo cierto es que Tubular Bells tuvo una vida anterior a la llegada del Padre Karras. El joven multinstrumentalista británico Mike Oldfield consiguió publicar su debut a finales de mayo …",
-      "Url": "https://www.revistagq.com/articulo/el-exorcista-banda-sonora-musica-tubular-bells",
-      "UrlToImage": "https://media.revistagq.com/photos/651e82a9cf2090748c47fd68/16:9/w_1280,c_limit/607435710",
-      "PublishedAt": "2023-10-09T09:06:46Z",
-      "Content": "Para muchos es, fue y será para siempre La Canción de El Exorcista, pero lo cierto es que Tubular Bells tuvo una vida anterior a la llegada del Padre Karras. El joven multinstrumentalista británico M… [+4579 chars]"
     }
   ]
 }
