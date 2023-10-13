@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 616,
+  "TotalResults": 617,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbs-news",
+        "Name": "CBS News"
+      },
+      "Author": "Cbs News",
+      "Title": "\"What Rhymes with Reason\" movie playing in theatres on World Mental Health Day",
+      "Description": "Actor Bart Johnson, who stars in the new movie called \"What Rhymes with Reason,\" joins us to talk the mission of the film and how it can bring hope to teens.",
+      "Url": "https://www.cbsnews.com/losangeles/video/what-rhymes-with-reason-movie-playing-in-theatres-on-world-mental-health-day/",
+      "UrlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/12/9ac10011-3f2c-436f-8741-5e1b99fb37c0/thumbnail/1200x630/a23106a2f7a7602d6b0a9decf9efc6d6/64f2cc8562b73dbbb9db3fc70d01407c.jpg?v=a6a127b4a243923dd1e2140b75f2a43c",
+      "PublishedAt": "2023-10-12T18:50:49Z",
+      "Content": "Watch CBS News\r\n©2023 CBS Broadcasting Inc. All Rights Reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Is-Gal-Gadot-being-replaced-as-Wonder-Woman.jpg?resize=1200,630",
       "PublishedAt": "2023-10-11T14:31:25Z",
       "Content": "After a new report which claims that the stars of Zack Snyders Justice League and the 2017 Justice League film would not reprise their roles in James Gunns DCU hit the web, fans are anxious to know w… [+2320 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Newser"
-      },
-      "Author": "Jenn Gidman",
-      "Title": "No One Saw This Jada Pinkett Smith Reveal Coming",
-      "Description": "Jada Pinkett Smith will be filling TV screens this Friday the 13th when her interview with Hoda Kotb airs on NBC News. However, an early reveal from that chat is now circulating, with the 52-year-old actor and talk show host confirming to Kotb \"that there's m…",
-      "Url": "https://www.newser.com/story/341256/jada-pinkett-smith-will-and-i-separated-7-years-ago.html",
-      "UrlToImage": "https://img1-azrcdn.newser.com/image/1496534-12-20231011093600.jpeg",
-      "PublishedAt": "2023-10-11T14:25:00Z",
-      "Content": "Kotb questioned her on this after reading an advance copy of Pinkett Smith's memoir, Worthy, which is due out on Tuesday. The Red Table Talk host agreed with Kotb's assessment that it's not technical… [+1150 chars]"
     }
   ]
 }
