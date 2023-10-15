@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1351,
+  "TotalResults": 1352,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Fans Came Out to Celebrate the Release of “Taylor Swift: The Eras Tour” in Movie Theaters. - The New York Times",
+      "Description": "Fans Came Out to Celebrate the Release of “Taylor Swift: The Eras Tour” in Movie Theaters.The New York Times Taylor Swift turns theaters into arenas with “Eras” tour experience: Film Reviewcleveland.com \"Taylor Swift: The Eras Tour\" movie tickets are hard to …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172016277",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-14T17:32:43Z",
+      "Content": "You had mail, but the super-user read it, and deleted it!"
+    },
     {
       "Source": {
         "Id": "fox-news",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-10-13T17:36:44Z",
       "Content": "Description: KeepStreams specializes in providing services for downloading videos and converting music for users worldwide. Our innovative product range includes advanced video downloaders and high-q… [+1846 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Neil Bolt",
-      "Title": "Five Nights at Freddy’s Movie Will Have Plenty of Easter Eggs for Fans",
-      "Description": "There are just a couple of weeks until the release of the Five Nights at Freddy’s movie from Blumhouse, and we’re getting a drip feed of new information turning into a steady stream. It’s understandable to expect the movie might feature some nods to the many …",
-      "Url": "https://www.comingsoon.net/movies/news/1366837-fnaf-movie-easter-eggs",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/five-nights-at-freddys-easter-eggs.jpg?resize=1200,630",
-      "PublishedAt": "2023-10-13T17:34:39Z",
-      "Content": "There are just a couple of weeks until the release of the Five Nights at Freddys movie from Blumhouse, and were getting a drip feed of new information turning into a steady stream.\r\nIts understandabl… [+1959 chars]"
     }
   ]
 }
