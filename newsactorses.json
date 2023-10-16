@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 743,
+  "TotalResults": 744,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Muere Piper Laurie, actriz nominada al Oscar por 'Carrie' y 'El Buscavidas', a los 91 años",
+      "Description": "Piper Laurie , la célebre actriz conocida por su escalofriante interpretación de la madre autoritariamente religiosa en 'Carrie' y por interpretar a la desanimada novia de Paul Newman en 'El Buscavidas' , ha fallecido este sábado a los 91 años. Laurie ha muer…",
+      "Url": "https://www.abc.es/play/cine/noticias/muere-piper-laurie-actriz-nominada-oscar-carrie-20231015034331-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/10/15/piper-laurie-k6yC--1024x512@abc.jpg",
+      "PublishedAt": "2023-10-15T01:43:32Z",
+      "Content": "Piper Laurie, la célebre actriz conocida por su escalofriante interpretación de la madre autoritariamente religiosa en 'Carrie' y por interpretar a la desanimada novia de Paul Newman en 'El Buscavida… [+920 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/10/13/Pumares-oti-U65542383387ToE-1024x512@abc.jpg",
       "PublishedAt": "2023-10-13T10:44:30Z",
       "Content": "Fue guionista, actor, asesor de programas televisivos, director de un programa de radio mítico, 'Polvo de Estrellas', tertuliano, cinéfilo empedernido, viajero por festivales y crítico de cine al vie… [+638 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Carlos Sobera se rompe a llorar por lo que sucede en Telecinco: «Cállate»",
-      "Description": "Loles León (73) fue la última protagonista de 'El musical de tu vida' , espacio de Telecinco que presenta Carlos Sobera en el que cada entrega acude un famoso para ser entrevistado y presenciar, como un espectador más, varias escenas de su vida. Ana Obregón, …",
-      "Url": "https://www.abc.es/play/television/noticias/carlos-sobera-rompe-llorar-sucede-telecinco-callate-20231013123749-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/10/13/carlos-sobera-llora-kapB--1024x512@abc.png",
-      "PublishedAt": "2023-10-13T10:37:50Z",
-      "Content": "Loles León (73) fue la última protagonista de 'El musical de tu vida', espacio de Telecinco que presenta Carlos Sobera en el que cada entrega acude un famoso para ser entrevistado y presenciar, como … [+1440 chars]"
     }
   ]
 }
