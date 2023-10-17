@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 742,
+  "TotalResults": 743,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Víctor López G.",
+      "Title": "Will Smith reacciona al libro de memorias que ha publicado Jada Pinkett Smith: \"Me despertó\"",
+      "Description": "Nada mejor para empezar una semana marcada por un lunes frío y lluvioso que una buena ración de salseo protagonizada por gente rica y famosa. En esta ocasión, toca centrarnos una vez más en la pareja compuesta por Will Smith y Jada Pinkett Smith, porque si pe…",
+      "Url": "https://www.espinof.com/actores-y-actrices/will-smith-reacciona-al-libro-memorias-que-ha-publicado-jada-pinkett-smith-me-desperto",
+      "UrlToImage": "https://i.blogs.es/f21457/slack-imgs/840_560.jpeg",
+      "PublishedAt": "2023-10-16T13:20:05Z",
+      "Content": "Nada mejor para empezar una semana marcada por un lunes frío y lluvioso que una buena ración de salseo protagonizada por gente rica y famosa. En esta ocasión, toca centrarnos una vez más en la pareja… [+2042 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/10/15/piper-laurie-k6yC--1024x512@abc.jpg",
       "PublishedAt": "2023-10-15T01:43:32Z",
       "Content": "Piper Laurie, la célebre actriz conocida por su escalofriante interpretación de la madre autoritariamente religiosa en 'Carrie' y por interpretar a la desanimada novia de Paul Newman en 'El Buscavida… [+920 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Murió el actor Carlos Defeo, baluarte del teatro independiente en nuestro país",
-      "Description": "Formado en el Sportivo Teatral de Ricardo Bartis, tuvo destacadas apariciones en obras como Estado de Ira, Edipo Rey y La gesta heroica. También trabajó mucho en cine, televisión y publicidad",
-      "Url": "https://www.lanacion.com.ar/espectaculos/murio-el-actor-carlos-defeo-baluarte-del-teatro-independiente-en-nuestro-pais-nid14102023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-actor-argentino-carlos-defeo-de-amplia-G6Q5XZLBHRCBJM3GJJCGA556LU.JPG?auth=300356c855638b383371fda4a15ecfcbf53cea016a9fa3c6c9e0ea1c94af224a&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-10-14T21:42:53Z",
-      "Content": "A los 57 años falleció el actor Carlos Defeo, figura de presencia habitual y muy reconocida en algunas de las obras más destacadas de la escena teatral independiente de nuestro país a lo largo de las… [+1258 chars]"
     }
   ]
 }
