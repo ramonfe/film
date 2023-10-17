@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1356,
+  "TotalResults": 1357,
   "Articles": [
+    {
+      "Source": {
+        "Id": "entertainment-weekly",
+        "Name": "Entertainment Weekly"
+      },
+      "Author": "Wesley Stenzel",
+      "Title": "Kevin Spacey's new movie London premiere canceled by theater",
+      "Description": "The film <em>Control</em> is the actor's first new film since being found not guilty on multiple counts of sexual misconduct.",
+      "Url": "https://ew.com/celebrity/kevin-spacey-new-movie-london-premiere-canceled-by-theater/",
+      "UrlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C0%2C2000%2C1000&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2023%2F10%2F16%2Fkevin-spacey-premiere-cancelled-101623.jpg",
+      "PublishedAt": "2023-10-16T23:10:27Z",
+      "Content": "The Prince Charles Cinema in London will not let Kevin Spacey be frank.\r\nThe theater was set to host the premiere of Welsh thriller Control, the actor's first new movie since his recent sexual assaul… [+2283 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4206283-disney-100-star-wars.jpg",
       "PublishedAt": "2023-10-16T13:25:00Z",
       "Content": "Best Buy will no longer sells DVDs or Blu-rays beginning in 2024, but before the retail chain ends an era of physical home media sales, you can grab some terrific deals on some of Disney's biggest hi… [+1571 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Archak Mitra",
-      "Title": "One Piece Episode 1080 Trailer Teases Deadly Battle",
-      "Description": "The latest episode of One Piece was released recently, and fans have already been rewarded with the preview for Episode 1080 along with its release date. The episode will most likely feature the victory of the alliance and the adventures that await the heroes…",
-      "Url": "https://www.comingsoon.net/anime/news/1368118-one-piece-episode-1080-trailer-teases-deadly-battle",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/one-piece-joy-boy.png?resize=1200,630",
-      "PublishedAt": "2023-10-16T13:13:56Z",
-      "Content": "The latest episode of One Piece was released recently, and fans have already been rewarded with the preview for Episode 1080 along with its release date. The episode will most likely feature the vict… [+2148 chars]"
     }
   ]
 }
