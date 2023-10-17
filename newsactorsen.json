@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 588,
+  "TotalResults": 589,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "Mark Goddard, who played Don West on ‘Lost in Space,’ dies at 87",
+      "Description": "Mark Goddard, an actor best known for playing Major Don West in the 1960s TV show “Lost in Space,” has died",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/mark-goddard-played-don-west-lost-space-dies-104001268",
+      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "PublishedAt": "2023-10-16T02:22:05Z",
+      "Content": "Mark Goddard, an actor best known for playing Major Don West in the 1960s television show Lost in Space, has died. He was 87.\r\nHe died Tuesday in Hingham, Massachusetts, of pulmonary fibrosis, his so… [+1742 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/10/13211224/Funmi-Awelewa.jpg",
       "PublishedAt": "2023-10-13T23:47:48Z",
       "Content": "A popular actress, Funmi Awelewa, aka Morili Omo Ibadan, has transitioned into a new phase of her career, with her debut as a director in a movie titled, A Wish.\r\nIn a statement sent to Saturday Beat… [+1111 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livejournal.com"
-      },
-      "Author": "maclou",
-      "Title": "Japanese Music Post: Autumn Edition!!",
-      "Description": "This post is inspired by The Billboard Japan Hot 100 Chart.Over the Summer IDOL by YOASOBI has completely dominated this chart but over the past month some songs have managed to knock it off.First was Dangerholic by boy group Snow Man the week of Sepember 13t…",
-      "Url": "https://ohnotheydidnt.livejournal.com/127036380.html",
-      "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/496235?v=1697237599",
-      "PublishedAt": "2023-10-13T22:53:17Z",
-      "Content": "This post is inspired by The Billboard Japan Hot 100 Chart.Over the Summer IDOL by YOASOBI has completely dominated this chart but over the past month some songs have managed to knock it off.\r\nFirst … [+1497 chars]"
     }
   ]
 }
