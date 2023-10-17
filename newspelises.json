@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 197,
+  "TotalResults": 198,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Cines de barrio se quedan sin las entradas a 2 euros para los jubilados",
+      "Description": "Fue una de las promesas que Pedro Sánchez se sacó de la chistera en la campaña de las elecciones autonómicas y municipales de mayo: cine a 2 euros para los mayores de 65 años . Eso sí, hubo que esperar dos meses a que entrara en vigor... casualmente unos días…",
+      "Url": "https://www.abc.es/cultura/cines-pequenos-quedan-fondos-financiar-entradas-jubilados-20231016183635-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2023/10/16/cine-embajadores-U11168644383HEz-1024x512@abc.jpg",
+      "PublishedAt": "2023-10-16T22:17:06Z",
+      "Content": "Fue una de las promesas que Pedro Sánchez se sacó de la chistera en la campaña de las elecciones autonómicas y municipales de mayo: cine a 2 euros para los mayores de 65 años. Eso sí, hubo que espera… [+5446 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/a03b0ae7-2be9-4eea-8780-a9a6342998eb_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-10-11T10:48:08Z",
       "Content": "Cuéntame cómo pasó tiene fecha para emitir su gran despedida de la televisión tras 22 años. La 1 de TVE ha sorprendido al anunciar el lanzamiento de su temporada 23 para el próximo miércoles 18 de oc… [+5135 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Atresplayer presenta 'El enigma Nadiuska', su docuserie sobre el musa del destape que ya tiene fecha de estreno",
-      "Description": "Atresplayer ha presentado en el marco del South International Series Festival su nuevo proyecto de no ficción centrado en una de las estrellas más icónicas del cine español de los años setenta y de extraño ocaso, Nadiuska. La actriz del destape y sex symbol d…",
-      "Url": "https://www.eldiario.es/vertele/noticias/atresplayer-presenta-enigma-nadiuska-docuserie-musa-destape-fecha-estreno_1_10589141.html",
-      "UrlToImage": "https://static.eldiario.es/clip/e89cad4a-1349-4dcf-aad5-048d9cc4e295_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-10-11T10:31:21Z",
-      "Content": "Atresplayer ha presentado en el marco del South International Series Festival su nuevo proyecto de no ficción centrado en una de las estrellas más icónicas del cine español de los años setenta y de e… [+4303 chars]"
     }
   ]
 }
