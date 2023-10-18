@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 201,
+  "TotalResults": 202,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "John Tones",
+      "Title": "'The Marvels' está a las puertas de ser el primer desastre financiero del MCU. Las señales llevaban ahí meses",
+      "Description": "La noticia ha caído a plomo sobre los fans de Marvel: la próxima película de MCU arroja unas previsiones de taquilla bajísimas, y podría ser el primer fracaso financiero en su larga y exitosa trayectoria. Pero no es un vaticinio que salga de la nada: desde qu…",
+      "Url": "https://www.xataka.com/cine-y-tv/the-marvels-esta-a-puertas-ser-primer-desastre-financiero-mcu-senales-llevaban-ahi-meses",
+      "UrlToImage": "https://i.blogs.es/c2eac7/captura-de-pantalla-2023-10-17-a-las-12.42.26/840_560.jpeg",
+      "PublishedAt": "2023-10-17T16:00:40Z",
+      "Content": "La noticia ha caído a plomo sobre los fans de Marvel: la próxima película de MCU arroja unas previsiones de taquilla bajísimas, y podría ser el primer fracaso financiero en su larga y exitosa trayect… [+4585 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/10/11/brianeitor-U57885402127Egp-1024x512@abc.jpg",
       "PublishedAt": "2023-10-11T15:38:00Z",
       "Content": "Durante el puente de El Pilar se celebra la IX edición del Festival Internacional de Cine de Begur, que se ha inaugurado con la comedia francesa 'Ganándose el cielo', de Laurent Tirad, y con la entre… [+1535 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Un «dream team» flamenco conquista la Plaza Mayor para celebrar el Día de la Hispanidad",
-      "Description": "El próximo jueves 12 de octubre a las 21h, el Corral de la Morería , considerado el mejor tablao flamenco del mundo, saldrá a la calle por primera vez en la ciudad de Madrid para presentar un 'Dream Team' de estrellas del flamenco que nunca han actuado juntas…",
-      "Url": "https://www.abc.es/espana/madrid/dream-team-flamenco-conquista-plaza-mayor-celebrar-20231011132728-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2023/10/11/Presentacio%cc%81nGalaEstrellasFlamenco-RB9w9XzM2z7774LTeAUmZEI-1024x512@abc.jpg",
-      "PublishedAt": "2023-10-11T15:08:01Z",
-      "Content": "El próximo jueves 12 de octubre a las 21h, el Corral de la Morería, considerado el mejor tablao flamenco del mundo, saldrá a la calle por primera vez en la ciudad de Madrid para presentar un 'Dream T… [+5343 chars]"
     }
   ]
 }
