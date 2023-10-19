@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1100,
+  "TotalResults": 1101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "James Whitbrook",
+      "Title": "Hamish Steele habla sobre cómo poner fin a DeadEndia",
+      "Description": "A principios de este año, Netflix reveló quela segunda temporada de Callejón sin salida: Parque Paranormal—el adaptación que lleva mucho tiempo en proceso de la serie de cómics sobrenatural de Hamish Steele muertoendia—sería su último, dejando sin terminar la…",
+      "Url": "https://es.gizmodo.com/deadendia-divine-orden-portada-revelacion-entrevista-si-1850937637",
+      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/12d9a2bc2f1b2ba6ca928ab4775e2b90.png",
+      "PublishedAt": "2023-10-18T16:00:00Z",
+      "Content": "A principios de este año, Netflix reveló quela segunda temporada de Callejón sin salida: Parque Paranormalel adaptación que lleva mucho tiempo en proceso de la serie de cómics sobrenatural de Hamish … [+7926 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/d6096c/cicatriz/840_560.jpeg",
       "PublishedAt": "2023-10-18T08:30:43Z",
       "Content": "Si muchos ya tenemos marcado el 29 de febrero de 2024 en el calendario como estreno de 'Reina Roja', ahora tenemos otra adaptación de novela de Juan Gómez-Jurado por la que estar pendiente. Y es que … [+1355 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Buenas noticias para la temporada 4 de Lupin",
-      "Description": "La tercera temporada de Lupin llegó a Netflix el 5 de octubre. La serie aún no ha renovado por una cuarta entrega, pero su creador, George Kay, se ha mostrado muy optimista ante el futuro de la ficción.",
-      "Url": "https://www.culturaocio.com/tv/noticia-buenas-noticias-temporada-lupin-20231018102904.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231018102904_1200.jpg",
-      "PublishedAt": "2023-10-18T08:29:04Z",
-      "Content": "MADRID, 18 Oct. (CulturaOcio) - \r\n   La tercera temporada deLupin llegó a Netflix el 5 de octubre. La serie aún no ha renovado por una cuarta entrega, pero su creador, George Kay, se ha mostrado muy … [+2000 chars]"
     }
   ]
 }

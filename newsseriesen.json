@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 198,
+  "TotalResults": 200,
   "Articles": [
     {
       "Source": {
@@ -227,6 +227,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.2.0b14",
+      "Description": "2023.2.0b14\n\n October 16, 2023\n \n unityhub://2023.2.0b14/fd51e285237d\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL…",
+      "Url": "https://unity.com/releases/editor/beta/2023.2.0b14",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-16T16:49:19Z",
+      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+236922 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "ComingSoon.net"
       },
       "Author": "Abdul Azim Naushad",
@@ -236,6 +249,19 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Choona-Season-2-Release-Date.jpg?resize=1200,630",
       "PublishedAt": "2023-10-16T16:09:25Z",
       "Content": "Viewers of Choona have been wondering whether or not the heist-comedy show would get a second season on Netflix, ever since the first season dropped on September 29, 2023.\r\nHeres all the Choona Seaso… [+1563 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.3.0a10",
+      "Description": "2023.3.0a10\n\n October 16, 2023\n \n unityhub://2023.3.0a10/c9b099e3345e\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL…",
+      "Url": "https://unity.com/releases/editor/alpha/2023.3.0a10",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-16T15:53:09Z",
+      "Content": "<li>2D: Fixed an issue where a GameObject instantiated by a Tile is recreated on the player when the user refreshes the Tile without changing the Tile.\r\n(UUM-45589)\r\n</li><li>2D: Fixed an issue where… [+95500 chars]"
     },
     {
       "Source": {
@@ -366,32 +392,6 @@
       "UrlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2023/10/p-1-90966825-Does-the-success-of-‘Naked-Attraction-vindicate-David-Zazlavs-strategy-for-Max-.jpg",
       "PublishedAt": "2023-10-14T03:20:00Z",
       "Content": "If you scan the list of top 10 shows on Max, the Warner Bros. Discovery streaming service, chances are you’ve come across—and maybe binge-watched—the British dating show Naked Attraction. (No judgmen… [+8047 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Appadvice.com"
-      },
-      "Author": "AppAdvice Staff",
-      "Title": "FreeCast Gives You 700 Free Channels and Organizes Your Streaming Services in One Place",
-      "Description": "Life was infinitely simpler back when you had one streaming platform, when everything was in the same place. These days you can spend hours trying to establish whether you’re entitled to watch something for free, and this can involve logging into and searchin…",
-      "Url": "https://appadvice.com/post/freecast-gives-you-700-free-channels-and-organizes-your-streaming-services-in-one-place/778415",
-      "UrlToImage": "https://siri-cdn.appadvice.com/wp-content/appadvice-v2-media/2023/10/freecast_bc556c6e38883a7b1158d62a569f7013.jpg",
-      "PublishedAt": "2023-10-13T20:40:05Z",
-      "Content": "It can feel as though every technological solution creates a new problem. Fortunately, this one has a solution: FreeCast.\r\nPut simply, FreeCast is a single portal through which you can find the show … [+1441 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "newsweek.com",
-      "Title": "How to save on streaming services as rates go up",
-      "Description": "It is no longer as affordable as it once was to relax after a long day's work and play your favorite TV show on your streaming service of choice. That is because nearly every streaming service is upping their prices amid high inflation and increased competiti…",
-      "Url": "https://biztoc.com/x/2305163350f515ca",
-      "UrlToImage": "https://c.biztoc.com/p/2305163350f515ca/s.webp",
-      "PublishedAt": "2023-10-13T17:30:06Z",
-      "Content": "It is no longer as affordable as it once was to relax after a long day's work and play your favorite TV show on your streaming service of choice. That is because nearly every streaming service is upp… [+297 chars]"
     }
   ]
 }
