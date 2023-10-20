@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1466,
+  "TotalResults": 1467,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "New York Post"
+      },
+      "Author": "Erin Keller",
+      "Title": "Taylor Swift surprises fans with ‘Cruel Summer’ live ‘Eras Tour’ release",
+      "Description": "Swift's \"Eras Tour\" concert movie earned $123.5 million worldwide since Thursday.",
+      "Url": "https://nypost.com/2023/10/18/taylor-swift-releases-cruel-summer-live-from-the-eras-tour/",
+      "UrlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/GettyImages-1584248998.jpg?quality=75&strip=all&w=1024",
+      "PublishedAt": "2023-10-19T01:06:41Z",
+      "Content": "Long live the Eras Tour. \r\nTaylor Swift released a live recording of her hit “Cruel Summer” Wednesday as a thank you to Swifties for earning the Eras Tour concert movie over $123.5 million at the wor… [+769 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2023/10/Daily-Dot-Newsletter-Web-Crawlr-Image-10-18-2023.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2023-10-18T15:30:00Z",
       "Content": "Hello fellow citizens of the internet! Andrew here. Welcome to today’s edition of web_crawlr. \r\nOur top stories today are about: A woman detailing howshe got revenge on her cheating ex using a video … [+3897 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "'Five Nights at Freddy's': When to Stream the Horror Movie on Peacock - CNET",
-      "Description": "Watch it on Peacock or in a theater.",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172040495",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-18T15:14:46Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
