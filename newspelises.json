@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 201,
+  "TotalResults": 202,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Paco Arango , cuando una entrada de cine levanta muros contra el cáncer infantil",
+      "Description": "A Paco Arango un día Dios le dijo: «Shut up, this is not for you!» («Cierra la boca, esto no es por ti»). A Paco Arango, él lo descubre, Dios le habla a menudo. Y no le importa que le traten de loco cuando lo dice porque asegura que en este mundo material y v…",
+      "Url": "https://www.abc.es/play/cine/noticias/paco-arango-entrada-cine-levanta-muros-cancer-20231018023300-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/10/18/1472294628-k6H--1024x512@abc.jpg",
+      "PublishedAt": "2023-10-19T00:33:01Z",
+      "Content": "A Paco Arango un día Dios le dijo: «Shut up, this is not for you!» («Cierra la boca, esto no es por ti»). A Paco Arango, él lo descubre, Dios le habla a menudo. Y no le importa que le traten de loco … [+4439 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/54f340eb-76a5-4bd2-8111-7b701f699836_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-10-13T18:45:54Z",
       "Content": "Con su ciclo de siete películas sobre relatos de Edgar Allan Poe, producidas por la American International Pictures entre 1960 y 1964, Roger Corman contribuyó a las bases de una hermenéutica sobre la… [+13516 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Esteban García Marcos",
-      "Title": "Esta película de Ridley Scott sobre la llegada a América es perfecta para el puente de la Hispanidad: está en streaming",
-      "Description": "Ridley Scott es un grandísimo director de cine. Se acerca a lo lejos el estreno de una de sus magnus opus, Napoleón_, por lo que no es de extrañar que queramos recuperar una de sus películas más vilipendiadas y que precisamente fue creada para conmemorar el a…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/esta-pelicula-de-ridley-scott-sobre-la-llegada-a-america-es-perfecta-para-el-puente-de-la-hispanidad-esta-en-streaming",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/10/1492-la-conquista-del-paraiso.png?width=1200",
-      "PublishedAt": "2023-10-13T14:01:35Z",
-      "Content": "Esta película es perfecta para un día como hoy\r\nRidley Scott es un grandísimo director de cine. Se acerca a lo lejos el estreno de una de sus magnus opus, Napoleón_, por lo que no es de extrañar que … [+3688 chars]"
     }
   ]
 }
