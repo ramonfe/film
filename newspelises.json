@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 191,
+  "TotalResults": 192,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Jose Coronado: «Un desnudo mío lo tiene que exigir mucho el guión»",
+      "Description": "La primera vez de Jose Coronado (Madrid, 1957) en televisión fue la serie 'Brigada central ', al crepúsculo de los años ochenta, en TVE, bajo el sello de Pedro Masó ; un 'thriller' escrito por Juan Madrid con Imanol Arias como policía gitano. «Eran mis comien…",
+      "Url": "https://www.abc.es/play/series/noticias/jose-coronado-desnudo-exigir-guion-20231021042128-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/10/21/jose-coronado-entrevias-3-kZPG--1024x512@abc.jpg",
+      "PublishedAt": "2023-10-21T02:21:30Z",
+      "Content": "La primera vez de Jose Coronado (Madrid, 1957) en televisión fue la serie 'Brigada central', al crepúsculo de los años ochenta, en TVE, bajo el sello de Pedro Masó; un 'thriller' escrito por Juan Mad… [+7596 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/299d09/disney/840_560.jpeg",
       "PublishedAt": "2023-10-16T11:30:02Z",
       "Content": "El Corte Inglés lleva anunciando un tiempo la llegada del 100 aniversario de Disney en la tienda online, y desde hoy hasta el próximo 18 de octubre podemos encontrar algunas construcciones bajo una p… [+4899 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "Así suena la nueva película de Hayao Miyazaki en español: 'El chico y la garza' desvela su primer tráiler con doblaje antes de su inminente estreno",
-      "Description": "Tras siete años en desarrollo, este verano por fin se estrenó en Japón 'El chico y la garza'('Kimitachi wa Dou Ikiru ka') y parece que Hayao Miyazaki ha salido una vez más del retiro con una obra maestra del anime bajo el brazo. En Japón fue un exitazo arroll…",
-      "Url": "https://www.espinof.com/anime/asi-suena-nueva-pelicula-hayao-miyazaki-espanol-chico-garza-desvela-su-primer-trailer-doblaje-antes-su-inminente-estreno",
-      "UrlToImage": "https://i.blogs.es/3cf188/el-chico-y-la-garza/840_560.jpeg",
-      "PublishedAt": "2023-10-16T07:54:22Z",
-      "Content": "Tras siete años en desarrollo, este verano por fin se estrenó en Japón 'El chico y la garza'('Kimitachi wa Dou Ikiru ka') y parece que Hayao Miyazaki ha salido una vez más del retiro con una obra mae… [+1915 chars]"
     }
   ]
 }
