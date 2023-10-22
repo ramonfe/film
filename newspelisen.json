@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1429,
+  "TotalResults": 1430,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Brennan Klein",
+      "Title": "Disney Princess Movie Finally Certified Fresh on Rotten Tomatoes 73 Years After Release",
+      "Description": "The final eligible Disney princess movie is Certified Fresh on Rotten Tomatoes due to a recently added review, more than 70 years after its release.",
+      "Url": "https://screenrant.com/cinderella-movie-rotten-tomatoes-fresh-certified-disney-princess/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/10/a-gathering-of-disney-princesses-in-ralph-breaks-the-internet.jpg",
+      "PublishedAt": "2023-10-21T20:44:16Z",
+      "Content": "Summary\r\n<ul><li> 1950's Cinderella is now officially Certified Fresh on Rotten Tomatoes. </li><li> The movie is a classic retelling of the fairy tale about a young orphan who falls in love with a pr… [+2767 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://variety.com/wp-content/uploads/2023/09/saw-x.jpg?w=1000&h=562&crop=1",
       "PublishedAt": "2023-10-20T16:44:09Z",
       "Content": "If you purchase an independently reviewed product or service through a link on our website, Variety may receive an affiliate commission.\r\nJust in time for Halloween, the new “Saw” movie is available … [+2135 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "Captain America 4 gets release date update amid actors' strike | Check details",
-      "Description": "The highly anticipated MCU movie \"Captain America: Brave New World,\" originally scheduled for a May 3, 2024 release, has experienced a change in its release date. This announcement was made during San Diego Comic-Con, moving the release to July 26, 2024, alon…",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/captain-america-4-gets-release-date-update-amid-actors-strike-check-details/articleshow/104590716.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-104590744,width-1200,height-630,imgsize-9860,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-10-20T16:44:07Z",
-      "Content": "Captain America: Brave New World, the highly anticipated MCU movie, originally slated for a May 3, 2024 release, encountered a shift in its release date. The change was announced during San Diego Com… [+3615 chars]"
     }
   ]
 }
