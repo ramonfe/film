@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 786,
+  "TotalResults": 787,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La marca Castilla y León en la Seminci",
+      "Description": "La sala 5 de los Cines Broadway acoge el domingo 22, a las 19.30 horas, el único pase de este año en Seminci de la sección competitiva Castilla y León en Corto, donde seis cineastas de la Comunidad competirán por un galardón que, en esta ocasión, tendrá que d…",
+      "Url": "https://www.abc.es/espana/castilla-leon/marca-castilla-leon-seminci-20231022172245-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2023/10/22/seminci4-U20740812738pas-1024x512@abc.jpg",
+      "PublishedAt": "2023-10-22T15:22:45Z",
+      "Content": "La sala 5 de los Cines Broadway acoge el domingo 22, a las 19.30 horas, el único pase de este año en Seminci de la sección competitiva Castilla y León en Corto, donde seis cineastas de la Comunidad c… [+9844 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.record.com.mx/sites/default/files/articulos/2023/10/21/f85pehqboaax3e8_1.jpg",
       "PublishedAt": "2023-10-21T07:08:25Z",
       "Content": "Este viernes comenzó la edición 21 del Festival Internacional de Cine de Morelia (FICM), uno de los más importantes en México, y una de las estrellas invitadas que más reflectores robó fue Willem Daf… [+981 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Marisa de Dios",
-      "Title": "Cosimo Fusco, el novio italiano de Jennifer Aniston en 'Friends': \"Aprendí español con los guiones de '30 monedas'\"",
-      "Description": "A Cosimo Fusco (Roma, 1962), el actor que dio vida al novio italiano de Jennifer Aniston en 'Friends', Paolo, le gusta bromear diciendo que en otra vida debió de ser cura, porque a lo largo de su carrera ha ido acumulado unos cuantos personajes al servicio de…",
-      "Url": "https://www.elperiodico.com/es/tele/20231021/cosimo-fusco-30-monedas-friends-entrevista-93478543",
-      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/16e75c58-6733-481d-ade0-f20e1256fc26_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-10-21T06:01:00Z",
-      "Content": "A Cosimo Fusco (Roma, 1962), el actor que dio vida al novio italiano de Jennifer Aniston en 'Friends', Paolo, le gusta bromear diciendo que en otra vida debió de ser cura, porque a lo largo de su car… [+4761 chars]"
     }
   ]
 }
