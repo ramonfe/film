@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 188,
+  "TotalResults": 189,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eluniversal.com.co"
+      },
+      "Author": null,
+      "Title": "‘Un rincón cerca del cielo’",
+      "Description": "Así se titula esta película mexicana filmada en 1952 y proyectada en los cines barriales de Cartagena en los años 50 y 60. Para entonces, la pobrecía buscaba consuelo en el sufrimiento ajeno visto en la pantalla. Como se sabe, un alcantarillado salva más vida…",
+      "Url": "https://www.eluniversal.com.co/opinion/columna/un-rincon-cerca-del-cielo-MB9300482",
+      "UrlToImage": "https://www.eluniversal.com.co/news-portlet/getogimage/c5691940-8c85-4886-946a-0b3cdea0ff62.jpg",
+      "PublishedAt": "2023-10-23T05:00:00Z",
+      "Content": "Así se titula esta película mexicana filmada en 1952 y proyectada en los cines barriales de Cartagena en los años 50 y 60. Para entonces, la pobrecía buscaba consuelo en el sufrimiento ajeno visto en… [+2624 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2023/10/16/cine-embajadores-U11168644383HEz-1024x512@abc.jpg",
       "PublishedAt": "2023-10-16T22:17:06Z",
       "Content": "Fue una de las promesas que Pedro Sánchez se sacó de la chistera en la campaña de las elecciones autonómicas y municipales de mayo: cine a 2 euros para los mayores de 65 años. Eso sí, hubo que espera… [+5446 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "La gira del productor del éxito religioso ‘Sound of freedom’ con la extrema derecha española de Vox",
-      "Description": "La película viene con la frase promocional bien clara: “La película de la que todo el mundo habla”. Es una de las pocas veces que un eslogan no miente, porque la verdad es que desde su estreno en EEUU todo el mundo habla de Sound of freedom. El filme de Aleja…",
-      "Url": "https://www.eldiario.es/cultura/cine/gira-productor-exito-religioso-sound-of-freedom-extrema-derecha-espanola-vox_1_10601716.html",
-      "UrlToImage": "https://static.eldiario.es/clip/12a5c57e-9b65-4ea7-874c-64cef08f1f9a_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-10-16T21:11:59Z",
-      "Content": "La película viene con la frase promocional bien clara: “La película de la que todo el mundo habla”. Es una de las pocas veces que un eslogan no miente, porque la verdad es que desde su estreno en EEU… [+1231 chars]"
     }
   ]
 }
