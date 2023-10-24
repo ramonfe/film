@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 202,
+  "TotalResults": 203,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Netflix's Squid Game: The Challenge trailer confirms it missed the message",
+      "Description": "Netflix has dropped a trailer for the upcoming reality series Squid Game: The Challenge. The forthcoming show starts with 456 contestants competing for a $4.56 million prize in events repackaged (minus the brutal violence) from the scripted series. What bette…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172090131",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-23T19:32:07Z",
+      "Content": "Netflix has dropped a trailer for the upcoming reality series Squid Game: The Challenge. The forthcoming show starts with 456 contestants competing for a $4.56 million prize in events repackaged (min… [+2222 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Collage-Maker-18-Oct-2023-05-34-AM-92.jpg?resize=1200,630",
       "PublishedAt": "2023-10-18T00:06:32Z",
       "Content": "Wondering where to watch Scoop Season 1 online? Look no further as weve got all the information you need. The show is based on Jigna Voras autobiography Behind Bars in Byculla: My Days in Prison. It … [+2461 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "‘For All Mankind’ Season 4: See cast, storyline, release schedule, streaming platform and more",
-      "Description": "\"For All Mankind\" season 4 is out for release. The show, which launched in 2019 on Apple TV+, explores an alternate history where the Soviet Union reached the moon first, altering the course of events.",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/for-all-mankind-season-4-see-cast-storyline-release-schedule-streaming-platform-and-more/articleshow/104505770.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-104505930,width-1200,height-630,imgsize-97744,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-10-17T17:09:05Z",
-      "Content": "HDFC Bank Q2 Profit Beats Estimates, up at 15,976crHDFC Banks net profit in the September quarter, the first since its merger with its mortgage-lending parent, Monday beat estimates on a surge in tre… [+750 chars]"
     }
   ]
 }
