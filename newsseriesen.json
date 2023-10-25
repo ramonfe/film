@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 207,
+  "TotalResults": 208,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The Morning After: Tinder’s latest update lets your family play virtual matchmaker",
+      "Description": "Tinder’s new feature is a new nightmare to me. Tinder Matchmaker allows users’ family and friends to recommend potential matches. Wannabe matchmakers do not need a Tinder profile to view or suggest possible pairings, so anyone you know could help you find the…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172096353",
+      "UrlToImage": null,
+      "PublishedAt": "2023-10-24T13:32:08Z",
+      "Content": "Tinder’s new feature is a new nightmare to me. Tinder Matchmaker allows users’ family and friends to recommend potential matches. Wannabe matchmakers do not need a Tinder profile to view or suggest p… [+3350 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://variety.com/wp-content/uploads/2021/09/The-Problem-With-Jon-Stewart-Eps-101-1.jpg?crop=0px%2C545px%2C6000px%2C3375px&resize=1000%2C563",
       "PublishedAt": "2023-10-19T21:25:48Z",
       "Content": "The weekly talk series “The Problem With Jon Stewart” is not getting a third season at Apple TV+, Variety has confirmed. \r\nThe show originally debuted in 2021 as part of a multi-year first-look deal … [+1556 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Livejournal.com"
-      },
-      "Author": "scriptedending",
-      "Title": "Indie Film Release Guide: October 20th [An ONTD Original]",
-      "Description": "While it looks as though Taylor Swift will dominate the box office for a second weekend in a row, she has a legendary challenger this weekend in Martin Scorsese. Killers of the Flower Moon is by far the biggest new release of the weekend, but the 3 hour and 2…",
-      "Url": "https://ohnotheydidnt.livejournal.com/127070437.html",
-      "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/496368?v=1697743777",
-      "PublishedAt": "2023-10-19T19:28:28Z",
-      "Content": "While it looks as though Taylor Swift will dominate the box office for a second weekend in a row, she has a legendary challenger this weekend in Martin Scorsese. Killers of the Flower Moon is by far … [+5928 chars]"
     }
   ]
 }
