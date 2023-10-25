@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 214,
+  "TotalResults": 216,
   "Articles": [
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Will Shanklin",
+      "Title": "Apple reportedly plans to totally redesign its TV app",
+      "Description": "Apple is reportedly set to overhaul the Apple TV app. On Tuesday, Bloomberg’s Mark Gurman reported that the company plans to consolidate its video offerings, placing them exclusively in the TV app on all its devices. Citing “people with knowledge of the matte…",
+      "Url": "https://www.engadget.com/apple-reportedly-plans-to-totally-redesign-its-tv-app-194506208.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/hhIZGA3QeXog7ojWwHpJLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/eef145a0-729f-11ee-a5be-5346c2b4b547",
+      "PublishedAt": "2023-10-24T19:45:06Z",
+      "Content": "Apple is reportedly set to overhaul the Apple TV app. On Tuesday, Bloombergs Mark Gurman reported that the company plans to consolidate its video offerings, placing them exclusively in the TV app on … [+1764 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "msmash",
+      "Title": "Apple To Revamp TV App in Step Toward Simplifying Video Services",
+      "Description": "Apple will redesign its TV app in a step toward consolidating the company's various video offerings later this year, part of its efforts to become a bigger player in the streaming world. Bloomberg News: The company is preparing a new version of the app for re…",
+      "Url": "https://entertainment.slashdot.org/story/23/10/24/1816259/apple-to-revamp-tv-app-in-step-toward-simplifying-video-services",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/tv_64.png",
+      "PublishedAt": "2023-10-24T19:21:00Z",
+      "Content": "The company is preparing a new version of the app for release around December as part of an upcoming tvOS software update, said the people, who asked not to be identified because the plan is private.… [+745 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Stranded-with-My-Mother-in-Law.jpeg?resize=1200,630",
       "PublishedAt": "2023-10-20T08:31:36Z",
       "Content": "Stranded with My Mother-in-Lawis a Brazilian reality series on Netflix. In the show, six couples are stranded on a remote island and must compete in challenges to win a cash prize. The catch? Their m… [+2944 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Jon Stewart's Apple TV+ show reportedly ends following clash over AI and China",
-      "Description": "The Problem With Jon Stewart isn't coming back for a third season at Apple TV+, according to The New York Times . It was already supposed to begin filming for another eight episodes within the next couple of weeks, but Apple and Stewart reportedly decided to …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172051169",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-20T08:12:15Z",
-      "Content": "The Problem With Jon Stewart isn't coming back for a third season at Apple TV+, according to The New York Times. It was already supposed to begin filming for another eight episodes within the next co… [+1736 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Mariella Moon",
-      "Title": "Jon Stewart's Apple TV+ show reportedly ends following clash over AI and China",
-      "Description": "The Problem With Jon Stewart isn't coming back for a third season at Apple TV+, according to The New York Times. It was already supposed to begin filming for another eight episodes within the next couple of weeks, but Apple and Stewart reportedly decided to p…",
-      "Url": "https://www.engadget.com/jon-stewarts-apple-tv-show-reportedly-ends-following-clash-over-ai-and-china-080117666.html",
-      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/PxQMpBbZPi6pG8ud02mHJg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/45c7f1d0-6f12-11ee-bdfb-cb0bec90dc21",
-      "PublishedAt": "2023-10-20T08:01:17Z",
-      "Content": "The Problem With Jon Stewart isn't coming back for a third season at Apple TV+, according to The New York Times. It was already supposed to begin filming for another eight episodes within the next co… [+1558 chars]"
     }
   ]
 }
