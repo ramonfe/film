@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1358,
+  "TotalResults": 1359,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "Paul Squire,Hannah Getahun",
+      "Title": "The US wants a Russian oligarch's seized $300 million superyacht that features an infinity pool, a movie theater, and a helicopter landing pad",
+      "Description": "US attorneys filed legal papers to have the seized superyacht they say is owned by sanctioned Russian billionaire Suleiman Kerimov forfeited.",
+      "Url": "https://www.businessinsider.com/us-wants-russian-oligarchs-seized-300-million-superyacht-2023-10",
+      "UrlToImage": "https://i.insider.com/6536c22596908fd7cdb56830?width=1200&format=jpeg",
+      "PublishedAt": "2023-10-24T02:37:56Z",
+      "Content": "The $300 million superyacht Amadea, which US authorities seized and say is owned by a sanctioned Russian oligarch, seen here docked in Honolulu, Hawaii.Reuters\r\n<ul>\n<li>The US has filed a civil forf… [+2418 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Zom-100-Bucket-List-of-the-Dead-Chapter-60-Release-Date.jpg?resize=1200,630",
       "PublishedAt": "2023-10-23T15:46:41Z",
       "Content": "Zom 100: Bucket List of the Dead Chapter 60s release date and time have been revealed. In the manga, readers follow Akira Tendou, a young hard-working man who almost turns into a corporate drone. It … [+1666 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Eddie Makuch",
-      "Title": "Paddington 3 Release Date Announced, As One Star Drops Out",
-      "Description": "Paddington 3, which is officially titled Paddington in Peru, now has a release date--but it's not soon. Sony Pictures has announced that the movie will debut on January 17, 2025 in the US. The movie debuts earlier in the UK, arriving there on November 8, 2024…",
-      "Url": "https://www.gamespot.com/articles/paddington-3-release-date-announced-as-one-star-drops-out/1100-6518562/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4209859-paddingtonlarge.jpeg",
-      "PublishedAt": "2023-10-23T15:10:00Z",
-      "Content": "Paddington 3, which is officially titled Paddington in Peru, now has a release date--but it's not soon. Sony Pictures has announced that the movie will debut on January 17, 2025 in the US. The movie … [+1399 chars]"
     }
   ]
 }
