@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 699,
+  "TotalResults": 700,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbs-news",
+        "Name": "CBS News"
+      },
+      "Author": "CBS News",
+      "Title": "Richard Roundtree, star of \"Shaft\" movies, dies at 81",
+      "Description": "Actor Richard Roundtree, who played the cool New York private detective John Shaft in the iconic \"Shaft\" movie franchise, has died at the age of 81. Roundtree had a prolific career in film, television and theater which spanned five decades.",
+      "Url": "https://www.cbsnews.com/video/richard-roundtree-star-of-shaft-movies-dies-at-81/",
+      "UrlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/25/d4cfb0be-0a5d-4d0d-bf3f-4b1c7548ef61/thumbnail/1200x630/b05d29ed80d2f93fbaa081db5fa5d984/shaftvo.jpg?v=287f03e8b6c956e3847aad6c604a17dd",
+      "PublishedAt": "2023-10-25T23:47:00Z",
+      "Content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.denverpost.com/wp-content/uploads/2020/11/denverpost.jpg",
       "PublishedAt": "2023-10-25T04:20:16Z",
       "Content": "By JONATHAN LANDRUM Jr. (Associated Press)\r\nLOS ANGELES (AP) — Richard Roundtree, the trailblazing Black actor who starred as the ultra-smooth private detective “Shaft” in several films beginning in … [+2262 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hurriyet Daily News"
-      },
-      "Author": "hurriyetdailynews.com",
-      "Title": "‘Atatürk 1881-1919’ premieres at AKM",
-      "Description": "The premiere of the movie “Atatürk 1881-1919,” starring actor Aras Bulut İynemli as Mustafa Kemal Atatürk, was held at Atatürk Cultural Center (AKM) on Oct. 23.",
-      "Url": "https://www.hurriyetdailynews.com/ataturk-1881-1919-premieres-at-akm-187317",
-      "UrlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6537b7dd4e3fe11aa0e2c6fd.jpg",
-      "PublishedAt": "2023-10-25T04:00:00Z",
-      "Content": "ISTANBUL\r\nThe premiere of the movie Atatürk 1881-1919, starring actor Aras Bulut ynemli as Mustafa Kemal Atatürk, was held at Atatürk Cultural Center (AKM) on Oct. 23.\r\nOn the other hand, the costume… [+4387 chars]"
     }
   ]
 }
