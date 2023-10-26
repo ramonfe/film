@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 223,
+  "TotalResults": 220,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "mediapost.com",
+      "Title": "Apple Looks To Turn Its TV App Into An All-Purpose Streaming Hub",
+      "Description": "Apple plans to unveil a revamped TV app where users will go to find and manage its own streaming content and other content, according to Bloomberg sources. The app will consolidate the Apple TV+ streaming service and its currently standalone movie and TV show…",
+      "Url": "https://biztoc.com/x/ff4ed1ac44cce913",
+      "UrlToImage": "https://c.biztoc.com/p/ff4ed1ac44cce913/s.webp",
+      "PublishedAt": "2023-10-25T13:24:14Z",
+      "Content": "Apple plans to unveil a revamped TV app where users will go to find and manage its own streaming content and other content, according to Bloomberg sources.The app will consolidate the Apple TV+ strea… [+260 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/d5e3983571ee254d/s.webp",
       "PublishedAt": "2023-10-20T21:40:44Z",
       "Content": "The Problem With Jon Stewart, popular show on Apple TV with the eponymous host, will not be returning to the streaming service for a third season.The problem with the show appears to be that Stewart … [+291 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Theregister.com"
-      },
-      "Author": "Thomas Claburn",
-      "Title": "The problem with Jon Stewart is that Apple appears to have cancelled his show",
-      "Description": "Planned episodes on China and AI reportedly worried Apple top brass The Problem With Jon Stewart, popular show on Apple TV with the eponymous host, will not be returning to the streaming service for a third season.…",
-      "Url": "https://www.theregister.com/2023/10/20/jon_stewart_apple/",
-      "UrlToImage": "https://regmedia.co.uk/2023/10/20/cancelled_shutterstock.jpg",
-      "PublishedAt": "2023-10-20T21:29:10Z",
-      "Content": "The Problem With Jon Stewart, popular show on Apple TV with the eponymous host, will not be returning to the streaming service for a third season.\r\nThe problem with the show appears to be that Stewar… [+3897 chars]"
     }
   ]
 }
