@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 196,
+  "TotalResults": 197,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Marcelo Stiletano",
+      "Title": "¿Por qué el cine de terror convoca cada vez más público en los cines?",
+      "Description": "De aquí a fin de año se estrenará al menos una película por semana de un género que suma más títulos a la cartelera que cualquier otro; esta semana, el festejo de Halloween coincide con el regreso a las salas de algunos de los estrenos con esta temática más v…",
+      "Url": "https://www.lanacion.com.ar/espectaculos/por-que-el-cine-de-terror-convoca-cada-vez-mas-publico-en-los-cines-nid27102023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-monja-2-la-pelicula-de-terror-mas-vista-en-lo-VVZIDWCARNGRVAJHTK6YBQLYDI.jpeg?auth=317f40a7128318d1a77a07ec0fbc1f73b4491b13ca26d5eb0c0be128f4f25c03&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-10-27T19:15:19Z",
+      "Content": "Los once títulos que volverán esta semana a verse en pantalla grande para acompañar las celebraciones de Halloween sumaron este año un total de 4.552.415 tickets. Estos números equivalen a algo más d… [+6889 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/6537b22cf6373b58ab1c8709/16:9/w_1280,c_limit/OD_11266_R.jpg",
       "PublishedAt": "2023-10-24T12:04:02Z",
       "Content": "La crítica y el público siguen sin ponerse de acuerdo en lo que es bueno y lo que no. ¿La última prueba? La película más vista de Netflix en España en estos momentos y la que probablemente será líder… [+1759 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Las películas de 2024 que más ganas tenías de ver se retrasan, para variar",
-      "Description": "Los movimientos de fechas para las películas de 2024 siguen y ya están afectando a los mayores estrenos del próximo año. Y es que si creías que Deadpool 3 iba a ser la única en retrasar su lanzamiento hasta 2025, ahora Paramount trae más malas noticias.\r\n\nAun…",
-      "Url": "https://www.revistagq.com/articulo/peliculas-2024-estrenos-retraso-fechas-2025",
-      "UrlToImage": "https://media.revistagq.com/photos/653795b91701b1918e9220d0/16:9/w_1280,c_limit/peliculas-2024-retraso-estrenos.jpeg",
-      "PublishedAt": "2023-10-24T10:04:10Z",
-      "Content": "Los movimientos de fechas para las películas de 2024 siguen y ya están afectando a los mayores estrenos del próximo año. Y es que si creías que Deadpool 3 iba a ser la única en retrasar su lanzamient… [+2097 chars]"
     }
   ]
 }
