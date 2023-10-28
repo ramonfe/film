@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 197,
+  "TotalResults": 198,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Meritxell M. Pauné",
+      "Title": "'Sold out' en la reapertura del Texas como cine y teatro asequible en Barcelona",
+      "Description": "La sala Texas vuelve a alegrar la vida cultural de Barcelona con una oferta de cine a precio asequible, a la que ahora se suma también teatro catalán. La sala de la calle Bailén ha resucitado este viernes después de tres años y medio cerrada y una movilizació…",
+      "Url": "https://www.elperiodico.com/es/barcelona/20231027/sold-out-reapertura-texas-cine-93890643",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/d1fe2d7d-21cf-4047-a075-66d301eb90ef_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-10-27T20:59:15Z",
+      "Content": "La sala Texas vuelve a alegrar la vida cultural de Barcelona con una oferta de cine a precio asequible, a la que ahora se suma también teatro catalán. La sala de la calle Bailén ha resucitado este vi… [+2970 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2023/10/24/pelicula-U20273436216nTR-1024x512@abc.jpg",
       "PublishedAt": "2023-10-24T15:47:08Z",
       "Content": "El 14º Festival de Cine Español Emergente (Fecicam) se prepara para dar la bienvenida a amantes del cine, artistas y público de Ciudad Real en una edición especial, que supone su primer año con largo… [+6675 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "La película más vista de Netflix en España tiene la peor nota de la crítica (pero la mejor del público)",
-      "Description": "La crítica y el público siguen sin ponerse de acuerdo en lo que es bueno y lo que no. ¿La última prueba? La película más vista de Netflix en España en estos momentos y la que probablemente será líder del ranking semanal internacional (mañana lo sabremos).\r\n\nY…",
-      "Url": "https://www.revistagq.com/articulo/pelicula-mas-vista-netflix-espana-papas-a-la-antigua",
-      "UrlToImage": "https://media.revistagq.com/photos/6537b22cf6373b58ab1c8709/16:9/w_1280,c_limit/OD_11266_R.jpg",
-      "PublishedAt": "2023-10-24T12:04:02Z",
-      "Content": "La crítica y el público siguen sin ponerse de acuerdo en lo que es bueno y lo que no. ¿La última prueba? La película más vista de Netflix en España en estos momentos y la que probablemente será líder… [+1759 chars]"
     }
   ]
 }
