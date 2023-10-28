@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1336,
+  "TotalResults": 1337,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fast Company"
+      },
+      "Author": "Bobbie Gossage",
+      "Title": "Who won the Barbenheimer faceoff? Actually, it was IMAX",
+      "Description": "It turns out this summer’s Barbenheimer craze was a huge win for IMAX.\n\n\n\nEarlier this week, IMAX Corporation posted its third-quarter earnings, reporting a revenue of $103.9 million, up 51% from last year and surpassing analyst expectations of $98.7 million.…",
+      "Url": "https://www.fastcompany.com/90973574/who-won-barbenheimer-faceoff-imax",
+      "UrlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2023/10/p-1-90973574-how-oppenheimer-saved-imax.jpg",
+      "PublishedAt": "2023-10-27T05:30:00Z",
+      "Content": "It turns out this summer’s Barbenheimer craze was a huge win for IMAX. \r\nEarlier this week, IMAX Corporation posted its third-quarter earnings, reporting a revenue of $103.9 million, up 51% from last… [+7083 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/rD63qZvxGY_jKKl00AnOYO32_2s=/0x120:3990x2215/fit-in/4000x2667/top/filters:format_auto():quality(85):upscale()/2023/10/26/645/n/1922283/134ffb93653a77b64d8321.46798962_.jpg",
       "PublishedAt": "2023-10-26T16:15:04Z",
       "Content": "When Beyoncé hit the road this year to tour her critically acclaimed \"Renaissance\" album, no one could've predicted what the mind-blowing, one-of-a-kind stage experience she'd deliver from Europe to … [+2291 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Linuxmint.com"
-      },
-      "Author": "Clem",
-      "Title": "Monthly News – October 2023",
-      "Description": "Many thanks for your donations and for your support! Here are the news for this month. Romeo Debian releases (which Mint and Ubuntu are based on) are named after toys from the movie Toy Story. In this movie there’s a child who breaks toys. His name is Sid. De…",
-      "Url": "https://blog.linuxmint.com/?p=4591",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-26T16:04:40Z",
-      "Content": "Many thanks for your donations and for your support!\r\nHere are the news for this month.\r\nRomeo\r\nDebian releases (which Mint and Ubuntu are based on) are named after toys from the movie Toy Story. In … [+12270 chars]"
     }
   ]
 }
