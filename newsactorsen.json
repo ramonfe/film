@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 662,
+  "TotalResults": 663,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Jack Alban",
+      "Title": "‘I cannot be the only to notice the eerie resemblance’: Did ‘BoJack Horseman’ predict Matthew Perry’s death?",
+      "Description": "Friends star Matthew Perry was found dead at 54 years of old in his L.A. home at approximately 4pm PT on Saturday. The Los Angeles Times reports that Perry's body was in a hot tub and that there weren't any drugs found at the scene of his death, nor was there…",
+      "Url": "https://www.dailydot.com/news/bojack-horseman-predicted-matthew-perry/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/10/Mathew-Perry-and-Bojack.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-10-29T13:14:29Z",
+      "Content": "Friends star Matthew Perry was found dead at 54 years of old in his L.A. home at approximately 4pm PT on Saturday. The Los Angeles Times reports that Perry’s body was in a hot tub and that there were… [+4877 chars]"
+    },
     {
       "Source": {
         "Id": "marca",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://nofilmschool.com/media-library/how-to-define-hyperbole-with-examples.png?id=34051832&width=1200&height=600&coordinates=0%2C0%2C0%2C80",
       "PublishedAt": "2023-10-27T18:54:00Z",
       "Content": "When you speak, do you ever use exaggeration to get your point across? Chances are, you use an exaggeration literary device known as \"hyperbolic language\" every day of your life, but you may not have… [+10920 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Surfshark VPN review: Basic protection for all of your devices",
-      "Description": "Most people want a VPN for security, and power users will want all of their tech protected. That means getting a VPN that can handle multiple phones, laptops, smart TVs, gaming consoles and other tech with an internet connection simultaneously. Out of the nin…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172119867",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-27T17:53:04Z",
-      "Content": "Most people want a VPN for security, and power users will want all of their tech protected. That means getting a VPN that can handle multiple phones, laptops, smart TVs, gaming consoles and other tec… [+7704 chars]"
     }
   ]
 }
