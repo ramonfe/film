@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 809,
+  "TotalResults": 764,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": "https://www.facebook.com/bbcnews",
+      "Title": "Muere el actor Matthew Perry, quien dio vida al icónico Chandler en la serie \"Friends\", según medios en EE.UU.",
+      "Description": "Perry, quien tenía 54 años, alcanzó fama mundial gracias a su papel de Chandler Bing en la icónica serie televisiva \"Friends\".",
+      "Url": "https://www.bbc.com/mundo/articles/cv24yyr61zeo",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_mundo/defd/live/464d72f0-760c-11ee-a503-4588075e3427.png",
+      "PublishedAt": "2023-10-29T03:20:23Z",
+      "Content": "Fuente de la imagen, Getty Images\r\nPie de foto, Matthew Perry tenía 54 años.\r\nEl actor Matthew Perry falleció este sábado a los 54 años, según dijeron fuentes policiales a medios estadounidenses.\r\nPe… [+3378 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/4121637c-7f95-4223-8c9a-e066bab79e37_facebook-watermarked-aspect-ratio_default_0_x470y592.jpg",
       "PublishedAt": "2023-10-27T20:29:51Z",
       "Content": "Jimi Hendrix murió en 1970 pero eso no impidió al más mítico reportero del rock, Lester Bangs, entrevistarle cinco años después. De Bangs (fallecido en 1982), otro periodista del rocanrol, John Morth… [+761 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Ken Loach: “La izquierda necesita un líder radical para desafiar al sistema económico”",
-      "Description": "Pocas carreras tan coherentes, políticamente activas y contundentes como la de Ken Loach. Su cine lleva décadas sacudiendo al mundo. Haciendo que se mire donde la gente nunca quiere mirar. A los obreros, a los mineros, a los afectados por las políticas neolib…",
-      "Url": "https://www.eldiario.es/cultura/cine/ken-loach-izquierda-necesita-lider-radical-desafiar-sistema-economico_1_10636259.html",
-      "UrlToImage": "https://static.eldiario.es/clip/a8f6e98c-d466-4970-a422-c7a20d4fde8c_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-10-27T20:29:46Z",
-      "Content": "Pocas carreras tan coherentes, políticamente activas y contundentes como la de Ken Loach. Su cine lleva décadas sacudiendo al mundo. Haciendo que se mire donde la gente nunca quiere mirar. A los obre… [+1019 chars]"
     }
   ]
 }
