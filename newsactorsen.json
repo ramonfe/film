@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 663,
+  "TotalResults": 664,
   "Articles": [
+    {
+      "Source": {
+        "Id": "bbc-news",
+        "Name": "BBC News"
+      },
+      "Author": null,
+      "Title": "UN: Thousands in Gaza break into aid depots",
+      "Description": "People took flour and other basic supplies after storming several warehouses and distribution centres in Gaza, according to UNRWA.\n\nAlso on the programme: how climate change is revealing Roman and Viking artefacts in Norway; and fans of the TV series Friends …",
+      "Url": "https://www.bbc.co.uk/programmes/w172z09p1r1c1jk",
+      "UrlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0gphp0w.jpg",
+      "PublishedAt": "2023-10-29T14:32:00Z",
+      "Content": "People took flour and other basic supplies after storming several warehouses and distribution centres in Gaza, according to UNRWA.\r\nAlso on the programme: how climate change is revealing Roman and Vi… [+255 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/rachel-zegler-header-2.png?resize=1200,630",
       "PublishedAt": "2023-10-27T18:57:56Z",
       "Content": "A new live-action Snow White photo from the upcoming Disney remake gives us our first official look at Rachel Zegler in the titular role.\r\nThe photo, which was published by The Hollywood Reporter, fe… [+1181 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nofilmschool.com"
-      },
-      "Author": "Jason Hellerman",
-      "Title": "How To Define Hyperbole (With Examples)",
-      "Description": "When you speak, do you ever use exaggeration to get your point across? Chances are, you use an exaggeration literary device known as \"hyperbolic language\" every day of your life, but you may not have been aware. Hyperbole is one of a writer's most useful tool…",
-      "Url": "https://nofilmschool.com/define-hyperbole",
-      "UrlToImage": "https://nofilmschool.com/media-library/how-to-define-hyperbole-with-examples.png?id=34051832&width=1200&height=600&coordinates=0%2C0%2C0%2C80",
-      "PublishedAt": "2023-10-27T18:54:00Z",
-      "Content": "When you speak, do you ever use exaggeration to get your point across? Chances are, you use an exaggeration literary device known as \"hyperbolic language\" every day of your life, but you may not have… [+10920 chars]"
     }
   ]
 }
