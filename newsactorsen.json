@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 681,
+  "TotalResults": 682,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbs-news",
+        "Name": "CBS News"
+      },
+      "Author": "CBS News",
+      "Title": "Tributes pour in for Matthew Perry",
+      "Description": "Tributes poured in Monday for Matthew Perry, beloved actor from the TV show \"Friends,\" after his sudden death over the weekend. Entertainment Tonight's Kevin Frazier has the latest.",
+      "Url": "https://www.cbsnews.com/video/tributes-pour-in-for-matthew-perry/",
+      "UrlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/31/17fe5d65-979e-4a0b-86ab-6b56e5b6d925/thumbnail/1200x630/d80d91df499fba4dfc383146d99e7dd9/1030-en-perry.jpg?v=5799c2de91a486f8a37c0b0f0daf468a",
+      "PublishedAt": "2023-10-31T00:12:00Z",
+      "Content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/b193467021248331/s.webp",
       "PublishedAt": "2023-10-29T01:16:08Z",
       "Content": "(Willy Sanjuan/Invision/AP)Actor Matthew Perry, star of the hit TV show Friends among many other TV and film credits, died in apparent drowning incident at a home in Los Angeles, TMZ reported first o… [+314 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tyler Treese",
-      "Title": "Matthew Perry Passes Away, Friends Star Was 54",
-      "Description": "The television world is in mourning as iconic Friends actor Matthew Perry has passed away at the age of 54. TMZ is reporting that Matthew Perry’s cause of death is due to an apparent drowning. Law enforcement sources told the outlet that Perry was found at a …",
-      "Url": "https://www.comingsoon.net/tv/news/1381645-matthew-perry-passes-away-friends-star-was-54",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/imageedit_1_3595472618.jpg?resize=1200,630",
-      "PublishedAt": "2023-10-29T00:25:52Z",
-      "Content": "The television world is in mourning as iconic Friends actor Matthew Perry has passed away at the age of 54.\r\nTMZ is reporting that Matthew Perrys cause of death is due to an apparent drowning. Law en… [+999 chars]"
     }
   ]
 }
