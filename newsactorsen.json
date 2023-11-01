@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 686,
+  "TotalResults": 687,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Snopes.com"
+      },
+      "Author": "Jordan Liles",
+      "Title": "Fact Check: Roseanne Barr's New Show Receives More Views than 'The Conners' Did All Last Season?",
+      "Description": "An online article authentically reports that actor Roseanne Barr was in a new TV show in August 2023 that had more views for its first episode than \"The Conners\" had during an entire season.",
+      "Url": "https://www.snopes.com/fact-check/roseanne-barr-new-show/",
+      "UrlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/10/roseanne_barr_february_2023.jpg",
+      "PublishedAt": "2023-10-31T23:03:00Z",
+      "Content": "Claim:\r\nAn online article authentically reports that actor Roseanne Barr was in a new TV show in August 2023 that had more views for its first episode than \"The Conners\" had during an entire season.\r… [+2979 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/chandler-e1698684453808.jpg?resize=1200,630",
       "PublishedAt": "2023-10-30T16:54:30Z",
       "Content": "Following the untimely passing of Emmy nominee Matthew Perry, Friends creators Marta Kauffman and David Crane have shared a joint statement along with executive producer Kevin Bright, remembering wha… [+1646 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "billboard.com",
-      "Title": "Diddy Releases Trailer For ‘Off The Grid’ Movie Inspired By ‘The Love Album’",
-      "Description": "After releasing his new album, The Love Album: Off The Grid, last month, Diddy is upping the ante with his forthcoming film, Off The Grid. The first trailer for the film — powered by the sonics off The Love Album — dropped on Monday morning (Oct. 30) and feat…",
-      "Url": "https://biztoc.com/x/264b0fc7b1e2ecb3",
-      "UrlToImage": "https://c.biztoc.com/p/264b0fc7b1e2ecb3/s.webp",
-      "PublishedAt": "2023-10-30T16:14:24Z",
-      "Content": "After releasing his new album, The Love Album: Off The Grid, last month, Diddy is upping the ante with his forthcoming film, Off The Grid. The first trailer for the film powered by the sonics off The… [+295 chars]"
     }
   ]
 }
