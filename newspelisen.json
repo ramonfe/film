@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1383,
+  "TotalResults": 1384,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thedailywtf.com"
+      },
+      "Author": "Remy Porter",
+      "Title": "CodeSOD: Legacy Horrors",
+      "Description": "Today is Halloween, a day filled with chills, horrors, and Jamie Lee Curtis. An interesting aspect of horror movies is how often the roots of the horror lurk in the past. Michael Meyers had been in an asylum for decades before his infamous Halloween rampage. …",
+      "Url": "https://thedailywtf.com/articles/legacy-horrors",
+      "UrlToImage": "https://thedailywtf.com/images/remy/Remy203-300x300.png",
+      "PublishedAt": "2023-10-31T06:30:00Z",
+      "Content": "Today is Halloween, a day filled with chills, horrors, and Jamie Lee Curtis. An interesting aspect of horror movies is how often the roots of the horror lurk in the past. Michael Meyers had been in a… [+10140 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1597/15976769/4213651-200708075155-russo-brothers-chris-evans.jpg",
       "PublishedAt": "2023-10-30T15:57:00Z",
       "Content": "Martin Scorsese is one of the most prolific and acclaimed filmmakers in movie history and has become a legend in his own time. Joe Russo, one half of the Russo Brothers director team with his brother… [+1928 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "UPROXX"
-      },
-      "Author": "Mike Redmond",
-      "Title": "‘The Marvels’: Everything To Know Including The Release Date, Trailer, Cast & More",
-      "Description": "Marvel\r\n\n\nHere's everything we know about the next MCU movie, 'The Marvels.'",
-      "Url": "https://uproxx.com/movies/the-marvels-release-date-trailer-info/",
-      "UrlToImage": "https://uproxx.com/wp-content/uploads/2023/10/the-marvels-feat.jpg?w=710",
-      "PublishedAt": "2023-10-30T15:32:52Z",
-      "Content": "As the holiday movie season kicks into gear, The Marvels is on deck to drop the next MCU installment into theaters. Reprising her role as Captain Marvel, Brie Larson suits up for another intergalacti… [+2206 chars]"
     }
   ]
 }
