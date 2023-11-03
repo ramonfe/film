@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1097,
+  "TotalResults": 1098,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Belén Liotti",
+      "Title": "\"Euphoria\" regresa con una tercera temporada... pero habrá que esperar varios meses más",
+      "Description": "La tercera temporada de Euphoria no se estrenará hasta el 2025. Según confirmó HBO, todavía queda más de un año de espera antes de poder disfrutar de la serie protagonizada por Zendaya.",
+      "Url": "https://cnnespanol.cnn.com/2023/11/02/euphoria-estreno-temporada-hbo-zendaya/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/Zendaya-Euphoria.webp",
+      "PublishedAt": "2023-11-02T22:13:38Z",
+      "Content": "Las 5 series más vistas de 2022, según IMDb 0:56\r\n(CNN) Esta noticia puede dejar un poco tristes a los seguidores de \"Euphoria\": el estreno de la tercera temporada no será tan rápido como esperaban.\r… [+1277 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/46f942/solo-leveling-/840_560.jpeg",
       "PublishedAt": "2023-11-02T09:50:20Z",
       "Content": "Después de arrasar con todo como Webtoon, Solo Leveling incluso ha tenido su propia secuela y obviamente el anime no ha tardado en llegar. El fenómeno surcoreano salta a serie de la mano de A-1 Pictu… [+1398 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Genbeta.com"
-      },
-      "Author": "José Alberto Lizana",
-      "Title": "La NASA ha creado su propio Netflix para mostrar vídeos del espacio exclusivos gratis. Ya tiene fecha de estreno",
-      "Description": "Cuando pensamos en la NASA, automáticamente se nos viene a la mente la imagen de lanzamientos de cohetes al espacio. Pero ahora quieren dar el salto hacia el mundo del streaming con el lanzamiento de un nuevo servicio de transmisión llamado NASA Plus que verá…",
-      "Url": "https://www.genbeta.com/actualidad/nasa-ha-creado-su-propio-netflix-para-mostrar-videos-espacio-exclusivos-gratis-tiene-fecha-estreno",
-      "UrlToImage": "https://i.blogs.es/1c4e71/la-nasa/840_560.jpeg",
-      "PublishedAt": "2023-11-02T09:20:47Z",
-      "Content": "Cuando pensamos en la NASA, automáticamente se nos viene a la mente la imagen de lanzamientos de cohetes al espacio. Pero ahora quieren dar el salto hacia el mundo del streaming con el lanzamiento de… [+1788 chars]"
     }
   ]
 }
