@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 723,
+  "TotalResults": 724,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "Marc Rivers",
+      "Title": "Meg Ryan rethinks the rom-com genre in her new film 'What Happens Later'",
+      "Description": "NPR's Juana Summers speaks with actress and director Meg Ryan about her new movie, What Happens Later, in which former lovers get snowed in at an airport overnight.",
+      "Url": "https://www.npr.org/2023/11/03/1210559546/meg-ryan-rethinks-the-rom-com-genre-in-her-new-film-what-happens-later",
+      "UrlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "PublishedAt": "2023-11-03T22:04:38Z",
+      "Content": "NPR's Juana Summers speaks with actress and director Meg Ryan about her new movie, What Happens Later, in which former lovers get snowed in at an airport overnight."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/496705?v=1698953069",
       "PublishedAt": "2023-11-02T19:23:20Z",
       "Content": "The first weekend of November is set to be a pretty quiet one at movie theaters. Last weekend’s box office winner Five Nights at Freddy’s will likely repeat at the top spot this weekend, but there ar… [+5409 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Brit + Co"
-      },
-      "Author": "Chloe Williams​",
-      "Title": "Morgan Kohan Just Teased \"Sullivan's Crossing\" Season Two",
-      "Description": "Morgan Kohan cannot get enough of Halifax, Nova Scotia. \"Oh my God, I love this city,\" she says. (Told you). Kohan is currently in Halifax filming season two of one of the best TV shows this year: Sullivan's Crossing. When I ask for recommendations (AKA what …",
-      "Url": "https://www.brit.co/morgan-kohan-interview/",
-      "UrlToImage": "https://www.brit.co/media-library/morgan-kohan-sullivan-s-crossing-tv-show-2023.jpg?id=50370808&width=1200&height=600&coordinates=0%2C69%2C0%2C131",
-      "PublishedAt": "2023-11-02T19:04:52Z",
-      "Content": "Morgan Kohan cannot get enough of Halifax, Nova Scotia. \"Oh my God, I love this city,\" she says. (Told you). Kohan is currently in Halifax filming season two of one of the best TV shows this year: Su… [+8026 chars]"
     }
   ]
 }
