@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 898,
+  "TotalResults": 899,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Muere el actor Tyler Christopher, ex marido de Eva Longoria, a los 50 años",
+      "Description": "El final del mes de octubre y este inicio de noviembre hemos podido despedir a grandes figuras del cine, como pudieron ser Cedric Jones, de &apos;La lista final&apos;, Matthew Perr",
+      "Url": "https://www.marca.com/tiramillas/series/2023/11/02/6543eba0268e3e0d738b4576.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/b9c15fe25584704e1815d877d33c8a8c/resize/1200/f/webp/assets/multimedia/imagenes/2023/11/02/16989500335300.jpg",
+      "PublishedAt": "2023-11-03T06:31:41Z",
+      "Content": "El final del mes de octubre y este inicio de noviembre hemos podido despedir a grandes figuras del cine, como pudieron ser Cedric Jones, de 'La lista final', Matthew Perry, de 'Friends', Richard Moll… [+1821 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/01/personalidades-que-murieron-en-especial.jpg",
       "PublishedAt": "2023-11-02T05:23:36Z",
       "Content": "Este 2023 ha traído momentos dolorosos de luto para el mundo del espectáculo, con la muerte de personalidades nacionales e internacionales. En este Día de Muertos, hacemos un recorrido por algunas de… [+5167 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "Pacofrutos",
-      "Title": "José Luis López Vázquez: 262 películas y una vida de cine",
-      "Description": "\"Memoria de delfín\" recuerda esta semana a José Luis López Vázquez, coincidiendo con el catorce aniversario de su fallecimiento, el 2 de noviembre de 2009. Lo hace con el mejor de los testigos: su hijo mayor, José Luis López Magerus, ayudante de Dirección, re…",
-      "Url": "https://www.meneame.net/m/cultura/jose-luis-lopez-vazquez-262-peliculas-vida-cine",
-      "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
-      "PublishedAt": "2023-11-02T04:45:03Z",
-      "Content": "Un admirador, un amigo, un esclavo, un siervo."
     }
   ]
 }

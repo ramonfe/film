@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 255,
+  "TotalResults": 256,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Anonymous",
+      "Title": "2023.2.0b16",
+      "Description": "2023.2.0b16\n\n November 1, 2023\n \n unityhub://2023.2.0b16/d39c1e9d3b7c\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL…",
+      "Url": "https://unity.com/releases/editor/beta/2023.2.0b16",
+      "UrlToImage": null,
+      "PublishedAt": "2023-11-03T06:39:02Z",
+      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+252453 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Truth-Be-Told-Season-3-Streaming.jpg?resize=1200,630",
       "PublishedAt": "2023-10-30T16:55:43Z",
       "Content": "Truth Be Told Season 3 is the latest season of the crime drama series created by Nichelle Tramble Spellman that is based on Katherine Barbers 2017 novel Are You Sleeping. The show revolves around Pop… [+1919 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Harshika Bhatia",
-      "Title": "Unforgotten Season 3 Streaming: Watch & Stream Online via Amazon Prime Video",
-      "Description": "Unforgotten is a British crime drama television series. Created and written by Chris Lang and directed by Andy Wilson, the show introduced its third season, which was broadcast from July 15, 2018, to August 19, 2018. The third season retains its hold on viewe…",
-      "Url": "https://www.comingsoon.net/guides/news/1382539-unforgotten-season-3-streaming-watch-stream-online-via-amazon-prime-video",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Unforgotten-Season-3-Streaming.jpg?resize=1200,630",
-      "PublishedAt": "2023-10-30T13:06:40Z",
-      "Content": "Unforgotten is a British crime drama television series. Created and written by Chris Lang and directed by Andy Wilson, the show introduced its third season, which was broadcast from July 15, 2018, to… [+3343 chars]"
     }
   ]
 }
