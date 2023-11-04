@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 256,
+  "TotalResults": 257,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Legacy HBO Max ad-free subscribers will lose access to 4K streams soon",
+      "Description": "In just a bit over a month, legacy HBO Max subscribers paying for ad-free streaming will be losing a couple of perks they're enjoying. One of those is 4K streaming. According to The Verge , the streaming service has started sending affected subscribers an ema…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172162238",
+      "UrlToImage": null,
+      "PublishedAt": "2023-11-03T09:34:28Z",
+      "Content": "In just a bit over a month, legacy HBO Max subscribers paying for ad-free streaming will be losing a couple of perks they're enjoying. One of those is 4K streaming. According to The Verge, the stream… [+1712 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Collage-Maker-31-Oct-2023-01-41-AM-1305.jpg?resize=1200,630",
       "PublishedAt": "2023-10-30T20:14:35Z",
       "Content": "Set during the Cold War, The AmericansSeason 1 is an American period spy drama television series created by Joe Weisberg. The show centers on Elizabeth (Keri Russell) and Philip Jennings (Matthew Rhy… [+2329 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Namrataghosh",
-      "Title": "Truth Be Told Season 3 Streaming: Watch & Stream Online via Apple TV Plus",
-      "Description": "Truth Be Told Season 3 is the latest season of the crime drama series created by Nichelle Tramble Spellman that is based on Katherine Barber’s 2017 novel “Are You Sleeping”. The show revolves around Poppy Parnell, an investigative reporter turned true crime p…",
-      "Url": "https://www.comingsoon.net/guides/news/1381738-truth-be-told-season-3-streaming-watch-stream-online-via-apple-tv-plus",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Truth-Be-Told-Season-3-Streaming.jpg?resize=1200,630",
-      "PublishedAt": "2023-10-30T16:55:43Z",
-      "Content": "Truth Be Told Season 3 is the latest season of the crime drama series created by Nichelle Tramble Spellman that is based on Katherine Barbers 2017 novel Are You Sleeping. The show revolves around Pop… [+1919 chars]"
     }
   ]
 }
