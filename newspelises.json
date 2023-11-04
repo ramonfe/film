@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 192,
+  "TotalResults": 193,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Marina Velasco",
+      "Title": "Estos son los estrenos de cine de este fin de semana: De 'Suegros de alquiler' a 'Juniper'",
+      "Description": "Una comedia francesa encabeza la cartelera de este fin de semana que se encuentra rebosante de títulos. Algunas cintas han adelantado su estreno en cines y también ocupan un lugar destacado",
+      "Url": "https://www.elconfidencial.com/cultura/cine/2023-11-03/estrenos-cine-3-de-noviembre_3766196/",
+      "UrlToImage": "https://images.ecestaticos.com/yrFQ5qQjoEgipy7Yg4N4Nr8lAGQ=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/8d9/d93/c1a/8d9d93c1a37780349c36d68170f1aada.jpg",
+      "PublishedAt": "2023-11-03T04:00:00Z",
+      "Content": "La inquietante anécdota de uno de los estrenos de cine de esta semana: el miedo se apoderó del equipo'Los asesinos de la luna', la prostitución del hombre blanco, según ScorseseLlega el frío y hay un… [+3930 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/0abaa5/fred/840_560.jpeg",
       "PublishedAt": "2023-10-30T14:01:44Z",
       "Content": "Dada la popularidad del juego que adapta, era de esperar un considerable éxito en taquilla, pero no hasta este punto: 'Five Nights at Freddy's', basada en el popularísimo videojuego indie de terror, … [+4457 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Víctor López G.",
-      "Title": "Josh Hartnett pasa de Christopher Nolan a M. Night Shyamalan: ya se rueda el nuevo thriller del director de 'Llaman a la puerta' a pesar de la huelga de actores",
-      "Description": "Ya han pasado unos nueve meses desde que M. Night Shyamalan regresó a nuestras salas de cine —lo cual es siempre una buena noticia— con 'Llaman a la puerta', su adaptación particular de la novela 'La cabaña del fin del mundo' de Paul Tremblay con la que nos o…",
-      "Url": "https://www.espinof.com/en-rodaje/josh-hartnett-pasa-christopher-nolan-a-m-night-shyamalan-se-rueda-nuevo-thriller-director-llaman-a-puerta-a-pesar-huelga-actores",
-      "UrlToImage": "https://i.blogs.es/b24449/slack-imgs/840_560.jpeg",
-      "PublishedAt": "2023-10-30T13:01:44Z",
-      "Content": "Ya han pasado unos nueve meses desde que M. Night Shyamalan regresó a nuestras salas de cine lo cual es siempre una buena noticia con 'Llaman a la puerta', su adaptación particular de la novela 'La c… [+1671 chars]"
     }
   ]
 }
