@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1098,
+  "TotalResults": 1054,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La serie recomendada de Netflix para maratonear este noviembre con lluvia",
+      "Description": "Se trata de un drama romántico estadounidense de cuatro capítulos ambientado en Francia durante la Segunda Guerra Mundial y cuenta con el director de Stranger Things y el guionista de Peaky Blinders",
+      "Url": "https://www.lanacion.com.ar/espectaculos/la-serie-recomendada-de-netflix-para-maratonear-este-noviembre-con-lluvia-nid02112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/aria-mia-loberti-en-la-luz-que-no-puedes-ver-la-SPXDKNJRL5DLPJASP44KYO24TY.jpg?auth=5080525a2baf434885e3a74a4c94507ae8129f856fd9d985fc4e881c5b79850d&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-11-02T23:50:04Z",
+      "Content": "El mes de noviembre arrancó a pura lluvia, y es probable que se aproximen más jornadas pasadas por agua para lo que resta del mes. Si esto resulta así, el clima del penúltimo mes del año se convertir… [+3121 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/65436e0d51b0307ad8d6d5e4/16:9/w_1280,c_limit/Captura%20de%20pantalla%202023-11-02%20a%20las%2010.38.06.png",
       "PublishedAt": "2023-11-02T10:38:55Z",
       "Content": "Desde que se convirtió en una sensación viral allá por 2014, Five Nights at Freddy's ha logrado construir una de las franquicias más improbables e idiosincrásicas de la historia de los videojuegos in… [+5000 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "Los cazadores de ‘Solo Leveling’ brillan en un nuevo tráiler con acción, espadazos y musicote a ritmo de K-pop",
-      "Description": "Después de arrasar con todo como Webtoon, ‘Solo Leveling’ incluso ha tenido su propia secuela y obviamente el anime no ha tardado en llegar. El fenómeno surcoreano salta a serie de la mano de A-1 Pictures, uno de los estudios más veteranos de Japón, y ya con …",
-      "Url": "https://www.espinof.com/anime/cazadores-solo-leveling-brillan-nuevo-trailer-accion-espadazos-musicote-a-ritmo-k-pop",
-      "UrlToImage": "https://i.blogs.es/46f942/solo-leveling-/840_560.jpeg",
-      "PublishedAt": "2023-11-02T09:50:20Z",
-      "Content": "Después de arrasar con todo como Webtoon, Solo Leveling incluso ha tenido su propia secuela y obviamente el anime no ha tardado en llegar. El fenómeno surcoreano salta a serie de la mano de A-1 Pictu… [+1398 chars]"
     }
   ]
 }
