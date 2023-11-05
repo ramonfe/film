@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 905,
+  "TotalResults": 906,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "Arnold Schwarzenegger contrató a un logopeda para perder su acento. Sale mal",
+      "Description": "El que fuera gobernador de California pero sobre todo héroe de acción en la gran pantalla, Arnold Schwarzenegger, ha hablado recientemente de su serie documental para Netflix Arnold. Lo ha hecho en el programa The Graham Norton Show, donde ha desvelado varios…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/arnold-schwarzenegger-contrato-a-un-logopeda-para-perder-su-acento-p-d-sale-mal",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/arnold-schwarzenegger.jpg?width=1200",
+      "PublishedAt": "2023-11-04T16:30:27Z",
+      "Content": "Schwarzenegger, campechano\r\nEl que fuera gobernador de California pero sobre todo héroe de acción en la gran pantalla, Arnold Schwarzenegger, ha hablado recientemente de su serie documental para Netf… [+2603 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/1f863a29-2c2a-4ba2-952c-8659b9e41567_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-11-03T10:13:08Z",
       "Content": "Joaquín Sánchez se sentó este jueves conBárbara Rey en una entrega de Joaquín, el novato que sirvió como promoción del estreno en abierto de Cristo y Rey, serie de Atresplayer sobre la vida de la ved… [+2740 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Victoria González",
-      "Title": "Los actores de 'Friends' están \"destruidos\" por la muerte de Matthew Perry: \"Es como si hubiera muerto un hermano\"",
-      "Description": "FAMILIA DE AMIGOS El director de la emblemática serie ha hablado abiertamente sobre la perdida del actor que interpretó durante 10 temporadas a Chandler Bing.Los actores de 'Friends' están \"destruidos\" por la muerte de Matthew Perry: \"Es como si hubiera muert…",
-      "Url": "https://www.ecartelera.com/noticias/actores-friends-destruidos-muerte-matthew-perry-75254/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/75200/75254-h2.jpg",
-      "PublishedAt": "2023-11-03T10:11:00Z",
-      "Content": "James Burrows, director de 'Friends', participó del programa Today para expresar su tristeza por la pérdida del actor Matthew Perry. Al igual que otros miembros del equipo y elenco, Burrows describió… [+1785 chars]"
     }
   ]
 }
