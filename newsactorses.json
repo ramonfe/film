@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 923,
+  "TotalResults": 924,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Belén Liotti",
+      "Title": "Crean una fundación en honor a Matthew Perry para ayudar a personas con adicciones",
+      "Description": "Tras la muerte del actor de la serie \"Friends\", Matthew Perry, se inauguró una fundación que lleva su nombre para ayudar a las personas que lidian con problemas de adicción.",
+      "Url": "https://cnnespanol.cnn.com/2023/11/03/matthew-perry-friends-fundacion-drogas-adiccion-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/matthew-perry.webp",
+      "PublishedAt": "2023-11-03T23:20:51Z",
+      "Content": "Matthew Perry habla sobre sus problemas con las drogas 0:55\r\n(CNN) -- Crean una fundación bajo el nombre de Matthew Perry con el objetivo de ayudar a las personas que \"luchan contra la enfermedad de … [+1171 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/fdbdc64a-f3e6-4e2a-a64e-901764cf885d_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-11-02T20:50:13Z",
       "Content": "El Ministerio de la Seguridad Social trabaja en un decreto para facilitar la devolución fraccionada, a plazos, de las prestaciones cobradas de manera “indebida”, como las denomina el organismo públic… [+777 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Víctor López G.",
-      "Title": "Marvel Studios está pasando por uno de sus momentos más delicados y tiene dos grandes frentes abiertos: el escándalo de Jonathan Majors y el drama de los efectos visuales",
-      "Description": "Tras 15 años de hegemonía superheróica —sí, 'Iron Man' se estrenó en 2008 y ya estamos en 2023—, parece que Marvel Studios no pasa por su mejor momento. A la saturación hacia el subgénero que es cada vez más evidente debemos sumar un exceso de producción y un…",
-      "Url": "https://www.espinof.com/proyectos/marvel-studios-esta-pasando-uno-sus-momentos-delicados-tiene-dos-grandes-frentes-abiertos-su-problemon-jonathan-majors-vfx",
-      "UrlToImage": "https://i.blogs.es/1d39a8/4014284-untitled-4/840_560.jpeg",
-      "PublishedAt": "2023-11-02T19:30:52Z",
-      "Content": "Tras 15 años de hegemonía superheróica sí, 'Iron Man' se estrenó en 2008 y ya estamos en 2023, parece que Marvel Studios no pasa por su mejor momento. A la saturación hacia el subgénero que es cada v… [+3887 chars]"
     }
   ]
 }
