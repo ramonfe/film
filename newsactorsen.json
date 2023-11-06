@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 670,
+  "TotalResults": 671,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Los Angeles Times"
+      },
+      "Author": "Carlos De Loera",
+      "Title": "Russell Brand accused of sexual assault on 'Arthur' movie set in latest lawsuit",
+      "Description": "Russell Brand has been accused of sexual assault in a New York state lawsuit by an actor who performed as an extra on the film set of 2011's 'Arthur.'",
+      "Url": "https://www.latimes.com/entertainment-arts/story/2023-11-05/russell-brand-accused-sexual-assault-arthur-movie-set-latest-lawsuit",
+      "UrlToImage": "https://ca-times.brightspotcdn.com/dims4/default/99d487d/2147483647/strip/true/crop/5184x2722+0+367/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffc%2Fb8%2F52353c58463aac0d041f4ed010b5%2Fbritain-protest.JPEG",
+      "PublishedAt": "2023-11-05T20:29:18Z",
+      "Content": "Russell Brand is being accused of sexual assault by an actor who worked as an extra on the set of the 2011 Brand-led film Arthur in a new court filing.\r\nThe court document, obtained by Insider, was f… [+2936 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/pattinson-boy-heron-hp.jpg?quality=75&strip=all&w=1024",
       "PublishedAt": "2023-11-03T19:29:24Z",
       "Content": "Is that really you, Robert?\r\nThe English-language trailer for legendary Japanese filmmaker Hayao Miyazakis likely final movie, The Boy and the Heron, dropped Thursday.\r\nAnd in the preview of the anim… [+1702 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NPR"
-      },
-      "Author": "",
-      "Title": "Meg Ryan on what romance means to her — and why her new movie isn't really a rom-com",
-      "Description": "The queen of rom-coms plays with the genre in her new film, What Happens Later.\nWho is she? Meg Ryan is an actor, writer and director, most popularly known as the star of Nora Ephron's hit romantic comedies like When Harry Met Sally..., Sleepless in Seattle a…",
-      "Url": "https://www.npr.org/2023/11/03/1210400843/meg-ryan-what-happens-later-movie-david-duchovny",
-      "UrlToImage": "https://media.npr.org/assets/img/2023/11/03/gettyimages-1342595945_wide-93acae760a9194774a69bc90dd68ca0b9b650727-s1400-c100.jpg",
-      "PublishedAt": "2023-11-03T19:19:04Z",
-      "Content": "Meg Ryan is back on the big screen after a break from acting.\r\nAmy Sussman/Getty Images\r\nThe queen of rom-coms plays with the genre in her new film, What Happens Later.\r\nWho is she? Meg Ryan is an ac… [+3330 chars]"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1012,
+  "TotalResults": 1014,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Así están hoy los actores de Six Feet Under, la aclamada serie de HBO que podés ver en Netflix",
+      "Description": "El programa de televisión creado por Alan Ball ahora está disponible en Netflix después de más de 20 años de su estreno; ¿qué pasó con sus protagonistas?",
+      "Url": "https://www.lanacion.com.ar/espectaculos/asi-estan-hoy-los-actores-de-six-feet-under-la-aclamada-serie-de-hbo-que-podes-ver-en-netflix-nid05112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/six-feet-under-esta-disponible-en-2COLMFQUQRHZXAR4D7BQ237Y5U.jpg?auth=0a9bac1dc062f15085d2b1e31ebf62e0d3c0c0977835e45f8d45b727d15bd3ab&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-11-05T20:29:40Z",
+      "Content": "Después de 20 años de su estreno, Six Feet Underes una de las series de HBO más aclamadas y se considera que tiene uno de los mejores finales de la historia. Sus fanáticos se emocionaron al conocer q… [+5041 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -331,6 +344,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Inés Álvarez",
+      "Title": "Hugo Silva: \"Nos estamos acostumbrando a convivir con la mentira\"",
+      "Description": "Hugo Silva (Madrid, 1977) es uno de los rostros más populares de nuestro panorama actoral. Y no solo porque ha dado vida a Pacino en la serie 'El Ministerio del Tiempo', que se ve hasta en colegios e institutos, sino porque no para. Su último trabajo es en la…",
+      "Url": "https://www.elperiodico.com/es/series/20231104/entrevista-hugo-silva-mentiras-pasajeras-skayshowtime-94125771",
+      "UrlToImage": "https://estaticos-cdn.elperiodico.com/clip/7c255f9e-2958-4cd6-aa61-1a00aaed4a34_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-11-04T06:00:26Z",
+      "Content": "Hugo Silva (Madrid, 1977) es uno de los rostros más populares de nuestro panorama actoral. Y no solo porque ha dado vida a Pacino en la serie 'El Ministerio del Tiempo', que se ve hasta en colegios e… [+6247 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Hipertextual"
       },
       "Author": "Ebenizer Pinedo",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i.blogs.es/b2c8bb/x720/840_560.jpeg",
       "PublishedAt": "2023-11-03T23:08:06Z",
       "Content": "Que Marvel pasa por un momento delicado es algo fuera de toda duda, como también lo es que algunos de sus próximos lanzamientos provocan más pereza que otra cosa. Eso es lo que sucedía hasta ahora co… [+1409 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "MartinPixel",
-      "Title": "'Invincible', 'BTS: Yet To Come', 'John Wick 4' y 'De Viaje con los Derbez' llegan a Prime Video en México: estrenos de noviembre",
-      "Description": "Noviembre es un mes lleno de acción en los estrenos de Amazon Prime Video, iniciando por 'Invincible', una de sus series más importantes y actualmente un referente en las producciones de superhéroes. Si buscamos algo con actores reales podemos ver 'John Wick …",
-      "Url": "https://www.xataka.com.mx/streaming/invincible-bts-yet-to-come-john-wick-4-viaje-derbez-llegan-a-prime-video-mexico-estrenos-noviembre",
-      "UrlToImage": "https://i.blogs.es/6bd058/invincible-temporada-2/840_560.jpeg",
-      "PublishedAt": "2023-11-03T23:00:59Z",
-      "Content": "Noviembre es un mes lleno de acción en los estrenos de Amazon Prime Video, iniciando por 'Invincible', una de sus series más importantes y actualmente un referente en las producciones de superhéroes.… [+5777 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hipertextual"
-      },
-      "Author": "Gonzalo Franco",
-      "Title": "Así conecta el final de ‘Gen V’ con la temporada 4 de ‘The Boys’",
-      "Description": "Gen V, el primer spin-off en acción real de The Boys, ha llegado a su fin. La primera temporada de la nueva serie ha estrenado su octavo y último episodio en Amazon Prime Video. Y lo ha hecho con un desenlace sorprendente y muy, muy violento. Es decir, manten…",
-      "Url": "http://hipertextual.com/2023/11/final-gen-v-temporada-4-the-boys",
-      "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/11/GEN_V_-_Official_Key_Art_3000.jpg",
-      "PublishedAt": "2023-11-03T22:58:42Z",
-      "Content": "Gen V, el primer spin-off en acción real de The Boys, ha llegado a su fin. La primera temporada de la nueva serie ha estrenado su octavo y último episodio en Amazon Prime Video. Y lo ha hecho con un … [+4708 chars]"
     }
   ]
 }
