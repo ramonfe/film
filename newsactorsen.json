@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 710,
+  "TotalResults": 711,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Independent.ie"
+      },
+      "Author": "Kevin McGahern",
+      "Title": "Kevin McGahern: ‘My worst financial mistake was not following tech bro advice to buy bitcoin when it was just $30’",
+      "Description": "Cavan comedian, TV presenter and actor Kevin McGahern began performing stand-up in 2009 and is now a regular act at festivals such as Electric Picnic, Forbidden Fruit and the Paddy Power Comedy Festival. McGahern became a familiar face  to TV audiences as hos…",
+      "Url": "https://www.independent.ie/business/personal-finance/kevin-mcgahern-my-worst-financial-mistake-was-not-following-tech-bro-advice-to-buy-bitcoin-when-it-was-just-30/a423040350.html",
+      "UrlToImage": "https://focus.independent.ie/thumbor/oPJzEUn4m4FOJllQ46i3BfINObE=/0x415:2223x1897/2223x1482/prod-mh-ireland/311d103e-db9d-4ccd-88c2-0ad7f5532e1b/324cc853-f56b-4389-b6f7-6be9a4188330/Kevin%20McGahern%20%282%29.jpg",
+      "PublishedAt": "2023-11-05T02:30:00Z",
+      "Content": "Cavan comedian, TV presenter and actor Kevin McGahern began performing stand-up in 2009 and is now a regular act at festivals such as Electric Picnic, Forbidden Fruit and the Paddy Power Comedy Festi… [+3148 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-11-03T11:33:18Z",
       "Content": "The Beatles have released another song, the first since 1995. “Now and Then” is being advertised as the final Beatles track, given that two of the members have passed and the other two are well over … [+3991 chars]"
-    },
-    {
-      "Source": {
-        "Id": "engadget",
-        "Name": "Engadget"
-      },
-      "Author": "Mat Smith",
-      "Title": "The Morning After: The final Beatles song was made with a little help from AI",
-      "Description": "The Beatles have released another song, the first since 1995. “Now and Then” is being advertised as the final Beatles track, given that two of the members have passed and the other two are well over 80 years old. But then again, millionaires do love money.\nTh…",
-      "Url": "https://www.engadget.com/the-morning-after-the-final-beatles-song-was-made-with-a-little-help-from-ai-111541406.html",
-      "UrlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-11/833a74a0-7a2c-11ee-adf3-2b328f456f4f",
-      "PublishedAt": "2023-11-03T11:15:41Z",
-      "Content": "The Beatles have released another song, the first since 1995. Now and Then is being advertised as the final Beatles track, given that two of the members have passed and the other two are well over 80… [+3735 chars]"
     }
   ]
 }
