@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 913,
+  "TotalResults": 915,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Disney censura una de las escenas más icónicas de 'Los Simpson': «Los tiempos han cambiado»",
+      "Description": "Las series televisivas que permanecen en emisión durante largos periodos de tiempo suelen experimentar grandes cambios a lo largo de los años. Estos relatos audiovisuales, que han perdurado a lo largo de los años, no solo son un reflejo de la evolución técnic…",
+      "Url": "https://www.abc.es/play/television/noticias/disney-censura-escenas-iconicas-simpson-tiempos-cambiado-20231105222237-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/11/04/simpsons-U70843100022kWS-1024x512@abc.jpg",
+      "PublishedAt": "2023-11-05T04:02:16Z",
+      "Content": "Las series televisivas que permanecen en emisión durante largos periodos de tiempo suelen experimentar grandes cambios a lo largo de los años. Estos relatos audiovisuales, que han perdurado a lo larg… [+2553 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Álvaro Rey",
+      "Title": "Los felices 55 de Aitana Sánchez-Gijón: la historia de una musa del cine y la moda (contada por sus estilistas)",
+      "Description": "Con motivo del cumpleaños de la actriz, hablamos con José Juan Rodríguez y Paco Casado, de 'Change is good’ y responsables de sus estilismos, para descubrir las claves de su éxito",
+      "Url": "https://www.vanitatis.elconfidencial.com/estilo/moda/2023-11-05/aitana-sanchez-gijon-55-cumpleanos-claves-de-estilo-look-entrevista_3766820/",
+      "UrlToImage": "https://images.ecestaticos.com/BWr4_xaLd5iPBCJxHcY-vRPHHyc=/0x0:1024x690/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/0f2/6d9/13e/0f26d913e1b27ca111e62b656aa354da.png,0,275,1)/f.elconfidencial.com/original/271/89f/b62/27189fb629a29a8f1ccd4f9aec4a2ce3.jpg",
+      "PublishedAt": "2023-11-05T04:00:00Z",
+      "Content": "Año 1984. España se enamora perdidamente de una jovencísima y desconocida Aitana Sánchez-Gijón, quien a sus tan solo 16 años se estrena en televisión de la mano de Pedro Masó y la serie Segunda enseñ… [+4366 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://borderperiodismo.com/wp-content/uploads/2023/11/Boceto-2023-11-03T105853.314.png",
       "PublishedAt": "2023-11-03T14:00:40Z",
       "Content": "La destacada actriz Sofía Gala Castiglione, hija de Moria Casán, fue protagonista de un tenso momento en el Aeroparque de Buenos Aires durante el pasado jueves. Todo sucedió justo antes de emprender … [+1626 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Madonna sorprendió en Barcelona al subir a Úrsula Corberó al escenario",
-      "Description": "Úrsula Corberó contó hace un par de años en el programa de Jimmy Fallon que había conocido a Madonna en un avión. Aquel encuentro totalmente casual forjó entre ellas una relación que este jueves se hizo más que evidente. La actriz catalana subió al escenario …",
-      "Url": "https://www.eldiario.es/vertele/videos/actualidad/madonna-concierto-barcelona-ursula-corbero-juego-bailarines_7_10654874.html",
-      "UrlToImage": "https://static.eldiario.es/clip/be848ea5-fb2a-441d-81b3-a77f49183fb0_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-11-03T13:42:54Z",
-      "Content": "Úrsula Corberó contó hace un par de años en el programa de Jimmy Fallon que había conocido a Madonna en un avión. Aquel encuentro totalmente casual forjó entre ellas una relación que este jueves se h… [+1419 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Avance de 'La Promesa' hoy, viernes 3 de noviembre",
-      "Description": "Con 'La Promesa' no hay mal que por bien no venga. Si hace una semana, los seguidores del serial de época se quedaron sin nuevo capítulo 'por culpa' del fútbol, los programadores de TVE decidieron que esta semana, festivo mediante, no iban a dar más disgustos…",
-      "Url": "https://www.abc.es/play/series/noticias/avance-promesa-hoy-viernes-noviembre-20231103140928-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/11/03/candela-promesa-ksZG--1024x512@abc.png",
-      "PublishedAt": "2023-11-03T13:09:29Z",
-      "Content": "Con 'La Promesa' no hay mal que por bien no venga. Si hace una semana, los seguidores del serial de época se quedaron sin nuevo capítulo 'por culpa' del fútbol, los programadores de TVE decidieron qu… [+1200 chars]"
     }
   ]
 }
