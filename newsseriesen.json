@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 246,
+  "TotalResults": 247,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Areebamasood",
+      "Title": "Holiday Wars Season 4 Streaming: Watch & Stream Online via HBO Max",
+      "Description": "Holiday Wars Season 4 is a reality baking competition show where teams of three pastry chefs compete to create the most fantastical and festive holiday confectioneries. In each episode the teams are given a different holiday challenge, and are judged on their…",
+      "Url": "https://www.comingsoon.net/movies/news/1390710-holiday-wars-season-4-streaming-watch-stream-online-via-hbo-max",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Untitled-design-21.jpg?resize=1200,630",
+      "PublishedAt": "2023-11-06T15:28:54Z",
+      "Content": "Holiday Wars Season 4 is a reality baking competition show where teams of three pastry chefs compete to create the most fantastical and festive holiday confectioneries. In each episode the teams are … [+2922 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2023/10/black-mirror-amazon-echo.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2023-10-31T21:26:41Z",
       "Content": "If you have a smart home device, you’ve likely had to do some troubleshooting. But sometimes, you ain’t got no crystal ball. \r\nTikToker @violet.the.ausshole posted her own struggle with a new Ecobee … [+2368 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.3.0a12",
-      "Description": "2023.3.0a12\n\n October 31, 2023\n \n unityhub://2023.3.0a12/3268c45751a1\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL…",
-      "Url": "https://unity.com/releases/editor/alpha/2023.3.0a12",
-      "UrlToImage": null,
-      "PublishedAt": "2023-10-31T20:54:47Z",
-      "Content": "<li>2D: Fix Case where Sprite Atlas's secondary texture is not rendered when used in a ShaderGraph\r\n(UUM-46398)\r\n</li><li>2D: Fix dynamic batching for TilemapRenderer in Individual mode and SpriteRen… [+116009 chars]"
     }
   ]
 }
