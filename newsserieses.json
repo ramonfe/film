@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1000,
+  "TotalResults": 1002,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "James Gunn esquiva la huelga de actores y confirma que el primer proyecto del nuevo DCEU mantiene su fecha de estreno",
+      "Description": "DC Studios se encuentra en un momento crítico tras un año lleno de problemas. Después de un 2023 desastroso a nivel de taquilla, el estudio propiedad de Warner intentará remontar el vuelo con Aquaman y el Reino Perdido. Aún así, 2024 parece prometedor, ya que…",
+      "Url": "https://www.vidaextra.com/series/james-gunn-esquiva-huelga-actores-confirma-que-primer-proyecto-nuevo-dceu-mantiene-su-fecha-estreno",
+      "UrlToImage": "https://i.blogs.es/64c629/creature-commandos/840_560.jpeg",
+      "PublishedAt": "2023-11-06T17:31:28Z",
+      "Content": "DC Studios se encuentra en un momento crítico tras un año lleno de problemas. Después de un 2023 desastroso a nivel de taquilla, el estudio propiedad de Warner intentará remontar el vuelo con Aquaman… [+1591 chars]"
+    },
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Aarón Márquez",
+      "Title": "Stranger Things: The First Shadow revela un detalle clave sobre el origen de Vecna",
+      "Description": "La muerte de alguien acaba de volverse un poco más triste.\nProbablemente este detalle os interese especialmente a los que sois muy fans de Stranger Things, la exitosa serie de Netflix.",
+      "Url": "https://es.ign.com/stranger-things/195887/news/stranger-things-the-first-shadow-revela-un-detalle-clave-sobre-el-origen-de-vecna",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/news/s/stranger-t/stranger-things-the-first-shadow-featurette-reveals-a-key-de_7b6h.1200.jpg",
+      "PublishedAt": "2023-11-06T17:15:25Z",
+      "Content": "Como ya hemos dicho, en la cuarta temporada descubrimos que Henry Creel/One/Vecna tiene una enorme conexión con el Upside Down. Aún no conocemos todos los detalles de los poderes de Vecna, pero, como… [+4015 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i.blogs.es/487adb/urkel/840_560.jpeg",
       "PublishedAt": "2023-11-05T11:01:18Z",
       "Content": "El 22 de septiembre de 1989 se estrenó una serie en ABC destinada a narrar las aventuras y desventuras de una familia afroamericana que siempre acababa cada episodio con una pequeña moraleja. Pero 'C… [+5477 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Alberto García",
-      "Title": "El LEGO de 'Star Wars' con más valoraciones en Amazon es una fantástica construcción de una de las mejores series de Disney",
-      "Description": "'Star Wars\r\n' está sumando más y más series con el paso de los años, pero somos pocos los que dejamos a un lado 'The Mandalorian\r\n'. La icónica serie protagonizada por Pedro Pascal ('The Last of Us\r\n') ha conseguido calar al público por muchos motivos, e indu…",
-      "Url": "https://www.espinof.com/seleccion/lego-star-wars-valoraciones-amazon-fantastica-construccion-mejores-series-disney",
-      "UrlToImage": "https://i.blogs.es/d83cfe/the-mandalorian/840_560.jpeg",
-      "PublishedAt": "2023-11-05T10:01:18Z",
-      "Content": "'Star Wars\r\n' está sumando más y más series con el paso de los años, pero somos pocos los que dejamos a un lado 'The Mandalorian\r\n'. La icónica serie protagonizada por Pedro Pascal ('The Last of Us\r\n… [+2091 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "David Fincher sobre El club de la lucha: No la he visto en 20 años ni quiero hacerlo",
-      "Description": "David Fincher, el renombrado director de cine responsable de películas como El club de la lucha, Seven, Zodiac _y la recién estrenada _El asesino, ha confesado en una reciente entrevista con la revista CQ que no ha visto la película protagonizada por Brad Pit…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/david-fincher-sobre-el-club-de-la-lucha-no-la-he-visto-en-20-anos-ni-quiero-hacerlo",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/10/david-fincher.jpg?width=1200",
-      "PublishedAt": "2023-11-05T10:00:18Z",
-      "Content": "David Fincher, el renombrado director de cine responsable de películas como El club de la lucha, Seven, Zodiac _y la recién estrenada _El asesino, ha confesado en una reciente entrevista con la revis… [+2751 chars]"
     }
   ]
 }
