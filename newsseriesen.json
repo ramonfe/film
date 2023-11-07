@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 250,
+  "TotalResults": 246,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Evan Campbell",
+      "Title": "Marvel's Echo Is Coming To Disney Plus And Hulu, Here's The First Trailer",
+      "Description": "For the first time ever, a MCU TV show will debut on Hulu as well as Disney+ with Echo. Not only that, but the five-episode series will debut with the entire season available to watch starting January 10 on both streaming services.The official trailer for Ech…",
+      "Url": "https://www.gamespot.com/articles/marvels-echo-is-coming-to-disney-plus-and-hulu-heres-the-first-trailer/1100-6518928/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1813/18138562/4216902-marvelechotrailer.png",
+      "PublishedAt": "2023-11-06T14:17:00Z",
+      "Content": "For the first time ever, a MCU TV show will debut on Hulu as well as Disney+ with Echo. Not only that, but the five-episode series will debut with the entire season available to watch starting Januar… [+1530 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-10-31T20:54:47Z",
       "Content": "<li>2D: Fix Case where Sprite Atlas's secondary texture is not rendered when used in a ShaderGraph\r\n(UUM-46398)\r\n</li><li>2D: Fix dynamic batching for TilemapRenderer in Individual mode and SpriteRen… [+116009 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Harshika Bhatia",
-      "Title": "Unforgotten Season 4 Streaming: Watch & Stream Online via Amazon Prime Video",
-      "Description": "Unforgotten is a critically acclaimed British crime drama television series that has captivated audiences with its gripping narrative and compelling storytelling. Created and written by Chris Lang, and skillfully directed by Andy Wilson, the show has garnered…",
-      "Url": "https://www.comingsoon.net/guides/news/1383980-unforgotten-season-4-streaming-watch-stream-online-via-amazon-prime-video",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Unforgotten-Season-4-Streaming.jpg?resize=1200,630",
-      "PublishedAt": "2023-10-31T12:26:14Z",
-      "Content": "Unforgotten is a critically acclaimed British crime drama television series that has captivated audiences with its gripping narrative and compelling storytelling. Created and written by Chris Lang, a… [+3509 chars]"
     }
   ]
 }
