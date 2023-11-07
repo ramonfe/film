@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 247,
+  "TotalResults": 248,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "Caroline Bologna",
+      "Title": "This WWII Novel Adaptation Is The Top Show On Netflix Right Now",
+      "Description": "An epic family drama and a sci-fi series are also trending on streaming services like Hulu, Apple TV+, Max and Amazon Prime Video.",
+      "Url": "https://www.huffpost.com/entry/all-the-light-we-cannot-see-netflix-shows_l_65441fc6e4b06bc01e23a5c1",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/654928382400003300553335.jpg?cache=9zzWiWBQnX&ops=1200_630",
+      "PublishedAt": "2023-11-06T18:08:07Z",
+      "Content": "All the Light We Cannot See is currently the most popular show on Netflix, according to the streaming services public ranking system.\r\nAn adaptation of Anthony Doerrs Pulitzer Prize winning novel, th… [+2482 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20231031_WST_465903_AppleTVTips.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2023-10-31T23:24:39Z",
       "Content": "With the vast majority of MLS games moving exclusively onto the Apple TV platform from 2023 through 2032, its dramatically changed the way many American fans watch soccer. But whether youre watching … [+5921 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Audra Schroeder",
-      "Title": "‘This is some Black Mirror nonsense’: Smart home thermostat glitches, plays Sublime",
-      "Description": "If you have a smart home device, you've likely had to do some troubleshooting. But sometimes, you ain't got no crystal ball. \n\n\nTikToker @violet.the.ausshole posted her own struggle with a new Ecobee thermostat, but it didn't have anything to do with the temp…",
-      "Url": "https://www.dailydot.com/irl/ecobee-smart-thermostat-plays-music/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/10/black-mirror-amazon-echo.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2023-10-31T21:26:41Z",
-      "Content": "If you have a smart home device, you’ve likely had to do some troubleshooting. But sometimes, you ain’t got no crystal ball. \r\nTikToker @violet.the.ausshole posted her own struggle with a new Ecobee … [+2368 chars]"
     }
   ]
 }
