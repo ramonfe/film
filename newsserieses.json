@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1011,
+  "TotalResults": 1012,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Con tan solo una frase, el director de Scott Pilgrim consiguió reunir a todo el elenco original para participar en el anime de Netflix",
+      "Description": "Quedan pocas semanas para que Netflix estrene, al fin, uno de los animes más esperados de la plataforma: Scott Pilgrim da el salto. Después de más de una década, el elenco de la película dirigida por Edgar Wright volverá a unirse para una versión jamás vista.…",
+      "Url": "https://www.vidaextra.com/series/solo-frase-director-scott-pilgrim-consiguio-reunir-a-todo-elenco-original-para-participar-anime-netflix",
+      "UrlToImage": "https://i.blogs.es/87f429/scott-pilgrim/840_560.jpeg",
+      "PublishedAt": "2023-11-07T21:31:32Z",
+      "Content": "Quedan pocas semanas para que Netflix estrene, al fin, uno de los animes más esperados de la plataforma: Scott Pilgrim da el salto. Después de más de una década, el elenco de la película dirigida por… [+1403 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/5aa7f5/hechos-polvo/840_560.jpeg",
       "PublishedAt": "2023-11-07T10:31:29Z",
       "Content": "Tras el éxito de 'Cobra Kai', Netflix no lo ha dudado a la hora de apostar por el nuevo proyecto de sus creadores: 'Hechos polvo' es una salvaje comedia negra sobre un equipo de fuerzas especiales y … [+1197 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Así vuelve 'La que se avecina' a Telecinco para estrenar su temporada 14 antes que en Amazon Prime Video",
-      "Description": "Telecinco estrenará este miércoles 8 de noviembre, a partir de las 22:50 horas, el primer capítulo de la decimocuarta temporada de La que se avecina. Lo hará en primicia, dos días antes de que llegue a Amazon Prime Video, que será la que estrene primero la te…",
-      "Url": "https://www.eldiario.es/vertele/noticias/vuelve-avecina-telecinco-estrenar-temporada-14-amazon-prime-video_1_10663133.html",
-      "UrlToImage": "https://static.eldiario.es/clip/fb7db05a-625a-4e66-8ee8-c5de4f73a476_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-11-07T10:24:57Z",
-      "Content": "Telecinco estrenará este miércoles 8 de noviembre, a partir de las 22:50 horas, el primer capítulo de la decimocuarta temporada de La que se avecina. Lo hará en primicia, dos días antes de que llegue… [+2755 chars]"
     }
   ]
 }
