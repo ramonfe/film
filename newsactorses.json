@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 890,
+  "TotalResults": 891,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Encuentran muerto al actor de 35 años que fue una estrella infantil: trabajó en CSI, Bones, 24...",
+      "Description": "Evan Ellingson, actor de 35 años que fue una estrella infantil en el cine y la televisión, ha sido encontrado muerto en su habitación de la residencia en la que vivía en el condado",
+      "Url": "https://www.marca.com/tiramillas/cine/2023/11/07/6549c2e322601d7d428b457e.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/92e5affd32512a2641afd22d71b2df61/resize/1200/f/webp/assets/multimedia/imagenes/2023/11/07/16993329014633.jpg",
+      "PublishedAt": "2023-11-07T05:05:02Z",
+      "Content": "Evan Ellingson, actor de 35 años que fue una estrella infantil en el cine y la televisión, ha sido encontrado muerto en su habitación de la residencia en la que vivía en el condado de San Bernardino … [+1819 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2023/11/05/fecicam-U20342133357qtt-1024x512@abc.jpg",
       "PublishedAt": "2023-11-05T17:55:32Z",
       "Content": "El Festival de Cine Español Emergente (Fecicam) ha comenzado este viernes su décimo cuarta edición, con su gala inaugural a la que acudían numerosas autoridades, además de la actriz argelina Meriem A… [+2784 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nationalgeographic.com.es"
-      },
-      "Author": "www.nationalgeographic.com.es, www.nationalgeographic.com.es",
-      "Title": "¿Por qué muchos sienten la pérdida de Matthew Perry como si fuera un amigo íntimo?",
-      "Description": "En junio de 2009, la muerte de Michael Jackson conmocionó al mundo. Su funeral, celebrado en el Staples Center de Los Ángeles, atrajo a miles de personas, y la transmisión en vivo del evento fue seguida por millones en todo el mundo. En 1997, miles de persona…",
-      "Url": "https://www.nationalgeographic.com.es/ciencia/por-que-muchos-sienten-perdida-matthew-perry-como-si-fuera-amigo-intimo_20994",
-      "UrlToImage": "https://www.nationalgeographic.com.es/medio/2023/11/03/tributo-floral_5e62016b_231103163412_1200x630.jpg",
-      "PublishedAt": "2023-11-05T15:00:00Z",
-      "Content": "En junio de 2009, la muerte de Michael Jackson conmocionó al mundo. Su funeral, celebrado en el Staples Center de Los Ángeles, atrajo a miles de personas, y la transmisión en vivo del evento fue segu… [+7627 chars]"
     }
   ]
 }
