@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 903,
+  "TotalResults": 904,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Quién es Mina Serrano, la española que interpretará a Cris Miró en la nueva serie sobre la vida de la disruptiva vedette trans argentina",
+      "Description": "Oriunda de Granada y con un recorrido que incluye tanto el mundo de la moda como del arte, la actriz de 26 fue la elegida para ponerse en la piel de la recordada artista de los años noventa",
+      "Url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/quien-es-mina-serrano-la-espanola-que-interpretara-a-cris-miro-en-la-nueva-serie-sobre-la-vida-de-la-nid08112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/quien-es-mina-serrano-la-espanola-que-interpreta-SISNFP4DZBF2FGH2FR7DOGETAM.jpg?auth=2f243b59ae25533c0aefeeb674431b2342a27eb62b0f8f5f53be371067e8366d&width=768&quality=70&smart=true",
+      "PublishedAt": "2023-11-08T04:21:01Z",
+      "Content": "Esta semana se anunció en comienzo de las grabaciones de Cris Miró (Ella), la serie original de TNT y Flow basada en la vida de la vedette, actriz y bailarina trans que brilló en los escenarios porte… [+6142 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.hola.com/imagenes/actualidad/20231107243095/silma-lopez-en-la-recta-final-de-embarazo/1-333-888/silma-ep-t.jpg",
       "PublishedAt": "2023-11-07T11:53:21Z",
       "Content": "Si el papel que interpreta en Valeria es el de la amiga más divertida del grupo, fuera de la pantalla Silma López (32 años) lo es todavía más. Más allá de su talento artístico, su carácter jovial y o… [+2959 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "The Mediapro Studio incorpora a la directora y guionista Clara Roquet a su equipo de creadores",
-      "Description": "The Mediapro Studio ha anunciado la incorporación de la guionista y directora Clara Roquet a su equipo de creadores, del que ya forman parte nombres como Ran Tellem, Daniel Burman, Diego San José, Carmen Ortíz, Iván Escobar, Marc Cistaré, Manuel Huerga, Ernes…",
-      "Url": "https://www.eldiario.es/vertele/noticias/the-mediapro-studio-incorpora-directora-guionista-clara-roquet-equipo-creadores_1_10663530.html",
-      "UrlToImage": "https://static.eldiario.es/clip/c596aa9f-7487-4cf8-a275-46bb5d13597d_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-11-07T11:46:53Z",
-      "Content": "The Mediapro Studio ha anunciado la incorporación de la guionista y directora Clara Roquet a su equipo de creadores, del que ya forman parte nombres como Ran Tellem, Daniel Burman, Diego San José, Ca… [+3010 chars]"
     }
   ]
 }
