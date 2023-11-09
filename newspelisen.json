@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1362,
+  "TotalResults": 1363,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Barron's"
+      },
+      "Author": "Liz Moyer",
+      "Title": "AMC's Earnings Will Feature Barbie and Oppenheimer. Maybe Taylor Swift, and Beyoncé, Too.",
+      "Description": "The largest movie theater operator is expected to report a loss of 10 cents a share on sales of $1.26 billion.",
+      "Url": "https://www.barrons.com/articles/amc-earnings-stock-price-121140fa",
+      "UrlToImage": "https://images.barrons.com/im-28448930/social",
+      "PublishedAt": "2023-11-08T07:30:00Z",
+      "Content": "AMC Entertainment\r\n s results, set to be released after tonights closing bell, will be all about this summers blockbuster movie phenomenon known as Barbenheimer.The two movies opened at the beginning… [+1774 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/fbfdcad7a99910f1/s.webp",
       "PublishedAt": "2023-11-07T19:04:20Z",
       "Content": "Nintendo's latest quarterly results delivered better than expected Switch console and software sales, driven to a great extent, according to the Japanese gaming giant, by the April release of The Sup… [+267 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "IndieWire"
-      },
-      "Author": "Tony Maglio",
-      "Title": "Now You Can Overpay Cinemark for Movie Snacks from the Comfort of Your Own Home",
-      "Description": "Cinemark is expanding the reach of its theater-concessions delivery service through DoorDash, Grubhub, and Uber Eats.",
-      "Url": "https://www.indiewire.com/news/breaking-news/cinemark-movie-concessions-delivery-1234923804/",
-      "UrlToImage": "https://www.indiewire.com/wp-content/uploads/2023/11/Concessions.jpg",
-      "PublishedAt": "2023-11-07T18:28:44Z",
-      "Content": "Do you love movie-theater snacks at jacked-up concession-stand prices, but hate the actual experience of going to the movies? Cinemark has got the service for you. The movie-theater chain announced T… [+2289 chars]"
     }
   ]
 }
