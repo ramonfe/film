@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 190,
+  "TotalResults": 191,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Alberto Corona",
+      "Title": "Mucho más que ‘RRR’, España abre las puertas al 'blockbuster' indio",
+      "Description": "Alguien pronuncia el nombre de Alia Bhatt en la pantalla y se oye una carcajada colectiva. Una que quizá no pueda replicarse en muchas otras salas fuera de este multicines de Madrid, donde se proyecta una película llamada Jawan. Seguramente el público congreg…",
+      "Url": "https://www.eldiario.es/cultura/cine/rrr-espana-abre-puertas-blockbuster-indio_1_10663179.html",
+      "UrlToImage": "https://static.eldiario.es/clip/c3a01bb3-5b72-4f30-aca8-0e5ab38db63c_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-11-08T22:14:09Z",
+      "Content": "Alguien pronuncia el nombre de Alia Bhatt en la pantalla y se oye una carcajada colectiva. Una que quizá no pueda replicarse en muchas otras salas fuera de este multicines de Madrid, donde se proyect… [+1120 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/c62fb0/ken-watanabe-batman-begins/840_560.jpeg",
       "PublishedAt": "2023-11-03T15:30:59Z",
       "Content": "La estrategia de Warner de licencias algunas de sus películas y series más populares a otras plataformas ajenas a HBO Max parece no tener fin. Un nuevo ejemplo de ello lo tenemos con la llegada a Net… [+2034 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Applesfera.com"
-      },
-      "Author": "Isra Fdez",
-      "Title": "El mundo del streaming está roto y lo estamos pagando nosotros. Para colmo, Apple TV+ es la peor parada",
-      "Description": "Esta semana, Disney+ acaba de confirmar un nuevo modelo de suscripción a su servicio con anuncios. Vientos de cambio peores que los de la borrasca Ciarán. La tarifa cuesta 5,99 euros al mes y deja al usuario sin la posibilidad de ver contenido sin conexión, a…",
-      "Url": "https://www.applesfera.com/servicios-apple/mundo-streaming-esta-roto-estamos-pagando-nosotros-para-colmo-apple-tv-peor-parada",
-      "UrlToImage": "https://i.blogs.es/5724c9/apple-tv-/840_560.jpeg",
-      "PublishedAt": "2023-11-03T15:00:57Z",
-      "Content": "Esta semana, Disney+ acaba de confirmar un nuevo modelo de suscripción a su servicio con anuncios. Vientos de cambio peores que los de la borrasca Ciarán. La tarifa cuesta 5,99 euros al mes y deja al… [+5679 chars]"
     }
   ]
 }
