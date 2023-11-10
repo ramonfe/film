@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1518,
+  "TotalResults": 1520,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livejournal.com"
+      },
+      "Author": "sandstorm",
+      "Title": "they're at it again; Warner Bros shelves completed film",
+      "Description": "'Coyote Vs. Acme': Finished Live/Action Animated Pic Shelved Completely By Warner Bros As Studio Takes Tax Write-off https://t.co/pJ7xx02alh\r\n— Deadline Hollywood (@DEADLINE) November 9, 2023WB is taking a 30m$ writedown on the 70$m hybrid-animated Coyote vs.…",
+      "Url": "https://ohnotheydidnt.livejournal.com/127201558.html",
+      "UrlToImage": "https://l-stat.livejournal.net/img/sign.png",
+      "PublishedAt": "2023-11-09T22:22:01Z",
+      "Content": "'Coyote Vs. Acme': Finished Live/Action Animated Pic Shelved Completely By Warner Bros As Studio Takes Tax Write-off https://t.co/pJ7xx02alh\r\n— Deadline Hollywood (@DEADLINE) November 9, 2023\r\nWB is … [+286 chars]"
+    },
+    {
+      "Source": {
+        "Id": "usa-today",
+        "Name": "USA Today"
+      },
+      "Author": "Cory Woodroof",
+      "Title": "By shelving 'Coyote vs. Acme', Warner Bros. Discovery continues to show its artistic untrustworthiness",
+      "Description": "You just cannot trust Warner Bros. to actually release a movie it's made anymore.",
+      "Url": "https://ftw.usatoday.com/2023/11/warner-bros-discovery-coyote-acme-shelved-movies-bad",
+      "UrlToImage": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2023/11/USATSI_20973642.jpg?w=1024&h=576&crop=1",
+      "PublishedAt": "2023-11-09T22:07:06Z",
+      "Content": "For the third time since taking over Warner Bros., CEO David Zaslav has killed a movie.\r\nPer Deadline, the studio has completely shelved a finished film in the upcoming Looney Tunes-inspired comedy C… [+5509 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn.whats-on-netflix.com/wp-content/uploads/2023/03/03121556/when-will-The-Super-Mario-Bros-Movie-be-on-Netflix.jpg",
       "PublishedAt": "2023-11-09T17:57:55Z",
       "Content": "The Super Mario Bros. Movie – Picture: Illumination\r\nOne of the biggest blockbusters at the box office in 2023 is undoubtedly the Illumination adaptation of the long-running Nintendo video game serie… [+2712 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BGR"
-      },
-      "Author": "José Adorno",
-      "Title": "tvOS 17.2 adds 3D movie support ahead of Apple Vision Pro release",
-      "Description": "Despite the revamped Apple TV app on tvOS 17.2, it seems the first beta of the Apple TV system has added support for 3D movies. …\nThe post tvOS 17.2 adds 3D movie support ahead of Apple Vision Pro release appeared first on BGR.",
-      "Url": "https://bgr.com/tech/tvos-17-2-adds-3d-movie-support-ahead-of-apple-vision-pro-release/",
-      "UrlToImage": "https://bgr.com/wp-content/uploads/2023/11/tvos-17-2-jurassic-world-3d-movie-bgr.jpg?quality=82&strip=all",
-      "PublishedAt": "2023-11-09T17:57:00Z",
-      "Content": "Despite the revamped Apple TV app on tvOS 17.2, it seems the first beta of the Apple TV system has added support for 3D movies. While no major TV manufacturer offers 3D displays anymore, this could h… [+1954 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lesswrong.com"
-      },
-      "Author": "Zvi",
-      "Title": "AI #37: Moving Too Fast",
-      "Description": "Published on November 9, 2023 5:50 PM GMTWe had OpenAI’s dev day, where they introduced a host of new incremental feature upgrades including a longer context window, more recent knowledge cutoff, increased speed, seamless feature integration and a price drop.…",
-      "Url": "https://www.lesswrong.com/posts/44Cv4HFoWEZvFnL5u/ai-37-moving-too-fast",
-      "UrlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/7o3ZP7EDBpxLNGRG8/k1rmdo5ge8uslwormae6",
-      "PublishedAt": "2023-11-09T17:50:12Z",
-      "Content": "We had OpenAIs dev day, where they introduced a host of new incremental feature upgrades including a longer context window, more recent knowledge cutoff, increased speed, seamless feature integration… [+132215 chars]"
     }
   ]
 }
