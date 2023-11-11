@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 681,
+  "TotalResults": 683,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Noah Hawley Reveals How Much He's Shot of His ALIEN Series; Says It Won't Premiere Until 2025",
+      "Description": "Fargo and Legion creator Noah Hawley has been in production on his upcoming Alien TV series for FX, but because of the actors’ strike, which recently ended, there’s only been so much that he can do. He has been shooting some of the series without its SAG-AFTR…",
+      "Url": "https://geektyrant.com/news/noah-hawley-reveals-how-much-hes-shot-of-his-alien-series-says-it-wont-premiere-until-2025",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/654c17c43fe045172bfad74b/1699632057296/noah-hawley-reveals-how-much-hes-shot-of-his-alien-series-says-it-wont-premiere-until-2025.jpg?format=1500w",
+      "PublishedAt": "2023-11-10T16:00:00Z",
+      "Content": "Fargo and Legion creator Noah Hawley has been in production on his upcoming Alien TV series for FX, but because of the actors strike, which recently ended, theres only been so much that he can do. He… [+2415 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/bec2a742807747fb/s.webp",
       "PublishedAt": "2023-11-09T14:40:08Z",
       "Content": "Israeli actress Gal Gadot did not turn up to her own screening of a film documenting the Hamas attack on her native country.Called Bearing Witness, the 43-minute film was described as \"extremely grap… [+295 chars]"
-    },
-    {
-      "Source": {
-        "Id": "newsweek",
-        "Name": "Newsweek"
-      },
-      "Author": "Shannon Power",
-      "Title": "Gal Gadot's Absence From Hamas Movie Screening Raises Questions",
-      "Description": "The \"Wonder Woman\" actress helped bring the movie to Hollywood but missed the screening, with people asking why.",
-      "Url": "https://www.newsweek.com/gal-gadot-hamas-movie-hollywood-1842286",
-      "UrlToImage": "https://d.newsweek.com/en/full/2306830/gal-gadot-red-carpet.jpg",
-      "PublishedAt": "2023-11-09T14:29:04Z",
-      "Content": "Israeli actress Gal Gadot did not turn up to her own screening of a film documenting the Hamas attack on her native country.\r\nCalled Bearing Witness, the 43-minute film was described as \"extremely gr… [+3357 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TMZ"
-      },
-      "Author": "TMZ Staff",
-      "Title": "Gal Gadot Facilitated Film Screening Turns Violent Outside L.A. Theater",
-      "Description": "A movie screening -- facilitated by actress Gal Gadot -- about the October 7 Hamas terror attack on Israel turned into a battleground of sorts ... as protestors clashed outside the Los Angeles theater where it was shown. About 150 people attended…",
-      "Url": "https://www.tmz.com/2023/11/09/gal-gadot-film-screening-hamas-attack-israel-palestine-protests-los-angeles/",
-      "UrlToImage": "https://imagez.tmz.com/image/4e/16by9/2023/11/09/4e8548d4323a4cafacabaceaa5be9561_xl.jpg",
-      "PublishedAt": "2023-11-09T13:55:34Z",
-      "Content": "A movie screening -- facilitated by actress Gal Gadot -- about the October 7 Hamas terror attack on Israel turned into a battleground of sorts ... as protestors clashed outside the Los Angeles theate… [+1463 chars]"
     }
   ]
 }
