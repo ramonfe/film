@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 692,
+  "TotalResults": 693,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "JoBlo.com"
+      },
+      "Author": "Kevin Fraser",
+      "Title": "The Witcher: Sirens of the Deep anime movie announced with original Geralt voice actor",
+      "Description": "The Witcher: Sirens of the Deep anime movie announced by Netflix, with original Geralt of Rivia voice actor Doug Cockle returning.\nThe post The Witcher: Sirens of the Deep anime movie announced with original Geralt voice actor appeared first on JoBlo.",
+      "Url": "https://www.joblo.com/the-witcher-sirens-of-the-deep-anime-movie-doug-cockle/",
+      "UrlToImage": "https://www.joblo.com/wp-content/uploads/2023/11/the-witcher-sirens-of-the-deep-anime-movie.jpg",
+      "PublishedAt": "2023-11-10T22:31:09Z",
+      "Content": "The Witcher: Sirens of the Deep anime movie announced by Netflix, with original Geralt of Rivia voice actor Doug Cockle returning.\r\nBefore Henry Cavill brought Geralt of Rivia to life in Netflix’s Th… [+2255 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2023/11/Untitled-1200-×-600-px-40.jpg",
       "PublishedAt": "2023-11-09T17:58:02Z",
       "Content": "On October 28, the tragic news of Matthew Perry’s passing shook the nation. Many fell in love with the actor as he lived through Chandler Bing, the hilarious and goofy character from Friends. Now, it… [+6606 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lesswrong.com"
-      },
-      "Author": "Zvi",
-      "Title": "AI #37: Moving Too Fast",
-      "Description": "Published on November 9, 2023 5:50 PM GMTWe had OpenAI’s dev day, where they introduced a host of new incremental feature upgrades including a longer context window, more recent knowledge cutoff, increased speed, seamless feature integration and a price drop.…",
-      "Url": "https://www.lesswrong.com/posts/44Cv4HFoWEZvFnL5u/ai-37-moving-too-fast",
-      "UrlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/7o3ZP7EDBpxLNGRG8/k1rmdo5ge8uslwormae6",
-      "PublishedAt": "2023-11-09T17:50:12Z",
-      "Content": "We had OpenAIs dev day, where they introduced a host of new incremental feature upgrades including a longer context window, more recent knowledge cutoff, increased speed, seamless feature integration… [+132215 chars]"
     }
   ]
 }
