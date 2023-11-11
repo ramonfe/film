@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1077,
+  "TotalResults": 1078,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Cristian Ordóñez",
+      "Title": "De 'Avatar' a 'Arcane'... Netflix presenta novedades de múltiples series; conoce los detalles",
+      "Description": "Hay series y películas que llevan el fenómeno mucho más allá de los créditos finales, aquellas que generan un fandom y que esperan cada vez más. Para éstas, Netflix presenta año con año un evento llamado Geeked Week, donde da a conocer novedades sobre lo que …",
+      "Url": "https://www.milenio.com/espectaculos/television/netflix-geeked-2023-anuncios-estrenos-evento-video",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/09/avatar-la-leyenda-de-aang.jpg",
+      "PublishedAt": "2023-11-10T01:12:09Z",
+      "Content": "Hay series y películas que llevan el fenómeno mucho más allá de los créditos finales, aquellas que generan un fandom y que esperan cada vez más. Para éstas, Netflix presenta año con año un evento lla… [+1712 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/el-asesino-lo-nuevo-de-fincher.png?width=1200",
       "PublishedAt": "2023-11-09T13:01:34Z",
       "Content": "Lo nuevo de David Fincher llega ya a Netflix\r\nCómo siempre ha sido habitual, el catálogo de Netflix se va a engrosar de forma notable en los próximos días. La cantidad de novedades que suele llegar a… [+3085 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "El Universal (México)",
-      "Title": "Bárbaros: la serie sangrienta y fascinante de Netflix ideal para los fanáticos de Vikingos",
-      "Description": "Ambientada en la época del Imperio Romano, la historia gira en torno a una de las batallas más legendarias; tiene dos temporadas y 12 episodios",
-      "Url": "https://www.lanacion.com.ar/espectaculos/barbaros-la-serie-sangrienta-y-fascinante-de-netflix-ideal-para-los-fanaticos-de-vikingos-nid09112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/barbaros-es-la-propuesta-ideal-de-netflix-si-te-DNJLPSJDB5AFNEBFH2KCKPP6GY.jpg?auth=a24812761f6ed2042ab555948528471065ee1e78229cfed02152b5ea1db5509a&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-09T12:59:36Z",
-      "Content": "Vikingos, serie que llegó a su fin en diciembre del 2020, que marcó un gran precedente en la televisión, no sólo se convirtió en un éxito en pantalla, sino que logró combinar a la perfección la histo… [+1104 chars]"
     }
   ]
 }
