@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 908,
+  "TotalResults": 909,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "La extraña casa de Robin Williams de 1000 m² se pone en venta por US$25 millones",
+      "Description": "El difunto comediante y querido actor equipó la casa con una serie de habitaciones secretas y pasillos ocultos para sus hijos",
+      "Url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/la-extrana-casa-de-robin-williams-de-1000-m-se-pone-en-venta-por-us25-millones-nid10112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/robin-williams-pidio-una-casa-con-pasillos-TACR434GX5ANNMCUZWWMPSTPOY.jpg?auth=fbf891af3c2574f8629cf807048ace92ab500b7f7f29efb44ec9a8c963a9a9be&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-11T00:06:23Z",
+      "Content": "El recuerdo de Robin Williams, el carismático actor que falleció de manera inesperada hace nueve años, sigue vivo en los corazones de sus admiradores. Su legado fue objeto de numerosos homenajes a lo… [+3816 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/09227af7-30ba-4097-bca2-92d9fe87adff_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-11-09T21:50:42Z",
       "Content": "Isabel Coixet se había prometido no adaptar nunca más una novela. Ya lo había hecho en varias ocasiones, pero se autoimpuso una norma que ha roto. Lo ha hecho por culpa de la prosa de Sara Mesa y ese… [+885 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "El final de Shingeki no Kyojin también hace historia detrás de las cámaras: el \"hijo\" de Eren Jaeger participó en el último capítulo del anime",
-      "Description": "Después de una década desde su estreno de la mano de Wit Studio, Shingeki no Kyojin ha llegado a su fin con un capítulo para el recuerdo. MAPPA ha logrado transmitir a la perfección la obra de Hajime Isayama en un episodio final que ha provocado más de un lla…",
-      "Url": "https://www.vidaextra.com/series/final-shingeki-no-kyojin-tambien-hace-historia-detras-camaras-hijo-eren-jaeger-participo-ultimo-capitulo-anime",
-      "UrlToImage": "https://i.blogs.es/4cdf1c/shingeki/840_560.jpeg",
-      "PublishedAt": "2023-11-09T19:31:47Z",
-      "Content": "Después de una década desde su estreno de la mano de Wit Studio, Shingeki no Kyojin ha llegado a su fin con un capítulo para el recuerdo. MAPPA ha logrado transmitir a la perfección la obra de Hajime… [+1267 chars]"
     }
   ]
 }
