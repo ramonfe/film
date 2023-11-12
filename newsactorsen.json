@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 669,
+  "TotalResults": 674,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "SAG-AFTRA deal includes a $40 million streaming bonus and AI protections",
+      "Description": "SAG-AFTRA has released more information about its tentative deal with Hollywood studio executives ahead of ratification votes starting on Tuesday. The actors’ union announced the agreement on November 8, bringing to an end a nearly four-month-long strike.\nUnd…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172219469",
+      "UrlToImage": null,
+      "PublishedAt": "2023-11-11T20:52:11Z",
+      "Content": "SAG-AFTRA has released more information about its tentative deal with Hollywood studio executives ahead of ratification votes starting on Tuesday. The actors’ union announced the agreement on Novembe… [+2045 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livejournal.com"
+      },
+      "Author": "nutella_forever",
+      "Title": "Barbra Streisand recalls bad experience working with Gene Kelly and Walter Matthau on 'Hello, Dolly'",
+      "Description": "Barbra Streisand Was 'Disappointed' by Gene Kelly on Set of 'Hello, Dolly': 'He Was So Rude' https://t.co/sMj35Trdhu\r\n— People (@people) November 11, 2023 in Barbra Streisand's new memoir \"My Name Is Barbra\" she wrote about working with Gene Kelly and Walter …",
+      "Url": "https://ohnotheydidnt.livejournal.com/127214997.html",
+      "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/496933?v=1699735873",
+      "PublishedAt": "2023-11-11T20:51:10Z",
+      "Content": "Barbra Streisand Was 'Disappointed' by Gene Kelly on Set of 'Hello, Dolly': 'He Was So Rude' https://t.co/sMj35Trdhu\r\n— People (@people) November 11, 2023\r\nin Barbra Streisand's new memoir \"My Name I… [+1408 chars]"
+    },
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Cheyenne MacDonald",
+      "Title": "SAG-AFTRA deal includes a $40 million streaming bonus and AI protections",
+      "Description": "SAG-AFTRA\r\n has released more information about its tentative deal with Hollywood studio executives ahead of ratification votes starting on Tuesday. The actors’ union announced the agreement on November 8, bringing to an end a nearly four-month-long strike.\nU…",
+      "Url": "https://www.engadget.com/sag-aftra-deal-includes-a-40-million-streaming-bonus-and-ai-protections-204526458.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/sZURQMJhQesXONP1D5a3zQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/e65849d0-80d1-11ee-bbae-6b1df330d4b7",
+      "PublishedAt": "2023-11-11T20:45:26Z",
+      "Content": "SAG-AFTRA\r\n has released more information about its tentative deal with Hollywood studio executives ahead of ratification votes starting on Tuesday. The actors union announced the agreement on Novemb… [+1870 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TMZ"
+      },
+      "Author": "TMZ Staff",
+      "Title": "Brie Larson's Late Press Push Not Enough to Save 'The Marvels' Box Office",
+      "Description": "Brie Larson was able to do a last-minute press push to plug her new Marvel movie -- this after the SAG-AFTRA strike ended -- but not even that could salvage ticket sales. The actress -- who plays the lead in 'The Marvels' -- got the green light by…\n Permalink",
+      "Url": "https://www.tmz.com/2023/11/11/brie-larson-late-press-push-the-marvels-box-office-flop/",
+      "UrlToImage": "https://imagez.tmz.com/image/c0/16by9/2023/11/11/c064bdc7d69f497b9dee3b7bb68e3f1e_xl.jpg",
+      "PublishedAt": "2023-11-11T20:17:13Z",
+      "Content": "Brie Larson was able to do a last-minute press push to plug her new Marvel movie -- this after the SAG-AFTRA strike ended -- but not even that could salvage ticket sales.\r\nThe actress -- who plays th… [+1720 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "Movie cast with characters in Django",
+      "Description": "So, I'm doing the classical movie app in Django (I'm loving the framework!) and I feel like I hit a stump.\nSo, I have my Movie model:\nclass Movie(models.Model): \n TitlePRT = models.CharField(max_length=100)\n TitleORG = models.CharField(max_length=100)\n TitleA…",
+      "Url": "https://stackoverflow.com/questions/77466604/movie-cast-with-characters-in-django",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2023-11-11T20:05:10Z",
+      "Content": "So, I'm doing the classical movie app in Django (I'm loving the framework!) and I feel like I hit a stump.\r\nSo, I have my Movie model:\r\nclass Movie(models.Model): \r\n TitlePRT = models.CharField(max_l… [+2313 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-105122458,width-1070,height-580,imgsize-50124,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2023-11-10T10:13:01Z",
       "Content": "Bandra | Song - Vaarmeghame"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Who Plays Prince Yan in 'The Marvels'? Meet Park Seo-joon, One of Korea's Biggest Stars!",
-      "Description": "Park Seo-joon has a brief role in the new movie The Marvels and it marks his Hollywood debut! The 34-year-old actor is already one of the biggest stars in South Korea and now he’s playing the role of Prince Yan in the latest Marvel movie. So, why is he such a…",
-      "Url": "https://www.justjared.com/2023/11/09/who-plays-prince-yan-in-the-marvels-meet-park-seo-joon-one-of-koreas-biggest-stars/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/11/yan-marvels.jpg",
-      "PublishedAt": "2023-11-10T04:21:12Z",
-      "Content": "Park Seo-joon has a brief role in the new movie The Marvels and it marks his Hollywood debut!\r\nThe 34-year-old actor is already one of the biggest stars in South Korea and now he’s playing the role o… [+775 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Joonduttaroy",
-      "Title": "August at Twenty-Two Streaming: Watch & Stream Online via Amazon Prime Video",
-      "Description": "If you’re wondering where to stream August at Twenty-Two online, then you have come to the right place as we have all the streaming details. Directed by Sophia Castuera, the film follows a struggling actress, Cal, who to avenge the supposed love of her life, …",
-      "Url": "https://www.comingsoon.net/guides/news/1396505-august-at-twenty-two-streaming-watch-stream-online-via-amazon-prime-video",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/MixCollage-10-Nov-2023-08-51-AM-2055.jpg?resize=1200,630",
-      "PublishedAt": "2023-11-10T03:22:44Z",
-      "Content": "If youre wondering where to stream August at Twenty-Two online, then you have come to the right place as we have all the streaming details. Directed by Sophia Castuera, the film follows a struggling … [+3422 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Sydney Sweeney Films 'Anyone But You' Reshoots Just Hours After SAG-AFTRA Strike Ends, Glen Powell Also in Australia",
-      "Description": "Sydney Sweeney is back on set just hours after the end of the SAG-AFTRA strike. The 26-year-old actress was spotted filming reshoots for her upcoming rom-com movie Anyone But You on Friday (November 10) in Sydney, Australia. The movie is set to be released in…",
-      "Url": "https://www.justjared.com/2023/11/09/sydney-sweeney-films-anyone-but-you-reshoots-just-hours-after-sag-aftra-strike-ends-glen-powell-also-in-australia/",
-      "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/11/sweeney-reshoots.jpg",
-      "PublishedAt": "2023-11-10T02:34:17Z",
-      "Content": "Sydney Sweeney is back on set just hours after the end of the SAG-AFTRA strike.\r\nThe 26-year-old actress was spotted filming reshoots for her upcoming rom-com movie Anyone But You on Friday (November… [+663 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tamal Kundu",
-      "Title": "Monk Season 5 Streaming: Watch & Stream Online via Amazon Prime Video & Peacock",
-      "Description": "Interested in finding out where to watch and stream Monk Season 5 online? You have come to the right place. The fifth season has 16 episodes that aired between July 7, 2006, and March 2, 2007. In season 5, Stanley Tucci guest stars as a famous actor portrayin…",
-      "Url": "https://www.comingsoon.net/guides/news/1397056-monk-season-5-streaming-watch-stream-online-via-amazon-prime-video-peacock",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Monk-Season-5.jpg?resize=1200,630",
-      "PublishedAt": "2023-11-10T02:09:09Z",
-      "Content": "Interested in finding out where to watch and stream Monk Season 5 online? You have come to the right place. The fifth season has 16 episodes that aired between July 7, 2006, and March 2, 2007. In sea… [+3838 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Snopes.com"
-      },
-      "Author": "Jordan Liles",
-      "Title": "Picture Shows 'Wonder Woman' Actor Gal Gadot Showing Up to Serve in the Israel Defense Forces?",
-      "Description": "A caption on X read, \"Israeli actress Gal Gadot who played 'Wonder Woman' in the Hollywood movie turns up [...] for army service.\"",
-      "Url": "https://www.snopes.com/news/2023/11/09/gadot-israeli-army-picture/",
-      "UrlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/11/gal_gadot_salute.jpg",
-      "PublishedAt": "2023-11-10T00:09:00Z",
-      "Content": "In November 2023, a journalist on X named James J. Marlow posted a picture of actor Gal Gadot with the caption, \"Israeli actress Gal Gadot who played 'Wonder Woman' in the Hollywood movie turns up [.… [+4822 chars]"
     }
   ]
 }
