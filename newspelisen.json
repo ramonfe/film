@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1423,
+  "TotalResults": 1424,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'The Marvels' Melts Down at Box Office, Marking New Low for MCU",
+      "Description": "Since 2008's \"Iron Man,\" the Marvel machine has been one of the most unstoppable forces in box-office history. Now, though, that aura of invincibility is showing signs of wear and tear. The superhero factory hit a new low with the weekend launch of \"The Marve…",
+      "Url": "https://www.voanews.com/a/the-marvels-melts-down-at-box-office-marking-new-low-for-mcu/7351960.html",
+      "UrlToImage": "https://gdb.voanews.com/C5A0D38B-8373-4313-8274-1C13D8EA27F3.jpg",
+      "PublishedAt": "2023-11-12T22:01:26Z",
+      "Content": "New York  Since 2008's \"Iron Man,\" the Marvel machine has been one of the most unstoppable forces in box-office history. Now, though, that aura of invincibility is showing signs of wear and tear. The… [+5547 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-105153005,width-1200,height-630,imgsize-18004,overlay-economictimes/photo.jpg",
       "PublishedAt": "2023-11-11T14:36:33Z",
       "Content": "Dream Scenario, which was released in select cities on November 10, 2023, is set to expand its horizon to more locations on November 22. But audiences have to book their seats and enjoy the movie on … [+2039 chars]"
-    },
-    {
-      "Source": {
-        "Id": "techradar",
-        "Name": "TechRadar"
-      },
-      "Author": "Laura Martin, Tom Power",
-      "Title": "Rebel Moon: release date, trailer, confirmed cast, plot synopsis, and more",
-      "Description": "Here's everything you need to know about Rebel Moon, Zack Snyder's new space epic movie for Netflix.",
-      "Url": "https://www.techradar.com/streaming/netflix/rebel-moon-release-date-trailer-confirmed-cast-plot-synopsis-and-more",
-      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/vFva3y37Snqpn8F3xdrd4B-1200-80.jpg",
-      "PublishedAt": "2023-11-11T14:00:40Z",
-      "Content": "Rebel Moon: key information\r\n- Part One arrives in December, Part Two in April 2024- Directed by Zack Snyder- Stars Sofia Boutella, Djimon Hounsou, and Charlie Hunnam among others- Inspired by Star W… [+12938 chars]"
     }
   ]
 }
