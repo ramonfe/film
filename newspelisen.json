@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1424,
+  "TotalResults": 1425,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "YouTube"
+      },
+      "Author": "youtube",
+      "Title": "TRAILER: RIDLEY SCOTT MOVIE SET FOR RELEASE...",
+      "Description": "He came from nothing. He conquered everything. From acclaimed director Ridley Scott, #Napoleon is exclusively in movie theaters this Thanksgiving. Watch the ...",
+      "Url": "https://www.youtube.com/watch?v=OAZWXUkrjPc",
+      "UrlToImage": "https://i.ytimg.com/vi/OAZWXUkrjPc/maxresdefault.jpg",
+      "PublishedAt": "2023-11-13T01:00:03Z",
+      "Content": "NAPOLEON - Official Trailer (HD)He came from nothing. He conquered everything. From acclaimed director Ridley Scott, #Napoleon is exclusively in movie theaters this Thanksgiving. Watch the ... The po… [+421 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/52c296c398cf5a011416f632009d227c.jpg",
       "PublishedAt": "2023-11-11T15:30:00Z",
       "Content": "This past summer, Warner Bros. released its other swan song to the DCEU in Blue Beetle. If you were one of the folks who didnt see the movie when it was in theaters back in mid-August and forwent the… [+1998 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "'Dream Scenario': Release date and where to watch | All about it",
-      "Description": "If you are a Nicolas Cage fan then you should go out and watch the movie only on the big screen, as the production house has not decided to stream it. This movie is a fantasy movie that would leave the audience guessing.",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/dream-scenario-release-date-and-where-to-watch-all-about-it/articleshow/105152992.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-105153005,width-1200,height-630,imgsize-18004,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-11-11T14:36:33Z",
-      "Content": "Dream Scenario, which was released in select cities on November 10, 2023, is set to expand its horizon to more locations on November 22. But audiences have to book their seats and enjoy the movie on … [+2039 chars]"
     }
   ]
 }
