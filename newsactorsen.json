@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 688,
+  "TotalResults": 691,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Ryan Louis Mantilla",
+      "Title": "Loki: Ke Huy Quan Says The Goonies Inspired His MCU Character",
+      "Description": "Oscar-winning actor Ke Huy Quan says he used Data — a young yet adventurous character he played in the 1985 film The Goonies — as his main inspiration in bringing his character in Loki Season 2 to life.  The actor celebrated the end of the SAG-AFTRA strike by…",
+      "Url": "https://www.comingsoon.net/tv/news/1402226-loki-ke-huy-quan-says-the-goonies-inspired-his-mcu-character",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Ke-Huy-Quan-Movies-TV-Shows-List-2023.jpg?resize=1200,630",
+      "PublishedAt": "2023-11-14T19:19:00Z",
+      "Content": "Oscar-winning actor Ke Huy Quan says he used Data a young yet adventurous character he played in the 1985 film The Goonies as his main inspiration in bringing his character in Loki Season 2 to life. … [+2130 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "Django ORM ForeignKey queryset output using annotations",
+      "Description": "I have the following 3 django models (using some abstractions):\nclass Person(models.Model):\n full_name = models.CharField(max_length=120, validators=[MinLengthValidator(2)])\n birth_date = models.DateField(default='1900-01-01')\n nationality = models.CharField(…",
+      "Url": "https://stackoverflow.com/questions/77483189/django-orm-foreignkey-queryset-output-using-annotations",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2023-11-14T19:07:28Z",
+      "Content": "I have the following 3 django models (using some abstractions):\r\nclass Person(models.Model):\r\n full_name = models.CharField(max_length=120, validators=[MinLengthValidator(2)])\r\n birth_date = models.D… [+1795 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Eddie Makuch",
+      "Title": "Machine Gun Kelly Wants To Play Link In The Zelda Movie",
+      "Description": "Nintendo and Sony have teamed up to produce a Legend of Zelda live-action movie, and one of the biggest questions about the movie is who will play Link and Zelda. We still don't know, but now, Machine Gun Kelly has put his name into the mix for Link.In an Ins…",
+      "Url": "https://www.gamespot.com/articles/machine-gun-kelly-wants-to-play-link-in-the-zelda-movie/1100-6519166/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4220499-zeldalarge.jpeg",
+      "PublishedAt": "2023-11-14T18:53:00Z",
+      "Content": "Nintendo and Sony have teamed up to produce a Legend of Zelda live-action movie, and one of the biggest questions about the movie is who will play Link and Zelda. We still don't know, but now, Machin… [+1751 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.justjared.com/wp-content/uploads/headlines/2023/11/adam-responds.jpg",
       "PublishedAt": "2023-11-13T18:28:49Z",
       "Content": "Adam Driver had a simple but direct response to a shady question about his new movie Ferrari. \r\nThe 39-year-old actor participated in a Q&amp;A on Sunday (November 12) while attending the Camerimage … [+1004 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "deadline.com",
-      "Title": "Stockholm Film Festival Denies Reports It Disinvited U.S.-Israeli Filmmaker & Says There Was “A Significant Misunderstanding”",
-      "Description": "Sweden’s Stockholm International Film Festival has denied reports that it disinvited U.S.-Israeli filmmaker and actress Aleeza Chanowitz as an in-person guest at its ongoing edition, running from November 8 to 19. Chanowitz was officially invited to the festi…",
-      "Url": "https://biztoc.com/x/f53f0483760cddfc",
-      "UrlToImage": "https://c.biztoc.com/p/f53f0483760cddfc/s.webp",
-      "PublishedAt": "2023-11-13T17:56:08Z",
-      "Content": "Swedens Stockholm International Film Festival has denied reports that it disinvited U.S.-Israeli filmmaker and actress Aleeza Chanowitz as an in-person guest at its ongoing edition, running from Nove… [+290 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "Melanie Goodfellow",
-      "Title": "Stockholm Film Festival Denies Reports It Disinvited U.S.-Israeli Filmmaker & Says There Was “A Significant Misunderstanding”",
-      "Description": "Sweden’s Stockholm International Film Festival has denied reports that it disinvited U.S.-Israeli filmmaker and actress Aleeza Chanowitz as an in-person guest at its ongoing edition, running from November 8 to 19. Chanowitz was officially invited to the festi…",
-      "Url": "https://deadline.com/2023/11/stockholm-film-festival-denies-disinvited-us-israeli-filmmaker-a-significant-misunderstanding-1235601214/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2023/11/GettyImages-1784594989.jpg?w=1024",
-      "PublishedAt": "2023-11-13T17:52:51Z",
-      "Content": "Sweden’s Stockholm International Film Festival has denied reports that it disinvited U.S.-Israeli filmmaker and actress Aleeza Chanowitz as an in-person guest at its ongoing edition, running from Nov… [+2723 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Ben Sherlock",
-      "Title": "How Old Tom Holland Is In 2012's The Impossible",
-      "Description": "Lucas in The Impossible was Tom Holland's first major movie role before Spider-Man. How old was the actor when he starred in The Impossible?",
-      "Url": "https://screenrant.com/the-impossible-movie-tom-holland-lucas-age/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/lucas-hugs-his-brothers-in-the-impossible.jpg",
-      "PublishedAt": "2023-11-13T17:16:07Z",
-      "Content": "Summary\r\n<ul><li> Tom Holland was 14 years old when he starred in the movie \"The Impossible\" and turned 16 by the time it hit theaters in October 2012. </li><li> Holland spent six weeks in a water ta… [+2931 chars]"
     }
   ]
 }
