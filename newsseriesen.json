@@ -32,6 +32,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.3.0a14",
+      "Description": "2023.3.0a14\n\n November 14, 2023\n \n unityhub://2023.3.0a14/d34fa7f1f506\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (I…",
+      "Url": "https://unity.com/releases/editor/alpha/2023.3.0a14",
+      "UrlToImage": null,
+      "PublishedAt": "2023-11-14T21:47:34Z",
+      "Content": "<li>2D: Fix Case where Sprite Atlas's secondary texture is not rendered when used in a ShaderGraph\r\n(UUM-46398)\r\n</li><li>2D: Fix dynamic batching for TilemapRenderer in Individual mode and SpriteRen… [+128811 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Gizmodo.com"
       },
       "Author": "James Whitbrook",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Clone-High-Season-1-2002.jpg?resize=1200,630",
       "PublishedAt": "2023-11-10T07:13:16Z",
       "Content": "Clone High, an American-Canadian adult animated science fiction sitcom, debuted on November 2, 2002. Co-created by Phil Lord, Christopher Miller, and Bill Lawrence, the show unfolds in a high school … [+5080 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Anonymous",
-      "Title": "2023.3.0a13",
-      "Description": "2023.3.0a13\n\n November 7, 2023\n \n unityhub://2023.3.0a13/b2bd7e935bab\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL…",
-      "Url": "https://unity.com/releases/editor/alpha/2023.3.0a13",
-      "UrlToImage": null,
-      "PublishedAt": "2023-11-10T06:42:02Z",
-      "Content": "<li>2D: Fix Case where Sprite Atlas's secondary texture is not rendered when used in a ShaderGraph\r\n(UUM-46398)\r\n</li><li>2D: Fix dynamic batching for TilemapRenderer in Individual mode and SpriteRen… [+121735 chars]"
     }
   ]
 }
