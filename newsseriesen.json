@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 239,
+  "TotalResults": 240,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Soundandvision.com"
+      },
+      "Author": "Barb Gonzalez",
+      "Title": "How to Reduce Monthly Streaming Costs",
+      "Description": "As you've probably noticed, streaming service subscriptions are getting more expensive. Months ago, price increases ranging from $3 to $5 per month were announced and are now in effect. While it may not seem like a lot, consider that Netflix, Hulu, and Apple …",
+      "Url": "https://www.soundandvision.com/content/how-reduce-monthly-streaming-costs",
+      "UrlToImage": "https://www.soundandvision.com/images/applehomescreenapps%20copy.jpg",
+      "PublishedAt": "2023-11-15T00:00:00Z",
+      "Content": "As you've probably noticed, streaming service subscriptions are getting more expensive. Months ago, price increases ranging from $3 to $5 per month were announced and are now in effect. While it may … [+6051 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-11-10T06:42:02Z",
       "Content": "<li>2D: Fix Case where Sprite Atlas's secondary texture is not rendered when used in a ShaderGraph\r\n(UUM-46398)\r\n</li><li>2D: Fix dynamic batching for TilemapRenderer in Individual mode and SpriteRen… [+121735 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Anonymous",
-      "Title": "2023.2.0b17",
-      "Description": "2023.2.0b17\n\n November 7, 2023\n \n unityhub://2023.2.0b17/1d22bd928c99\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL…",
-      "Url": "https://unity.com/releases/editor/beta/2023.2.0b17",
-      "UrlToImage": null,
-      "PublishedAt": "2023-11-10T06:42:02Z",
-      "Content": "<li>2D: Enabled destroying Brush Editors when Tile Palette window is opened and enabled.\r\n(UUM-33299)\r\n</li><li>2D: Enabled generating a default Sprite rect for textures that are too small to be tess… [+256466 chars]"
     }
   ]
 }
