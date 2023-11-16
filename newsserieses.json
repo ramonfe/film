@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1106,
+  "TotalResults": 1107,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "Jingle bells, Batman smells... Así es el tráiler de Merry Little Batman",
+      "Description": "La nueva película del defensor de Gotham es... una película navideña de dibujos animados. Bueno, es algo que ya sabíamos, un anuncio que llegó junto a la también confirmación de una serie que serviría como secuela de un film que se estrenará en la plataforma …",
+      "Url": "https://www.lavanguardia.com/andro4all/series/jingle-bells-batman-smells-asi-es-el-trailer-de-merry-little-batman",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/merry-little-batman.jpg?width=1200",
+      "PublishedAt": "2023-11-15T19:30:56Z",
+      "Content": "Batman y el Pequeño Batman\r\nLa nueva película del defensor de Gotham es... una película navideña de dibujos animados. Bueno, es algo que ya sabíamos, un anuncio que llegó junto a la también confirmac… [+1667 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -110,19 +123,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Elena Sánchez-Beato",
-      "Title": "Nadir no se rinde: lo que te espera en el nuevo capítulo de 'Pecado Original' el jueves, 16 de noviembre",
-      "Description": "Si el capítulo de hoy de 'Pecado Original' te ha dejado con ganas de más, te traemos un avance de lo que seguiremos viendo en el nuevo episodio de mañana, jueves 16 de noviembre. La serie turca de las tardes de Antena 3, nos tiene enganchadas a la televisión …",
-      "Url": "https://www.trendencias.com/telenovelas/nadir-no-se-rinde-que-te-espera-nuevo-capitulo-pecado-original-jueves-16-noviembre",
-      "UrlToImage": "https://i.blogs.es/d315b7/pecado-original/840_560.jpeg",
-      "PublishedAt": "2023-11-15T17:00:59Z",
-      "Content": "Si el capítulo de hoy de 'Pecado Original' te ha dejado con ganas de más, te traemos un avance de lo que seguiremos viendo en el nuevo episodio de mañana, jueves 16 de noviembre. La serie turca de la… [+1676 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Espinof.com"
       },
       "Author": "Pedro Gallego",
@@ -132,6 +132,19 @@
       "UrlToImage": "https://i.blogs.es/d10a32/el-inocente-2022-louis-garrell/840_560.jpeg",
       "PublishedAt": "2023-11-15T17:00:59Z",
       "Content": "A estas alturas está más que claro el meme que supone leer la frase \"La comedia francesa del año\" en la promoción de una película que viene con el mismo tráiler plagado de gracietas, el mismo póster … [+2948 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Elena Sánchez-Beato",
+      "Title": "Nadir no se rinde: lo que te espera en el nuevo capítulo de 'Pecado Original' el jueves, 16 de noviembre",
+      "Description": "Si el capítulo de hoy de 'Pecado Original' te ha dejado con ganas de más, te traemos un avance de lo que seguiremos viendo en el nuevo episodio de mañana, jueves 16 de noviembre. La serie turca de las tardes de Antena 3, nos tiene enganchadas a la televisión …",
+      "Url": "https://www.trendencias.com/telenovelas/nadir-no-se-rinde-que-te-espera-nuevo-capitulo-pecado-original-jueves-16-noviembre",
+      "UrlToImage": "https://i.blogs.es/d315b7/pecado-original/840_560.jpeg",
+      "PublishedAt": "2023-11-15T17:00:59Z",
+      "Content": "Si el capítulo de hoy de 'Pecado Original' te ha dejado con ganas de más, te traemos un avance de lo que seguiremos viendo en el nuevo episodio de mañana, jueves 16 de noviembre. La serie turca de la… [+1676 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/6554c0dcde3ad37b375a9a1a/16:9/w_1280,c_limit/MATZ_R2_37_20230619j_v16_ana_DoVi_20230830.0197829.jpg",
       "PublishedAt": "2023-11-15T13:03:12Z",
       "Content": "Encierro ya no es la película más vista de Netflix del momento, esta semana uno de los títulos más esperados la ha reemplazado y probablemente se mantendrá en el primer puesto durante unas cuantas se… [+2026 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Jorge Loser",
-      "Title": "El mejor slasher del año es un spin-off de la película más gore de Tarantino. Eli Roth regresa al terror a lo grande con la salvaje 'Black Friday'",
-      "Description": "El cine de terror de 2023 estrenado en la gran pantalla empezó con un slasher juvenil que recuperaba de nuevo la marca de Ghostface en un interminable ciclo de revival de los 90 que arrastra buena parte de las peores manías del género. ‘Scream VI’ puede ser e…",
-      "Url": "https://www.espinof.com/criticas/mejor-slasher-ano-spin-off-pelicula-gore-tarantino-eli-roth-regresa-al-terror-a-grande-salvaje-black-friday",
-      "UrlToImage": "https://i.blogs.es/ff995c/thanksgiving_ver4_xlg/840_560.jpeg",
-      "PublishedAt": "2023-11-15T13:00:58Z",
-      "Content": "El cine de terror de 2023 estrenado en la gran pantalla empezó con un slasher juvenil que recuperaba de nuevo la marca de Ghostface en un interminable ciclo de revival de los 90 que arrastra buena pa… [+5087 chars]"
     }
   ]
 }

@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 240,
+  "TotalResults": 241,
   "Articles": [
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Malak Saleh",
+      "Title": "Lawmakers question Apple over cancellation of Jon Stewart's show",
+      "Description": "A group of lawmakers from a House of Representatives committee wants Apple, like many Jon Stewart enthusiasts, to explain why its streaming arm abruptly canceled the talk show The Problem With Jon Stewart.\r\n The current affairs TV series hosted by Jon Stewart…",
+      "Url": "https://www.engadget.com/lawmakers-question-apple-over-cancellation-of-jon-stewarts-show-192316298.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/0CRbqPc6qupd8PHaFxMG6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/3a4f8ff0-83eb-11ee-b777-da325216aca6",
+      "PublishedAt": "2023-11-15T19:23:16Z",
+      "Content": "A group of lawmakers from a House of Representatives committee wants Apple, like many Jon Stewart enthusiasts, to explain why its streaming arm abruptly canceled the talk show The Problem With Jon St… [+1703 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Untitled-design-38-1.jpg?resize=1200,630",
       "PublishedAt": "2023-11-10T17:32:05Z",
       "Content": "Samurai Jack Season 1 is an animated action-adventure series set in a dystopian future. The first chapter marks the first appearance of the titular Samurai Jack, a masterful warrior. The basic story … [+3601 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "IndieWire"
-      },
-      "Author": "Sarah Shachat",
-      "Title": "‘For All Mankind’ Made Ted Kennedy President in Season 1 — So What’s This Alternate America Been Up?",
-      "Description": "With Season 4 now streaming, the Apple TV+ show answers the question: Does throwing lots of money at the space race make the world better?",
-      "Url": "https://www.indiewire.com/gallery/for-all-mankind-alternate-history-timeline-apple-tv-plus/",
-      "UrlToImage": "https://www.indiewire.com/wp-content/uploads/2023/11/For_All_Mankind_Photo_040104.jpg",
-      "PublishedAt": "2023-11-10T15:00:01Z",
-      "Content": "When “For All Mankind” first premiered on Apple TV+ in 2019, the period drama promised an in-depth look at the space race of the early ’70s. But this is not your usual NASA. In the world of Ron Moore… [+7745 chars]"
     }
   ]
 }

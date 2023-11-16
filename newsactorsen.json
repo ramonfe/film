@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 701,
+  "TotalResults": 704,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Livejournal.com"
+      },
+      "Author": "p0uritup",
+      "Title": "Sydney Sweeney covers Women's Health",
+      "Description": "The “Anyone But You” actress shared just how much her parents sacrificed for her to pursue a career in Hollywood.“I watched my parents lose a lot. We filed for bankruptcy,” Sweeney admitted, adding that they lost their house at one point.The Washington native…",
+      "Url": "https://ohnotheydidnt.livejournal.com/127244616.html",
+      "UrlToImage": "https://i.postimg.cc/FH6k9Q4f/NYPICHPDPICT000072311914.jpg",
+      "PublishedAt": "2023-11-15T19:59:33Z",
+      "Content": "The Anyone But You actress shared just how much her parents sacrificed for her to pursue a career in Hollywood.I watched my parents lose a lot. We filed for bankruptcy, Sweeney admitted, adding that … [+422 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TheStranger.com"
+      },
+      "Author": "Chase Hutchinson",
+      "Title": "The Seattle Roots of Your Lucky Day",
+      "Description": "Your Lucky Day screens at Northwest Film Forum tonight!\n \n by Chase Hutchinson\n \n \n \n For writer-director Daniel Brown, indie filmmaking is all about artistic integrity. With roots in Seattle, his debut feature, Your Lucky Day, required getting scrappy to hit…",
+      "Url": "https://www.thestranger.com/film/2023/11/15/79262770/the-seattle-roots-of-your-lucky-day",
+      "UrlToImage": "https://media2.fdncms.com/stranger/imager/u/large/79262771/yourluckyday-still-16x9_angus-1.jpg",
+      "PublishedAt": "2023-11-15T19:19:00Z",
+      "Content": "For writer-director Daniel Brown, indie filmmaking is all about artistic integrity. With roots in Seattle, his debut feature, Your Lucky Day, required getting scrappy to hit home.  \r\nI really feel li… [+4121 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "247wallst.com",
+      "Title": "20 Famous Movie Roles That Had to Be Recast",
+      "Description": "Few things disrupt a film’s production like an actor departure. But when a star drops out before shooting or isn’t working out as envisioned, recasting brings a new opportunity. Some of cinema’s most iconic roles were played by alternate actors and actresses …",
+      "Url": "https://biztoc.com/x/9a498977f460b20e",
+      "UrlToImage": "https://c.biztoc.com/p/9a498977f460b20e/s.webp",
+      "PublishedAt": "2023-11-15T19:00:14Z",
+      "Content": "Few things disrupt a films production like an actor departure. But when a star drops out before shooting or isnt working out as envisioned, recasting brings a new opportunity. Some of cinemas most ic… [+292 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/58fdb0addaa338ed/s.webp",
       "PublishedAt": "2023-11-14T20:34:06Z",
       "Content": "James Gunn and Peter Safrans slate of DC movies continues to move forward.Ana Nogueira, the actress and playwright who is now making forays into screenwriting, has been tapped to pen Supergirl: Woman… [+296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Ryan Louis Mantilla",
-      "Title": "Loki: Ke Huy Quan Says The Goonies Inspired His MCU Character",
-      "Description": "Oscar-winning actor Ke Huy Quan says he used Data — a young yet adventurous character he played in the 1985 film The Goonies — as his main inspiration in bringing his character in Loki Season 2 to life.  The actor celebrated the end of the SAG-AFTRA strike by…",
-      "Url": "https://www.comingsoon.net/tv/news/1402226-loki-ke-huy-quan-says-the-goonies-inspired-his-mcu-character",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/10/Ke-Huy-Quan-Movies-TV-Shows-List-2023.jpg?resize=1200,630",
-      "PublishedAt": "2023-11-14T19:19:00Z",
-      "Content": "Oscar-winning actor Ke Huy Quan says he used Data a young yet adventurous character he played in the 1985 film The Goonies as his main inspiration in bringing his character in Loki Season 2 to life. … [+2130 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Stackoverflow.com"
-      },
-      "Author": "Stack Overflow",
-      "Title": "Django ORM ForeignKey queryset output using annotations",
-      "Description": "I have the following 3 django models (using some abstractions):\nclass Person(models.Model):\n full_name = models.CharField(max_length=120, validators=[MinLengthValidator(2)])\n birth_date = models.DateField(default='1900-01-01')\n nationality = models.CharField(…",
-      "Url": "https://stackoverflow.com/questions/77483189/django-orm-foreignkey-queryset-output-using-annotations",
-      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
-      "PublishedAt": "2023-11-14T19:07:28Z",
-      "Content": "I have the following 3 django models (using some abstractions):\r\nclass Person(models.Model):\r\n full_name = models.CharField(max_length=120, validators=[MinLengthValidator(2)])\r\n birth_date = models.D… [+1795 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Eddie Makuch",
-      "Title": "Machine Gun Kelly Wants To Play Link In The Zelda Movie",
-      "Description": "Nintendo and Sony have teamed up to produce a Legend of Zelda live-action movie, and one of the biggest questions about the movie is who will play Link and Zelda. We still don't know, but now, Machine Gun Kelly has put his name into the mix for Link.In an Ins…",
-      "Url": "https://www.gamespot.com/articles/machine-gun-kelly-wants-to-play-link-in-the-zelda-movie/1100-6519166/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4220499-zeldalarge.jpeg",
-      "PublishedAt": "2023-11-14T18:53:00Z",
-      "Content": "Nintendo and Sony have teamed up to produce a Legend of Zelda live-action movie, and one of the biggest questions about the movie is who will play Link and Zelda. We still don't know, but now, Machin… [+1751 chars]"
     }
   ]
 }
