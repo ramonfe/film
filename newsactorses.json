@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 910,
+  "TotalResults": 911,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cointelegraph"
+      },
+      "Author": "Tom Mitchelhill",
+      "Title": "Solana refuta las afirmaciones de CertiK sobre los fallos de seguridad del teléfono Saga",
+      "Description": "CertiK afirma que el smartphone Saga de Solana contiene una \"vulnerabilidad crítica del cargador de arranque\" - Solana Labs dice que las afirmaciones son totalmente inexactas.\n Un reciente video de la firma de seguridad blockchain CertiK hizo una serie de afi…",
+      "Url": "https://es.cointelegraph.com/news/solana-dismisses-certik-saga-phone-security-report",
+      "UrlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-11/904a0711-52e8-429f-b456-e2cd90e18bbc.jpg",
+      "PublishedAt": "2023-11-16T05:30:00Z",
+      "Content": "Un reciente video de la firma de seguridad blockchain CertiK hizo una serie de afirmaciones \"inexactas\" sobre una posible vulnerabilidad de seguridad en el teléfono Saga habilitado para criptomonedas… [+3769 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/15/will-smith-duane-martin-habrian.jpg",
       "PublishedAt": "2023-11-15T12:51:00Z",
       "Content": "Will Smith, famoso cantante estadunidense, reaccionó al nuevo escándalo que lo envuelve luego de que su ex asistente, un hombre de nombre Bilaal, revelara en entrevista que sorprendió al actor sosten… [+1803 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Ayuso y Albert Rivera responderán a las preguntas de personas con autismo en lo nuevo de Mediaset con Guillermo Fesser",
-      "Description": "Mediaset España ha anunciado su nuevo formato. Se trata de 100% Únicos, programa en el que personajes destacados de la cultura, el espectáculo, el deporte y la política se enfrentarán a las preguntas realizadas por un grupo de personas con Trastornos del Espe…",
-      "Url": "https://www.eldiario.es/vertele/noticias/ayuso-albert-rivera-responderan-preguntas-personas-autismo-nuevo-mediaset-guillermo-fesser_1_10687322.html",
-      "UrlToImage": "https://static.eldiario.es/clip/a7061ec9-5104-4d09-bbc0-a097724d1d5e_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-11-15T12:28:14Z",
-      "Content": "Mediaset España ha anunciado su nuevo formato. Se trata de 100% Únicos, programa en el que personajes destacados de la cultura, el espectáculo, el deporte y la política se enfrentarán a las preguntas… [+2671 chars]"
     }
   ]
 }
