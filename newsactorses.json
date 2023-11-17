@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 902,
+  "TotalResults": 904,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Alexandra Ferguson",
+      "Title": "Nuevos videos muestran a Alec Baldwin con un arma de utilería días antes del fatal tiroteo en el set de filmación de \"Rust\"",
+      "Description": "Una serie de videos obtenidos en exclusiva por NBC News muestran al actor Alec Baldwin manejando al menos una pistola de utilería durante el rodaje de la película \"Rust\", días antes de un tiroteo mortal en el set.",
+      "Url": "https://cnnespanol.cnn.com/2023/11/16/nuevos-videos-alec-baldwin-arma-utileria-tiroteo-rust-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/231116104420-alec-baldwin-030623.webp",
+      "PublishedAt": "2023-11-16T18:39:12Z",
+      "Content": "Los caóticos momentos tras el tiroteo en el rodaje de 'Rust' 1:30\r\n(CNN) --  Una serie de videos obtenidos en exclusiva por NBC News muestran al actor Alec Baldwin manejando al menos una pistola de u… [+2311 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Redacción verTele",
+      "Title": "'Modern Family' organiza su primera reunión desde el final de la serie, con el reparto casi al completo",
+      "Description": "Tres años después de llegar a su final, Modern Family ha tenido la primera reunión de su reparto (casi) al completo. Sofía Vergara ejerció de anfitriona de este reencuentro del elenco de actores, que tuvo lugar este pasado miércoles.Ed O'Neill, Julie Bowen, J…",
+      "Url": "https://www.eldiario.es/vertele/series/modern-family-organiza-primera-reunion-final-serie-reparto-completo_1_10692937.html",
+      "UrlToImage": "https://static.eldiario.es/clip/25f49053-88d6-4afa-8d7d-0e366bf1bd9e_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-11-16T18:17:24Z",
+      "Content": "Tres años después de llegar a su final, Modern Family ha tenido la primera reunión de su reparto (casi) al completo. Sofía Vergara ejerció de anfitriona de este reencuentro del elenco de actores, que… [+1218 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://assetsio.reedpopcdn.com/823345.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "PublishedAt": "2023-11-15T20:32:31Z",
       "Content": "Una exclusiva del medio The InSneider, publicada por Jeff Sneider, crítico y periodista de cine, asegura que HBO ya podría tener los ojos puestos en una actriz para el papel de Abby en la segunda tem… [+947 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "El trágico destino de Lady Di marca el adiós de 'The Crown'",
-      "Description": "El pasado domingo tuvimos la oportunidad de conversar con Peter Morgan, creador de 'The Crown' , y parte del elenco de la sexta y última temporada que Netflix estrena hoy. El guionista promete que el final de la serie dejará «atónitos» a los espectadores. « D…",
-      "Url": "https://www.abc.es/play/series/noticias/tragico-destino-lady-marca-adios-the-crown-20231115210029-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2023/11/15/TheCrown_Season6_FirstLook7-kPG--1024x512@abc.jpg",
-      "PublishedAt": "2023-11-15T20:00:30Z",
-      "Content": "El pasado domingo tuvimos la oportunidad de conversar con Peter Morgan, creador de 'The Crown', y parte del elenco de la sexta y última temporada que Netflix estrena hoy. El guionista promete que el … [+3234 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Pablo Naranjo",
-      "Title": "Por qué despidieron a Juan Echanove, hermano de Antonio Alcántara, de 'Cuéntame cómo pasó': \"No me han dicho ni adiós\"",
-      "Description": "La icónica 'Cuéntame cómo pasó' lleva 22 años en antena. Su estreno tuvo lugar en 2001 y actualmente emite su 13 (y última) temporada. En estas más de dos décadas, son cientos y cientos los personajes que se han dejado ver por San Genaro. Algunos perduran, a …",
-      "Url": "https://www.trendencias.com/celebrities/que-despidieron-a-juan-echanove-hermano-antonio-alcantara-cuentame-como-paso-no-me-han-dicho-adios",
-      "UrlToImage": "https://i.blogs.es/cdeec6/descarga-15-/840_560.jpeg",
-      "PublishedAt": "2023-11-15T18:31:27Z",
-      "Content": "La icónica 'Cuéntame cómo pasó' lleva 22 años en antena. Su estreno tuvo lugar en 2001 y actualmente emite su 13 (y última) temporada. En estas más de dos décadas, son cientos y cientos los personaje… [+2991 chars]"
     }
   ]
 }
