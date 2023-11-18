@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 741,
+  "TotalResults": 742,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Is That Paul Giamatti's Actual Eye in 'The Holdovers'? All About the Glass Eye",
+      "Description": "If you watch Paul Giamatti in the new movie The Holdovers, you might be left wondering: is that his real eye? The 56-year-old Oscar-nominated actor stars in the new film as a teacher at a boarding school who is forced to spend Christmas break as the guardian …",
+      "Url": "https://www.justjared.com/2023/11/17/is-that-paul-giamattis-actual-eye-in-the-holdovers-all-about-the-glass-eye/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2023/11/paul-eye.jpg",
+      "PublishedAt": "2023-11-17T05:10:40Z",
+      "Content": "If you watch Paul Giamatti in the new movie The Holdovers, you might be left wondering: is that his real eye?\r\nThe 56-year-old Oscar-nominated actor stars in the new film as a teacher at a boarding s… [+744 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-11-16T13:28:52Z",
       "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1127 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Melissa Alonso",
-      "Title": "Alec Baldwin: New videos show Alec Baldwin on ‘Rust’ set with prop gun days before fatal gunfire",
-      "Description": "A series of videos exclusively obtained by NBC News shows actor Alec Baldwin handling at least one prop gun during filming of the movie “Rust,” days before a deadly on-set shooting.",
-      "Url": "https://www.cnn.com/2023/11/16/entertainment/alec-baldwin-rust-shooting-video/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231116104420-alec-baldwin-030623.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2023-11-16T12:24:26Z",
-      "Content": "A series of videos exclusively obtained by NBC News show actor Alec Baldwin handling at least one prop gun during filming of the movie Rust, days before a deadly on-set shooting.\r\nIn the videos, whic… [+2006 chars]"
     }
   ]
 }
