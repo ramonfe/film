@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1524,
+  "TotalResults": 1452,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Justin Carter",
+      "Title": "Meet Scott Pilgrim Takes Off's Japanese Voice Cast",
+      "Description": "Pre-release, Netflix’s Scott Pilgrim Takes Off was billed as a nostalgic return for the beloved graphic novel series. Not only is creator Bryan Lee O’Malley co-writing and showrunning the show with BenDavid Grabinski, the original cast from the live-action 20…",
+      "Url": "https://gizmodo.com/scott-pilgrim-netflix-anime-japanese-dub-voice-cast-1851033515",
+      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e539cee23c34cc84e50da05108df48b4.png",
+      "PublishedAt": "2023-11-18T17:25:00Z",
+      "Content": "Pre-release, Netflixs Scott Pilgrim Takes Offwas billed as a nostalgic return for the beloved graphic novel series. Not only is creator Bryan Lee OMalley co-writing and showrunning the show with BenD… [+1752 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-105298777,width-1200,height-630,imgsize-37814,overlay-economictimes/photo.jpg",
       "PublishedAt": "2023-11-17T17:19:09Z",
       "Content": "As families gear up for the Thanksgiving season, Disney's heartwarming animated film, \"Wish,\" promises to deliver the festive feels. However, there's a twist this highly anticipated movie won't be ma… [+3152 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "\"Oppenheimer\" breaks record at the Global Box Office days before Digital Release",
-      "Description": "Christopher Nolan's Oppenheimer crosses milestone at the international box office. The movie was made on a very small budget but it surprisingly made a very strong impact.",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/oppenheimer-breaks-record-at-the-global-box-office-days-before-digital-release/articleshow/105298683.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-105298674,width-1200,height-630,imgsize-46242,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2023-11-17T17:10:24Z",
-      "Content": "As it approaches its eagerly anticipated digital download date, Christopher Nolan's Oppenheimer has crossed a noteworthy milestone at the international box office, in part because of a recent re-rele… [+1381 chars]"
     }
   ]
 }
