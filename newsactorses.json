@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 861,
+  "TotalResults": 862,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La segunda parte de la biografía no autorizada amenaza la reputación de Carlos Gustavo de Suecia",
+      "Description": "Tras realizar una exitosa visita oficial a Alemania, en la que ha cumplido con delicadas misiones políticas y económicas, la princesa Victoria de Suecia se enfrenta a un nuevo escándalo al llegar a casa. Ha sido convocada a reuniones con los reyes de Suecia, …",
+      "Url": "https://www.abc.es/gente/segunda-parte-biografia-autorizada-amenaza-reputacion-carlos-20231120185336-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2023/11/20/Imagencarlsogustavosuecia-U18551657488NXO-1024x512@abc.jpg",
+      "PublishedAt": "2023-11-20T17:53:38Z",
+      "Content": "Tras realizar una exitosa visita oficial a Alemania, en la que ha cumplido con delicadas misiones políticas y económicas, la princesa Victoria de Suecia se enfrenta a un nuevo escándalo al llegar a c… [+3622 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/f35f6a/image__12_/840_560.jpeg",
       "PublishedAt": "2023-11-19T14:01:27Z",
       "Content": "Como maniobra comercial quizás no tenga todo el sentido del mundo: Netflix ha estrenado una serie anime basada en el cómic Scott Pilgrim, un pequeño éxito a nivel editorial subterráneo a principios d… [+5642 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Adrián Álvarez",
-      "Title": "Esta serie es mucho más que una espectacular historia de superhéroes y violencia desatada. La temporada 2 de 'Invencible' confirma que estamos ante una grandísima adaptación de comics",
-      "Description": "En esta pequeña serie de artículos en Espinof donde repasamos los cómics y las series que adaptan, hemos tenido de todo: cómics de buenas ideas pero no muy finos que dan lugar a series superiores, a cómics y series que empatan en sus aciertos y fallos...\n<!--…",
-      "Url": "https://www.espinof.com/criticas/esta-serie-mucho-que-espectacular-historia-superheroes-violencia-desatada-temporada-2-invencible-confirma-que-estamos-grandisima-adaptacion-comics",
-      "UrlToImage": "https://i.blogs.es/139380/invencible-portada/840_560.jpeg",
-      "PublishedAt": "2023-11-19T13:01:27Z",
-      "Content": "En esta pequeña serie de artículos en Espinof donde repasamos los cómics y las series que adaptan, hemos tenido de todo: cómics de buenas ideas pero no muy finos que dan lugar a series superiores, a … [+14676 chars]"
     }
   ]
 }
