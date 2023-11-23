@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 864,
+  "TotalResults": 846,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Susan Sarandon, despedida de su agencia de comunicación por apoyar a Palestina",
+      "Description": "La oscarizada actriz Susan Sarandon ha sido despedida de la agencia de talentos que la representaba (United Talent Agency) por apoyar a Palestina , según ha confirmado The Hollywood Reporter. En el conflicto entre Hamás e Israel han muerto ya más de 15.000 pe…",
+      "Url": "https://www.abc.es/play/cine/susan-sarandon-despedida-agencia-comunicacion-apoyar-palestina-20231122084445-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/11/22/susan-kMT--1024x512@abc.jpg",
+      "PublishedAt": "2023-11-22T07:44:47Z",
+      "Content": "La oscarizada actriz Susan Sarandon ha sido despedida de la agencia de talentos que la representaba (United Talent Agency) por apoyar a Palestina, según ha confirmado The Hollywood Reporter. En el co… [+1847 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231120224022_1200.jpg",
       "PublishedAt": "2023-11-20T21:40:19Z",
       "Content": "ALMERÍA, 20 Nov. (EUROPA PRESS) - \r\n El patio de luces de la Diputación de Almería ha acogido este lunes, en el marco del Festival Internacional de Cine, Fical, una mesa redonda en la que se ha abord… [+4412 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Leticia Quintanal",
-      "Title": "'Los últimos pastores', una historia de estoicismo y resiliencia de un mundo que se extingue en los Picos de Europa",
-      "Description": "Son los habitantes de las montañas asturianas desde hace siglos, protagonistas de la reciella, el traslado del ganado desde las majadas a las invernales y viceversa, y ven cómo el mundo que hasta ahora han conocido cada vez se aleja más de sus costumbres. Des…",
-      "Url": "https://www.eldiario.es/asturias/ultimos-pastores-historia-estoicismo-resiliencia-mundo-extingue-picos-europa_1_10699333.html",
-      "UrlToImage": "https://static.eldiario.es/clip/228bca35-f24e-4846-852a-d304da2c6141_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-11-20T21:36:25Z",
-      "Content": "Son los habitantes de las montañas asturianas desde hace siglos, protagonistas de la reciella, el traslado del ganado desde las majadas a las invernales y viceversa, y ven cómo el mundo que hasta aho… [+8881 chars]"
     }
   ]
 }
