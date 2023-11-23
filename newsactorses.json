@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 863,
+  "TotalResults": 864,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La actriz Melissa Barrero, despedida de la próxima película de 'Scream' por sus opiniones en redes sobre la guerra en Gaza",
+      "Description": "La estrella mexicana y coprotagonistas de las nuevas películas de la franquicia de terror 'Scream' Melissa Barrrera ha visto cómo su carrera en este clásico del 'slasher' por dar su opinión sobre la guerra entre Israel y Hamás en redes sociales. La actriz ha …",
+      "Url": "https://www.abc.es/play/cine/actriz-melissa-barrero-despedida-proxima-pelicula-scream-20231122070228-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/11/22/scream-kBsF--1024x512@abc.JPG",
+      "PublishedAt": "2023-11-22T06:02:29Z",
+      "Content": "La estrella mexicana y coprotagonistas de las nuevas películas de la franquicia de terror 'Scream' Melissa Barrrera ha visto cómo su carrera en este clásico del 'slasher' se truncaba por dar su opini… [+1742 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/228bca35-f24e-4846-852a-d304da2c6141_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-11-20T21:36:25Z",
       "Content": "Son los habitantes de las montañas asturianas desde hace siglos, protagonistas de la reciella, el traslado del ganado desde las majadas a las invernales y viceversa, y ven cómo el mundo que hasta aho… [+8881 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Alberto Corona",
-      "Title": "Disney muestra sus límites con 'Wish’: “Quisimos honrar nuestro legado mientras mirábamos al futuro”",
-      "Description": "El año pasado llegó directa a Disney+ una película titulada Chip y Chop: Los guardianes rescatadores. Combinaba diversos estilos de animación con personajes famosos, reflexionaba sobre las dinámicas actuales de Hollywood y colocaba de villano a un remanente d…",
-      "Url": "https://www.eldiario.es/cultura/cine/disney-muestra-limites-wish-quisimos-honrar-legado-mirabamos-futuro_129_10702514.html",
-      "UrlToImage": "https://static.eldiario.es/clip/b45e9107-b1d8-4487-862d-7b21b5b61510_facebook-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-11-20T21:36:24Z",
-      "Content": "El año pasado llegó directa a Disney+ una película titulada Chip y Chop: Los guardianes rescatadores. Combinaba diversos estilos de animación con personajes famosos, reflexionaba sobre las dinámicas … [+1311 chars]"
     }
   ]
 }
