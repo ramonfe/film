@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 685,
+  "TotalResults": 686,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fast Company"
+      },
+      "Author": "Lilly Smith",
+      "Title": "The ultimate gift guide for graphic design nerds",
+      "Description": "Like any creative person, graphic designers have a pretty strong sense of what they like and don’t like, and that can make your job as a gift-giver pretty dang difficult. Lucky for you, we’ve talked to a lot of graphic designers over the years, and we’ve used…",
+      "Url": "https://www.fastcompany.com/90986584/the-ultimate-gift-guide-for-graphic-design-nerds",
+      "UrlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2023/11/p-1-90986584-gifts-for-designers.jpg",
+      "PublishedAt": "2023-11-22T05:00:00Z",
+      "Content": "Like any creative person, graphic designers have a pretty strong sense of what they like and don’t like, and that can make your job as a gift-giver pretty dang difficult. Lucky for you, we’ve talked … [+5424 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-105379402,width-1070,height-580,imgsize-32000,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2023-11-21T07:23:41Z",
       "Content": "From Salman Khan to Kareena Kapoor Khan to Bhumi Pednekar, celebs walk the ramp with style at Jio World Plaza"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "WWD"
-      },
-      "Author": "Joellediderich",
-      "Title": "EXCLUSIVE: Dior Names French Actor Raphaël Quenard as Men’s Ambassador",
-      "Description": "The rising star appears in the Netflix movie \"Gold Brick.\"",
-      "Url": "https://wwd.com/fashion-news/fashion-scoops/dior-names-french-actor-raphael-quenard-as-men-ambassador-1235938711/",
-      "UrlToImage": "https://wwd.com/wp-content/uploads/2023/11/2023_11_09_Dior_Raphael-Quenard_Look_4_797.jpg?w=1024",
-      "PublishedAt": "2023-11-21T06:00:00Z",
-      "Content": "GOING FOR GOLD: French actor Raphaël Quenard has joined the ranks of Dior’s menswear brand ambassadors.\r\nA rising star, Quenard is one of the 32 names shortlisted for the best newcomer award at the C… [+1543 chars]"
     }
   ]
 }
