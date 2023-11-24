@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1113,
+  "TotalResults": 1101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "La recreación del anillo de compromiso de Lady Di, entre los icónicos accesorios de ‘The Crown’ que salen a subasta",
+      "Description": "Los seguidores de la ficción de Netflix podrán pujar por los míticos trajes y decorados de la popular serie",
+      "Url": "https://www.hola.com/actualidad/20231123244043/subasta-tesoros-the-crown/",
+      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20231123244043/subasta-tesoros-the-crown/1-341-271/corona-netflix-t.jpg",
+      "PublishedAt": "2023-11-23T17:59:28Z",
+      "Content": "Cuando se acaba deestrenar la sexta temporada de la popular serie de Netflix, 'The Crown', que repasa el reinado de Isabel II de Inglaterra; los seguidores de la famosa ficción podrán tener acceso a … [+2222 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ecartelera.com"
+      },
+      "Author": "María Domingo Benito",
+      "Title": "Netflix nunca escuchó las ideas que el autor de 'The Witcher' tenía para la serie",
+      "Description": "HACEN LO QUE QUIEREN El escritor de la saga literaria 'The Witcher', Andrzej Sapkowski, admite su frustración con la adaptación encabezada, hasta ahora, por Henry Cavill.Netflix nunca escuchó las ideas que el autor de 'The Witcher' tenía para la serie",
+      "Url": "https://www.ecartelera.com/noticias/netflix-nunca-escucho-ideas-autor-the-witcher-serie-75464/",
+      "UrlToImage": "https://img.ecartelera.com/noticias/75400/75464-h2.jpg",
+      "PublishedAt": "2023-11-23T17:11:00Z",
+      "Content": "La famosa serie distribuida por Netflix 'The Witcher' está basada en la Saga literaria de Geralt de Rivia o Saga del brujo, escrita por el autor polaco Andrzej Sapkowski. Muchos seguidores de los lib… [+2600 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Elena Sánchez-Beato",
+      "Title": "La caída del imperio de Halit: lo que te espera en el nuevo capítulo de 'Pecado Original' del viernes, 24 de noviembre",
+      "Description": "Después de ver la fortuna que le han ofrecido a Yildiz por su papilla de manzana, ¿le saldrá todo bien? El capítulo de hoy de 'Pecado Original' tiene una trama que está aún en movimiento, y cada vez más revuelta. Halit está a punto de descubrir a Leyla, que s…",
+      "Url": "https://www.trendencias.com/telenovelas/caida-imperio-halit-que-te-espera-nuevo-capitulo-pecado-original-viernes-24-noviembre",
+      "UrlToImage": "https://i.blogs.es/a1a9e0/yigit-pecado-23n-min-690x395-1-/840_560.jpeg",
+      "PublishedAt": "2023-11-23T17:01:55Z",
+      "Content": "Después de ver la fortuna que le han ofrecido a Yildiz por su papilla de manzana, ¿le saldrá todo bien? El capítulo de hoy de 'Pecado Original' tiene una trama que está aún en movimiento, y cada vez … [+1285 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Es uno de los indies mejor valorados de los últimos años y ahora pasará a formato escrito: Omori tendrá una adaptación al manga",
+      "Description": "Cada vez más videojuegos se aventuran en adaptaciones en forma de película, serie o anime. Desde The Last of Us de HBO hasta Cyberpunk: Edgerunners, muchos de estos nuevos proyectos han tenido un éxito atronador. Sin embargo, hay un título indie que, en lugar…",
+      "Url": "https://www.vidaextra.com/series/uno-indies-mejor-valorados-ultimos-anos-ahora-pasara-a-formato-escrito-omori-tendra-adaptacion-al-manga",
+      "UrlToImage": "https://i.blogs.es/d076be/omori/840_560.jpeg",
+      "PublishedAt": "2023-11-23T17:01:55Z",
+      "Content": "Cada vez más videojuegos se aventuran en adaptaciones en forma de película, serie o anime. Desde The Last of Us de HBO hasta Cyberpunk: Edgerunners, muchos de estos nuevos proyectos han tenido un éxi… [+1275 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "John Tones",
+      "Title": "'La que se avecina' lleva tres años a caballo entre Prime Video y Telecinco. Y en la televisión no levanta cabeza",
+      "Description": "En 2020, Amazon y Mediaset llegaron a un acuerdo mediante el cual muchas de las nuevas series de la productora se verían antes y en exclusiva en Prime Video, gracias a una ventana de explotación exclusiva de seis meses. La punta de lanza eran series que luego…",
+      "Url": "https://www.xataka.com/cine-y-tv/que-se-avecina-lleva-tres-anos-a-caballo-prime-video-telecinco-television-no-levanta-cabeza",
+      "UrlToImage": "https://i.blogs.es/b092fc/pablo-chiapella-en-la-que-se-avecina-temporada-14/840_560.jpeg",
+      "PublishedAt": "2023-11-23T17:01:55Z",
+      "Content": "En 2020, Amazon y Mediaset llegaron a un acuerdo mediante el cual muchas de las nuevas series de la productora se verían antes y en exclusiva en Prime Video, gracias a una ventana de explotación excl… [+3707 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://i.blogs.es/89e170/challenge/840_560.jpeg",
       "PublishedAt": "2023-11-23T10:31:56Z",
       "Content": "En 2021, 'El juego del calamar'nos pilló totalmente por sorpresa. A nosotros, a la industria y a la propia Netflix, que de repente se vio con un nuevo exitazo entre manos que ni siquiera estaba en su… [+6251 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "John Tones",
-      "Title": "Apple ha lanzado un órdago a lo grande con 'Napoleón'. Y en su éxito se juega más de lo que parece",
-      "Description": "Hace algo menos de tres años, Apple anunciaba que produciría 'Napoleón' para Ridley Scott, un proyecto que el director de 82 años (entonces) emprendería después de estrenar la catastrófica 'El último duelo'. Scott ya la había anunciado unos meses antes, cuand…",
-      "Url": "https://www.xataka.com/cine-y-tv/apple-ha-lanzado-ordago-a-grande-napoleon-su-exito-se-juega-que-parece",
-      "UrlToImage": "https://i.blogs.es/42f0fc/captura-de-pantalla-2023-11-21-a-las-17.43.20/840_560.jpeg",
-      "PublishedAt": "2023-11-23T10:31:55Z",
-      "Content": "Hace algo menos de tres años, Apple anunciaba que produciría 'Napoleón' para Ridley Scott, un proyecto que el director de 82 años (entonces) emprendería después de estrenar la catastrófica 'El último… [+4590 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "Boicot_Israel",
-      "Title": "Netflix dio 11 millones de dólares a una empresa para producir una película y lo perdieron todo en acciones",
-      "Description": "Netflix dio 11 millones de dólares al cineasta Carl Erik Rinsch para producir una serie de ciencia ficción. Ahora, el gigante del streaming quiere recuperar su dinero después de que Rinsch malgastara la inversión en arriesgadas operaciones bursátiles e invers…",
-      "Url": "https://www.meneame.net/m/cultura/netflix-dio-11-millones-dolares-empresa-producir-pelicula-todo",
-      "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
-      "PublishedAt": "2023-11-23T10:24:56Z",
-      "Content": "Traducción\r\nNetflix invirtió más de 40 millones de dólares en el programa de Rinsch y le dio una libertad presupuestaria y creativa casi total. Sin embargo, dicen que nunca han recibido un solo episo… [+1530 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "La mejor película de ciencia ficción que Hollywood se negó a hacer iba a unir a Ridley Scott con James Cameron: el triste motivo por el que nunca vimos su 'Alien 5'",
-      "Description": "El estreno el año que viene de 'Alien 7: Romulus' hará que vuelva a hablarse mucho de esta franquicia de ciencia ficción y terror. No obstante, la cinta dirigida por Fede Álvarez lo va a tener muy difícil para superar a las dos primeras entregas de la saga, l…",
-      "Url": "https://www.espinof.com/directores-y-guionistas/mejor-pelicula-ciencia-ficcion-que-hollywood-se-nego-a-hacer-iba-a-unir-a-ridley-scott-james-cameron-triste-motivo-que-nunca-vimos-su-alien-5",
-      "UrlToImage": "https://i.blogs.es/d928ef/james-cameron-y-ridley-scott/840_560.jpeg",
-      "PublishedAt": "2023-11-23T10:01:55Z",
-      "Content": "El estreno el año que viene de 'Alien 7: Romulus' hará que vuelva a hablarse mucho de esta franquicia de ciencia ficción y terror. No obstante, la cinta dirigida por Fede Álvarez lo va a tener muy di… [+3256 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "'Scott Pilgrim da el salto' tuvo un crossover inesperado con la Trilogía del Cornetto. Así eran los cameos de Simon Pegg y Nick Frost en el anime de Netflix",
-      "Description": "Ya ha llegado a Netflix 'Scott Pilgrim da el salto', el anime que le pega una vuelta de tuerca al cómic de Brian Lee O'Malley y a la película de Edgar Wright. Uno de los puntos fuertes de la serie es que ha recuperado al reparto original de 'Scott Pilgrim con…",
-      "Url": "https://www.espinof.com/netflix/scott-pilgrim-da-salto-tuvo-crossover-inesperado-trilogia-cornetto-asi-eran-cameos-simon-pegg-nick-frost-anime-netflix",
-      "UrlToImage": "https://i.blogs.es/a33c80/hot-fuzz/840_560.jpeg",
-      "PublishedAt": "2023-11-23T09:01:56Z",
-      "Content": "Ya ha llegado a Netflix 'Scott Pilgrim da el salto', el anime que le pega una vuelta de tuerca al cómic de Brian Lee O'Malley y a la película de Edgar Wright. Uno de los puntos fuertes de la serie es… [+1540 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "El autor de los libros de 'The Witcher' destruye a Netflix afirmando que dio ideas para la serie pero \"nunca escuchan\"",
-      "Description": "Cuando la primera temporada de 'The Witcher' comenzó en Netflix, el streamer se vanagloriaba de ser fiel a los textos de Andrzej Sapkowski hasta el punto de poner a Henry Cavill, que se conocía la saga más que bien, a leer un episodio delante de la cámara. Lo…",
-      "Url": "https://www.espinof.com/netflix/autor-libros-the-witcher-destruye-a-netflix-afirmando-que-dio-ideas-para-serie-nunca-escuchan",
-      "UrlToImage": "https://i.blogs.es/735ec0/transformacion/840_560.jpeg",
-      "PublishedAt": "2023-11-23T08:31:09Z",
-      "Content": "Cuando la primera temporada de 'The Witcher' comenzó en Netflix, el streamer se vanagloriaba de ser fiel a los textos de Andrzej Sapkowski hasta el punto de poner a Henry Cavill, que se conocía la sa… [+1572 chars]"
     }
   ]
 }
