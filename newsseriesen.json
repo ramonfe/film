@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 234,
+  "TotalResults": 235,
   "Articles": [
     {
       "Source": {
@@ -80,6 +80,19 @@
       "UrlToImage": "https://tvline.com/wp-content/uploads/2023/11/hannah-waddingham-home-for-christmas-1.jpg",
       "PublishedAt": "2023-11-22T02:44:00Z",
       "Content": "Hannah Waddingham is here to sleigh. \r\nThe Emmy winner’s first holiday special, Hannah Waddingham: Home for Christmas, is now streaming on Apple TV+, and it’s a throwback to variety specials of a byg… [+2006 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "2023.3.0a15",
+      "Description": "2023.3.0a15\n\n November 21, 2023\n \n unityhub://2023.3.0a15/88af49042196\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (I…",
+      "Url": "https://unity.com/releases/editor/alpha/2023.3.0a15",
+      "UrlToImage": null,
+      "PublishedAt": "2023-11-21T17:46:47Z",
+      "Content": "<li>2D: Fix Case where Sprite Atlas's secondary texture is not rendered when used in a ShaderGraph\r\n(UUM-46398)\r\n</li><li>2D: Fix dynamic batching for TilemapRenderer in Individual mode and SpriteRen… [+134825 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Batman-The-Brave-and-the-Bold-Season-1.jpeg?resize=1200,630",
       "PublishedAt": "2023-11-16T12:26:01Z",
       "Content": "Batman: The Brave and the Bold Season 1 is a 2008 animated superhero series that takes inspiration from storylines in the DC Comics lore. The show revolves around the escapades of Batman, who battles… [+3481 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Oviya Priyadharshini",
-      "Title": "Agent Elvis Season 1 Streaming: Watch & Stream Online via Netflix",
-      "Description": "Agent Elvis Season 1 is a 2023 American adult animated sitcom produced by Priscilla Presley, John Eddie, and Mike Arnold. The show follows the escapades of a fictionalized version of American rock n’ roll legend Elvis Presley, who moonlights as a secret agent…",
-      "Url": "https://www.comingsoon.net/guides/news/1404655-agent-elvis-season-1-streaming-watch-stream-online-via-netflix",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/MixCollage-16-Nov-2023-02-03-PM-2059.jpg?resize=1200,630",
-      "PublishedAt": "2023-11-16T08:33:59Z",
-      "Content": "Agent Elvis Season 1 is a 2023 American adult animated sitcom produced by Priscilla Presley, John Eddie, and Mike Arnold. The show follows the escapades of a fictionalized version of American rock n … [+2905 chars]"
     }
   ]
 }
