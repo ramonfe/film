@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1130,
+  "TotalResults": 1131,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "Tomb Raider para Netflix ficha a la guionista de The Marvels",
+      "Description": "Llevábamos sin noticias de la serie animada que prepara Netflix sobre las aventuras de Lara Croft prácticamente desde que se anunció con un pequeño teaser este septiembre. Centrada en los eventos acaecidos justo después de la última trilogía de videojuegos, c…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/tomb-raider-para-netflix-ficha-a-la-guionista-de-the-marvels",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/tomb-raider-lara-croft.jpg?width=1200",
+      "PublishedAt": "2023-11-24T14:30:24Z",
+      "Content": "Lara a punto de dispararnos al corazón\r\nLlevábamos sin noticias de la serie animada que prepara Netflix sobre las aventuras de Lara Croft prácticamente desde que se anunció con un pequeño teaser este… [+1777 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/karate-kid.1700755641.889.jpg?width=1200",
       "PublishedAt": "2023-11-23T18:00:04Z",
       "Content": "El señor Miyagi y Daniel-san flipándose un poco\r\n24 horas es lo que le ha hecho falta a la nueva Karate Kid para recibir más de 10 000 solicitudes para interpretar al nuevo alumno de la disciplina Mi… [+1770 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hola"
-      },
-      "Author": "hola.com",
-      "Title": "La recreación del anillo de compromiso de Lady Di, entre los icónicos accesorios de ‘The Crown’ que salen a subasta",
-      "Description": "Los seguidores de la ficción de Netflix podrán pujar por los míticos trajes y decorados de la popular serie",
-      "Url": "https://www.hola.com/actualidad/20231123244043/subasta-tesoros-the-crown/",
-      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20231123244043/subasta-tesoros-the-crown/1-341-271/corona-netflix-t.jpg",
-      "PublishedAt": "2023-11-23T17:59:28Z",
-      "Content": "Cuando se acaba deestrenar la sexta temporada de la popular serie de Netflix, 'The Crown', que repasa el reinado de Isabel II de Inglaterra; los seguidores de la famosa ficción podrán tener acceso a … [+2222 chars]"
     }
   ]
 }
