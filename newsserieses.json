@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1095,
+  "TotalResults": 1096,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Prime Video acaba de incorporar la mejor adaptación española de una telenovela turca",
+      "Description": "Ha vuelto a suceder: una serie española emitida en una cadena generalista triunfa meses después en una plataforma. Ocurrió con 'La casa de papel' . Ocurrió con 'Entrevías' . Y ocurrió con 'Alba '. Todas ellas en Netflix. A la gente le gusta la ficción que se …",
+      "Url": "https://www.abc.es/play/series/noticias/prime-video-acaba-incorporar-mejor-adaptacion-espanola-20231125053953-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/11/25/heridas-prime-video-kJ1B--1024x512@abc.jpg",
+      "PublishedAt": "2023-11-25T04:39:54Z",
+      "Content": "Ha vuelto a suceder: una serie española emitida en una cadena generalista triunfa meses después en una plataforma. Ocurrió con 'La casa de papel'. Ocurrió con 'Entrevías'. Y ocurrió con 'Alba'. Todas… [+3149 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -84,19 +97,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "María Barba",
-      "Title": "Los mejores chollos de última hora en moda y calzado en el Black Friday",
-      "Description": "Queremos dejar de ser compradoras compulsivas y ser unas consumidoras responsables, pero somos unas ingenuas, tenemos claro que nuestra adicción a la moda nos pierde en más de una ocasión, especialmente en fechas como estas donde las ofertas nos nublan el jui…",
-      "Url": "https://www.trendencias.com/shopping/mejores-chollos-ultima-hora-moda-calzado-black-friday",
-      "UrlToImage": "https://i.blogs.es/137c2e/abrigos/840_560.jpeg",
-      "PublishedAt": "2023-11-24T19:00:04Z",
-      "Content": "Queremos dejar de ser compradoras compulsivas y ser unas consumidoras responsables, pero somos unas ingenuas, tenemos claro que nuestra adicción a la moda nos pierde en más de una ocasión, especialme… [+5486 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Vida Extra"
       },
       "Author": "Fran San Nicolás",
@@ -106,6 +106,19 @@
       "UrlToImage": "https://i.blogs.es/5d1de7/mejores-chollos-de-ultima-hora/840_560.jpeg",
       "PublishedAt": "2023-11-24T19:00:04Z",
       "Content": "Después de unos días repletos de ofertas, el Black Friday está llegando a su fin. Con él finalizarán los grandísimos descuentos que ha habido a lo largo de la semana en productos como consolas, perif… [+4178 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "María Barba",
+      "Title": "Los mejores chollos de última hora en moda y calzado en el Black Friday",
+      "Description": "Queremos dejar de ser compradoras compulsivas y ser unas consumidoras responsables, pero somos unas ingenuas, tenemos claro que nuestra adicción a la moda nos pierde en más de una ocasión, especialmente en fechas como estas donde las ofertas nos nublan el jui…",
+      "Url": "https://www.trendencias.com/shopping/mejores-chollos-ultima-hora-moda-calzado-black-friday",
+      "UrlToImage": "https://i.blogs.es/137c2e/abrigos/840_560.jpeg",
+      "PublishedAt": "2023-11-24T19:00:04Z",
+      "Content": "Queremos dejar de ser compradoras compulsivas y ser unas consumidoras responsables, pero somos unas ingenuas, tenemos claro que nuestra adicción a la moda nos pierde en más de una ocasión, especialme… [+5486 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/1d6580/recopilatorio-1-/840_560.jpeg",
       "PublishedAt": "2023-11-24T08:01:59Z",
       "Content": "Oficialmente, hoy viernes 24 de noviembre se celebra el famoso Black Friday 2023, un día cargado de ofertas en tecnología, moda, videojuegos y en otros muchos sectores. Si es cierto que este día de o… [+5971 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Compradiccion.com"
-      },
-      "Author": "Jesús Salas",
-      "Title": "Robots aspiradores baratos y de oferta en el Black Friday: los mejores para dejar tu casa como nueva y sin esfuerzo",
-      "Description": "Si estabas esperando la llegada del Black Friday para comprar un robot de limpieza a mejor precio de lo habitual, hay varios modelos rondando los 100 euros que tienen importantes descuentos. Estos son los más destacados:\n<!-- BREAK 1 -->\n\n\nRobot aspirador Con…",
-      "Url": "https://www.compradiccion.com/electrodomesticos-y-hogar/robots-aspiradores-baratos-oferta-black-friday-mejores-para-dejar-tu-casa-como-nueva-esfuerzo",
-      "UrlToImage": "https://i.blogs.es/2b2ad3/suelos/840_560.jpeg",
-      "PublishedAt": "2023-11-24T07:15:59Z",
-      "Content": "Si estabas esperando la llegada del Black Friday para comprar un robot de limpieza a mejor precio de lo habitual, hay varios modelos rondando los 100 euros que tienen importantes descuentos. Estos so… [+2469 chars]"
     }
   ]
 }
