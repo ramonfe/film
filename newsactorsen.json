@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 697,
+  "TotalResults": 703,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Snopes.com"
+      },
+      "Author": "Jordan Liles",
+      "Title": "Fact Check: Jeff Daniels Accepted $50K To Co-Star in \"Dumb and Dumber,\" While Jim Carrey Took Home $7M?",
+      "Description": "Actor Jeff Daniels agreed to be paid only $50,000 to co-star in the 1994 comedy movie \"Dumb and Dumber\" alongside fellow actor Jim Carrey, who initially earned $7 million on the film.",
+      "Url": "https://www.snopes.com/fact-check/jeff-daniels-dumb-dumber/",
+      "UrlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/11/carrey_daniels_dumb_dumber.jpg",
+      "PublishedAt": "2023-11-26T14:00:00Z",
+      "Content": "Claim:\r\nActor Jeff Daniels agreed to be paid only $50,000 to co-star in the 1994 comedy movie \"Dumb and Dumber\" alongside fellow actor Jim Carrey, who initially earned $7 million on the film.\r\nOn Aug… [+4770 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "How can I make a content based movie recommendation system with Django real-time data?",
+      "Description": "I am working on a project for my school. I have a Django program where I keep information about 1 million movies in Model Movie with features like title, genre and actors.\nmodels.py\nclass Genre(models.Model):\n title = models.CharField(max_length=255)\n\nclass A…",
+      "Url": "https://stackoverflow.com/questions/77551844/how-can-i-make-a-content-based-movie-recommendation-system-with-django-real-time",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2023-11-26T13:38:34Z",
+      "Content": "I am working on a project for my school. I have a Django program where I keep information about 1 million movies in Model Movie with features like title, genre and actors.\r\nmodels.py\r\nclass Genre(mod… [+1072 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Decider"
+      },
+      "Author": "mliss1578",
+      "Title": "Bradley Cooper Says He Would Do Another ‘Hangover’ Movie “In An Instant”",
+      "Description": "“Just because I love Todd, I love Zach, I love Ed so much,\" says the actor.",
+      "Url": "https://decider.com/2023/11/26/bradley-cooper-says-he-would-do-another-hangover-movie-in-an-instant/",
+      "UrlToImage": "https://decider.com/wp-content/uploads/2019/07/bradley-cooper.jpg?quality=75&strip=all&w=1200",
+      "PublishedAt": "2023-11-26T12:30:00Z",
+      "Content": "Bradley Cooper says he’s totally down to do another Hangover movie should the opportunity arise.\r\nAlthough the Maestro star has taken on more serious roles as of late, he’s open to reviving his chara… [+1291 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Kemifilani.ng"
+      },
+      "Author": "Mercy Trin",
+      "Title": "\"How religion almost hindered me from marrying my husband who I met when I was 20 years old\" Actress Sola Kosoko spills (Video)",
+      "Description": "Nollywood actress and film director, Sola Kosoko has given fans a glimpse into her married life. The movie star, in an interview with colleague, Biola Bayo revealed that she met her husband when she was 20 years and by that time, he had finished his Tertiary …",
+      "Url": "https://www.kemifilani.ng/entertainment/sola-kosoko-reveals-how-religion-almost-hindered-her-from-marrying-her-husband-who-she-met-when-at-age-20/",
+      "UrlToImage": "https://www.kemifilani.ng/wp-content/uploads/2023/11/How-religion-almost-stopped-me-from-marrying-my-husband-Sola-Kosoko-Kemi-Filani-blog-min.jpg",
+      "PublishedAt": "2023-11-26T11:50:48Z",
+      "Content": "Nollywood actress and film director, Sola Kosoko has given fans a glimpse into her married life.\r\nThe movie star, in an interview with colleague, Biola Bayo revealed that she met her husband when she… [+2138 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TMZ"
+      },
+      "Author": "TMZ Staff",
+      "Title": "Cameron Diaz -- Good Genes or Good Docs?!",
+      "Description": "Cameron Diaz's looks over the years are so Holi-bae! Here is a stunning 34-year-old version of the blonde bombshell actress looking camera-ready in Surrey, England, playing the hot L.A. movie trailer producer -- who is incapable of crying in the…\n Permalink",
+      "Url": "https://www.tmz.com/2023/11/26/cameron-diaz-good-genes-or-good-docs/",
+      "UrlToImage": "https://imagez.tmz.com/image/03/16by9/2023/11/17/032c6113c0564bca9788d80a31c6efb2_xl.jpg",
+      "PublishedAt": "2023-11-26T08:30:23Z",
+      "Content": "Cameron Diaz's looks over the years are so Holi-bae!\r\nHere is a stunning 34-year-old version of the blonde bombshell actress looking camera-ready in Surrey, England, playing the hot L.A. movie traile… [+427 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "Ben Blanchet",
+      "Title": "Margot Robbie Weighs In On The Potential For A 'Barbie' Sequel",
+      "Description": "The actor discussed the doll's cinematic future after Greta Gerwig \"put everything\" into the movie.",
+      "Url": "https://www.huffpost.com/entry/margot-robbie-barbie-potential-sequel_n_6562e575e4b05f498ba09a5c",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/6562e9c62200002e17cf01a1.jpeg?cache=155ATus7v8&ops=1200_630",
+      "PublishedAt": "2023-11-26T08:16:45Z",
+      "Content": "Margot Robbie doesnt seem too sure of a potential Barbie sequel after the Greta Gerwig-directed films massive box office performance this year.\r\nI think we put everything into this one. We didnt buil… [+3773 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -314,84 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/988f8212a003e29c/s.webp",
       "PublishedAt": "2023-11-24T17:04:06Z",
       "Content": "Throughout his illustrious career as an actor and comedian, Robin Williams accomplished a great deal, but one thing he will always be remembered for is his performance in Mrs. Doubtfire.While celebra… [+312 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "looper.com",
-      "Title": "Zac Efron's Tragic True Life Story",
-      "Description": "Learn More Zac Efron has come quite a long way since his entertainment industry origins. The actor first took the spotlight in the now-iconic Disney Channel movie \"High School Musical,\" which spawned a franchise of films and TV shows that also launched the ca…",
-      "Url": "https://biztoc.com/x/60fafefb390729f3",
-      "UrlToImage": "https://c.biztoc.com/p/60fafefb390729f3/s.webp",
-      "PublishedAt": "2023-11-24T15:32:08Z",
-      "Content": "Learn More Zac Efron has come quite a long way since his entertainment industry origins. The actor first took the spotlight in the now-iconic Disney Channel movie \"High School Musical,\" which spawned… [+341 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Fantastic Four Rumor: Anya Taylor-Joy Considered for MCU Villain",
-      "Description": "After SAG-AFTRA officially ended its 118-day-long strike, a number of casting rumors about Marvel Studios’ Fantastic Four started circulating online as the search for the highly-anticipated movie’s cast continued. Following reports of Javier Bardem and Mads M…",
-      "Url": "https://www.comingsoon.net/movies/news/1414550-fanfastic-four-rumor-anya-taylor-joy-villain-role",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/GettyImages-1485902880.jpg?resize=1200,630",
-      "PublishedAt": "2023-11-24T15:19:12Z",
-      "Content": "After SAG-AFTRA officially ended its 118-day-long strike, a number of casting rumors about Marvel Studios Fantastic Four started circulating online as the search for the highly-anticipated movies cas… [+1617 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Abdul Azim Naushad",
-      "Title": "Invincible Live-Action: Could Jon Hamm Play Omni-Man? Who Could Play Mark?",
-      "Description": "Fans of the Invincible series are curious about whether or not Jon Hamm could play Omni-Man and which actor could play Mark Grayson in an Invincible live-action movie, which is reportedly in development. Here are your queries answered. Could Jon Hamm play Omn…",
-      "Url": "https://www.comingsoon.net/guides/news/1414445-invincible-live-action-jon-hamm-omni-man-actor-mark-grayson",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/invincible-live-action.jpg?resize=1200,630",
-      "PublishedAt": "2023-11-24T15:02:20Z",
-      "Content": "Fans of the Invincibleseries are curious about whether or not Jon Hamm could play Omni-Man and which actor could play Mark Grayson in an Invincible live-action movie, which is reportedly in developme… [+2077 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "Eve JACKSON",
-      "Title": "New film 'Wish' premieres in Paris to celebrate 100 years of Disney",
-      "Description": "As the team behind the latest magical Disney adventure \"Wish\" present their film in Paris, we're talking about 100 years of the biggest media company on the planet. We learn about Walt's French ancestry and how the name Disney came from two French words – D a…",
-      "Url": "https://www.france24.com/en/tv-shows/arts24/20231124-new-film-wish-premieres-in-paris-to-celebrate-100-years-of-disney",
-      "UrlToImage": "https://s.france24.com/media/display/eeb3c9de-8ac1-11ee-a15c-005056bf30b7/w:1280/p:16x9/ENMG%20ARTS24%201124%20-2024--%20Ep%2057_frame_5026.png",
-      "PublishedAt": "2023-11-24T13:32:47Z",
-      "Content": "Issued on: 24/11/2023 - 14:32\r\nAs the team behind the latest magical Disney adventure \"Wish\" present their film in Paris, we're talking about 100 years of the biggest media company on the planet. We … [+464 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Debmitra Chatterjee",
-      "Title": "Best Thalapathy Vijay Movies to Watch on OTT: Leo, Beast, Bigil & More",
-      "Description": "In the vibrant tapestry of Indian cinema, one name that shines bright is Thalapathy Vijay. Born on June 22, 1974, this prolific actor and singer has left an indelible mark on Tamil cinema. Boasting a filmography of 67 films, he stands as one of the highest-pa…",
-      "Url": "https://www.comingsoon.net/indian/news/1414240-best-thalapathy-vijay-movie-to-watch-on-ott-leo-beast-bigil-more",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Untitled-design-31-1.png?resize=1200,630",
-      "PublishedAt": "2023-11-24T13:22:59Z",
-      "Content": "In the vibrant tapestry of Indian cinema, one name that shines bright is Thalapathy Vijay. Born on June 22, 1974, this prolific actor and singer has left an indelible mark on Tamil cinema. Boasting a… [+3356 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Joon Dutta Roy",
-      "Title": "I’m Still Here Streaming: Watch & Stream Online via Hulu",
-      "Description": "If you’re wondering where to stream the film I’m Still Here online, then you have come to the right place, as we have all the streaming details. Directed by Casey Affleck, the film follows the challenging life of the Hollywood actor Joaquin Phoenix as he exec…",
-      "Url": "https://www.comingsoon.net/guides/features/1414158-im-still-here-streaming-watch-stream-online-via-hulu",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Im-Still-Here.jpeg?resize=1200,630",
-      "PublishedAt": "2023-11-24T12:37:44Z",
-      "Content": "If youre wondering where to stream the film Im Still Here online, then you have come to the right place, as we have all the streaming details. Directed by Casey Affleck, the film follows the challeng… [+2862 chars]"
     }
   ]
 }

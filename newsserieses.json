@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1076,
+  "TotalResults": 1079,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "El mejor orden para ver todas las películas y series de la saga de Jason Bourne",
+      "Description": "Todo hacía pensar que la saga de Jason Bourne iba a pasar bastante tiempo inactiva, pero el anuncio sorpresa de que se prepara una nueva entrega que se espera esté protagonizada por Matt Damon ha revivido el interés en una de las franquicias de acción más apl…",
+      "Url": "https://www.espinof.com/listas/mejor-orden-para-ver-todas-peliculas-series-saga-jason-bourne",
+      "UrlToImage": "https://i.blogs.es/c1310d/bourne/840_560.jpeg",
+      "PublishedAt": "2023-11-26T12:30:44Z",
+      "Content": "Todo hacía pensar que la saga de Jason Bourne iba a pasar bastante tiempo inactiva, pero el anuncio sorpresa de que se prepara una nueva entrega que se espera esté protagonizada por Matt Damon ha rev… [+6378 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ipadizate.com"
+      },
+      "Author": "Sergio J. Ortiz",
+      "Title": "8 ajustes de iOS 17 para mejorar la duración de batería del iPhone",
+      "Description": "Apple ha introducido una gran cantidad de novedades en iOS 17 como los widgets interactivos, la descarga de mapas sin conexión, el modo En Reposo, los perfiles de Safari o las mejoras en Mensajes, entre otros. Son funciones fabulosas, pero lo cierto es que re…",
+      "Url": "https://ipadizate.com/ios/ajustes-ios-17-mejorar-duracion-bateria-iphone",
+      "UrlToImage": "https://ipadizate.com/hero/2023/11/ios17-bateria.jpg?width=1200",
+      "PublishedAt": "2023-11-26T12:01:36Z",
+      "Content": "Sigue estos consejos para aumentar la duración de la batería en iOS 17\r\nApple ha introducido una gran cantidad de novedades en iOS 17 como los widgets interactivos, la descarga de mapas sin conexión,… [+9155 chars]"
+    },
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Daniel Alonso",
+      "Title": "El creador de The Witcher dice que \"nadie le hace caso\" de cara a las adaptaciones",
+      "Description": "El creador de The Witcher, Andrzej Sapkowski, ha declarado en una reciente entrevista durante la Comic Con de Viena, que \"nadie le hace caso\" cuando ofrece ideas para sus adaptaciones. Sapkowski, en concreto, se refería a la experiencia que tuvo visitando el …",
+      "Url": "https://es.ign.com/the-witcher-tv/196616/news/el-creador-de-the-witcher-dice-que-nadie-le-hace-caso-de-cara-a-las-adaptaciones",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/news/n/netflix-pr/netflix-producer-says-some-witcher-book-changes-are-necessar_knb8.1200.jpg",
+      "PublishedAt": "2023-11-26T09:00:27Z",
+      "Content": "El creador de The Witcher, Andrzej Sapkowski, ha declarado en una reciente entrevista durante la Comic Con de Viena, que \"nadie le hace caso\" cuando ofrece ideas para sus adaptaciones. Sapkowski, en … [+1663 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -292,19 +331,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Fran San Nicolás",
-      "Title": "PlayStation 5, Meta Quest 2 y más, estos son los cinco mejores chollos gaming de última hora en el Black Friday",
-      "Description": "Después de unos días repletos de ofertas, el Black Friday está llegando a su fin. Con él finalizarán los grandísimos descuentos que ha habido a lo largo de la semana en productos como consolas, periféricos, tarjetas gráficas, portátiles gaming y mucho más. No…",
-      "Url": "https://www.vidaextra.com/seleccion/playstation-5-meta-quest-2-estos-cinco-mejores-chollos-gaming-ultima-hora-black-friday",
-      "UrlToImage": "https://i.blogs.es/5d1de7/mejores-chollos-de-ultima-hora/840_560.jpeg",
-      "PublishedAt": "2023-11-24T19:00:04Z",
-      "Content": "Después de unos días repletos de ofertas, el Black Friday está llegando a su fin. Con él finalizarán los grandísimos descuentos que ha habido a lo largo de la semana en productos como consolas, perif… [+4178 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Trendencias.com"
       },
       "Author": "María Barba",
@@ -314,6 +340,19 @@
       "UrlToImage": "https://i.blogs.es/137c2e/abrigos/840_560.jpeg",
       "PublishedAt": "2023-11-24T19:00:04Z",
       "Content": "Queremos dejar de ser compradoras compulsivas y ser unas consumidoras responsables, pero somos unas ingenuas, tenemos claro que nuestra adicción a la moda nos pierde en más de una ocasión, especialme… [+5486 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Fran San Nicolás",
+      "Title": "PlayStation 5, Meta Quest 2 y más, estos son los cinco mejores chollos gaming de última hora en el Black Friday",
+      "Description": "Después de unos días repletos de ofertas, el Black Friday está llegando a su fin. Con él finalizarán los grandísimos descuentos que ha habido a lo largo de la semana en productos como consolas, periféricos, tarjetas gráficas, portátiles gaming y mucho más. No…",
+      "Url": "https://www.vidaextra.com/seleccion/playstation-5-meta-quest-2-estos-cinco-mejores-chollos-gaming-ultima-hora-black-friday",
+      "UrlToImage": "https://i.blogs.es/5d1de7/mejores-chollos-de-ultima-hora/840_560.jpeg",
+      "PublishedAt": "2023-11-24T19:00:04Z",
+      "Content": "Después de unos días repletos de ofertas, el Black Friday está llegando a su fin. Con él finalizarán los grandísimos descuentos que ha habido a lo largo de la semana en productos como consolas, perif… [+4178 chars]"
     },
     {
       "Source": {
@@ -353,45 +392,6 @@
       "UrlToImage": "https://i.blogs.es/6f1f24/tv-streaming/840_560.jpeg",
       "PublishedAt": "2023-11-24T17:01:59Z",
       "Content": "Noviembre acabará por todo lo alto para el streaming en lo que a sus novedades se refiere. Con 49 estrenos destacados, las principales plataformas estrenaron ya en semanas anteriores sus grandes apue… [+3784 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Somosxbox.com"
-      },
-      "Author": "Joel Castillo",
-      "Title": "Participantes del reality show de El juego del calamar amenazan con demandar a Netflix tras haber sufrido lesiones",
-      "Description": "Contra todo pronóstico, El juego del calamar se convirtió en el gran éxito televisivo del año 2021. Era una serie coreana y pocos esperaban lo que iba a",
-      "Url": "https://www.somosxbox.com/participantes-del-reality-show-de-el-juego-del-calamar-amenazan-con-demandar-a-netflix-tras-haber-sufrido-lesiones/1028092",
-      "UrlToImage": "https://www.somosxbox.com/wp-content/uploads/2021/10/el-juego-del-calamar-somosxbox.jpg",
-      "PublishedAt": "2023-11-24T16:49:02Z",
-      "Content": "1Contra todo pronóstico, El juego del calamar se convirtió en el gran éxito televisivo del año 2021. Era una serie coreana y pocos esperaban lo que iba a ocurrir: convertirse en el mayor triunfo de N… [+2051 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BeInCrypto"
-      },
-      "Author": "Eduardo Venegas",
-      "Title": "Netflix coquetea con Dogecoin: ¿cómo invirtió la plataforma en criptomonedas meme?",
-      "Description": "Escándalo en Netflix: la plataforma ofreció varios millones de dólares a un director a cambio de una serie, pero el dinero acabó invertido en criptomonedas. Carl Erik Rinsch, el artista en cuestión, no entregó los primeros episodios de su serie de ciencia fic…",
-      "Url": "https://es.beincrypto.com/netflix-coquetea-dogecoin-invirtio-plataforma-criptomonedas-meme/",
-      "UrlToImage": "https://s32679.pcdn.co/wp-content/uploads/2023/11/Dogecoin-DOGE-Price-Up.png.webp",
-      "PublishedAt": "2023-11-24T16:18:21Z",
-      "Content": "Cuando se trata de ofrecer historias increíbles, la plataforma Netflix parece ser la reina. Pero a veces, es el mercado de las criptomonedas el que es más fuerte, en todos los sentidos de la palabra.… [+2418 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "A. Richart",
-      "Title": "El navideño reencuentro de dos personajes de 'Ted Lasso' que se ha hecho viral",
-      "Description": "Destaca la gran ausencia de un icónico elemento de la serie, así como las peticiones de los usuarios de TikTok sobre una posible cuarta temporada de la comedia de Apple TV+",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2023-11-24/ted-lasso-reencuentro-jason-sudeikis-hannah-waddingham_3781249/",
-      "UrlToImage": "https://images.ecestaticos.com/H2h_SHYVpQuIvvA0zS4I0a50_9E=/0x0:1598x1038/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/30d/066/8fa/30d0668face2cf7eec9aa99d60bb931f.jpg",
-      "PublishedAt": "2023-11-24T16:02:00Z",
-      "Content": "Martin Scorsese y Steven Spielberg preparan una serie sobre un popular thriller de los 90Un vídeo viral fantasea con el \"crossover\" definitivo de Vis a vis y Sagrada familiaLa serie Ted Lasso terminó… [+3463 chars]"
     }
   ]
 }
