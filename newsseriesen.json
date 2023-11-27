@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 202,
+  "TotalResults": 203,
   "Articles": [
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Engadget",
+      "Title": "The 70 best Cyber Monday deals you can get from Amazon, Target and others",
+      "Description": "While Cyber Monday sits in the shadow of Black Friday every year, it's certainly not a shopping day you should ignore. Whether you dropped some money on new tech a few days ago or not, Cyber Monday presents a great opportunity to grab anything you may have fo…",
+      "Url": "https://www.engadget.com/the-70-best-cyber-monday-deals-you-can-get-from-amazon-target-and-others-210010345.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/4gTyYW.EWPwh6Esw_9VVfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/747f42d0-8c9f-11ee-b5af-4ee6bf4cbd70",
+      "PublishedAt": "2023-11-26T21:00:10Z",
+      "Content": "While Cyber Monday sits in the shadow of Black Friday every year, it's certainly not a shopping day you should ignore. Whether you dropped some money on new tech a few days ago or not, Cyber Monday p… [+47208 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/monarch-legacy-of-monsters-review.jpg?resize=1200,630",
       "PublishedAt": "2023-11-17T12:36:00Z",
       "Content": "Godzilla and Kong spinoff show Monarch Legacy of Monsters hits Apple TV Plus with a double dose of Russell and monsters galore. But does it have a stronger bite than its big-screen brothers?\r\nKurt Ru… [+6333 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Vansh Mehra",
-      "Title": "Percy Jackson and the Olympians: Is the Disney Plus TV Show a Remake or Reboot?",
-      "Description": "Percy Jackson and the Olympians is a highly anticipated Disney+ series headed our way. But is it linked to the previous Logan Lerman movies or is it a reboot? Here’s all you need to know about Percy Jackson and the Olympians’ connection with the original Fox …",
-      "Url": "https://www.comingsoon.net/guides/news/1406257-percy-jackson-and-the-olympians-disney-plus-tv-show-remake-reboot",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Percy-Jackson-and-the-Olympians-remake.jpg?resize=1200,630",
-      "PublishedAt": "2023-11-17T11:49:05Z",
-      "Content": "Percy Jackson and the Olympians is a highly anticipated Disney+ series headed our way. But is it linked to the previous Logan Lerman movies or is it a reboot? Heres all you need to know about Percy J… [+2060 chars]"
     }
   ]
 }
