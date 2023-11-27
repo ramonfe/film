@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 839,
+  "TotalResults": 840,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La Barcelona del portazo al Hermitage toma las riendas del Ministerio de Cultura",
+      "Description": "Cultura de base, participación ciudadana, descentralización y democratización. También portazo a los grandes equipamientos y cierto desdén ante actividades culturales de envergadura. ¿Objetivo? Escapar de la nostalgia olímpica que durante años ha capitalizado…",
+      "Url": "https://www.abc.es/cultura/barcelona-hermitage-toma-riendas-ministerio-cultura-20231126180157-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/cultura/2023/11/24/marti-urtasun-U76680217842ndg-1024x512@abc.jpg",
+      "PublishedAt": "2023-11-26T18:08:27Z",
+      "Content": "Cultura de base, participación ciudadana, descentralización y democratización. También portazo a los grandes equipamientos y cierto desdén ante actividades culturales de envergadura. ¿Objetivo? Escap… [+5246 chars]"
+    },
     {
       "Source": {
         "Id": "ign",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2023/11/24/doctor-who-U55253587818XwJ-1024x512@abc.jpg",
       "PublishedAt": "2023-11-24T18:08:17Z",
       "Content": "Hace 60 años se estrenó, en las pantallas de los hogares británicos, la que se convertiría en la serie de ciencia ficción más longeva de la historia de la televisión. Desde aquel día, 'Doctor Who' em… [+3443 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "Último tráiler de una Napoleón que se estrena hoy en cines",
-      "Description": "Ridley Scott, el maestro del cine épico, nos sumerge nuevamente en la historia con su última creación, Napoleón. Después de conquistar el espacio en Alien y los mundos futuristas en Blade Runner, Scott se adentra en la Francia napoleónica para narrar la vida …",
-      "Url": "https://www.lavanguardia.com/andro4all/series/ultimo-trailer-de-una-napoleon-que-se-estrena-hoy-en-cines",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/napoleon.1700832784.0396.jpg?width=1200",
-      "PublishedAt": "2023-11-24T17:45:08Z",
-      "Content": "Joaquin Phoenix siempre sombrío\r\nRidley Scott, el maestro del cine épico, nos sumerge nuevamente en la historia con su última creación, Napoleón. Después de conquistar el espacio en Alien y los mundo… [+2258 chars]"
     }
   ]
 }
