@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 205,
+  "TotalResults": 206,
   "Articles": [
+    {
+      "Source": {
+        "Id": "engadget",
+        "Name": "Engadget"
+      },
+      "Author": "Jeff Dunn",
+      "Title": "Cyber Monday TV deals: Save hundreds on sets from Samsung, LG, Sony and more",
+      "Description": "Cyber Monday is traditionally one of the best times of the year to pick up a new TV, with the discounts often matched only by the stretch around the Super Bowl and the spring period after brand new models are announced. This year looks to be no different. To …",
+      "Url": "https://www.engadget.com/cyber-monday-tv-deals-save-hundreds-on-sets-from-samsung-lg-sony-and-more-220018113.html",
+      "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/5HrQVtamD2r6sYpbPqZmCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/7181f300-8d3c-11ee-8fe1-aa17730bae4c",
+      "PublishedAt": "2023-11-27T22:00:18Z",
+      "Content": "Cyber Monday is traditionally one of the best times of the year to pick up a new TV, with the discounts often matched only by the stretch around the Super Bowl and the spring period after brand new m… [+19385 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Monarch-Legacy-of-Monsters.jpeg?resize=1200,630",
       "PublishedAt": "2023-11-22T13:32:43Z",
       "Content": "Created by Chris Black and developed by Black and Matt Fraction, Monarch: Legacy of Monsters is a monster action series streaming on Apple TV Plus. Based on Godzilla by Toho Co., the show is the sixt… [+2661 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Vansh Mehra",
-      "Title": "Squid Game: The Challenge: Is It Real With People Dying or a Reality Show?",
-      "Description": "Netflix has begun streaming Squid Game: The Challenge, a series based on its biggest show ever. But similar to the series, do the contestants really end up dying in The Challenge? Here’s all you need to know about its elimination rules. Is Squid Game: The Cha…",
-      "Url": "https://www.comingsoon.net/guides/news/1411149-squid-game-the-challenge-real-people-dying-reality-show-fake-netflix",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Is-Squid-Game-The-Challenge-real.jpg?resize=1200,630",
-      "PublishedAt": "2023-11-22T12:30:19Z",
-      "Content": "Netflix has begun streaming Squid Game: The Challenge, a series based on its biggest show ever. But similar to the series, do the contestants really end up dying in The Challenge? Heres all you need … [+1936 chars]"
     }
   ]
 }
