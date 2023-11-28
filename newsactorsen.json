@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 708,
+  "TotalResults": 710,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Emma Stone Gets Support from Laura Dern at 'Poor Things' Special Screening in L.A.",
+      "Description": "Emma Stone has been very busy promoting her new movie! The 35-year-old Oscar-winning actress had the support of Laura Dern at Searchlight Pictures’ screening of her new movie Poor Things on Friday (November 17) held at CAA in Los Angeles. The movie’s director…",
+      "Url": "https://www.justjared.com/2023/11/27/emma-stone-gets-support-from-laura-dern-at-poor-things-special-screening-in-l-a/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2023/11/stone-caa.jpg",
+      "PublishedAt": "2023-11-27T19:25:22Z",
+      "Content": "Emma Stone has been very busy promoting her new movie!\r\nThe 35-year-old Oscar-winning actress had the support of Laura Dern at Searchlight Pictures’ screening of her new movie Poor Things on Friday (… [+1273 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Zacjohnson.com"
+      },
+      "Author": "Zac Johnson",
+      "Title": "Alison Sweeney Net Worth – How Much is Sweeney Worth?",
+      "Description": "Alison Sweeney, the actress, reality TV show host, and author, has a net worth of $9 million. Throughout her career, she has accumulated wealth through her various ventures and has achieved financial success. Key Takeaways: Alison Sweeney’s net worth is estim…",
+      "Url": "https://zacjohnson.com/alison-sweeney-net-worth/",
+      "UrlToImage": "https://zacjohnson.com/wp-content/uploads/2023/11/alison-sweeney-net-worth.jpg",
+      "PublishedAt": "2023-11-27T19:08:39Z",
+      "Content": "Alison Sweeney, the actress, reality TV show host, and author, has a net worth of $9 million. Throughout her career, she has accumulated wealth through her various ventures and has achieved financial… [+14102 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/11/carrey_daniels_dumb_dumber.jpg",
       "PublishedAt": "2023-11-26T14:00:00Z",
       "Content": "Claim:\r\nActor Jeff Daniels agreed to be paid only $50,000 to co-star in the 1994 comedy movie \"Dumb and Dumber\" alongside fellow actor Jim Carrey, who initially earned $7 million on the film.\r\nOn Aug… [+4770 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Stackoverflow.com"
-      },
-      "Author": "Stack Overflow",
-      "Title": "How can I make a content based movie recommendation system with Django real-time data?",
-      "Description": "I am working on a project for my school. I have a Django program where I keep information about 1 million movies in Model Movie with features like title, genre and actors.\nmodels.py\nclass Genre(models.Model):\n title = models.CharField(max_length=255)\n\nclass A…",
-      "Url": "https://stackoverflow.com/questions/77551844/how-can-i-make-a-content-based-movie-recommendation-system-with-django-real-time",
-      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
-      "PublishedAt": "2023-11-26T13:38:34Z",
-      "Content": "I am working on a project for my school. I have a Django program where I keep information about 1 million movies in Model Movie with features like title, genre and actors.\r\nmodels.py\r\nclass Genre(mod… [+1072 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Decider"
-      },
-      "Author": "mliss1578",
-      "Title": "Bradley Cooper Says He Would Do Another ‘Hangover’ Movie “In An Instant”",
-      "Description": "“Just because I love Todd, I love Zach, I love Ed so much,\" says the actor.",
-      "Url": "https://decider.com/2023/11/26/bradley-cooper-says-he-would-do-another-hangover-movie-in-an-instant/",
-      "UrlToImage": "https://decider.com/wp-content/uploads/2019/07/bradley-cooper.jpg?quality=75&strip=all&w=1200",
-      "PublishedAt": "2023-11-26T12:30:00Z",
-      "Content": "Bradley Cooper says he’s totally down to do another Hangover movie should the opportunity arise.\r\nAlthough the Maestro star has taken on more serious roles as of late, he’s open to reviving his chara… [+1291 chars]"
     }
   ]
 }
