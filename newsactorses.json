@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 821,
+  "TotalResults": 822,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Raquel Morales",
+      "Title": "¿Quién será el nuevo Karate Kid? El casting abierto registra 10.000 solicitudes en cuestión de horas",
+      "Description": "Se busca a un actor joven de entre 15 y 17 años.\nEl elegido actuará junto a Jackie Chan y Ralph Macchio, el actor original de la primera película y de la serie Cobra Kai.",
+      "Url": "https://es.ign.com/karate-kid-1/196658/news/quien-sera-el-nuevo-karate-kid-el-casting-abierto-registra-10000-solicitudes-en-cuestion-de-horas",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/karate-kid_uzpq.1200.jpg",
+      "PublishedAt": "2023-11-27T15:30:24Z",
+      "Content": "Karate Kid tiene 40 años de existencia, pero está viviendo un nuevo auge gracias a la serie Cobra Kai de Netflix. Su éxito es indiscutible, lo que ha llevado a Sony a anunciar una nueva película con … [+1710 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2023/11/25/jacob-elordi2-U73164637443irq-1024x512@abc.jpg",
       "PublishedAt": "2023-11-25T16:31:10Z",
       "Content": "Hollywood ha encontrado sustituto a Leonardo Di Caprio y Robert Pattinson: Jacob Elordi. Este australiano, de 26 años, con más de dos metros de altura, es el hombre más hermoso y popular del momento.… [+3941 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "A tres años de la muerte de Diego Maradona, su hija Dalma compartió un desgarrador mensaje: “Más allá de todo”",
-      "Description": "La actriz publicó una serie de historias a través de su cuenta de Instagram dedicadas a su papá, que falleció el 25 de noviembre de 2020",
-      "Url": "https://www.lanacion.com.ar/espectaculos/a-tres-anos-de-la-muerte-de-diego-maradona-su-hija-dalma-compartio-un-desgarrador-mensaje-mas-alla-nid25112023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dalma-maradona-furiosa-con-la-revista-caras-LLBVQTBKJRG5PCYJGNHTU5TNV4.jpg?auth=553b1751b1bc9bed2c7c7a5e52d06889e65f0e8fc8f1658bdc271f0f6eba5141&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-11-25T15:41:28Z",
-      "Content": "Este 25 de noviembrese cumplieron tres años de la muerte de Diego Armando Maradona, uno de los futbolistas más influyente de la historia argentina. Con motivo de esta fecha tan especial, tuvo múltipl… [+847 chars]"
     }
   ]
 }
