@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 204,
+  "TotalResults": 205,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hospitality Net"
+      },
+      "Author": "Alexander Mirza, Sahar Cain, Gurvinder Batra",
+      "Title": "Envisaging The Ai Hotel Of The Future",
+      "Description": "Imagine that you are eagerly organizing a weekend getaway for your daughter's 16th birthday. You're on the hunt for a boutique luxury resort, ideally located within a two-hour drive from your home, to accommodate her and her 100 closest friends for an unforge…",
+      "Url": "https://www.hospitalitynet.org/opinion/4119278.html",
+      "UrlToImage": "https://www.hospitalitynet.org/picture/153128827.jpg?t=1673288301",
+      "PublishedAt": "2023-11-27T21:53:04Z",
+      "Content": "Imagine that you are eagerly organizing a weekend getaway for your daughter's 16th birthday. You're on the hunt for a boutique luxury resort, ideally located within a two-hour drive from your home, t… [+28159 chars]"
+    },
     {
       "Source": {
         "Id": "engadget",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Is-Squid-Game-The-Challenge-real.jpg?resize=1200,630",
       "PublishedAt": "2023-11-22T12:30:19Z",
       "Content": "Netflix has begun streaming Squid Game: The Challenge, a series based on its biggest show ever. But similar to the series, do the contestants really end up dying in The Challenge? Heres all you need … [+1936 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Nikita Nath",
-      "Title": "Aespa Member Karina on Netflix’s New Variety Show Agents of Mystery",
-      "Description": "Aespa’s Karina is all set to appear on Netflix’s upcoming variety show Agents of Mystery. She will be one of the six participants in the show. The well-known South Korean TV producer Jeong Jong-Yeon serves as the producer of the new Netflix variety show. The …",
-      "Url": "https://www.comingsoon.net/k-pop/news/1410664-aespa-member-karina-on-netflix-new-variety-show-agents-of-mystery",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Untitled-design-2023-11-22T123634.594.png?resize=1200,630",
-      "PublishedAt": "2023-11-22T08:36:28Z",
-      "Content": "Aespas Karina is all set to appear on Netflixs upcoming variety show Agents of Mystery. She will be one of the six participants in the show. The well-known South Korean TV producer Jeong Jong-Yeon se… [+1426 chars]"
     }
   ]
 }

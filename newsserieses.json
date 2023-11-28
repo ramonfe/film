@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1062,
+  "TotalResults": 1063,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "SkyShowtime elimina más de 200 películas y series esta semana, pero el problema es aún mayor",
+      "Description": "Que las compañías de servicios de vídeo bajo demanda eliminen contenido cada cierto tiempo no debería pillar por sorpresa a nadie. Es una situación que se da, en la gran mayoría de los casos, por temas de licencias; hoy esta película o esta serie están en Net…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/skyshowtime-elimina-mas-de-200-peliculas-y-series-esta-semana-pero-el-problema-es-aun-mayor",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/skyshowtime.jpg?width=1200",
+      "PublishedAt": "2023-11-27T21:30:28Z",
+      "Content": "SkyShowtime, avísanos más, anda\r\nQue las compañías de servicios de vídeo bajo demanda eliminen contenido cada cierto tiempo no debería pillar por sorpresa a nadie. Es una situación que se da, en la g… [+2495 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/26/actor-poblano-consciente-responsabilidad-papel.jpg",
       "PublishedAt": "2023-11-27T11:18:46Z",
       "Content": "La apasionante vida de uno de los ídolos más grandes de la cultura popular en México, será retratada en la bioserie \"Se llamaba Pedro Infante\", misma que llegará a la plataforma Vix el próximo 1 de d… [+3931 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "Colman Domingo, de Euphoria, cree que los actores más jóvenes no saben lo que es un duro día de trabajo",
-      "Description": "Protagonizada por Zendaya, Euphoria es una serie que se centra en un grupo de estudiantes de secundaria que van explorando el mundo del sexo, las drogas, la prostitución, las redes sociales, el amor y la amistad. Temas polémicos para una serie que, fuera de p…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/colman-domingo-de-euphoria-cree-que-los-actores-mas-jovenes-no-saben-lo-que-es-un-duro-dia-de-trabajo",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/ali-colman-domingo-euphoria.jpg?width=1200",
-      "PublishedAt": "2023-11-27T10:45:04Z",
-      "Content": "Protagonizada por Zendaya, Euphoria es una serie que se centra en un grupo de estudiantes de secundaria que van explorando el mundo del sexo, las drogas, la prostitución, las redes sociales, el amor … [+1901 chars]"
     }
   ]
 }
