@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1084,
+  "TotalResults": 1085,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Daniel Gigena",
+      "Title": "Críticas al bestseller español Javier Castillo por sus quejas sobre el acceso gratuito a los libros",
+      "Description": "El autor de la exitosa novela “La chica de nieve”, que fue adaptada como serie por Netflix, se opone a que las bibliotecas públicas presten ejemplares sin cargo; fue objeto de burlas en las redes sociales",
+      "Url": "https://www.lanacion.com.ar/cultura/criticas-al-bestseller-espanol-javier-castillo-por-sus-quejas-sobre-el-acceso-gratuito-a-los-libros-nid28112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-escritor-espanol-javier-castillo-quiere-que-ICLIBNF4AZD5ZLLNK2ZJN77UJI.JPG?auth=68937e6ab50e314cae92c3e7d45abfe251dd2f49970580ffbef7057753181114&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-28T20:33:21Z",
+      "Content": "En todas partes se cuecen habas. Días atrás, el escritor español Javier Castillo (Málaga, 1987), célebre por sus thrillers, entre ellos El cuco de cristal y La chica de nieve, que fue adaptado exitos… [+6285 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/1a9582/alien-olyphant-fx/840_560.jpeg",
       "PublishedAt": "2023-11-28T11:31:00Z",
       "Content": "Con la temporada 5 de 'Fargo' ya en emisión (y en España llega mañana a Movistar Plus+), su máximo responsable ya está enfrascado en la producción de 'Alien', serie basada en la saga de ciencia ficci… [+1941 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "La serie de Netflix que ha ganado en los Gotham Awards es, también, tu favorita",
-      "Description": "Los Gotham Awards son los primeros premios de la temporada y captan la atención por la carrera hacia los Oscar, aunque esta vez toca hablar de una serie de Netflix que ha sido galardonada en la ceremonia que ha tenido lugar esta pasada noche en Nueva York.\r\n\n…",
-      "Url": "https://www.revistagq.com/articulo/serie-netflix-bronca-gotham-awards-2023-ganadora",
-      "UrlToImage": "https://media.revistagq.com/photos/6565c949b7dd76d0f061853e/16:9/w_1280,c_limit/BEEF_103_Unit_01249RC2.jpg",
-      "PublishedAt": "2023-11-28T11:11:11Z",
-      "Content": "Los Gotham Awards son los primeros premios de la temporada y captan la atención por la carrera hacia los Oscar, aunque esta vez toca hablar de una serie de Netflix que ha sido galardonada en la cerem… [+1965 chars]"
     }
   ]
 }
