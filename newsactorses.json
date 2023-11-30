@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 849,
+  "TotalResults": 850,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Pablo Montagna",
+      "Title": "Murió la actriz Julia Sandoval a los 95 años: legendaria referente de la radio, el cine, el teatro y la televisión",
+      "Description": "La noticia fue confirmada en las últimas horas tras más de un mes de incertidumbre sobre su paradero; según pudo confirmar este medio, Julia Delia Toscano Barrientos falleció el pasado 27 de octubre",
+      "Url": "https://www.lanacion.com.ar/espectaculos/murio-la-actriz-julia-sandoval-a-los-95-anos-legendaria-referente-de-la-radio-el-cine-el-teatro-y-la-nid28112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/julia-sandoval-nacio-el-3-de-diciembre-de-R4XBGHBK4JCBPJNRD4VCINZLLY.jpeg?auth=157d41f631f887fbeab69c801f8e36e6d600def0940561db07f5f97eaa5f526b&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-29T02:07:54Z",
+      "Content": "Luego de días de incertidumbre sobre su persona, en la tarde noche de este martes 28 de noviembre, se conoció y confirmó el fallecimiento de la actriz Julia Sandoval,\r\nquien fuera una legendaria refe… [+2290 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
       "PublishedAt": "2023-11-27T21:00:30Z",
       "Content": "Segunda parte del artículo \"El Sionismo, esa ideología mágica\". Enlace abajo de todo.\r\nComo habíamos comentado anteriormente, hay dos elementos fundamentales para comprender la enorme injusticia perp… [+34306 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elseptimoarte.net"
-      },
-      "Author": "wanchope",
-      "Title": "Una mujer decidida a controlar su destino. Tráiler de 'Los colores del incendio'",
-      "Description": "Vercine presenta el tráiler español de 'Los colores del incendio', película dirigida por el director, guionista y actor Clovis Cornillac que está basada en la segunda entrega de la trilogía superventas de Pierre Lemaitre, quién también firma el guion y que te…",
-      "Url": "https://www.elseptimoarte.net/noticias/actualidad/una-mujer-decidida-a-controlar-su-destino-trailer-de-los-colores-del-incendio-46637.html",
-      "UrlToImage": "https://www.elseptimoarte.net/imagenes/noticias/650/124656.jpg",
-      "PublishedAt": "2023-11-27T21:00:00Z",
-      "Content": "Vercine presenta el tráiler español de 'Los colores del incendio', película dirigida por el director, guionista y actor Clovis Cornillac que está basada en la segunda entrega de la trilogía supervent… [+1692 chars]"
     }
   ]
 }
