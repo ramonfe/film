@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 809,
+  "TotalResults": 810,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Gabriela Grosso",
+      "Title": "Tiene 82 años. Qué es de la vida de Marcela López Rey, la dama del cine y la TV: amores, nietas y horas de natación",
+      "Description": "Modelo, actriz, escritora… Es pura chispa y energía. Icónica representante de la nouvelle vague argentina, habla de todo: “Tuve galanes a rolete y lo digo sin vanidad. Por suerte, siempre pude elegir”",
+      "Url": "https://www.lanacion.com.ar/revista-hola/tiene-82-anos-que-es-de-la-vida-de-marcela-lopez-rey-la-dama-del-cine-y-la-tv-amores-nietas-y-horas-nid30112023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/fotografiada-por-hola-argentina-junto-a-un-PJWELWS32NDM7KEGCODGOY2ZIA.jpg?auth=f6e49bf5c2149df4161ba74592eb9c7b6d3dc6054bd8e75b78dc0f549bd79f57&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-11-30T06:00:00Z",
+      "Content": "Su pelo oscuro y largo, el lunar estratégicamente ubicado sobre el labio, sus ojos como brasas encendidas y un tono de voz sensual e inconfundible destacaron a Marcela López Rey (82) cada vez que apa… [+7557 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/8b3bf5/vlcsnap-2014-04-15-11h02m26s170/840_560.jpeg",
       "PublishedAt": "2023-11-29T01:56:44Z",
       "Content": "Todo mundo tiene, en mayor o menor medida, un gran apego a la nostalgia cuando de recuerdos en el cine se trata, y los años ochenta nos dejaron un montón de éxitos de taquilla que merecen ser vistos … [+2057 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Cristian Ordóñez",
-      "Title": "Mario Morán: ¿quién es el actor que interpretará a Pedro Infante en bioserie?",
-      "Description": "Mario Morán es el nombre del actor que fue elegido por parte de la producción de la bioserie 'Se llamaba Pedro Infante' para tomar el importante rol protagónico, como el mítico cantante y actor mexicano de la Época de Oro del Cine Mexicano.¿Quién es Mario Mor…",
-      "Url": "https://www.milenio.com/espectaculos/television/mario-moran-actor-interpreta-pedro-infante-serie",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/11/28/mario-moran-pedro-infante-bioserie.jpg",
-      "PublishedAt": "2023-11-28T23:43:03Z",
-      "Content": "Mario Morán es el nombre del actor que fue elegido por parte de la producción de la bioserie 'Se llamaba Pedro Infante' para tomar el importante rol protagónico, como el mítico cantante y actor mexic… [+2789 chars]"
     }
   ]
 }
