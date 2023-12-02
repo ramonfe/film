@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1067,
+  "TotalResults": 1068,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Alberto Olmos",
+      "Title": "'El ADN del delito': viaje guiado por Brasil con Netflix",
+      "Description": "La serie más cara de la historia del audiovisual brasileño trata la delincuencia organizada en la frontera con Paraguay",
+      "Url": "https://www.elconfidencial.com/cultura/2023-12-01/adn-delito-viaje-guiado-brasil-netflix_3784745/",
+      "UrlToImage": "https://images.ecestaticos.com/B_aiyg55QhNXLpZNNtidqs_95uA=/0x0:1920x1080/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/b50/aaa/c74/b50aaac74b93e19f526cbec841743688.jpg",
+      "PublishedAt": "2023-12-01T04:00:00Z",
+      "Content": "De Mayo del 68 nos quedaron algunas frases graciosas, como esa que dice: Unas vacaciones baratas en la miseria de los demás. Netflix ha capitalizado la idea, y en todas partes hay Netflix, y a todas … [+5249 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/f10666/orange-tv-tcm-now/840_560.jpeg",
       "PublishedAt": "2023-11-30T10:49:39Z",
       "Content": "Aunque lleva desde el año pasado en otras plataformas como Movistar Plus+, Vodafone TV o Agile TV, es ahora cuando, por fin, Orange y TCM han anunciado la incorporación del servicio bajo demanda TCM … [+1583 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Por qué The Marvels ha sido un fracaso, según el CEO de Disney",
-      "Description": "The Marvels es, por el momento, el mayor fracaso del Universo Cinemático de Marvel tras convertirse en la cinta del estudio marvelita en lograr la recaudación más baja en su estreno. Y lo peor es que las cifras no han ido mejorando con el paso de los días, ta…",
-      "Url": "https://www.revistagq.com/articulo/the-marvels-por-que-fracaso-bob-iger-disney",
-      "UrlToImage": "https://media.revistagq.com/photos/656868167e11542ddc4211e2/16:9/w_1280,c_limit/the-marvels-por-que-fracaso.jpg",
-      "PublishedAt": "2023-11-30T10:49:35Z",
-      "Content": "The Marvels es, por el momento, el mayor fracaso del Universo Cinemático de Marvel tras convertirse en la cinta del estudio marvelita en lograr la recaudación más baja en su estreno. Y lo peor es que… [+2280 chars]"
     }
   ]
 }
