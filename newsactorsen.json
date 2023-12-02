@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 739,
+  "TotalResults": 740,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Untitled-design-2023-11-30T172439.029.png?resize=1200,630",
       "PublishedAt": "2023-11-30T13:58:48Z",
       "Content": "Lee Jin-Wook, the 42-year-old South Korean actor, has gained a lot of recognition for his outstanding performance in Netflixs apocalyptic action-thriller series, Sweet Home. The actor has been a part… [+3432 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Jonathan Majors supported by girlfriend Meagan Good at court as assault trial begins: Live - The Independent",
-      "Description": "Jonathan Majors supported by girlfriend Meagan Good at court as assault trial begins: LiveThe Independent Jonathan Majors Makes Court Appearance for Assault CaseInside Edition Disney's Terrible Year Is About To Get Even WorseNewsweek Disney's movie business u…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172337645",
-      "UrlToImage": null,
-      "PublishedAt": "2023-11-30T13:13:29Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
