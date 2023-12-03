@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 763,
+  "TotalResults": 764,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Mariano D'Andrea",
+      "Title": "España, de luto por la muerte de la actriz Concha Velasco, un emblema del cine y el teatro",
+      "Description": "La intérprete, que tenía 84 años, fue una de las más convocadas por los directores durante la segunda mitad del siglo XX y una pieza fundamental de la lucha cultural contra el franquismo; su deceso, este sábado, causó gran conmoción en la comunidad artística …",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/espana-de-luto-por-la-muerte-de-la-actriz-concha-velasco-un-emblema-del-cine-y-el-teatro-nid02122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/murio-concha-velasco-uno-de-los-rostros-mas-6IFW3J2YCNEWVKV2X3RNYPWDR4.jpg?auth=b65fefcbae6e21027f5fedcee90dd53ee9e5e78aeb769bcd7aae7723add3dc75&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-02T22:43:39Z",
+      "Content": "La noticia conmovió a toda España: este sábado, a los 84 años, murió Concha Velasco. La multifacética actriz, que fue uno de los rostros del cine español de la segunda mitad del siglo pasado, se enco… [+9021 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.ecestaticos.com/y8cl9lwyzZ44Ts7S2Co89bguyFY=/0x0:1920x1080/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/0f2/6d9/13e/0f26d913e1b27ca111e62b656aa354da.png,0,275,1)/f.elconfidencial.com/original/a04/f2c/d33/a04f2cd33a4fdd4ef2869dfbfa30cef1.jpg",
       "PublishedAt": "2023-12-02T09:35:00Z",
       "Content": "Las últimas imágenes que tenemos en mente de la que fuera nuestra chispeante chica ye-yé o alegre chica de la Cruz Roja, son las que corresponden a una abuela de 84 años, que llevaba ya meses ingresa… [+6688 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Concha Velasco muere a los 84 años en Madrid",
-      "Description": "La actriz Concha Velasco ha fallecido en el Hospital Puerta de Hierro de Madrid a los 84 años, según han confirmado sus hijos a la agencia EFE. De alguna manera, Concha Velasco nunca dejó de ser Conchita, 'una muchachita de Valladolid'; alguien cercano, de la…",
-      "Url": "https://www.abc.es/cultura/concha-velasco-muere-anos-madrid-20231202103356-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2022/12/29/concha-velasco-kTnE-U65300400056bbN-1024x512@abc.JPG",
-      "PublishedAt": "2023-12-02T09:33:57Z",
-      "Content": "La actriz Concha Velasco ha fallecido este sábado en el Hospital Puerta de Hierro de Madrid a los 84 años, según ha confirmado su familia a la agencia EFE. A través de un comunicado, sus hijos Manuel… [+13481 chars]"
     }
   ]
 }
