@@ -1,8 +1,242 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 754,
+  "TotalResults": 772,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Alucine.es"
+      },
+      "Author": "Hector",
+      "Title": "Clint Eastwood ya rueda “Juror #2”, la última película de su carrera",
+      "Description": "Nada va a ser lo mismo sin él. Clint Eastwood es uno de esos creativos que deberían vivir para siempre. La aportación como actor de Eastwood es tremenda, pero detrás de las cámaras adquiría el rango de leyenda. Un director excelso que, a sus 93 años, ha decid…",
+      "Url": "https://www.alucine.es/2023/12/05/clint-eastwood-ya-rueda-juror-2-la-ultima-pelicula-de-su-carrera/",
+      "UrlToImage": "https://www.alucine.es/wp-content/uploads/2023/11/1-74.jpg",
+      "PublishedAt": "2023-12-05T14:00:13Z",
+      "Content": "Clint Eastwood\r\nNada va a ser lo mismo sin él. Clint Eastwood es uno de esos creativos que deberían vivir para siempre. La aportación como actor de Eastwood es tremenda, pero detrás de las cámaras ad… [+1143 chars]"
+    },
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Aarón Márquez",
+      "Title": "La película de Robert Pattinson sobre un asesino en serie habría sido descartada por Netflix",
+      "Description": "El guionista y director Adam McKay ha dejado la película por un proyecto \"relacionado con el clima\".\nPara desgracia de los fans de este actor, su película sobre un asesino en serio parece haber sido completamente descartada por Netflix.",
+      "Url": "https://es.ign.com/netflix/196932/news/la-pelicula-de-robert-pattinson-sobre-un-asesino-en-serie-habria-sido-descartada-por-netflix",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/news/r/robert-pat/robert-pattinson-serial-killer-comedy-film-reportedly-scrapp_7s9a.1200.jpg",
+      "PublishedAt": "2023-12-05T13:30:28Z",
+      "Content": "Average Height, Average Build, una comedia de asesinos en serie que iba a estar protagonizada por Robert Pattinson, Amy Adams y Robert Downey Jr. y escrita y dirigida por Adam McKay, al parecer ha si… [+2446 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Borja Sánchez",
+      "Title": "Muere Sophie Anderson, actriz de cine para adultos, en extrañas circunstancias días después de su pareja",
+      "Description": "La joven de 36 años compartía profesión con su novio, quien había dejado el fútbol de élite, para pasarse a la misma industria hacía unos meses. Ahora, ambos han fallecido tras atravesar una crisis.",
+      "Url": "https://www.elespanol.com/corazon/celebrities/20231205/muere-sophie-anderson-actriz-cine-adultos-extranas-circunstancias-dias-despues-pareja/814918673_0.html",
+      "UrlToImage": "https://s1.elespanol.com/2023/12/05/actualidad/814928962_238184212_1706x960.jpg",
+      "PublishedAt": "2023-12-05T12:49:40Z",
+      "Content": "La historia de Sophie Anderson (36 años) y Oliver Spedding (34) es una de esas marcadas por la tragedia. La pareja de actores de cine para adultos ha muerto con apenas unos días de diferencia. Ella h… [+4524 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "¿Te acuerdas de Mischa Barton? Así está 20 años después de la serie 'The O.C.'",
+      "Description": "Recientemente, la actriz británica se ha sincerado sobre los problemas que sigue arrastrando por el éxito de su personaje",
+      "Url": "https://www.hola.com/belleza/actualidad/20231205244703/mischa-barton-evolucion-the-oc/",
+      "UrlToImage": "https://images.hola.com/imagenes/belleza/actualidad/20231205244703/mischa-barton-evolucion-the-oc/1-346-223/misha-barton-cordon11-t.jpg",
+      "PublishedAt": "2023-12-05T12:41:59Z",
+      "Content": "The O.C. fue una serie que marcó a toda una generación. Todavía hoy somos muchos los que recordamos las aventuras y desventuras del grupo de adolescentes ricos de la costa californiana formado por Ry… [+5403 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "Penélope Cruz: 'Estoy muy nerviosa porque hay una persona muy, muy especial en la sala, mi hijo'",
+      "Description": "La actriz madrileña dio una conferencia en la Academia Británica del Cine (BAFTA) y confesó estar 'muy nerviosa' por la presencia de su hijo mayor, Leo, de 12 años, entre el público",
+      "Url": "https://www.hola.com/actualidad/20231205244704/penelope-cruz-conferencia-hijo-leo-entre-publico/",
+      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20231205244704/penelope-cruz-conferencia-hijo-leo-entre-publico/1-346-282/penelope-cruz-getty-t.jpg",
+      "PublishedAt": "2023-12-05T12:30:59Z",
+      "Content": "Penélope Cruz se convirtió en la gran protagonista de una ceremonia celebrada en la Academia Británica del Cine (BAFTA) en Londres. La ganadora del Oscar por Vicky Cristina Barcelona acudió a una con… [+3884 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Culturaocio.com"
+      },
+      "Author": null,
+      "Title": "Canal Historia estrena Jerusalén, ciudad de furia y esperanza, la serie documental narrada por Ewan McGregor",
+      "Description": "El próximo lunes 11 de diciembre a las 22:00 horas Canal Historia estrena Jerusalén, ciudad de furia y esperanza, su nueva serie documental narrada por el actor Ewan McGregor.",
+      "Url": "https://www.culturaocio.com/tv/noticia-canal-historia-estrena-jerusalen-ciudad-furia-esperanza-serie-documental-narrada-ewan-mcgregor-20231205132901.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231205132901_1200.jpg",
+      "PublishedAt": "2023-12-05T12:29:01Z",
+      "Content": "MADRID, 5 Dic. (CulturaOcio) - \r\n   El próximo lunes 11 de diciembre a las 22:00 horas Canal Historia estrena Jerusalén, ciudad de furia y esperanza, su nueva serie documental narrada por el actor Ew… [+1599 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El actor Mark Sheppard, al borde de la muerte tras sufrir seis infartos en 24 horas con 59 años",
+      "Description": "El actor Mark Sheppard , conocido por sus papel en la serie 'Sobrenatural', acaba de pasar por uno de los momentos más complicados de su vida. Ha estado al borde de la muerte con 59 años tras sufrir seis infartos en 24 horas . Ha sido el propio intérprete qui…",
+      "Url": "https://www.abc.es/gente/actor-mark-sheppard-borde-muerte-tras-sufrir-20231205124715-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2023/12/05/sheppard-kPcF--1024x512@abc.PNG",
+      "PublishedAt": "2023-12-05T11:47:15Z",
+      "Content": "El actor Mark Sheppard, conocido por sus papel en la serie 'Sobrenatural', acaba de pasar por uno de los momentos más complicados de su vida. Ha estado al borde de la muerte con 59 años tras sufrir s… [+1002 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eluniversal.com.co"
+      },
+      "Author": "EFE",
+      "Title": "Penélope Cruz habló del rol de la mujer en el cine: “no ha cambiado mucho”",
+      "Description": "La actriz española Penélope Cruz deslumbró este lunes a Londres con un repaso a su carrera en la academia británica del cine (BAFTA), donde reconoció a su pesar que la situación de las mujeres dentro de su profesión “en realidad no ha cambiado mucho”.",
+      "Url": "https://www.eluniversal.com.co/cultural/penelope-cruz-hablo-del-rol-de-la-mujer-en-el-cine-no-ha-cambiado-mucho-DY9573454",
+      "UrlToImage": "https://www.eluniversal.com.co/binrepository/1218x686/211c0/800d686/none/13704/CVNC/penelope-cruz_9080021_20231205070750.png",
+      "PublishedAt": "2023-12-05T11:44:24Z",
+      "Content": "La actriz española Penélope Cruz deslumbró este lunes a Londres con un repaso a su carrera en la academia británica del cine (BAFTA), donde reconoció a su pesar que la situación de las mujeres dentro… [+3441 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Formulatv.com"
+      },
+      "Author": "Alejandro Rodera",
+      "Title": "Kim Kardashian protagonizará la nueva serie de Ryan Murphy tras su paso por 'American Horror Story'",
+      "Description": "DUPLA CONSOLIDADA La celebrity estadounidense avanzará en su carrera como actriz de la mano del cotizado productor.Kim Kardashian protagonizará la nueva serie de Ryan Murphy tras su paso por 'American Horror Story'",
+      "Url": "https://www.formulatv.com/noticias/kim-kardashian-protagonizara-serie-ryan-murphy-125662/",
+      "UrlToImage": "https://www.formulatv.com/images/articulos/125000/125662_wtiN2LU0k4aEsoz5ce7RJP3v18gY6FHBx-hog.jpg",
+      "PublishedAt": "2023-12-05T11:44:00Z",
+      "Content": "Kim Kardashian y Ryan Murphy seguirán haciendo negocios juntos. Tras unir fuerzas en la duodécima temporada de 'American Horror Story', que ha supuesto el salto en firme de la empresaria al mundo de … [+2351 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Víctor López G.",
+      "Title": "'Los asesinos de la luna' de Martin Scorsese ya tiene fecha de lanzamiento en streaming, y es el mejor regalo de Reyes anticipado que podríamos desear",
+      "Description": "A este año 2023 le quedan, como suele decirse, dos telediarios. Con el mes de diciembre ya iniciado y la nochevieja a la vuelta de la esquina, toca empezar a hacer el balance de rigor al curso cinematográfico que estamos a punto de cerrar y, en términos gener…",
+      "Url": "https://www.espinof.com/estrenos/asesinos-luna-martin-scorsese-tiene-fecha-lanzamiento-streaming-mejor-regalo-reyes-anticipado-que-podriamos-desear",
+      "UrlToImage": "https://i.blogs.es/ee5d5a/killers-of-the-flower-moon-mag-rollout-5-101123-f9a01414943d4a9e94e865606a8a6336/840_560.jpeg",
+      "PublishedAt": "2023-12-05T11:31:46Z",
+      "Content": "A este año 2023 le quedan, como suele decirse, dos telediarios. Con el mes de diciembre ya iniciado y la nochevieja a la vuelta de la esquina, toca empezar a hacer el balance de rigor al curso cinema… [+1867 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eluniversal.com.co"
+      },
+      "Author": "EFE",
+      "Title": "¿Se retira? Nicolas Cage sentenció su despedida de Hollywood",
+      "Description": "Nicolas Cage aseguró este lunes que su retiro como actor de cine está cerca ya que tiene interés en explorar otros formatos fuera de la pantalla grande.",
+      "Url": "https://www.eluniversal.com.co/cultural/se-retira-nicolas-cage-sentencio-su-despedida-de-hollywood-BY9573377",
+      "UrlToImage": "https://www.eluniversal.com.co/binrepository/915x686/57c0/800d686/none/13704/QBMN/nicolas-cage_9079888_20231205064332.jpg",
+      "PublishedAt": "2023-12-05T11:27:48Z",
+      "Content": "Nicolas Cage aseguró este lunes que su retiro como actor de cine está cerca ya que tiene interés en explorar otros formatos fuera de la pantalla grande.\r\nPuede que me queden tres o cuatro películas m… [+1895 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Alucine.es"
+      },
+      "Author": "Hector",
+      "Title": "Sylvester Stallone confiesa el grave error que cometieron en la saga “Rocky”",
+      "Description": "Es uno de los personajes más legendarios del cine. Hablar de Rocky Balboa es hablar de un tipo adorado por generaciones de cinéfilos. El personaje de Sylvester Stallone nos ofrecía una saga realmente genial, que incluso mutaba a lo grande enlazando directamen…",
+      "Url": "https://www.alucine.es/2023/12/05/sylvester-stallone-confiesa-el-grave-error-que-cometieron-en-la-saga-rocky/",
+      "UrlToImage": "https://www.alucine.es/wp-content/uploads/2023/11/3-13.jpg",
+      "PublishedAt": "2023-12-05T10:50:52Z",
+      "Content": "Rocky IV\r\nEs uno de los personajes más legendarios del cine. Hablar de Rocky Balboa es hablar de un tipo adorado por generaciones de cinéfilos. El personaje de Sylvester Stallone nos ofrecía una saga… [+1241 chars]"
+    },
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "ENRIQUE CORBELLA",
+      "Title": "Muere la actriz porno Sophie Anderson dos semanas después que su novio, el exfutbolista Oliver Spedding",
+      "Description": "Sophie Anderson murió con 36 años apenas dos semanas después del fallecimiento de su novio Oliver Spedding, el exjugador del Crystal Palace que cambió el fútbol por el cine porno  Leer",
+      "Url": "https://www.marca.com/buzz/2023/12/05/656ef8b622601d66648b456c.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/4bb5e205a851b5d1abed60bf5aed0e31/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/05/17017712664410.jpg",
+      "PublishedAt": "2023-12-05T10:18:17Z",
+      "Content": "Sophie Anderson, prolífica actriz porno, ha muerto a los 36 años apenas dos semanas después del fallecimiento con 34 años de su novio Oliver Spedding, el exjugador del Crystal Palace que cambió el fú… [+1918 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Steff Yotka",
+      "Title": "Balenciaga pre-fall 2024: el gran sueño americano de Demna aterriza en Los Ángeles",
+      "Description": "No hace tanto tiempo, los desfiles de Balenciaga trataban temas como la guerra y la crisis de los refugiados, el apocalipsis climático y los males de la avaricia empresarial. Estos espectáculos de la moda, con ravers con coleta y máscaras de chimpancés y tipo…",
+      "Url": "https://www.revistagq.com/articulo/balenciaga-prefall-2024-demna-los-angeles-hollywood",
+      "UrlToImage": "https://media.revistagq.com/photos/656ee9ff3a13103a1c59c59f/16:9/w_1280,c_limit/GettyImages-1827526989.jpg",
+      "PublishedAt": "2023-12-05T10:15:41Z",
+      "Content": "No hace tanto tiempo, los desfiles de Balenciaga trataban temas como la guerra y la crisis de los refugiados, el apocalipsis climático y los males de la avaricia empresarial. Estos espectáculos de la… [+3267 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Pablo Naranjo",
+      "Title": "Dos hombres y un destino: así fue el triángulo amoroso de Julio Iglesias, Miguel Bosé y Giannina Facio",
+      "Description": "El sinfín de hits musicales de Miguel Bosé y Julio Iglesias dejan muy claro que tuvieron una vida romántica ajetreada. Esto no es ninguna novedad. Lo curioso es que uno le arrebató la novia al otro. Para desvelarte este capítulo hay que retroceder hasta la dé…",
+      "Url": "https://www.trendencias.com/celebrities/dos-hombres-destino-asi-fue-triangulo-amoroso-julio-iglesias-miguel-bose-giannina-facio",
+      "UrlToImage": "https://i.blogs.es/36ba23/sin-titulo---2023-12-05t095618.091/840_560.jpeg",
+      "PublishedAt": "2023-12-05T09:36:03Z",
+      "Content": "El sinfín de hits musicales de Miguel Bosé y Julio Iglesias dejan muy claro que tuvieron una vida romántica ajetreada. Esto no es ninguna novedad. Lo curioso es que uno le arrebató la novia al otro. … [+1655 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Revistagq.com"
+      },
+      "Author": "Guillermina Carro",
+      "Title": "Dune 2 no será nada como la primera, y por eso te va a encantar",
+      "Description": "Si eres fan de** Dune** en general, no cabe duda de que Dune 2, la segunda parte de la versión de Denis Villeneuve te va a atrapar por completo, pero si eres de los que salió un poco decepcionado de la primera porque imaginaba algo más de acción trepidante, n…",
+      "Url": "https://www.revistagq.com/articulo/dune-2-mas-accion-que-la-primera-parte-villeneuve",
+      "UrlToImage": "https://media.revistagq.com/photos/656ee8e4408aae50c68aa247/16:9/w_1280,c_limit/dune-2-mas-accion.jpg",
+      "PublishedAt": "2023-12-05T09:11:52Z",
+      "Content": "Si eres fan de** Dune** en general, no cabe duda de que Dune 2, la segunda parte de la versión de Denis Villeneuve te va a atrapar por completo, pero si eres de los que salió un poco decepcionado de … [+2001 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Jornada.com.mx"
+      },
+      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
+      "Title": "Falleció Queta Lavat, actriz de la época de oro del cine mexicano",
+      "Description": "Hasta hace unos días, Queta Lavat, de 94 años y actriz de la época de oro del cine nacional incursionó en las radionovelas y creaba contenido en la red social TikTok, compartiendo videos en los que platicaba anécdotas de su carrera, además de recetas de difer…",
+      "Url": "https://www.jornada.com.mx/2023/12/05/espectaculos/a08n1esp",
+      "UrlToImage": "https://www.jornada.com.mx/2023/12/05/fotos/a08n1esp-1.jpg",
+      "PublishedAt": "2023-12-05T08:57:39Z",
+      "Content": "Periódico La JornadaMartes 5 de diciembre de 2023, p. 8\r\nHasta hace unos días, Queta Lavat, de 94 años y actriz de la época de oro del cine nacional incursionó en las radionovelas y creaba contenido … [+2126 chars]"
+    },
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Estrella Gomez",
+      "Title": "Nicolas Cage ya está hablando de su retirada del cine: \"Me quedan tres o cuatro películas más\"",
+      "Description": "Di que no es así.\nTodo tiene su final, incluso la carrera del gran Nicolas Cage, al menos en cuanto al cine se refiere. ¿Veremos al actor en otros medios?",
+      "Url": "https://es.ign.com/nicolas-cage/196927/news/nicolas-cage-ya-esta-hablando-de-su-retirada-del-cine-me-quedan-tres-o-cuatro-peliculas-mas",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/news/n/nicolas-ca/nicolas-cage-may-only-have-three-or-four-movies-left-in-him_p3dn.1200.jpg",
+      "PublishedAt": "2023-12-05T08:30:25Z",
+      "Content": "Nadie quiere que llegue ese día, pero en algún momento nuestros mejores actores se pondrán delante de la cámara por última vez. La estrella Nicolas Cage ha empezado incluso a hablar de ese día, revel… [+1826 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -158,240 +392,6 @@
       "UrlToImage": "https://i.blogs.es/cdc2e1/predestination/840_560.jpeg",
       "PublishedAt": "2023-12-04T18:01:39Z",
       "Content": "El cine con viajes en el tiempo es el favorito de muchos amantes de las películas de ciencia ficción, pero es complicado encontrar alguna que realmente pille desprevenido al espectador. Hoy os traigo… [+1747 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "Deadpool 3 sigue añadiendo mutantes a su plantel: la tercera película del Mercenario Bocazas confirma la llegada de dos grandes enemigos de Lobezno",
-      "Description": "El Universo Cinematográfico de Marvel continúa preparando el terreno para uno de los lanzamientos más esperados de la nueva era del estudio: Deadpool 3. La única película del UCM programada para estrenarse en 2024 ha regresado recientemente a la fase de rodaj…",
-      "Url": "https://www.vidaextra.com/cine/deadpool-3-sigue-anadiendo-mutantes-a-su-plantel-tercera-pelicula-mercenario-bocazas-confirma-llegada-dos-grandes-enemigos-lobezno",
-      "UrlToImage": "https://i.blogs.es/54f782/deadpool-3/840_560.jpeg",
-      "PublishedAt": "2023-12-04T17:31:38Z",
-      "Content": "El Universo Cinematográfico de Marvel continúa preparando el terreno para uno de los lanzamientos más esperados de la nueva era del estudio: Deadpool 3. La única película del UCM programada para estr… [+1379 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "¿De qué murió Queta Lavat, la actriz de cine de oro mexicano? Esto es lo que sabemos",
-      "Description": "El día de hoy se dio a conocer el triste fallecimiento de Queta Lavat, una de las actrices más importantes del cince de oro mexicano, quien murió a los 94 años.La noticia la dio a conocer el famoso periodista Joaquín López Doriga a través de sus redes sociale…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/de-que-murio-queta-lavat-actriz-cine-oro-mexicano-telenovelas",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/12/04/queta-lavat-murio-actriz-cine.jpg",
-      "PublishedAt": "2023-12-04T17:28:00Z",
-      "Content": "El día de hoy se dio a conocer el triste fallecimiento de Queta Lavat, una de las actrices más importantes del cince de oro mexicano, quien murió a los 94 años.\r\nLa noticia la dio a conocer el famoso… [+3488 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Joel Calata",
-      "Title": "Fallece Queta Lavat, una de las actrices más importantes de la historia del cine y la televisión mexicana",
-      "Description": "Las grandes estrellas de la industria van dejándonos poco a poco para convertirse en unas verdaderas leyendas, ahora, fue la actriz Queta Lavat, una figura fundamental en la historia del cine y la televisión mexicanos quien nos deja un gran legado tras su mue…",
-      "Url": "https://www.espinof.com/otros/fallece-queta-lavat-actrices-importantes-historia-cine-television-mexicana",
-      "UrlToImage": "https://i.blogs.es/1a4942/repair_queta_lavat_in_santa_claus__1959___3_/840_560.jpeg",
-      "PublishedAt": "2023-12-04T17:08:44Z",
-      "Content": "Las grandes estrellas de la industria van dejándonos poco a poco para convertirse en unas verdaderas leyendas, ahora, fue la actriz Queta Lavat, una figura fundamental en la historia del cine y la te… [+1379 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eluniversal.com.co"
-      },
-      "Author": "REDACCIÓN FARÁNDULA",
-      "Title": "Video: golpean a actriz de ‘Dune 2’ durante la promoción en Brasil",
-      "Description": "La Comic Con Experience (CCXP) 2023 en Brasil fue todo un éxito con los diversos avances y pósters exclusivos de próximos estrenos que tienen a todos los amantes del cine emocionados como “The Boys”, “Rebel Moon: La niña del fuego”, “Godzilla x Kong: The New …",
-      "Url": "https://www.eluniversal.com.co/farandula/video-golpean-a-actriz-de-dune-2-durante-la-promocion-en-brasil-YC9567436",
-      "UrlToImage": "https://www.eluniversal.com.co/binrepository/1218x686/209c0/800d686/none/13704/SDGS/dune-2_9072998_20231204115311.png",
-      "PublishedAt": "2023-12-04T16:42:29Z",
-      "Content": "La Comic Con Experience (CCXP) 2023 en Brasil fue todo un éxito con los diversos avances y pósters exclusivos de próximos estrenos que tienen a todos los amantes del cine emocionados como The Boys, R… [+1563 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Pedro Gallego",
-      "Title": "Qué ver para recordar a Concha Velasco. 3 importantes películas disponibles en streaming de la imprescindible chica ye yé",
-      "Description": "Este fin de semana perdimos a un pilar de la cultura española. Una artista todoterreno, que fue capaz de ser esencial y completamente fresca en todas las áreas en las que decidía posarse, fuese la actuación, la canción y simplemente encargarse de presentar te…",
-      "Url": "https://www.espinof.com/listas/que-ver-para-recordar-a-concha-velasco-3-importantes-peliculas-disponibles-streaming-imprescindible-chica-ye-ye",
-      "UrlToImage": "https://i.blogs.es/2be9cb/concha-velasco-1965-chica-yeye-historias-de-la-television/840_560.jpeg",
-      "PublishedAt": "2023-12-04T16:31:38Z",
-      "Content": "Este fin de semana perdimos a un pilar de la cultura española. Una artista todoterreno, que fue capaz de ser esencial y completamente fresca en todas las áreas en las que decidía posarse, fuese la ac… [+3357 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'La Promesa' dice adiós a uno de sus actores más conocidos, que deja \"las puertas abiertas\" a un posible regreso",
-      "Description": "Los espectadores de La Promesa serán testigos próximamente de la marcha de uno de sus actores protagonistas más conocidos. En las próximas semanas, uno de los personajes principales de la ficción diaria de TVE se despedirá de la serie y, con él, el intérprete…",
-      "Url": "https://www.eldiario.es/vertele/series/promesa-dice-adios-actores-conocidos-deja-puertas-abiertas-posible-regreso_1_10742124.html",
-      "UrlToImage": "https://static.eldiario.es/clip/f93c7cd8-1e80-44ae-b498-b2c56e5c9bed_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-12-04T16:25:44Z",
-      "Content": "Los espectadores de La Promesaserán testigos próximamente de la marcha de uno de sus actores protagonistas más conocidos. En las próximas semanas, uno de los personajes principales de la ficción diar… [+1570 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Fallece Queta Lavat, actriz y tiktoker de cocina que comía pan dulce con Pedro Infante y Jorge Negrete",
-      "Description": "Queta Lavat, actriz de la Época de Oro del cine mexicano, era de las pocas sobrevivientes del elenco ‘Dos tipos de cuidado’ y triunfó en Tik Tok con sus recetas.",
-      "Url": "https://www.elfinanciero.com.mx/food-and-drink/2023/12/04/fallece-queta-lavat-la-actriz-que-comia-pan-dulce-con-pedro-infante-y-hacia-recetas-en-tik-tok/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/v9NT9mq1CjjilBOSWj2KJSBFoYs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3M2EPPAKCNB2ZFWWWZENBJ45FE.jpeg",
-      "PublishedAt": "2023-12-04T16:24:56Z",
-      "Content": "No soy chef, ni he estudiado, solamente práctica de tantísimos años y todo mundo me dice ¡qué rico!, ¡qué sabroso! Estos son mis consejitos, se los voy a pasar, comentó Queta Lavat, actriz de la Époc… [+3461 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Karla Vázquez",
-      "Title": "¿Lo sabías? Queta Lavat dio voz a Jane Jetson, mamá de la famosa caricatura 'Los Supersónicos'",
-      "Description": "Queta Lavat, amada y reconocida actriz mexicana del Cine de Oro, falleció hoy 4 de diciembre y con ello un legado de talento que dejó al mundo de la televisión, teatro, rodajes, entre otros aspectos; pero también tuvo participaciones en el doblaje.Muchos reco…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/supersonicos-doblaje-queta-lavat-interpretaba-mama-jane-jetson",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/12/04/queta-lavat-como-jane-jetson.jpg",
-      "PublishedAt": "2023-12-04T16:01:00Z",
-      "Content": "Queta Lavat, amada y reconocida actriz mexicana del Cine de Oro, falleció hoy 4 de diciembre y con ello un legado de talento que dejó al mundo de la televisión, teatro, rodajes, entre otros aspectos;… [+2234 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "Fallece a los 94 años Queta Lavat, la mítica actriz del Cine de Oro mexicano",
-      "Description": "Durante sus últimos años se había convertido en una reconocida 'tiktoker' con una cuenta en la que compartía recetas de cocina y anécdotas.",
-      "Url": "https://actualidad.rt.com/actualidad/491120-fallece-actriz-queta-lavat-mexico",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.12/article/656ded0559bf5b56ce7c61db.jpg",
-      "PublishedAt": "2023-12-04T15:44:45Z",
-      "Content": "Este lunes se ha conocido el fallecimiento, a los 94 años, de Queta Lavat, la reconocida actriz de la Época de Oro del cine mexicano, según lo dio a conocer el periodista Joaquín López Dóriga a travé… [+1670 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "Redacción",
-      "Title": "Muere Queta Lavat, legendaria actriz del cine de oro mexicano, a los 94 años",
-      "Description": "La primera actriz Queta Lavat compartió créditos con Jorge Negrete y Pedro Infante. Su muerte se confirmó este 4 de diciembre.",
-      "Url": "https://www.elfinanciero.com.mx/espectaculos/2023/12/04/muere-queta-lavat-actriz-del-cine-de-oro-mexicano-a-los-94-anos/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/zsyOLee7ZnOjgVb_cVy2rFeaypo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TI7XT6EDWRCEFCKDBMNY33HRW4.jpg",
-      "PublishedAt": "2023-12-04T15:32:09Z",
-      "Content": "Queta Lavat, una de las actrices de más edad en México que sobresalió dentro del cine de oro, falleció a los 94 años. A lo largo de 75 años de trayectoria artística tanto en teatro, cine, televisión,… [+3243 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital",
-      "Title": "Muere Queta Lavat, actriz mexicana del cine de oro y tiktoker, a los 94 años",
-      "Description": "Queta Lavat, famosa actriz de cine y televisión mexicana, falleció de acuerdo a la confirmación por parte de la familia Carrillo Lavat.La actriz tenía 94 años y hace algunos meses había sido hospitalizada debido a una trombosis, sin embargo, fue dada de alta …",
-      "Url": "https://www.milenio.com/espectaculos/famosos/queta-lavat-muere-actriz-mexicana-a-los-95-anos",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/12/04/muere-queta-lavat-actriz-cine.jpg",
-      "PublishedAt": "2023-12-04T14:48:00Z",
-      "Content": "Queta Lavat, famosa actriz de cine y televisión mexicana, falleció de acuerdo a la confirmación por parte de la familia Carrillo Lavat. Por su parte, la Asociación Nacional de Intérpretes, ANDI, tamb… [+2620 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Elena Sánchez-Beato",
-      "Title": "Un actor importante para la trama de '4 estrellas' vuelve: el motivo por el que podría cambiarlo todo",
-      "Description": "Los protagonistas de '4 estrellas' están a punto de vivir un giro inesperado en la trama. Y es que desde que se empezó a emitir la serie en TVE y estuvieramos enganchados a las historias de sus personajes, no nos esperábamos que Ricardo, el patriarca de la fa…",
-      "Url": "https://www.trendencias.com/telenovelas/actor-importante-para-trama-4-estrellas-vuelve-motivo-que-podria-cambiarlo-todo",
-      "UrlToImage": "https://i.blogs.es/25aa69/image-14-/840_560.jpeg",
-      "PublishedAt": "2023-12-04T14:44:00Z",
-      "Content": "Los protagonistas de '4 estrellas' están a punto de vivir un giro inesperado en la trama. Y es que desde que se empezó a emitir la serie en TVE y estuvieramos enganchados a las historias de sus perso… [+1500 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Murió la actriz Queta Lavat a los 94 años",
-      "Description": "Queta Lavat, actriz de la época del Cine de Oro mexicano, murió a los 94 años, informó su familia.",
-      "Url": "https://www.reforma.com/murio-la-actriz-queta-lavat-a-los-94-anos/ar2721374",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/458/5457644.jpg&wm=1&ang=0",
-      "PublishedAt": "2023-12-04T14:33:52Z",
-      "Content": "La actriz del Cine de Oro Mexicano, Queta Lavat de 94 años, fue hospitalizada de emergencia por un trombo en la pierna. Crédito: Luis Manuel Ramírez Tovar"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El impactante cambio físico de David Caruso, el protagonista de CSI Miami, tras seis años alejado de las cámaras",
-      "Description": "Protagonista de una serie que se mantuvo durante 10 años al aire, el actor, que encarnó a un ex detective, se alejó completamente de la escena; las imágenes que publicó el medio New York Post sobre su radical cambio de apariencia",
-      "Url": "https://www.lanacion.com.ar/espectaculos/el-impactante-cambio-fisico-de-david-caruso-el-protagonista-de-csi-miami-tras-seis-anos-alejado-de-nid04122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-impactante-cambio-de-apariencia-de-david-MNT6CC27PJFVLIF24XRBPN2CNA.jpg?auth=bc8fde4c29ee88622432f728b66e958ad2524dc7d3c0ebefbb8a613e168b4ed5&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-04T14:09:14Z",
-      "Content": "El actor David Caruso, protagonista de la serie CSI Miami, decidió alejarse del ruedo para seguir con sus tareas cotidianas, sin tener la obligación de estar días y semanas abocado a un set de filmac… [+2789 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "El impactante cambio físico de David Caruso, Horatio en 'CSI: Miami', tras seis años alejado de las cámaras",
-      "Description": "David Caruso dio vida a uno de los personajes más conocidos de las televisión: el policía Horatio Caine , protagonista de 'CSI: Miami' . Una papel que le ha convertido en uno de los actores más reconocibles de todo el mundo, ya que la serie nos ha acompañado …",
-      "Url": "https://www.abc.es/gente/impactante-cambio-fisico-david-caruso-horatio-csi-20231204145109-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2023/12/04/david-caruso-krP--1024x512@abc.jpg",
-      "PublishedAt": "2023-12-04T13:51:09Z",
-      "Content": "David Caruso dio vida a uno de los personajes más conocidos de las televisión: el policía Horatio Caine, protagonista de 'CSI: Miami'. Una papel que le ha convertido en uno de los actores más reconoc… [+1053 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Una de las favoritas a los Oscar es esta película independiente",
-      "Description": "Los premios del cine independiente británico ya han nombrado a sus ganadores, y en ella se ha confirmado una de las favoritas a los Oscar de 2024. Desde su estreno no ha recibido más que buenas críticas, y aunque en un principio parecía tener una larga batall…",
-      "Url": "https://www.revistagq.com/articulo/una-de-las-favoritas-a-los-oscar-es-esta-pelicula-independiente-desconocidos",
-      "UrlToImage": "https://media.revistagq.com/photos/656dd0950b51236f4916cc68/16:9/w_1280,c_limit/Strangers_230721_JS_G2-71751.00_42_54_18.Still003.jpg",
-      "PublishedAt": "2023-12-04T13:17:51Z",
-      "Content": "Los premios del cine independiente británico ya han nombrado a sus ganadores, y en ella se ha confirmado una de las favoritas a los Oscar de 2024. Desde su estreno no ha recibido más que buenas críti… [+2202 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Elena Sánchez-Beato",
-      "Title": "'La Promesa' dice adiós a un personaje principal y este es el final que podría tener",
-      "Description": "Esta semana viene fuerte para los seguidores de 'La Promesa'. Además de que solo tendremos tres capítulos nuevos, en lugar de los cinco habituales, con motivo de las festividades de los días 6 y 8 de diciembre, hay una noticia más que nos ha dejado boquiabier…",
-      "Url": "https://www.trendencias.com/telenovelas/promesa-dice-adios-a-personaje-principal-este-final-que-podria-tener",
-      "UrlToImage": "https://i.blogs.es/b75330/1679673251879/840_560.jpeg",
-      "PublishedAt": "2023-12-04T13:05:06Z",
-      "Content": "Esta semana viene fuerte para los seguidores de 'La Promesa'. Además de que solo tendremos tres capítulos nuevos, en lugar de los cinco habituales, con motivo de las festividades de los días 6 y 8 de… [+2502 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Fernando Tejero habla de su juventud \"trágica\" en los 80: \"Ocultaba mi homosexualidad, es un putadón terrible\"",
-      "Description": "Fernando Tejero pasó este domingo por el plató de La Roca para presentar Los Farad, la nueva serie de Amazon Prime Video en la que participa. Ambientada en la Costa del Sol durante la década de los ochenta, y con estreno previsto para el 12 de diciembre, la f…",
-      "Url": "https://www.eldiario.es/vertele/videos/actualidad/fernando-tejero-habla-adolescencia-tragica-ochenta-oculta-homosexualidad-putadon-terrible_7_10741233.html",
-      "UrlToImage": "https://static.eldiario.es/clip/2c389971-c826-46a1-a9ef-49e9bd1b9f4f_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2023-12-04T12:52:07Z",
-      "Content": "Fernando Tejero pasó este domingo por el plató de La Roca para presentar Los Farad, la nueva serie de Amazon Prime Video en la que participa. Ambientada en la Costa del Sol durante la década de los o… [+1175 chars]"
     }
   ]
 }
