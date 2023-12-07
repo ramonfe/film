@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 201,
+  "TotalResults": 202,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Twit.tv"
+      },
+      "Author": "TWiT",
+      "Title": "MBW 898: Dedicated Vulcan Salute Apparatus - Paramount+, Apple Card, Filmic & Halide",
+      "Description": "Leo has returned from his retreat! Apple TV+ and Paramount+ may soon be offered as a bundled service to entice more possible customers. Chase could be the replacement partner for Apple Card as Goldman Sachs seeks to end its partnership with Apple. And Apple r…",
+      "Url": "https://twit.tv/shows/macbreak-weekly/episodes/898",
+      "UrlToImage": "https://elroy.twit.tv/sites/default/files/images/episodes/2023/12/849393/hero/mbw0898_thumbnail.jpg",
+      "PublishedAt": "2023-12-06T00:30:00Z",
+      "Content": "Leo has returned from his retreat! Apple TV+ and Paramount+ may soon be offered as a bundled service to entice more possible customers. Chase could be the replacement partner for Apple Card as Goldma… [+1402 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/MixCollage-01-Dec-2023-12-14-PM-4479.jpg?resize=1200,630",
       "PublishedAt": "2023-12-01T06:47:51Z",
       "Content": "The Fall Guy Season 1 is a 1981 American action-adventure television series that follows the adventures of Colt Seavers, a Hollywood stuntman who moonlights as a bounty hunter. The show combines acti… [+2529 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Areebamasood",
-      "Title": "Adventure Time Season 4 Streaming: Watch & Stream Online via Hulu & HBO Max",
-      "Description": "Adventure Time Season 4 takes the show to new heights of humor, adventure, and emotional depth. The season introduces new villains and complexities to the already rich world of Adventure Time, pushing the characters to their limits and revealing more about th…",
-      "Url": "https://www.comingsoon.net/guides/news/1421069-adventure-time-season-4-streaming-watch-stream-online-via-hulu-hbo-max",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Adventure-Time-Season-4.jpg?resize=1200,630",
-      "PublishedAt": "2023-12-01T05:07:50Z",
-      "Content": "Adventure Time Season 4 takes the show to new heights of humor, adventure, and emotional depth. The season introduces new villains and complexities to the already rich world of Adventure Time, pushin… [+4467 chars]"
     }
   ]
 }
