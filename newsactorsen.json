@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 825,
+  "TotalResults": 826,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Kahron Spearman",
+      "Title": "Kevin Hart: the internet’s new favorite meme",
+      "Description": "In March 2023, comedian and actor Kevin Hart found himself at the center of a meme craze that swept across social media. Unlike most memes that draw from the content produced by specific celebrities, Kevin Hart memes found inspiration in a plethora of random …",
+      "Url": "https://www.dailydot.com/news/kevin-hart-meme/",
+      "UrlToImage": "https://uploads.dailydot.com/2023/12/kevin-hart-memes.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2023-12-07T15:00:00Z",
+      "Content": "In March 2023, comedian and actor Kevin Hart found himself at the center of a meme craze that swept across social media. Unlike most memes that draw from the content produced by specific celebrities,… [+3540 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/656f55f77782c86aca0002db/1701883807465/hugh-grant-says-he-hated-playing-an-oompa-lompa-in-wonka-it-was-like-wearing-a-crown-of-thrones.jpg?format=1500w",
       "PublishedAt": "2023-12-06T17:30:00Z",
       "Content": "Hugh Grantdoesnt hold back from sharing how much he hated playing an Oompa-Loompa in the upcoming Wonka movie. In fact, he compared the experience to wearing a crown of thorns. During a recent press … [+1846 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Angelina Jolie Is Returning for Disney's MALEFICENT 3",
-      "Description": "Disney Studios is producing a third Maleficent movie and Angelina Jolie will return to reprise the role of the iconic villain. The news comes from The Wall Street Journal, which reports that Jolie has already signed on for the movie. There’s no information on…",
-      "Url": "https://geektyrant.com/news/angelina-jolie-is-returning-for-disneys-maleficent-3",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6570a11f7942d769dcef33bc/1701881887823/angelina-jolie-is-returning-for-disneys-maleficent-3.jpg?format=1500w",
-      "PublishedAt": "2023-12-06T16:58:00Z",
-      "Content": "Disney Studios is producing a third Maleficentmovie and Angelina Jolie will return to reprise the role of the iconic villain. The news comes from The Wall Street Journal, which reports that Jolie has… [+1827 chars]"
     }
   ]
 }
