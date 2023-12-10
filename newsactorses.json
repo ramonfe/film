@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 777,
+  "TotalResults": 778,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "Neil Patrick Harris es el villano del último especial de 'Doctor Who'. Fue la primera vez en su vida que oyó hablar de la serie de ciencia ficción",
+      "Description": "Semana 3 de especiales del 60 aniversario de 'Doctor Who' (que podemos ver en Disney+) y se cierra esta trilogía con David Tennant y Catherine Tate con 'La risa' (The Giggle), en la que se cierne una nueva amenaza en la Tierra: la del Juguetero. Un villano an…",
+      "Url": "https://www.espinof.com/actores-y-actrices/neil-patrick-harris-villano-ultimo-especial-doctor-who-fue-primera-vez-su-vida-que-oyo-hablar-serie-ciencia-ficcion",
+      "UrlToImage": "https://i.blogs.es/7d89da/stooky-bill-toymaker-giggle-doctor-who-60th/840_560.jpeg",
+      "PublishedAt": "2023-12-09T17:00:43Z",
+      "Content": "Semana 3 de especiales del 60 aniversario de 'Doctor Who' (que podemos ver en Disney+) y se cierra esta trilogía con David Tennant y Catherine Tate con 'La risa' (The Giggle), en la que se cierne una… [+2368 chars]"
+    },
     {
       "Source": {
         "Id": "marca",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/f0f436fc-21e7-446f-b824-8a24aa0107b0_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-12-08T10:35:25Z",
       "Content": "España se despertó este viernes 8 de diciembre con la trágica noticia del fallecimiento de Itziar Castro, ocurrido unas horas antes en la localidad catalana de Lloret de Mar. La actriz tenía 46 años.… [+10458 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Ángela Reyes Haczek",
-      "Title": "Muere a los 46 años la actriz de \"Vis a vis\" Itziar Castro",
-      "Description": "La actriz española Itziar Castro, conocida por su trabajo en la serie \"Vis a vis\" y la película \"Pieles\", entre otras producciones, falleció a los 46 años, confirmó este viernes la agencia que la representaba.",
-      "Url": "https://cnnespanol.cnn.com/2023/12/08/muere-actriz-itziar-castro-vis-a-vis-orix/",
-      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/12/GettyImages-1247041987.jpg?quality=100&strip=info",
-      "PublishedAt": "2023-12-08T10:23:10Z",
-      "Content": "(CNN Español) -- La actriz española Itziar Castro, conocida por su trabajo en la serie \"Vis a vis\" y la película \"Pieles\", entre otras producciones, falleció a los 46 años, confirmó este viernes a CN… [+647 chars]"
     }
   ]
 }
