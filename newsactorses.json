@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 764,
+  "TotalResults": 765,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Javier de la Sotilla",
+      "Title": "Univision cambia el tono y le hace campaña a Trump: una dócil entrevista enciende las críticas internas",
+      "Description": "El inesperado giro del principal canal de televisión estadounidense en español, Univision, en su cobertura sobre Donald Trump, en el arranque del largo año electoral hacia las presidenciales en EEUU, ha desatado en las últimas semanas las críticas internas a …",
+      "Url": "https://www.eldiario.es/internacional/univision-cambia-tono-le-campana-trump-docil-entrevista-enciende-criticas-internas_1_10734263.html",
+      "UrlToImage": "https://static.eldiario.es/clip/b89cae26-f419-4bed-97fe-cde05471f80e_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2023-12-10T21:01:42Z",
+      "Content": "El inesperado giro del principal canal de televisión estadounidense en español, Univision, en su cobertura sobre Donald Trump, en el arranque del largo año electoral hacia las presidenciales en EEUU,… [+1244 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/12/barbra-streisand.1701960678.0572.jpg?width=1200",
       "PublishedAt": "2023-12-08T20:00:27Z",
       "Content": "Barbra Streisand\r\nLa icónica actriz y cantante Barbra Streisand, conocida por su brillante carrera en el mundo del entretenimiento, reveló en una reciente entrevista que no espera participar en más p… [+2572 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "El Magnífic, la puesta en escena gastronómica de los televisivos Mainat",
-      "Description": "Hubo un tiempo en que los amantes españoles de la cocina viajaban a Francia con el único objetivo de degustar la nouvelle cuisine en los restaurantes galardonados con estrella Michelin. Ahora, son los galos quienes nos visitan con ese mismo fin. A medio camin…",
-      "Url": "https://www.abc.es/espana/cataluna/magnific-puesta-escena-gastronomica-televisivos-mainat-20231208182042-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/abcnacional/noticias/202312/08/espana/media/.JPG",
-      "PublishedAt": "2023-12-08T19:04:16Z",
-      "Content": "Hubo un tiempo en que los amantes españoles de la cocina viajaban a Francia con el único objetivo de degustar la nouvelle cuisine en los restaurantes galardonados con estrella Michelin. Ahora, son lo… [+3737 chars]"
     }
   ]
 }
