@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1064,
+  "TotalResults": 1065,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Raquel Morales",
+      "Title": "Es de los creadores de Cobra Kai y lo peta en Netflix: esta nueva serie es una gamberrada con bombas nucleares",
+      "Description": "Una extraña mezcla entre Misión Imposible y Resacón en las Vegas.\nHechos polvo es la nueva serie de los creadores de Cobra Kai con una extraña mezcla entre juerga, desmadre y terrorismo nuclear.",
+      "Url": "https://es.ign.com/netflix/197264/news/es-de-los-creadores-de-cobra-kai-y-lo-peta-en-netflix-esta-nueva-serie-es-una-gamberrada-con-bombas",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/hechos-polvo_pf1s.1200.jpg",
+      "PublishedAt": "2023-12-13T17:30:24Z",
+      "Content": "El catálogo de Netflix está lleno de sorprendentes series y películas. Ya te contamos que la nueva temporada de Cobra Kai tendrá en el reparto a la estrella de Karate Kid, pero sus creadores no han e… [+1567 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2023-12-13T09:11:00Z",
       "Content": "Netflix ha lanzado el esperado primer avance de la tercera temporada de  'Los Bridgerton' , exitoso drama romántico que llegará dividido en dos partes, una Parte 1 que tendremos el 16 de mayo de 2024… [+3677 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "La Voz",
-      "Title": "Muere a los 61 años el actor Andre Braugher, el capitán Raymond Holt en «Brooklyn Nine-Nine»",
-      "Description": "Estaba previsto que protagonizara la serie «Residence» de Netflix en los próximos meses",
-      "Url": "https://www.lavozdegalicia.es/noticia/obituarios/2023/12/13/muere-61-anos-actor-andre-braugher-capitanraymond-holt-brooklyn-nine-nine/00031702457320444685481.htm",
-      "UrlToImage": "https://www.lavozdegalicia.es/default/2023/12/13/00121702457462263940539/Foto/reu_20231213_025129928.jpg",
-      "PublishedAt": "2023-12-13T09:01:00Z",
-      "Content": "El actor estadounidense Andre Braugher, ganador de dos Emmy y estrella de la comedia policaca Brooklyn Nine-Nine, falleci este martes a los 61 aos tras una breve enfermedad, confirm su publicista, Je… [+1827 chars]"
     }
   ]
 }
