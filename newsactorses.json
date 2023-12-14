@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 806,
+  "TotalResults": 805,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "MARISA DEL BOSQUE",
+      "Title": "Leticia Dolera y Núria Gago, unidas contra el bullying: \"Hay que educar en no tener miedo a ser el chivato\"",
+      "Description": "Actriz y directora, muy implicadas en poner este maltrato sobre la mesa, suman fuerzas contra el acoso escolar en una serie, 'La caja de arena', que aborda el problema desde todos sus ángulos: la víctima, el maltratador y los testigos. \"Sin espectadores, no e…",
+      "Url": "https://www.elmundo.es/yodona/actualidad/2023/12/13/6569dd6f21efa04a388b45ba.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/abd6927331822a897f8c0312a8e2ba59/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/01/17014368353948.jpg",
+      "PublishedAt": "2023-12-13T01:29:33Z",
+      "Content": "Alina tenía 14 años. Hace apenas unos días entró en su colegio, en Rusia, con la escopeta de su padre y abrió fuego contra sus compañeros de clase; un muerto y cinco heridos. Después, se suicidó. Det… [+7931 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231212113114_1200_v2.jpg",
       "PublishedAt": "2023-12-12T10:31:14Z",
       "Content": "MÁLAGA, 12 Dic. (EUROPA PRESS) -\r\nEl Festival de Cine de Málaga concederá en su 27 edición, que tendrá lugar del 1 al 10 de marzo, el Premio Málaga-Sur al actor Javier Cámara.\r\nEl Festival premia con… [+4442 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Meryl Streep pulveriza su propio récord en los Globos de Oro 2024",
-      "Description": "Meryl Streep es una de las actrices más galardonadas y reconocidas de la historia del cine. Y gracias a su papel en la serie de Solo asesinatos en el edificio, la actriz ha sido capaz de batir su propio récord de nominaciones en esta edición de los Globos de …",
-      "Url": "https://www.culturaocio.com/cine/noticia-meryl-streep-pulveriza-propio-record-globos-oro-2024-20231212105055.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20231212105055_1200.jpg",
-      "PublishedAt": "2023-12-12T09:50:55Z",
-      "Content": "MADRID, 12 Dic. (CulturaOcio) - \r\n   Meryl Streep es una de las actrices más galardonadas y reconocidas de la historia del cine. Y gracias a su papel en la serie de Solo asesinatos en el edificio, la… [+1829 chars]"
     }
   ]
 }
