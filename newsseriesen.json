@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 208,
+  "TotalResults": 209,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Twit.tv"
+      },
+      "Author": "TWiT",
+      "Title": "This Week in Google 746: Huffin' Hazelnut",
+      "Description": "This wide-ranging episode of TWiG covers many hot topics in tech, including the capabilities and limitations of AI writing tools like NotebookLM, controversies around misleading marketing of Google's Gemini AI model, the future of media and magazines, EU regu…",
+      "Url": "https://twit.tv/shows/this-week-in-google/episodes/746",
+      "UrlToImage": "https://elroy.twit.tv/sites/default/files/images/episodes/2023/12/849542/hero/twig0746_thumbnail.jpg",
+      "PublishedAt": "2023-12-14T02:59:30Z",
+      "Content": "This wide-ranging episode of TWiG covers many hot topics in tech, including the capabilities and limitations of AI writing tools like NotebookLM, controversies around misleading marketing of Googles … [+1330 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/12/Untitled-design-8-3.jpg?resize=1200,630",
       "PublishedAt": "2023-12-12T04:09:41Z",
       "Content": "The Great British Baking Show: Holidays Season 6 is a festive special of the series that features contestants competing for the title of Christmas Star Baker. It was released on Netflix in December 2… [+3170 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Soundandvision.com"
-      },
-      "Author": "Tom Norton",
-      "Title": "Sony HT-A5000 Soundbar Review",
-      "Description": "Performance\n Features\n Ergonomics\n Value\n\n\nPRICE: $1000\n\nAT A GLANCE\n\nPlus\nDo-it-all abilities\nAudio performance\n\nMinus\nComplexity\nIntimidating manuals\n\n\nTHE VERDICT\nThe detailed setup and operation of the Sony HT-A5000 soundbar can be a little off-putting, b…",
-      "Url": "https://www.soundandvision.com/content/sony-ht-a5000-soundbar-review",
-      "UrlToImage": "https://www.soundandvision.com/images/SV_12122323_sony_a5000_01.jpg",
-      "PublishedAt": "2023-12-12T00:00:00Z",
-      "Content": "PerformanceFeaturesErgonomicsValue\r\nPRICE: $1000\r\nAT A GLANCE\r\nPlusDo-it-all abilitiesAudio performanceMinusComplexityIntimidating manuals\r\nTHE VERDICTThe detailed setup and operation of the Sony HT-… [+15787 chars]"
     }
   ]
 }
