@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 971,
+  "TotalResults": 973,
   "Articles": [
+    {
+      "Source": {
+        "Id": "bbc-news",
+        "Name": "BBC News"
+      },
+      "Author": "https://www.facebook.com/bbcnews",
+      "Title": "Jonathan Majors: Marvel movie actor awaits verdict in assault case",
+      "Description": "Actor Jonathan Majors could face up to a year in jail after being accused by his ex-girlfriend.",
+      "Url": "https://www.bbc.co.uk/news/entertainment-arts-67713919",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3646/production/_132049831_large_gettyimages-1833772040--1_cut.jpg",
+      "PublishedAt": "2023-12-14T20:57:20Z",
+      "Content": "A New York jury will soon decide if Marvel and Creed III star Jonathan Majors is guilty of assaulting his ex-girlfriend.\r\nGrace Jabbari testified that Mr Majors, who plays Kang the Conqueror in the M… [+2931 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Ryan Kirksey",
+      "Title": "A24's New War Movie Continues A Creepy Actor Trend That We've Loved For 10 Years",
+      "Description": "The new Civil War movie from A24 will feature several disturbing characters, including one actor continuing a 10-year trend of creepy roles.",
+      "Url": "https://screenrant.com/civil-war-jesse-plemons-actor-creepy-villain-movie-trend/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/12/kirsten-dunst-in-civil-war.jpg",
+      "PublishedAt": "2023-12-14T20:35:16Z",
+      "Content": "Summary\r\n<ul><li> The trailer for Civil War introduces Jesse Plemons as a creepy military adversary, hinting at the dark and malevolent themes of the film. </li><li> Plemons' character represents the… [+4294 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i.abcnewsfe.com/a/0416128e-3b45-4c8f-a269-d8b198632eef/wirestory_6b45d0b5c0afb0676e7bbf317a824bd3_16x9.jpg?w=992",
       "PublishedAt": "2023-12-14T12:06:24Z",
       "Content": "PARIS -- An investigation was opened following the death last week of a French actress who was among those accusing movie star Gérard Depardieu of sexual misconduct, the Paris prosecutors office said… [+1623 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mattbaume.com"
-      },
-      "Author": "Matthew Baume, Matt Baume & Scott Shoemaker",
-      "Title": "I Wanted to be a Rock Star (Ep 447 - David Bowie/Scott Shoemaker)",
-      "Description": "As we veer ever closer to Christmas, this week's episode is a dive into the Sewers of Paris archives for a chat with Scott Shoemaker. Along with his partner Freddie, Scott’s great passion is live weird theater, which manifests in such projects as an ongoing s…",
-      "Url": "https://www.mattbaume.com/sewers-shownotes/2023/12/14/i-wanted-to-be-a-rock-star-ep-447-david-bowiescott-shoemaker",
-      "UrlToImage": "https://static1.squarespace.com/static/550524afe4b082eea4c7b212/t/589c0f60579fb3fd7fe29542/1486622563850/?format=1000w",
-      "PublishedAt": "2023-12-14T11:00:00Z",
-      "Content": "As we veer ever closer to Christmas, this week's episode is a dive into the Sewers of Paris archives for a chat with Scott Shoemaker. Along with his partner Freddie, Scotts great passion is live weir… [+1621 chars]"
     }
   ]
 }
