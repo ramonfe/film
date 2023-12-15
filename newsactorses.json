@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 844,
+  "TotalResults": 845,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Tres mujeres y una trenza, el gran viaje de Laetitia Colombani",
+      "Description": "Cuando la cineasta Laetitia Colombani (Burdeos, Francia, 1976) acompañó a una amiga enferma de cáncer a comprar una peluca , descubrió que las más cotizadas son las de pelo natural y aquello le recordó un documental que había visto acerca de la casta hindú de…",
+      "Url": "https://www.abc.es/play/cine/tres-mujeres-trenza-gran-viaje-laetitia-colombani-20231214172106-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2023/12/14/laetitia-colombani-U61615482010PCq-1024x512@abc.jpg",
+      "PublishedAt": "2023-12-14T18:27:38Z",
+      "Content": "Cuando la cineasta Laetitia Colombani (Burdeos, Francia, 1976) acompañó a una amiga enferma de cáncer a comprar una peluca, descubrió que las más cotizadas son las de pelo natural y aquello le record… [+3890 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/41ca303b-59fd-46fe-8f0e-53ef5f0b69c1_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2023-12-13T19:45:01Z",
       "Content": "La recta final de este año 2023 mantiene muy alto el número de lanzamientos de series. Esta semana entre el lunes 11 y domingo 17 de diciembre, encontramos un total de 18 títulos, entre estrenos y nu… [+11746 chars]"
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "marca.com",
-      "Title": "Ester Expósito zanja los rumores sobre su forma de dormir: \"Nunca he dicho eso\"",
-      "Description": "La actriz española Ester Expósito es uno de los nombres del momento. Desde su irrupción en la exitosa serie de Netflix &apos;Élite&apos; su popularidad ha ido aumentando vertiginos",
-      "Url": "https://www.marca.com/tiramillas/cine/2023/12/13/657a002846163f6e4b8b45b6.html",
-      "UrlToImage": "https://phantom-marca.unidadeditorial.es/18c6ceba8aa3e30acb8a3ce46f610034/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/13/17024942320789.jpg",
-      "PublishedAt": "2023-12-13T19:10:21Z",
-      "Content": "La actriz española Ester Expósito es uno de los nombres del momento. Desde su irrupción en la exitosa serie de Netflix 'Élite' su popularidad ha ido aumentando vertiginosamente, como muestran sus cas… [+1607 chars]"
     }
   ]
 }
