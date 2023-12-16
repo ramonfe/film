@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1047,
+  "TotalResults": 1048,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Qué fue del calvo del anuncio de la Lotería de Navidad: de repartir ilusión a participar en 'The Crown'",
+      "Description": "El 22 de diciembre es un día marcado todos los años en el calendario de los españoles. En esta fecha tan señalada, se celebra cada año el Sorteo Extraordinario de Lotería de Navidad , que reparte cientos de premios por toda España y en el que participan miles…",
+      "Url": "https://www.abc.es/loteria-de-navidad/que-fue-calvo-anuncio-loteria-navidad-actualidad-20231215154304-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/loteria-de-navidad/2023/12/07/calvo-loteria-kSPC--1024x512@abc.jpg",
+      "PublishedAt": "2023-12-15T04:48:41Z",
+      "Content": "El 22 de diciembre es un día marcado todos los años en el calendario de los españoles. En esta fecha tan señalada, se celebra cada año el Sorteo Extraordinario de Lotería de Navidad, que reparte cien… [+3423 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/376c8d/30monedas3/840_560.jpeg",
       "PublishedAt": "2023-12-13T19:31:21Z",
       "Content": "30 monedas, la serie de televisión española de HBO Max, creada, escrita y dirigida por Álex de la Iglesia, y coescrita por Jorge Guerricaechevarría, ha llegado al final de su temporada 2 desparramand… [+6027 chars]"
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "marca.com",
-      "Title": "Ester Expósito zanja los rumores sobre su forma de dormir: \"Nunca he dicho eso\"",
-      "Description": "La actriz española Ester Expósito es uno de los nombres del momento. Desde su irrupción en la exitosa serie de Netflix &apos;Élite&apos; su popularidad ha ido aumentando vertiginos",
-      "Url": "https://www.marca.com/tiramillas/cine/2023/12/13/657a002846163f6e4b8b45b6.html",
-      "UrlToImage": "https://phantom-marca.unidadeditorial.es/18c6ceba8aa3e30acb8a3ce46f610034/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/13/17024942320789.jpg",
-      "PublishedAt": "2023-12-13T19:10:21Z",
-      "Content": "La actriz española Ester Expósito es uno de los nombres del momento. Desde su irrupción en la exitosa serie de Netflix 'Élite' su popularidad ha ido aumentando vertiginosamente, como muestran sus cas… [+1607 chars]"
     }
   ]
 }
