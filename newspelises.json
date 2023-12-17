@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 162,
+  "TotalResults": 163,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Para muchos, esta es la mejor película de 2023: es inolvidable, dura y con actuaciones de Óscar",
+      "Description": "El año 2023 ha estado marcado por series de un calado incuestionable. El cine también ha estado de enhorabuena ya que ha vivido grandes éxitos de taquilla como es el caso de Barbie y Oppenheimer. No obstante, aparte de estas dos cintas que han sido unas máqui…",
+      "Url": "https://www.lavanguardia.com/andro4all/tecnologia/para-muchos-esta-es-la-mejor-pelicula-de-2023-es-inolvidable-dura-y-con-actuaciones-de-oscar",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/10/los-asesinos-de-la-luna.png?width=1200",
+      "PublishedAt": "2023-12-16T18:25:47Z",
+      "Content": "La película ya parte como favorita para todos los premios\r\nEl año 2023 ha estado marcado por series de un calado incuestionable. El cine también ha estado de enhorabuena ya que ha vivido grandes éxit… [+3045 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2023/12/11/globos-de-oro-esta-es.jpg",
       "PublishedAt": "2023-12-11T15:10:00Z",
       "Content": "Tras una larga espera y después de haber estado por más de tres meses en medio de la huelga de Hollywood, finalmente se dieron a conocer los candidatos para competir en los Globos de Oro 2024.\r\nLos G… [+5376 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Víctor López G.",
-      "Title": "Lista completa de nominados a los Globos de Oro 2024: 'Succession' y 'Barbie' parten como grandes favoritas en los premios del cine y la televisión",
-      "Description": "La temporada de premios 2023-2024 continúa viento en popa. Después de conocer los nominados a los Emmy y los vencedores de los Premios del Cine Europeo, ha sido el turno de la Asociación de la Prensa Extranjera de Hollywood de dar a conocer quienes serán sus …",
-      "Url": "https://www.espinof.com/globos-de-oro/lista-completa-nominados-a-globos-oro-2024-succession-barbie-parten-como-grandes-favoritas-premios-cine-television",
-      "UrlToImage": "https://i.blogs.es/80062b/slack-imgs/840_560.jpeg",
-      "PublishedAt": "2023-12-11T14:48:41Z",
-      "Content": "La temporada de premios 2023-2024 continúa viento en popa. Después de conocer los nominados a los Emmy y los vencedores de los Premios del Cine Europeo, ha sido el turno de la Asociación de la Prensa… [+7295 chars]"
     }
   ]
 }
