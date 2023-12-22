@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1017,
+  "TotalResults": 1018,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "¿'Cindy La Regia’ tiene relación con Mariana Rodríguez? De esto trata la serie de Netflix",
+      "Description": "Este 20 de diciembre se estrenó la serie de Netflix Cindy la Regia, a la que han relacionado con Mariana Rodríguez.",
+      "Url": "https://www.elfinanciero.com.mx/entretenimiento/2023/12/20/cindy-la-regia-tiene-relacion-con-mariana-rodriguez-de-esto-trata-la-serie-de-netflix/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/W9qLOJ4kmQUAZnyn16kGu8Dq7KM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/Z7OLOI3U4BBQBKSVANRRJRLUGI.jpg",
+      "PublishedAt": "2023-12-21T05:16:26Z",
+      "Content": "Este 20 de noviembre se estrenó Cindy la Regia, nueva serie de Netflix que en realidad se trata de un remake a la popular película del mismo nombre que se estrenó en 2020. Sin embargo, ya empezó a ll… [+3174 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/2aa2e7/kelsey-grammer/840_560.jpeg",
       "PublishedAt": "2023-12-20T09:00:33Z",
       "Content": "Kelsey Grammer fue la estrella invitada anoche en 'El hormiguero'. El actor presentó la nueva temporada de 'Frasier' y contó algunas anécdotas, como su peculiar costumbre de no leer los guiones con a… [+1349 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "La siguiente temporada de Lo que hacemos en las sombras será la última",
-      "Description": "Lo que hacemos en las sombras fue una película con estilo de falso documental dirigida por Taika Waititi, quien, por cierto está inmerso en varios proyectos actualmente, incluyendo una adaptación de El Incal de Alejandro Jodorowsky y su anticipada película de…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/la-siguiente-temporada-de-lo-que-hacemos-en-las-sombras-sera-la-ultima",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/12/lo-que-hacemos-en-las-sombras.jpg?width=1200",
-      "PublishedAt": "2023-12-20T08:32:02Z",
-      "Content": "Lo que hacemos en las sombras fue una película con estilo de falso documental dirigida por Taika Waititi, quien, por cierto está inmerso en varios proyectos actualmente, incluyendo una adaptación de … [+2267 chars]"
     }
   ]
 }
