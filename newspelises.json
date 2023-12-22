@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 172,
+  "TotalResults": 173,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "ABC estrena Una butaca con vistas, la newsletter teatral de Julio Bravo",
+      "Description": "ABC sigue ampliando su oferta informativa con la incorporación de una nueva newsletters dentro del área de Cultura. Tras el reciente lanzamiento de Lecturas no obligatorias, donde Karina Sainz Borgo y Bruno Pardo Porto comentan sus hallazgos literarios, y del…",
+      "Url": "https://www.abc.es/cultura/abc-estrena-butaca-vistas-newsletter-teatral-julio-20231221195314-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/cultura/2023/12/21/bravo-ktQD--1024x512@abc.JPG",
+      "PublishedAt": "2023-12-21T18:53:15Z",
+      "Content": "ABC sigue ampliando su oferta informativa con la incorporación de una nueva newsletters dentro del área de Cultura. Tras el reciente lanzamiento de Lecturas no obligatorias, donde Karina Sainz Borgo … [+1266 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/a76380/hasta-el-fin-del-mundo/840_560.jpeg",
       "PublishedAt": "2023-12-17T12:01:47Z",
       "Content": "Dentro de la historia del cine de ciencia ficción encontramos algunas historias fascinantes que quizá ni siquiera algunos grandes amantes del género conozcan. Hoy vengo a hablaros de la película de c… [+6116 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Jorge Loser",
-      "Title": "Hoy en TV, la gran obra maestra de Quentin Tarantino que rescató lo mejor del cine de artes marciales y el spaguetti western en dos entregas irrepetibles",
-      "Description": "Hoy se emiten en Neox el dúo de películas 'Kill Bill' de Quentin Tarantino, uno de los directores más influyentes de la historia gracias a algunas de las películas más potentes de la era moderna, pero su obra maestra es este esfuerzo de 2003, que cuenta con a…",
-      "Url": "https://www.espinof.com/estrenos/hoy-tv-gran-obra-maestra-quentin-tarantino-que-rescato-mejor-cine-artes-marciales-spaguetti-western-dos-entregas-irrepetibles",
-      "UrlToImage": "https://i.blogs.es/22dd28/killbill/840_560.jpeg",
-      "PublishedAt": "2023-12-17T09:01:47Z",
-      "Content": "Hoy se emiten en Neox el dúo de películas 'Kill Bill' de Quentin Tarantino, uno de los directores más influyentes de la historia gracias a algunas de las películas más potentes de la era moderna, per… [+4174 chars]"
     }
   ]
 }
