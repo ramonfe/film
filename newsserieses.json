@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 961,
+  "TotalResults": 966,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xatakahome.com"
+      },
+      "Author": "Jose Antonio Carmona",
+      "Title": "Este pequeño truco para Movistar+ permite acceder a los canales ocultos de la plataforma: así puedes usarlo",
+      "Description": "Hemos hablado en otras ocasiones del contenido oculto que se puede encontrar en plataformas como Netflix, haciendo uso de una serie de códigos. Incluso cambiando de región, es posible acceder a un contenido (más allá del que todos los usuarios pueden ver) que…",
+      "Url": "https://www.xatakahome.com/tutoriales/este-pequeno-truco-para-movistar-permite-acceder-a-canales-ocultos-plataforma-asi-puedes-usarlo-1",
+      "UrlToImage": "https://i.blogs.es/fd72e3/teles/840_560.jpeg",
+      "PublishedAt": "2023-12-22T16:50:10Z",
+      "Content": "Hemos hablado en otras ocasiones del contenido oculto que se puede encontrar en plataformas como Netflix, haciendo uso de una serie de códigos. Incluso cambiando de región, es posible acceder a un co… [+2881 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Adslzone.net"
+      },
+      "Author": "David Soriano",
+      "Title": "No te pierdas ni uno: estos son los estrenos más destacados de Amazon Prime Video para enero 2024",
+      "Description": "Amazon Prime Video también se va de vacaciones de Navidad dejándonos el listado de películas y series que podremos ver en la plataforma el próximo mes de enero de 2024 si estamos suscritos a Prime (si no, puedes probar gratuitamente esta suscripción). No te p…",
+      "Url": "https://www.adslzone.net/noticias/streaming-tv/estrenos-amazon-prime-video-0124/",
+      "UrlToImage": "https://www.adslzone.net/app/uploads-adslzone.net/2023/12/estrenos-prime-video.jpg",
+      "PublishedAt": "2023-12-22T16:30:19Z",
+      "Content": "No te pierdas ni una serie o película que te interese, porque a continuación vas a ver de qué va cada una y el día que se estrena, para que te puedas ir organizando y no perderte ninguno de los estre… [+3854 chars]"
+    },
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "Los creadores de Stranger Things desmienten una de las teorías más extrañas sobre la serie",
+      "Description": "La temporada 5 de Stranger Things aún no tiene fecha de estreno, pero los fans ya han empezado a pensar teorías sobre el final. A la espera de que la ficción regrese a Netflix,...",
+      "Url": "https://www.elmundo.es/television/series/2023/12/22/6585b0e9fdddff7b368b45bd.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/050cf54e412e18847876fd15f6ab71ac/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/22/17032612040030.jpg",
+      "PublishedAt": "2023-12-22T16:10:30Z",
+      "Content": "La temporada 5 de Stranger Things aún no tiene fecha de estreno, pero los fans ya han empezado a pensar teorías sobre el final. A la espera de que la ficción regrese a Netflix, los creadores han desm… [+1993 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Juan Sanmartín",
+      "Title": "Si te encantaba Colin McRae, el nuevo juego gratis de la Epic Games Store es para ti: consigue por tiempo limitado art of rally",
+      "Description": "El final de año está a la vuelta de la esquina, por lo que la Epic Games Store se encuentra en plena celebración de una época tan festiva. Cada día está regalando un nuevo videojuego, los cuales permanecen gratis durante 24 horas, por lo que ahora toca el tur…",
+      "Url": "https://www.vidaextra.com/conduccion/te-encantaba-colin-mcrae-nuevo-juego-gratis-epic-games-store-para-ti-consigue-tiempo-limitado-art-of-rally",
+      "UrlToImage": "https://i.blogs.es/4dc371/aor_group3_11/840_560.jpeg",
+      "PublishedAt": "2023-12-22T16:09:30Z",
+      "Content": "El final de año está a la vuelta de la esquina, por lo que la Epic Games Store se encuentra en plena celebración de una época tan festiva. Cada día está regalando un nuevo videojuego, los cuales perm… [+1264 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "'La que se avecina': todo lo que sabemos sobre la temporada 15 de la serie de Telecinco en Amazon Prime Video",
+      "Description": "La temporada 14 de 'La que se avecina' ha llegado a su final en Amazon Prime Video con el estreno del episodio 'Un bodorrio tóxico, un burbujón inmobiliario y un secuestro exprés'. Como era de esperar, sus fans ya han empezado a echarla de menos, pero la buen…",
+      "Url": "https://www.espinof.com/fecha-de-estreno/que-se-avecina-temporada-15-trailer-fecha-estreno-reparto-todo-que-sabemos-serie-telecinco-amazon-prime-video",
+      "UrlToImage": "https://i.blogs.es/340831/temporada-15-la-que-se-avecina/840_560.jpeg",
+      "PublishedAt": "2023-12-22T16:00:55Z",
+      "Content": "La temporada 14 de 'La que se avecina' ha llegado a su final en Amazon Prime Video con el estreno del episodio 'Un bodorrio tóxico, un burbujón inmobiliario y un secuestro exprés'. Como era de espera… [+3710 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://i.blogs.es/4eb802/boy-swallows-universe-travis-fimmel-vikings/840_560.jpeg",
       "PublishedAt": "2023-12-22T02:00:54Z",
       "Content": "'Vikingos', de Michael Hirts, cuenta la historia de Ragnar Lothbrok (Travis Fimmel), personaje mitológico que aseguraba ser el descendiente de Odín, el dios principal de la mitología nórdica. Ya sea … [+1463 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Wwwhatsnew.com"
-      },
-      "Author": "Fco. José Hidalgo",
-      "Title": "Dispositivos Samsung ofrecerán experiencias inmersivas basadas en «El Juego Del Calamar»",
-      "Description": "Entusiastas de la serie «El Juego del Calamar» de Netflix ahora pueden disfrutar de experiencias inmersivas basadas en la exitosa serie de Netflix con el uso de dispositivos Samsung, comenzando en la ciudad de Los Ángeles, en los Estados Unidos, aunque la ini…",
-      "Url": "https://wwwhatsnew.com/2023/12/22/dispositivos-samsung-galaxy-ofreceran-experiencias-inmersivas-basadas-en-el-juego-del-calamar/",
-      "UrlToImage": "https://wwwhatsnew.com/wp-content/uploads/2023/12/Samsung-x-Netflix-Squid-Game_main1.jpg",
-      "PublishedAt": "2023-12-22T01:00:56Z",
-      "Content": "Entusiastas de la serie «El Juego del Calamar» de Netflix ahora pueden disfrutar de experiencias inmersivas basadas en la exitosa serie de Netflix con el uso de dispositivos Samsung, comenzando en la… [+2326 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Martín Fernández Cruz",
-      "Title": "Monarch, legado de monstruos: una lograda fórmula que revisita el fascinante mundo de Godzilla y le suma aires de Lost",
-      "Description": "La serie de Apple TV+ se sumerge en el mundo del mítico monstruo japonés y otras criaturas similares para componer una historia en dos tiempos llena de interrogantes y tensiones",
-      "Url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/monarch-legado-de-monstruos-una-lograda-formula-que-revisita-el-fascinante-mundo-de-godzilla-y-le-nid21122023/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/monarch-legado-de-monstruos-una-lograda-formula-OT3KY55SPBB3LGAWR666VCLL7M.PNG?auth=a253b0554dc1832280ca4d7a5625126b6a2cdded1295bbfe1d795fce805ee4c6&width=768&quality=70&smart=false",
-      "PublishedAt": "2023-12-21T23:02:13Z",
-      "Content": "Monarch: legado de monstruos(Monarch: Legacy of Monsters, Estados Unidos/2023). Creado por: Chris Black, Matt Fraction. Elenco: Kurt Russell, Wyatt Russell, Ren Watabe, Anna Sawai, Mari Yamamoto. Dis… [+4230 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eluniversal.com.co"
-      },
-      "Author": "EL COLOMBIANO",
-      "Title": "La razón por la que The Chosen se convirtió en un fenómeno televisivo",
-      "Description": "Seguro ha escuchado hablar de ella, es una serie de época, un drama histórico basado en la vida de Jesús (interpretado por Jonathan Roumie), visto a través de los ojos de quienes lo conocieron. Lo particular de este proyecto —que se puede ver por Prime Video,…",
-      "Url": "https://www.eluniversal.com.co/cultural/la-razon-por-la-que-the-chosen-se-convirtio-en-un-fenomeno-televisivo-YE9677010",
-      "UrlToImage": "https://www.eluniversal.com.co/binrepository/1029x686/229c0/800d686/none/13704/QKDO/the-chosen_9200056_20231221172212.jpg",
-      "PublishedAt": "2023-12-21T22:22:08Z",
-      "Content": "Seguro ha escuchado hablar de ella, es una serie de época, un drama histórico basado en la vida de Jesús (interpretado por Jonathan Roumie), visto a través de los ojos de quienes lo conocieron. Lo pa… [+2585 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Luis Acosta",
-      "Title": "Llega a Prime Video 'Taylor Swift The Eras Tour' con una versión extendida que ningún fan querrá perderse",
-      "Description": "Después de una exitosa serie de conciertos que rompieron récord en todo el mundo, llega por fin a Prime Video 'Taylor Swift The Eras Tour' (Versión extendida) para revivir los mejores momentos de la gira y consentir a todos los fans en un espectáculo cinemato…",
-      "Url": "https://www.xataka.com.mx/cine-y-tv/llega-a-prime-video-taylor-swift-the-eras-tour-version-extendida-que-ningun-fan-querra-perderse",
-      "UrlToImage": "https://i.blogs.es/323c3a/taylor-swift-the-eras-tour-prime-vide/840_560.jpeg",
-      "PublishedAt": "2023-12-21T19:30:52Z",
-      "Content": "Después de una exitosa serie de conciertos que rompieron récord en todo el mundo, llega por fin a Prime Video'Taylor Swift The Eras Tour' (Versión extendida) para revivir los mejores momentos de la g… [+1679 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "Shannen Doherty desvela que fue despedida de 'Embrujadas' por culpa de Alyssa Milano: \"¿Quién va a creerse que estoy lo bastante loca como para dejar un éxito?\"",
-      "Description": "El poder de tres no fue, desde luego, un camino de rosas para 'Embrujadas' (Charmed), sobre todo tras la aireada marcha de una de las tres protagonistas originales. En la tercera temporada conocíamos la marcha de la serie de Shannen Doherty, quien interpretab…",
-      "Url": "https://www.espinof.com/actores-y-actrices/shannen-doherty-desvela-que-fue-despedida-embrujadas-culpa-alyssa-milano-quien-va-a-creerse-que-estoy-bastante-loca-como-para-dejar-exito",
-      "UrlToImage": "https://i.blogs.es/208d04/embrujadas-doherty/840_560.jpeg",
-      "PublishedAt": "2023-12-21T19:30:52Z",
-      "Content": "El poder de tres no fue, desde luego, un camino de rosas para 'Embrujadas' (Charmed), sobre todo tras la aireada marcha de una de las tres protagonistas originales. En la tercera temporada conocíamos… [+3128 chars]"
     }
   ]
 }
