@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 900,
+  "TotalResults": 901,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Natalia Trzenko",
+      "Title": "Bridgerton: una Navidad sin nuevos capítulos pero con imágenes inéditas para amenizar la larga espera",
+      "Description": "La primera parte de la tercera temporada de la serie de Netflix estará disponible el próximo 16 de mayo",
+      "Url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/bridgerton-una-navidad-sin-nuevos-capitulos-pero-con-imagenes-ineditas-para-amenizar-la-larga-espera-nid25122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/colin-luke-newton-y-penelope-nicola-coughlan-son-J6ZFNBBOBNHUTEWIYBFFFWUVTQ.jpeg?auth=f0efa2804b0866b05fe77d9aadc08a2de7d867312b9cc49be4a4ceef37341c26&width=768&height=512&quality=70&smart=false&focal=1283,427",
+      "PublishedAt": "2023-12-25T20:59:51Z",
+      "Content": "Hace exactamente tres años, el 25 de diciembre de 2020, después de meses de convivir con los rigores de la pandemia y el aislamiento social, Netflix, inesperado héroe de muchos en tiempos de protocol… [+3948 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.alucine.es/wp-content/uploads/2020/12/108.jpg",
       "PublishedAt": "2023-12-23T16:30:18Z",
       "Content": "Seguramente se trate de la comedia romántica más aclamada del nuevo milenio. Hay que reconocer que Richard Curtis se marcaba, allá por el año 2003, uno de esos trabajos atemporales. Da igual cuántas … [+856 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "'One Piece' ya tiene un remake en marcha con el estudio de 'Cyberpunk: Edgerunners', y los responsables del anime original temen que su trabajo se termine olvidando",
-      "Description": "La Jump Festa 2024 ha dejado unos cuantos bombazos enormes, pero sin duda el que no vimos venir por ninguna parte fue el de que 'One Piece' tendrá un remake para Netflix.\n<!-- BREAK 1 -->\nEl anuncio ya no solo ha pillado de sopetón por el hecho del remake en …",
-      "Url": "https://www.espinof.com/anime/one-piece-tiene-remake-marcha-estudio-cyberpunk-edgerunners-responsables-anime-original-temen-que-su-trabajo-se-termine-olvidando",
-      "UrlToImage": "https://i.blogs.es/802c09/one-piece/840_560.jpeg",
-      "PublishedAt": "2023-12-23T16:00:57Z",
-      "Content": "La Jump Festa 2024 ha dejado unos cuantos bombazos enormes, pero sin duda el que no vimos venir por ninguna parte fue el de que 'One Piece' tendrá un remake para Netflix.\r\nEl anuncio ya no solo ha pi… [+3254 chars]"
     }
   ]
 }
