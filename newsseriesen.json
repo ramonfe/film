@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 268,
+  "TotalResults": 269,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Soundandvision.com"
+      },
+      "Author": "Barb Gonzalez",
+      "Title": "2023 - The Year of the Commercial",
+      "Description": "Like everything else, it was a year of rising prices and mergers, a year when companies looked at their streaming services and realized that they weren't as profitable as they'd hoped. Things had to change. The result was services dropping popular titles to l…",
+      "Url": "https://www.soundandvision.com/content/2023-year-commercial",
+      "UrlToImage": "https://www.soundandvision.com/images/IMG_9953.JPG",
+      "PublishedAt": "2023-12-27T00:00:00Z",
+      "Content": "Like everything else, it was a year of rising prices and mergers, a year when companies looked at their streaming services and realized that they weren't as profitable as they'd hoped. Things had to … [+6140 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20231220_WST_478030_USOC_MLS.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2023-12-20T15:50:49Z",
       "Content": "Arguably, the biggest turning point in the history of soccer in the United States is happening at this very moment. MLS is attempting to pull its teams out of the US Open Cup. And how the United Stat… [+12092 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "thechalkboardmag.com"
-      },
-      "Author": "The Chalkboard Editorial Team",
-      "Title": "Memories For Life: The Important Alzheimer’s Doc To Watch With Your Family",
-      "Description": "Dale E. Bredesen, M.D., is arguably the leading neuroscience researcher on Alzheimer's and Singleton Chair in Neurology at the Pacific Neuroscience Institute. His ground-breaking work can be explored in his book, The End of Alzheimer's Program: The First Prot…",
-      "Url": "http://thechalkboardmag.com/memories-for-life-alzheimers-doc/",
-      "UrlToImage": "https://thechalkboardmag.com/wp-content/uploads/2023/12/site_images_memories_for_life-02.jpg",
-      "PublishedAt": "2023-12-20T11:00:42Z",
-      "Content": "Dale E. Bredesen, M.D., is arguably the leading neuroscience researcher on Alzheimer’s and Singleton Chair in Neurology at the Pacific Neuroscience Institute. His ground-breaking work can be explored… [+4007 chars]"
     }
   ]
 }

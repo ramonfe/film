@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 803,
+  "TotalResults": 805,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "En Navidad se recoge el 20% del papel y cartón que se recicla durante todo el año",
+      "Description": "En estas fechas navideñas, tras la visita de Papá Noel y la inminente llegada de los Reyes Magos las casas se llenan de regalos y, con ello, de papel y cartón para reciclar. Según los datos que maneja ASPAPEL, la Asociación Española de Fabricantes de Pasta, P…",
+      "Url": "https://www.abc.es/natural/navidad-recoge-papel-carton-recicla-ano-20231227011542-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/natural/2023/12/27/ReciclajepapelycartonNavidad_ASPAPEL-U51058765515Efg-1024x512@abc.jpg",
+      "PublishedAt": "2023-12-27T00:15:43Z",
+      "Content": "En estas fechas navideñas, tras la visita de Papá Noel y la inminente llegada de los Reyes Magos las casas se llenan de regalos y, con ello, de papel y cartón para reciclar. Según los datos que manej… [+3066 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Luis Acosta",
+      "Title": "Hoy en Netflix: la película con Ben Affleck y Matt Damon que se estrenó hace 26 años y ahora arrasa en streaming",
+      "Description": "Era 1997 cuando esta película se estrenó con unos jóvenes Matt Damon y Ben Affleck. Ellos no solo actuaron en la cinta dirigida por Gus Van Sant, sino que además escribieron el guión del filme, esto les permitió ganar por primera vez un Oscar. Hablamos de 'Me…",
+      "Url": "https://www.xataka.com.mx/cine-y-tv/hoy-netflix-pelicula-ben-affleck-matt-damon-que-se-estreno-hace-26-anos-ahora-arrasa-streaming",
+      "UrlToImage": "https://i.blogs.es/de1452/mente-indomable-netflix/840_560.jpeg",
+      "PublishedAt": "2023-12-27T00:01:21Z",
+      "Content": "Era 1997 cuando esta película se estrenó con unos jóvenes Matt Damon y Ben Affleck. Ellos no solo actuaron en la cinta dirigida por Gus Van Sant, sino que además escribieron el guión del filme, esto … [+2242 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/658a88d28014e9a1c5b27fa6/16:9/w_1280,c_limit/GQ1223_FashionAwards_D_36.jpg",
       "PublishedAt": "2023-12-26T09:00:01Z",
       "Content": "El norirlandes fundo JW Anderson en 2008, a los 24 anos, y se hizo un nombre en Londres con un trabajo pionero en la deconstruccion de genero que ahora impregna la cultura. Una coleccion con shorts d… [+2972 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Libertaddigital.com"
-      },
-      "Author": "Libertad Digital",
-      "Title": "Muere el actor británico Richard Franklin, el capitán Mike Yates de 'Doctor Who'",
-      "Description": "El intérprete, que tuvo una larga carrera en cine y teatro, falleció en Navidad a los 87 años.",
-      "Url": "https://www.libertaddigital.com/cultura/cine/2023-12-26/muere-el-actor-britanico-richard-franklin-el-capitan-mike-yates-de-doctor-who-7082690/",
-      "UrlToImage": "https://s.libertaddigital.com/2023/12/26/1200/627/617x272/ld/richard-franklin.jpg",
-      "PublishedAt": "2023-12-26T07:43:50Z",
-      "Content": "El actor británico Richard Franklin, conocido y querido por el gran público por su papel de capitán Mike Yates de la tercera etapa de la serie Doctor Who, falleció el día de Navidad a los 87 años, se… [+1349 chars]"
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "marca.com",
-      "Title": "Kevin Spacey reaparece y lanza duros ataques a Netflix: \"Existe gracias a mí\"",
-      "Description": "El actor Kevin Spacey desapareció de la escena del cine y la televisión tras ser acusado de cometer abusos sexuales a cuatro hombres entre los años 2001 y 2013.\n\nEl interprete esta",
-      "Url": "https://www.marca.com/tiramillas/series/2023/12/26/658a7817ca4741411d8b4589.html",
-      "UrlToImage": "https://phantom-marca.unidadeditorial.es/1050b8a711b7206f639fe2bd884dcb6c/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/26/17035732112713.jpg",
-      "PublishedAt": "2023-12-26T07:08:08Z",
-      "Content": "El actor Kevin Spacey desapareció de la escena del cine y la televisión tras ser acusado de cometer abusos sexuales a cuatro hombres entre los años 2001 y 2013.\r\nEl interprete estadounidense de 64 añ… [+1439 chars]"
     }
   ]
 }
