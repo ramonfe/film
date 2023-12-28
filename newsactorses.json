@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 819,
+  "TotalResults": 820,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.co"
+      },
+      "Author": "Wilson Vega",
+      "Title": "The New York Times demanda a OpenAI y Microsoft por infracción de derechos de autor y, más que dinero, pide “destruir” a ChatGPT",
+      "Description": "The New York Times anunció hoy que interpuso una demanda contra OpenAI y Microsoft por infracción de derechos de autor. La demanda alega que las compañías utilizaron millones de artículos del Times para entrenar sus programas de inteligencia artificial y prod…",
+      "Url": "https://www.xataka.com.co/robotica-e-ia/the-new-york-times-demanda-a-openai-microsoft-infraccion-derechos-autor-que-dinero-pide-destruir-a-chatgpt",
+      "UrlToImage": "https://i.blogs.es/5ca9de/pexels-beyzanur-k-17608520/840_560.jpeg",
+      "PublishedAt": "2023-12-27T21:41:17Z",
+      "Content": "The New York Times anunció hoy que interpuso una demanda contra OpenAI y Microsoft por infracción de derechos de autor. La demanda alega que las compañías utilizaron millones de artículos del Times p… [+3006 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavozdegalicia.es/default/2023/12/26/00121703610361944571712/Foto/VD27C8F1_18526.jpg",
       "PublishedAt": "2023-12-27T04:00:00Z",
       "Content": "Cuando decidi que iba a hacer todo lo que estaba en sus manos para que la creatividad inundase todas las facetas de su vida, Abelo Valis comenz por su nombre. No se llama as, pero as es como quiere q… [+4323 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "La turbulenta campaña de Trump: entre primarias y citaciones judiciales",
-      "Description": "Por primera vez en la larga historia electoral de Estados Unidos, un ciclo de primarias y campaña a la presidencia va a estar marcado no por las encuestas y las votaciones , sino por las citaciones judiciales de uno de los candidatos. Donald Trump tiene vario…",
-      "Url": "https://www.abc.es/internacional/turbulenta-campana-trump-primarias-citaciones-judiciales-20231226202401-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2023/12/26/donald.jpg",
-      "PublishedAt": "2023-12-27T03:25:43Z",
-      "Content": "Por primera vez en la larga historia electoral de Estados Unidos, un ciclo de primarias y campaña a la presidencia va a estar marcado no por las encuestas y las votaciones, sino por las citaciones ju… [+6425 chars]"
     }
   ]
 }
