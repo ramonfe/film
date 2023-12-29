@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 824,
+  "TotalResults": 825,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "¿Qué fue de Patricia Vico? La actriz de 'Hospital Central' que está casada con un conocido director de cine",
+      "Description": "Todos recordarán a la artista por interpretar el papel de Maca, la pediatra que mantenía una relación con la enfermera Esther García",
+      "Url": "https://www.hola.com/actualidad/20231228245756/que-paso-con-patricia-vico-hospital-central/",
+      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20231228245756/que-paso-con-patricia-vico-hospital-central/1-354-466/patricia-vico-gtres-t.jpg",
+      "PublishedAt": "2023-12-28T06:51:41Z",
+      "Content": "Patricia Vico (51 años) siempre será recordada por su papel de Maca, la pediatra que trabajaba en la mítica serie Hospital central de Telecinco y que protagonizó una historia de amor con la enfermera… [+877 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/545e97/f.elconfidencial.comoriginal6480/840_560.jpeg",
       "PublishedAt": "2023-12-27T13:15:52Z",
       "Content": "Entre las nuevas incorporaciones de 'La Promesa', está el empresario inglés, Mr. Cavendish, y el joven Valentín, el mejor amigo de Antoñito, hijo de Simona. Su presencia en palacio está dando lugar a… [+2124 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "peluchon",
-      "Title": "Muere el actor Mike Nussbaum (‘Men in Black’, ‘Atracción fatal’)",
-      "Description": "Son días tristes para el mundo del cine, porque nos toca contaros que ha fallecido el actor estadounidense Mike Nussbaum a sus 99 años de edad. Nacido el 29 de diciembre de 1923 en Chicago, Nussbaum estaba a solo unos días de cumplir nada más y nada menos que…",
-      "Url": "https://www.meneame.net/m/actualidad/muere-actor-mike-nussbaum-men-in-black-atraccion-fatal",
-      "UrlToImage": "https://meneame.net/img/logo_meneame_footer.svg",
-      "PublishedAt": "2023-12-27T11:55:45Z",
-      "Content": "Que yo recuerde lo jubilaron en la primera escena de la primera película.Bueno, realmente K lo flaseó."
     }
   ]
 }
