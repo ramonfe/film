@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 889,
+  "TotalResults": 890,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "El Universal (México)",
+      "Title": "Cindy la Regia, la serie de Netflix basada en una comedia romántica que se posiciona en lo más alto del ranking",
+      "Description": "La ficción es una adaptación de un film que generó muy buenas críticas; el nuevo lanzamiento sigue sus pasos aunque con un giro en la historia",
+      "Url": "https://www.lanacion.com.ar/espectaculos/cindy-la-regia-la-serie-de-netflix-basada-en-una-comedia-romantica-que-se-posiciona-en-lo-mas-alto-nid28122023/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-serie-es-una-adaptacion-del-cine-y-se-PL5NODEJOVATRMT4BBLD74Y3WM.jpg?auth=23a158201bcfbffd7457570d1bcbc6e2b95073846b8aed8cb093b0e4d4498483&width=768&quality=70&smart=false",
+      "PublishedAt": "2023-12-28T15:35:21Z",
+      "Content": "La plataforma de streaming Netflix sigue sorprendiendo a sus suscriptores con las series, películas y documentales que incorpora mes a mes su catálogo. Las producciones son de lo más variadas y llega… [+1802 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2023/12/Diseno-sin-titulo-2023-12-27T100337.865.png",
       "PublishedAt": "2023-12-27T16:06:10Z",
       "Content": "Pese a lo accesible que se han convertido las plataformas de streaming a nivel mundial, la piratería sigue siendo un negocio bastante fuerte. De esta forma, recientemente se dieron a conocer las 10 s… [+1893 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Herrera Castro",
-      "Title": "Cinco libros sobre directores de cine para regalar estos Reyes a los aficionados al séptimo arte",
-      "Description": "Son muchos los cineastas que han trascendido a su época, marcando una serie de cánones artísticos y estéticos tanto en el cine como en la cultura general que aún hoy seguimos repitiendo. Directores con grandes historias dentro y fuera de los estudios. Muchas …",
-      "Url": "https://www.espinof.com/seleccion/cinco-libros-directores-cine-para-regalar-estos-reyes-a-aficionados-al-septimo-arte",
-      "UrlToImage": "https://i.blogs.es/720093/hitchcock-truffaut-portada-laultimapelicula_waifu2x_photo_noise2_scale/840_560.png",
-      "PublishedAt": "2023-12-27T16:01:22Z",
-      "Content": "Son muchos los cineastas que han trascendido a su época, marcando una serie de cánones artísticos y estéticos tanto en el cine como en la cultura general que aún hoy seguimos repitiendo. Directores c… [+3765 chars]"
     }
   ]
 }
