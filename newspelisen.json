@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1519,
+  "TotalResults": 1520,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fast Company"
+      },
+      "Author": "Kristin Toussaint",
+      "Title": "Tales from the picket lines: 6 workers on how strikes changed their lives in 2023",
+      "Description": "This year was a monumental one for the labor movement, from teachers and actors to automakers and healthcare workers taking to picket lines. More than 500,000 workers were involved in 399 strikes throughout the year—a figure that’s more than double the number…",
+      "Url": "https://www.fastcompany.com/91000717/tales-from-the-picket-lines-5-workers-on-how-strikes-changed-their-lives-in-2023",
+      "UrlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2023/12/p-1-91000717-a-year-in-strikes.jpg",
+      "PublishedAt": "2023-12-28T04:00:00Z",
+      "Content": "This year was a monumental one for the labor movement, from teachers and actors to automakers and healthcare workers taking to picket lines. More than 500,000 workers were involved in 399 strikes thr… [+20752 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/12/midnight-suns-movie-release-date-marvel-mcu-new-film.jpg?resize=1200,630",
       "PublishedAt": "2023-12-27T11:38:56Z",
       "Content": "After reports hit the internet of a Midnight Suns movie being considered for development by Marvel Studios, fans are wondering whether or not Marvel is making a movie based on the supernatural team o… [+1846 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
