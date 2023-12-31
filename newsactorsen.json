@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1051,
+  "TotalResults": 1052,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "Chloe Veltman",
+      "Title": "Broadway actor, dancer and choreographer Maurice Hines dies at 80",
+      "Description": "Maurice Hines, who started tap dancing at the age of five, starred alongside his late brother Gregory Hines in the 1984 Francis Ford Coppola movie The Cotton Club.",
+      "Url": "https://www.npr.org/2023/12/30/1222286906/broadway-actor-dancer-and-choreographer-maurice-hines-dies-at-80",
+      "UrlToImage": "https://media.npr.org/assets/img/2023/12/30/ap279955884478_wide-b00620c5eb811b43847627092c589882b9092c50-s1400-c100.jpg",
+      "PublishedAt": "2023-12-30T19:29:09Z",
+      "Content": "Maurice Hines, seen in 2005, appeared alongside his younger brother Gregory Hines during the first part of his career.\r\nFrank Franklin II/AP\r\nDancer, choreographer and actor Maurice Hines died on Fri… [+2248 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/11/Untitled-design-8.png?resize=1200,630",
       "PublishedAt": "2023-12-29T08:15:53Z",
       "Content": "Dateline NBC plans to re-examine how Tucker Reed managed to become an actress after killing her uncle in 2016. The episode, titled Killer Role, is going to dive deeper into the case and detail how a … [+3270 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Nani likely to not collaborate with Trivikram Srinivas for next!",
-      "Description": "Actor Nani, known for his film 'Hi Nanna', is currently shooting for 'Saripodhaa Sanivaaram' with Vivek Athreya. The action film stars Nani, Priyanka Arul Mohan, and SJ Suryah. Nani is speculated to complete the shoot for his film by May 2024, following which…",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nani-likely-to-not-collaborate-with-trivikram-srinivas-for-next/articleshow/106373677.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-106373772,width-1070,height-580,imgsize-919306,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2023-12-29T08:09:49Z",
-      "Content": "10 best places to visit in California in 2024"
     }
   ]
 }
