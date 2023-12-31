@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 818,
+  "TotalResults": 819,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "La Nación de Argentina/GDA",
+      "Title": "Falleció Tom Wilkinson, actor de ‘The Full Monty’ y ‘Michael Clayton’, a los 75 años",
+      "Description": "El actor británico Tom Wilkinson obtuvo dos nominaciones al Oscar a lo largo de una extensa carrera, con más de 130 títulos en el cine y la televisión",
+      "Url": "https://www.nacion.com/viva/cine/fallecio-tom-wilkinson-actor-de-the-full-monty-y/QY7ROXDDMJEQNODF466QYWZ76Q/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/32AkNRIS4Cmyli8QY2NbNXOG_P0=/1440x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/MZY6L7EXWRFTPPDD6I7ATQGCTA.png",
+      "PublishedAt": "2023-12-30T21:18:00Z",
+      "Content": "No había papel en el cine o en el teatro que le quedara grande a Tom Wilkinson. Todo lo contrario. Hasta los personajes más pequeños y circunstanciales que le tocaron en suerte, muchos por cierto a l… [+5929 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.formulatv.com/images/articulos/126000/126020_lNzgi8E2Bkt9RPqcm5aovJF0sWL37Yx4e-hog.jpg",
       "PublishedAt": "2023-12-29T10:50:00Z",
       "Content": "'La promesa' pierde a uno de sus protagonistas. Mauro, tal y como confirmó en el capítulo 259, emitido el pasado miércoles 27 de diciembre, ha recibido una oferta para ser el mayordomo de la casa de … [+2132 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Eduardo Bravo",
-      "Title": "Jon Voight cumple 85 años bajo la alargada sombra de Cowboy de medianoche",
-      "Description": "“Esta película te convertirá en una estrella”, había profetizado Dustin Hoffman a Jon Voight en 1969, cuando ambos se encontraban en pleno rodaje de Cowboy de medianoche. A pesar de su natural cautela e inseguridad, el propio Voight también bromearía sobre el…",
-      "Url": "https://www.revistagq.com/articulo/jon-voight-cowboy-de-medianoche",
-      "UrlToImage": "https://media.revistagq.com/photos/658e9892b07d2a5973d2b4be/16:9/w_1280,c_limit/51937729",
-      "PublishedAt": "2023-12-29T10:15:20Z",
-      "Content": "Esta película te convertirá en una estrella, había profetizado Dustin Hoffman a Jon Voight en 1969, cuando ambos se encontraban en pleno rodaje de Cowboy de medianoche. A pesar de su natural cautela … [+3596 chars]"
     }
   ]
 }
