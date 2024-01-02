@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 252,
+  "TotalResults": 253,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Soundcloud.com"
+      },
+      "Author": "Chapo Trap House",
+      "Title": "794 - Gooneiform feat. Stavros Halkias (1/1/24)",
+      "Description": "Stavvy baby joins us to ring in the New Year with some talk on Christmas gift-giving, review some recent comedic offerings from Israeli TV and Tucker Carlson’s X show, and finally to look at some of recent political developments in the great city of Baltimore…",
+      "Url": "https://soundcloud.com/chapo-trap-house/794-gooneiform-feat-stavros-halkias-1124",
+      "UrlToImage": "https://i1.sndcdn.com/artworks-V6jHMsOz26rHddiC-E8XndQ-t500x500.jpg",
+      "PublishedAt": "2024-01-01T20:00:09Z",
+      "Content": "Sorry! Something went wrong\r\nIs your network connection unstable or browser outdated?"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc8d540f-a6d5-4b9d-9d55-6088641e728c_1792x1024.png",
       "PublishedAt": "2023-12-22T17:45:45Z",
       "Content": "When I was in college, I got a letter from Columbia Tristar calling me a pirate. In better phrasing it said I, or rather my IP, had been downloading a movie via Kazaa and I shouldnt do that because t… [+10335 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Marlon Ettinger",
-      "Title": "The dumbest moments in big tech in 2023",
-      "Description": "The tech story of 2023 was the rise of commercially available AI—most notably in OpenAI’s ChatGPT.\n\n\nIt was, or could be, a world-altering tech, one that evangelists and entrepreneurs and venture capitalists cite as the new way Silicon Valley is triumphing ov…",
-      "Url": "https://www.dailydot.com/debug/2023-tech-bad-ideas/",
-      "UrlToImage": "https://uploads.dailydot.com/2023/12/2023-dumbest-tech-trends.jpg?auto=compress&fm=pjpg",
-      "PublishedAt": "2023-12-22T13:00:00Z",
-      "Content": "The tech story of 2023 was the rise of commercially available AImost notably in OpenAIs ChatGPT.\r\nIt was, or could be, a world-altering tech, one that evangelists and entrepreneurs and venture capita… [+9165 chars]"
     }
   ]
 }
