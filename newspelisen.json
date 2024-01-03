@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1380,
+  "TotalResults": 1381,
   "Articles": [
+    {
+      "Source": {
+        "Id": "polygon",
+        "Name": "Polygon"
+      },
+      "Author": "Jesse Hassenger",
+      "Title": "Netflix is giving us terrific theatrical movie experiences — and trying so hard not to",
+      "Description": "Netflix keeps making terrific theatrical movies, from David Fincher’s The Killer to Zack Snyder’s Rebel Moon, but it can’t prioritize the theater experience.",
+      "Url": "https://www.polygon.com/24006908/netflix-movies-in-theaters-rebel-moon-killer-may-december",
+      "UrlToImage": "https://cdn.vox-cdn.com/thumbor/FnZpkVuDmL41Iy5nqmLwIADgd3w=/383x0:3714x1744/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25172207/MATZ_R2_37_20230619j_v16_ana_DoVi_20230830.0197829.jpg",
+      "PublishedAt": "2024-01-02T16:02:00Z",
+      "Content": "2023 kicked off with Netflix CEO Ted Sarandos reiterating that in spite of the success Rian Johnsons crowd-pleasing mystery-comedy Glass Onion had in its brief theatrical release, Sarandos had no reg… [+10933 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-01-01T18:32:54Z",
       "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thewrap.com",
-      "Title": "2024 Movie Release Dates: A Schedule of Films Coming This Year",
-      "Description": "2024 is nearly upon us, and with it a bevy of new releases. While the impact of the 2023 strikes have further delayed Hollywood’s “return to normal” at the box office, pushing a number of blockbuster titles out of 2024 and into 2025, this year still carries w…",
-      "Url": "https://biztoc.com/x/10aa32835cd3dc86",
-      "UrlToImage": "https://c.biztoc.com/p/10aa32835cd3dc86/s.webp",
-      "PublishedAt": "2024-01-01T17:20:13Z",
-      "Content": "2024 is nearly upon us, and with it a bevy of new releases. While the impact of the 2023 strikes have further delayed Hollywoods return to normal at the box office, pushing a number of blockbuster ti… [+314 chars]"
     }
   ]
 }
