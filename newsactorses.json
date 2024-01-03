@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 784,
+  "TotalResults": 785,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "hola.com",
+      "Title": "'Hermanos': la película romántica que protagonizará Onur Seyit Yaran (Doruk) tras su marcha de la serie",
+      "Description": "Todo sobre el nuevo proyecto que encabeza el popular actor turco de 28 años y la actriz que lo acompaña",
+      "Url": "https://www.hola.com/actualidad/20240102245849/hermanos-doruk-pelicula-romantica/",
+      "UrlToImage": "https://images.hola.com/imagenes/actualidad/20240102245849/hermanos-doruk-pelicula-romantica/1-355-86/andalucia-onurseyityaran-ig-t.jpg",
+      "PublishedAt": "2024-01-02T19:11:06Z",
+      "Content": "Hermanos se ha convertido en la serie turca de moda al haber sabido calar hondo en el corazón de la audiencia. Lo mismo sucede con los actores que forman parte de la exitosa ficción: que enamoran al … [+2575 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.eluniversal.com.co/binrepository/1218x686/182c0/800d686/none/13704/BREL/actriz-mexicana-silvia-pinal_9254445_20240101093407.png",
       "PublishedAt": "2024-01-01T13:32:32Z",
       "Content": "La actriz Silvia Pinal, de 92 años y considerada la última diva del Cine de Oro mexicano, salió el domingo 31 de diciembre de 2023, del hospital en el que estuvo internada 10 días por un cuadro de in… [+2568 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Víctor López G.",
-      "Title": "\"Robotnik no fue diferente a La Máscara o alguno de esos personajes\". Jim Carrey explica qué le llevó a interpretar al villano de 'Sonic'",
-      "Description": "Tras años y años de adaptaciones de videojuegos reconvertidas en poco menos que un un cliché recurrente en la industria debido a su, por norma general, escasa calidad, la última década ha demostrado que en la traslación de las narrativas interactivas a las pa…",
-      "Url": "https://www.espinof.com/actores-y-actrices/robotnik-no-fue-diferente-a-mascara-alguno-esos-personajes-jim-carrey-explica-que-le-llevo-a-interpretar-al-villano-sonic",
-      "UrlToImage": "https://i.blogs.es/9fb0c4/slack-imgs/840_560.jpeg",
-      "PublishedAt": "2024-01-01T11:01:44Z",
-      "Content": "Tras años y años de adaptaciones de videojuegos reconvertidas en poco menos que un un cliché recurrente en la industria debido a su, por norma general, escasa calidad, la última década ha demostrado … [+2681 chars]"
     }
   ]
 }
