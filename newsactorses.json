@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 789,
+  "TotalResults": 790,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Así se luce hoy la actriz Linda Gray de la serie Dallas",
+      "Description": "El primer episodio de la serie estadounidense se estrenó el 2 de abril de 1978, cuando la intérprete de Sue Ellen tenía 27 años",
+      "Url": "https://www.lanacion.com.ar/espectaculos/asi-se-luce-hoy-la-actriz-linda-gray-de-la-serie-dallas-nid02012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/linda-gray-y-larry-hagman-en-dallas-foto-CK7SGEDJKVAY3JP6463U6PNYDU.jpg?auth=04336b10c3b9380a4902eb0829e8ef8b9d9f4aa21afe58e991a63ea393ce00f8&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-03T02:16:03Z",
+      "Content": "Entre la lista de las icónicas producciones que marcaron un antes y un después en la pantalla chica se encuentra Dallas, la serie estadounidense de la década de los años 70 que contó con 14 temporada… [+2905 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/cab9f064-dedd-4eb0-a396-96f13099b1ee_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-01-01T18:45:58Z",
       "Content": "Pedro Alonso necesitó “un día y medio” para pensarse la oferta de protagonizar Berlín, precuela de La casa de papel que ya está disponible en Netflix. “No porque no me apeteciese, sino porque sabía l… [+1326 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Carmen Jiménez",
-      "Title": "Preparan homenaje a Ana Ofelia Murguía en el palacio de Bellas Artes",
-      "Description": "El día de ayer se dio a conocer el lamentable fallecimiento de la actriz de cine, teatro y televisión Ana Ofelia Murguía quien partió a sus 90 años de edadEl comunicado se dio a conocer a través de la cuenta de la Filmoteca de la Universidad Autónoma de Méxic…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/ana-ofelia-murguia-preparan-homenaje-postumo-palacio-bellas-artes",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/01/01/ana-ofelia-murguia-homenaje-palacio.jpg",
-      "PublishedAt": "2024-01-01T17:05:00Z",
-      "Content": "El día de ayer se dio a conocer el lamentable fallecimiento de la actriz de cine, teatro y televisión Ana Ofelia Murguíaquien partió a sus 90 años de edad\r\nEl comunicado se dio a conocer a través de … [+2630 chars]"
     }
   ]
 }
