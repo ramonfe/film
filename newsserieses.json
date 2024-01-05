@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 884,
+  "TotalResults": 885,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "Así es Samurái de ojos azules, la serie de Netflix que recomienda George R.R. Martin",
+      "Description": "George R.R. Martin, autor de la saga literaria Canción de hielo y fuego en la que se basó Juego de tronos, ha compartido una recomendación a través de su página web, Not a...",
+      "Url": "https://www.elmundo.es/television/series/2024/01/04/6596d8f5e9cf4a35738b45c6.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/b716c078aba254f87a50ed6f43f01e37/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/04/17043870620999.jpg",
+      "PublishedAt": "2024-01-04T16:54:43Z",
+      "Content": "George R.R. Martin, autor de la saga literaria Canción de hielo y fuego en la que se basó Juego de tronos, ha compartido una recomendación a través de su página web, Not a blog. En su última publicac… [+2000 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/01/03/8452872-U33338056422GYY-1024x512@abc.JPG",
       "PublishedAt": "2024-01-03T14:30:23Z",
       "Content": "Una de las formas más fáciles de sacar a relucir la nostalgia es rememorando la televisión que uno veía hace unos años, cuando Netflix o HBO no habían entrado en escena o cuando uno era adolescente y… [+2011 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'Berlín' arrasa en su debut como la serie de habla no inglesa más vista de Netflix, aunque lejos de 'La casa de papel'",
-      "Description": "La apuesta de Netflix por Berlín ha sido positiva. Eso se desprende de sus primeros datos de audiencia, publicados en Top10.Netflix.com. El portal con listas semanales del servicio de streaming, que permite calcular el éxito de las producciones en catálogo, c…",
-      "Url": "https://www.eldiario.es/vertele/series/berlin-arrasa-debut-serie-habla-no-inglesa-vista-netflix-lejos-casa-papel_1_10810318.html",
-      "UrlToImage": "https://static.eldiario.es/clip/7812dd67-5e35-48fc-a904-5d2a6779a4cf_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-01-03T14:19:10Z",
-      "Content": "La apuesta de Netflix por Berlín ha sido positiva. Eso se desprende de sus primeros datos de audiencia, publicados en Top10.Netflix.com. El portal con listas semanales del servicio de streaming, que … [+2963 chars]"
     }
   ]
 }
