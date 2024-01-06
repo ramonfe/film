@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 879,
+  "TotalResults": 880,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Así es la nueva serie de Netflix con Messi, Ronaldo y Mbappé que ya es un éxito",
+      "Description": "“Capitanes del Mundo” es la nueva gran apuesta de la plataforma de streaming líder a nivel internacional; cuenta con entrevistas exclusivas a los líderes de varios seleccionados",
+      "Url": "https://www.lanacion.com.ar/deportes/futbol/asi-es-la-nueva-serie-de-netflix-con-messi-ronaldo-y-mbappe-que-ya-es-un-exito-nid05012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/lionel-messi-es-el-gran-protagonista-de-la-nueva-4LHQ5CUEINEYNMHTNXOT624MFA.png?auth=9dcb5338e128b980cfdc4625c0c4628b465030c698aacf0fed34a32ae6ed5b1a&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-05T20:14:22Z",
+      "Content": "Capitanes del Mundo es, cuanto menos en el terreno deportivo, la serie del momento. Tras los éxitos de The Last Dance (se centra en la temporada 1997-98 de los Chicago Bulls, la despedida de Michael … [+2784 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/11/xiaomi-redmi-12.jpg?width=1200",
       "PublishedAt": "2024-01-04T23:31:36Z",
       "Content": "Así es el Redmi 12 de Xiaomi.\r\nEl Redmi 12, uno de los mejores smartphones baratos de Xiaomi, cae de precio en Amazon. Tiene justo lo que necesitas y se ha desplomado hasta los 155 euros, un precio a… [+2251 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Joel Calata",
-      "Title": "Glynis Johns, conocida actriz de la cinta 'Mary Poppins' fallece a los 100 años",
-      "Description": "En los primeros días del 2024 las malas noticias no se han hecho esperar, y es que Glynis Johns, una actriz de teatro y cine ganadora del premio Tony que interpretó a la madre de los niños en la película de Disney de 1964 'Mary Poppins', murió este jueves a l…",
-      "Url": "https://www.espinof.com/actores-y-actrices/glynis-johns-conocida-actriz-cinta-mary-poppins-fallece-a-100-anos",
-      "UrlToImage": "https://i.blogs.es/1a7b2c/glynis-johnsjpg/840_560.jpeg",
-      "PublishedAt": "2024-01-04T23:26:21Z",
-      "Content": "En los primeros días del 2024 las malas noticias no se han hecho esperar, y es que Glynis Johns, una actriz de teatro y cine ganadora del premio Tony que interpretó a la madre de los niños en la pelí… [+1363 chars]"
     }
   ]
 }
