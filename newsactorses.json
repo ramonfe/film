@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 789,
+  "TotalResults": 790,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Qué es de la vida de Yasmine Bleeth, una de las estrellas de Baywatch que atravesó un infierno personal y se alejó de los sets",
+      "Description": "La actriz, quien fue parte de la exitosa serie de los 90 y hoy tiene 55 años, rara vez aparece en público desde que abandonó la actuación a comienzos del 2000",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/que-es-de-la-vida-de-yasmine-bleeth-una-de-las-estrellas-de-baywatch-que-atraveso-un-infierno-nid06012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/baywatch-1989-55SMZSKFK5HDBOK5OI3CIAXLTQ.jpg?auth=c9718a0ac0bab245eb0998702ac2ac64cea9e9fd789802eedab78e4cce57acce&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-06T03:03:00Z",
+      "Content": "Durante la década del 90, Yasmine Bleeth era considerada una celebridad de la televisión estadounidense. La actriz era una de las guardianas de la bahía de la famosa serie Baywatch. En cada episodio,… [+4239 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imagez.tmz.com/image/fc/16by9/2024/01/04/fcd0dc41178540e39ea3a9e74d3cfa04_xl.jpg",
       "PublishedAt": "2024-01-05T14:44:22Z",
       "Content": "David Soul, famoso por interpretar al detective Kenneth Hutchinson en la serie de televisión \"Starsky y Hutch\", ha muerto... TMZ ha averiguado.\r\nEl actor murió el jueves en un hospital en Londres des… [+2264 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Quim Casas",
-      "Title": "Muere David Soul, protagonista de la serie de culto 'Starsky y Hutch'",
-      "Description": "El actor gozó de un gran éxito con esta serie de los 70, pero poco más hizo en cine y televisión. Tuvo una breve carrera como cantante.. Todos los estrenos de Netflix de enero. Las 10 mejores series españolas de 2023. Las 10 mejores series internacionales de …",
-      "Url": "https://www.elperiodico.com/es/tele/20240105/muere-david-soul-inolvidable-protagonista-starsky-y-hutch-96572547",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/25f8a7cd-89da-442c-8982-f430d55f8b73_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-01-05T14:37:41Z",
-      "Content": "La historia del cine y de la televisión está plagada de actores y actrices recordados por una sola interpretación, uno de esos trabajos que lo devora todo y atrapa al intérprete en cuestión en un per… [+2631 chars]"
     }
   ]
 }
