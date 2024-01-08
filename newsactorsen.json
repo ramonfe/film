@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1070,
+  "TotalResults": 1071,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Christian Oliver's former wife Jessica Klepser pays tribute to actor, young daughters after fatal plane crash - KABC-TV",
+      "Description": "Christian Oliver's former wife Jessica Klepser pays tribute to actor, young daughters after fatal plane crashKABC-TV Actor Christian Oliver remembered by wife after plane crash kills him and couple's 2 young childrenFox News Speed Racer Actor Christian Oliver…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=172687412",
+      "UrlToImage": null,
+      "PublishedAt": "2024-01-07T00:12:23Z",
+      "Content": "\"I shall expect a chemical cure for psychopathic behavior by 10 A.M. tomorrow,\r\nor I'll have your guts for spaghetti.\"\r\n-- a comic panel by Cotham"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/samuel-l-jackson-header.png?resize=1200,630",
       "PublishedAt": "2024-01-05T19:51:47Z",
       "Content": "Samuel L. Jackson has joined the cast of the upcoming Peacock limited true crime series Fight Night: The Million Dollar Heist.\r\nVariety has reported that the iconic actor who has appeared in massive … [+1087 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "Cruella 2: Emma Stone provides latest update on the Disney villain and the movie",
-      "Description": "Emma Stone, an Academy Award-winning actress, shared a highly anticipated update on the progress of \"Cruella 2,\" the sequel to the 2021 prequel exploring the formative years of the notorious Disney antagonist Cruella de Vil.",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/cruella-2-emma-stone-provides-latest-update-on-the-disney-villain-and-the-movie/articleshow/106583091.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-106583427,width-1200,height-630,imgsize-126126,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2024-01-05T19:38:23Z",
-      "Content": "In a recent interview with Variety, Academy Award winner Emma Stone provided an eagerly awaited update on the development of Cruella 2, the sequel to the 2021 prequel that delves into the early years… [+2595 chars]"
     }
   ]
 }
