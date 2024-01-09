@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 869,
+  "TotalResults": 870,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Jessica Rojas Ch.",
+      "Title": "‘Stranger Things’ ya comenzó el rodaje de su quinta y última temporada",
+      "Description": "La producción de 'Stranger Things' publicó una alerta especial para los seguidores de la serie de Netflix",
+      "Url": "https://www.nacion.com/teleguia/series-peliculas/stranger-things-ya-comenzo-el-rodaje-de-su-quinta/XA5SDY2VVBDWFAYLG2Q25BV4HM/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/bYuMyVCSivCO5TzRJ6V09xPapDE=/1440x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/4XKJGOPOHBFYNPLY4HKS25C65E.png",
+      "PublishedAt": "2024-01-08T22:04:32Z",
+      "Content": "¡Atención fans de Stranger Things! La quinta y última temporada de la aclamada serie ya inició con su rodaje. Con un posteo en Instagram se confirmó que los amigos de Hawkins volvieron al set de grab… [+931 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/84da9b78-e8e0-42c6-995a-f2b3d809d1ae_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-01-08T14:43:12Z",
       "Content": "Mediaset España inicia 2024 enfocada en instaurar una nueva etapa a nivel industrial, eliminando vetos y reactivando lazos con productoras con las que había dejado de trabajar o no había llegado a ha… [+2441 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eurogamer.es"
-      },
-      "Author": "Paula García",
-      "Title": "La serie de The Last of Us de HBO gana ocho Emmys",
-      "Description": "La adaptación televisiva de The Last of Us producida por HBO ha ganado ocho premios Emmy.\n\nComo probablemente ya sabréis, la serie se estrenó el pasado enero y está basada en el primer juego de la saga postapocalíptica de Naughty Dog. Ha ganado premios por ed…",
-      "Url": "https://www.eurogamer.es/la-serie-de-the-last-of-us-de-hbo-gana-ocho-emmys",
-      "UrlToImage": "https://assetsio.reedpopcdn.com/Bill-frank-the-last-of-us-hbo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "PublishedAt": "2024-01-08T14:11:23Z",
-      "Content": "La adaptación televisiva de The Last of Us producida por HBO ha ganado ocho premios Emmy.\r\nComo probablemente ya sabréis, la serie se estrenó el pasado enero y está basada en el primer juego de la sa… [+1579 chars]"
     }
   ]
 }
