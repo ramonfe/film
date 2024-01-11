@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 839,
+  "TotalResults": 840,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "AP",
+      "Title": "Muere Adan Canto, actor mexicano de X-Men y Narcos, a los 42 años",
+      "Description": "Adan Canto, el cantante y actor mexicano conocido por sus papeles en 'X-Men: Días futuros' y 'Agent Game', así como por la serie de televisión 'The...",
+      "Url": "https://www.elmundo.es/cultura/cine/2024/01/10/659e3b4ce4d4d8b1358b45a2.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/9b955584540bce2ff4ec6727d0ff0b05/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/10/17048683187682.jpg",
+      "PublishedAt": "2024-01-10T06:39:44Z",
+      "Content": "Adan Canto, el cantante y actor mexicano conocido por sus papeles en 'X-Men: Días futuros' y 'Agent Game', así como por la serie de televisión 'The Cleaning Lady'. falleció a los 42 años. Su publicis… [+2410 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/875922609e3fd698ee4198cb9d9faca3/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/09/17048150734727.jpg",
       "PublishedAt": "2024-01-09T15:48:08Z",
       "Content": "Antonio Resines volverá a la pequeña pantalla con Serrines, madera de actor. La serie, creada por Ángel Cañas y David Cavanilles, se estrenará en Amazon Prime Video el viernes 12 de enero.\r\n\"Serrines… [+2337 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "VÍDEO: Brie Larson (Capitana Marvel) llora al conocer a Jennifer López",
-      "Description": "Ni siquiera la superheroína más poderosa de todo el Universo Marvel es capaz de contener las lágrimas de emoción de conocer a sus ídolos. Esto fue lo que le pasó a Brie Larson, la actriz que encarna a Carol Danvers en el cine, al encontrarse por primera vez c…",
-      "Url": "https://www.culturaocio.com/cine/noticia-video-brie-larson-capitana-marvel-llora-conocer-jennifer-lopez-20240109164505.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240109164505_1200.jpg",
-      "PublishedAt": "2024-01-09T15:45:05Z",
-      "Content": "MADRID, 9 Ene. (CulturaOcio) - \r\n   Ni siquiera la superheroína más poderosa de todo el Universo Marvel es capaz de contener las lágrimas de emoción de conocer a sus ídolos. Esto fue lo que le pasó a… [+1548 chars]"
     }
   ]
 }
