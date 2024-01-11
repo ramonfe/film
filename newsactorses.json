@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 840,
+  "TotalResults": 841,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Sofía Barruti",
+      "Title": "Estrella de la serie 'Fauda' de Netflix gravemente herida durante combates en Gaza",
+      "Description": "Un importante actor israelí, mejor conocido por su papel de soldado de las fuerzas especiales en la exitosa serie de Netflix \"Fauda\", resultó gravemente herido en Gaza mientras luchaba para el ejército de Israel contra Hamas, según su familia y el hospital do…",
+      "Url": "https://cnnespanol.cnn.com/2024/01/10/estrella-serie-fauda-netflix-gravemente-herida-combates-gaza-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/01/amedi-netflix-fauda.jpeg?quality=100&strip=info",
+      "PublishedAt": "2024-01-10T07:25:53Z",
+      "Content": "Netflix le apuesta a la serie israelí \"Fauda\" 2:12\r\n(CNN) --  Un importante actor israelí, mejor conocido por su papel de soldado de las fuerzas especiales en la exitosa serie de Netflix \"Fauda\", res… [+2893 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/c87c1ffa-231a-4711-b416-815e4fb7ef06_facebook-aspect-ratio_default_1087639.jpg",
       "PublishedAt": "2024-01-09T16:19:27Z",
       "Content": "En el mundo del cine, la televisión y los medios de comunicación en España se habla de “acento castellano neutro”. Un concepto muy discutible y nada inofensivo.\r\nRecreación de un anuncio de casting d… [+7471 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "TRESB",
-      "Title": "Tráiler y fecha de estreno de Serrines, madera de actor, la nueva serie de Antonio Resines en Amazon Prime",
-      "Description": "Antonio Resines volverá a la pequeña pantalla con Serrines, madera de actor. La serie, creada por Ángel Cañas y David Cavanilles, se estrenará en Amazon Prime Video el viernes...",
-      "Url": "https://www.elmundo.es/television/series/2024/01/09/659d6405e4d4d8b65e8b458a.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/875922609e3fd698ee4198cb9d9faca3/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/09/17048150734727.jpg",
-      "PublishedAt": "2024-01-09T15:48:08Z",
-      "Content": "Antonio Resines volverá a la pequeña pantalla con Serrines, madera de actor. La serie, creada por Ángel Cañas y David Cavanilles, se estrenará en Amazon Prime Video el viernes 12 de enero.\r\n\"Serrines… [+2337 chars]"
     }
   ]
 }
