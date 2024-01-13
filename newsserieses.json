@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 999,
+  "TotalResults": 1000,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Marcos Méndez",
+      "Title": "Verónica Sánchez será 'La favorita 1922' de Telecinco, en su regreso a la cadena 18 años después de 'Los Serrano'",
+      "Description": "Mediaset acelera en la preparación de su nueva serie. Según ha sabido verTele, la actriz Verónica Sánchez será la protagonista de La favorita 1922, la nueva ficción a cargo de Bambú Producciones que ya ha sido aprobada por el grupo para Telecinco. Como tambié…",
+      "Url": "https://www.eldiario.es/vertele/noticias/exclusiva-veronica-sanchez-la-favorita-1922-telecinco-protagonista-nueva-serie-regreso-cadena-18-anos-despues-los-serrano_1_10829326.html",
+      "UrlToImage": "https://static.eldiario.es/clip/8dc40162-8639-4866-99d9-ece0ab354d65_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-01-12T07:00:25Z",
+      "Content": "Mediaset acelera en la preparación de su nueva serie. Según ha sabido verTele, la actriz Verónica Sánchez será la protagonista de La favorita 1922, la nueva ficción a cargo de Bambú Producciones que … [+3063 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/8ccbb2/nolan-scorsese-gerwig-jenkins-cinemas-letter/840_560.jpeg",
       "PublishedAt": "2024-01-11T13:31:25Z",
       "Content": "El Sindicato de Directores de América (DGA) ha anunciado sus nominaciones cinematográficas para los Premios DGA 2024. Entre los nominados a la principal categoría figuran Martin Scorsese por 'Los ase… [+3282 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Estrella Gomez",
-      "Title": "Julia, el drama de HBO Max, se cancela tras dos temporadas",
-      "Description": "Menos de un mes después del final de la segunda temporada\nA pesar de su éxito, HBO Max ha decidido no seguir adelante con la serie Julia tras estrenar dos temporadas",
-      "Url": "https://es.ign.com/julia/198212/news/julia-el-drama-de-hbo-max-se-cancela-tras-dos-temporadas",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/news/j/julia-canc/julia-cancelled-at-max-after-two-seasons_a8tn.1200.jpg",
-      "PublishedAt": "2024-01-11T12:45:20Z",
-      "Content": "HBO Max ha cancelado la serie Julia, inspirada en Julia Child, tras el éxito de crítica de sus dos temporadas. La segunda concluyó el pasado mes de diciembre.\r\nSegún informa Variety, la compañía ha d… [+1760 chars]"
     }
   ]
 }
