@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1041,
+  "TotalResults": 1042,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Milagros Amondaray",
+      "Title": "Jodie Foster: la anomalía que la sorprende, el personaje que estaba esperando y la vertiginosa decisión que tomó a los 60 años",
+      "Description": "A los 61 años, la actriz regresa con un rol de alto perfil en la cuarta temporada de True Detective que se estrena este domingo por HBO; en diálogo con LA NACION, la intérprete explicó por qué aceptó el proyecto, los cambios en la industria y la misoginia de …",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/jodie-foster-la-anomalia-que-la-tomo-por-sorpresa-el-personaje-que-estaba-esperando-y-la-vertiginosa-nid13012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-actriz-vuelve-al-ruedo-con-la-cuarta-temporada-SJAYG3WCXFF4LGN2CGFVSLYF6M.JPG?auth=e0aa59c026ca7eaeaf772be7beb35440947bd77c42a99092af2124b7e48bd047&width=1920&height=1507&quality=70&smart=true",
+      "PublishedAt": "2024-01-13T03:01:00Z",
+      "Content": "A Jodie Foster ya no le preocupan las garantías. Con 50 años de carrera en su haber, la actriz reconoce que su objetivo actual no es necesariamente ser la cara visible de una ficción sino una pieza m… [+12249 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/01/dina-the-last-of-us-2.png?width=1200",
       "PublishedAt": "2024-01-12T11:14:11Z",
       "Content": "Isabela Merced interpretará el personaje de Dina en The Last of Us II\r\nParece que las confirmaciones para la nueva temporada de The Last of Us van una detrás de otra. Si hace tan solo unos días ponía… [+2533 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "TRESB",
-      "Title": "The Last of Us: Quién es Isabela Merced, la actriz peruana que hará de Dina en la temporada 2",
-      "Description": "HBO Max ha anunciado a principios de enero de 2024 varios fichajes para la segunda temporada de la serie The Last of Us, cuyo rodaje tendrá lugar en Vancouver (Canadá). Uno de...",
-      "Url": "https://www.elmundo.es/television/series/2024/01/12/65a11e50e9cf4a416f8b45cd.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/446895c57b821075a59c301e30612d87/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/12/17050575756035.jpg",
-      "PublishedAt": "2024-01-12T11:13:50Z",
-      "Content": "HBO Max ha anunciado a principios de enero de 2024 varios fichajes para la segunda temporada de la serie The Last of Us, cuyo rodaje tendrá lugar en Vancouver (Canadá). Uno de ellos es el de Isabela … [+1559 chars]"
     }
   ]
 }
