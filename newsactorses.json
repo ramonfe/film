@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 894,
+  "TotalResults": 895,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "El actor Bill Hayes murió a los 98 años: de sus días como piloto de guerra a su papel en una de la telenovelas más famosas de la NBC",
+      "Description": "Fue uno de los actores que durante más de una década participó en la serie Days Of Our Lives; se casó con Susan Seaforth, en la pantalla y en la vida real",
+      "Url": "https://www.lanacion.com.ar/espectaculos/musica/el-actor-bill-hayes-murio-a-los-98-anos-de-sus-dias-como-piloto-de-guerra-a-su-papel-en-una-de-la-nid13012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/bill-hayes-encarno-durante-decadas-uno-de-los-3VPSFZG3Y5EEXKHTJJMIVIGGCM.JPG?auth=e79a40d94fc8bba6db86f807bb120a94c386a1c233ed0351222427541976f481&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-13T20:08:17Z",
+      "Content": "Bill Hayes, estrella de la telenovela de NBCDays of Our Lives, murió este viernes a los 98 años, informó el sitio del espectáculo Variety. Hayes interpretó el personaje de Doug Williams en esta serie… [+3907 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240112182849_1200.jpg",
       "PublishedAt": "2024-01-12T17:28:49Z",
       "Content": "MADRID, 12 Ene. (CulturaOcio) - \r\n   El actor surcoreano Lee Sun Kyun, conocido por su papel en la multioscarizada cinta Parásitos,fue hallado sin vida el pasado 27 de diciembre en un automóvil. Sema… [+3086 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hipertextual"
-      },
-      "Author": "Gonzalo Franco",
-      "Title": "Un actor de ‘Stranger Things’ confirma que no volverá en la temporada 5: «Nunca me llamaron»",
-      "Description": "El rodaje de la quinta temporada de Stranger Things ya está en marcha. Netflix ha vuelto a meter toda la carne en el asador con su serie más aclamada y exitosa. Una nueva entrega que, además, será la última, pues la serie concluirá con esta tanda de episodios…",
-      "Url": "http://hipertextual.com/2024/01/actor-stranger-things-confirma-no-volvera-temporada-5",
-      "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/01/Stranger-Thigs-scaled.jpg",
-      "PublishedAt": "2024-01-12T16:47:59Z",
-      "Content": "El rodaje de la quinta temporada de Stranger Things ya está en marcha. Netflix ha vuelto a meter toda la carne en el asador con su serie más aclamada y exitosa. Una nueva entrega que, además, será la… [+3025 chars]"
     }
   ]
 }
