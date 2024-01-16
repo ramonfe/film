@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 876,
+  "TotalResults": 877,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Los Critics Choice Awards encumbran a 'Oppenheimer', 'Barbie', 'The Bear' y 'Succession': listado completo de ganadores",
+      "Description": "La Asociación de la Crítica Cinematográfica de los EE.UU. ha celebrado su gala anual de premios, conocida como Critics Choice Awards, este domingo (lunes en horario español). La 29 edición de estos premios, concedido por sus 250 miembros de la crítica audiovi…",
+      "Url": "https://www.abc.es/play/cine/critics-choice-awards-encumbran-oppenheimer-barbie-the-20240115071650-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/01/15/2024-01-15T034144Z_1909703261_RC22I5A7TQHN_RTRMADP_3_AWARDS-CRITICS-CHOICE-kmRG--1024x512@abc.JPG",
+      "PublishedAt": "2024-01-15T06:16:50Z",
+      "Content": "La Asociación de la Crítica Cinematográfica de los EE.UU. ha celebrado su gala anual de premios, conocida como Critics Choice Awards, este domingo (lunes en horario español). La 29 edición de estos p… [+118 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/01/true-detective-serie.jpg?width=1200",
       "PublishedAt": "2024-01-13T12:01:44Z",
       "Content": "No podrás parar hasta terminarte esta serie\r\nLas series de detectives suelen ser uno de los géneros con más experiencia tanto en la gran como en la pequeña pantalla. Normalmente ofrecen un nivel de c… [+3129 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Adele Ankers-Range",
-      "Title": "Dwayne 'The Rock' Johnson quiere dedicarse al cine dramático",
-      "Description": "El actor protagoniza la próxima película de A24 Benny Safdie\nDwayne \"The Rock\" Johnson ha expresado su deseo de interpretar papeles más dramáticos, afirmando que le gustaría protagonizar películas que exploren \"la lucha y el dolor\". La próxima película de A24…",
-      "Url": "https://es.ign.com/the-smashing-machine/198001/news/dwayne-the-rock-johnson-quiere-dedicarse-al-cine-dramatico",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/news/d/dwayne-the/dwayne-the-rock-johnson-wants-to-be-a-dramatic-actor_ym87.1200.jpg",
-      "PublishedAt": "2024-01-13T12:00:30Z",
-      "Content": "Dwayne \"The Rock\" Johnson ha expresado su deseo de interpretar papeles más dramáticos, afirmando que le gustaría protagonizar películas que exploren \"la lucha y el dolor\".\r\nLa próxima película de A24… [+1735 chars]"
     }
   ]
 }
