@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1077,
+  "TotalResults": 1078,
   "Articles": [
     {
       "Source": {
@@ -370,6 +370,19 @@
     {
       "Source": {
         "Id": null,
+        "Name": "Cisa.gov"
+      },
+      "Author": "CISA",
+      "Title": "Vulnerability Summary for the Week of January 8, 2024",
+      "Description": "&#xA0;\n\nHigh Vulnerabilities\r\n\n<table><tr><th>Primary\nVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source & Patch Info</th>\n</tr>\r\n<tr><td>abocms -- abo.cms</td>\n<td>SQL Injection vulnerability in ABO.CMS v.5.9.3, all…",
+      "Url": "https://www.cisa.gov/news-events/bulletins/sb24-017",
+      "UrlToImage": null,
+      "PublishedAt": "2024-01-16T11:53:23Z",
+      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1127 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
         "Name": "Zacjohnson.com"
       },
       "Author": "Zac Johnson",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/645-cast-net-worth.jpg",
       "PublishedAt": "2024-01-16T11:51:58Z",
       "Content": "The cast of the movie 6/45 is filled with talented actors who have achieved significant wealth through their successful careers in the entertainment industry. The net worth of these cast members refl… [+14669 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "AppleInsider"
-      },
-      "Author": "news@appleinsider.com (William Gallagher)",
-      "Title": "'Black Bird' scores Apple TV+ it's sole major Emmy award",
-      "Description": "Despite greater success in the children's and creative Emmy awards, Apple TV+ took home a single trophy from the main ceremony.Paul Walter Hauser in \"Black Bird\" (Source: Apple)The Emmy Awards are divided into categories that really mean the ceremony can conc…",
-      "Url": "https://appleinsider.com/articles/24/01/16/black-bird-scores-apple-tv-its-sole-major-emmy-award",
-      "UrlToImage": "https://photos5.appleinsider.com/gallery/58124-118449-000-lead-Paul-Walter-Hauser-xl.jpg",
-      "PublishedAt": "2024-01-16T11:27:20Z",
-      "Content": "Paul Walter Hauser in \"Black Bird\" (Source: Apple)\r\nDespite greater success in the children's and creative Emmy awards, Apple TV+ took home a single trophy from the main ceremony.\r\nThe Emmy Awards ar… [+853 chars]"
     }
   ]
 }
