@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 870,
+  "TotalResults": 871,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Sofía Barruti",
+      "Title": "Quinta Brunson es la primera mujer negra en ganar el Emmy a la mejor actriz de comedia en más de 40 años",
+      "Description": "Quinta Brunson se llevó a casa un Emmy este lunes a la mejor actriz en una serie de comedia, convirtiéndose en la primera actriz negra en ganar la categoría desde 1981, cuando ganó la estrella de “The Jeffersons”, Isabel Sanford.",
+      "Url": "https://cnnespanol.cnn.com/2024/01/16/quinta-brunson-primera-mujer-negra-ganar-emmy-mejor-actriz-de-comedia-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/01/mujer-negra-emmy.jpg?quality=100&strip=info",
+      "PublishedAt": "2024-01-16T05:28:50Z",
+      "Content": "Así define Ojo Crítico el final de Succession 1:19\r\n(CNN) --  Quinta Brunson se llevó a casa un Emmy este lunes a la mejor actriz en una serie de comedia, convirtiéndose en la primera actriz negra en… [+1370 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/65a11a57c26162bb0b8c20c4/16:9/w_1280,c_limit/25th_Anniversary_TheSopranos_011024_MC_001018.JPG",
       "PublishedAt": "2024-01-15T13:26:31Z",
       "Content": "Cuando le planteé una pregunta similar al creador de la serie, David Chase, me dijo que esa reunión lo era todo para él: \"Ver a todos juntos de nuevo, ya sabes, probablemente por última vez\". Le preg… [+1978 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Si eres fan de One Piece, esta es la serie animada de Netflix que deberás ver sí o sí",
-      "Description": "El éxito de One Piece no ha hecho más que traer alegrías a los fans de este anime japonés, y es que los buenos resultados de la adaptación en acción real de la historia creada por Eiichiro Oda han hecho que la plataforma continúe con su apuesta por la animaci…",
-      "Url": "https://www.revistagq.com/articulo/one-piece-eiichiro-oda-monsters-el-infierno-del-dragon-netflix",
-      "UrlToImage": "https://media.revistagq.com/photos/65a531560c9d6fe3b4f5709b/16:9/w_1280,c_limit/one-piece-oda-monsters-anime.jpeg",
-      "PublishedAt": "2024-01-15T13:24:52Z",
-      "Content": "El éxito de One Piece no ha hecho más que traer alegrías a los fans de este anime japonés, y es que los buenos resultados de la adaptación en acción real de la historia creada por Eiichiro Oda han he… [+1586 chars]"
     }
   ]
 }
