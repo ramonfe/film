@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1079,
+  "TotalResults": 1071,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Ryan Gosling Explains Why He Hasn't Shown His Kids 'Barbie' Yet",
+      "Description": "Ryan Gosling isn’t ready to show his kids Barbie just yet. While the 43-year-old actor got into actor as Ken with the help of longtime partner Eva Mendes and their two daughters Esmerelda, 9, and Amada, 7, Ryan is explaining why he hasn’t let his kids watch t…",
+      "Url": "https://www.justjared.com/2024/01/16/ryan-gosling-explains-why-he-hasnt-shown-his-kids-barbie-yet/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/01/gosling-kids-barbie.jpg",
+      "PublishedAt": "2024-01-17T02:35:31Z",
+      "Content": "Ryan Gosling isn’t ready to show his kids Barbie just yet.\r\nWhile the 43-year-old actor got into actor as Ken with the help of longtime partner Eva Mendes and their two daughters Esmerelda, 9, and Am… [+1150 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Untitled-design-2024-01-16T164522.753.jpg?resize=1200,630",
       "PublishedAt": "2024-01-16T12:00:06Z",
       "Content": "Lee Dong-Wook is a popular South Korean actor famous for his performances in many highly rated and critically acclaimed movies and K-dramas. He has played a variety of roles, experimenting with his s… [+3733 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cisa.gov"
-      },
-      "Author": "CISA",
-      "Title": "Vulnerability Summary for the Week of January 8, 2024",
-      "Description": "&#xA0;\n\nHigh Vulnerabilities\r\n\n<table><tr><th>Primary\nVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source & Patch Info</th>\n</tr>\r\n<tr><td>abocms -- abo.cms</td>\n<td>SQL Injection vulnerability in ABO.CMS v.5.9.3, all…",
-      "Url": "https://www.cisa.gov/news-events/bulletins/sb24-017",
-      "UrlToImage": null,
-      "PublishedAt": "2024-01-16T11:53:23Z",
-      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1127 chars]"
     }
   ]
 }

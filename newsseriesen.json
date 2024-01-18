@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 260,
+  "TotalResults": 261,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Anubhav Chaudhry",
+      "Title": "Will There Be a Killer Soup Season 2 Release Date & Is It Coming Out?",
+      "Description": "Killer Soup is a thrilling Indian Netflix series that takes the audience into the twisted world of Swathi and Umesh. The show explores themes of ambition, betrayal, and murder as it follows Swathi’s audacious con and her efforts to open a restaurant despite h…",
+      "Url": "https://www.comingsoon.net/guides/news/1490379-will-there-be-a-killer-soup-season-2-release-date-is-it-coming-out",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/MixCollage-17-Jan-2024-08-00-AM-797.jpg?resize=1200,630",
+      "PublishedAt": "2024-01-17T02:32:10Z",
+      "Content": "Killer Soup is a thrilling Indian Netflix series that takes the audience into the twisted world of Swathi and Umesh. The show explores themes of ambition, betrayal, and murder as it follows Swathis a… [+2605 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Worst-Cooks-in-America-Season-11.jpg?resize=1200,630",
       "PublishedAt": "2024-01-15T05:42:31Z",
       "Content": "Worst Cooks in America Season 11 is a reality cooking competition show that continues to bring together a group of contestants who are severely lacking in cooking skills. We get to witness their tran… [+3225 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.3.0b3",
-      "Description": "2023.3.0b3\n\n January 15, 2024\n \n unityhub://2023.3.0b3/205c101ad8b5\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2C…",
-      "Url": "https://unity.com/releases/editor/beta/2023.3.0b3",
-      "UrlToImage": null,
-      "PublishedAt": "2024-01-15T05:07:54Z",
-      "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an issue where a GameOb… [+169689 chars]"
     }
   ]
 }
