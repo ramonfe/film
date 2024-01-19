@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 931,
+  "TotalResults": 932,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "BBC Mundo",
+      "Title": "Quién era Griselda Blanco, la reina de la cocaína a la que da vida Sofía Vergara en la nueva serie de Netflix",
+      "Description": "Se convirtió en uno de los nombres más temidos en el Miami de los años 70 y 80; ahora, la reconocida narcotraficante recibe el tratamiento de Hollywood, con la unión de la actriz colombiana de Modern Family y del equipo detrás de la serie Narcos",
+      "Url": "https://www.lanacion.com.ar/el-mundo/quien-era-griselda-blanco-la-reina-de-la-cocaina-a-la-que-da-vida-sofia-vergara-en-la-nueva-serie-de-nid18012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/sofia-vergara-interpreta-a-griselda-blanco-en-la-OWDY7MIZ3JA2TB436DGJGSYG44.jpg?auth=6eb60f502be8f8f1e519bea63b6334afebf17b19a545c741f9b339428c1d8bef&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-18T05:11:01Z",
+      "Content": "Al único hombre al que le he tenido miedo es una mujer llamada Griselda Blanco, es una frase que algunos atribuyen al narcotraficante colombiano Pablo Escobar refiriéndose a la persona que creó uno d… [+7447 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/84799d98-b94b-4e0b-addd-95bc54e734d4_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-01-17T10:38:42Z",
       "Content": "Jorge Javier Vázquezse ha hecho eco esta semana de la información publicada en algunos medios que apuntaba a un supuesto veto hacia Belén Estebandentro de RTVE después de que su nombre sonase como un… [+5325 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Alejandro Cañete",
-      "Title": "Tatiana Maslany no cree que vaya a haber una segunda temporada de 'She-Hulk: Abogada Hulka'",
-      "Description": "HULKA AL PARO La actriz ha explicado en una entrevista los motivos por los que piensa que la serie de Marvel no tendrá otra temporada.Tatiana Maslany no cree que vaya a haber una segunda temporada de 'She-Hulk: Abogada Hulka'",
-      "Url": "https://www.ecartelera.com/noticias/tatiana-maslany-no-cree-temporada-2-she-hulk-75966/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/75900/75966-h2.jpg",
-      "PublishedAt": "2024-01-17T10:24:00Z",
-      "Content": "Tatiana Maslany, la protagonista de 'She-Hulk: Abogada Hulka', no tiene claro que la serie vaya a tener una segunda temporada. En una reciente entrevista en una stream de Twitch a través de Codenames… [+2100 chars]"
     }
   ]
 }
