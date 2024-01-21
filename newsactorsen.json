@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1161,
+  "TotalResults": 1120,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "NPR",
+      "Title": "'Wait Wait' for January 20, 2024: With Not My Job guest David Oyelowo",
+      "Description": "David Oyelowo is a celebrated actor who's played everything from Old West lawmen to MLK. His newest movie is called <em>Role Play, </em>but what does he know about Roll Play, or games played by rolling balls?",
+      "Url": "https://www.npr.org/2024/01/20/1225685288/wait-wait-for-january-20-2024-with-not-my-job-guest-david-oyelowo",
+      "UrlToImage": "https://media.npr.org/assets/img/2024/01/19/gettyimages-474269955_wide-d6febdb43b5c301a06e49cecab7cb40c5cdb955d-s1400-c100.jpg",
+      "PublishedAt": "2024-01-20T14:38:00Z",
+      "Content": "This week's show was recorded at the Studebaker Theater in Chicago, with host Peter Sagal, judge and scorekeeper Bill Kurtis, Not My Job guest David Oyelowo and panelists Tom Bodett, Faith Salie and … [+1022 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
       "PublishedAt": "2024-01-19T19:42:02Z",
       "Content": "A grand jury has indicted actor Alec Baldwin in connection with a 2021 fatal shooting on a movie set in New Mexico\r\nJanuary 19, 2024, 2:23 PM\r\nSANTA FE, N.M. -- A grand jury has indicted actor Alec B… [+76 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Independent.ie"
-      },
-      "Author": "Morgan Lee",
-      "Title": "Alec Baldwin facing manslaughter charge again over fatal shooting of cinematographer on Rust movie set",
-      "Description": "A grand jury indicted Alec Baldwin on Friday on an involuntary manslaughter charge in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case against the A-list actor.",
-      "Url": "https://www.independent.ie/entertainment/alec-baldwin-facing-manslaughter-charge-again-over-fatal-shooting-of-cinematographer-on-rust-movie-set/a714288205.html",
-      "UrlToImage": "https://focus.independent.ie/thumbor/NOYCGI77WIhk1ozK0l-YLk_6Gjg=/0x0:960x640/960x640/prod-mh-ireland/8204bed3-94da-47d2-abad-049403ec7480/cf7ce388-89d0-4653-9be2-6cef6896f80b/8204bed3-94da-47d2-abad-049403ec7480.jpg",
-      "PublishedAt": "2024-01-19T19:39:32Z",
-      "Content": "A grand jury indicted Alec Baldwin on Friday on an involuntary manslaughter charge in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case against the A-list… [+3360 chars]"
     }
   ]
 }
