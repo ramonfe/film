@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1122,
+  "TotalResults": 1123,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Saoirse Ronan Debuts New Movie 'The Outrun' at Sundance Film Festival 2024",
+      "Description": "Saoirse Ronan is stepping out to promote her new movie. The 29-year-old four-time Oscar-nominated actress attended the premiere of her new movie The Outrun during the 2024 Sundance Film Festival on Friday evening (January 19) at the Library Center Theatre in …",
+      "Url": "https://www.justjared.com/2024/01/20/saoirse-ronan-debuts-new-movie-the-outrun-at-sundance-film-festival-2024/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/01/saoirse-sundance.jpg",
+      "PublishedAt": "2024-01-20T16:58:29Z",
+      "Content": "Saoirse Ronan is stepping out to promote her new movie.\r\nThe 29-year-old four-time Oscar-nominated actress attended the premiere of her new movie The Outrun during the 2024 Sundance Film Festival on … [+793 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.mediaite.com/wp-content/uploads/2022/08/Alec-Baldwin-ABC.jpg",
       "PublishedAt": "2024-01-19T19:49:55Z",
       "Content": "Actor Alec Baldwin has been indicted on involuntary manslaughter charges for the deadly shooting on the set of the movie Rust.\r\nCNN’s Josh Campbell reported:\r\nAlec Baldwin now criminally charged, onc… [+788 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-jerusalem-post",
-        "Name": "The Jerusalem Post"
-      },
-      "Author": "BY REUTERS",
-      "Title": "Alec Baldwin again charged with manslaughter in 'Rust' movie-set shooting",
-      "Description": "Actor Alec Baldwin was indicted by a grand jury in New Mexico on Friday on new charges of involuntary manslaug",
-      "Url": "https://www.jpost.com/breaking-news/article-782929",
-      "UrlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/534687",
-      "PublishedAt": "2024-01-19T19:45:21Z",
-      "Content": "Actor Alec Baldwin was indicted by a grand jury in New Mexico on Friday on new charges of involuntary manslaughter stemming from the shooting death of cinematographer Halyna Hutchins on the movie set… [+382 chars]"
     }
   ]
 }
