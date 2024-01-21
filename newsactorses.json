@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 975,
+  "TotalResults": 976,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Paula Vázquez Prieto",
+      "Title": "Glen Powell, el nuevo galán de Hollywood que no teme reírse de sí mismo o de los demás",
+      "Description": "Villano o héroe, romántico o ridículo, el actor texano ha demostrado su versatilidad en pantalla tanto en cine como en TV; tras su rol de contrafigura de Tom Cruise en Top Gun: Maverick, ahora se prueba el traje de “salvador de la comedia romántica” en Con to…",
+      "Url": "https://www.lanacion.com.ar/espectaculos/glen-powell-el-nuevo-galan-de-hollywood-que-no-teme-reirse-de-si-mismo-o-de-los-demas-nid20012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/glen-powell-quiere-salvar-la-comedia-DIOSOPPLURD7PKZZZY7PEJTBRU.jpg?auth=6948be8b4d4ed8870976dcb92e0b1fd65513f1f30fa650e8df8c286eb713e548&width=768&height=433&quality=70&smart=false&focal=589,181",
+      "PublishedAt": "2024-01-20T03:05:05Z",
+      "Content": "Quizás la imagen que surge de inmediato ante la mención del nombre de Glen Powell sea el rostro del engreído presidente de un club de golfistas que oficiaba de novio del personaje de Emma Roberts en … [+10315 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.ecestaticos.com/-Qg53isDge0L9HZV6-VXCKExNY4=/0x0:1502x906/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/21a/433/072/21a43307205bcce0167c14dc9224cbe3.jpg",
       "PublishedAt": "2024-01-19T13:08:00Z",
       "Content": "Todo sobre Zorro, la serie de Miguel Bernardeau que podrá verse en TVE y Prime VideoNetflix va a cambiar su algoritmo al recomendarte pelis y series: así lo hará en el futuroParece que Selena Gomez h… [+3099 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Jodie Foster estuvo a punto de interpretar a tu personaje favorito de Star Wars",
-      "Description": "Jodie Foster no solo es una de las mejores actrices de Hollywood, también ha interpretado a personajes icónicos del cine como Clarice Starling en El silencio de los corderos, Sarah Tobias en Acusados, o Ellie Arroway en Contact entre otros.\r\n\nAhora bien, lo q…",
-      "Url": "https://www.revistagq.com/articulo/jodie-foster-princesa-leia-star-wars",
-      "UrlToImage": "https://media.revistagq.com/photos/65aa6f882bd92360c5bc26af/16:9/w_1280,c_limit/1933428559",
-      "PublishedAt": "2024-01-19T12:50:31Z",
-      "Content": "Jodie Foster no solo es una de las mejores actrices de Hollywood, también ha interpretado a personajes icónicos del cine como Clarice Starling en El silencio de los corderos, Sarah Tobias en Acusados… [+1912 chars]"
     }
   ]
 }
