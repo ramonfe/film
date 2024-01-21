@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1116,
+  "TotalResults": 1117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Daily Beast"
+      },
+      "Author": "Edith Olmsted",
+      "Title": "Ed O’Neill Regrets Bitter Feud with ‘Married With Children’ Co-Star",
+      "Description": "Ron Galella\r\nActor Ed O’Neill said that his rift with Married With Children co-star Amanda Bearse was caused by a dispute about a TV Guide cover. On the podcast of his former Modern Family co-star Jesse Tyler Ferguson, O’Neill explained that his longtime feud…",
+      "Url": "https://www.thedailybeast.com/ed-oneil-regrets-tv-guide-fiasco-that-caused-rift-with-married-with-children-co-star",
+      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_226/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1705783680/GettyImages-156080702_bhma8a",
+      "PublishedAt": "2024-01-20T20:53:19Z",
+      "Content": "Actor Ed ONeill said that his rift with Married With Children co-star Amanda Bearse was caused by a dispute about a TV Guide cover. \r\nOn the podcast of his former Modern Family co-star Jesse Tyler Fe… [+1064 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/b95f13e7d07ba30b/s.webp",
       "PublishedAt": "2024-01-19T20:02:29Z",
       "Content": "Actor Alec Baldwin has been indicted on involuntary manslaughter charges for the deadly shooting on the set of the movie Rust.Cinematographer Halyna Hutchins was shot and killed while preparing to fi… [+249 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "MORGAN LEE Associated Press",
-      "Title": "Grand jury indicts Alec Baldwin in fatal shooting of cinematographer on movie set in New Mexico",
-      "Description": "A grand jury indicted Alec Baldwin on an involuntary manslaughter charge Friday in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case against the A-list actor",
-      "Url": "https://abcnews.go.com/Entertainment/wireStory/grand-jury-indicts-alec-baldwin-fatal-shooting-cinematographer-106522573",
-      "UrlToImage": "https://i.abcnewsfe.com/a/e6adf614-9c3f-4a45-ba1e-7bf9a1bd7c39/wirestory_59e437602146168ced27fd8e03acb636_16x9.jpg?w=1600",
-      "PublishedAt": "2024-01-19T19:50:55Z",
-      "Content": "SANTA FE, N.M. -- A grand jury indicted Alec Baldwin on Friday on an involuntary manslaughter charge in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case … [+3848 chars]"
     }
   ]
 }
