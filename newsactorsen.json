@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1159,
+  "TotalResults": 1160,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "MORGAN LEE Associated Press",
+      "Title": "Grand jury indictment against Alec Baldwin opens two paths for prosecutors",
+      "Description": "Alec Baldwin once again is facing a felony involuntary manslaughter charge after a grand jury indicted the actor in connection with the fatal 2021 shooting of a cinematographer on the set of a Western movie in New Mexico",
+      "Url": "https://abcnews.go.com/US/wireStory/grand-jury-indictment-alec-baldwin-opens-paths-prosecutors-106534541",
+      "UrlToImage": "https://i.abcnewsfe.com/a/f6fb25dd-9148-4679-a5d6-ed31beb885a9/wirestory_866e52839780c1f6d75876298b191d91_16x9.jpg?w=1600",
+      "PublishedAt": "2024-01-20T06:38:31Z",
+      "Content": "SANTA FE, N.M. -- Alec Baldwin once again is staring down a felony involuntary manslaughter charge after a grand jury indicted the actor in connection with the fatal 2021 shooting of a cinematographe… [+4836 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.cbc.ca/1.6732427.1675201610!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/film-rust-shooting.JPG",
       "PublishedAt": "2024-01-19T19:38:30Z",
       "Content": "A grand jury indicted Alec Baldwin on an involuntary manslaughter charge Friday in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case against the A-list ac… [+416 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": null,
-      "Title": "Alec Baldwin indicted again in ‘Rust’ shooting",
-      "Description": "Actor Alec Baldwin has been indicted by a New Mexico grand jury on charges connected to the 2021 fatal shooting on the set of the movie Rust, the Santa Fe County, New Mexico, new court documents show.",
-      "Url": "https://www.cnn.com/2024/01/19/entertainment/alec-baldwin-rust-shooting/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231116104420-alec-baldwin-030623.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2024-01-19T19:36:55Z",
-      "Content": "Actor Alec Baldwin has been indicted by a New Mexico grand jury on charges connected to the 2021 fatal shooting on the set of the movie Rust, new court documents show.\r\nBaldwin is charged with two co… [+2700 chars]"
     }
   ]
 }
