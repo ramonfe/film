@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 976,
+  "TotalResults": 981,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Europapress.es"
+      },
+      "Author": null,
+      "Title": "Carolina Yuste protagoniza un corto sobre violencia de género en la España rural filmado en Brozas",
+      "Description": "La localidad cacereña de Brozas se ha convertido este fin de semana en un \"plató de cine\" donde la actriz extremeña Carolina Yuste protagonizará 'Happy Hour', cortometraje que narra un caso de violencia de género en un hospital de la España rural.",
+      "Url": "https://www.europapress.es/extremadura/noticia-carolina-yuste-protagoniza-corto-violencia-genero-espana-rural-filmado-brozas-20240120125451.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240120125451_1200.jpg",
+      "PublishedAt": "2024-01-20T11:54:51Z",
+      "Content": "BROZAS (CÁCERES), 20 Ene. (EUROPA PRESS) - \r\n   La localidad cacereña de Brozas se ha convertido este fin de semana en un \"plató de cine\" donde la actriz extremeña Carolina Yuste protagonizará 'Happy… [+3207 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Applesfera.com"
+      },
+      "Author": "Miguel López",
+      "Title": "Los 19 mejores sitios web para descargar fondos de pantalla para tu iPhone",
+      "Description": "El iPhone, para bien o para mal, es uno de los dispositivos que más consultamos en nuestro día a día. ¿Y qué es lo primero que vemos en él? Su fondo de pantalla. Por eso, y aunque Apple nos proporcione nuevos fondos con cada versión de iOS, la gran mayoría bu…",
+      "Url": "https://www.applesfera.com/nuevo/19-mejores-sitios-web-para-descargar-fondos-pantalla-para-tu-iphone",
+      "UrlToImage": "https://i.blogs.es/6d1494/captura-de-pantalla-2024-01-20-a-las-10.26.12/840_560.jpeg",
+      "PublishedAt": "2024-01-20T10:00:55Z",
+      "Content": "El iPhone, para bien o para mal, es uno de los dispositivos que más consultamos en nuestro día a día. ¿Y qué es lo primero que vemos en él? Su fondo de pantalla. Por eso, y aunque Apple nos proporcio… [+6362 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ecartelera.com"
+      },
+      "Author": "Jesús Agudo",
+      "Title": "'The Flight Attendant' ha sido cancelada tras dos temporadas",
+      "Description": "VUELO CANCELADO La serie protagonizada por Kaley Cuoco estrenó su segunda temporada en primavera de 2022. Cuoco estuvo nominada al Emmy a la mejor actriz en dos ocasiones por el papel de Cassie.'The Flight Attendant' ha sido cancelada tras dos temporadas",
+      "Url": "https://www.ecartelera.com/noticias/the-flight-attendant-cancelada-dos-temporadas-76002/",
+      "UrlToImage": "https://img.ecartelera.com/noticias/76000/76002-h2.jpg",
+      "PublishedAt": "2024-01-20T09:26:00Z",
+      "Content": "Vuelo cancelado y sin opción de reembolso. Max (en España todavía HBO Max) ha decidido cancelar 'The Flight Attendant', la serie protagonizada por Kaley Cuoco, tras solamente dos temporadas.\r\nLa razó… [+1048 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Susana Moscatel",
+      "Title": "Masters of The Air. Un drama histórico de altura",
+      "Description": "Cuando se junta Steven Spielberg (Amblin) con Tom Hanks y Gary Goetzman (Playtone) sabemos que vienen producciones muy ambiciosas, y eso es precisamente lo que veremos en los nueve capítulos de Masters of The Air, serie que se estrena el 26 de enero por Apple…",
+      "Url": "https://www.milenio.com/espectaculos/television/masters-of-the-air-serie-guerra-mundial",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/01/19/masters-of-the-air-serie.jpg",
+      "PublishedAt": "2024-01-20T08:37:47Z",
+      "Content": "Cuando se junta Steven Spielberg (Amblin) con Tom Hanks y Gary Goetzman (Playtone) sabemos que vienen producciones muy ambiciosas, y eso es precisamente lo que veremos en los nueve capítulos de Maste… [+6191 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Saúl González",
+      "Title": "Microsoft confirma que ha sido atacada por hackers, aunque usuarios y servicios como Xbox no están afectados",
+      "Description": "<!--cache-->Un grupo de ciberdelincuentes ruso logró tener acceso parcial a los sistemas de Microsoft, aunque por suerte el objetivo no era alterar servicios ni hacerse con información de los usuarios.<!--aa--->Las grandes empresas del mundo tecnológico en ge…",
+      "Url": "https://vandal.elespanol.com/noticia/1350768506/microsoft-confirma-que-ha-sido-atacada-por-hackers-aunque-usuarios-y-servicios-como-xbox-no-estan-afectados/",
+      "UrlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/1/1-2024/20/20241209214814_1.jpg",
+      "PublishedAt": "2024-01-20T08:33:00Z",
+      "Content": "Las grandes empresas del mundo tecnológico en general y de los videojuegos en particular suelen ser el objetivo de ataques de ciberdelincuentes que en la mayoría de las ocasiones buscan o bien hacers… [+2738 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -327,71 +392,6 @@
       "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/01/Selena-Gomez-Wizards-of-Waverly-Place.jpg",
       "PublishedAt": "2024-01-19T13:58:45Z",
       "Content": "Los Magos de Waverly Place, la popular serie de Disney Channel protagonizada por Selena Gomez, tendrá una secuela. Así lo ha confirmado la actriz y cantante estadounidense, quien además volverá a apa… [+1981 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Silvia Fernández",
-      "Title": "Top Gun 3 está en marcha: Tom Cruise interpretará al capitán Maverick una vez más",
-      "Description": "Top Gun, la cinta que propulsó a Tom Cruise al estrellato en el año 1986 y puso de moda las gafas Ray-Ban de tipo aviador, está trabajando en la tercera película de la franquicia. Después de una secuela, estrenada en 2022, que causó sensación y se posicionó c…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/top-gun-3-esta-en-marcha-tom-cruise-interpretara-al-capitan-maverick-una-vez-mas",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/01/tom-cruise-top-gun-maverick.png?width=1200",
-      "PublishedAt": "2024-01-19T13:51:18Z",
-      "Content": "Tom Cruise en la película 'Top Gun: Maverick'\r\nTop Gun, la cinta que propulsó a Tom Cruise al estrellato en el año 1986 y puso de moda las gafas Ray-Ban de tipo aviador, está trabajando en la tercera… [+2735 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'Los magos de Waverly Place' vuelve una década después a Disney Channel con una secuela producida por Selena Gómez",
-      "Description": "Vuelven Los magos de Waverly Place. Disney Branded Television ha ordenado el episodio piloto de la secuela, que tendrá como productores ejecutivos a dos de los protagonistas de la serie original: Selena Gomez y David Henrie, ha avanzado Deadline. La actriz pa…",
-      "Url": "https://www.eldiario.es/vertele/series/los-magos-waverly-place-vuelve-decada-despues-disney-channel-secuela-producida-selena-gomez_1_10851171.html",
-      "UrlToImage": "https://static.eldiario.es/clip/bd830330-cb70-4191-a474-2b1234405b3e_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-01-19T13:46:59Z",
-      "Content": "Vuelven Los magos de Waverly Place. Disney Branded Television ha ordenado el episodio piloto de la secuela, que tendrá como productores ejecutivos a dos de los protagonistas de la serie original: Sel… [+2207 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "Jodie Foster confirma que rechazó el papel más importante de su vida en 'Star Wars' por hacer una película Disney que todos hemos olvidado",
-      "Description": "En 1977, Jodie Foster estrenó 'El secreto del castillo', una película Disney que protagonizaba junto a David Niven y que, por muy fantasiosa que fuera, no ha pasado a la historia del cine. Eso sí, la actriz debe acordarse de ella cada día de su vida, porque f…",
-      "Url": "https://www.espinof.com/actores-y-actrices/jodie-foster-confirma-que-rechazo-papel-importante-su-vida-star-wars-hacer-pelicula-disney-que-todos-hemos-olvidado",
-      "UrlToImage": "https://i.blogs.es/84d399/mv5bndm0ngflztktzgq5nc00mjexltk5zjatmzqwnwe0mzy2ndvixkeyxkfqcgdeqxvynzq1njgzota-._v1_/840_560.jpeg",
-      "PublishedAt": "2024-01-19T13:32:01Z",
-      "Content": "En 1977, Jodie Foster estrenó 'El secreto del castillo', una película Disney que protagonizaba junto a David Niven y que, por muy fantasiosa que fuera, no ha pasado a la historia del cine. Eso sí, la… [+1222 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "A. Richart",
-      "Title": "Pablo Álvarez, de 'Salón de té La Moderna', trabajó con Rodolfo Sancho en otra serie",
-      "Description": "El joven actor madrileño de la serie de La 1 de TVE tiene nociones de dirección teatral y audiovisual, y ha estado presente en diversas series de televisión",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2024-01-19/salon-de-te-la-moderna-pablo-alvarez-raimundo-rodolfo-sancho_3739609/",
-      "UrlToImage": "https://images.ecestaticos.com/OyLkyTOgsJPmtEkGhMbysFxaitc=/0x0:1772x1181/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/d97/be1/409/d97be1409394ea4affa99908e5a8c5bb.jpg",
-      "PublishedAt": "2024-01-19T13:24:00Z",
-      "Content": "Jero Hernández se despide (forzosamente) de Saber y ganar, convertido en Doctor Honoris Causa: \"Esto es un sueño\"TVE recupera el programa Saber vivir, que regresa 4 años después a la mañana de La 1La… [+4408 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "A. Richart",
-      "Title": "Selena Gomez volverá a 'Los magos de Waverly Place', pero otro actor será el protagonista",
-      "Description": "La cantante, productora y actriz de 'Solo asesinatos en el edificio' regresa a la marca Disney en el \"revival\" de la serie de dos hermanos con poderes mágicos",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2024-01-19/selena-gomez-david-henrie-vuelven-magos-waverly-place_3814323/",
-      "UrlToImage": "https://images.ecestaticos.com/-Qg53isDge0L9HZV6-VXCKExNY4=/0x0:1502x906/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/21a/433/072/21a43307205bcce0167c14dc9224cbe3.jpg",
-      "PublishedAt": "2024-01-19T13:08:00Z",
-      "Content": "Todo sobre Zorro, la serie de Miguel Bernardeau que podrá verse en TVE y Prime VideoNetflix va a cambiar su algoritmo al recomendarte pelis y series: así lo hará en el futuroParece que Selena Gomez h… [+3099 chars]"
     }
   ]
 }

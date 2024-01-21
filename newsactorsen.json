@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1160,
+  "TotalResults": 1161,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Thepinknews.com"
+      },
+      "Author": "Emily Chudy",
+      "Title": "Five Jacob Elordi TV and movie roles that put him on the map",
+      "Description": "After *that* bathroom scene in Saltburn, everyone’s talking about stars Barry Keoghan and Jacob Elordi. But where did the actors get their starts? From a BAFTA nomination to hosting SNL, 26-year-old Australian actor Elordi is everywhere at the moment, but die…",
+      "Url": "https://www.thepinknews.com/2024/01/20/five-jacob-elordi-tv-and-movie-roles/",
+      "UrlToImage": "https://www.thepinknews.com/wp-content/uploads/2024/01/Jacob-Elordi.jpg",
+      "PublishedAt": "2024-01-20T10:17:33Z",
+      "Content": "After *that* bathroom scene in Saltburn, everyone’s talking about stars Barry Keoghan and Jacob Elordi. But where did the actors get their starts?\r\nFrom a BAFTA nomination to hosting SNL, 26-year-old… [+4062 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://focus.independent.ie/thumbor/NOYCGI77WIhk1ozK0l-YLk_6Gjg=/0x0:960x640/960x640/prod-mh-ireland/8204bed3-94da-47d2-abad-049403ec7480/cf7ce388-89d0-4653-9be2-6cef6896f80b/8204bed3-94da-47d2-abad-049403ec7480.jpg",
       "PublishedAt": "2024-01-19T19:39:32Z",
       "Content": "A grand jury indicted Alec Baldwin on Friday on an involuntary manslaughter charge in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case against the A-list… [+3360 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cbc-news",
-        "Name": "CBC News"
-      },
-      "Author": null,
-      "Title": "Actor Alec Baldwin charged with involuntary manslaughter again in connection with Rust shooting",
-      "Description": "A grand jury indicted Alec Baldwin on an involuntary manslaughter charge Friday in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case against the A-list actor.",
-      "Url": "https://www.cbc.ca/news/entertainment/alec-baldwin-charged-again-rust-shooting-1.7089252",
-      "UrlToImage": "https://i.cbc.ca/1.6732427.1675201610!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/film-rust-shooting.JPG",
-      "PublishedAt": "2024-01-19T19:38:30Z",
-      "Content": "A grand jury indicted Alec Baldwin on an involuntary manslaughter charge Friday in a 2021 fatal shooting during a rehearsal on a movie set in New Mexico, reviving a dormant case against the A-list ac… [+416 chars]"
     }
   ]
 }
