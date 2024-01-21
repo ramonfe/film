@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1117,
+  "TotalResults": 1118,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Chicago Tribune"
+      },
+      "Author": "Morgan Lee",
+      "Title": "Grand jury indictment against Alec Baldwin in fatal movie set shooting opens paths for prosecutors",
+      "Description": "Alec Baldwin once again is staring down a felony involuntary manslaughter charge after a grand jury indicted the actor in connection with the fatal 2021 shooting of a cinematographer on the set of a Western movie in New Mexico.",
+      "Url": "https://www.chicagotribune.com/entertainment/ct-ent-alec-baldwin-movie-shooting-20240120-yhc3ua7br5d5jbiosst46dt3ee-story.html",
+      "UrlToImage": "https://www.chicagotribune.com/resizer/cQRyCpePpYTC8t2D1T-i6Pl-FcY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/OQS6QW5WHASRUCN4YTZT5IWA6I.jpg",
+      "PublishedAt": "2024-01-20T21:09:26Z",
+      "Content": "SANTA FE, N.M. Alec Baldwin once again is staring down a felony involuntary manslaughter charge after a grand jury indicted the actor in connection with the fatal 2021 shooting of a cinematographer o… [+4896 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img2-azrcdn.newser.com/image/1513485-12-20240119141502.jpeg",
       "PublishedAt": "2024-01-19T20:02:57Z",
       "Content": "Baldwin has long denied responsibility for Hutchins' death, saying he was not informed the gun he held on the set of Rust contained live rounds, adding that no live ammo should have been on the set a… [+820 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "mediaite.com",
-      "Title": "JUST IN: Alec Baldwin Charged Again With Involuntary Manslaughter In Movie Set Shooting",
-      "Description": "Actor Alec Baldwin has been indicted on involuntary manslaughter charges for the deadly shooting on the set of the movie Rust. Cinematographer Halyna Hutchins was shot and killed while preparing to film a scene with Baldwin in Oct. 2021. Baldwin maintained th…",
-      "Url": "https://biztoc.com/x/b95f13e7d07ba30b",
-      "UrlToImage": "https://c.biztoc.com/p/b95f13e7d07ba30b/s.webp",
-      "PublishedAt": "2024-01-19T20:02:29Z",
-      "Content": "Actor Alec Baldwin has been indicted on involuntary manslaughter charges for the deadly shooting on the set of the movie Rust.Cinematographer Halyna Hutchins was shot and killed while preparing to fi… [+249 chars]"
     }
   ]
 }
