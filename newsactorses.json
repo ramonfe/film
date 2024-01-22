@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 946,
+  "TotalResults": 947,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Anthony Hopkins prepara su autobiografía: el alcoholismo, sus matrimonios y la “fría” relación con su hija Abigail",
+      "Description": "Con una vida marcada por una gran pasión que lo llevó a los teatros londinenses primero y al mundo del cine después, el actor revelará aspectos nuevos de sus experiencias vitales en sus memorias",
+      "Url": "https://www.lanacion.com.ar/espectaculos/anthony-hopkins-prepara-su-autobiografia-el-alcoholismo-sus-matrimonios-y-la-fria-relacion-con-su-nid21012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/anthony-hopkins-causa-furor-en-las-redes-con-un-PZV3K6ALVBFQ5EWCNZ33UGUQJU.jpg?auth=fa317c09f851de126470ec0dbb6b27c40ce2cbca655412e0a10e61c48a790cad&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-21T21:00:31Z",
+      "Content": "El actor Anthony Hopkins, de 86 años, ha revelado a la revista People que está trabajando en un libro sobre sus memorias. Estoy escribiendo mi biografía, dijo. Es un proceso extraño. Sin embargo, acl… [+6152 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/6d1494/captura-de-pantalla-2024-01-20-a-las-10.26.12/840_560.jpeg",
       "PublishedAt": "2024-01-20T10:00:55Z",
       "Content": "El iPhone, para bien o para mal, es uno de los dispositivos que más consultamos en nuestro día a día. ¿Y qué es lo primero que vemos en él? Su fondo de pantalla. Por eso, y aunque Apple nos proporcio… [+6362 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Jesús Agudo",
-      "Title": "'The Flight Attendant' ha sido cancelada tras dos temporadas",
-      "Description": "VUELO CANCELADO La serie protagonizada por Kaley Cuoco estrenó su segunda temporada en primavera de 2022. Cuoco estuvo nominada al Emmy a la mejor actriz en dos ocasiones por el papel de Cassie.'The Flight Attendant' ha sido cancelada tras dos temporadas",
-      "Url": "https://www.ecartelera.com/noticias/the-flight-attendant-cancelada-dos-temporadas-76002/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/76000/76002-h2.jpg",
-      "PublishedAt": "2024-01-20T09:26:00Z",
-      "Content": "Vuelo cancelado y sin opción de reembolso. Max (en España todavía HBO Max) ha decidido cancelar 'The Flight Attendant', la serie protagonizada por Kaley Cuoco, tras solamente dos temporadas.\r\nLa razó… [+1048 chars]"
     }
   ]
 }
