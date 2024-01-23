@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 948,
+  "TotalResults": 949,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Murió David Gail, el actor recordado por su rol en la serie Beverly Hills 90210 y Port Charles",
+      "Description": "El intérprete tenía 58 años; su hermana dio a conocer la noticia a través de sus redes sociales en donde lo describió como un “hermoso, amoroso, increíble y feroz ser humano”; aun se desconoce la causa del deceso",
+      "Url": "https://www.lanacion.com.ar/espectaculos/murio-david-gail-el-actor-recordado-por-su-rol-en-la-serie-beverly-hills-90210-y-port-charles-nid22012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/david-gail-tenia-58-anos-cuando-MWUS2OIAZVA5ZHHS5TLYQVWGD4.jpg?auth=346970cf8079ee9ce5a34fac16942427432668e0853757d53f42f180d7e08a1e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-22T05:11:19Z",
+      "Content": "Otra muerte sacudió al mundo de las series de televisión: el actor David Gail murió a los 58 años. Se trata del protagonista de la recordada serie de la década de 1990 Beverly Hills 90210 y de pelícu… [+2928 chars]"
+    },
     {
       "Source": {
         "Id": "marca",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/622396/arcane-temporada-2-imagen/840_560.jpeg",
       "PublishedAt": "2024-01-20T18:30:57Z",
       "Content": "El estreno de 'Arcane' en Netflix fue una enorme sorpresa, ya que esta serie de fantasía basada en el universo 'League of Legends' recibió un aplauso prácticamente unánime por parte de crítica y públ… [+3749 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "Tom Hanks es tan friki de Star Trek que se sabe el nombre de todos los episodios de The Next Generation",
-      "Description": "Patrick Stewart, perdón, Sir Patrick Stewart, publicó no hace demasiado Making It So: A Memoir, un libro autobiográfico en el que contaba sus vivencias y anécdotas a lo largo de sus ya 60 años de trayectoria profesional dentro del mundo, principalmente, del c…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/tom-hanks-es-tan-friki-de-star-trek-que-se-sabe-el-nombre-de-todos-los-episodios-de-the-next-generation",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/01/star-trek-tom-hanks.jpg?width=1200",
-      "PublishedAt": "2024-01-20T17:30:28Z",
-      "Content": "Larga vida y prosperidad, Tom Hanks\r\nPatrick Stewart, perdón, Sir Patrick Stewart, publicó no hace demasiado Making It So: A Memoir, un libro autobiográfico en el que contaba sus vivencias y anécdota… [+3036 chars]"
     }
   ]
 }
