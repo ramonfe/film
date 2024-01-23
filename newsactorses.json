@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 947,
+  "TotalResults": 948,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Muere un actor de la serie 'Sensación de Vivir': el prometido fallido de Brenda Walsh",
+      "Description": "David Gail, actor que se hizo muy popular en España por su participación en la la famosa serie de televisión &apos;Sensación de Vivir&apos; (Berverly Hills 90210), ha muerto con 58",
+      "Url": "https://www.marca.com/tiramillas/television/2024/01/22/65adf17046163f72678b45a0.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/3c99a43ce01aa91a2b32b370d55848bf/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/22/17058982289630.jpg",
+      "PublishedAt": "2024-01-22T04:39:57Z",
+      "Content": "David Gail, actor que se hizo muy popular en España por su participación en la la famosa serie de televisión 'Sensación de Vivir' (Berverly Hills 90210), ha muerto con 58 años.\r\nEl fallecimiento de D… [+2145 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/01/star-trek-tom-hanks.jpg?width=1200",
       "PublishedAt": "2024-01-20T17:30:28Z",
       "Content": "Larga vida y prosperidad, Tom Hanks\r\nPatrick Stewart, perdón, Sir Patrick Stewart, publicó no hace demasiado Making It So: A Memoir, un libro autobiográfico en el que contaba sus vivencias y anécdota… [+3036 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Y a la cuarta Jodie Foster resucitó 'True detective'",
-      "Description": "De lo psicodélico a lo sobrenatural. De la pegajosa humedad de los pantanos malolientes que se tragan cadáveres enteros a la pureza de la nieve inmaculada, que todo lo borra y lo entierra, las huellas, un último y agónico aliento y hasta una manada de alces. …",
-      "Url": "https://www.abc.es/play/series/noticias/cuarta-jodie-foster-resucito-true-detective-20240121143414-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/01/21/true-detective-k67G--1024x512@abc.jpg",
-      "PublishedAt": "2024-01-20T17:24:45Z",
-      "Content": "De lo psicodélico a lo sobrenatural. De la pegajosa humedad de los pantanos malolientes que se tragan cadáveres enteros a la pureza de la nieve inmaculada, que todo lo borra y lo entierra, las huella… [+96 chars]"
     }
   ]
 }
