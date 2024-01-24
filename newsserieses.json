@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1084,
+  "TotalResults": 1085,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "And Just Like That..: un polémico personaje tendría un pie afuera y la actriz que lo interpreta sugiere que hay “listas negras” en Hollywood",
+      "Description": "Che Diaz ya no formaría parte de la tercera temporada de la serie de HBO Max; recientemente, Sara Ramirez se refirió al modo en que manifestarse a favor de Palestina ha dividido las aguas en la industria, al punto de dejar a trabajadores fuera de varios proye…",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/and-just-like-that-un-polemico-personaje-tendria-un-pie-afuera-y-la-actriz-que-lo-interpreta-sugiere-nid23012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/and-just-like-that-un-polemico-personaje-tendria-HO5SSGJ7Z5C5RJMVXWOIP54IYU.jpg?auth=dc2b4e79f388832e716a4c33fee709252ea3e5df0cb400f750a473605a9b9412&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-23T21:45:35Z",
+      "Content": "La intérprete Sara Ramírez, quien dio vida a Che Díaz, comediante y amante no binaria de Miranda Hobbes (Cynthia Nixon) en las dos primeras temporadas de And Just Like That..., no formaría parte de l… [+5613 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240123131422_1200.jpg",
       "PublishedAt": "2024-01-23T12:14:22Z",
       "Content": "MADRID, 23 Ene. (CulturaOcio) - \r\n   True Detective: Noche Polar, cuarta entrega de la serie de HBO, presenta un nuevo misterio, esta vez ambientado en Alaska. La desaparición de ocho hombres en una … [+3164 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "Adult Swim se relaja con Rick y Morty: la octava temporada de la exitosa serie de animación retrasa su estreno hasta 2025",
-      "Description": "Adult Swim tiene un plan para seguir exprimiendo al máximo una de sus series más exitosas: Rick y Morty. El pasado año pudimos ver a este dúo tan singular cerrar uno de los arcos argumentales más aclamados por el público, pero todavía queda mucha leña que cor…",
-      "Url": "https://www.vidaextra.com/series/adult-swim-se-relaja-rick-morty-octava-temporada-exitosa-serie-animacion-retrasa-su-estreno-2025",
-      "UrlToImage": "https://i.blogs.es/cb0cc2/rick-y-morty/840_560.jpeg",
-      "PublishedAt": "2024-01-23T12:11:20Z",
-      "Content": "Adult Swim tiene un plan para seguir exprimiendo al máximo una de sus series más exitosas: Rick y Morty. El pasado año pudimos ver a este dúo tan singular cerrar uno de los arcos argumentales más acl… [+1494 chars]"
     }
   ]
 }
