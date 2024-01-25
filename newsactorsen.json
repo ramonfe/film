@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1150,
+  "TotalResults": 1130,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": null,
+      "Title": "Regional town turned into ‘little Nepal’ for new movie",
+      "Description": "The historic Gippsland gold mining town of Walhalla has been transformed into a bustling Nepalese village for a new blockbuster, attracting fans of actor Liam Neeson.",
+      "Url": "https://www.abc.net.au/news/2024-01-24/regional-town-turned-into-%E2%80%98little-nepal%E2%80%99-for-new/103384008",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/f118ed66a272768496393073de9cae3e?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+      "PublishedAt": "2024-01-24T03:25:02Z",
+      "Content": "The historic Gippsland gold mining town of Walhalla has been transformed into a bustling Nepalese village for a new blockbuster, attracting fans of actor Liam Neeson."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Jordan Williams",
+      "Title": "Percy Jackson's Hades Actor Creates A Sad Reunion For Critically Acclaimed War Drama From Last Year",
+      "Description": "Two of the actors for Percy Jackson season 1's Greek gods, including Hades' Jay Duplass, previously starred together in a 2023 war drama movie.",
+      "Url": "https://screenrant.com/percy-jackson-show-hades-jay-duplass-zeus-lance-reddick-reunion/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/01/percy-jackson-hades-jay-duplass.jpg",
+      "PublishedAt": "2024-01-24T03:20:10Z",
+      "Content": "WARNING! This article contains minor spoilers for Percy Jackson and the Olympians season 1, episode 7!\r\nSummary\r\n<ul><li> Jay Duplass and Lance Reddick, who both appear on Percy Jackson and the Olymp… [+4776 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://zacjohnson.com/wp-content/uploads/2024/01/eric-schafer-net-worth.jpg",
       "PublishedAt": "2024-01-23T17:01:28Z",
       "Content": "Eric Schafer, a renowned movie actor and television producer, has amassed a significant net worth through his successful career in the entertainment industry. His financial status reflects his accomp… [+38081 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "nytimes.com",
-      "Title": "Danielle Brooks on Her Oscar Nomination: ‘Look What God Has Done’",
-      "Description": "It was 3:30 a.m. in New Zealand, where the actress Danielle Brooks was filming a Minecraft movie. But she was wide awake. “I’m alive and I am an Oscar nominee today,” she said on a video call minutes after the nominations were announced. “I don’t think I’ll b…",
-      "Url": "https://biztoc.com/x/effab32b4362fab1",
-      "UrlToImage": "https://c.biztoc.com/p/effab32b4362fab1/s.webp",
-      "PublishedAt": "2024-01-23T17:00:58Z",
-      "Content": "It was 3:30 a.m. in New Zealand, where the actress Danielle Brooks was filming a Minecraft movie. But she was wide awake.Im alive and I am an Oscar nominee today, she said on a video call minutes aft… [+286 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Vansh Mehra",
-      "Title": "Oscars 2024: Why Wasn’t Leonardo Dicaprio Nominated for Killers of the Flower Moon?",
-      "Description": "The Oscars 2024 nominations are out and people have been left wondering why Leonardo DiCaprio wasn’t nominated as best actor for his performance in Killers of the Flower Moon. Here’s all you need to know about the Oscars snub. Why wasn’t Leonardo DiCaprio nom…",
-      "Url": "https://www.comingsoon.net/guides/news/1502977-oscars-2024-leonardo-dicaprio-lead-actor-killers-of-the-flower-moon",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/oscars-2024-leonardo-dicaprio-lead-actor-killers-of-the-flower-moon.jpg?resize=1200,630",
-      "PublishedAt": "2024-01-23T16:53:06Z",
-      "Content": "The Oscars 2024 nominations are out and people have been left wondering why Leonardo DiCaprio wasnt nominated as best actor for his performance in Killers of the Flower Moon. Heres all you need to kn… [+2245 chars]"
     }
   ]
 }
