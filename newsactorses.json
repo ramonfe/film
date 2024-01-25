@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1011,
+  "TotalResults": 1012,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Ryan Gosling lamenta que ni la actriz protagonista ni la directora estén nominadas al Oscar: «No hay Ken sin Barbie»",
+      "Description": "'Barbie' fue la película más taquillera de 2023 consiguiendo una recaudación de 1.280 millones de euros. Se esperaba que en las nominaciones de los Oscar tuviera el mismo éxito o igual que en las salas de cine, y, pese a ser candidata a nueve estatuillas el f…",
+      "Url": "https://www.abc.es/play/cine/ryan-gosling-lamenta-actriz-protagonista-directora-nominadas-20240124075528-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/01/24/barbie-osar-kAkE--1024x512@abc.PNG",
+      "PublishedAt": "2024-01-24T06:55:28Z",
+      "Content": "'Barbie' fue la película más taquillera de 2023 consiguiendo una recaudación de 1.280 millones de euros. Se esperaba que en las nominaciones de los Oscar tuviera el mismo éxito o igual que en las sal… [+69 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/d28649/oscar/840_560.jpeg",
       "PublishedAt": "2024-01-23T13:20:00Z",
       "Content": "Por fin ha llegado el día en el que la Academia de Hollywood ha dado a conocer la lista de nominaciones de los Premios Óscar 2024. Zazie Beetz ('Joker') y Jack Quaid ('The Boys') han sido los encarga… [+2397 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Rebecca Dolan",
-      "Title": "Guía GQ de los hoteles más elegantes del planeta 2024",
-      "Description": "Para nuestra primera guía de los hoteles más elegantes del mundo, hemos pedido a diseñadores, artistas y editores de todo el universo GQ que nos ayuden a seleccionar los alojamientos más absurdamente bonitos del planeta. Los equipos creativos detrás de estos …",
-      "Url": "https://www.revistagq.com/articulo/guia-gq-de-los-hoteles-mas-elegantes-del-planeta-2024",
-      "UrlToImage": "https://media.revistagq.com/photos/65af7cec02759eb90d62342a/16:9/w_1280,c_limit/GQ_0224_Travel%20Package_Online_Header.jpg",
-      "PublishedAt": "2024-01-23T13:05:00Z",
-      "Content": "El nuevo hotel boutique de moda para los urbanitas más modernos. Thierry Gillier, fundador de Zadig &amp; Voltaire, es un recién llegado al mundo de la hostelería, y con Voltaire ha conseguido un amb… [+1359 chars]"
     }
   ]
 }
