@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1147,
+  "TotalResults": 1148,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Alli Rosenbloom",
+      "Title": "America Ferrera ‘stunned’ by her surprise ‘Barbie’ Oscar nomination | CNN",
+      "Description": "While there has been some debate about the eight Oscar nominations the “Barbie” movie received Tuesday morning, America Ferrera’s wonderfully unexpected best supporting actress nod is certainly one to celebrate.",
+      "Url": "https://www.cnn.com/2024/01/23/entertainment/america-ferrera-oscar-nomination-barbie/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240123171947-america-ferrera-01092024.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-01-24T00:40:22Z",
+      "Content": "While there has been some head-scratching about some overlooked contenders who werent nominated for Oscars for the Barbie movie on Tuesday morning, America Ferreras wonderfully unexpected best suppor… [+2102 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2024/01/demonatrix.png?resize=1000%2C600&ssl=1",
       "PublishedAt": "2024-01-23T16:29:22Z",
       "Content": "Take a trip with Bloody Disgusting and Fandor’s freaky festival favorite All Jacked Up and Full of Worms, the hallucinogenic horror-comedy that is now streaming exclusively on SCREAMBOX and also avai… [+1961 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TheStranger.com"
-      },
-      "Author": "Hannah Krieg",
-      "Title": "Slog AM: New Hampshire Votes for President, City Council to Fill Vacancy, and You'll Never Guess Which Department the Mayor Shielded from His Hiring Freeze (Spoiler: Cops)",
-      "Description": "The Stranger's morning news roundup.\n \n by Hannah Krieg\n \n \n \n Fading sunlight: Today might be the nicest day of the week. If you’re reading this on your morning commute, you probably think I’m full of shit. We got off to a rainy start this morning, but the r…",
-      "Url": "https://www.thestranger.com/slog-am/2024/01/23/79354908/slog-am-new-hampshire-votes-for-president-city-council-to-fill-vacancy-and-youll-never-guess-which-department-the-mayor-shielded-from-his",
-      "UrlToImage": "https://media2.fdncms.com/stranger/imager/u/large/79354914/1620427366-bruce1.jpg",
-      "PublishedAt": "2024-01-23T16:27:00Z",
-      "Content": "Fading sunlight: Today might be the nicest day of the week. If youre reading this on your morning commute, you probably think Im full of shit. We got off to a rainy start this morning, but the rain w… [+5919 chars]"
     }
   ]
 }

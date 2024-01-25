@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 183,
+  "TotalResults": 184,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Cristian Ordóñez",
+      "Title": "'Pobres Criaturas': ¿de qué trata la película de Emma Stone nominada al Oscar?",
+      "Description": "Próximamente en cines de México se estrena la película 'Pobres criaturas' (Poor Things, por su título original) protagonizada y producida por la famosa actriz Emma Stone, quien fue nominada junto con su película como Mejor Actriz en los Premios Oscar 2024.La …",
+      "Url": "https://www.milenio.com/espectaculos/premios-oscar/pobres-criaturas-pelicula-fecha-estreno-mexico",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/01/23/pobres-criaturas-especial.jpg",
+      "PublishedAt": "2024-01-24T00:25:49Z",
+      "Content": "Próximamente en cines de México se estrena la película 'Pobres criaturas' (Poor Things, por su título original) protagonizada y producida por la famosa actriz Emma Stone, quien fue nominada junto con… [+1607 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/87fd2f/slack-imgs/840_560.jpeg",
       "PublishedAt": "2024-01-19T08:02:00Z",
       "Content": "Si algo tiene bueno el machaque constante de la temporada de premios, es que durante su transcurso empiezan a llegar a nuestros cines algunas de las películas más prestigiosas del último curso cinema… [+2904 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "Jodie Foster estuvo a punto de ser la Princesa Leia en Star Wars, pero una película de Disney que ya nadie recuerda evitó que sucediera",
-      "Description": "Si bien todos recordamos a los actores y actrices que encarnaron a los personajes más emblemáticos de Star Wars, han sido muchas las estrellas que estuvieron a punto de formar parte de una de las franquicias más exitosas de toda la industria. Una de ellas fue…",
-      "Url": "https://www.vidaextra.com/cine/jodie-foster-estuvo-a-punto-ser-princesa-leia-star-wars-pelicula-disney-que-nadie-recuerda-evito-que-sucediera",
-      "UrlToImage": "https://i.blogs.es/b40757/jodie-foster-star-wars/840_560.jpeg",
-      "PublishedAt": "2024-01-18T18:01:56Z",
-      "Content": "Si bien todos recordamos a los actores y actrices que encarnaron a los personajes más emblemáticos de Star Wars, han sido muchas las estrellas que estuvieron a punto de formar parte de una de las fra… [+1923 chars]"
     }
   ]
 }
