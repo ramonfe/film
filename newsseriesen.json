@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 291,
+  "TotalResults": 292,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Michael Crider",
+      "Title": "Apple opens the door for Xbox, Nvidia game streaming on iPhones",
+      "Description": "One of the most appealing parts of the rise of game streaming services like GeForce Now and Xbox Game Pass is making full-power PC and console games available on your phone or tablet. Assuming, of course, that the people making said phone or tablet don’t thro…",
+      "Url": "https://www.pcworld.com/article/2219072/apple-opens-the-door-for-xbox-nvidia-game-streaming-on-iphones.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/01/iphone-xbox-game-streaming-palworld.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2024-01-26T15:13:15Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nOne of the most appe… [+3222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/MixCollage-24-Jan-2024-07-35-AM-9180.jpg?resize=1200,630",
       "PublishedAt": "2024-01-24T02:09:58Z",
       "Content": "Are you looking for an Australian comedy-drama show featuring impossible teenagers and their shenanigans? Then Heartbreak High (2022) Season 1 is one show you are going to drool over. The series cove… [+4182 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "2023.3.0b4",
-      "Description": "2023.3.0b4\n\n January 23, 2024\n \n unityhub://2023.3.0b4/2cd31b2a2ee2\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2C…",
-      "Url": "https://unity.com/releases/editor/beta/2023.3.0b4",
-      "UrlToImage": null,
-      "PublishedAt": "2024-01-23T19:12:34Z",
-      "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an issue where a GameOb… [+177521 chars]"
     }
   ]
 }
