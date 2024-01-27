@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1172,
+  "TotalResults": 1163,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Qué pasó con Griselda Blanco",
+      "Description": "El estreno de la serie de Netflix, protagonizada por Sofía Vergara, ha causado gran interés por la vida de la narcotraficante conocida como “la Madrina”",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/famosos/que-paso-con-griselda-blanco-nid26012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/griselda-GHN3E7RLFJEYNH2LMA5EYINVAM.jpg?auth=f780b6947a2b974cb77013321e7b4f3c42af8dc7726d13e3fa0aff56530631ca&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-26T18:58:37Z",
+      "Content": "El nombre de Griselda Blanco regresó a los titulares gracias a la serie de Netflix, Griselda, protagonizada por la actriz colombiana Sofía Vergara. Creada por Doug Miro y Eric Newman, quienes también… [+3527 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Del manga a la realidad: el actor que pone voz a Eren recrea una de las escenas más recordadas de Shingeki no Kyojin",
+      "Description": "Aunque han transcurrido varios meses desde su conclusión, Shingeki no Kyojin continúa dejando su huella allá donde va. Uno de los que ha sentido más de cerca el final del anime es, sin duda, el actor de voz de Eren Jaeger, Yuki Kaji, quien se siente tremendam…",
+      "Url": "https://www.vidaextra.com/series/manga-a-realidad-actor-que-pone-voz-a-eren-recrea-escenas-recordadas-shingeki-no-kyojin",
+      "UrlToImage": "https://i.blogs.es/4785bd/shingeki/840_560.jpeg",
+      "PublishedAt": "2024-01-26T18:31:33Z",
+      "Content": "Aunque han transcurrido varios meses desde su conclusión, Shingeki no Kyojin continúa dejando su huella allá donde va. Uno de los que ha sentido más de cerca el final del anime es, sin duda, el actor… [+1157 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Pedro Gallego",
+      "Title": "Esta escalofriante película de 2 horas y media es perfecta para ver junto a 'La zona de interés', y la puedes ver gratis en streaming",
+      "Description": "Resulta más llamativo cuando se producen los grandes episodios de atrocidades en la historia, pero la realidad es que el mal es algo que plaga al mundo de manera cíclica y nunca fortuita. Los graves momentos como el Holocausto resultan especialmente atroces d…",
+      "Url": "https://www.espinof.com/cine-europeo/escalofriante-pelicula-2-horas-media-perfecta-para-ver-a-zona-interes-vistazo-a-origenes-mal-alemania-que-se-puede-ver-gratis-streaming",
+      "UrlToImage": "https://i.blogs.es/279f55/la-cinta-blanca-2009-christian-friedel/840_560.jpeg",
+      "PublishedAt": "2024-01-26T18:01:33Z",
+      "Content": "Resulta más llamativo cuando se producen los grandes episodios de atrocidades en la historia, pero la realidad es que el mal es algo que plaga al mundo de manera cíclica y nunca fortuita. Los graves … [+2547 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -175,19 +214,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "'Expatriadas' es un ambicioso relato de duelo, pero la sofisticada miniserie de Amazon Prime Video no logra desprenderse del barniz de melodrama de prestigio",
-      "Description": "A la hora de adaptar novelas, en esta caso de Janice Y.K. Lee, ocurre quizás demasiado a menudo que haya un poco de \"pérdida en la traslación\". Que al intentar emular de un modo el lenguaje literario, se pierda fuerza en lo audiovisual. Algo así ha sucedido c…",
-      "Url": "https://www.espinof.com/criticas/expatriadas-ambicioso-relato-duelo-sofisticada-miniserie-amazon-prime-video-no-logra-desprenderse-barniz-melodrama-prestigio",
-      "UrlToImage": "https://i.blogs.es/0a2fc8/expatriadas/840_560.jpeg",
-      "PublishedAt": "2024-01-26T13:01:34Z",
-      "Content": "A la hora de adaptar novelas, en esta caso de Janice Y.K. Lee, ocurre quizás demasiado a menudo que haya un poco de \"pérdida en la traslación\". Que al intentar emular de un modo el lenguaje literario… [+2949 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Applesfera.com"
       },
       "Author": "Álvaro García M.",
@@ -197,6 +223,19 @@
       "UrlToImage": "https://i.blogs.es/003243/apple-vision-pro/840_560.jpeg",
       "PublishedAt": "2024-01-26T13:01:34Z",
       "Content": "Tras muchísimos años de rumores, las Apple Vision Pro fueron anunciadas en junio y serán puestas en el mercado el próximo 2 de febrero. Las esperadas gafas de Apple -u ordenador de computación espaci… [+7056 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "'Expatriadas' es un ambicioso relato de duelo, pero la sofisticada miniserie de Amazon Prime Video no logra desprenderse del barniz de melodrama de prestigio",
+      "Description": "A la hora de adaptar novelas, en esta caso de Janice Y.K. Lee, ocurre quizás demasiado a menudo que haya un poco de \"pérdida en la traslación\". Que al intentar emular de un modo el lenguaje literario, se pierda fuerza en lo audiovisual. Algo así ha sucedido c…",
+      "Url": "https://www.espinof.com/criticas/expatriadas-ambicioso-relato-duelo-sofisticada-miniserie-amazon-prime-video-no-logra-desprenderse-barniz-melodrama-prestigio",
+      "UrlToImage": "https://i.blogs.es/0a2fc8/expatriadas/840_560.jpeg",
+      "PublishedAt": "2024-01-26T13:01:34Z",
+      "Content": "A la hora de adaptar novelas, en esta caso de Janice Y.K. Lee, ocurre quizás demasiado a menudo que haya un poco de \"pérdida en la traslación\". Que al intentar emular de un modo el lenguaje literario… [+2949 chars]"
     },
     {
       "Source": {
@@ -353,45 +392,6 @@
       "UrlToImage": "https://i.blogs.es/53b517/x720/840_560.jpeg",
       "PublishedAt": "2024-01-26T08:46:00Z",
       "Content": "Prácticamente por sorpresa, próximamente llegará a Disney+ la nueva serie de Jorge y Alberto Sánchez-Cabezudo (creadores de 'Crematorio' y 'La Zona'). Digo por sorpresa porque desde la plataforma no … [+1317 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Marisa de Dios",
-      "Title": "Todos los estrenos de Netflix de febrero",
-      "Description": "En este mes de febrero, los hermanos Laura y Alberto Caballero siguen sacando punta de las nuevas y viejas masculinidades en la segunda temporada de la divertida 'Machos alfa'. La serie cómica es la principal novedad de los estrenos de Netflix, donde también …",
-      "Url": "https://www.elperiodico.com/es/tele/20240126/netflix-estrenos-series-peliculas-febrero-2024-96925630",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/768a1bde-2bfd-431a-9c9c-57364016be96_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-01-26T06:00:35Z",
-      "Content": "En este mes de febrero, los hermanos Laura y Alberto Caballero siguen sacando punta de las nuevas y viejas masculinidades en la segunda temporada de la divertida 'Machos alfa'. La serie cómica es la … [+7435 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Digital,Agencia EFE",
-      "Title": "Sofía Vergara propone a Derbez hacer una película juntos; \"Eugenio es un genio\"",
-      "Description": "La famosa actriz Sofía Vergara ha demostrado ser una seguidora del actor y comediante mexicano Eugenio Derbez, al grado de emocionarse al recibir un mensaje y asegurar que quiere trabajar con él.Durante una visita de la colombiana al programa Despierta Améric…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/sofia-vergara-propone-eugenio-derbez-pelicula",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/01/25/sofia-vergara-propone-derbez-pelicula.jpg",
-      "PublishedAt": "2024-01-25T23:33:08Z",
-      "Content": "La famosa actriz Sofía Vergara ha demostrado ser una seguidora del actor y comediante mexicano Eugenio Derbez, al grado de emocionarse al recibir un mensaje y asegurar que quiere trabajar con él.\r\nDu… [+2534 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencialdigital.com"
-      },
-      "Author": "Óscar Gutiérrez Martínez",
-      "Title": "Netflix encarga a Bambú una serie para encontrar a las nuevas ‘Chicas del cable’",
-      "Description": "Netflix encarga a Bambú una serie para encontrar a las nuevas ‘Chicas del cable’. \n \n\n Netflix quiere volver a lanzar producciones de series de época , siguiendo los pasos también de las televisiones en abierto. Para ello, ha contratado a...",
-      "Url": "https://www.elconfidencialdigital.com/articulo/medios/netflix-busca-nuevas-chicas-cable-compra-nueva-serie-bambu/20240126000000710398.html",
-      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/01/25/2024012516321743892.jpg",
-      "PublishedAt": "2024-01-25T23:00:00Z",
-      "Content": "Netflix encarga a Bambú una serie para encontrar a las nuevas Chicas del cable.\r\nNetflix quiere volver a lanzar producciones de series de época, siguiendo los pasos también de las televisiones en abi… [+1917 chars]"
     }
   ]
 }
