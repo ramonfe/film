@@ -1,7 +1,7 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1168,
+  "TotalResults": 1169,
   "Articles": [
     {
       "Source": {
@@ -304,6 +304,19 @@
     },
     {
       "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "¿Quién fue Griselda Blanco? Todo sobre la narcotraficante a la que da vida Sofía Vergara",
+      "Description": "Griselda Blanco ha vuelto a la actualidad gracias a Netflix. La plataforma de 'streaming' lanzó el 25 de enero la serie Griselda, en la que Sofía Vergara (Modern...",
+      "Url": "https://www.elmundo.es/television/series/2024/01/26/65b3a0dde4d4d817268b45ac.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/d1a52bb6c1d0ef27433cb558a972f3ca/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/26/17062703999531.jpg",
+      "PublishedAt": "2024-01-26T12:13:12Z",
+      "Content": "Griselda Blanco ha vuelto a la actualidad gracias a Netflix. La plataforma de 'streaming' lanzó el 25 de enero la serie Griselda, en la que Sofía Vergara (Modern Family) encarna a la famosa narcotraf… [+3280 chars]"
+    },
+    {
+      "Source": {
         "Id": null,
         "Name": "Eldiario.es"
       },
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/d2ee2f9c-8284-4663-a681-1d6ae772496d_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-01-26T10:24:55Z",
       "Content": "El Hormiguero entrevistó el pasado lunes 8 de enero a la actriz Sofía Vergara, que acudió al programa de Antena 3 a presentar su nueva serie Griselda que se estrenó este jueves día 25 en Netflix. Des… [+3851 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Alberto García",
-      "Title": "El agente más caótico de la ley vuelve de oferta con la trilogía de 'Agárralo como puedas': el humor más absurdo del cine americano en Blu-ray",
-      "Description": "Leslie Nielsen\r\n es recordado por muchas cosas pero, sobre todo, por las diferentes películas de 'Agárralo como puedas\r\n' y también por su serie homónima que dio origen a esta trilogía. El particular humor del actor consiguió llegar a todos los públicos, por …",
-      "Url": "https://www.espinof.com/seleccion/agente-caotico-ley-vuelve-oferta-trilogia-agarralo-como-puedas-humor-absurdo-cine-americano-blu-ray",
-      "UrlToImage": "https://i.blogs.es/7f8d72/agarralo-como-puedas-cabecera/840_560.jpeg",
-      "PublishedAt": "2024-01-26T09:45:32Z",
-      "Content": "Leslie Nielsen\r\n es recordado por muchas cosas pero, sobre todo, por las diferentes películas de 'Agárralo como puedas\r\n' y también por su serie homónima que dio origen a esta trilogía. El particular… [+2441 chars]"
     }
   ]
 }
