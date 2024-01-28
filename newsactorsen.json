@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1222,
+  "TotalResults": 1223,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Ashley Hume",
+      "Title": "Patrick Swayze fans slam 'Road House' reboot starring Jake Gyllenhaal",
+      "Description": "Fans of late actor Patrick Swayze blasted the \"Road House\" reboot starring Jake Gyllenhaal after the trailer for the movie was released.",
+      "Url": "https://www.foxnews.com/entertainment/patrick-swayze-fans-slam-road-house-reboot-starring-jake-gyllenhaal",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/jake_patrick.jpg",
+      "PublishedAt": "2024-01-27T01:51:02Z",
+      "Content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+4592 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdndark.darkhorizons.com/wp-content/uploads/2024/01/lewis-pullman-up-for-marvels-thunderbolts.jpg",
       "PublishedAt": "2024-01-26T13:41:19Z",
       "Content": "“Top Gun: Maverick” actor Lewis Pullman has reportedly emerged as Marvel Studios’ top choice for a key role in the soon to film “Thunderbolts” movie.\r\nPullman, son of actor Bill Pullman, is said to h… [+720 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "CBM (Comic Book Movie)"
-      },
-      "Author": "MarkCassidy",
-      "Title": "MADAME WEB Star Sydney Sweeney Is IMMACULATE In First Red Band Trailer",
-      "Description": "Neon has debuted the first trailer for new religious horror movie, Immaculate, which stars Madame Web actress Sydney Sweeney as a nun with a seemingly sinister bun in the oven...",
-      "Url": "https://comicbookmovie.com/horror/madame-web-star-sydney-sweeney-is-immaculate-in-first-red-band-trailer-a209061",
-      "UrlToImage": "https://comicbookmovie.com/images/articles/banners/209061.jpg",
-      "PublishedAt": "2024-01-26T13:01:00Z",
-      "Content": "\"I know God saved me for a reason...\"\r\nWe only got word late last year that Neon had acquired North American rights to a new religious psychological horror film titled Immaculate, starring Sydney Swe… [+2523 chars]"
     }
   ]
 }
