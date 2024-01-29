@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1182,
+  "TotalResults": 1183,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Kira Deshler",
+      "Title": "Reneé Rapp is bigger than ‘Mean Girls’",
+      "Description": "Decoding Fandom is a weekly column that dives deep into the world of fan culture and runs on Saturdays in the Daily Dot’s web_crawlr newsletter. If you want to get this column a day before we publish it, subscribe to web_crawlr, where you’ll get the daily sco…",
+      "Url": "https://www.dailydot.com/parsec/fandom/renee-rapp-mean-girls-press-tour/",
+      "UrlToImage": "https://uploads.dailydot.com/2024/01/Renee-Rapp.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2024-01-28T12:00:00Z",
+      "Content": "Decoding Fandom is a weekly column that dives deep into the world of fan culture and runs on Saturdays in the Daily Dots web_crawlr newsletter. If you want to get this column a day before we publish … [+3543 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.brit.co/media-library/ayo-edebiri-snl-season-49.jpg?id=51199185&width=1200&height=600&coordinates=0%2C98%2C0%2C102",
       "PublishedAt": "2024-01-26T22:32:00Z",
       "Content": "The world of late night TV came to a halt in May when the Writers Guild of America went on strike to demand fair wages from studios and to protest unfair AI usage. After months of negotiations, as we… [+6941 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NPR"
-      },
-      "Author": "Margaret Willison",
-      "Title": "What's Making Us Happy: A guide to your weekend viewing, reading and browsing",
-      "Description": "Each week, Pop Culture Happy Hour guests and hosts share what's bringing them joy. This week: The movie Time Bomb Y2K, the show The Traitors, actor Richard E. Grant's Instagram and more.",
-      "Url": "https://www.npr.org/2024/01/26/1226375123/whats-making-us-happy-a-guide-to-your-weekend-viewing-reading-and-browsing",
-      "UrlToImage": "https://media.npr.org/assets/img/2024/01/25/time-bomb-y2k_wide-6e0e8a9b780c7fa4aa3f73e7e54c75884d9da2b9-s1400-c100.jpg",
-      "PublishedAt": "2024-01-26T22:00:27Z",
-      "Content": "Time Bomb Y2K looks back on the time when we thought civilization might collapse because computers wouldn't be able to handle the switch from the 1900s to the 2000s.\r\nBrian Langley/HBO \r\nThis week, J… [+4839 chars]"
     }
   ]
 }
