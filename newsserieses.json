@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1169,
+  "TotalResults": 1170,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Ideal para este domingo caluroso: la serie de 6 capítulos en Netflix que cuenta una historia única",
+      "Description": "La producción se estrenó en 2020 y se basó en la novela de un autor estadounidense, que plasmó el misterio y la intriga desde el minuto uno; de qué trata",
+      "Url": "https://www.lanacion.com.ar/espectaculos/ideal-para-este-domingo-caluroso-la-serie-de-6-capitulos-en-netflix-que-cuenta-una-historia-unica-nid28012024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-serie-de-seis-capitulos-de-netflix-ideal-para-N64U7MPFMNAHLNV2LBUGBLNGPA.png?auth=567c32069fd1680f454f4afe2f69a0b8885bc443b4b0905c6c964ae95dc06d2c&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-01-28T20:01:15Z",
+      "Content": "Con las altas temperaturas de este domingo, quizá decidas quedarte en casa esta tarde para evitar la exposición al sol y al calor. Por suerte, el catálogo de Netflix contó con una gran variedad para … [+2720 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.elotrolado.net/headers/upload/b/d/bd8be9_reina-roja_news.jpg?1200",
       "PublishedAt": "2024-01-27T14:43:46Z",
       "Content": "En enero los servicios de streaming nos dejaron varias series interesantes y en febrero la apuesta parece que sube un poco. El próximo mes Prime Video estrenará Reina Roja, la que posiblemente sea su… [+13610 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "¿Prepara HBO Max varias series de Harry Potter?",
-      "Description": "Warner Bros. Discovery anunció el pasado abril que llevaría Harry Potter a la pequeña pantalla adaptando de nuevo los siete libros de J.K. Rowling. Aunque el proyecto aún está en sus primeras etapas de desarrollo ya se saben los nombres de algunos de los guio…",
-      "Url": "https://www.culturaocio.com/tv/noticia-prepara-hbo-max-varias-series-harry-potter-20240127143548.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240127143548_1200.jpg",
-      "PublishedAt": "2024-01-27T13:35:48Z",
-      "Content": "MADRID, 27 Ene. (CulturaOcio) - \r\n   Warner Bros. Discovery anunció el pasado abril que llevaría Harry Potter a la pequeña pantalla adaptando de nuevo los siete libros de J.K. Rowling. Aunque el proy… [+2483 chars]"
     }
   ]
 }
