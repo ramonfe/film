@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1187,
+  "TotalResults": 1189,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Alberto Rey",
+      "Title": "Griselda, la serie de Sofía Vergara que apesta a telefilm barato",
+      "Description": "Sofía Vergara ha puesto su inmenso star power a disposición de Griselda, su nueva serie en Netflix: ella produce, protagoniza y promociona. El trato está claro: a cambio de eso,...",
+      "Url": "https://www.elmundo.es/cultura/cine/2024/01/30/65b3ace9e9cf4a407f8b45a7.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/eb40cf973872534e656c8d3d78d1c119/f/webp/assets/multimedia/imagenes/2024/01/26/17062743784153.jpg",
+      "PublishedAt": "2024-01-30T20:31:32Z",
+      "Content": "Sofía Vergara ha puesto su inmenso star power a disposición de Griselda, su nueva serie en Netflix: ella produce, protagoniza y promociona. El trato está claro: a cambio de eso, la serie se orbitará … [+2703 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "EFE",
+      "Title": "Muere Chita Rivera, emblema del musical de Broadway y protagonista de 'West Side Story' y 'Chicago'",
+      "Description": "La actriz de origen puertorriqueño Chita Rivera, estrella de musicales de Broadway, falleció este martes a los 91 años, según informó su hija, Lisa Mordente, al diario The New York Times. Dolores Conchita Figueroa del Rivero fue actriz, bailarina y cantante, …",
+      "Url": "https://www.eldiario.es/cultura/fallece-91-anos-chita-rivera-actriz-west-side-story-musicales-broadway_1_10880633.html",
+      "UrlToImage": "https://static.eldiario.es/clip/755d791a-2d4f-495b-a4b6-9fc75db679c4_facebook-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-01-30T20:15:00Z",
+      "Content": "La actriz de origen puertorriqueño Chita Rivera, estrella de musicales de Broadway, falleció este martes a los 91 años, según informó su hija, Lisa Mordente, al diario The New York Times. Dolores Con… [+2941 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/01/30/pablo-motos-kT7C--1024x512@abc.jpg",
       "PublishedAt": "2024-01-30T14:07:18Z",
       "Content": "Pablo Motos (58), el presentador de 'El Hormiguero' (Antena 3), no suele dar entrevistas a los medios de comunicación. Hay excepciones, pero el también productor prefiere no hablar con los periodista… [+120 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Elena Sánchez-Beato",
-      "Title": "Estas actrices de \"Pecado Original\" comparten una pasión muy tierna que les une fuera de la serie, ¿cuál es?",
-      "Description": "Dentro de una serie o cualquier ficción, los personajes pueden tener muchísimo feeling entre ellos. Pero, ¿y fuera de ella?, ¿sucede lo mismo? Lo cierto es que muchas veces forman un gran equipo, casi como una segunda familia que se alarga durante todo el rod…",
-      "Url": "https://www.trendencias.com/telenovelas/estas-actrices-pecado-original-comparten-pasion-muy-tierna-que-les-une-fuera-serie-cual",
-      "UrlToImage": "https://i.blogs.es/9a2032/750185231_231796220_1706x960/840_560.jpeg",
-      "PublishedAt": "2024-01-30T14:00:51Z",
-      "Content": "Dentro de una serie o cualquier ficción, los personajes pueden tener muchísimo feeling entre ellos. Pero, ¿y fuera de ella?, ¿sucede lo mismo? Lo cierto es que muchas veces forman un gran equipo, cas… [+2080 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "La nueva película de 'Boku no Hero Academia' confirma su fecha de estreno con un tráiler explosivo que muestra el \"lado oscuro\" de All Might",
-      "Description": "Studio Bones es muy consistente con sus estrenos de 'Boku no Hero Academia' y ya tenemos una nueva temporada del anime a la vista. No solo eso, si no que este año toca doblete de superhéroes, porque el anime tiene una cuarta película en marcha para explorar c…",
-      "Url": "https://www.espinof.com/anime/nueva-pelicula-boku-no-hero-academia-confirma-su-fecha-estreno-trailer-explosivo-que-muestra-lado-oscuro-all-might",
-      "UrlToImage": "https://i.blogs.es/a5eede/boku-no-hero-academia/840_560.jpeg",
-      "PublishedAt": "2024-01-30T14:00:45Z",
-      "Content": "Studio Bones es muy consistente con sus estrenos de 'Boku no Hero Academia' y ya tenemos una nueva temporada del anime a la vista. No solo eso, si no que este año toca doblete de superhéroes, porque … [+1703 chars]"
     }
   ]
 }
