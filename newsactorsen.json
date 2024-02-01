@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1244,
+  "TotalResults": 1250,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "MORGAN LEE Associated Press",
+      "Title": "Alec Baldwin pleads not guilty to involuntary manslaughter charge in fatal film set shooting",
+      "Description": "Actor Alec Baldwin has pleaded not guilty to an involuntary manslaughter charge in the fatal shooting of a cinematographer during a rehearsal on a Western movie set in New Mexico",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/alec-baldwin-pleads-guilty-involuntary-manslaughter-charge-fatal-106846315",
+      "UrlToImage": "https://i.abcnewsfe.com/a/d7dac191-7d6d-4ef5-b4f4-646ef8fd3dbe/wirestory_32c6a2f0038ff6c883cf7e7369ee3e16_16x9.jpg?w=1600",
+      "PublishedAt": "2024-01-31T23:58:29Z",
+      "Content": "SANTA FE, N.M. -- Actor Alec Baldwin has pleaded not guilty to an involuntary manslaughter charge in the fatal shooting of a cinematographer during a rehearsal on a Western movie set in New Mexico.\r\n… [+3848 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Emma Stone Opens Up About the Importance of Working with Intimacy Coordinator for 'Poor Things'",
+      "Description": "Emma Stone is stepping out in London to promote her new movie. The 35-year-old actress joined director Yorgos Lanthimos at a special screening of their new movie Poor Things on Wednesday (January 31) held at the BFI Southbank in London, England. PHOTOS: Check…",
+      "Url": "https://www.justjared.com/2024/01/31/emma-stone-opens-up-about-the-importance-of-working-with-intimacy-coordinator-for-poor-things/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/01/stone-intimacy.jpg",
+      "PublishedAt": "2024-01-31T23:51:27Z",
+      "Content": "Emma Stone is stepping out in London to promote her new movie.\r\nThe 35-year-old actress joined director Yorgos Lanthimos at a special screening of their new movie Poor Things on Wednesday (January 31… [+1646 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "FRANCE 24 English"
+      },
+      "Author": "FRANCE24",
+      "Title": "Alec Baldwin pleads not guilty to 'Rust' killing",
+      "Description": "Baldwin, a producer and star of the film, was charged last month for his role in the 2021 death of Halyna Hutchins during the filming of period piece \"Rust\" in New Mexico.\n\nHe was holding a Colt .45 when it discharged, killing Hutchins and wounding director J…",
+      "Url": "https://www.france24.com/en/live-news/20240131-alec-baldwin-pleads-not-guilty-to-rust-killing",
+      "UrlToImage": "https://s.france24.com/media/display/7bfc6cbe-c092-11ee-a6bb-005056a97e36/w:1280/p:16x9/fa09ad6bac140f09caa19f21ebaeae3faf6a8e58.jpg",
+      "PublishedAt": "2024-01-31T23:43:07Z",
+      "Content": "Los Angeles (AFP) Alec Baldwin has pleaded not guilty to manslaughter charges over the death of a young woman who was fatally shot on the set of a budget Western, US court documents showed Wednesday.… [+3220 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Chicago Tribune"
+      },
+      "Author": "Associated Press Staff",
+      "Title": "Alec Baldwin pleads not guilty to involuntary manslaughter in fatal film-set shooting",
+      "Description": "Actor Alec Baldwin has pleaded not guilty to an involuntary manslaughter charge in the fatal shooting of a cinematographer during a rehearsal on a movie set in New Mexico.",
+      "Url": "https://www.chicagotribune.com/nation-world/ct-aud-nw-alec-baldwin-rust-shooting-20240131-2fdbrxkvx5g65nmayircx2e574-story.html",
+      "UrlToImage": "https://www.chicagotribune.com/resizer/dH8po2lnSp_pgTqkJQTE0eDkgTU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/WR2H5F5GHPI6N366IGSNZAIVJE.jpg",
+      "PublishedAt": "2024-01-31T23:25:22Z",
+      "Content": "SANTA FE, N.M. Actor Alec Baldwin has pleaded not guilty to an involuntary manslaughter charge in the fatal shooting of a cinematographer during a rehearsal on a movie set in New Mexico.\r\nCourt docum… [+512 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Boston Herald"
+      },
+      "Author": "Associated Press",
+      "Title": "Alec Baldwin pleads not guilty to involuntary manslaughter charge in fatal film set shooting",
+      "Description": "Actor Alec Baldwin has pleaded not guilty to an involuntary manslaughter charge in the fatal shooting of a cinematographer during a rehearsal on a Western movie set in New Mexico. Baldwin's plea was made public Wednesday, a day before he was scheduled to be a…",
+      "Url": "https://www.bostonherald.com/2024/01/31/alec-baldwin-pleads-not-guilty-to-involuntary-manslaughter-charge-in-fatal-film-set-shooting/",
+      "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/01/Alec_Baldwin_Set_Shooting_52572.jpg?w=1024&h=683",
+      "PublishedAt": "2024-01-31T23:12:10Z",
+      "Content": "By MORGAN LEE (Associated Press)\r\nSANTA FE, N.M. (AP) — Actor Alec Baldwin has pleaded not guilty to an involuntary manslaughter charge in the fatal shooting of a cinematographer during a rehearsal o… [+3916 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -314,84 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-107291537,width-1070,height-580,imgsize-195138,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2024-01-31T11:09:22Z",
       "Content": "HanuMan | Song - Phoolon Mein Hai Mila"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Zacjohnson.com"
-      },
-      "Author": "Disclaimer and DMCA",
-      "Title": "Zoe Moore Net Worth – How Much Is Zoe Moore Worth?",
-      "Description": "Zoe Moore, a German movie actress, has an estimated net worth of $5 million. She is known for her roles in films such as Max Minsky and Me, The Taste of Apple Seeds, and Break Even. Born on April 25, 1993, in Berlin, Germany, Zoe Moore started her acting care…",
-      "Url": "https://zacjohnson.com/zoe-moore-net-worth/",
-      "UrlToImage": "https://0043d976.rocketcdn.me/wp-content/uploads/2024/01/zoe-moore-net-worth.jpg",
-      "PublishedAt": "2024-01-31T11:04:36Z",
-      "Content": "Zoe Moore, a German movie actress, has an estimated net worth of $5 million. She is known for her roles in films such as Max Minsky and Me, The Taste of Apple Seeds, and Break Even. Born on April 25,… [+14258 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Zacjohnson.com"
-      },
-      "Author": "Disclaimer and DMCA",
-      "Title": "Ashley Rose Orr Net Worth – How Much Is Ashley Rose Orr Worth?",
-      "Description": "Ashley Rose Orr, a talented actress and influential figure, has made a name for herself in the entertainment industry. Known for her role as Carrie in the TV movie “Carry Me Home,” Ashley Rose Orr has captivated audiences with her remarkable performances. Asi…",
-      "Url": "https://zacjohnson.com/ashley-rose-orr-net-worth/",
-      "UrlToImage": "https://0043d976.rocketcdn.me/wp-content/uploads/2024/01/ashley-rose-orr-net-worth.jpg",
-      "PublishedAt": "2024-01-31T10:43:59Z",
-      "Content": "Ashley Rose Orr, a talented actress and influential figure, has made a name for herself in the entertainment industry. Known for her role as Carrie in the TV movie “Carry Me Home,” Ashley Rose Orr ha… [+14390 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Hajraali",
-      "Title": "The Chef, The Actor, The Scoundrel Streaming: Watch and Stream Online via Amazon Prime Video",
-      "Description": "The Chef, The Actor, The Scoundrel is an action-comedy Japanese film that revolves around a trio of unexpected heroes who are stuck with two prisoners and a mysterious object and have to escape from the Japanese army. The movie was written and directed by Gua…",
-      "Url": "https://www.comingsoon.net/guides/news/1515521-the-chef-the-actor-the-scoundrel-streaming-watch-and-stream-online-via-amazon-prime-video",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Untitled-design-22-5.jpg?resize=1200,630",
-      "PublishedAt": "2024-01-31T10:29:40Z",
-      "Content": "The Chef, The Actor, The Scoundrel is an action-comedy Japanese film that revolves around a trio of unexpected heroes who are stuck with two prisoners and a mysterious object and have to escape from … [+2987 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Anjana Singh begins shooting for the new film 'Thakurganj'",
-      "Description": "Bhojpuri actress Anjana Singh has commenced shooting for the new movie 'Thakurganj'. Known for her stellar dance performances and numerous item numbers, Anjana shared glimpses from the first day on set via Instagram. In the photos, she is seen holding a clapb…",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/anjana-singh-begins-shooting-for-the-new-film-thakurganj/articleshow/107289909.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-107289909,width-1070,height-580,imgsize-20312,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2024-01-31T09:38:05Z",
-      "Content": "10 rare flowers that you can easily spot in Japan"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Zacjohnson.com"
-      },
-      "Author": "Disclaimer and DMCA",
-      "Title": "Danielle Morrow Net Worth – How Much Is Danielle Morrow Worth?",
-      "Description": "Danielle Morrow is a talented American TV actress known for her role as Nora Dershlit on the popular television show iCarly. With her exceptional acting skills, Morrow has gained recognition in the entertainment industry and has become an influential figure. …",
-      "Url": "https://zacjohnson.com/danielle-morrow-net-worth/",
-      "UrlToImage": "https://0043d976.rocketcdn.me/wp-content/uploads/2024/01/danielle-morrow-net-worth.jpg",
-      "PublishedAt": "2024-01-31T09:31:16Z",
-      "Content": "Danielle Morrow is a talented American TV actress known for her role as Nora Dershlit on the popular television show iCarly. With her exceptional acting skills, Morrow has gained recognition in the e… [+11342 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Shruti Kotiya",
-      "Title": "Bhakshak on Netflix: Is Bhumi Pednekar’s Movie Based on a Real Story?",
-      "Description": "The trailer for Bhumi Pednekar‘s highly anticipated crime thriller, Bhakshak, features the actor as an investigative journalist. Directed by Pulkit, the movie also stars Sanjay Mishra, Aditya Srivastava, Sai Tamhankar, and Surya Sharma, among others. Gauri Kh…",
-      "Url": "https://www.comingsoon.net/indian/news/1515341-bhakshak-on-netflix-is-bhumi-pednekar-movie-based-on-a-real-story",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Coming-Soon-Cover-Images-35.png?resize=1200,630",
-      "PublishedAt": "2024-01-31T09:04:22Z",
-      "Content": "The trailer for Bhumi Pednekars highly anticipated crime thriller, Bhakshak, features the actor as an investigative journalist. Directed by Pulkit, the movie also stars Sanjay Mishra, Aditya Srivasta… [+2048 chars]"
     }
   ]
 }
