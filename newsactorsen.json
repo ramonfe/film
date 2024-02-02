@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1261,
+  "TotalResults": 1263,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The A.V. Club"
+      },
+      "Author": "Robert DeSalvo",
+      "Title": "11 movies to check out on Netflix this February",
+      "Description": "This February, Netflix adds a Best Picture Oscar winner, a Ti West horror movie with a sequel arriving later this year, and Tyler Perry’s latest movie. The surreal Everything Everywhere All At Once won several Oscars, including Best Picture, Best Actress (Mic…",
+      "Url": "https://www.avclub.com/netflix-new-movies-february-2024-1851203666",
+      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a9921308c773e768f22d1bbcf5b94795.jpg",
+      "PublishedAt": "2024-02-01T18:00:00Z",
+      "Content": "If you were impressed by Jake Gyllenhaal in the Road House remake, check him out as an equally ripped boxer in Antoine Fuquas Southpaw. The sports drama about a boxer trying to get his life back on t… [+533 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/01/Alec_Baldwin_Set_Shooting_52572.jpg?w=1024&h=683",
       "PublishedAt": "2024-01-31T23:12:10Z",
       "Content": "By MORGAN LEE (Associated Press)\r\nSANTA FE, N.M. (AP) — Actor Alec Baldwin has pleaded not guilty to an involuntary manslaughter charge in the fatal shooting of a cinematographer during a rehearsal o… [+3916 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "hollywoodreporter.com",
-      "Title": "Donnie Yen to Star in ‘Kung Fu’ Movie for Universal",
-      "Description": "Kung Fu, the long-gestating adaptation of the 1970s TV show, is getting a jolt with actor Donnie Yen boarding the project to star. The well-known martial artist and star is in talks to lead the feature for Universal, The Hollywood Reporter has confirmed. Freq…",
-      "Url": "https://biztoc.com/x/70c9acb79d3a81b4",
-      "UrlToImage": "https://c.biztoc.com/p/70c9acb79d3a81b4/s.webp",
-      "PublishedAt": "2024-01-31T21:08:12Z",
-      "Content": "Kung Fu, the long-gestating adaptation of the 1970s TV show, is getting a jolt with actor Donnie Yen boarding the project to star. The well-known martial artist and star is in talks to lead the featu… [+339 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "deadline.com",
-      "Title": "Donnie Yen To Star In 87North’s ‘Kung Fu’ Movie For Universal Pictures",
-      "Description": "World-renowned actor and influential Hong Kong action filmmaker Donnie Yen is set to star in 87North and Universal Pictures’ Kung Fu, a feature adaptation of the classic 70s TV series. Kelly McCormick, David Leitch, and Guy Danella will produce through 87Nort…",
-      "Url": "https://biztoc.com/x/22f66c99ef76c8f9",
-      "UrlToImage": "https://c.biztoc.com/p/22f66c99ef76c8f9/s.webp",
-      "PublishedAt": "2024-01-31T20:38:21Z",
-      "Content": "World-renowned actor and influential Hong Kong action filmmaker Donnie Yen is set to star in 87North and Universal Pictures Kung Fu, a feature adaptation of the classic 70s TV series. Kelly McCormick… [+303 chars]"
     }
   ]
 }
