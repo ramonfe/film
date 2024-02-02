@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1250,
+  "TotalResults": 1251,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Roanoke Times"
+      },
+      "Author": "MORGAN LEE Associated Press",
+      "Title": "Alec Baldwin pleads not guilty to involuntary manslaughter charge in fatal film set shooting",
+      "Description": "Actor Alec Baldwin pleaded not guilty to an involuntary manslaughter charge in the fatal shooting of a cinematographer during a rehearsal on a Western movie set in New Mexico, court documents filed Wednesday show.",
+      "Url": "https://roanoke.com/news/nation-world/alec-baldwin-pleads-not-guilty/article_b75f0f82-c690-59fe-ac80-a48a7f7c5d87.html",
+      "UrlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/b/75/b75f0f82-c690-59fe-ac80-a48a7f7c5d87/65bae3da46c65.preview.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+      "PublishedAt": "2024-02-01T00:08:00Z",
+      "Content": "SANTA FE, N.M. Actor Alec Baldwin pleaded not guilty to an involuntary manslaughter charge in the fatal shooting of a cinematographer during a rehearsal on a Western movie set in New Mexico.\r\nCourt d… [+4122 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://0043d976.rocketcdn.me/wp-content/uploads/2024/01/ashlyn-jade-lopez-net-worth.jpg",
       "PublishedAt": "2024-01-31T11:19:29Z",
       "Content": "According to various sources, including Wikipedia and Forbes, Ashlyn Jade Lopez has an estimated net worth of $5 million. She is known for her work as a movie actress, having appeared in films like T… [+16342 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Teja Sajja recollects times from being a child artist in 'Indra' to playing lead role in 'Hanu Man'",
-      "Description": "Teja Sajja, a renowned actor in Telugu Cinema, expresses gratitude for the success of 'Hanu Man.' He recalls his big break as a child actor in 'Indra' with Chiranjeevi to playing the lead role in 'Hanu Man'. Teja believes 'Hanu Man' will be a treasured memory…",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/teja-sajja-from-child-artist-in-indra-to-lead-role-in-hanu-man/articleshow/107291537.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-107291537,width-1070,height-580,imgsize-195138,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2024-01-31T11:09:22Z",
-      "Content": "HanuMan | Song - Phoolon Mein Hai Mila"
     }
   ]
 }
