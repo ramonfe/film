@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1212,
+  "TotalResults": 1213,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Carolina Venesio",
+      "Title": "No es Alaska: en qué lugar se filmó la temporada de True Detective protagonizada por Jodie Foster",
+      "Description": "Después de ser cancelada, HBO Max decidió darle una nueva oportunidad a True Detective, la gran serie creada por Nic Pizzolatto. Con un cambio rotundo en su equipo de producción, la historia se desarrolla en Alaska pero no fue ahí en donde se filmó.",
+      "Url": "https://www.lanacion.com.ar/revista-lugares/no-es-alaska-en-que-lugar-se-filmo-la-temporada-de-true-detective-protagonizada-por-jodie-foster-nid01022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/jodie-foster-es-la-gran-protagonista-de-la-nueva-ZZZKS6QMA5GUXAA46N2AAW5ZPU.jpg?auth=957b6e2d7a6629cd63c6dd6dfb1bf14c573da2c4a420169fe35c608ae4f0c756&width=1920&height=1280&quality=70&smart=true",
+      "PublishedAt": "2024-02-01T06:00:00Z",
+      "Content": "1 de febrero de 202403:00\r\nQuienes son fanáticos de las series de televisión coinciden en que True Detective fue una de esas ficciones que cambió la pantalla chica para siempre. Apropiándose de todos… [+3558 chars]"
+    },
     {
       "Source": {
         "Id": "marca",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/7343df/twitch/840_560.jpeg",
       "PublishedAt": "2024-01-31T10:00:23Z",
       "Content": "Entre las caras más visibles de Twitch, hay una serie de streamers que llevan más de una década ofreciendo contenido en directo a sus seguidores. Muchos de estos creadores de contenido han servido de… [+2085 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Silvia Fernández",
-      "Title": "Amazon Prime Video cierra el mes de enero por todo lo alto: estas son sus 6 novedades",
-      "Description": "Una semana más, el catálogo de Amazon Prime Video nos deja interesantes y variadas novedades. Si la semana pasada tuvimos la nueva serie de Nicole Kidman y el Zorro de Miguel Bernardeau como principales estrenos de la plataforma de streaming, ahora se han pro…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/amazon-prime-video-cierra-el-mes-de-enero-por-todo-lo-alto-estas-son-sus-6-novedades",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/01/malena-alterio-en-la-pelicula-que-nadie-duerma.png?width=1200",
-      "PublishedAt": "2024-01-31T09:51:58Z",
-      "Content": "Malena Alterio en la nueva película 'Que nadie duerma'\r\nUna semana más, el catálogo de Amazon Prime Video nos deja interesantes y variadas novedades. Si la semana pasada tuvimos la nueva serie de Nic… [+4729 chars]"
     }
   ]
 }
