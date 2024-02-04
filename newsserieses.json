@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1296,
+  "TotalResults": 1297,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Irina Repetto",
+      "Title": "Es argentino, se mudó a Islandia y terminó actuando en la serie True Detective",
+      "Description": "La serie protagonizada por Jodie Foster desembarcó en HBO Max y la participación de Pablo Frana revolucionó las redes; en diálogo con LA NACION, el actor contó cómo terminó formando parte del elenco",
+      "Url": "https://www.lanacion.com.ar/espectaculos/es-argentino-se-mudo-a-islandia-y-termino-actuando-en-la-serie-true-detective-nid03022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/pablo-frana-el-actor-de-38-anos-que-emigro-a-KF337IK7CVBXZPG3EF7U3VTLLY.png?auth=3e1a5164cdf2525a1e3195364356da6d4643bf5dcf73a296c50d8221e6ad5ebf&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-02-03T21:33:43Z",
+      "Content": "No van ni 10 minutos del primer capítulo de la última temporada deTrue Detective y ya apareció un argentino; ¿Puse True Detective y lo primero que apareció fue un argentino? Compro y Empecé la nueva … [+8197 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/22cafd754c920c600c72758d2a5b3d3c.jpg",
       "PublishedAt": "2024-02-02T19:00:00Z",
       "Content": "Si has sentido curiosidad por True Detective: País de la noche, pero no tienes una suscripción a HBO o Max, prepárate para sentirte aún más tentado: el primer episodio ahora se transmite gratis en Yo… [+2310 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Netflix lanza el primer teaser de 'El caso Asunta', la miniserie sobre el asesinato de Asunta Basterra",
-      "Description": "Netflix estrenará \"muy pronto\" El caso Asunta, la miniserie sobre uno de los sucesos más mediáticos de la década pasada: el asesinato de la niña Asunta Basterra en el año 2013.La plataforma acaba de difundir el primer vídeo de esta historia que ha sacado adel…",
-      "Url": "https://www.eldiario.es/vertele/series/el-caso-asunta-basterra-netflix-miniserie-tristan-ulloa-candela-pena-trailer-video_1_10891184.html",
-      "UrlToImage": "https://static.eldiario.es/clip/60a2d0f4-28be-4350-b044-1390fcd878e1_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-02-02T18:27:01Z",
-      "Content": "Netflix estrenará “muy pronto” El caso Asunta, la miniserie sobre uno de los sucesos más mediáticos de la década pasada: el asesinato de la niña Asunta Basterra en el año 2013.\r\nAntena 3 calienta el … [+1521 chars]"
     }
   ]
 }
