@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1312,
+  "TotalResults": 1313,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbc-news",
+        "Name": "CBC News"
+      },
+      "Author": null,
+      "Title": "Will & Grace star Eric McCormack remembers Carl Weathers on little-known cop show shot in Vancouver",
+      "Description": "Actor and former football player Carl Weathers wore many hats, but to Eric McCormack he was a generous friend and partner on one of his first-ever TV shows.",
+      "Url": "https://www.cbc.ca/news/canada/british-columbia/eric-mccormack-carl-weathers-1.7103997",
+      "UrlToImage": "https://i.cbc.ca/1.7104052.1706923684!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/eric-mccormack-carl-weathers.jpg",
+      "PublishedAt": "2024-02-03T04:21:55Z",
+      "Content": "Actor and former football player Carl Weathers wore many hats, but to Eric McCormack he was a generous friend and partner on one of his first-ever TV shows.\r\nBefore McCormack went on to achieve stard… [+3756 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/02/2023-03-01T034349Z_606118462_RC2MKZ9F6JTJ_RTRMADP_3_TELEVISION-THE-MANDALORIAN-1024x683.jpg",
       "PublishedAt": "2024-02-02T19:55:31Z",
       "Content": "NEW YORK (AP) Carl Weathers, a former NFL linebacker who became a Hollywood action movie and comedy star, playing nemesis-turned-ally Apollo Creed in the Rocky movies, facing-off against Arnold Schwa… [+980 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Boston Globe"
-      },
-      "Author": "MARK KENNEDY",
-      "Title": "Carl Weathers, footballer-turned-actor who starred in ‘Rocky’ movies and ‘The Mandalorian,’ dies",
-      "Description": "A former NFL linebacker, Carl Weathers became a Hollywood action movie and comedy star, playing nemesis-turned-ally Apollo Creed in the “Rocky” movies, facing-off against Arnold Schwarzenegger in “Predator” and teaching golf in “Happy Gilmore.\"",
-      "Url": "https://www.bostonglobe.com/2024/02/02/metro/carl-weathers-footballer-turned-actor-who-starred-rocky-movies-mandalorian-dies/",
-      "UrlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9SMyIf0rkePCMzksPouinZX2DSc=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/I4FBZZJYUSH2IBQKVTTPSNOPW4.jpg",
-      "PublishedAt": "2024-02-02T19:54:22Z",
-      "Content": "It puts you on the map and makes your career, so to speak. But thats a one-off, so youve got to follow it up with something. Fortunately those movies kept coming, and Apollo Creed became more and mor… [+4487 chars]"
     }
   ]
 }
