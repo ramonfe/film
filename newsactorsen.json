@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1300,
+  "TotalResults": 1302,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "The Associated Press",
+      "Title": "Auburn star apologizes to Morgan Freeman after thinking actor was Ole Miss fan trying to rattle him",
+      "Description": "Auburn’s Johni Broome met one of his favorite movie stars and had to apologize to Morgan Freeman for how it happened",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/auburn-star-apologizes-morgan-freeman-after-thinking-actor-106929950",
+      "UrlToImage": "https://i.abcnewsfe.com/a/f5c9fd56-8fba-411c-95c9-36b417878480/wirestory_f0e2ae1519855f41fb773acf9078647e_16x9.jpg?w=1600",
+      "PublishedAt": "2024-02-04T06:30:36Z",
+      "Content": "OXFORD, Miss. -- Auburn's Johni Broome met one of his favorite movie stars and apologized to Morgan Freeman for how it happened.\r\nBroome, who scored 15 points in the 16th-ranked Tigers' 91-77 victory… [+1342 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://0043d976.rocketcdn.me/wp-content/uploads/2024/02/Most-Famous-Actress-In-The-World.jpg",
       "PublishedAt": "2024-02-03T02:25:50Z",
       "Content": "When it comes to the world of Hollywood, there are numerous talented actresses who have made a mark with their extraordinary performances. These internationally acclaimed female actors have not only … [+28111 chars]"
-    },
-    {
-      "Source": {
-        "Id": "next-big-future",
-        "Name": "Next Big Future"
-      },
-      "Author": "Brian Wang",
-      "Title": "Actor in Some of the Best Movies for the Best Movie Franchises Has Died",
-      "Description": "Carl Weathers was an actor in the best parts of some of best movie franchises. He was Dillon in Predator. Predator has become a movie franchise but he was the co-star of really the only great movie in that franchise. He also had one of the most iconic scenes …",
-      "Url": "https://www.nextbigfuture.com/2024/02/actor-in-some-of-the-best-movies-for-the-best-movie-franchises-has-died.html",
-      "UrlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-02-at-4.46.09-PM.jpg",
-      "PublishedAt": "2024-02-03T00:56:21Z",
-      "Content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Jeff Ames",
-      "Title": "Iconic Roles: Carl Weathers’ Best Performances",
-      "Description": "Today, we received the sad news that iconic actor Carl Weathers passed away at 76. The man, the myth, the legend appeared in over 80 TV shows and movies throughout his storied career dating back to the early 70s. Most of us know him as Apollo Creed in the Roc…",
-      "Url": "https://www.comingsoon.net/movies/features/1522525-iconic-roles-carl-weathers-best-performances",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/02/Weathers.png?resize=1200,630",
-      "PublishedAt": "2024-02-02T23:00:00Z",
-      "Content": "Today, we received the sad news that iconic actor Carl Weathers passed away at 76. The man, the myth, the legend appeared in over 80 TV shows and movies throughout his storied career dating back to t… [+3848 chars]"
     }
   ]
 }
