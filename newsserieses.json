@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1277,
+  "TotalResults": 1278,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "John Tones",
+      "Title": "Las plataformas de streaming necesitan más contenido. Su nueva técnica: trocear películas para convertirlas en miniseries",
+      "Description": "Las plataformas de streaming buscan continuamente nuevas formas de presentarnos su contenido. Conociendo bien a qué velocidad evolucionan los gustos del público (entre otras cosas, porque ellas mismas son las que los influyen y condicionan), Netflix, Disney+ …",
+      "Url": "https://www.xataka.com/streaming/plataformas-streaming-necesitan-contenido-su-nueva-tecnica-trocear-peliculas-para-convertirlas-miniseries",
+      "UrlToImage": "https://i.blogs.es/addf49/diseno-sin-titulo/840_560.jpeg",
+      "PublishedAt": "2024-02-05T21:01:46Z",
+      "Content": "Las plataformas de streaming buscan continuamente nuevas formas de presentarnos su contenido. Conociendo bien a qué velocidad evolucionan los gustos del público (entre otras cosas, porque ellas misma… [+3656 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240205103645_1200.jpg",
       "PublishedAt": "2024-02-05T09:36:45Z",
       "Content": "MADRID, 5 Feb. (CulturaOcio) - \r\n   Griselda, la serie protagonizada por Sofía Vergara, ya está en Netflix, donde se ha colocado entre lo más visto de la plataforma. La producción está basada en la n… [+2202 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Belén Prieto",
-      "Title": "HBO despide a un actor de la temporada 3 de ‘The White Lotus’ por apoyar la invasión rusa de Ucrania",
-      "Description": "Miloš Biković fue señalado por su supuesto apoyo al Kremlin y ya no aparecerá en los nuevos episodios de la serie creada por Mike White.",
-      "Url": "https://www.elespanol.com/series/hbo-max/20240205/hbo-despide-actor-temporada-the-white-lotus-apoyar-invasion-rusa-ucrania/830416987_0.html",
-      "UrlToImage": "https://s1.elespanol.com/2024/02/05/series/hbo-max/830427088_239669991_1706x960.jpg",
-      "PublishedAt": "2024-02-05T08:59:55Z",
-      "Content": "HBO fue muy criticada el mes pasado después de elegir a Bikovi, un actor serbio-ruso que comparte ciertos vínculos con el gobierno ruso y que además ha mostrado su supuesto apoyo a la invasión de Ucr… [+2598 chars]"
     }
   ]
 }
