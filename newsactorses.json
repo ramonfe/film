@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1191,
+  "TotalResults": 1193,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Jose Oliva/Irene Dalmases/Paula Padilla",
+      "Title": "'Creatura' y 'Saben aquell' triunfan en los premios Gaudí del cine catalán",
+      "Description": "'Creatura', de Elena Martín, y 'Saben aquell', de David Trueba, han acaparado los principales galardones de los XVI Premios Gaudí del cine catalán, en los que '20.000 especies de abejas', de Estibaliz Urresola, ha conseguido tres estatuillas, en una gala reiv…",
+      "Url": "https://www.eldiario.es/cultura/creatura-aquell-copan-principales-premios-gaudi_1_10894868.html",
+      "UrlToImage": "https://static.eldiario.es/clip/c9fbdfab-0f28-4fce-8605-0fd08cff2784_facebook-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-02-05T00:55:00Z",
+      "Content": "'Creatura', de Elena Martín, y 'Saben aquell', de David Trueba, han acaparado los principales galardones de los XVI Premios Gaudí del cine catalán, en los que '20.000 especies de abejas', de Estibali… [+4934 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "elDiario.es Catalunya",
+      "Title": "La 'Creatura' de Elena Martín triunfa en los premios Gaudí del cine catalán",
+      "Description": "'Creatura' se ha coronado este domingo como la triunfadora de la XVI edición de los premios Gaudí que organiza la academia del cine catalán. La película de Elena Martín que explora el deseo femenino se ha alzado con seis estatuillas, entre ellas las de mejor …",
+      "Url": "https://www.eldiario.es/catalunya/creatura-elena-martin-triunfa-premios-gaudi-cine-catalan_1_10894738.html",
+      "UrlToImage": "https://static.eldiario.es/clip/78dcf62d-299b-4bbf-be8e-d5f9a6b90cc8_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-02-05T00:24:16Z",
+      "Content": "'Creatura' se ha coronado este domingo como la triunfadora de la XVI edición de los premios Gaudí que organiza la academia del cine catalán. La película de Elena Martín que explora el deseo femenino … [+4643 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -188,19 +214,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Juan Sanmartín",
-      "Title": "El documental Grounded II es un carrusel de emociones necesario que me ha conectado más con The Last of Us 2",
-      "Description": "Atención spoilers: esta publicación trata sin tapujos detalles sobre el argumento de la saga de The Last of Us.\n\nLa evidencia es tan rotunda que negarla es de necios. The Last of Us 2 es una obra maestra con todas las de la ley, pero su categoría de ópera pri…",
-      "Url": "https://www.vidaextra.com/industria/documental-grounded-ii-carrusel-emociones-necesario-que-me-ha-conectado-the-last-of-us-2",
-      "UrlToImage": "https://i.blogs.es/5fdc5c/the-last-of-us-part-2-ellie-guitar-uhdpaper.com-hd-7.1128/840_560.jpeg",
-      "PublishedAt": "2024-02-04T14:01:38Z",
-      "Content": "Atención spoilers: esta publicación trata sin tapujos detalles sobre el argumento de la saga de The Last of Us.\r\nLa evidencia es tan rotunda que negarla es de necios. The Last of Us 2 es una obra mae… [+12465 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Xatakahome.com"
       },
       "Author": "Eva Rodriguez de Luis",
@@ -210,6 +223,19 @@
       "UrlToImage": "https://i.blogs.es/a3e465/multi/840_560.jpeg",
       "PublishedAt": "2024-02-04T14:01:38Z",
       "Content": "Aunque el televisor sea el electrodoméstico rey del salón, la realidad es que la mayoría de la gente no le saca todo el partido que puede, limitándose a ver la TDT, la interfaz del Smart TV para serv… [+4430 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Juan Sanmartín",
+      "Title": "El documental Grounded II es un carrusel de emociones necesario que me ha conectado más con The Last of Us 2",
+      "Description": "Atención spoilers: esta publicación trata sin tapujos detalles sobre el argumento de la saga de The Last of Us.\n\nLa evidencia es tan rotunda que negarla es de necios. The Last of Us 2 es una obra maestra con todas las de la ley, pero su categoría de ópera pri…",
+      "Url": "https://www.vidaextra.com/industria/documental-grounded-ii-carrusel-emociones-necesario-que-me-ha-conectado-the-last-of-us-2",
+      "UrlToImage": "https://i.blogs.es/5fdc5c/the-last-of-us-part-2-ellie-guitar-uhdpaper.com-hd-7.1128/840_560.jpeg",
+      "PublishedAt": "2024-02-04T14:01:38Z",
+      "Content": "Atención spoilers: esta publicación trata sin tapujos detalles sobre el argumento de la saga de The Last of Us.\r\nLa evidencia es tan rotunda que negarla es de necios. The Last of Us 2 es una obra mae… [+12465 chars]"
     },
     {
       "Source": {
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i.blogs.es/170f6f/rogue-x-men/840_560.jpeg",
       "PublishedAt": "2024-02-04T00:20:44Z",
       "Content": "Los mutantes son uno de los grandes pilares del imperio mediático de Marvel, y la mayoría de grandes historias giran en torno a los X-Men. Sobra decir que, por regla general, Wolverine es el que mayo… [+6648 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Irina Repetto",
-      "Title": "Es argentino, se mudó a Islandia y terminó actuando en la serie True Detective",
-      "Description": "La serie protagonizada por Jodie Foster desembarcó en HBO Max y la participación de Pablo Frana revolucionó las redes; en diálogo con LA NACION, el actor contó cómo terminó formando parte del elenco",
-      "Url": "https://www.lanacion.com.ar/espectaculos/es-argentino-se-mudo-a-islandia-y-termino-actuando-en-la-serie-true-detective-nid03022024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/pablo-frana-el-actor-de-38-anos-que-emigro-a-KF337IK7CVBXZPG3EF7U3VTLLY.png?auth=3e1a5164cdf2525a1e3195364356da6d4643bf5dcf73a296c50d8221e6ad5ebf&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-02-03T21:33:43Z",
-      "Content": "No van ni 10 minutos del primer capítulo de la última temporada deTrue Detective y ya apareció un argentino; ¿Puse True Detective y lo primero que apareció fue un argentino? Compro y Empecé la nueva … [+8197 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Nando Ochando, Javier Cáceres, Rocío Bermejo",
-      "Title": "La redacción de elDiario.es entrega sus Goya al cine español",
-      "Description": "El cine español vivirá el próximo sábado 10 de febrero su gran fiesta con la celebración de los premios Goya 2024. En la redacción de elDiario.es hemos querido unirnos ocupando, por un día, el puesto de los académicos que, cada año, votan para elegir los mejo…",
-      "Url": "https://www.eldiario.es/cultura/cine/redaccion-eldiario-entrega-goya-cine-espanol_1_10890841.html",
-      "UrlToImage": "https://static.eldiario.es/clip/d9d1194c-29ae-4a02-94f2-4a7dd0e00981_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-02-03T21:22:33Z",
-      "Content": "El cine español vivirá el próximo sábado 10 de febrero su gran fiesta con la celebración de los premios Goya 2024. En la redacción de elDiario.es hemos querido unirnos ocupando, por un día, el puesto… [+1016 chars]"
     }
   ]
 }
