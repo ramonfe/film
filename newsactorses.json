@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1212,
+  "TotalResults": 1213,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Efe",
+      "Title": "Gina Carano demanda a Disney y a Lucasfilm por despedirla de 'The Mandalorian' financiada por Elon Musk",
+      "Description": "La actriz estadounidense Gina Carano demandó este martes a Disney y a Lucasfilm por discriminación y despido improcedente, tras haber sido expulsada en 2021 de la serie 'The...",
+      "Url": "https://www.elmundo.es/television/series/2024/02/07/65c32f6ce85ece37298b45a3.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/c3869f222d7f8720cfebf74b727c5fed/crop/257x350/2715x1988/resize/1200/f/webp/assets/multimedia/imagenes/2024/02/07/17072903111047.jpg",
+      "PublishedAt": "2024-02-07T07:21:19Z",
+      "Content": "La actriz estadounidense Gina Carano demandó este martes a Disney y a Lucasfilm por discriminación y despido improcedente, tras haber sido expulsada en 2021 de la serie 'The Mandalorian' por comparar… [+2162 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/d88586/lamoderna-cap98-3-65ae7d3455525-1-/840_560.jpeg",
       "PublishedAt": "2024-02-06T13:06:05Z",
       "Content": "Una telenovela que se va, por otra que apenas acaba de llegar. Muchos actores de \"Amar es para siempre\" están buscando ya, a modo anticipatorio y previsor, cuál será su próximo proyecto antes de que … [+2334 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Talavera recupera el Salón del Manga los próximos 24 y 25 de febrero",
-      "Description": "El alcalde de Talavera de Reina ( Toledo ), José Julián Gregorio, ha avanzado que la ciudad recupera para los jóvenes el Salón del Manga, los videojuegos y la cultura alternativa de Talavera, tras un parón de cinco años y que espera reunir a más de 2.500 pers…",
-      "Url": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-recupera-salon-manga-proximos-febrero-20240206133632-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/02/06/manga-U85220316882jHV-1024x512@abc.jpg",
-      "PublishedAt": "2024-02-06T12:38:12Z",
-      "Content": "El alcalde de Talavera de Reina (Toledo), José Julián Gregorio, ha avanzado que la ciudad recupera para los jóvenes el Salón del Manga, los videojuegos y la cultura alternativa de Talavera, tras un p… [+88 chars]"
     }
   ]
 }
