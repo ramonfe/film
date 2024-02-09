@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1289,
+  "TotalResults": 1291,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Mario Lopez Joins Candace Cameron Bure at Great American Family - Details On His First Movie Revealed",
+      "Description": "Mario Lopez is headed to the Great American Family network alongside the likes of Candace Cameron Bure. The 50-year-old actor and longtime TV host signed a contract with the network that will extend across multiple years. Details are already emerging about hi…",
+      "Url": "https://www.justjared.com/2024/02/08/mario-lopez-joins-candace-cameron-bure-at-great-american-family-details-on-his-first-movie-revealed/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/02/mario-joins.jpg",
+      "PublishedAt": "2024-02-08T22:21:22Z",
+      "Content": "Mario Lopez is headed to the Great American Family network alongside the likes of Candace Cameron Bure.\r\nThe 50-year-old actor and longtime TV host signed a contract with the network that will extend… [+1340 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "Custom Admin Site in Django",
+      "Description": "I have problem to change title_header, site_header, index_title in custom admin site.\nMy admin.py:\n\nfrom reviews.models import Movie, MovieCasts, Review, Actor\n\n\nclass CritiflixAdminSite(AdminSite):\n title_header = 'Aplikacja administracyjna Critiflix'\n site_…",
+      "Url": "https://stackoverflow.com/questions/77964977/custom-admin-site-in-django",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2024-02-08T22:08:29Z",
+      "Content": "I have problem to change title_header, site_header, index_title in custom admin site.\r\nMy admin.py:\r\nfrom reviews.models import Movie, MovieCasts, Review, Actor\r\nclass CritiflixAdminSite(AdminSite):\r… [+727 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://0043d976.rocketcdn.me/wp-content/uploads/2024/02/Natalie-Martinez-net-worth.jpg",
       "PublishedAt": "2024-02-08T13:38:52Z",
       "Content": "Natalie Martinez, a talented actress and Tae Kwon Do Champion, first captured the public’s attention as a cast member on season 11 of the popular reality TV show, Big Brother. With her impressive mar… [+21041 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Nikita Nath",
-      "Title": "Lee Je-Hoon to Star in Upcoming K-Drama Chief Detective 1958 on MBC",
-      "Description": "Chief Detective 1958 is an upcoming period crime-action K-drama that is all set to make its arrival on MBC in April 2024. MBC has recently released photos from the screenplay reading of the upcoming series on social media. As per the photos, well-known South …",
-      "Url": "https://www.comingsoon.net/k-drama/news/1532614-lee-je-hoon-to-star-in-upcoming-k-drama-chief-detective-1958-on-mbc",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/02/Untitled-design-2024-02-08T170334.515.png?resize=1200,630",
-      "PublishedAt": "2024-02-08T12:31:41Z",
-      "Content": "Chief Detective 1958 is an upcoming period crime-action K-drama that is all set to make its arrival on MBC in April 2024. MBC has recently released photos from the screenplay reading of the upcoming … [+1694 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Raw Story"
-      },
-      "Author": "Alexandria Jacobson, Investigative Reporter",
-      "Title": "Prison president: How Donald Trump could serve from behind bars",
-      "Description": "The notion was once unthinkable.More recently, purely theoretical.Now, there’s a legitimate chance Donald Trump could be running for president, or even serving as commander in chief, from behind bars.Two overriding factors contribute to this bizarre reality.F…",
-      "Url": "https://www.rawstory.com/raw-investigates/donald-trump-the-prison-president-how-he-could-serve-from-behind-bars/",
-      "UrlToImage": "https://www.rawstory.com/media-library/image.jpg?id=51411378&width=1200&height=600&coordinates=0%2C0%2C0%2C630",
-      "PublishedAt": "2024-02-08T12:01:35Z",
-      "Content": "The notion was once unthinkable.\r\nMore recently, purely theoretical.\r\nNow, theres a legitimate chance Donald Trump could be running for president, or even serving as commander in chief, from behind b… [+23983 chars]"
     }
   ]
 }
