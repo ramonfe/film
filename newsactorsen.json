@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1312,
+  "TotalResults": 1314,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Root"
+      },
+      "Author": "Candace McDuffie",
+      "Title": "Here's the Info on Denzel Washington And Spike Lee's Fifth Film",
+      "Description": "Photo: Erik Voake (Getty Images)\r\nTwo of our faves — and the best to ever do it — are teaming up again for yet another classic film. Denzel Washington and Spike Lee are creating their own English language adaptation of the 1963 Akira Kurosawa crime film “High…",
+      "Url": "https://www.theroot.com/heres-the-info-on-denzel-washington-and-spike-lees-fift-1851243755",
+      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9e62936e9e088751899a936b8e5399bd.jpg",
+      "PublishedAt": "2024-02-09T19:34:00Z",
+      "Content": "Two of our faves and the best to ever do it are teaming up again for yet another classic film. Denzel Washington and Spike Lee are creating their own English language adaptation of the 1963 Akira Kur… [+1486 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "deadline.com",
+      "Title": "Melissa Barrera’s Sundance Horror-Comedy ‘Your Monster’ Heads To EFM With Bankside",
+      "Description": "Bankside Films has boarded international sales rights to Caroline Lindy’s Sundance Midnight movie Your Monster, starring Melissa Barrera (Scream). In Your Monster, after her life falls apart, softly-spoken actress Laura Franco (Barrera) finds her voice again …",
+      "Url": "https://biztoc.com/x/b6beab5bb36dd959",
+      "UrlToImage": "https://c.biztoc.com/p/b6beab5bb36dd959/s.webp",
+      "PublishedAt": "2024-02-09T19:02:08Z",
+      "Content": "Bankside Films has boarded international sales rights to Caroline Lindys Sundance Midnight movie Your Monster, starring Melissa Barrera (Scream).In Your Monster, after her life falls apart, softly-sp… [+314 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -162,19 +188,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Cheezburger.com"
-      },
-      "Author": "Emmy Ward, Emmy Ward",
-      "Title": "30+ of the Funniest Marvel Memes of the Week (January 9, 2024)",
-      "Description": "Happy Friday, Marvel fans! There has been some interesting Marvel casting news afoot that I am super curious about. Last week, it was announced that Emmy award-winning actress and comedian Ayo Edebiri is dropping Thunderbolts, likely due to scheduling conflic…",
-      "Url": "https://cheezburger.com/24391685/30-of-the-funniest-marvel-memes-of-the-week-january-9-2024",
-      "UrlToImage": "https://i.chzbgr.com/original/24391685/hE196B2E6/superhero-memes-marvel-movies-captain-marvel-superhero-spider-man-thanos-memes-marvel-memes",
-      "PublishedAt": "2024-02-09T13:00:00Z",
-      "Content": "Happy Friday, Marvel fans! There has been some interesting Marvel casting news afoot that I am super curious about. Last week, it was announced that Emmy award-winning actress and comedian Ayo Edebir… [+778 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Deadline"
       },
       "Author": "Melanie Goodfellow",
@@ -184,6 +197,19 @@
       "UrlToImage": "https://deadline.com/wp-content/uploads/2024/02/MixCollage-09-Feb-2024-12-43-PM-1270.jpg?w=1024",
       "PublishedAt": "2024-02-09T13:00:00Z",
       "Content": "Academy Award nominee Bill Nighy and rising teen actor Roman Griffin Davis are set to co-star in road movie500 Miles from BAFTA Award-winning director Morgan Matthews.\r\nBeta Cinema has acquired inter… [+2596 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cheezburger.com"
+      },
+      "Author": "Emmy Ward, Emmy Ward",
+      "Title": "30+ of the Funniest Marvel Memes of the Week (January 9, 2024)",
+      "Description": "Happy Friday, Marvel fans! There has been some interesting Marvel casting news afoot that I am super curious about. Last week, it was announced that Emmy award-winning actress and comedian Ayo Edebiri is dropping Thunderbolts, likely due to scheduling conflic…",
+      "Url": "https://cheezburger.com/24391685/30-of-the-funniest-marvel-memes-of-the-week-january-9-2024",
+      "UrlToImage": "https://i.chzbgr.com/original/24391685/hE196B2E6/superhero-memes-marvel-movies-captain-marvel-superhero-spider-man-thanos-memes-marvel-memes",
+      "PublishedAt": "2024-02-09T13:00:00Z",
+      "Content": "Happy Friday, Marvel fans! There has been some interesting Marvel casting news afoot that I am super curious about. Last week, it was announced that Emmy award-winning actress and comedian Ayo Edebir… [+778 chars]"
     },
     {
       "Source": {
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/02/mario-joins.jpg",
       "PublishedAt": "2024-02-08T22:21:22Z",
       "Content": "Mario Lopez is headed to the Great American Family network alongside the likes of Candace Cameron Bure.\r\nThe 50-year-old actor and longtime TV host signed a contract with the network that will extend… [+1340 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Stackoverflow.com"
-      },
-      "Author": "Stack Overflow",
-      "Title": "Custom Admin Site in Django",
-      "Description": "I have problem to change title_header, site_header, index_title in custom admin site.\nMy admin.py:\n\nfrom reviews.models import Movie, MovieCasts, Review, Actor\n\n\nclass CritiflixAdminSite(AdminSite):\n title_header = 'Aplikacja administracyjna Critiflix'\n site_…",
-      "Url": "https://stackoverflow.com/questions/77964977/custom-admin-site-in-django",
-      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
-      "PublishedAt": "2024-02-08T22:08:29Z",
-      "Content": "I have problem to change title_header, site_header, index_title in custom admin site.\r\nMy admin.py:\r\nfrom reviews.models import Movie, MovieCasts, Review, Actor\r\nclass CritiflixAdminSite(AdminSite):\r… [+727 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Dave Bautista and Samuel L. Jackson Set To Star in Futuristic Action-Adventure Film AFTERBURN",
-      "Description": "Dave Bautista and Samuel L. Jackson are set to star together in another big action film titled Afterburn, which is going to be a post-apocalyptic adventure story set in the future. It sounds like it will tell a fun and thrilling story! The movie is going to b…",
-      "Url": "https://geektyrant.com/news/dave-bautista-and-samuel-l-jackson-set-to-star-in-futuristic-action-adventure-film-afterburn",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/65c2b1ab8f386572a515b976/1707427881463/dave-bautista-and-samuel-l-jackson-set-to-star-in-futuristic-action-adventure-film-afterburn.jpg?format=1500w",
-      "PublishedAt": "2024-02-08T21:31:00Z",
-      "Content": "Dave Bautista and Samuel L. Jacksonare set to star together in another big action film titled Afterburn, which is going to be a post-apocalyptic adventure story set in the future. It sounds like it w… [+1413 chars]"
     }
   ]
 }
