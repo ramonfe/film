@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1211,
+  "TotalResults": 1210,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Dónde ver las películas nominadas a los Premios Goya 2023: lista por plataformas",
+      "Description": "A medida que se aproxima la 38ª edición de los Premios Goya , la emoción crece entre los amantes del cine. La gala, programada para el próximo sábado 10 de febrero en la ciudad de Valladolid , ya reveló el pasado mes de noviembre a sus nominados de la mano de…",
+      "Url": "https://www.abc.es/play/cine/noticias/ver-peliculas-nominadas-premios-goya-2023-lista-20240210070000-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/01/23/pelis-goya-U08257618286chu-1024x512@abc.jpg",
+      "PublishedAt": "2024-02-10T06:00:03Z",
+      "Content": "A medida que se aproxima la 38ª edición de los Premios Goya, la emoción crece entre los amantes del cine. La gala, programada para el próximo sábado 10 de febrero en la ciudad de Valladolid, ya revel… [+50 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.ecestaticos.com/33F2HVg1o-jEjA_CJZ_UfBNQhZ4=/0x0:2272x1524/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/20a/bb4/763/20abb4763d43248a071617191ecee42e.jpg",
       "PublishedAt": "2024-02-09T16:45:00Z",
       "Content": "La oscura miniserie de Sigourney Weaver que debes ver antes de que le dén el Goya internacionalEl penúltimo capítulo de True detective: noche polar se adelanta por culpa de la Super Bowl: te contamos… [+2870 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Europapress.es"
-      },
-      "Author": null,
-      "Title": "Sigourney Weaver, sobre abusos en el cine: \"El 'Me too' no iba a cambiar las cosas de la noche a la mañana\"",
-      "Description": "La actriz agradece el Goya Internacional y ensalza el cine español, que no está sujeto al \"dinero\", \"como sucede en Hollywood\"",
-      "Url": "https://www.europapress.es/castilla-y-leon/noticia-sigourney-weaver-abusos-cine-me-too-no-iba-cambiar-cosas-noche-manana-20240209173401.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240209173401_1200.jpg",
-      "PublishedAt": "2024-02-09T16:34:01Z",
-      "Content": "La actriz agradece el Goya Internacional y ensalza el cine español, que no está sujeto al \"dinero\", \"como sucede en Hollywood\"\r\n VALLADOLID, 9 Feb. (EUROPA PRESS) - \r\n La actriz estadounidense Sigour… [+2044 chars]"
     }
   ]
 }

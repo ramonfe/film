@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 377,
+  "TotalResults": 374,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Anonymous",
+      "Title": "2023.3.0b6",
+      "Description": "2023.3.0b6\n\n February 7, 2024\n \n unityhub://2023.3.0b6/4ca2224a582d\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n Linux Build Support (IL2C…",
+      "Url": "https://unity.com/releases/editor/beta/2023.3.0b6",
+      "UrlToImage": null,
+      "PublishedAt": "2024-02-10T06:51:02Z",
+      "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an issue where a GameOb… [+191888 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2024/02/netflix-cracking-down-password-sharing.jpg?auto=compress&fm=pjpg",
       "PublishedAt": "2024-02-07T08:00:00Z",
       "Content": "A college student says she is locked out of her family’s Netflix account on her phone due to Netflix’s password-sharing crackdown features.\r\nContent creator JJ (@alllpanicnodiscoo) details her issues… [+4400 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Ayesha Asif",
-      "Title": "Nightmare Next Door Season 7 Streaming: Watch and Stream Online via HBO Max",
-      "Description": "Nightmare Next Door Season 7 focuses on true crime stories that took place in ordinary communities, showcases the complexities of human behavior, and reveals the diverse array of motives behind heinous crimes. ID aired the show in March 2013. Here’s how you c…",
-      "Url": "https://www.comingsoon.net/guides/news/1527199-nightmare-next-door-season-7-streaming-watch-and-stream-online-via-hbo-max",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/02/MixCollage-07-Feb-2024-12-54-PM-1825.jpg?resize=1200,630",
-      "PublishedAt": "2024-02-07T07:27:25Z",
-      "Content": "Nightmare Next Door Season 7 focuses on true crime stories that took place in ordinary communities, showcases the complexities of human behavior, and reveals the diverse array of motives behind heino… [+3032 chars]"
     }
   ]
 }
