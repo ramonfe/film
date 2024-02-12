@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1278,
+  "TotalResults": 1279,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Inmaculada Cobo",
+      "Title": "Malena Alterio gana el Goya a mejor actriz protagonista y se funde en un abrazo con Fernando Tejero",
+      "Description": "El cine español por fin ha hecho justicia con Malena Alterio. La actriz se ha alzado con el Goya a mejor actriz por su papel en la película Que nadie duerma, dirigida por Antonio...",
+      "Url": "https://www.elmundo.es/cultura/premios-goya/2024/02/11/65c7dd58fdddff319a8b4599.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/c7e0d55e21d3e93e227daa29538a6f67/crop/0x0/2918x1945/resize/1200/f/webp/assets/multimedia/imagenes/2024/02/11/17076133451631.jpg",
+      "PublishedAt": "2024-02-11T01:05:47Z",
+      "Content": "El cine español por fin ha hecho justicia con Malena Alterio. La actriz se ha alzado con el Goya a mejor actriz por su papel en la película Que nadie duerma, dirigida por Antonio Méndez Esparza y bas… [+1814 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/pen-c3-a9lope-cruz-attends-the-red-carpet-at-the-goya-awards-news-photo-1707597949.jpg?crop=1.00xw:0.335xh;0,0.0391xh&resize=1200:*",
       "PublishedAt": "2024-02-10T20:45:00Z",
       "Content": "Penélope Cruz ha llegado deslumbrante a la alfombra roja de los Premios Goya 2024. La actriz, que era una de las más esperadas, será la encargada de entregar uno de los premios durante la gala de los… [+1390 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "EFE",
-      "Title": "Sacristán sobre Vermut: es una \"necedad monumental\" que lo personal afecte a su cine",
-      "Description": "El actor ha manifestado en la alfombra roja de los Goya que le parece \"un error sacrificar el trabajo de quien ha cometido un error, que lo pague en lo personal, pero que en lo profesional no tiene porque sufrir las consecuencias\"",
-      "Url": "https://www.elconfidencial.com/cultura/2024-02-10/sacristan-sobre-vermut-es-una_3828317/",
-      "UrlToImage": "https://images.ecestaticos.com/XSmGr8CGDocg8IJg53MsYVbT1EE=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/c85/1a8/26e/c851a826e45611838af1098bb3ba11cf.jpg",
-      "PublishedAt": "2024-02-10T20:39:00Z",
-      "Content": "José Sacristán lamentó este sábado los casos que se han conocido de violencia sexual cometidos por Carlos Vermut pero se ha mostrado rotundo al afirmar que es \"una estupidez, una necedad monumental\" … [+1199 chars]"
     }
   ]
 }
