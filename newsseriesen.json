@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 348,
+  "TotalResults": 349,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Worldsoccertalk.com"
+      },
+      "Author": "Kyle Fansler",
+      "Title": "'Nobody watched me on Apple TV+,' says Jon Stewart",
+      "Description": "Popular talk show host Jon Stewart has spoken about his experience at Apple TV+ and his impending return to cable TV. His experience at Apple TV+ made him feel like no one was watching. His words shed light on potential concerns for the tech giant ahead of se…",
+      "Url": "https://worldsoccertalk.com/tv/nobody-watched-me-on-apple-tv-says-jon-stewart-20240212-WST-489128.html",
+      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20240212_WST_489128_Jon-Stewart-Apple.jpg[ampersand]width=1200[ampersand]height=740",
+      "PublishedAt": "2024-02-12T21:29:13Z",
+      "Content": "Popular talk show host Jon Stewart has spoken about his experience at Apple TV+ and his impending return to cable TV. His experience at Apple TV+ made him feel like no one was watching.\r\nHis words sh… [+3116 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-02-08T20:33:57Z",
       "Content": "The Apple Vision Pro has made my eyes work harder than ever before. It's not just because I have ultra-sharp, incredibly bright micro-OLED screens right on my face: The Vision Pro relies on eye track… [+30838 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Devindra Hardawar",
-      "Title": "Apple Vision Pro review: Beta testing the future",
-      "Description": "The Apple Vision Pro has made my eyes work harder than ever before. It's not just because I have ultra-sharp, incredibly bright micro-OLED screens right on my face: The Vision Pro relies on eye tracking for navigating visionOS, its new \"spatial computing\" ope…",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2d685f55-88ed-4157-8447-b7b6f9e3074f",
-      "UrlToImage": null,
-      "PublishedAt": "2024-02-08T20:14:30Z",
-      "Content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 243 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
     }
   ]
 }
