@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 349,
+  "TotalResults": 350,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TVLine"
+      },
+      "Author": "Kimberly Roots",
+      "Title": "Tyler Perry’s First Netflix Series, Beauty in Black, Lands 16-Episode Order",
+      "Description": "The Tyler Perry Television Universe is extending to Netflix. The prolific producer has set up a new dramatic series at the streaming service, TVLine has learned. Beauty in Black will be Perry’s first TV show to come out of his evolving creative partnership wi…",
+      "Url": "https://tvline.com/news/tyler-perry-beauty-in-black-series-order-netflix-1235167446/",
+      "UrlToImage": "https://tvline.com/wp-content/uploads/2024/02/tyler-perry-beauty-in-black-series-order-netflix.jpg",
+      "PublishedAt": "2024-02-12T22:00:06Z",
+      "Content": "The Tyler Perry Television Universe is extending to Netflix.\r\nThe prolific producer has set up a new dramatic series at the streaming service, TVLine has learned. Beauty in Black will be Perry’s firs… [+1101 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/62b5d67ffc1b12dfb7977f2f2dbd13e3.jpg",
       "PublishedAt": "2024-02-08T20:45:00Z",
       "Content": "Noted masterful adapter and Stephen King superfan Mike Flanagan (The Fall of the House of Usher, The Haunting of Hill House, Geralds Game, Doctor Sleep) has The Life of Chuck, drawn from Kings novell… [+285 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Apple Vision Pro review: Beta testing the future",
-      "Description": "The Apple Vision Pro has made my eyes work harder than ever before. It's not just because I have ultra-sharp, incredibly bright micro-OLED screens right on my face: The Vision Pro relies on eye tracking for navigating visionOS, its new \"spatial computing\" ope…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173016554",
-      "UrlToImage": null,
-      "PublishedAt": "2024-02-08T20:33:57Z",
-      "Content": "The Apple Vision Pro has made my eyes work harder than ever before. It's not just because I have ultra-sharp, incredibly bright micro-OLED screens right on my face: The Vision Pro relies on eye track… [+30838 chars]"
     }
   ]
 }
