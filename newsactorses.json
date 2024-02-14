@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1205,
+  "TotalResults": 1206,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Quién es Albert Espinosa: de pasar 10 años ingresado por un cáncer y perder una pierna a emocionar a Spielberg",
+      "Description": "Albert Espinosa se ha convertido en uno de los grandes ejemplos de superación de nuestro país. Tras pasar media vida en un hospital y sobrevivir a un complicado cáncer , el catalán ha conseguido dejar atrás esa parte trágica para convertirse en uno de los gra…",
+      "Url": "https://www.abc.es/play/television/noticias/quien-es-albert-espinosa-ingresado-cancer-perder-pierna-spielberg-20240213124410-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/02/13/28077564.jpg",
+      "PublishedAt": "2024-02-13T18:48:25Z",
+      "Content": "Albert Espinosa se ha convertido en uno de los grandes ejemplos de superación de nuestro país. Tras pasar media vida en un hospital y sobrevivir a un complicado cáncer, el catalán ha conseguido dejar… [+95 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/2e3814/coque-malla/840_560.jpeg",
       "PublishedAt": "2024-02-13T09:30:58Z",
       "Content": "El invitado de anoche en 'El hormiguero' fue Coque Malla. El cantante presentó una película, explicó cómo fue su separación de Los Ronaldos y recordó aquella vez que le confundieron con Pedro Pascal … [+1514 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "FormulaTV",
-      "Title": "Raúl Tejón ('Machos Alfa'): \"La masculinidad tóxica y el patriarcado no son patrimonio masculino, sino social\"",
-      "Description": "ENTREVISTA El actor regresa a la segunda temporada de la serie de Netflix junto a Fele Martínez, Gorka Otxoa y Fernando Gil.Raúl Tejón ('Machos Alfa'): \"La masculinidad tóxica y el patriarcado no son patrimonio masculino, sino social\"",
-      "Url": "https://www.formulatv.com/videos/raul-tejon-machos-alfa-masculinidad-toxixa-social-27765/",
-      "UrlToImage": "https://www.formulatv.com/images/videos/27000/27765_6PRasketv9-t.jpg",
-      "PublishedAt": "2024-02-13T09:16:00Z",
-      "Content": "ENTREVISTA\r\nEl actor regresa a la segunda temporada de la serie de Netflix junto a Fele Martínez, Gorka Otxoa y Fernando Gil.\r\n155\r\nSerie relacionada\r\nTitulares de 'Machos Alfa 2'\r\n<ul><li>Gorka Otxo… [+1923 chars]"
     }
   ]
 }
