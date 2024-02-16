@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 379,
+  "TotalResults": 380,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Worldsoccertalk.com"
+      },
+      "Author": "Christopher Harris",
+      "Title": "MLS and Apple make MLS Season Pass budget cuts",
+      "Description": "Major League Soccer has reduced the number of commentators and analysts calling games on MLS Season Pass in 2024. The MLS Season Pass budget cuts are part of a business effort to reduce costs after spending on production costs exceeded expectations last year,…",
+      "Url": "https://worldsoccertalk.com/tv/mls-and-apple-make-mls-season-pass-budget-cuts-20240215-WST-489728.html",
+      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20240215_WST_489728_mls-apple-2024-budget-cuts.jpg[ampersand]width=1200[ampersand]height=740",
+      "PublishedAt": "2024-02-15T23:15:08Z",
+      "Content": "Major League Soccer has reduced the number of commentators and analysts calling games on MLS Season Pass in 2024. The MLS Season Pass budget cuts are part of a business effort to reduce costs after s… [+4685 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1707765771/021324-ncis-hero_pdrpua",
       "PublishedAt": "2024-02-13T04:00:51Z",
       "Content": "In their official report on streaming data for 2023, Nielsen listed NCIS as the third-most-viewed program, trailing only on-demand babysitter Bluey and the curious post-facto new-to-Netflix juggernau… [+4841 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thedesk.net",
-      "Title": "Amazon sued for putting ads in Prime Video content",
-      "Description": "A streaming TV viewer watches an Amazon Prime Video show on a tablet. (Courtesy image) A California man has filed a lawsuit against tech giant Amazon over a recent decision to incorporate advertising in its Prime Video service. The plaintiff, Corona resident …",
-      "Url": "https://biztoc.com/x/4d661be947423faa",
-      "UrlToImage": "https://c.biztoc.com/p/4d661be947423faa/s.webp",
-      "PublishedAt": "2024-02-13T03:34:11Z",
-      "Content": "A streaming TV viewer watches an Amazon Prime Video show on a tablet. (Courtesy image)A California man has filed a lawsuit against tech giant Amazon over a recent decision to incorporate advertising … [+294 chars]"
     }
   ]
 }
