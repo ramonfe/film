@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1228,
+  "TotalResults": 1229,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Alberto Rey",
+      "Title": "Found pronto será una serie desaparecida que no le importa a nadie",
+      "Description": "Desde la llegada de Netflix y demás plataformas, los premios televisivos han dejado un poco de lado a la tele de toda la vida. Que series magníficas como The Good Wife se...",
+      "Url": "https://www.elmundo.es/cultura/2024/02/15/65c6465ae4d4d8523e8b4598.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/f8434683706e15719be40e9cc23910d4/resize/1200/f/webp/assets/multimedia/imagenes/2024/02/09/17074928446659.jpg",
+      "PublishedAt": "2024-02-15T07:42:20Z",
+      "Content": "Desde la llegada de Netflix y demás plataformas, los premios televisivos han dejado un poco de lado a la tele de toda la vida. Que series magníficas como The Good Wife se emitieran en canales de tele… [+2712 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://ficheracos.publico.es/images/thumbnails/publico-al-dia/publico-al-dia/20240214131156-x8sov52.jpeg",
       "PublishedAt": "2024-02-14T12:08:26Z",
       "Content": "El expresidente socialista José Luis Rodríguez Zapatero no se ha dejado nada en el tintero sobre la polémica que rodea al Partido Popular en los últimos días. \"Es como una serie, están los guionistas… [+183 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"Salvaje, pero muy divertido\": Isabela Merced se pasó The Last of Us Parte 2 en tan sólo un fin de semana para preparar su papel como Dina en la serie de HBO",
-      "Description": "Está claro que Isabela Merced es una de las actrices más destacadas en Hollywood en la actualidad. Después de debutar en el UCM con Madame Web y confirmar su llegada a DC Studios como Hawkgirl, la actriz estadounidense-peruana también firmó con HBO para inter…",
-      "Url": "https://www.vidaextra.com/series/salvaje-muy-divertido-isabela-merced-se-paso-the-last-of-us-parte-2-solo-fin-semana-para-preparar-su-papel-como-dina-serie-hbo",
-      "UrlToImage": "https://i.blogs.es/62043f/dina/840_560.jpeg",
-      "PublishedAt": "2024-02-14T11:45:21Z",
-      "Content": "Está claro que Isabela Merced es una de las actrices más destacadas en Hollywood en la actualidad. Después de debutar en el UCM con Madame Web y confirmar su llegada a DC Studios como Hawkgirl, la ac… [+1954 chars]"
     }
   ]
 }
