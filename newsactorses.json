@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1238,
+  "TotalResults": 1231,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "20minutos.es"
+      },
+      "Author": "Cinemanía",
+      "Title": "Carey Mulligan dice lo que nadie cuenta de los premios en Hollywood: \"Están mintiendo\"",
+      "Description": "La actriz nominada a los Premios Oscar 2024 por 'Maestro', quien estos meses también deslumbraba en 'Saltburn', se ha sincerado sobre la temporada de galardones en la industria del cine de Hollywood.",
+      "Url": "https://www.20minutos.es/cinemania/noticias/carey-mulligan-oscar-reconoce-ninguna-estrella-cuenta-premios-oscar-estan-mintiendo-5215846/",
+      "UrlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/files/redes_cinemania/uploads/imagenes/2024/02/06/carey-mulligan-en-los-critics-choice-awards-2024.jpeg",
+      "PublishedAt": "2024-02-16T07:17:27Z",
+      "Content": "Los premios sí que importan. Estamos acostumbrados a que los actores y las actrices de Hollywood resten importancia cada vez que no reciben nominaciones en la temporada de premios, el último caso más… [+2003 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/65cdf657dcfac9c05e4ed55d/16:9/w_1280,c_limit/Webp.net-resizeimage-2-2.jpg",
       "PublishedAt": "2024-02-15T15:03:42Z",
       "Content": "Cuando Lorne Michaels ni siquiera se presentó a su (fallida) prueba para formar parte del Saturday Night Live durante la temporada 1980-81, Jim Carrey pensó que eso era todo. Fin. Telón. Él, que habí… [+3846 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "De drogas y de las cicatrices que deja una guerra, así es 'Sugar Bandits', con Will Smith a la cabeza",
-      "Description": "El que otrora fuera el niño mimado de América, Will Smith, sigue recuperándose poco a poco profesionalmente hablando (esperamos que también personalmente) después de protagonizar uno de los episodios más vergonzosos que recordamos en gala alguna de los Oscar.…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/de-drogas-y-de-las-cicatrices-que-deja-una-guerra-asi-es-sugar-bandits-con-will-smith-a-la-cabeza",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/02/will-smith.jpg?width=1200",
-      "PublishedAt": "2024-02-15T15:00:56Z",
-      "Content": "Will Smith en Independence Day\r\nEl que otrora fuera el niño mimado de América, Will Smith, sigue recuperándose poco a poco profesionalmente hablando (esperamos que también personalmente) después de p… [+2260 chars]"
     }
   ]
 }
