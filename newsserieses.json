@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1122,
+  "TotalResults": 1123,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Alberto Rey",
+      "Title": "The New Look y el autosabotaje de Juliette Binoche",
+      "Description": "Mi idea era escribir de Cristóbal Balenciaga y The New Look al tiempo. Poner la serie española de Disney+ al lado de la norteamericana de Apple TV+. Antes de verlas, no tenía ni...",
+      "Url": "https://www.elmundo.es/cultura/2024/02/18/65cf9241fc6c8377028b4594.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/aaf897b764e7a82620ec06d62b7166b9/crop/0x0/1200x800/resize/1200/f/webp/assets/multimedia/imagenes/2024/02/16/17081022773996.jpg",
+      "PublishedAt": "2024-02-18T20:50:42Z",
+      "Content": "Mi idea era escribir de Cristóbal Balenciaga y The New Look al tiempo. Poner la serie española de Disney+ al lado de la norteamericana de Apple TV+. Antes de verlas, no tenía ni idea de cuál sería la… [+2747 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/31ecca/kagurabachi/840_560.jpeg",
       "PublishedAt": "2024-02-16T20:01:23Z",
       "Content": "En septiembre del año pasado, la revista Shonen Jump lanzó con gran entusiasmo un manga muy peculiar: Kagurabachi. Inicialmente, la obra fue tomada como una broma debido a que se trataba de un shonen… [+1556 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Lorenzo Ayuso",
-      "Title": "El entrevistado cuestionable: la TV, ante los dilemas de dar voz a personajes como El Pequeño Nicolás",
-      "Description": "Diez años después de convertirse en una rutilante estrella mediática de la manera más insospechada, Francisco Nicolás Gómez Iglesias, popularmente conocido como El pequeño Nicolás, regresa a televisión con una docuserie propia. En la recién estrenada (P)Ícaro…",
-      "Url": "https://www.eldiario.es/vertele/noticias/entrevistado-cuestionable-tv-dilemas-dar-voz-personajes-pequeno-nicolas_1_10925491.html",
-      "UrlToImage": "https://static.eldiario.es/clip/d9606d92-71c0-4204-a039-756764620a4c_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-02-16T19:45:18Z",
-      "Content": "Diez años después de convertirse en una rutilante estrella mediática de la manera más insospechada, Francisco Nicolás Gómez Iglesias, popularmente conocido como El pequeño Nicolás, regresa a televisi… [+12503 chars]"
     }
   ]
 }
