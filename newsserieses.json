@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1172,
+  "TotalResults": 1177,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Serie de Harry Potter: ¿de qué trata y cuándo se estrena en HBO Max?",
+      "Description": "Los libros de J.K. Rowling inspiraron la producción de una de las sagas más exitosas de la historia del cine y pronto llegará a televisión en formato de serie.",
+      "Url": "https://www.elfinanciero.com.mx/entretenimiento/2024/02/23/cuando-estrena-la-serie-de-harry-potter-en-hbo-max/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/AXsBtZ2nHTi94nbyWFoypGJHIoA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7WCSK5CJRJDTRCZARCLUYZWCBE.jpg",
+      "PublishedAt": "2024-02-23T19:58:43Z",
+      "Content": "Con el estreno de la película Harry Potter y las reliquias de la muerte: parte 2, los entrañables personajes que acompañaron al protagonista durante todas las entregas se despidieron.\r\nEn julio del 2… [+2607 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Laura Pérez",
+      "Title": "En el corazón de 'Reina Roja': así se ha rodado la serie más esperada de Amazon Prime Video",
+      "Description": "Amazon Prime Video estrena este 29 de febrero Reina Roja, la serie más esperada de todas las que ha producido la plataforma de pago en su trayectoria en España. Una ficción basada en la novela superventas de Juan Gómez-Jurado que tratará de trasladar el fenóm…",
+      "Url": "https://www.eldiario.es/vertele/noticias/reina-roja-amazon-prime-video-serie-reportaje-rodaje-juan-gomez-jurado-vicky-luengo-hovik-keuchkerian_1_10951023.html",
+      "UrlToImage": "https://static.eldiario.es/clip/9c962241-10fa-4281-9aed-0fb8c241301b_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-02-23T19:45:06Z",
+      "Content": "Amazon Prime Video estrena este 29 de febrero Reina Roja, la serie más esperada de todas las que ha producido la plataforma de pago en su trayectoria en España. Una ficción basada en la novela superv… [+14165 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Zonanegativa.com"
+      },
+      "Author": "Juan Luis Daza",
+      "Title": "#ZNSeries – Masters del universo: Revolución, valoración global",
+      "Description": "Hoy hablamos de Masters del universo; Revelación, la continuación de la polémica serie sobre los famosos personajes de Mattel ideada por Kevin Smith y producida por Netflix.",
+      "Url": "https://www.zonanegativa.com/znseries-masters-del-universo-revolucion-valoracion-global/",
+      "UrlToImage": "https://www.zonanegativa.com/imagenes/2024/01/revolution1.jpg",
+      "PublishedAt": "2024-02-23T19:41:46Z",
+      "Content": "Aviso de Spoilers\r\n: El artículo que sigue a continuación contiene spoilers importantes tanto de Masters del universo: Revelación como de Masters del universo: Revolución.\r\nGénero\r\n: Animación, Acció… [+13126 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "\"Hemos tenido un desempeño deficiente\": el CEO de Warner Bros reconoce el enorme fracaso de DC en 2023, aunque es optimista con el plan de James Gunn",
+      "Description": "Si bien el 2024 y el 2025 apuntan a ser años de buenos números para DC Studios, está claro que la compañía no ha tenido los mejores resultados en los últimos años. Películas como The Flash o Blue Beetle han resultado ser fracasos en taquilla, y esto es algo q…",
+      "Url": "https://www.vidaextra.com/cine/hemos-tenido-desempeno-deficiente-ceo-warner-bros-reconoce-enorme-fracaso-dc-2023-optimista-plan-james-gunn",
+      "UrlToImage": "https://i.blogs.es/e2781a/dc/840_560.jpeg",
+      "PublishedAt": "2024-02-23T19:30:55Z",
+      "Content": "Si bien el 2024 y el 2025 apuntan a ser años de buenos números para DC Studios, está claro que la compañía no ha tenido los mejores resultados en los últimos años. Películas como The Flash o Blue Bee… [+1533 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "Tenemos malas noticias para ti si esperabas ver pronto la serie de 'Harry Potter'",
+      "Description": "Libros en infinidad de idiomas, videojuegos en varias plataformas y generaciones distintas, documentales, toda suerte de merchandising y ocho películas, así de grande es Harry Potter. Sus fans se cuentan por millones y están repartidos por todo el globo, por …",
+      "Url": "https://www.lavanguardia.com/andro4all/series/tenemos-malas-noticias-para-ti-si-esperabas-ver-pronto-la-serie-de-harry-potter",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/02/harry-potter.1708702569.2268.jpg?width=1200",
+      "PublishedAt": "2024-02-23T19:00:18Z",
+      "Content": "Hogwarts todavía pilla lejos\r\nLibros en infinidad de idiomas, videojuegos en varias plataformas y generaciones distintas, documentales, toda suerte de merchandising y ocho películas, así de grande es… [+2331 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/02/pombo-temporada-2.png?width=1200",
       "PublishedAt": "2024-02-23T11:55:09Z",
       "Content": "Cartel de la segunda temporada de 'Pombo', el docureality de María Pombo y su familia\r\nSi en Netflix es Soy Georgina el docureality de éxito de la plataforma, en Amazon Prime Video son Los Pombo. Par… [+3061 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Begoña Alonso",
-      "Title": "‘Los Bridgerton 3’: El personaje que más nos va a gustar en la serie de Netflix no va a ser ni Penélope ni Colin, sino…",
-      "Description": "Todos esperamos con ansia la llegada a Netflix de la serie de época 'Los Bridgerton' para ver el romance de 'Polin'. Pero seguro que el personaje que más nos va a gustar por los cambios que va a experimentar no es ninguno de ellos...",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a46921331/los-bridgerton-3-serie-netflix-eloise/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/bridgerton-302-unit-02420r-65d879f7f1f91.jpg?crop=0.752xw:0.565xh;0.208xw,0.0244xh&resize=1200:*",
-      "PublishedAt": "2024-02-23T11:55:00Z",
-      "Content": "La tercera temporada de 'Los Bridgerton', cuya primera parte se estrenará el 16 de mayo y la segunda el 13 de junio, va a ser crucial para el desarrollo de la gran serie de época de Netflix. Muchos d… [+3408 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Meneame.net"
-      },
-      "Author": "jjpg",
-      "Title": "Rocco Siffredi: \"En el porno actual los objetos son los hombres, no las mujeres\"",
-      "Description": "El actor porno presenta en Berlín 'Supersex', una serie de Netflix sobre su vida, Creada por Francesca Manieri, la idea es \"entrar en el cuerpo de la masculinidad occidental y deconstruirla\". El entrecomillado no es de Freud sino de la propia 'showrunner' que…",
-      "Url": "https://www.meneame.net/m/cultura/rocco-siffredi-porno-actual-objetos-son-hombres-no-mujeres",
-      "UrlToImage": "https://meneame.net/img/logo_meneame.png",
-      "PublishedAt": "2024-02-23T11:39:14Z",
-      "Content": "Ya está WOKEFLIX vendiendo basura a los subscriptores que aún tienen tragaderas para no cancelar su servicio: \"Mi objetivo es poner al hombre frente a sí mismo a través de la vida de Rocco, porque él… [+298 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "GQ",
-      "Title": "10 nuevas películas y series que ver este fin de semana en Netflix, Disney+, Movistar, SkyShowtime, Apple TV+ y Prime Video",
-      "Description": "Un viernes más, GQ Binge Watch te trae las nuevas películas y series que te esperan (recién salidas del horno) en las diferentes plataformas de streaming para animarte el fin de semana.\r\n\n10 nuevas películas y series que ver este fin de semana en Netflix, Dis…",
-      "Url": "https://www.revistagq.com/articulo/nuevas-peliculas-y-series-22-febrero-netflix-movistar-skyshowtime",
-      "UrlToImage": "https://media.revistagq.com/photos/65d86b19ac6908a9e107be18/16:9/w_1280,c_limit/17085281538725.jpg",
-      "PublishedAt": "2024-02-23T10:30:17Z",
-      "Content": "Tal como se nos informó en las películas, John y su osito de peluche llevan juntos desde hace décadas. Son, de hecho, inseparables, por lo que esta precuela en forma de serie se centra en sus días en… [+564 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Alejandro Cañete",
-      "Title": "'True Detective' renueva para una quinta temporada con Issa López de nuevo al mando",
-      "Description": "ÉXITO Y RENOVACIÓN HBO ha anunciado que renueva su famosa serie policiaca para una quinta temporada, que volverá a estar dirigida por Issa López.'True Detective' renueva para una quinta temporada con Issa López de nuevo al mando",
-      "Url": "https://www.ecartelera.com/noticias/true-detective-renueva-quinta-temporada-misma-creadora-76390/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/76300/76390-h2.jpg",
-      "PublishedAt": "2024-02-23T10:28:00Z",
-      "Content": "Apenas una semana después de la emisión del último capítulo de la cuarta entrega, HBO ha anunciado que ha renovado 'True Detective' para una quinta temporada que volverá a estar creada y dirigida por… [+1629 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Manu Delgado",
-      "Title": "Todos los juegos a los que podrás jugar totalmente gratis este fin de semana (23 al 26 de febrero)",
-      "Description": "<!--cache-->Dying Light 2, Civilization 6, Super Meat Boy Forever... Son sólo algunos de los videojuegos que puedes jugar gratis este fin de semana en Xbox Series X/S, Xbox One y PC.<!--aa---><ul><li>Juegos gratis de febrero de 2024</li><li>Los mejores juegos…",
-      "Url": "https://vandal.elespanol.com/noticia/1350769354/todos-los-juegos-a-los-que-podras-jugar-totalmente-gratis-este-fin-de-semana-23-al-26-de-febrero/",
-      "UrlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/2/2-2024/23/202422310391917_1.jpg",
-      "PublishedAt": "2024-02-23T09:39:00Z",
-      "Content": "Como cada fin de semana, del 23 al 26 de febrero hay una serie de promociones disponibles en Xbox Series X/S, Xbox One y PC que van a permitir jugar gratis, tanto con pruebas a coste cero por tiempo … [+2026 chars]"
     }
   ]
 }
