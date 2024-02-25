@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 182,
+  "TotalResults": 183,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Jorge Arturo Mora",
+      "Title": "‘Con todos menos contigo’: la película sorpresa del año que ha resistido más de un mes en cartelera",
+      "Description": "Con las actuaciones estelares de Sydney Sweeney y Glen Powell, Sony Pictures ha dado un bombazo con 'Con todos menos contigo' ('Anyone but You'), historia que ha demostrado en el cine que las comedias románticas aún viven",
+      "Url": "https://www.nacion.com/viva/cine/con-todos-menos-contigo-la-pelicula-sorpresa-del/6GMPRPP5OZC45IFJLC7MCBUHKU/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/86AoeR28W9OuHgTHGJs06ABguWc=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/6A7EMHXJSVB7TDTM5U3XZQTJMM.jpg",
+      "PublishedAt": "2024-02-24T22:00:00Z",
+      "Content": "Este 2024, la película Con todos menos contigo ha sorprendido a la cartelera cinematográfica. Esta comedia romántica ha permanecido en cartelera durante mes y medio, superando a su competencia con un… [+3400 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/968061/poor/840_560.jpeg",
       "PublishedAt": "2024-02-20T09:30:12Z",
       "Content": "Yorgos Lanthimos llegó al cine estadounidense en 2015 después de haber dirigido películas fantásticas e inclasificables como 'Alps' o 'Canino'. Lo hizo por sorpresa, con una pequeña (e increíble) fáb… [+1746 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "Taquilla: 'Bob Marley: One Love' dobla los números de 'Madame Web' en su fin de semana de estreno",
-      "Description": "Fin de semana largo para los estrenos de cine de la pasada semana. Con la excusa de San Valentín, celebrado el 14 de febrero, miércoles, se lanzaron dos películas al mercado que no podían ser más distintas y que han tenido cuatro días para demostrar su valía;…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/taquilla-bob-marley-one-love-dobla-los-numeros-de-madame-web-en-su-fin-de-semana-de-estreno",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/02/bob-marley-madame-web.jpg?width=1200",
-      "PublishedAt": "2024-02-20T08:30:15Z",
-      "Content": "Bob Marley vs. Madame Web\r\nFin de semana largo para los estrenos de cine de la pasada semana. Con la excusa de San Valentín, celebrado el 14 de febrero, miércoles, se lanzaron dos películas al mercad… [+2766 chars]"
     }
   ]
 }
