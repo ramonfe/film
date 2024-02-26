@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1845,
+  "TotalResults": 1846,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "EditorDavid",
+      "Title": "In Netflix's New Sci-Fi Movie 'Spaceman', an Introverted Astronaut Confronts Isolation",
+      "Description": "Netflix's new sci-fi drama Spaceman centers on Czech astronaut Jakub Procházk, described by Polygon as \"painfully introverted, emotionally repressed, and above all, quiet... so muted and compressed, he seems like a trauma victim.\"\n\nThe film, adapted from the …",
+      "Url": "https://entertainment.slashdot.org/story/24/02/24/1955259/in-netflixs-new-sci-fi-movie-spaceman-an-introverted-astronaut-confronts-isolation",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/movies_64.png",
+      "PublishedAt": "2024-02-25T17:34:00Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.wired.com/photos/5f12288cfaec9a1f92365f4f/191:100/w_1280,c_limit/Gear-Optoma-UHD50X-SOURCE-Optoma.jpg",
       "PublishedAt": "2024-02-24T12:00:00Z",
       "Content": "I have big plans this weekend: watching the entirety of the new Avatar: The Last Airbender live-action series on Netflix. Maybe you've got the same thing on your watchlist, or maybe you're just looki… [+3898 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "TOI Entertainment Desk",
-      "Title": "Chiranjeevi to attend Varun Tej’s 'Operation Valentine' pre-release event in Hyderabad",
-      "Description": "Varun Tej eagerly awaits the release of his film 'Operation Valentine' on March 1. The pre-release event, attended by Chiranjeevi, adds to the excitement. Directed by Shakti Pratap Singh, the movie is about IAF officers taking up a complicated operation, show…",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/chiranjeevi-to-attend-varun-tejs-operation-valentine-pre-release-event-in-hyderabad/articleshow/107964791.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-107968452,width-1070,height-580,imgsize-859912,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2024-02-24T11:37:17Z",
-      "Content": "New pictures from Rakul Preet Singh and Jackky Bhagnani's dreamy Goa wedding"
     }
   ]
 }
