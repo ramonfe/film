@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1115,
+  "TotalResults": 1116,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CNBC"
+      },
+      "Author": "Reuters",
+      "Title": "'Oppenheimer' steamrolls toward Oscars with Screen Actors Guild Award wins",
+      "Description": "Cillian Murphy, who played scientist J. Robert Oppenheimer, won best movie actor, and co-star Robert  Downey Jr. best supporting actor.",
+      "Url": "https://www.cnbc.com/2024/02/25/oppenheimer-steamrolls-toward-oscars-with-screen-actors-guild-award-wins.html",
+      "UrlToImage": "https://image.cnbcfm.com/api/v1/image/107278900-1690718747248-6T8A7705.jpg?v=1690718824&w=1920&h=1080",
+      "PublishedAt": "2024-02-25T04:41:00Z",
+      "Content": "Historical epic \"Oppenheimer\" picked up more prizes on Saturday at Hollywood's Screen Actors Guild (SAG) Awards, bolstering the movie's chances to score the best picture trophy at next month's Oscars… [+3019 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2023/09/Untitled-design-5-1.jpg",
       "PublishedAt": "2024-02-24T13:00:08Z",
       "Content": "Accidents happen, even in the movie-making industry, and sometimes, that can result in some hilarious unscripted moments. But the consequences can be costly when that accident involves losing a scrip… [+2589 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Rabb Se Hai Dua’s Yesha Rughani gets praised for her role of Ibaadat in the TV show",
-      "Description": "Actress Yesha Rughani impresses fans with her entry as Ibaadat in Rabb Se Hai Dua following a generation leap. Fans love her acting abilities and compare her to Muskaan. Yesha has previously worked in Jeet Gayi Toh Piya Morey and Hero Gayab Mode. Ayesha Singh…",
-      "Url": "https://timesofindia.indiatimes.com/tv/news/hindi/yesha-rughanis-amazing-role-as-ibaadat-in-rabb-se-hai-dua-tv-show/articleshow/107963020.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-107963004,width-1070,height-580,imgsize-16568,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2024-02-24T07:36:05Z",
-      "Content": "Karishma Tanna top 15 glamorous looksThe actress wins many hearts with these gorgeous looks; take a sneak peek"
     }
   ]
 }
