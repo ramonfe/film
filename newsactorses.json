@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1141,
+  "TotalResults": 1143,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Levelup.com"
+      },
+      "Author": "Mardokeo Galván",
+      "Title": "Pedro Pascal gana prestigioso premio por su trabajo como Joel en The Last of Us",
+      "Description": "La serie de The Last of Us se estrenó hace 1 año y sigue cosechando triunfos. La producción acaba de ser reconocida en una prestigiosa premiación y uno de los galardones que se llevó fue gracias al trabajo del actor de Joel Miller.\nContinuar leyendo »",
+      "Url": "https://www.levelup.com/noticias/776900/Pedro-Pascal-gana-prestigioso-premio-por-su-trabajo-como-Joel-en-The-Last-of-Us",
+      "UrlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/838022/838022_600x315.jpg",
+      "PublishedAt": "2024-02-25T03:24:00Z",
+      "Content": "La serie de The Last of Us se estrenó hace 1 año y sigue cosechando triunfos. La producción acaba de ser reconocida en una prestigiosa premiación y uno de los galardones que se llevó fue gracias al t… [+2897 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Alejandro Cruz",
+      "Title": "Griselda Siciliani, entre el cine, el teatro y el diván: “Con Adrián Suar ya somos como primas”",
+      "Description": "En la serie Terapia alternativa, que encabeza junto con su amiga Carla Peterson, su personaje llega al consultorio para entender por qué uno de los integrantes de su triángulo poliamoroso dice basta; en una divertida charla con LA NACION, la actriz habla del …",
+      "Url": "https://www.lanacion.com.ar/espectaculos/griselda-siciliani-entre-el-cine-el-teatro-y-el-divan-con-adrian-suar-ya-somos-como-primas-nid25022024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/antes-de-volver-al-teatro-en-mayo-junto-con-OTUSLXFAB5HEZLX3O2FURYZ6I4.JPG?auth=29c836f7d9846716f5a2da947b400584bbf8761c1318705349b66a74a03a4a9a&width=1920&height=1280&quality=70&smart=true",
+      "PublishedAt": "2024-02-25T03:01:00Z",
+      "Content": "25 de febrero de 202400:01\r\nLa agenda de Griselda Siciliani viene en modo encendido (como ella). En la pantalla grande se está por estrenar la película que coprotagoniza junto con Joaquín Furriel lla… [+15193 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/sin-titulo-1_c8g1.1200.jpg",
       "PublishedAt": "2024-02-23T16:00:28Z",
       "Content": "Parece mentira, pero el final de Juego de Tronos cumple este año su quinto aniversario. Aunque las últimas temporadas dividieron bastante a los fans, es innegable que la adaptación televisiva de la o… [+1970 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Carlos Pérez",
-      "Title": "La agitada vida sentimental de Kerem Bürsin, el actor guaperas de 'Love is in the air': sus supuestos romances",
-      "Description": "No son pocos los que quedaron anonadados al contemplan a Kerem Bürsin en sus pantallas. Siendo uno de los actores más reconocidos de Turquía, Bürsin se ha hecho un hueco en los corazones de millones de televidentes españoles. Lo conocimos a través de la telen…",
-      "Url": "https://www.trendencias.com/celebrities/agitada-vida-sentimental-kerem-bursin-actor-guaperas-love-is-in-the-air-sus-supuestos-romances",
-      "UrlToImage": "https://i.blogs.es/362726/paz-padilla-kerem-bursin-1669712075/840_560.jpeg",
-      "PublishedAt": "2024-02-23T15:36:39Z",
-      "Content": "No son pocos los que quedaron anonadados al contemplan a Kerem Bürsin en sus pantallas. Siendo uno de los actores más reconocidos de Turquía, Bürsin se ha hecho un hueco en los corazones de millones … [+1725 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "Sora se cobra su primera víctima en el cine. 800 millones de dólares paralizados por miedo a la IA",
-      "Description": "OpenAI nos dejó literalmente boquiabiertos cuando nos enseñó Sora, su modelo de IA para generar vídeo a partir de texto. \"Casi magia\" dijimos hace apenas una semana, y eso que Sam Altman, director ejecutivo de la compañía, y su equipo afirman estar enseñando …",
-      "Url": "https://www.lavanguardia.com/andro4all/series/sora-se-cobra-su-primera-victima-en-el-cine-800-millones-de-dolares-paralizados-por-miedo-a-la-ia",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/02/ia-sora-openai.jpg?width=1200",
-      "PublishedAt": "2024-02-23T15:00:38Z",
-      "Content": "El astronauta de una de las demostraciones de Sora y el famoso cartel de Hollywood\r\nOpenAI nos dejó literalmente boquiabiertos cuando nos enseñó Sora, su modelo de IA para generar vídeo a partir de t… [+3309 chars]"
     }
   ]
 }
