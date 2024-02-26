@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1081,
+  "TotalResults": 1082,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "Jamie Tram",
+      "Title": "Ethan Coen's solo feature debut is a hilarious, sexy, lesbian road movie",
+      "Description": "Margaret Qualley and Australian actor Geraldine Viswanathan star in Drive-Away Dolls as two queer women who are caught up with criminals after they find a strange suitcase in their trunk.",
+      "Url": "https://www.abc.net.au/news/2024-02-26/drive-away-dolls-review-geraldine-viswanathan-pedro-pascal/103503166",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/5d48c68b98dcf1e311f60bc1d89bbb70?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "PublishedAt": "2024-02-25T21:04:12Z",
+      "Content": "What: A raunchy lesbian road movie about two besties who are inadvertently pursued by bumbling criminals.\r\nStarring: Margaret Qualley, Geraldine Viswanathan, Beanie Feldstein, Colman Domingo, Pedro P… [+5797 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://thehillstimes.in/wp-content/uploads/2024/02/IMAGE_1689660837.webp",
       "PublishedAt": "2024-02-25T02:35:21Z",
       "Content": "Mumbai, Feb 24: Bollywood star Kiara Advani said she is excited about her first action movie, Don 3, which will explore a never-before-seen-side of her as an actor.\r\nAdvani was recently announced as … [+1231 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "hollywoodreporter.com",
-      "Title": "Billie Eilish Autographs Melissa McCarthy’s Face With Sharpie During SAG Awards",
-      "Description": "Melissa McCarthy won’t soon forget sharing a moment on stage at the SAG Awards with Billie Eilish thanks to a black Sharpie. In one of the show’s more hilarious moments, McCarthy and Eilish took to the stage to present the trophy for female actor in a comedy …",
-      "Url": "https://biztoc.com/x/af73ba86a40a2a51",
-      "UrlToImage": "https://c.biztoc.com/p/af73ba86a40a2a51/s.webp",
-      "PublishedAt": "2024-02-25T02:12:15Z",
-      "Content": "Melissa McCarthy wont soon forget sharing a moment on stage at the SAG Awards with Billie Eilish thanks to a black Sharpie.In one of the shows more hilarious moments, McCarthy and Eilish took to the … [+322 chars]"
     }
   ]
 }
