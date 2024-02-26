@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1140,
+  "TotalResults": 1141,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Sofía Benavides",
+      "Title": "Billie Eilish literalmente firmó el rostro de Melissa McCarthy durante los SAG Awards",
+      "Description": "Eilish terminó firmando su nombre, con marcador permanente, justo en la frente de McCarthy mientras ambas presentaban el premio a la actuación destacada de una actriz en una serie de comedia.",
+      "Url": "https://cnnespanol.cnn.com/2024/02/24/billie-eilish-firmo-rostro-melissa-mccarthy-sag-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/02/gettyimages-2036521453.jpg?quality=100&strip=info",
+      "PublishedAt": "2024-02-25T02:44:00Z",
+      "Content": "(CNN) --  Melissa McCarthy fue la fanática número uno de los SAG Awards este sábado cuando le pidió un autógrafo a Billie Eilish en el escenario.\r\nPero no quería un autógrafo cualquiera.\r\nEilish term… [+1495 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/02/ia-sora-openai.jpg?width=1200",
       "PublishedAt": "2024-02-23T15:00:38Z",
       "Content": "El astronauta de una de las demostraciones de Sora y el famoso cartel de Hollywood\r\nOpenAI nos dejó literalmente boquiabiertos cuando nos enseñó Sora, su modelo de IA para generar vídeo a partir de t… [+3309 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Lucía Casañal Calvo",
-      "Title": "Muere Pamela Salem, actriz de James Bond y 'Doctor Who', a los 80 años",
-      "Description": "1944-2024 Pamela Salem fue la secretaria del agente 007 en la etapa Sean Connery, y la profesora Rachel Jensen en la serie británica de ciencia ficción de la BBC.Muere Pamela Salem, actriz de James Bond y 'Doctor Who', a los 80 años",
-      "Url": "https://www.ecartelera.com/noticias/muere-pamela-salem-actriz-james-bond-doctor-who-a-los-80-76398/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/76300/76398-h2.jpg",
-      "PublishedAt": "2024-02-23T14:59:00Z",
-      "Content": "Pamela Salem, la actriz que interpreta a Miss Moneypenny, la secretaria de James Bond en 'Nunca digas nunca jamás' junto a Sean Connery, con quien también compartió protagonismo en 'El primer gran as… [+2694 chars]"
     }
   ]
 }
