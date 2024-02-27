@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1756,
+  "TotalResults": 1757,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Kate Bove",
+      "Title": "1 Upcoming Disney Animated Show's Release Plan Is A Massive Show Of Confidence",
+      "Description": "The Walt Disney Company made substantial changes to its upcoming movie slate, but one Disney animated show's release plan displays massive confidence.",
+      "Url": "https://screenrant.com/iwaju-animated-miniseries-disney-plus-animation-success/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/02/tola-and-kole-from-disney-s-iwaju-series.jpg",
+      "PublishedAt": "2024-02-26T00:57:12Z",
+      "Content": "Summary\r\n<ul><li> Disney is shifting its strategy to focus on original content for Disney+ including the upcoming ambitious animated series \r\nIwájú\r\n. </li><li>Iwájú\r\n, created in collaboration with … [+3895 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png",
       "PublishedAt": "2024-02-24T15:03:25Z",
       "Content": "Pro Audio Forum - VST, AU, AAX Plugin and Audio Software Discussion\r\nSkip to content"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
