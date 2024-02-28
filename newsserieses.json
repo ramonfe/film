@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1109,
+  "TotalResults": 1110,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Estrella Gomez",
+      "Title": "Nuevos detalles de la segunda temporada de Bronca, que contaría con Anne Hathaway en el reparto",
+      "Description": "Y otras grandes estrellas\nNuevos informes revelan multitud de detalles de la segunda temporada de Bronca, la serie de Netflix",
+      "Url": "https://es.ign.com/beef/200176/news/nuevos-detalles-de-la-segunda-temporada-de-bronca-que-contaria-con-anne-hathaway-en-el-reparto",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/sin-titulo-1_8sm6.1200.jpg",
+      "PublishedAt": "2024-02-27T16:30:27Z",
+      "Content": "Bronca llegó el año pasado para dejar a los espectadores más que encantados. Se espera que la serie creada por Lee Sung Jin y protagonizada por Steven Yeun y Ali Wong regrese con una nueva temporada,… [+1928 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/d876ac/starship4/840_560.jpeg",
       "PublishedAt": "2024-02-26T18:31:22Z",
       "Content": "Es ya una película de culto, aunque por lo que hacen parecer las redes sociales, algunos siguen sin entender las ironías de 'Starship Troopers', de Paul Verhoeven, explora desde la pseudodemocracia c… [+3549 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "Si no te gustó ESE episodio de 'The Last of Us' Nick Offerman tiene un mensaje para ti",
-      "Description": "Aunque no hagan en absoluto honor a su nombre y hayan perdido totalmente su razón de ser en pos de atraer más miradas y flashes, los Independent Spirit Awards siguen teniendo cierto prestigio, aunque su importancia quede relegada al mercado americano. Allí es…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/si-no-te-gusto-ese-episodio-de-the-last-of-us-nick-offerman-tiene-un-mensaje-para-ti",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/02/nick-offerman.jpg?width=1200",
-      "PublishedAt": "2024-02-26T18:30:54Z",
-      "Content": "Nick Offerman como Bill en 'The Last of Us' para HBO\r\nAunque no hagan en absoluto honor a su nombre y hayan perdido totalmente su razón de ser en pos de atraer más miradas y flashes, los Independent … [+2043 chars]"
     }
   ]
 }
