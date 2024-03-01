@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1011,
+  "TotalResults": 1012,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TVLine"
+      },
+      "Author": "Vlada Gelman",
+      "Title": "TVLine Items: Scott Foley’s Rom-Com, Babylon Berlin on Move and More",
+      "Description": "Scott Foley is finding amore at Netflix. The Scandal vet will star in the streamer’s romantic comedy movie La Dolce Villa, from director Mark Waters (the original Mean Girls). The actor will play a successful businessman who “travels to Italy to stop his dayd…",
+      "Url": "https://tvline.com/news/scott-foley-netflix-romantic-comedy-movie-la-dolce-villa-1235176106/",
+      "UrlToImage": "https://tvline.com/wp-content/uploads/2024/02/scott-foley-netflix-rom-com.jpg?w=650",
+      "PublishedAt": "2024-02-29T20:04:41Z",
+      "Content": "Scott Foley is finding amore at Netflix.\r\nThe Scandal vet will star in the streamer’s romantic comedy movie La Dolce Villa, from director Mark Waters (the original Mean Girls). The actor will play a … [+2280 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-108098051,width-1070,height-580,imgsize-1199999,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2024-02-29T07:25:40Z",
       "Content": "9 must-visit spring destinations in North India"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "TOI Entertainment Desk",
-      "Title": "Kate Winslet: To be mistaken for Cate Blanchett is a huge compliment",
-      "Description": "Actress Kate Winslet finds it a \"huge compliment\" to be mistaken for Oscar winner Cate Blanchett. The 48-year-old actress talked about movie fans regularly mixing her up with Blanchett. Winslet told at the American Museum of Natural History about being falsel…",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/kate-winslet-to-be-mistaken-for-cate-blanchett-is-a-huge-compliment/articleshow/108097822.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-108097902,width-1070,height-580,imgsize-23354,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2024-02-29T07:17:26Z",
-      "Content": "The Regime Trailer: Kate Winslet And Guillaume Gallienne Starrer The Regime Official Trailer"
     }
   ]
 }
