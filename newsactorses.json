@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1065,
+  "TotalResults": 1066,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "La muerte de Heath Ledger: un llamado en “estado de shock”, la reacción ante la tragedia del actor y lo que pasó después",
+      "Description": "En los minutos posteriores a haber encontrado el cuerpo, el padre de la estrella de Hollywood habló con el director de cine que estaba trabajando con su hijo",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/la-muerte-de-heath-ledger-un-llamado-en-estado-de-shock-la-reaccion-ante-la-tragedia-del-actor-y-lo-nid01032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-actor-australiano-fallecio-en-2008-a-los-28-TPB6VUE66BEPLPSWS3US43EDVY.jpg?auth=86de718f897d66e5b83c035ed0372bd984abb6154d5dc6de92d301223c01b062&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-01T17:38:19Z",
+      "Content": "La muerte de Heath Ledger volvió a estar en boca de los medios luego de que un director de cine revelara la inesperada llamada que recibió de parte del padre del actor anunciándole que su hijo había … [+3086 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/7d22cf26-e0ab-4348-8050-d90bc151c062_facebook-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-02-29T22:31:15Z",
       "Content": "¿Qué tienen en común Jair Bolsonaro, Javier Milei y Donald Trump? Son de ultraderecha. Atacan al feminismo. Y los tres se ensañan contra jóvenes estrellas pop. Las cantantes que bailan sexy, generan … [+483 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eluniversal.com.co"
-      },
-      "Author": "EL UNIVERSAL - QHUBO",
-      "Title": "Hugo Lombardi saltó de Ecomoda a la Semana de la Moda en París",
-      "Description": "El evento también contó con el prelanzamiento de la tercera temporada de Betty, la fea de Prime Video y en la que, 25 años después, volverán Ana María Orozco (Betty) y Jorge Enrique Abello (Armando) para contar la historia de lo que ha pasado en la vida de lo…",
-      "Url": "https://www.eluniversal.com.co/farandula/hugo-lombardi-salto-de-ecomoda-a-la-semana-de-la-moda-en-paris-FI10093475",
-      "UrlToImage": "https://www.eluniversal.com.co/binrepository/1225x687/0c0/800d686/none/13704/BVQN/hugo-lombardi-en-paris_9622613_20240229172658.jpg",
-      "PublishedAt": "2024-02-29T22:26:53Z",
-      "Content": "En un lujoso hotel de París y dentro de la Semana de la Moda, Hugo Lombardi, Marcela Valencia y Patricia Fernández, protagonizaron una pasarela de moda en la que el diseñador mostró su nueva creación… [+1329 chars]"
     }
   ]
 }
