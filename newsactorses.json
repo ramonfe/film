@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1063,
+  "TotalResults": 1064,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Boyero, contra Jodie Foster: \"Ni verla ni oírla, parece que la maquillaran para estar más fea\"",
+      "Description": "La serie &apos;True detective&apos; vuelve con una cuarta temporada muy esperada. El listón estaba muy alto y sus creadores decidieron apostar por la consagrada actriz Jodie Foster",
+      "Url": "https://www.marca.com/tiramillas/series/2024/03/01/65e1ef3f22601d1b668b45a1.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/c8fa939ef95a29554e55e1b17487ffab/resize/1200/f/webp/assets/multimedia/imagenes/2024/03/01/17093072496092.jpg",
+      "PublishedAt": "2024-03-01T15:37:01Z",
+      "Content": "La serie 'True detective' vuelve con una cuarta temporada muy esperada. El listón estaba muy alto y sus creadores decidieron apostar por la consagrada actriz Jodie Foster, con dos premios Oscar, para… [+2022 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://fotos.perfil.com/2024/02/29/trim/1140/641/chespirito-1763068.jpg",
       "PublishedAt": "2024-02-29T19:57:03Z",
       "Content": "Roberto Gómez Bolaños, también conocido como Chespirito, es una de las figuras más emblemáticas de las televisión en español. El creador de El chavo del 8 y más tiras infantiles es un icono indiscuti… [+1099 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Lorenzo Ayuso",
-      "Title": "Las 12 series de marzo resuelven 'El problema de los tres cuerpos' con ayuda de los X-Men y Rocco Siffredi",
-      "Description": "66 series son las que, entre narrativa y no ficción, debuts y regresos, se acumulan en el calendario de marzo de 2024. En efecto, supone un ritmo de algo más de dos lanzamientos por día de media, un dato que vuelve a hablarnos un mes más, y son ya muchos los …",
-      "Url": "https://www.eldiario.es/vertele/series/estrenos-marzo-2024-netflix-amazon-prime-video-hbo-max-disney-skyshowtime-apple-tv-atresplayer-el-problema-de-los-tres-cuerpos-x-men-rocco-siffredi_1_10959774.html",
-      "UrlToImage": "https://static.eldiario.es/clip/9c1b91ca-7472-436b-bbf8-cb09847f0a3b_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-02-29T19:46:16Z",
-      "Content": "66 series son las que, entre narrativa y no ficción, debuts y regresos, se acumulan en el calendario de marzo de 2024. En efecto, supone un ritmo de algo más de dos lanzamientos por día de media, un … [+21440 chars]"
     }
   ]
 }
