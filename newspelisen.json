@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1756,
+  "TotalResults": 1757,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fast Company"
+      },
+      "Author": "Joe Berkowitz",
+      "Title": "OpenAI’s Sora isn’t even here yet, and it’s already rattling Hollywood. Maybe it shouldn’t be",
+      "Description": "After a year of rapid evolution following the public debut of ChatGPT, it began to seem as if AI had lost its ability to shock. Then came the Sora demo. In a February 16 unveiling, OpenAI’s text-to-video model instantly produced vivid, photorealistic scenes f…",
+      "Url": "https://www.fastcompany.com/91042285/openai-sora-isnt-here-yet-already-rattling-hollywood",
+      "UrlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2024/02/p-1-91042285-open-ai-sora.jpg",
+      "PublishedAt": "2024-03-01T06:00:00Z",
+      "Content": "After a year of rapid evolution following the public debut of ChatGPT, it began to seem as if AI had lost its ability to shock. Then came the Sora demo. In a February 16 unveiling, OpenAI’s text-to-v… [+7110 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://c.biztoc.com/p/637aa4cf9b64f7f8/s.webp",
       "PublishedAt": "2024-02-29T20:06:08Z",
       "Content": "AMC Entertainments chief executive gave pop stars Taylor Swift and Beyoncé credit for the movie theater operator reporting fourth-quarter gains in its top and bottom lines.CEO Adam Aron said, \"litera… [+307 chars]"
-    },
-    {
-      "Source": {
-        "Id": "nbc-news",
-        "Name": "NBC News"
-      },
-      "Author": "Sarah Whitten, CNBC",
-      "Title": "‘Dune: Part Two’ looks to end box office drought with $80 million opening",
-      "Description": "Movie theater operators are hoping that Warner Bros.",
-      "Url": "https://www.nbcnews.com/pop-culture/dune-part-two-looks-end-box-office-drought-80-million-opening-rcna141228",
-      "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240229-dune-part-2-tomothee-chalamet-al-1454-2715a6.jpg",
-      "PublishedAt": "2024-02-29T19:59:09Z",
-      "Content": "Movie theater operators are hoping that Warner Bros. and Legendary Entertainments Dune: Part Two, due out in theaters Friday, will be the much-needed oasis amid a drought of blockbuster content.\r\nSin… [+4636 chars]"
     }
   ]
 }
