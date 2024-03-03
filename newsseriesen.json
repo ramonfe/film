@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 357,
+  "TotalResults": 358,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Anonymous",
+      "Title": "2023.3.0b9",
+      "Description": "2023.3.0b9\n\n February 28, 2024\n \n unityhub://2023.3.0b9/4371b5ae256e\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n visionOS Build Support\n …",
+      "Url": "https://unity.com/releases/editor/beta/2023.3.0b9",
+      "UrlToImage": null,
+      "PublishedAt": "2024-03-02T06:54:01Z",
+      "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an Editor crash when At… [+212162 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/02/How-Its-Made-Season-13.jpg?resize=1200,630",
       "PublishedAt": "2024-02-29T07:03:11Z",
       "Content": "Curious about where to watch How Its Made Season 13 online? Youve come to the right place. The Canadian science documentary series, which premiered in 2001, delves into the processes and methods behi… [+3042 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Ritika Singh",
-      "Title": "Food Network Star Season 7 Streaming: Watch & Stream Online via HBO Max",
-      "Description": "The fans who have been eagerly waiting for Food Network Star Season 7, your wait is over as we bring you the necessary steps to watch and stream it online. The makers of the reality show kickstarted the seventh season due to fans’ demand and excessive popular…",
-      "Url": "https://www.comingsoon.net/guides/news/1572687-food-network-star-season-7-streaming-watch-stream-online-via-hbo-max",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/02/Food-Network-Star-Season-7.jpg?resize=1200,630",
-      "PublishedAt": "2024-02-29T06:19:37Z",
-      "Content": "The fans who have been eagerly waiting for Food Network Star Season 7, your wait is over as we bring you the necessary steps to watch and stream it online. The makers of the reality show kickstarted … [+3160 chars]"
     }
   ]
 }
