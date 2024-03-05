@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 357,
+  "TotalResults": 358,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "The Brothers Sun: Netflix Cancels Michelle Yeoh Action Dramedy After 1 Season",
+      "Description": "According to Deadline, Netflix has officially decided not to renew its Michelle Yeoh-led action dramedy The Brothers Sun for a second season. The cancellation comes after a month since the show made its debut with 8 episodes. Lead star Justin Chien, who playe…",
+      "Url": "https://www.comingsoon.net/tv/news/1580626-the-brothers-sun-netflix-cancels-michelle-yeoh-action-dramedy-after-1-season",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/12/the-brothers-sun-still.jpg?resize=1200,630",
+      "PublishedAt": "2024-03-04T17:12:45Z",
+      "Content": "According to Deadline, Netflix has officially decided not to renew its Michelle Yeoh-led action dramedy The Brothers Sun for a second season. The cancellation comes after a month since the show made … [+1606 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/03/MixCollage-03-Mar-2024-07-57-AM-3105.jpg?resize=1200,630",
       "PublishedAt": "2024-03-03T02:32:46Z",
       "Content": "Season 1 of Franc Roddams culinary reality show MasterChef México brings the flavors, foods, and culture of Mexico as contestants compete to win the title of MasterChef Mexico. The Azteca Trece Netwo… [+2547 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Anonymous",
-      "Title": "2023.3.0b9",
-      "Description": "2023.3.0b9\n\n February 28, 2024\n \n unityhub://2023.3.0b9/4371b5ae256e\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n visionOS Build Support\n …",
-      "Url": "https://unity.com/releases/editor/beta/2023.3.0b9",
-      "UrlToImage": null,
-      "PublishedAt": "2024-03-02T06:54:01Z",
-      "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an Editor crash when At… [+212162 chars]"
     }
   ]
 }

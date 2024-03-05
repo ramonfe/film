@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 993,
+  "TotalResults": 998,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Raquel Morales",
+      "Title": "Netflix ha cancelado una de sus series más elogiadas por la crítica",
+      "Description": "Despídete de los hermanos\nDespués de una temporada, Netflix se carga la serie de los hermanos Sun cuyos primeros epiisodios se estrenaron hace dos meses",
+      "Url": "https://es.ign.com/tv/200416/news/netflix-ha-cancelado-una-de-sus-series-mas-elogiadas-por-la-critica",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/hermanos-sun_mxvr.1200.jpg",
+      "PublishedAt": "2024-03-04T17:45:27Z",
+      "Content": "Netflix es implacable con las series de su catálogo. A veces cuesta saber cuál es su criterio de cancelación, pero lo cierto es que muchas producciones se quedan en las primeras temporadas. Algunos d… [+1646 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Joel Calata",
+      "Title": "Triunfa en Netflix México el drama coreano adolescente que le da un giro a la trama de comedia y series médicas como las conocemos",
+      "Description": "Desde 'ER' hasta 'Grey's Anatomy', la televisión (de paga y la de señal abierta) ha aprovechado el auge de las series médicas para llevarnos por un torrente de emociones donde los internos, doctores y pacientes son protagonistas, sin embargo, aunque haya toqu…",
+      "Url": "https://www.espinof.com/series-de-ficcion/triunfa-netflix-mexico-drama-coreano-adolescente-que-le-da-giro-a-trama-comedia-series-medicas-como-conocemos",
+      "UrlToImage": "https://i.blogs.es/177023/doctor-slump-netflix/840_560.jpeg",
+      "PublishedAt": "2024-03-04T17:43:37Z",
+      "Content": "Desde 'ER' hasta 'Grey's Anatomy', la televisión (de paga y la de señal abierta) ha aprovechado el auge de las series médicas para llevarnos por un torrente de emociones donde los internos, doctores … [+2595 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Frankie MB",
+      "Title": "Marvel Unlimited vs. DC Universe Infinite: las suscripciones de cómics online frente a frente",
+      "Description": "Coleccionar cómics es algo que sucede de manera casi natural. Empiezas con un número suelto o una novela gráfica de Batman o Spider-Man y, poquito a poco, acabas llenando una estantería. El propio Alan Moore acierta al creer que nada puede sustituir una buena…",
+      "Url": "https://www.vidaextra.com/comics/marvel-unlimited-vs-dc-universe-infinite-suscripciones-comics-online-frente-a-frente",
+      "UrlToImage": "https://i.blogs.es/fd89f5/marvel-vs-dc/840_560.jpeg",
+      "PublishedAt": "2024-03-04T17:36:48Z",
+      "Content": "Coleccionar cómics es algo que sucede de manera casi natural. Empiezas con un número suelto o una novela gráfica de Batman o Spider-Man y, poquito a poco, acabas llenando una estantería. El propio Al… [+9651 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xatakahome.com"
+      },
+      "Author": "Jose Antonio Carmona",
+      "Title": "Así de fácil es solucionar los errores en Kodi si tienes problemas con las dependencias al instalar complementos",
+      "Description": "Si eres un aficionado al mundo Kodi (y puede dar mucho de sí), quizás en alguna ocasión te has topado con errores de dependencias a la hora de intentar instalar complementos o add-ons. Fallos que son muy fáciles de subsanar, como ahora vamos a ver, pero que p…",
+      "Url": "https://www.xatakahome.com/servicios-de-smart-tv/como-solucionar-errores-dependencias-kodi-al-instalar-complementos",
+      "UrlToImage": "https://i.blogs.es/36b403/kodi/840_560.jpg",
+      "PublishedAt": "2024-03-04T17:19:28Z",
+      "Content": "Si eres un aficionado al mundo Kodi (y puede dar mucho de sí), quizás en alguna ocasión te has topado con errores de dependencias a la hora de intentar instalar complementos o add-ons. Fallos que son… [+3486 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Víctor López G.",
+      "Title": "Paul Dano es optimista con la fatiga del cine de superhéroes y defiende a ‘The Batman’ sobre el resto. “Sabías que iba a ser una película de verdad”",
+      "Description": "Ha llovido mucho desde que la 'Iron Man' de Jon Favreau puso la primera piedra del Universo Cinematográfico de Marvel y encendió la mecha del boom de un cine de superhéroes que se convirtió en la gallina de los huevos de oro de la Meca del cine, creando un es…",
+      "Url": "https://www.espinof.com/actores-y-actrices/paul-dano-optimista-fatiga-cine-superheroes-defiende-a-the-batman-resto-sabias-que-iba-a-ser-pelicula-verdad",
+      "UrlToImage": "https://i.blogs.es/850c58/slack-imgs/840_560.jpeg",
+      "PublishedAt": "2024-03-04T17:01:55Z",
+      "Content": "Ha llovido mucho desde que la 'Iron Man' de Jon Favreau puso la primera piedra del Universo Cinematográfico de Marvel y encendió la mecha del boom de un cine de superhéroes que se convirtió en la gal… [+1959 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://i.blogs.es/4d9491/entourage-ferrari/840_560.jpeg",
       "PublishedAt": "2024-03-04T09:01:56Z",
       "Content": "Una de las cosas que más nos obsesionan a seriéfilos y cinéfilos es cuando echamos la vista atrás y comprobamos que algunas de nuestras series favoritas ya predijeron el entretenimiento de hoy. Direc… [+1565 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Eduardo Cardenal Hernando",
-      "Title": "Matthias Schoenaerts ('The Regime'): \"El tono me confundió, es histéricamente divertida a la vez que perturbadora\"",
-      "Description": "ENTREVISTA ECARTELERA Entrevistamos a Matthias Schoenaerts y Andrea Riseborough, Zubak y Agnes respectivamente en 'The Regime', nueva serie de HBO Max protagonizada por Kate Winslet.Matthias Schoenaerts ('The Regime'): \"El tono me confundió, es histéricamente…",
-      "Url": "https://www.ecartelera.com/noticias/matthias-schoenaerts-the-regime-tono-confundio-divertida-76451/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/76400/76451-h2.jpg",
-      "PublishedAt": "2024-03-04T08:20:00Z",
-      "Content": "Tras firmar el guion de 'El menú' y de varios episodios de la aclamada 'Succession', Will Tracy crea, además de coescribir, su primera serie, 'The Regime', comedia negra que narra un año de las perip… [+6392 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "Netflix cancela una de sus mejores series de 2024 de forma fulminante. Se confirma la mala racha en televisión de su oscarizada protagonista",
-      "Description": "Netflix ha tomado la decisión de cancelar una de las mejores series que la plataforma ha estrenado en lo que llevamos de 2024. La damnificada ha sido 'Los hermanos Sun', un atractivo cóctel de géneros que contaba con el reclamo de la presencia de Michelle Yeo…",
-      "Url": "https://www.espinof.com/netflix/netflix-cancela-sus-mejores-series-2024-forma-fulminante-se-confirma-mala-racha-television-su-oscarizada-protagonista",
-      "UrlToImage": "https://i.blogs.es/ff84ae/hermanos-sun/840_560.jpeg",
-      "PublishedAt": "2024-03-04T08:01:55Z",
-      "Content": "Netflix ha tomado la decisión de cancelar una de las mejores series que la plataforma ha estrenado en lo que llevamos de 2024. La damnificada ha sido 'Los hermanos Sun', un atractivo cóctel de género… [+1622 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakahome.com"
-      },
-      "Author": "Paco Rodriguez",
-      "Title": "Movistar Plus+ estrena mañana un nuevo canal de cine gratis con las mejores películas: así es 'Los Oscar por M+'",
-      "Description": "Movistar Plus+ continúa con los cambios y actualizaciones en su plataforma de televisión de cara a la nueva temporada, y a las novedades en canales y contenidos de cine y series anunciados hace unos meses y tras la actualización del servicio Multideporte y el…",
-      "Url": "https://www.xatakahome.com/servicios-de-smart-tv/movistar-plus-estrena-manana-nuevo-canal-cine-gratis-mejores-peliculas-asi-oscar-m",
-      "UrlToImage": "https://i.blogs.es/092d04/840_560/840_560.jpeg",
-      "PublishedAt": "2024-03-04T07:09:55Z",
-      "Content": "Movistar Plus+ continúa con los cambios y actualizaciones en su plataforma de televisión de cara a la nueva temporada, y a las novedades en canales y contenidos de cine y series anunciados hace unos … [+3701 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ipadizate.com"
-      },
-      "Author": "Gabriela Martínez",
-      "Title": "Apple TV+ anuncia \"Neuromancer\", una nueva serie basada en la novela de ciencia ficción de William Gibson",
-      "Description": "Los lugares en la agenda de Apple TV+ para los próximos meses se siguen llenado con nuevas propuestas. Después de una última semana movida, gracias al estreno del esperado documental \"Messi’s World Cup: The Rise of a Legend\" y la película Napoleón, la platafo…",
-      "Url": "https://ipadizate.com/apple-tv/apple-tv-anuncia-neuromancer-una-nueva-serie-basada-en-la-novela-de-ciencia-ficcion-de-william-gibson",
-      "UrlToImage": "https://ipadizate.com/hero/2024/03/neuromancer.png?width=1200",
-      "PublishedAt": "2024-03-03T20:29:40Z",
-      "Content": "Neuromancer, ha sido elogiada como una de las primeras y más respetadas obras dentro del género cyberpunk\r\nLos lugares en la agenda de Apple TV+ para los próximos meses se siguen llenado con nuevas p… [+2297 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "Qué fue de César Millán, de encantador de perros a caer en una depresión y construir un rancho de rehabilitación",
-      "Description": "No todo el mundo tiene la suerte de dedicarse a lo que le apasiona, pero tenemos muchísimos ejemplos de gente que consiguó trabajar de ello. Sin duda, 'El encantador de perros' no hubiera sido posible sin la auténtica pasión por los animales de su presentador…",
-      "Url": "https://www.espinof.com/presentadores/que-fue-cesar-millan-encantador-perros-a-caer-depresion-construir-rancho-rehabilitacion",
-      "UrlToImage": "https://i.blogs.es/a37385/encantador-de-perros/840_560.jpeg",
-      "PublishedAt": "2024-03-03T19:01:52Z",
-      "Content": "No todo el mundo tiene la suerte de dedicarse a lo que le apasiona, pero tenemos muchísimos ejemplos de gente que consiguó trabajar de ello. Sin duda, 'El encantador de perros' no hubiera sido posibl… [+3333 chars]"
     }
   ]
 }
