@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 181,
+  "TotalResults": 182,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Dónde ver y de qué trata ‘American Fiction’, nominada al Oscar a Mejor Pelicula",
+      "Description": "Dirigida por Cord Jefferson, tiene cinco nominaciones para la ceremonia de entrega de premios más importantes del cine del próximo domingo",
+      "Url": "https://www.lanacion.com.ar/espectaculos/cine/donde-ver-y-de-que-trata-american-fiction-nominada-al-oscar-a-mejor-pelicula-nid06032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-10-de-marzo-sera-la-entrega-de-premios-en-el-M4U654B7XFGO3D5WKGU6PYRGAQ.jpg?auth=2d3e71c9116c2a06e1ff18415e89a9f7b26547e03266d97bbf229d4b416f3905&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-06T21:21:48Z",
+      "Content": "Ya inició la cuenta regresiva para la 96.ª edición de los Oscar, los premios que entrega la Academia de Artes y Ciencias Cinematográficas estadounidense, que tendrá lugar el próximo 10 de marzo en el… [+3222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/2770d0/suitohomu/840_560.jpeg",
       "PublishedAt": "2024-03-01T17:30:55Z",
       "Content": "No mucha gente es consciente de la existencia de Sweet Home (Suito Homu), también conocida como 'La casa de Mamiya', una película japonesa de terror de 1989, pero a pesar de ello sí ha tenido una gra… [+12249 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Marina Velasco",
-      "Title": "Estos son los estrenos de cine de este fin de semana: de 'Dune 2' a 'Dos chicas a la fuga'",
-      "Description": "Entre las películas más destacadas que llegan a la cartelera, la secuela de la épica fantástica de 'Dune', una candidata al Oscar a mejor película internacional y el regreso de la mitad de los Coen a la comedia disparatada",
-      "Url": "https://www.elconfidencial.com/cultura/cine/2024-03-01/estrenos-cine-fin-de-semana-dune-2_3840608/",
-      "UrlToImage": "https://images.ecestaticos.com/i2gjlLeLLtuzgktdJ3VjdBS_bE8=/0x0:1074x716/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/732/a72/029/732a72029a6a56ed54ccc651e74a8880.jpg",
-      "PublishedAt": "2024-03-01T15:23:00Z",
-      "Content": "Premios Oscar 2024: claves, cuándo son, nominaciones y todo lo que debes saberDream Scenario: un Nicolas Cage de Oscar contra la cultura de la cancelaciónLos cines se preparan para dar la bienvenida … [+5714 chars]"
     }
   ]
 }
