@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1017,
+  "TotalResults": 1018,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El hijo de García Márquez: «La idea de plasmar 'Cien años de soledad' en una serie de Netflix no es tan descabellada»",
+      "Description": "Aún no existía el covid cuando el 'New York Times' avanzó que Netflix se había hecho con los derechos para adaptar por primera vez al audiovisual 'Cien años de soledad'. Era marzo, pero de 2019, y según se reveló después habían sido cinco años de duras negoci…",
+      "Url": "https://www.abc.es/play/series/noticias/hijo-garcia-marquez-idea-plasmar-cien-anos-20240305053128-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/03/05/soledad-netflix-U00838361151mCU-1024x512@diario_abc.jpeg",
+      "PublishedAt": "2024-03-06T04:32:27Z",
+      "Content": "Aún no existía el covid cuando el 'New York Times' avanzó que Netflix se había hecho con los derechos para adaptar por primera vez al audiovisual 'Cien años de soledad'. Era marzo, pero de 2019, y se… [+91 chars]"
+    },
     {
       "Source": {
         "Id": "marca",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/412b51/london-str-s24-0423/840_560.jpeg",
       "PublishedAt": "2024-03-05T11:19:02Z",
       "Content": "Las chaquetas Barbour han sido la sorpresa de la temporada otoño-invierno ya pasada, no lo vimos venir, aunque Kate Middleton se encargó de ponernos sobre aviso en multitud de ocasiones. Pero lo que … [+1243 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Noel Ceballos",
-      "Title": "Cerveza Cristal, o por qué George Lucas le declaró la guerra a una cadena de televisión chilena",
-      "Description": "A nadie le gusta estar viendo una película en televisión y que se la corten para meter anuncios. Eso es, probablemente, lo que allá por 2003 pensaron Cerveza Cristal, una marca chilena nacida en el año 1977 (ey, ¡el mismo en que se estrenó La guerra de las ga…",
-      "Url": "https://www.revistagq.com/articulo/star-wars-cerveza-cristal",
-      "UrlToImage": "https://media.revistagq.com/photos/65e6e9d0b0f8e3bdf946b63c/16:9/w_1280,c_limit/607402192",
-      "PublishedAt": "2024-03-05T10:46:52Z",
-      "Content": "X content\r\nThis content can also be viewed on the site it originates from.\r\nNo es difícil entender por qué estos tuits de @heyitswindy se han hecho virales: el absoluto desprecio por el arte cinemato… [+2321 chars]"
     }
   ]
 }
