@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1015,
+  "TotalResults": 1017,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Mario Seijas",
+      "Title": "Kirsten Dunst tiene claras sus razones para volver al cine de superhéroes",
+      "Description": "Hay que pagar las facturas\nLa célebre actriz, que dio vida a Mary Jane en las películas de los 2000 estaría encantada de volver al cine de superhéroes",
+      "Url": "https://es.ign.com/spiderman/200512/news/kirsten-dunst-tiene-claras-sus-razones-para-volver-al-cine-de-superheroes",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/kristen_cmsc.1200.jpg",
+      "PublishedAt": "2024-03-06T16:30:26Z",
+      "Content": "Igual que Tobey Maguire fue nuestro primero Spider-Man en la gran pantalla, Kirsten Dunst fue nuestra primera Mary Jane Watson. La primera trilogía fue muy importante para la carrera de Dunst, que de… [+1535 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Jorge Loser",
+      "Title": "\"Si no está en la película, está muerta\". Denis Villeneuve eliminó de 'Dune 2' todas las escenas con dos famosos actores y uno de ellos está destrozado",
+      "Description": "El binomio de 'Dune' y 'Dune: parte 2' cuenta con uno de los repartos más estelares de los últimos tiempos. Desde Timothée Chalamet hasta Zendaya, pasando por Rebecca Ferguson, Josh Brolin, Austin Butler, Florence Pugh y Dave Bautista, no hay escena de la sec…",
+      "Url": "https://www.espinof.com/directores-y-guionistas/no-esta-pelicula-esta-muerta-denis-villeneuve-elimino-dune-parte-2-todas-escenas-dos-famosos-actores-uno-ellos-esta-destrozado",
+      "UrlToImage": "https://i.blogs.es/42a50b/duneeliminado/840_560.jpeg",
+      "PublishedAt": "2024-03-06T16:01:41Z",
+      "Content": "El binomio de 'Dune' y 'Dune: parte 2' cuenta con uno de los repartos más estelares de los últimos tiempos. Desde Timothée Chalamet hasta Zendaya, pasando por Rebecca Ferguson, Josh Brolin, Austin Bu… [+2540 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i.blogs.es/d3d686/beau-is-afraid/840_560.jpeg",
       "PublishedAt": "2024-03-06T08:17:00Z",
       "Content": "Primer miércoles de marzo y mientras la primavera va asomando la patita es hora de ponernos a repasar, como cada semana, las novedades del streaming para estos días. En concreto, estas son las 41 ser… [+4072 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Applesfera.com"
-      },
-      "Author": "Álvaro García M.",
-      "Title": "De 'True Detective' a su propia serie de detectives en Apple TV+: tráiler y fecha de estreno de 'Sugar' con Collin Farrell",
-      "Description": "Ya lo avisábamos hace algunas semanas: Apple TV+ viene fuerte este año. Tras unos primeros años en los que su catálogo era más bien escaso, este sigue sin ser tan numeroso como el de plataformas como Netflix, pero está cada vez más lleno. Sobre todo de nuevas…",
-      "Url": "https://www.applesfera.com/servicios-apple/true-detective-a-su-propia-serie-detectives-apple-tv-trailer-fecha-estreno-sugar-collin-farrell",
-      "UrlToImage": "https://i.blogs.es/1aec50/sugar-apple-tv/840_560.jpeg",
-      "PublishedAt": "2024-03-06T08:13:45Z",
-      "Content": "Ya lo avisábamos hace algunas semanas: Apple TV+ viene fuerte este año. Tras unos primeros años en los que su catálogo era más bien escaso, este sigue sin ser tan numeroso como el de plataformas como… [+2454 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Músculo sin grasa: ¿Por qué es tan difícil de conseguir?",
-      "Description": "Cumplir con el reto de hacer ejercicio con cierta constancia ya es más que suficiente para la gran mayoría de personas. Aunque ese sea tu caso deberías saber que cualquier tipo de ejercicio desencadena una serie de respuestas en tu organismo, una bien simple …",
-      "Url": "https://www.abc.es/bienestar/fitness/musculo-grasa-dificil-conseguir-20240306070300-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2024/03/04/MedicionGrasa-U75773001478niq-1024x512@diario_abc.JPG",
-      "PublishedAt": "2024-03-06T06:03:00Z",
-      "Content": "Cumplir con el reto de hacer ejercicio con cierta constancia ya es más que suficiente para la gran mayoría de personas. Aunque ese sea tu caso deberías saber que cualquier tipo de ejercicio desencade… [+84 chars]"
     }
   ]
 }
