@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1038,
+  "TotalResults": 1039,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Publico.es"
+      },
+      "Author": "Juan Roures",
+      "Title": "Otras miradas - Peligro: cine 'woke'",
+      "Description": "Fotograma de la película 'Barbie'.\r\nDurante décadas, el cine fue blanco, masculino y cishetero. Había excepciones, claro, pero no eran más que eso: excepciones. Por fin, las cosas están cambiando. Por fin, se representa lo nunca representado, al nunca represe…",
+      "Url": "https://blogs.publico.es/otrasmiradas/80958/peligro-cine-woke/",
+      "UrlToImage": "http://blogs.publico.es/otrasmiradas/files/2024/03/barbie.png",
+      "PublishedAt": "2024-03-07T05:35:34Z",
+      "Content": "07/03/202406/03/2024Fotograma de la película 'Barbie'.\r\nDurante décadas, el cine fue blanco, masculino y cishetero. Había excepciones, claro, pero no eran más que eso: excepciones. Por fin, las cosas… [+8350 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/e81b7e/top-gun/840_560.jpeg",
       "PublishedAt": "2024-03-06T14:31:41Z",
       "Content": "El inicio de 'Top Gun' (aviones, motores encendidos, hora mágica, 'Danger zone' entrando como un trueno) es algo que solo podría pasar en los 80, y quizá nos gusta tanto por ese ambiente de otra époc… [+3971 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "El Comercio (Perú)",
-      "Title": "Chespirito: quiénes integran el elenco de Sin querer queriendo, la biopic de Roberto Gómez Bolaños",
-      "Description": "La serie de Chespirito cuenta con la aprobación de Roberto Gómez Fernández, el hijo del actor y director fallecido en 2014; se encuentra en pleno rodaje en un hotel de Acapulco",
-      "Url": "https://www.lanacion.com.ar/espectaculos/chespirito-quienes-integran-el-elenco-de-sin-querer-queriendo-la-biopic-de-roberto-gomez-bolanos-nid06032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/sin-querer-queriendo-la-biopic-de-roberto-gomez-6LILHJ3AKNHZ7JRTF22KLX5N6Q.jpg?auth=df1011fe5c0cb326e464fc8dcc6cdbfdc615e05935cb8a2a84b6d20d1cbdafb3&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-03-06T14:04:01Z",
-      "Content": "Roberto Gómez Bolaños, el creador de El chavo del 8 y otras series de humor, tendrá su serie biográfica. La noticia fue confirmada por Max, plataforma que hasta hace poco tenía el nombre de HBO Max y… [+2219 chars]"
     }
   ]
 }
