@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1003,
+  "TotalResults": 1005,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Natalia Trzenko",
+      "Title": "Con Los caballeros, Guy Ritchie adapta su estilo para crear una serie imperdible",
+      "Description": "La ficción de ocho episodios ya está disponible en Netflix",
+      "Url": "https://www.lanacion.com.ar/espectaculos/series-de-tv/con-los-caballeros-guy-ritchie-adapta-su-estilo-para-crear-una-serie-imperdible-nid07032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/series-the-gentlemen-TGIEMD3SW5HKHBN4GLMPEL673Y.JPG?auth=04c1019faf4f561d80aec7b370bf0f115ccab34cca991be3e43ad11e0ede235e&width=768&height=512&quality=70&smart=false&focal=970,302",
+      "PublishedAt": "2024-03-07T23:42:42Z",
+      "Content": "Este es el plan, prestá atención, dice el protagonista de Los caballeros, la serie de ocho episodios disponible en Netflix desde esta semana que logra que los espectadores hagan exactamente eso: pres… [+5783 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Frankie MB",
+      "Title": "Siete razones por las que Fallout en Prime Video quiere ser una serie E.S.P.E.C.T.A.C.U.L.A.R.",
+      "Description": "Incertidumbre, caos y la conquista de lo imposible. Durante más de 25 años, millones de jugadores de todo el planeta han abandonado un refugio nuclear en Fallout sin saber muy bien qué encontrarán al otro lado de la puerta. A veces la cosa ha ido muy bien y o…",
+      "Url": "https://www.vidaextra.com/listas/siete-razones-que-fallout-prime-video-quiere-ser-serie-e-s-p-e-c-t-a-c-u-l-a-r",
+      "UrlToImage": "https://i.blogs.es/7f306b/prime-video-fallout-2024/840_560.jpeg",
+      "PublishedAt": "2024-03-07T23:29:36Z",
+      "Content": "Incertidumbre, caos y la conquista de lo imposible. Durante más de 25 años, millones de jugadores de todo el planeta han abandonado un refugio nuclear en Fallout sin saber muy bien qué encontrarán al… [+17845 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i.blogs.es/7570a2/ryan-gosling-el-agente-invisible/840_560.jpeg",
       "PublishedAt": "2024-03-07T13:01:47Z",
       "Content": "Pese a que ya ha hecho películas de acción como 'El agente invisible' o 'Dos buenos tipos', hay mucha gente que sigue esperando a que Ryan Gosling se ponga en la piel de algún personaje con superpode… [+1820 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Elena Sánchez-Beato",
-      "Title": "¿Qué hay después de \"Amar es para siempre\"? El futuro de sus protagonistas tras el final de la serie",
-      "Description": "\"Amar es para siempre\" ha terminado, para siempre, valga la redundancia. En esta recta final, hemos vivido momentos muy intensos con todo el elenco de protagonistas y personajes, como su emotiva despedida, después de acompañarnos durante tantos años en la tel…",
-      "Url": "https://www.trendencias.com/telenovelas/que-hay-despues-amar-para-siempre-futuro-sus-protagonistas-final-serie",
-      "UrlToImage": "https://i.blogs.es/001b52/bcfe354e-c759-40cf-8b96-66bc5d08-1-/840_560.jpeg",
-      "PublishedAt": "2024-03-07T12:48:09Z",
-      "Content": "\"Amar es para siempre\" ha terminado, para siempre, valga la redundancia. En esta recta final, hemos vivido momentos muy intensos con todo el elenco de protagonistas y personajes, como su emotiva desp… [+2741 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "María Yuste",
-      "Title": "La nueva borrasca no hará que me quede en casa. Esta miniserie con la que Kate Winslet ha vuelto a HBO, sí",
-      "Description": "uMarzo ha empezado frío y lluvioso. Nadie diría que apenas faltan unos días para que dé comienzo la primavera... Sobre todo, con una previsión del tiempo para el fin de semana que incluye avisos por viento, oleaje y nevadas en buena parte de España. Resumiend…",
-      "Url": "https://www.trendencias.com/series-de-television/nueva-borrasca-no-hara-que-me-quede-casa-esta-miniserie-que-kate-winslet-ha-vuelto-a-hbo",
-      "UrlToImage": "https://i.blogs.es/63064c/the_regime-902977175-large/840_560.jpeg",
-      "PublishedAt": "2024-03-07T12:27:53Z",
-      "Content": "uMarzo ha empezado frío y lluvioso. Nadie diría que apenas faltan unos días para que dé comienzo la primavera... Sobre todo, con una previsión del tiempo para el fin de semana que incluye avisos por … [+2238 chars]"
     }
   ]
 }
