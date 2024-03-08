@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1013,
+  "TotalResults": 1015,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbc-news",
+        "Name": "CBC News"
+      },
+      "Author": null,
+      "Title": "Armourer for Alec Baldwin movie Rust convicted in deadly on-set shooting of cinematographer",
+      "Description": "A jury convicted Hannah Gutierrez-Reed, a movie weapons supervisor, of involuntary manslaughter on Wednesday in the fatal shooting of a cinematographer on the set of the Western movie Rust in October 2021, when actor Alec Baldwin pulled the trigger on a prop …",
+      "Url": "https://www.cbc.ca/news/entertainment/rust-movie-shooting-manslaughter-conviction-1.7136108",
+      "UrlToImage": "https://i.cbc.ca/1.6226916.1709768494!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/prop-firearm-movie-set-liability.jpg",
+      "PublishedAt": "2024-03-07T00:08:33Z",
+      "Content": "A jury convicted a movie weapons supervisor of involuntary manslaughter on Wednesday in the fatal shooting of a cinematographer by actor Alec Baldwin during a rehearsal on the set of the Western movi… [+1235 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "pbs.org",
+      "Title": "Jury convicts movie armorer of involuntary manslaughter in fatal shooting by Alec Baldwin",
+      "Description": "A jury convicted a movie weapons supervisor of involuntary manslaughter on Wednesday in the fatal shooting of a cinematographer by actor Alec Baldwin during a rehearsal on the set of the Western movie “Rust.” The verdict against movie armorer Hannah Gutierrez…",
+      "Url": "https://biztoc.com/x/d409d13deaa5b953",
+      "UrlToImage": "https://c.biztoc.com/p/d409d13deaa5b953/s.webp",
+      "PublishedAt": "2024-03-07T00:00:07Z",
+      "Content": "A jury convicted a movie weapons supervisor of involuntary manslaughter on Wednesday in the fatal shooting of a cinematographer by actor Alec Baldwin during a rehearsal on the set of the Western movi… [+304 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4269359-super-mario-bros-movie.jpg",
       "PublishedAt": "2024-03-06T16:13:00Z",
       "Content": "At long last, the Super Mario Bros. Movie steelbook edition is back in stock, as you can pick up a fresh 4K Blu-ray of the hit animated film at Walmart. This isn't just the film in its highest-qualit… [+1397 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "polygon.com",
-      "Title": "You’ll believe an Adam Sandler can fly in this behind-the-scenes look at Spaceman",
-      "Description": "Netflix’s new Adam Sandler movie is unique in the Sandman canon: Despite sending the comedic actor to space for an encounter with an oversized alien spider, most of the potentially corny laughs are swapped for melancholic tears. Like Solaris, The Fountain, an…",
-      "Url": "https://biztoc.com/x/5a15ff955bae0358",
-      "UrlToImage": "https://c.biztoc.com/p/5a15ff955bae0358/s.webp",
-      "PublishedAt": "2024-03-06T16:02:13Z",
-      "Content": "Netflixs new Adam Sandler movie is unique in the Sandman canon: Despite sending the comedic actor to space for an encounter with an oversized alien spider, most of the potentially corny laughs are sw… [+296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Ankita Mukherjee",
-      "Title": "Are You Human? Actor Seo Kang-Joon’s Agency Confirms Receiving Offer For Comedy K-Drama",
-      "Description": "Good news for all Seo Kang-Joon fans. The South Korean singer-actor is in talks to return to the small screen for the first time since his return from the military service. As per JTBC, an industry person shared, “Seo Kang-joon has decided to make his comebac…",
-      "Url": "https://www.comingsoon.net/k-drama/news/1585162-are-you-human-actor-seo-kang-joons-agency-confirms-receiving-offer-for-comedy-k-drama",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/03/Untitled-design-33.jpg?resize=1200,630",
-      "PublishedAt": "2024-03-06T16:01:22Z",
-      "Content": "Good news for all Seo Kang-Joon fans. The South Korean singer-actor is in talks to return to the small screen for the first time since his return from the military service. As per JTBC, an industry p… [+1435 chars]"
     }
   ]
 }

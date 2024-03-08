@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1035,
+  "TotalResults": 1036,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El jurado declara culpable a armera del filme 'Rust' por homicidio involuntario",
+      "Description": "La armera de la película 'Rust' , protagonizada por Alec Baldwin y durante cuyo rodaje falleció la directora de fotografía por un disparo, fue declarada culpable de homicidio involuntario por un jurado de Nuevo México este miércoles. Hannah Gutierrez , quien …",
+      "Url": "https://www.abc.es/play/cine/jurado-declara-culpable-armera-filme-rust-homicidio-20240307011319-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/03/07/hanna-kWED--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-03-07T00:13:20Z",
+      "Content": "La armera de la película 'Rust', protagonizada por Alec Baldwin y durante cuyo rodaje falleció la directora de fotografía por un disparo, fue declarada culpable de homicidio involuntario por un jurad… [+109 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/65e5e432ba9f959cbf7eba07/16:9/w_1280,c_limit/GQ_DEC_ONLINE_JAW_5.jpg",
       "PublishedAt": "2024-03-06T13:18:00Z",
       "Content": "Durante el rodaje de El clan de hierro, Jeremy trabajó sin descanso durante varios meses, volando entre Estados Unidos y Canadá. Pero todo ese trabajo significaba inevitablemente perder tiempo con su… [+3028 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"Mucha gente viajó a Londres\": una de las estrellas de Deadpool y Lobezno asegura bastantes cameos inesperados en el debut de Wade Wilson en el UCM",
-      "Description": "Marvel Studios tiene todas sus esperanzas puestas en Wade Wilson para el renacimiento de la franquicia en 2024. Deadpool y Lobezno será la única película del estudio este año, e incluso el CEO de Disney ha asegurado que será un verdadero terremoto, y gran par…",
-      "Url": "https://www.vidaextra.com/cine/mucha-gente-viajo-a-londres-estrellas-deadpool-lobezno-asegura-bastantes-cameos-inesperados-debut-wade-wilson-ucm",
-      "UrlToImage": "https://i.blogs.es/b738d2/deadpool/840_560.jpeg",
-      "PublishedAt": "2024-03-06T13:01:43Z",
-      "Content": "Marvel Studios tiene todas sus esperanzas puestas en Wade Wilson para el renacimiento de la franquicia en 2024. Deadpool y Lobezno será la única película del estudio este año, e incluso el CEO de Dis… [+1655 chars]"
     }
   ]
 }
