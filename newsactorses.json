@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1010,
+  "TotalResults": 1012,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Los creadores de Juego de Tronos tienen nueva serie en Netflix y su estreno es inminente",
+      "Description": "Ojo con 'El problema de los 3 cuerpos', la nueva serie de los creadores de 'Juego de tronos' , David Benioff y D.B. Weiss, para Netflix . Se trata de un proyecto que la plataforma confirmó hace casi cuatro años y la adaptación de la novela homónima de ciencia…",
+      "Url": "https://www.abc.es/play/series/noticias/creadores-juego-tronos-nueva-serie-netflix-estreno-20240307173420-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/03/07/liam-cunningham-kr3--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-03-07T16:34:23Z",
+      "Content": "Ojo con 'El problema de los 3 cuerpos', la nueva serie de los creadores de 'Juego de tronos', David Benioff y D.B. Weiss, para Netflix. Se trata de un proyecto que la plataforma confirmó hace casi cu… [+58 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Pedro Zárate",
+      "Title": "Atresmedia presenta 'Eva y Nicole', un \"novelón brutal\" sobre amor y venganza en la glamurosa Marbella de los años 80",
+      "Description": "Atresmedia ha presentado en el marco del Festival de Cine de Málaga su nueva serie original, Eva & Nicole. La ficción creada por Daniel Écija, que todavía no tiene fecha de estreno en Atresplayer —después de su paso por la plataforma llegará al prime time de …",
+      "Url": "https://www.eldiario.es/vertele/noticias/atresmedia-presenta-eva-nicole-novelon-brutal-amor-venganza-glamurosa-marbella-anos-80_1_10989350.html",
+      "UrlToImage": "https://static.eldiario.es/clip/e97cc7cc-9803-45ec-a78a-1ebef7f2ab79_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-03-07T16:09:15Z",
+      "Content": "Atresmedia ha presentado en el marco del Festival de Cine de Málaga su nueva serie original, Eva &amp; Nicole. La ficción creada por Daniel Écija, que todavía no tiene fecha de estreno en Atresplayer… [+4826 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/03/06/elhormiguero-U14724723476Uhy-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-03-06T22:02:35Z",
       "Content": "A día de hoy es uno de los cantautores, compositores y músicos españoles más queridos, pero en sus inicios le costó sangre, sudor y lágrimas labrarse un camino y poder vivir de su arte. Para Pablo Ló… [+85 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Da'Vine Joy Randolph, el Oscar más cantado de la noche: “Mi personaje va más allá de los estereotipos y su raza”",
-      "Description": "En la carrera al Oscar existe un término que se llama ‘hacer la carrera perfecta’. Consiste en ganar el Globo de Oro, el BAFTA, el Critic Choice y el SAG que entrega el sindicato de actores. Si uno logra vencer en las cuatro ceremonias puede ir preparando su …",
-      "Url": "https://www.eldiario.es/cultura/cine/da-vine-joy-randolph-oscar-cantado-noche-personaje-estereotipos-raza_1_10985864.html",
-      "UrlToImage": "https://static.eldiario.es/clip/6c05aace-a1a6-4b32-b019-0ceff4249a3a_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-03-06T21:33:46Z",
-      "Content": "En la carrera al Oscar existe un término que se llama ‘hacer la carrera perfecta’. Consiste en ganar el Globo de Oro, el BAFTA, el Critic Choice y el SAG que entrega el sindicato de actores. Si uno l… [+1129 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "Prepara el Adamantium: Keanu Reeves soñaba con entrar en Marvel interpretando al mutante más legendario",
-      "Description": "Son muchos los actores y actrices que sueñan con entrar a una franquicia cinematográfica en concreto, bien por su amor hacia alguna película de dicha saga o, simplemente, porque son películas divertidas en las que quizás estaría bien poder participar.\n<!-- BR…",
-      "Url": "https://www.vidaextra.com/cine/prepara-adamantium-keanu-reeves-sonaba-entrar-a-marvel-studios-interpretando-al-mutante-legendario",
-      "UrlToImage": "https://i.blogs.es/497e82/keanu-reeves/840_560.jpeg",
-      "PublishedAt": "2024-03-06T21:01:44Z",
-      "Content": "Son muchos los actores y actrices que sueñan con entrar a una franquicia cinematográfica en concreto, bien por su amor hacia alguna película de dicha saga o, simplemente, porque son películas diverti… [+1443 chars]"
     }
   ]
 }
