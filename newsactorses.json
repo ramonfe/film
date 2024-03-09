@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1028,
+  "TotalResults": 1029,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Las películas nominadas a los Premios Oscar 2024 que puedes ver en Netflix",
+      "Description": "La emoción y la expectativa siguen creciendo a medida que nos acercamos a la 96ª edición de los Premios Oscar , que tendrá lugar la madrugada del próximo domingo 10 de marzo . La contienda por las codiciadas estatuillas está más reñida que nunca y los cinéfil…",
+      "Url": "https://www.abc.es/play/cine/noticias/peliculas-nominadas-premios-oscar-puedes-ver-netflix-20240308182646-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/03/04/peliculas-netflix-U14577251265CtH-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-03-08T15:00:01Z",
+      "Content": "La emoción y la expectativa siguen creciendo a medida que nos acercamos a la 96ª edición de los Premios Oscar, que tendrá lugar la madrugada del próximo domingo 10 de marzo. La contienda por las codi… [+90 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/03/07/liam-cunningham-kr3--1024x512@diario_abc.jpg",
       "PublishedAt": "2024-03-07T16:34:23Z",
       "Content": "Ojo con 'El problema de los 3 cuerpos', la nueva serie de los creadores de 'Juego de tronos', David Benioff y D.B. Weiss, para Netflix. Se trata de un proyecto que la plataforma confirmó hace casi cu… [+58 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Pedro Zárate",
-      "Title": "Atresmedia presenta 'Eva y Nicole', un \"novelón brutal\" sobre amor y venganza en la glamurosa Marbella de los años 80",
-      "Description": "Atresmedia ha presentado en el marco del Festival de Cine de Málaga su nueva serie original, Eva & Nicole. La ficción creada por Daniel Écija, que todavía no tiene fecha de estreno en Atresplayer —después de su paso por la plataforma llegará al prime time de …",
-      "Url": "https://www.eldiario.es/vertele/noticias/atresmedia-presenta-eva-nicole-novelon-brutal-amor-venganza-glamurosa-marbella-anos-80_1_10989350.html",
-      "UrlToImage": "https://static.eldiario.es/clip/e97cc7cc-9803-45ec-a78a-1ebef7f2ab79_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-03-07T16:09:15Z",
-      "Content": "Atresmedia ha presentado en el marco del Festival de Cine de Málaga su nueva serie original, Eva &amp; Nicole. La ficción creada por Daniel Écija, que todavía no tiene fecha de estreno en Atresplayer… [+4826 chars]"
     }
   ]
 }
