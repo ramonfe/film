@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1012,
+  "TotalResults": 1013,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Javier Pérez Andújar",
+      "Title": "Eduardo Mendoza: \"Se creen que sé mucho de Barcelona, pero lo que he hecho es inventarme una ciudad\"",
+      "Description": "Cuando Eduardo Mendoza ríe, es que da la razón. La da siempre riendo, quizá esto sea porque considera que solo tienen la razón las cosas que tienen gracia. Pero Eduardo Mendoza es un autor muy serio. Es el único premio Cervantes que recogió el galardón vestid…",
+      "Url": "https://www.eldiario.es/catalunya/eduardo-mendoza-creen-barcelona-he-hecho-inventarme-ciudad_1_10978094.html",
+      "UrlToImage": "https://static.eldiario.es/clip/22daf20e-bd27-4e1d-9fca-3394b78e3dd1_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-03-08T21:58:25Z",
+      "Content": "Cuando Eduardo Mendoza ríe, es que da la razón. La da siempre riendo, quizá esto sea porque considera que solo tienen la razón las cosas que tienen gracia. Pero Eduardo Mendoza es un autor muy serio.… [+47489 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/104c066a-e4a2-4802-9c49-885f607058f0_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-03-08T09:00:16Z",
       "Content": "Todo gran director de cine tiene sus grandes peculiaridades. Una de las más comunes son los fetiches: por ejemplo, en una película de Quentin Tarantino no puede faltar un primer plano a unos buenos p… [+3686 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Nieves Otero",
-      "Title": "Chino Darín: por qué no trabaja con Úrsula Corberó, su opinión sobre Javier Milei y cómo fue retratar el atentado a la AMIA",
-      "Description": "Instalado en España, el actor que está pronto a estrenar la serie Mano de Hierro y la película que cuenta con su producción, Descansar en Paz, habló con LA NACION sobre cómo resguarda su intimidad con su novia y se mostró afectado por la realidad del país",
-      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/chino-darin-por-que-no-trabaja-con-ursula-corbero-su-opinion-sobre-javier-milei-y-como-fue-retratar-nid08032024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-viernes-15-netflix-estrena-mano-de-hierro-con-D7DUWMEZSNFZ3H65FUOSNK43BU.jpg?auth=3e4f1e342fae583a4bfb42422e97f935369acdf4f11748dc95389039e1e4efbb&width=1920&height=1281&quality=70&smart=true",
-      "PublishedAt": "2024-03-08T09:00:00Z",
-      "Content": "Son pasadas las 15 en Madrid y es una jornada movida para el Chino Darín. El actor argentino está presentando la serie Mano de Hierro que se podrá ver desde el viernes 15 de marzo por Netflix, pero a… [+8851 chars]"
     }
   ]
 }
