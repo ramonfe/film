@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 987,
+  "TotalResults": 988,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "Hollywood Heads to the Oscars With 'Oppenheimer' the Odds-on Favorite",
+      "Description": "Los Angeles — Hollywood's glitterati gather on Sunday to celebrate the best performances in film at the annual Academy Awards, a ceremony expected to turn into a toast to blockbuster atomic bomb drama \"Oppenheimer.\"\n\n\nTalk show host Jimmy Kimmel returns for t…",
+      "Url": "https://www.voanews.com/a/hollywood-heads-to-the-oscars-with-oppenheimer-the-odds-on-favorite-/7521484.html",
+      "UrlToImage": "https://gdb.voanews.com/57E4D9AB-25A9-4532-8B44-AA44E2568BC5.jpg",
+      "PublishedAt": "2024-03-10T13:31:17Z",
+      "Content": "Los Angeles  Hollywood's glitterati gather on Sunday to celebrate the best performances in film at the annual Academy Awards, a ceremony expected to turn into a toast to blockbuster atomic bomb drama… [+3253 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709932757/240308-Spilde-Road-House-hero_bryeob",
       "PublishedAt": "2024-03-09T04:48:37Z",
       "Content": "The road to Road House has been a bumpy one. Prime Videos reimagining of the 1989 classic starring Patrick Swayze has been dotted with precarious mile markers signifying that critics and viewers migh… [+4645 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "FRANCE 24 English"
-      },
-      "Author": "FRANCE24",
-      "Title": "Oscars night: five things to watch",
-      "Description": "Variety awards editor Clayton Davis suggests five things to watch out for this Sunday at the 96th Academy Awards:\n'Oppenheimer' record-breaker?\nThere is no doubt Christopher Nolan's atomic blockbuster \"Oppenheimer\" will win multiple Oscars. But how many?\n\nEve…",
-      "Url": "https://www.france24.com/en/live-news/20240309-oscars-night-five-things-to-watch",
-      "UrlToImage": "https://s.france24.com/media/display/e45c9520-ddb3-11ee-ba66-005056bfb2b6/w:1280/p:16x9/24c1415886e7c57ba4ca2bb126c09802fc87382d.jpg",
-      "PublishedAt": "2024-03-09T01:25:20Z",
-      "Content": "Hollywood (United States) (AFP) Will \"Oppenheimer\" make Oscars history? Who will win the closely contested best actress race? And could Martin Scorsese go home empty-handed again? Variety awards edit… [+3961 chars]"
     }
   ]
 }
