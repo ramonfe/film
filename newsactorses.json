@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 985,
+  "TotalResults": 986,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Guía para seguir la gala de los premios Oscar: nominados, favoritos y formato",
+      "Description": "Llevamos meses en la carrera a los Premios Oscar 2024 y esta pronto va a llegar a su meta. La gala de la 96ª edición de los Oscar se celebra, un año más, en el Dolby Theatre de Hollywood de Los Ángeles, California. Allí será la gran noche del cine y conocerem…",
+      "Url": "https://www.abc.es/play/cine/noticias/guia-gala-premios-oscar-nominados-favoritos-novedades-formato-hoy-20240310164852-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/03/10/1478452185-k8tG-U601421496407fPF-1200x840@diario_abc.jpg",
+      "PublishedAt": "2024-03-10T16:18:57Z",
+      "Content": "Llevamos meses en la carrera a los Premios Oscar 2024 y esta pronto va a llegar a su meta. La gala de la 96ª edición de los Oscar se celebra, un año más, en el Dolby Theatre de Hollywood de Los Ángel… [+64 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/03/09/segundo-premio-festival-malaga-U16312155215asF-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-03-09T12:00:29Z",
       "Content": "Málaga se prepara ya para poner el broche de oro a una intensa semana de proyecciones y encuentros con la gala de clausura de la 27 edición de su Festival de Cine. El certamen, que ha contado este añ… [+61 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Sara Borondo",
-      "Title": "Diego González, el periodista que combina la actualidad con la pasión con los videojuegos",
-      "Description": "<!--cache-->El periodista Diego González habla del atractivo de la dualidad de los personajes y las situaciones, de The Last of Us y Final Fantasy VII.El destino de Diego González Fernández estaba claro desde pequeño por dos hechos: proceder de familia de per…",
-      "Url": "https://vandal.elespanol.com/noticia/1350769748/diego-gonzalez-el-periodista-que-combina-la-actualidad-con-la-pasion-con-los-videojuegos/",
-      "UrlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/3/3-2024/8/20243816463216_1.jpg",
-      "PublishedAt": "2024-03-09T11:26:00Z",
-      "Content": "El destino de Diego González Fernández estaba claro desde pequeño por dos hechos: proceder de familia de periodistas y criarse leyendo revistas como Hobby Consolas o Nintendo Acción. \"Pese a todas la… [+24129 chars]"
     }
   ]
 }
