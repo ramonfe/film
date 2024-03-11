@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 991,
+  "TotalResults": 992,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Estos son todos los españoles que han ganado un premio Oscar",
+      "Description": "Ya no queda nada para conocer quienes son los grandes protagonistas de los Oscar 2024 . Los premios cinematográficos de la Academia de Hollywood viven este domingo por la noche su 96ª edición en una gala en el Teatro Dolby de Los Ángeles que volverá a copar l…",
+      "Url": "https://www.abc.es/play/cine/noticias/espanoles-ganado-premio-oscar-20240310200000-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/03/06/5332714-U11128613843kUq-1024x512@diario_abc.JPG",
+      "PublishedAt": "2024-03-10T20:47:14Z",
+      "Content": "Tu mensaje se ha enviado con éxito\r\nMuchas gracias por tu participación"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.alucine.es/wp-content/uploads/2023/02/2-46.jpg",
       "PublishedAt": "2024-03-09T17:00:38Z",
       "Content": "Oscar\r\nSe acerca la ceremonia de los Oscar. Este próximo 10 de marzo, los premios más importantes de la industria cinematográfica encumbrarán a varias decenas de artistas, haciéndoles un hueco dentro… [+768 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "\"Las películas han sido corrompidas por la televisión\", o por qué Villeneuve quiere hacer una película muda",
-      "Description": "A Denis Villeneuve le gusta que la fotografía premie sobre el diálogo, es algo que siempre ha sido así y que, además, se le está acrecentando con la edad. Sus primeras obras repartían el peso narrativo entre todas las partes que, casi todos nosotros, entendem…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/las-peliculas-han-sido-corrompidas-por-la-television-o-por-que-villeneuve-quiere-hacer-una-pelicula-muda",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/03/denis-villeneuve-mudo.jpg?width=1200",
-      "PublishedAt": "2024-03-09T16:30:05Z",
-      "Content": "El director cree que la fotografía y el sonido deberían primar en el cine. Los diálogos y otras cuestiones son cosa de la televisión\r\nA Denis Villeneuve le gusta que la fotografía premie sobre el diá… [+2856 chars]"
     }
   ]
 }
