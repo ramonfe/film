@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1023,
+  "TotalResults": 1024,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Juan Manuel Freire",
+      "Title": "Oscar 2024: los 10 momentos clave de la gala",
+      "Description": "Estos Oscar tenían mucho de colofón del fenómeno 'Barbenheimer', ese oxímoron milagroso que animó la industria en tiempos inciertos. Por una vez, dos de las cinco películas más taquilleras del año en Estados Unidos acabaron estando entre las más reconocidas p…",
+      "Url": "https://www.elperiodico.com/es/oscars/20240311/oscars-2024-mejores-momentos-gala-99248105",
+      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/ccf12e19-34e8-435c-a6d3-e5bb2e6f0526_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-03-11T05:01:19Z",
+      "Content": "Estos Oscar tenían mucho de colofón del fenómeno 'Barbenheimer', ese oxímoron milagroso que animó la industria en tiempos inciertos. Por una vez, dos de las cinco películas más taquilleras del año en… [+7673 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/65ee377de99c073aba82e539/16:9/w_1280,c_limit/2066790582",
       "PublishedAt": "2024-03-10T22:58:51Z",
       "Content": "La llegada de Enzo Vogrincic a los Premios Oscar 2024 es la historia de una carrera que prácticamente ha comenzado desde lo más alto. El actor uruguayo ha alcanzado el estrellato con su papel de Numa… [+2019 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hola"
-      },
-      "Author": "Amaia León, Amaia León",
-      "Title": "El look péplum de Emma Stone: cuando un vestido cuenta historia del cine",
-      "Description": "La actriz ha deslumbrado en esta gala en la que podría ganar su segunda estatuilla dorada",
-      "Url": "https://www.hola.com/moda/20240310250687/emma-stone-look-oscar-2024-vestido-peplum-louis-vuitton/",
-      "UrlToImage": "https://images.hola.com/imagenes/moda/20240310250687/emma-stone-look-oscar-2024-vestido-peplum-louis-vuitton/1-404-821/emma-stone-oscars-t.jpg",
-      "PublishedAt": "2024-03-10T22:52:44Z",
-      "Content": "Las quinielas están reñidas en muchas candidaturas, pero en la categoría de Mejor actriz protagonista, el Oscar parece tener ya un nombre grabado: el de Emma Stone. La actriz estadounidense, que ya t… [+2277 chars]"
     }
   ]
 }
