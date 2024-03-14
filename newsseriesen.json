@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 402,
+  "TotalResults": 400,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "6000.0.0b11",
+      "Description": "6000.0.0b11\n\n March 13, 2024\n \n unityhub://6000.0.0b11/a707ca4efec4\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n visionOS Build Support\n \r…",
+      "Url": "https://unity.com/releases/editor/beta/6000.0.0b11",
+      "UrlToImage": null,
+      "PublishedAt": "2024-03-13T21:20:06Z",
+      "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an Editor crash when At… [+273653 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/02/Yu-Gi-Oh-VRAINS-Season-2.jpg?resize=1200,630",
       "PublishedAt": "2024-03-12T07:45:13Z",
       "Content": "Wondering where to watch Yu-Gi-Oh! VRAINS Season 2 online? We have all the streaming details right here. Season 2 of the animated sci-fi series Yu-Gi-Oh! VRAINS follows Yusaku Fujiki as he unravels t… [+4850 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Ayesha Zafar",
-      "Title": "Bobby’s World Season 1 Streaming: Watch & Stream Online via Amazon Prime Video",
-      "Description": "Forget your CGI cartoons. Buckle up for a trip back to the 90s with Bobby’s World Season 1. It is a show that’s equal parts nostalgic gold and meme-worthy masterpiece. This show is a treasure trove of chaotic energy and relatable moments that deserve a major …",
-      "Url": "https://www.comingsoon.net/guides/news/1595403-bobbys-world-season-1-streaming-watch-stream-online-via-amazon-prime-video",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/03/Evolve_d43731.jpg?resize=1200,630",
-      "PublishedAt": "2024-03-12T07:30:33Z",
-      "Content": "Forget your CGI cartoons. Buckle up for a trip back to the 90s with Bobbys World Season 1. It is a show thats equal parts nostalgic gold and meme-worthy masterpiece. This show is a treasure trove of … [+2413 chars]"
     }
   ]
 }
