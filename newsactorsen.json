@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1049,
+  "TotalResults": 1050,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4272377-screenshot2024-03-13at8.59.42am.png",
       "PublishedAt": "2024-03-13T13:19:00Z",
       "Content": "Oscar-winner Nicolas Cage starred in two National Treasure movies for Disney that made huge amounts of money and helped to catapult the actor to a new level of mainstream fame. But the most recent en… [+2345 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "looper.com",
-      "Title": "Superman Movie Rumor Has Fans Speculating A Bizarre Villain's Live-Action Debut",
-      "Description": "Learn More A new rumor suggests that Bizarro, the fan-favorite, sometimes-evil Superman clone, might appear as one of the main villains in James Gunn's \"Superman.\" On X (formerly Twitter), scooper @MyTimeToShineH shared a screenshot from a video previously po…",
-      "Url": "https://biztoc.com/x/6a5c89772189b4fc",
-      "UrlToImage": "https://c.biztoc.com/p/6a5c89772189b4fc/s.webp",
-      "PublishedAt": "2024-03-13T12:50:07Z",
-      "Content": "Learn MoreA new rumor suggests that Bizarro, the fan-favorite, sometimes-evil Superman clone, might appear as one of the main villains in James Gunn's \"Superman.\"On X (formerly Twitter), scooper @MyT… [+308 chars]"
     }
   ]
 }
