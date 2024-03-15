@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1043,
+  "TotalResults": 1044,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://deadline.com/wp-content/uploads/2024/03/sharon-stone-and-billy-baldwin-in-sliver-e1710318874334.webp?w=1024",
       "PublishedAt": "2024-03-13T09:06:34Z",
       "Content": "More than 30 years after starring together in silver screen flop Sliver, Sharon Stone and Billy Baldwin are recalling unhappy memories about making the movie.\r\nIn an appearance on The Louis Theroux P… [+2359 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Debmitra Chatterjee",
-      "Title": "Highest-Grossing Movies of Ajay Devgn: Shaitaan, Tanhaji, Drishyam 2 & More",
-      "Description": "Ajay Devgn has been a part of the Hindi film industry for over 30 years. The actor continues to be relevant with his cinematic choices, as evidenced by his latest release, Shaitaan. The supernatural thriller, starring R Madhavan, Jyothika, and Janki Bodiwala,…",
-      "Url": "https://www.comingsoon.net/indian/news/1597978-highest-grossing-movies-of-ajay-devgn-shaitaan-tanhaji-drishyam-2-more",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/03/Untitled-design-2024-03-13T084717.538.png?resize=1200,630",
-      "PublishedAt": "2024-03-13T07:00:22Z",
-      "Content": "Ajay Devgn has been a part of the Hindi film industry for over 30 years. The actor continues to be relevant with his cinematic choices, as evidenced by his latest release, Shaitaan. The supernatural … [+2880 chars]"
     }
   ]
 }
