@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 971,
+  "TotalResults": 972,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "La curiosa vida de Cillian Murphy, el ganador del Oscar como Mejor Actor: pocos amigos actores, no tiene redes sociales y vive en pueblo de Irlanda",
+      "Description": "El protagonista de Oppenheimer tiene 47 y hace nueve años saltó a la fama internacional por su papel de Thomas “Tommy” Shelby en la exitosísima serie Peaky Blinders",
+      "Url": "https://www.lanacion.com.ar/revista-hola/la-curiosa-vida-de-cillian-murphy-el-ganador-del-oscar-como-mejor-actor-pocos-amigos-actores-no-nid16032024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-oppenheimer-interpreta-majestuosamente-al-CIKDRB6EGFAGTP74IS2GFPDTUI.jpg?auth=b026861e189d0a6f1429b87679840e4e9bcabb711f3ae38eedbace3062ed2615&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-03-16T04:38:35Z",
+      "Content": "Una mirada de hielo, un talento arrasador a la hora de interpretar cualquier papel y una escurridiza relación con la fama. No tiene redes sociales, le pesa promocionar sus trabajos, vive en un pueblo… [+3819 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/03/mandalorian.jpg?width=1200",
       "PublishedAt": "2024-03-15T11:15:23Z",
       "Content": "'The Mandalorian' tiene tres temporadas y una próxima película, ¿pero qué pasa con la temporada 4?\r\nLa serie que nos devolvió la fe en Star Wars, The Mandalorian, se emitió por primera vez en 2019 a … [+2431 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "J. A. Bayona, Víctor Erice y Pablo Larraín, favoritos para los Premios Platino",
-      "Description": "' La sociedad de la nieve ', dirigida por Juan Antonio Bayona, con siete nominaciones, ' Cerrar los ojos ' (Víctor Erice) y la chilena ' El Conde ' (Pablo Larraín), ambas con seis, son las películas favoritas en los XI Premios Platino, que se celebrarán el pr…",
-      "Url": "https://www.abc.es/play/cine/noticias/bayona-victor-erice-pablo-larrain-favoritos-premios-20240315114905-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/03/15/1475249035-kllD--1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-03-15T10:49:06Z",
-      "Content": "'La sociedad de la nieve', dirigida por Juan Antonio Bayona, con siete nominaciones, 'Cerrar los ojos' (Víctor Erice) y la chilena 'El Conde' (Pablo Larraín), ambas con seis, son las películas favori… [+95 chars]"
     }
   ]
 }
