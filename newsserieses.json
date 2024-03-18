@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1003,
+  "TotalResults": 1004,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "César Aguilla",
+      "Title": "Si Apple paga, Apple manda: villanos de películas no deben usar iPhone o Mac si la compañía cedió los productos",
+      "Description": "Apple es una empresa muy meticulosa, y eso no es noticia nueva para nadie. Sin embargo, la compañía de la manzana es muy particular en lo que respecta a sus políticas de 'product placement' o posicionamiento de producto, llegando al extremo en que los villano…",
+      "Url": "https://www.xataka.com.mx/celulares-y-smartphones/apple-paga-apple-manda-villanos-peliculas-no-deben-usar-iphone-mac-compania-cedio-productos",
+      "UrlToImage": "https://i.blogs.es/13d3b5/apple-no-permite-villanos-con-iphone/840_560.jpeg",
+      "PublishedAt": "2024-03-17T23:00:50Z",
+      "Content": "Apple es una empresa muy meticulosa, y eso no es noticia nueva para nadie. Sin embargo, la compañía de la manzana es muy particular en lo que respecta a sus políticas de 'product placement' o posicio… [+3822 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/5d1e91/bird/840_560.jpeg",
       "PublishedAt": "2024-03-16T12:00:39Z",
       "Content": "Nunca es mal momento para ponerse una película, pero siempre será un plan que suene mucho mejor cuando no tengamos que pagar ni un céntimo para llevarlo a cabo. Por ello, hoy os propongo una selecció… [+3475 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trecebits.com"
-      },
-      "Author": "Manuel Moreno",
-      "Title": "Twitch elimina la función Watch Party",
-      "Description": "Permitía ver una película o serie del servicio de streaming Amazon Prime Vídeo de forma conjunta con los seguidores.La publicación Twitch elimina la función Watch Party apareció primero en TreceBits.",
-      "Url": "https://www.trecebits.com/twitch-cierra-watch-party/",
-      "UrlToImage": "https://www.trecebits.com/wp-content/uploads/2024/03/twicht.jpg",
-      "PublishedAt": "2024-03-16T10:59:42Z",
-      "Content": "Twitch tenía hasta ahora una función que permitía a los streamers ver películas de Amazon Prime Vídeo -Twich es una compañía propiedad de Amazon- con sus seguidores mientras realizaban una retransmis… [+1843 chars]"
     }
   ]
 }
