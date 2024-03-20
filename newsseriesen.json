@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 430,
+  "TotalResults": 431,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Equipe IGN Brasil",
+      "Title": "Star Wars: The Acolyte - Official Trailer",
+      "Description": "Check out the first Star Wars The Acolyte trailer for the new Star Wars TV series, streaming on Disney Plus from June 4, 2024. The Disney+ show stars Lee Jung-jae, Amandla Stenberg, Manny Jacinto, Dafne Keen, Charlie Barnett, Jodie Turner-Smith, Rebecca Hende…",
+      "Url": "https://br.ign.com/star-wars-the-acolyte/121296/video/star-wars-the-acolyte-official-trailer",
+      "UrlToImage": "https://sm.ign.com/t/ign_br/video/s/star-wars-/star-wars-the-acolyte-official-trailer_9qkt.1200.png",
+      "PublishedAt": "2024-03-19T15:03:55Z",
+      "Content": "O IGN Brasil é um site do grupo Webedia"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/Cheaters-Season-14.jpg?resize=1200,630",
       "PublishedAt": "2024-03-18T06:06:42Z",
       "Content": "Cheaters Season 14 is the fourteenth addition to this American reality series that originally premiered in 2013. It showcases committed persons who suspect their partner of cheating on them finding t… [+2803 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Ritika Singh",
-      "Title": "OutDaughtered (2016) Season 1 Streaming: Watch & Stream Online via HBO Max",
-      "Description": "OutDaughtered is a reality show that focuses on the life of a married couple Adam and Danielle as they navigate the joys and challenges of raising multiple daughters. The series provides a glimpse into their busy lives. OutDaughtered (2016) Season 1 aired fro…",
-      "Url": "https://www.comingsoon.net/guides/news/1608009-outdaughtered-2016-season-1-streaming-watch-stream-online-via-hbo-max",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/03/MixCollage-18-Mar-2024-09-54-AM-6523.jpg?resize=1200,630",
-      "PublishedAt": "2024-03-18T05:12:06Z",
-      "Content": "OutDaughtered is a reality show that focuses on the life of a married couple Adam and Danielle as they navigate the joys and challenges of raising multiple daughters. The series provides a glimpse in… [+3337 chars]"
     }
   ]
 }
