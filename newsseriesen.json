@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 377,
+  "TotalResults": 378,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Anonymous",
+      "Title": "6000.0.0b12",
+      "Description": "6000.0.0b12\n\n March 19, 2024\n \n unityhub://6000.0.0b12/0ac662189661\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n visionOS Build Support\n \r…",
+      "Url": "https://unity.com/releases/editor/beta/6000.0.0b12",
+      "UrlToImage": null,
+      "PublishedAt": "2024-03-22T06:54:02Z",
+      "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an Editor crash when At… [+280021 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/03/Evolve-20-7.jpg?resize=1200,630",
       "PublishedAt": "2024-03-18T14:47:01Z",
       "Content": "Judge Dees Mystery Season 1 is a highly acclaimed mystery drama that revolves around the semi-fictional character of Judge Dee, which is based on a real historical figure. The show was widely receive… [+3226 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "Caroline Bologna",
-      "Title": "This New True Crime Docuseries Is A Top Show On Netflix Right Now",
-      "Description": "A mystery drama adaptation and a historical docuseries are also trending on streaming services like Max, Hulu, Apple TV+ and Peacock.",
-      "Url": "https://www.huffpost.com/entry/the-program-popular-netflix-shows_n_65f7c3d6e4b08b384f1bd056",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/65f7cb022200005d004b8198.png?cache=ZWCs49VzIQ&ops=1200_630",
-      "PublishedAt": "2024-03-18T14:43:00Z",
-      "Content": "The Program: Cons, Cults, and Kidnapping is currently one of the most popular shows on Netflix, according to the streaming services public ranking system.\r\nThis true crime docuseries is Katherine Kub… [+4747 chars]"
     }
   ]
 }
