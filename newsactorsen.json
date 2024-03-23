@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1095,
+  "TotalResults": 1096,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Lauryn Overhultz",
+      "Title": "'Lost Highway' star Patricia Arquette recalls filming 'terrifying' nude scene while crew said 'crude things'",
+      "Description": "Patricia Arquette recalled filming \"terrifying\" nude scenes for 1997's \"Lost Highway\" while crew members said \"gross things.\" The actress starred as Renee Madison in the David Lynch-directed movie.",
+      "Url": "https://www.foxnews.com/entertainment/lost-highway-star-patricia-arquette-recalls-filming-terrifying-nude-scene-while-crew-said-crude-things",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Patricia_Arquette_Lost_Highway_movie.jpg",
+      "PublishedAt": "2024-03-22T21:02:03Z",
+      "Content": "Patricia Arquette reflected on filming the nude scene in \"Lost Highway\" in a new interview.\r\nThe actress, 55, opened up about the concerns she had during an appearance at the Series Mania Festival in… [+1991 chars]"
+    },
     {
       "Source": {
         "Id": "newsweek",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/500209?v=1711044323",
       "PublishedAt": "2024-03-21T18:05:22Z",
       "Content": "Welcome to the spookiest weekend of March! Sony is giving us the only big studio release, which comes in the form of the most recent installment in the Ghostbusters franchise. On the indie side, ther… [+5946 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nofilmschool.com"
-      },
-      "Author": "Jason Hellerman",
-      "Title": "What is a Red Herring?",
-      "Description": "Have you ever watched a movie and felt completely confident you knew who the culprit was, only to be left speechless by a shocking twist? Or perhaps you devoured a season of your favorite show, only to realize a seemingly pivotal clue was nothing more than a …",
-      "Url": "https://nofilmschool.com/what-is-a-red-herring",
-      "UrlToImage": "https://nofilmschool.com/media-library/what-is-a-red-herring.jpg?id=34076330&width=1200&height=600&coordinates=0%2C60%2C0%2C61",
-      "PublishedAt": "2024-03-21T18:03:03Z",
-      "Content": "'We Were Dangerous'Courtesy of SXSW\r\nEditor's note: The following conversation has been edited for length and clarity. \r\nNo Film School: I think the tone of this film is so well done. It strikes a ba… [+11992 chars]"
     }
   ]
 }
