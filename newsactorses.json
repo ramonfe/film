@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 906,
+  "TotalResults": 907,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El entorno de Silvia Tortosa desvela que no sabía que tenía cáncer: «Decidieron ocultárselo»",
+      "Description": "La repentina muerte de Silvia Tortosa a los 77 años ha sorprendido esta mañana al mundo del espectáculo. La actriz fallecía este sábado en Barcelona tras una dura lucha contra el cáncer , del que había salido, y que se la acabó llevando tras sufrir una recaíd…",
+      "Url": "https://www.abc.es/gente/entorno-silvia-tortosa-desvela-sabia-cancer-decidieron-20240323193021-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2024/03/23/silvia-tortosa-k6YE--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-03-23T18:30:21Z",
+      "Content": "La repentina muerte de Silvia Tortosa a los 77 años ha sorprendido esta mañana al mundo del espectáculo. La actriz fallecía este sábado en Barcelona tras una dura lucha contra el cáncer, del que habí… [+85 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/03/22/jonathan-baley-heartstopper-kpvB--1024x512@diario_abc.jpg",
       "PublishedAt": "2024-03-22T12:27:33Z",
       "Content": "Lo que (nos) gusta una buena comedia romántica protagonizada por adolescentes. Unos, al verla, recuerdan viejos tiempos; otros sueñan, imaginan. El género de la 'romcom' está de moda gracias a las pl… [+135 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Cristóbal D. Peñate",
-      "Title": "El Estado contra mí",
-      "Description": "Isabel Díaz Ayuso se cree tan importante que tras conocerse los presuntos delitos fiscales de su pareja sólo se le ha ocurrido decir que todas las instituciones del Estado se han puesto de acuerdo para ir contra ella. La clásica teoría de la conspiración de l…",
-      "Url": "https://www.eldiario.es/canariasahora/canarias-opina/el-estado-contra-mi_132_11235538.html",
-      "UrlToImage": "https://www.eldiario.es/assets/img/rrss/eldiario-default.h-8633d25f56f34d31ef33e613af8f4c70.png",
-      "PublishedAt": "2024-03-22T12:21:20Z",
-      "Content": "Isabel Díaz Ayuso se cree tan importante que tras conocerse los presuntos delitos fiscales de su pareja sólo se le ha ocurrido decir que todas las instituciones del Estado se han puesto de acuerdo pa… [+6764 chars]"
     }
   ]
 }
