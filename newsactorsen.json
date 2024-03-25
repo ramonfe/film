@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1078,
+  "TotalResults": 1079,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbs-news",
+        "Name": "CBS News"
+      },
+      "Author": "Loureen Ayyoub",
+      "Title": "Matthew Modine honored as movie \"Maverick\" at Cinequest in San Jose",
+      "Description": "He was a part of this year's Oscar-winning film Oppenheimer and award-winning actor Matthew Modine is revved up for much more.",
+      "Url": "https://www.cbsnews.com/sanfrancisco/news/matthew-modine-star-birdy-full-metal-jacket-honored-cinequest-film-festival-san-jose/",
+      "UrlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/23/56244ce1-dfc6-4791-ade1-2e81c9b58f80/thumbnail/1200x630/a4de1d3c64bfdb8f80c2f93d4614948b/matthew-modine-cinequestsj.jpg?v=4baa656f7af774a52a8c6a88476cb826",
+      "PublishedAt": "2024-03-24T01:15:11Z",
+      "Content": "SAN JOSE -- He was a part of this year's Oscar-winning film Oppenheimer and award-winning actor Matthew Modine is revved up for much more.\r\nThe artist recently received a special honor at the Cineque… [+2017 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.brit.co/media-library/inside-out-2-movie-ayo-edebiri-maya-hawke.png?id=51812442&width=1200&height=600&coordinates=0%2C7%2C0%2C15",
       "PublishedAt": "2024-03-22T14:17:58Z",
       "Content": "With this year's summer movies, and all the new Disney movies on the way, there is *plenty* of content to choose from the next time you're craving a movie night. The best part about the newest Disney… [+2822 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Lisa Respers France",
-      "Title": "Cillian Murphy returning for ‘Peaky Blinders’ movie creator says | CNN",
-      "Description": "Fresh off of his best actor Oscars win, it looks like Cillian Murphy hasn’t forgotten where he came from.",
-      "Url": "https://www.cnn.com/2024/03/22/entertainment/cillian-murphy-returning-peaky-blinders/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230706145156-cillian-murphy-peaky-blinders.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2024-03-22T14:15:07Z",
-      "Content": "Fresh off of his Oscar win for best actor, it looks like Cillian Murphy hasnt forgotten where he came from.\r\nSteven Knight, creator of the beloved crime drama Peaky Blinders, told Birmingham World Mu… [+593 chars]"
     }
   ]
 }
