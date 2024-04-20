@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 82,
+  "TotalResults": 83,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Unity.com"
+      },
+      "Author": "Unity Technologies",
+      "Title": "6000.0.0b16",
+      "Description": "6000.0.0b16\n\n April 19, 2024\n \n unityhub://6000.0.0b16/1ddb887463a9\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n visionOS Build Support\n \r…",
+      "Url": "https://unity.com/releases/editor/beta/6000.0.0b16",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-19T15:47:47Z",
+      "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an Editor crash when At… [+320268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d218ce5fa7b03d5e69ee70869d89ce9f.jpg",
       "PublishedAt": "2024-04-05T21:00:00Z",
       "Content": "As a company that wants to make money, Roku wants you to watch as many ads as possible. Thats not currently possible when you exit Rokus streaming player and do something like play a game on the Nint… [+2685 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-verge",
-        "Name": "The Verge"
-      },
-      "Author": "Mia Sato",
-      "Title": "Streaming services really want you to buy stuff while you watch TV",
-      "Description": "Paramount is the latest company to introduce custom ads that appear mid-show. Netflix, Disney, and Peacock have also experimented or explored similar shopping features.",
-      "Url": "https://www.theverge.com/2024/4/5/24121896/streaming-services-second-screen-ads-paramount-disney-peacock",
-      "UrlToImage": "https://cdn.vox-cdn.com/thumbor/hZ9dgPsCKFNHNhNpM3ZawshrfKc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954784/acastro_STK126_paramountPlus_04.jpg",
-      "PublishedAt": "2024-04-05T14:29:12Z",
-      "Content": "Streaming services really want you to buy stuff while you watch TV\r\nStreaming services really want you to buy stuff while you watch TV\r\n / Paramount is the latest company to introduce custom ads that… [+2358 chars]"
     }
   ]
 }
