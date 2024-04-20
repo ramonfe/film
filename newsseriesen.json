@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Luis Joshua Gutierrez",
+      "Title": "The Best Ongoing Anime Series For Beginners And Where To Watch Them",
+      "Description": "Getting into anime for the first time can often be intimidating because of its massive catalog. Fans tend to joke that shows such as One Piece will \"never end,\" and the same sentiment can be shared with other popular franchises, such as Dragon Ball. Although …",
+      "Url": "https://www.gamespot.com/gallery/the-best-ongoing-anime-series-for-beginners-and-where-to-watch-them/2900-5276/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1746/17463818/4290842-bestanime%282%29.jpg",
+      "PublishedAt": "2024-04-19T19:07:00Z",
+      "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/apple-tv-plus-shadowy-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "PublishedAt": "2024-04-06T00:26:31Z",
       "Content": "A recent study revealed that Apple TV+ is the streaming platform with the highest rated content on IMDb, despite having the smallest catalog of them all. Now JustWatch has shared the streaming platfo… [+1412 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gizmodo.com"
-      },
-      "Author": "Jody Serrano",
-      "Title": "Roku’s New Idea to Show You Ads When You Pause Your Video Game Is Horrifying",
-      "Description": "As a company that wants to make money, Roku wants you to watch as many ads as possible. That’s not currently possible when you exit Roku’s streaming player and do something like play a game on the Nintendo Switch or watch a show on your Apple TV. But if the c…",
-      "Url": "https://gizmodo.com/roku-ads-pause-tv-video-games-patent-application-1851391806",
-      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d218ce5fa7b03d5e69ee70869d89ce9f.jpg",
-      "PublishedAt": "2024-04-05T21:00:00Z",
-      "Content": "As a company that wants to make money, Roku wants you to watch as many ads as possible. Thats not currently possible when you exit Rokus streaming player and do something like play a game on the Nint… [+2685 chars]"
     }
   ]
 }
