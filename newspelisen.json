@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 897,
+  "TotalResults": 898,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Anna Koselke",
+      "Title": "Stardew Valley Update 1.6.4 Patch Notes: New Mines and Fish Frenzies",
+      "Description": "A surprise new Stardew Valley update has just dropped and it's filled to the brim with some exciting features, balance changes, quality-of-life tweaks, and much more. The 1.6.4 patch comes almost a month after solo developer Eric “ConcernedApe” Barone release…",
+      "Url": "https://www.gamespot.com/gallery/stardew-valley-1-6-4-update/2900-5277/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18370834/4290859-stardew-valley-1-6-4-update.jpg",
+      "PublishedAt": "2024-04-19T20:42:00Z",
+      "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-19T14:39:17Z",
       "Content": "Tracklist:01. Coldplay - Yellow02. Faith Hill - There Youll Be (2007 Remaster)03. Simple Plan - Im Just a Kid04. Daniel Powter - Bad Day05. Michael Bublé - Haven't Met You Yet06. All Saints - Pure Sh… [+1392 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Rogerebert.com"
-      },
-      "Author": "Simon Abrams",
-      "Title": "Rebel Moon - Part Two: The Scargiver",
-      "Description": "Seeing Rebel Moon—Part 2: The Scargiver in a theater would probably be the best way to go, since that way you can hear the movie loud enough to imagine you’re watching something better.",
-      "Url": "https://www.rogerebert.com/reviews/rebel-moon-part-two-the-scargiver-2024-film-review",
-      "UrlToImage": "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/rebel-moon-part-two-the-scargiver-2024-film-review/homepage_rebel-moon-2-2024.jpg",
-      "PublishedAt": "2024-04-19T14:00:38Z",
-      "Content": "Will there ever be a version of “Rebel Moon—Part 2: The Scargiver” that makes the movie and its franchise seem essential? Director and co-writer Zack Snyder has already tried to whip up his fanbase b… [+4747 chars]"
     }
   ]
 }
