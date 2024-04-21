@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 848,
+  "TotalResults": 849,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Freethoughtblogs.com"
+      },
+      "Author": "PZ Myers",
+      "Title": "The feel-good movie of the year!",
+      "Description": "I don’t think my local theater is planning to book this one, so I’ll probably have to wait until it’s streaming. It looks like a hit to me!",
+      "Url": "https://freethoughtblogs.com/pharyngula/2024/04/20/the-feel-good-movie-of-the-year/",
+      "UrlToImage": "https://freethoughtblogs.com/pharyngula/wp-content/themes/ftb2-theme/images/logo.png",
+      "PublishedAt": "2024-04-20T22:05:25Z",
+      "Content": "I don’t think my local theater is planning to book this one, so I’ll probably have to wait until it’s streaming. It looks like a hit to me!"
+    },
     {
       "Source": {
         "Id": "abc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-19T17:35:11Z",
       "Content": "Tracklist:01. Ed Sheeran - Photograph02. Christina Perri - A Thousand Years03. Lil Wayne - Sucker for Pain (feat. Logic, Ty Dolla $ign &amp; X Ambassadors)04. Lizzo - Good as Hell (feat. Ariana Grand… [+1830 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Newser"
-      },
-      "Author": "Rob Quinn",
-      "Title": "Pulp Fiction Cast Reunites for 30th Anniversary Screening",
-      "Description": "Gen Xers might find it hard to believe, but Pulp Fiction turns 30 this year. Cast members of the Quentin Tarantino movie, which premiered at Cannes in May 1994, gathered at Hollywood's TCL Chinese Theater for an anniversary screening Thursday, Deadline report…",
-      "Url": "https://www.newser.com/story/349286/pulp-fiction-cast-reunites-for-30th-anniversary-screening.html",
-      "UrlToImage": "https://img2-azrcdn.newser.com/image/1530287-12-20240419125017.jpeg",
-      "PublishedAt": "2024-04-19T17:31:00Z",
-      "Content": "Gen Xers might find it hard to believe, but Pulp Fiction turns 30 this year. Cast members of the Quentin Tarantino movie, which premiered at Cannes in May 1994, gathered at Hollywood's TCL Chinese Th… [+776 chars]"
     }
   ]
 }
