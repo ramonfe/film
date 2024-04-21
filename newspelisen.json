@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 904,
+  "TotalResults": 905,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "Adidas and Star Wars Launch Nanzuka Superstar XLG",
+      "Description": "adidas collaborates with Star Wars and NANZUKA to unveil the Superstar XLG, a sneaker that blends movie elements with modern design. Set to release on Star Wars Day, this partnership highlights exclusive designs featuring beloved characters R2-D2 and C-3PO by…",
+      "Url": "https://hypebeast.com/2024/4/adidas-star-wars-nanzuka-superstar-xlg-release-info",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F04%2F19%2Fadidas-star-wars-nanzuka-superstar-xlg-release-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "PublishedAt": "2024-04-20T03:32:09Z",
+      "Content": "adidas collaborates with Star Wars and NANZUKA to unveil the Superstar XLG, a sneaker that blends movie elements with modern design. \r\nSet to release on Star Wars Day, this partnership highlights exc… [+701 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -44,19 +57,6 @@
     },
     {
       "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Samantha Delouya",
-      "Title": "Your movie theater may be shortchanging your drinks, a lawsuit alleges",
-      "Description": "A Texas man filed a proposed class-action lawsuit against Cinemark, alleging that the theater chain’s 24-ounce drink cups can only hold 22 ounces of beer.",
-      "Url": "https://www.cnn.com/2024/04/19/business/cinemark-drink-lawsuit/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sipausa-29815192.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2024-04-19T21:39:59Z",
-      "Content": "Not even a beer at the movies is spared from shrinkflation, alleges a lawsuit against Cinemark. And one man is spearheading the fight against what he considers false advertising on his beer pour.\r\nTh… [+2856 chars]"
-    },
-    {
-      "Source": {
         "Id": null,
         "Name": "Yahoo Entertainment"
       },
@@ -67,6 +67,19 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-19T21:39:59Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Samantha Delouya",
+      "Title": "Your movie theater may be shortchanging your drinks, a lawsuit alleges",
+      "Description": "A Texas man filed a proposed class-action lawsuit against Cinemark, alleging that the theater chain’s 24-ounce drink cups can only hold 22 ounces of beer.",
+      "Url": "https://www.cnn.com/2024/04/19/business/cinemark-drink-lawsuit/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sipausa-29815192.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-04-19T21:39:59Z",
+      "Content": "Not even a beer at the movies is spared from shrinkflation, alleges a lawsuit against Cinemark. And one man is spearheading the fight against what he considers false advertising on his beer pour.\r\nTh… [+2856 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-109441518,width-1070,height-580,overlay-economictimes/photo.jpg",
       "PublishedAt": "2024-04-19T16:19:04Z",
       "Content": "Bollywood actor Rajkummar Rao and director Tushar Hiranandani joined ANI for an exclusive interview for their upcoming film Srikanth- Aa Raha Hai Sabki Aankhein Kholne. The movie is based on the life… [+727 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Rlsbb.cc"
-      },
-      "Author": "saamaan1@yahoo.com (Master)",
-      "Title": "DVDFab 13.0.1.6 (x64) Multilingual",
-      "Description": "Description: DVDFab is all you need to backup DVDs. DVDFab Platinum 3 is brand new, is completely rewritten, is based on 5 years of DVD copy software development. DVDFab is simply the easiest way to copy a DVD movie. Just insert the movie and a blank DVD then…",
-      "Url": "https://rlsbb.cc/dvdfab-13-0-1-6-x64-multilingual/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-04-19T15:40:58Z",
-      "Content": "Description: DVDFab is all you need to backup DVDs. DVDFab Platinum 3 is brand new, is completely rewritten, is based on 5 years of DVD copy software development. DVDFab is simply the easiest way to … [+2739 chars]"
     }
   ]
 }
