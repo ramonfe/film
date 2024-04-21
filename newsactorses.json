@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 747,
+  "TotalResults": 748,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Ángela Reyes Haczek",
+      "Title": "Orlando Bloom habla sobre su vida con Katy Perry",
+      "Description": "El actor participó el jueves en el podcast \"What Now? with Trevor Noah\", donde habló de su nueva serie documental \"Orlando Bloom: To the Edge\". Noah también le preguntó sobre su vida fuera del trabajo, comentando que Bloom y su pareja Katy Perry parecían esta…",
+      "Url": "https://cnnespanol.cnn.com/2024/04/20/orlando-bloom-katy-perry-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/gettyimages-2147786341.jpg?quality=100&strip=info",
+      "PublishedAt": "2024-04-20T04:11:40Z",
+      "Content": "(CNN) -- Orlando Bloom sabe que el éxito de una relación requiere a menudo crecimiento personal.\r\nEl actor participó el jueves en el podcast \"What Now? with Trevor Noah\", donde habló de su nueva seri… [+1509 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/1b3c61f9-6ad5-406b-9243-0dfb2625f66e_facebook-aspect-ratio_default_0_x1947y1068.jpg",
       "PublishedAt": "2024-04-19T07:09:27Z",
       "Content": "Taylor Swift continúa subida en su particular locomotora de canciones, introspección, conciertos y billetes. La cantante, que sigue regrabando sus discos –el siguiente que se espera es 2AM Edition– s… [+12782 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Netflix rescata una de las películas más románticas de la historia del cine que ganó nueve Oscar",
-      "Description": "Ya no se hacen películas como antes. O sí. Pero la nostalgia empaña los recuerdos (hasta los malos). No podía tener mejor elenco esta película estrenada en 1996 y ambientada en el periodo de entreguerras (lo que nos gusta un buen drama romántico y bélico ): R…",
-      "Url": "https://www.abc.es/play/cine/noticias/netflix-rescata-peliculas-romanticas-historia-cine-gano-20240419083000-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/04/19/paciente-ingles-netflix-kQ1E--1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-04-19T06:30:00Z",
-      "Content": "Ya no se hacen películas como antes. O sí. Pero la nostalgia empaña los recuerdos (hasta los malos). No podía tener mejor elenco esta película estrenada en 1996 y ambientada en el periodo de entregue… [+2384 chars]"
     }
   ]
 }
