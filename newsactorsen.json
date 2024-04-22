@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 786,
+  "TotalResults": 788,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Minneapolis Star Tribune"
+      },
+      "Author": "Star Tribune Staff",
+      "Title": "Kevin Bacon dances back to \"Footloose\" high school",
+      "Description": "Actor Kevin Bacon on Saturday returned to the Utah high school where the cult classic movie ''Footloose'' was filmed more than 40 years.",
+      "Url": "https://www.startribune.com/kevin-bacon-dances-back-to-footloose-high-school/600360584/",
+      "UrlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1713369823",
+      "PublishedAt": "2024-04-21T21:55:01Z",
+      "Content": "PAYSON, Utah Actor Kevin Bacon on Saturday returned to the Utah high school where the cult classic movie ''Footloose'' was filmed more than 40 years.\r\nBacon danced his way to a stage on a Payson High… [+1796 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6621618435c16457aadd29ae/1713563940081/wolverine%2Band%2Bthe%2Bblob%2Bxmen%2Bmovie.jpg?format=1500w",
       "PublishedAt": "2024-04-19T21:58:00Z",
       "Content": "X-Men Origins: Wolverine was not the best in the X-Men franchise. It also probably wasnt the worst, as it did have some fun characters with intriguing possibilities, but it didnt pan out the way the … [+852 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (Craig McCulloch)",
-      "Title": "Developers: Enhanced AI could outthink humans in 2 to 5 years",
-      "Description": "vancouver, british columbia — Just as the world is getting used to the rapidly expanding use of AI, or artificial intelligence, AGI is looming on the horizon.\n\n\nExperts say when artificial general intelligence becomes reality, it could perform tasks better th…",
-      "Url": "https://www.voanews.com/a/developers-enhanced-ai-could-outthink-humans-in-2-to-5-years/7577456.html",
-      "UrlToImage": "https://gdb.voanews.com/10B20656-3B24-4717-9DB2-183BEE1E58EF.jpg",
-      "PublishedAt": "2024-04-19T21:51:27Z",
-      "Content": "vancouver, british columbia  Just as the world is getting used to the rapidly expanding use of AI, or artificial intelligence, AGI is looming on the horizon.\r\nExperts say when artificial general inte… [+2946 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Daisy Ridley Looks Chic in Shorts While Attending 'Sometimes I Think About Dying' Screening",
-      "Description": "Daisy Ridley dresses up a pair of black shorts while attending a screening for her movie Sometimes I Think About Dying on Friday (April 19) in London, England. The 32-year-old actress stars in and co-produced the movie. She posed for photos outside the Pictur…",
-      "Url": "https://www.justjared.com/2024/04/19/daisy-ridley-looks-chic-in-shorts-while-attending-sometimes-i-think-about-dying-screening/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/04/daisy-ridley-sometimes-i-think-about-dying-screening.jpg",
-      "PublishedAt": "2024-04-19T21:24:58Z",
-      "Content": "Daisy Ridley dresses up a pair of black shorts while attending a screening for her movie Sometimes I Think About Dying on Friday (April 19) in London, England. \r\nThe 32-year-old actress stars in and … [+770 chars]"
     }
   ]
 }
