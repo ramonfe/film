@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 719,
+  "TotalResults": 720,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Patrick Dempsey, el hombre más sexy del mundo, confirma que los hombres también deben usar gloss",
+      "Description": "El maquillaje sigue siendo una asignatura pendiente para la mayoría de los hombres. A pesar de que cada vez hay más cosmética específica para el género masculino, pocos son los que se atreven a usar algo más que un corrector, una base de maquillaje o un lápiz…",
+      "Url": "https://www.abc.es/summum/estilo/belleza/patrick-dempsey-hombre-sexy-mundo-confirma-hombres-20240422161138-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/summum/2024/04/19/Patrick-Dempsey-U11053557846rde-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-04-22T06:21:13Z",
+      "Content": "El maquillaje sigue siendo una asignatura pendiente para la mayoría de los hombres. A pesar de que cada vez hay más cosmética específica para el género masculino, pocos son los que se atreven a usar … [+2453 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2024/04/20/fotos/a02n1cul-1.jpg",
       "PublishedAt": "2024-04-20T08:22:03Z",
       "Content": "Periódico La JornadaSábado 20 de abril de 2024, p. 2\r\nBuenos Aires. El actor Ricardo Darín, la pianista Martha Argerich, entre otros artistas argentinos e internacionales, acusan al presidente Javier… [+4654 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "La falta de apoyo de Melania en el peor momento de Donald Trump",
-      "Description": "La vida de las conocidas como 'primeras damas' en nuestro país es prácticamente un misterio. Cuando asumen su cargo, la mayoría de los mandatarios intentan, a toda costa, por poner límites entre su faceta política y su esfera personal, por lo que pretenden ma…",
-      "Url": "https://www.abc.es/gente/falta-apoyo-melania-peor-momento-donald-trump-20240419191710-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/04/19/3k-U54600344433rUD-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-04-20T07:10:29Z",
-      "Content": "La vida de las conocidas como 'primeras damas' en nuestro país es prácticamente un misterio. Cuando asumen su cargo, la mayoría de los mandatarios intentan, a toda costa, por poner límites entre su f… [+4517 chars]"
     }
   ]
 }
