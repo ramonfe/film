@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 112,
+  "TotalResults": 114,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El Centre del Carme de Valencia arranca los 'CCClaves: Encuentros con los imprescindible del cine español' con Santiago Segura",
+      "Description": "El Centre del Carme de Cultura Contemporània (CCCC) de Valencia acoge el sábado, 27 de abril, a las 18.00 horas, la intervención de Santiago Segura con la que se inaugura el ciclo cinematográfico 'CCClaves: Encuentros con los imprescindible del cine español',…",
+      "Url": "https://www.abc.es/espana/comunidad-valenciana/centre-carme-valencia-arranca-ccclaves-encuentros-imprescindible-20240422185314-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/04/22/santiago-segura-U68251768450RBz-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-04-22T16:53:15Z",
+      "Content": "El Centre del Carme de Cultura Contemporània (CCCC) de Valencia acoge el sábado, 27 de abril, a las 18.00 horas, la intervención de Santiago Segura con la que se inaugura el ciclo cinematográfico 'CC… [+2964 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "Tom Holland ya habla abiertamente de 'Spider-Man 4' y de en qué estado se encuentra",
+      "Description": "Lo que parece un secreto a voces como es que sí que veremos una nueva película del superhéroe con poderes arácnidos protagonizada por Tom Holland, está más cerca que nunca de ser un anuncio oficial, y es que por primera vez en mucho tiempo, el también protago…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/tom-holland-ya-habla-abiertamente-de-spider-man-4-y-de-en-que-estado-se-encuentra",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/tom-holland-spider-man.jpg?width=1200",
+      "PublishedAt": "2024-04-22T16:01:39Z",
+      "Content": "Tom Holland cada vez más cerca de repetir como Spider-Man\r\nLo que parece un secreto a voces como es que sí que veremos una nueva película del superhéroe con poderes arácnidos protagonizada por Tom Ho… [+2595 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/ebd52d3c-eb3b-4c94-acbd-57dd0fc449b3_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-04-16T09:43:48Z",
       "Content": "El cine español se apunta su primera presencia en el próximo Festival de Cannes. Ha sido en la Quincena de Realizadores, realmente un festival paralelo organizado bajo la sombra y el cobijo de la Sec… [+2320 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "La serie más vista de Netflix en España es un thriller francés que te pondrá la piel de gallina",
-      "Description": "Los títulos europeos siguen liderando el top 10 más popular en nuestro país, y es que la serie más vista de Netflix en España de estos momentos es un thriller francés que ha logrado desbancar a la española Entre Tierras después de varias semanas en el primer …",
-      "Url": "https://www.revistagq.com/articulo/serie-mas-vista-netflix-espana-antracita-thriller-frances",
-      "UrlToImage": "https://media.revistagq.com/photos/661e35984c2102092257ea76/16:9/w_1280,c_limit/antracita-netflix.jpeg",
-      "PublishedAt": "2024-04-16T08:27:20Z",
-      "Content": "Los títulos europeos siguen liderando el top 10 más popular en nuestro país, y es que la serie más vista de Netflix en España de estos momentos es un thriller francés que ha logrado desbancar a la es… [+2126 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "De 'Los Bridgerton' a 'Jurassic Word 4'. Jonathan Bailey podría protagonizar la nueva película de dinosaurios",
-      "Description": "Todavía con la idea de lanzarse en 2025, aunque es una fecha demasiado optimista, la próxima película de Jurassic Park o Jurassic World o el nombre que acabe teniendo, sigue sumando nombres a su potencial reparto, aunque como en el reciente caso de Scarlett J…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/de-los-bridgerton-a-jurassic-word-4-jonathan-bailey-podria-protagonizar-la-nueva-pelicula-de-dinosaurios",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/jonathan-bailey-jurassic-world.jpg?width=1200",
-      "PublishedAt": "2024-04-16T07:11:51Z",
-      "Content": "Gareth Edwards parece ser finalmente el director escogido\r\nTodavía con la idea de lanzarse en 2025, aunque es una fecha demasiado optimista, la próxima película de Jurassic Park o Jurassic World o el… [+2377 chars]"
     }
   ]
 }
