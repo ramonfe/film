@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 111,
+  "TotalResults": 112,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "El Mundo",
+      "Title": "Atresmedia Cine lidera la taquilla en el primer trimestre de 2024",
+      "Description": "Atresmedia Cine continua su racha como líder de taquilla del cine español. La productora copa el 37% de la taquilla entre enero y marzo, respecto al 28% de Telecinco Cinema.",
+      "Url": "https://www.elmundo.es/cultura/cine/2024/04/22/66268281fc6c8381498b457b.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/3171db1540d105ee9836126602f3f553/crop/55x0/906x567/f/webp/assets/multimedia/imagenes/2024/04/22/17138005994635.png",
+      "PublishedAt": "2024-04-22T15:53:48Z",
+      "Content": "Atresmedia Cine continua su racha como líder de taquilla del cine español. La productora copa el 37% de la taquilla entre enero y marzo, respecto al 28% de Telecinco Cinema. \r\nEn el ranking de las pe… [+978 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/jonathan-bailey-jurassic-world.jpg?width=1200",
       "PublishedAt": "2024-04-16T07:11:51Z",
       "Content": "Gareth Edwards parece ser finalmente el director escogido\r\nTodavía con la idea de lanzarse en 2025, aunque es una fecha demasiado optimista, la próxima película de Jurassic Park o Jurassic World o el… [+2377 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "John Tones",
-      "Title": "'Dune 2' tiene pistas sobre por dónde pasa el futuro de las salas de cine: el 22% de su recaudación ha sido en IMAX",
-      "Description": "Cada vez, Hollywood le debe más a IMAX. Lo dejó bien claro Emma Thomas, productora de 'Oppenheimer', cuando en su agradecimiento por el galardón a Mejor película, afirmó \"quiero dar las gracias a Rich Gelfond de Imax y a todos los demás de IMAX por creer en e…",
-      "Url": "https://www.xataka.com/cine-y-tv/dune-2-ha-recaudado-22-su-taquilla-imax-este-formato-ahora-ingrediente-clave-exitos-hollywood",
-      "UrlToImage": "https://i.blogs.es/07a3ae/dune2/840_560.jpeg",
-      "PublishedAt": "2024-04-15T19:31:32Z",
-      "Content": "Cada vez, Hollywood le debe más a IMAX. Lo dejó bien claro Emma Thomas, productora de 'Oppenheimer', cuando en su agradecimiento por el galardón a Mejor película, afirmó \"quiero dar las gracias a Ric… [+3866 chars]"
     }
   ]
 }
