@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 114,
+  "TotalResults": 115,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DW (English)"
+      },
+      "Author": "Deutsche Welle",
+      "Title": "Academia de Hollywood anuncia nuevas reglas para los Óscar",
+      "Description": "La premios de 2025 harán cambios en los requisitos de exhibición de cintas en salas de cine tradicionales además de modificar las normas en otras categorías. La Academia de Hollywood anunció este lunes (22.04.2024) algunas modificaciones en las normas de los …",
+      "Url": "https://www.dw.com/es/academia-de-hollywood-anuncia-nuevas-reglas-para-los-%C3%B3scar/a-68894060",
+      "UrlToImage": "https://static.dw.com/image/64456040_6.jpg",
+      "PublishedAt": "2024-04-23T04:42:00Z",
+      "Content": "La Academia de Hollywood anunció este lunes (22.04.2024) algunas modificaciones en las normas de los Premios Óscary el reglamento de las campañas promocionales de las cintas que regirá la edición 97 … [+2890 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/661d5e9e2c3dc32c82f35043/16:9/w_1280,c_limit/Captura%20de%20pantalla%202024-04-15%20a%20las%2019.06.20.png",
       "PublishedAt": "2024-04-16T09:54:11Z",
       "Content": "La historia transcurre 200 años después de una guerra nuclear, explica Walton Goggins. El Necrófago es un nexo entre el mundo anterior a la catástrofe nuclear y este mundo en el que nos encontramos. … [+1849 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Jonás Trueba presentará su nueva película, 'Volveréis', en la Quincena de Realizadores de Cannes",
-      "Description": "El cine español se apunta su primera presencia en el próximo Festival de Cannes. Ha sido en la Quincena de Realizadores, realmente un festival paralelo organizado bajo la sombra y el cobijo de la Sección Oficial, donde este jueves se ha escuchado el nombre de…",
-      "Url": "https://www.eldiario.es/cultura/cine/jonas-trueba-presentara-nueva-pelicula-volvereis-quincena-realizadores-cannes_1_11293108.html",
-      "UrlToImage": "https://static.eldiario.es/clip/ebd52d3c-eb3b-4c94-acbd-57dd0fc449b3_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-04-16T09:43:48Z",
-      "Content": "El cine español se apunta su primera presencia en el próximo Festival de Cannes. Ha sido en la Quincena de Realizadores, realmente un festival paralelo organizado bajo la sombra y el cobijo de la Sec… [+2320 chars]"
     }
   ]
 }
