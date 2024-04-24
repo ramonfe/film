@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 847,
+  "TotalResults": 849,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Alex Stedman",
+      "Title": "Spider-Man 2 Was the #2 Movie at the North American Box Office in First Day of Re-Release",
+      "Description": "Spider-Man 2 grossed an impressive $805k in the first day of its North American re-release yesterday, making it the second-highest-grossing movie domestically that day.",
+      "Url": "https://www.ign.com/articles/spider-man-2-was-the-2-movie-at-the-north-american-box-office-in-first-day-of-re-release",
+      "UrlToImage": "https://assets-prd.ignimgs.com/2024/04/23/spider-1713911957703.jpg?width=1280",
+      "PublishedAt": "2024-04-23T22:45:08Z",
+      "Content": "Looking at the box office chart for April 22, 2024, might give you a little bit of whiplash. Of course, there's new releases like A24's Civil War and horror movie Abigail in the top five, but there's… [+2004 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "Anonymous Coward",
+      "Title": "Generative AI Arrives In the Gene Editing World of CRISPR",
+      "Description": "Generative A.I. technologies can writepoetry and computer programsor createimages of teddy bearsandvideos of cartoon charactersthat look like something from a Hollywood movie. Now, new A.I. technology is generating blueprints for microscopic biological mechan…",
+      "Url": "https://slashdot.org/submission/17319072/generative-ai-arrives-in-the-gene-editing-world-of-crispr",
+      "UrlToImage": null,
+      "PublishedAt": "2024-04-23T22:05:41Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2024/04/Iker-Casillas-at-Downtown-Disney.jpg",
       "PublishedAt": "2024-04-23T12:29:41Z",
       "Content": "For years, the Downtown Disney District at the Disneyland Resort has been undergoing a major transformation. In 2017, Disney officials announced that a brand-new 5-star hotel would be built in Downto… [+3999 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "marketbeat.com",
-      "Title": "IMAX: How It’s Still Cashing In on the Movie Business",
-      "Description": "IMAX Co. NYSE: IMAX owns and operates a technology platform that specializes in enhancing cinematic experiences. Contrary to popular belief, IMAX doesn't operate cinemas or movie theaters. However, they do profit from the movie production and theater business…",
-      "Url": "https://biztoc.com/x/a32778862c8db192",
-      "UrlToImage": "https://c.biztoc.com/274/og.png",
-      "PublishedAt": "2024-04-23T10:12:05Z",
-      "Content": "IMAX Co. NYSE: IMAX owns and operates a technology platform that specializes in enhancing cinematic experiences. Contrary to popular belief, IMAX doesn't operate cinemas or movie theaters. However, t… [+286 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The New Republic"
-      },
-      "Author": "The New Republic",
-      "Title": "25 Political Influencers to Watch in 2024",
-      "Description": "The White House Correspondents’ Dinner, that lavish, storied fundraiser held every April at the Washington Hilton to honor journalists covering the capital, confers on its deep-pocketed attendees the implicit assurance that they belong among the powerful. Buy…",
-      "Url": "https://newrepublic.com/article/180462/25-political-influencers-watch-2024",
-      "UrlToImage": "https://images.newrepublic.com/707f92467494437a4a42aae9c57ea76741378507.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "PublishedAt": "2024-04-23T10:00:00Z",
-      "Content": "The White House Correspondents Dinner, that lavish, storied fundraiser held every April at the Washington Hilton to honor journalists covering the capital, confers on its deep-pocketed attendees the … [+32461 chars]"
     }
   ]
 }
