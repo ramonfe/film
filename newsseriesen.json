@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Pajiba.com"
+      },
+      "Author": "Dustin Rowles",
+      "Title": "The Best Show You're Not Watching Returns with its Fourth Season on May 22nd",
+      "Description": "One of my favorite shows on streaming television these days is an Apple TV+ series called Trying. It stars Rafe Spall and Esther Smith, and there are always a bunch of recognizable British faces in it. The show began as...\nRead more...",
+      "Url": "https://www.pajiba.com/tv_reviews/trying-the-best-show-youre-not-watching-returns-with-its-fourth-season-on-may-22nd.php",
+      "UrlToImage": "https://www.pajiba.com/assets_c/2024/04/Trying-Season4-thumb-700x421-262078.png",
+      "PublishedAt": "2024-04-23T14:53:11Z",
+      "Content": "One of my favorite shows on streaming television these days is an Apple TV+ series called Trying. It stars Rafe Spall and Esther Smith, and there are always a bunch of recognizable British faces in i… [+1211 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-09T18:32:51Z",
       "Content": "Two months after I started using the Apple Vision Pro, it hasn't transformed the way I live. It hasn't replaced my TV, and it doesn't make me want to give up my powerful desktop or slim laptops. It's… [+11068 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
