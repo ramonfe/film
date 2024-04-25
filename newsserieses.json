@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 861,
+  "TotalResults": 862,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "BBC Mundo",
+      "Title": "La historia real de agresión sexual y acoso detrás de la exitosa serie “Bebé reno”",
+      "Description": "La producción, que se estrenó este mes, alcanzó el número uno en las listas de lo más visto de Netflix en México, la Argentina, España y Chile",
+      "Url": "https://www.lanacion.com.ar/espectaculos/la-historia-real-de-agresion-sexual-y-acoso-detras-de-la-exitosa-serie-bebe-reno-nid24042024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/richard-gadd-escribio-produjo-y-protagonizo-bebe-IAP2PG6ZZZC4JELWSBXNE5KBME.jpg?auth=523427eac628bf0d4125d34873bd58a54b5ab00d42e995d522151a62c6bca413&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-04-24T06:40:05Z",
+      "Content": "Advertencia: este artículo contiene spoilers de Bebé reno, así como referencias a agresión sexual.\r\nCuando se lanzó el avance de la nueva serie de Netflix Bebé reno, a principios de abril, parecía qu… [+6568 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://fotos.perfil.com/2024/04/23/trim/1140/641/furia-scaglione-1789985.jpg",
       "PublishedAt": "2024-04-23T14:21:56Z",
       "Content": "Todos están hablando de Bebé reno (Baby Reindeer), la serie de Netflix que presenta una trama atrapante e inesperada. Pero además de su temática, uno de los nombres en boca de muchos es el de Nava Ma… [+1858 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Kenth",
-      "Title": "Fallout de Amazon Prime Video hace referencia a la mejor misión de Fallout 4 que nunca pudimos jugar",
-      "Description": "Sin duda, la franquicia Fallout es uno de los éxitos del momento. Tanto su nueva serie en Prime Video como los videojuegos están generando gran interés entre los jugadores, y ahora uno de sus títulos recibirá una actualización gratuita. Sin embargo, lo que no…",
-      "Url": "https://www.xataka.com.mx/videojuegos/fallout-amazon-prime-video-hace-referencia-a-mejor-mision-fallout-4-que-nunca-pudimos-jugar",
-      "UrlToImage": "https://i.blogs.es/93ea8b/rapture/840_560.jpeg",
-      "PublishedAt": "2024-04-23T14:01:45Z",
-      "Content": "Sin duda, la franquicia Fallout es uno de los éxitos del momento. Tanto su nueva serie en Prime Video como los videojuegos están generando gran interés entre los jugadores, y ahora uno de sus títulos… [+2395 chars]"
     }
   ]
 }
