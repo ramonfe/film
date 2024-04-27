@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 134,
+  "TotalResults": 135,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Richard Linklater: «El cine estaba ahí para vender palomitas; ahora lo que busca es nuestros datos»",
+      "Description": "Los sicarios no existen, son un mito, asegura Richard Linklater (Houston, 1960), de visita en Barcelona para presentar 'Hit Man. Asesino por casualidad', una película sobre, en efecto, un sicario. Mejor aún: sobre un profesor de universidad que, milagros del …",
+      "Url": "https://www.abc.es/play/cine/richard-linklater-cine-ahi-vender-palomitas-busca-20240426204640-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/04/26/quiroga-U67507474413Qjz-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-04-26T18:46:40Z",
+      "Content": "Los sicarios no existen, son un mito, asegura Richard Linklater (Houston, 1960), de visita en Barcelona para presentar 'Hit Man. Asesino por casualidad', una película sobre, en efecto, un sicario. Me… [+6223 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/queplan/2024/04/22/queplan-web-hoy-U26100378478gyM-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-04-22T11:29:04Z",
       "Content": "El primer fin de semana después de la Feria de Abril de Sevilla suele servir para descansar el cuerpo tras una semana de vuelta a la normalidad laboral con 'resaca'. Pero para este último del mes de … [+9636 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Applesfera.com"
-      },
-      "Author": "Guille Lomener",
-      "Title": "La película más vista es de Apple, supera a Oppenheimer o Poor Things y así puedes verla gratis",
-      "Description": "Henry Cavill, Dua Lipa y Bryce Dallas Howard son solo algunos de los actores de esta película de Apple que llegó a los cines el pasado mes de febrero. Tras finalizar su fase en cartelera y conseguir una recaudación de 95 millones de dólares, pasa a estar disp…",
-      "Url": "https://www.applesfera.com/curiosidades/pelicula-vista-apple-supera-a-oppenheimer-poor-things-asi-puedes-verla-gratis",
-      "UrlToImage": "https://i.blogs.es/dba162/3/840_560.jpeg",
-      "PublishedAt": "2024-04-22T09:01:33Z",
-      "Content": "Henry Cavill, Dua Lipa y Bryce Dallas Howard son solo algunos de los actores de esta película de Apple que llegó a los cines el pasado mes de febrero. Tras finalizar su fase en cartelera y conseguir … [+3093 chars]"
     }
   ]
 }
