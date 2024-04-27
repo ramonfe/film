@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 738,
+  "TotalResults": 739,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "Lucía Garrido Vázquez",
+      "Title": "La evolución del estilo 'beauty' de Penélope Cruz desde que debutó en el cine",
+      "Description": "La actriz está a punto de cumplir 50 años pasando de la melena XXL al corte 'bob' tan de moda",
+      "Url": "https://www.hola.com/belleza/actualidad/galeria/20240426252727/penelope-cruz-cumpleanos-50-cambios-look-peinados/1/",
+      "UrlToImage": "https://www.hola.com/imagenes/belleza/actualidad/20240426252727/penelope-cruz-cumpleanos-50-cambios-look-peinados/1-424-654/penelopec-e.jpg",
+      "PublishedAt": "2024-04-26T05:34:42Z",
+      "Content": "Camaleónica como ninguna otra, Penélope Cruz no se ha sometido solo a transformaciones de look para interpretar (tan bien como lo hace) a sus personajes, sino porque también le gusta cambiar, probar … [+840 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/ba9493/movistar/840_560.jpeg",
       "PublishedAt": "2024-04-25T07:00:40Z",
       "Content": "Movistar Plus+ sigue trabajando en la renovación de su plantilla televisiva y en esta ocasión se trata de preparar un nuevo canal temático (un nuevo canal clic) que llegará para reemplazar al que a l… [+2062 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Alucine.es"
-      },
-      "Author": "Hector",
-      "Title": "Matthew McConaughey vuelve a la pequeña pantalla con una nueva serie",
-      "Description": "Lleva unos años espectaculares. Durante mucho tiempo cometimos el error de pensar que Matthew McConaughey era simplemente un chulo de playa. Una tipo apuesto, pero sin mucho que ofrecer. Gran error. El actor nos dejaba a todos asombrados encadendando un éxito…",
-      "Url": "https://www.alucine.es/2024/04/25/matthew-mcconaughey-vuelve-a-la-pequena-pantalla-con-una-nueva-serie/",
-      "UrlToImage": "https://www.alucine.es/wp-content/uploads/2024/04/1-35.webp",
-      "PublishedAt": "2024-04-25T07:00:11Z",
-      "Content": "Matthew McConaughey\r\nLleva unos años espectaculares. Durante mucho tiempo cometimos el error de pensar que Matthew McConaughey era simplemente un chulo de playa. Una tipo apuesto, pero sin mucho que … [+1382 chars]"
     }
   ]
 }
