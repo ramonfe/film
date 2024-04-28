@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 132,
+  "TotalResults": 133,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Luis Acosta",
+      "Title": "Hoy en Prime Video: nadie la vio en cines pero esta película de ciencia ficción es tan entretenida que seguro la verás más de una vez",
+      "Description": "¿Por qué será que las películas de ciencia ficción nos gustan tanto? Quizá es que las historias son tan irreales y a veces tan absurdas que nos parecen entretenidas, o al menos, este es el caso de Moonfall, una cinta tan exagerada que es entretenida, lo sufic…",
+      "Url": "https://www.xataka.com.mx/cine-y-tv/hoy-prime-video-nadie-vio-cines-esta-pelicula-ciencia-ficcion-entretenida-que-seguro-veras-vez",
+      "UrlToImage": "https://i.blogs.es/61dffc/sin-titulo-1/840_560.jpeg",
+      "PublishedAt": "2024-04-27T19:01:32Z",
+      "Content": "¿Por qué será que las películas de ciencia ficción nos gustan tanto? Quizá es que las historias son tan irreales y a veces tan absurdas que nos parecen entretenidas, o al menos, este es el caso de Mo… [+2694 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/tom-holland-spider-man.jpg?width=1200",
       "PublishedAt": "2024-04-22T16:01:39Z",
       "Content": "Tom Holland cada vez más cerca de repetir como Spider-Man\r\nLo que parece un secreto a voces como es que sí que veremos una nueva película del superhéroe con poderes arácnidos protagonizada por Tom Ho… [+2595 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "El Mundo",
-      "Title": "Atresmedia Cine lidera la taquilla en el primer trimestre de 2024",
-      "Description": "Atresmedia Cine continua su racha como líder de taquilla del cine español. La productora copa el 37% de la taquilla entre enero y marzo, respecto al 28% de Telecinco Cinema.",
-      "Url": "https://www.elmundo.es/cultura/cine/2024/04/22/66268281fc6c8381498b457b.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/3171db1540d105ee9836126602f3f553/crop/55x0/906x567/f/webp/assets/multimedia/imagenes/2024/04/22/17138005994635.png",
-      "PublishedAt": "2024-04-22T15:53:48Z",
-      "Content": "Atresmedia Cine continua su racha como líder de taquilla del cine español. La productora copa el 37% de la taquilla entre enero y marzo, respecto al 28% de Telecinco Cinema. \r\nEn el ranking de las pe… [+978 chars]"
     }
   ]
 }
