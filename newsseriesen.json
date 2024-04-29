@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 67,
+  "TotalResults": 68,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "9to5Mac"
+      },
+      "Author": "Benjamin Mayo",
+      "Title": "Ted Lasso series releasing on Blu-ray disc in July",
+      "Description": "The hit comedy series Ted Lasso is currently only available to watch via Apple’s streaming service, Apple TV+. Finally, more than four years after its season one premiere, it appears that the exclusivity window is finally going to end and the show will soon b…",
+      "Url": "https://9to5mac.com/2024/04/28/ted-lasso-series-blu-ray-edition-july/",
+      "UrlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/04/ted-lasso-apple-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "PublishedAt": "2024-04-28T09:55:56Z",
+      "Content": "The hit comedy series Ted Lasso is currently only available to watch via Apple’s streaming service, Apple TV+. Finally, more than four years after its season one premiere, it appears that the exclusi… [+1601 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -47,19 +60,6 @@
         "Id": null,
         "Name": "Soundandvision.com"
       },
-      "Author": "Barb Gonzalez",
-      "Title": "Mastering the Maze of Streaming: A Guide to the Marathon TV App",
-      "Description": "In the labyrinthine world of streaming, where TV shows sprawl across many apps, it can be daunting to keep track of what you are watching and want to watch next. The Marathon TV social app replaces posting on Facebook for recommendations or scrolling through …",
-      "Url": "https://www.soundandvision.com/content/mastering-maze-streaming-guide-marathon-tv-app",
-      "UrlToImage": "https://www.soundandvision.com/images/marathonTVapp.jpg",
-      "PublishedAt": "2024-04-24T00:00:00Z",
-      "Content": "In the labyrinthine world of streaming, where TV shows sprawl across many apps, it can be daunting to keep track of what you are watching and want to watch next. The Marathon TV social app replaces p… [+2268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Soundandvision.com"
-      },
       "Author": "Michael Hamilton",
       "Title": "Hisense C1 RGB Laser Mini Projector Review",
       "Description": "Performance\n\nFeatures\n\nErgonomics\n\nValue\n\n\n\nPRICE $1,799\n\n\n\nAT A GLANCE\n\n\n\nPlus\n\nWide color gamut\n\nSuperb lens with state-of-the-art autofocus\n\nAuto keystone correction\n\n\nComprehensive suite of non-global calibration controls\n\nStylish, conversation-starting d…",
@@ -67,6 +67,19 @@
       "UrlToImage": "https://www.soundandvision.com/images/SV_0424_Hisense_C1_Projector_%20%287%29-600.jpeg",
       "PublishedAt": "2024-04-24T00:00:00Z",
       "Content": "PRICE $1,799\r\nAT A GLANCEPlusWide color gamut\r\nSuperb lens with state-of-the-art autofocus\r\nAuto keystone correction\r\nComprehensive suite of non-global calibration controls\r\nStylish, conversation-sta… [+18994 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Soundandvision.com"
+      },
+      "Author": "Barb Gonzalez",
+      "Title": "Mastering the Maze of Streaming: A Guide to the Marathon TV App",
+      "Description": "In the labyrinthine world of streaming, where TV shows sprawl across many apps, it can be daunting to keep track of what you are watching and want to watch next. The Marathon TV social app replaces posting on Facebook for recommendations or scrolling through …",
+      "Url": "https://www.soundandvision.com/content/mastering-maze-streaming-guide-marathon-tv-app",
+      "UrlToImage": "https://www.soundandvision.com/images/marathonTVapp.jpg",
+      "PublishedAt": "2024-04-24T00:00:00Z",
+      "Content": "In the labyrinthine world of streaming, where TV shows sprawl across many apps, it can be daunting to keep track of what you are watching and want to watch next. The Marathon TV social app replaces p… [+2268 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-13T06:57:01Z",
       "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an Editor crash when At… [+313256 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Extra"
-      },
-      "Author": "Extra Staff",
-      "Title": "Prince Harry & Meghan Markle’s Upcoming Netflix Projects Announced",
-      "Description": "Prince Harry and Meghan Markle have more Netflix projects in the pipeline!\n Deadline reports the couple are in “early stages” of production on two shows.\n One nonfiction series, executive produced by Markle, will “celebrate the joys of cooking and gardening, …",
-      "Url": "https://extratv.com/2024/04/11/prince-harry-and-meghan-markle-s-upcoming-netflix-projects-announced/",
-      "UrlToImage": "https://extra-images.akamaized.net/image/44/16by9/2024/04/11/440cb82f12134316bf9471310525e375_xl.jpg",
-      "PublishedAt": "2024-04-11T20:03:10Z",
-      "Content": "Prince Harry and Meghan Markle have more Netflix projects in the pipeline!\n Deadline reports the couple are in “early stages” of production on two shows.\n One nonfiction series, executive produced by… [+1624 chars]"
     }
   ]
 }
