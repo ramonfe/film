@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 787,
+  "TotalResults": 788,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Dark Horizons"
+      },
+      "Author": "Garth Franklin",
+      "Title": "Seinfeld Says TV Comedy Is Being Killed",
+      "Description": "Following his interview the other week declaring the movie business as being dead and movies no longer the top of the entertainment food chain, comedian/actor and now filmmaker Jerry Seinfeld has more to say – this time about TV comedy. In a new interview wit…",
+      "Url": "https://www.darkhorizons.com/seinfeld-says-tv-comedy-is-being-killed/",
+      "UrlToImage": "https://cdndark.darkhorizons.com/wp-content/uploads/2024/04/seinfeld-says-tv-comedy-is-being-killed.jpg",
+      "PublishedAt": "2024-04-29T23:10:34Z",
+      "Content": "Following his interview the other week declaring the movie business as being dead and movies no longer the top of the entertainment food chain, comedian/actor and now filmmaker Jerry Seinfeld has mor… [+1960 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-842913922.jpg?quality=85&w=1024&h=628&crop=1",
       "PublishedAt": "2024-04-29T10:25:31Z",
       "Content": "PARIS French media are reporting that police have summoned actor Gérard Depardieu for questioning about allegations made by two women that he sexually assaulted them on movie sets.\r\nBroadcaster BFMTV… [+1004 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "The Associated Press",
-      "Title": "French media: Police summon actor Gérard Depardieu for questioning about sexual assault allegations",
-      "Description": "French media are reporting that police have summoned actor Gérard Depardieu for questioning about allegations made by two women that he sexually assaulted them on movie sets",
-      "Url": "https://abcnews.go.com/Entertainment/wireStory/french-media-police-summon-actor-grard-depardieu-questioning-109739555",
-      "UrlToImage": "https://i.abcnewsfe.com/a/770236cb-c6d7-47e0-a28b-15368f85a153/wirestory_1a4970f3b7e177a6682314f87579a5dd_16x9.jpg?w=1600",
-      "PublishedAt": "2024-04-29T10:06:33Z",
-      "Content": "PARIS -- French media are reporting that police have summoned actor Gérard Depardieu for questioning about allegations made by two women that he sexually assaulted them on movie sets.\r\nBroadcaster BF… [+1007 chars]"
     }
   ]
 }
