@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 829,
+  "TotalResults": 830,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Tony Goldwyn & Bobby Cannavale Attend Special Screening of New Movie 'Ezra' in NYC",
+      "Description": "Tony Goldwyn and Bobby Cannavale are stepping out to promote their new movie! The two actors posed for photos together at a special screening of their new movie Ezra hosted by Tribeca and Bleeker Street on Monday evening (April 29) held at the SVA Theater in …",
+      "Url": "https://www.justjared.com/2024/04/29/tony-goldwyn-bobby-cannavale-attend-special-screening-of-new-movie-ezra-in-nyc/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/04/ezra-bleeker.jpg",
+      "PublishedAt": "2024-04-30T01:33:28Z",
+      "Content": "Tony Goldwyn and Bobby Cannavale are stepping out to promote their new movie!\r\nThe two actors posed for photos together at a special screening of their new movie Ezra hosted by Tribeca and Bleeker St… [+747 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "LINDSEY BAHR AP film writer",
-      "Title": "Sony’s ‘Kraven the Hunter’ release is delayed until December",
-      "Description": "The summer movie season may kick off next weekend, but the release calendar is still a work in progress",
-      "Url": "https://abcnews.go.com/Entertainment/wireStory/sonys-kraven-hunter-release-delayed-december-109729670",
-      "UrlToImage": "https://i.abcnewsfe.com/a/c51d40c7-c7a3-4719-bd5a-2b794ce70785/wirestory_d29a716a4a4ec07af625ea867c57ec38_16x9.jpg?w=1600",
-      "PublishedAt": "2024-04-28T18:14:43Z",
-      "Content": "The summer movie season may kick off next weekend, but the release calendar is still a work in progress. The latest movie to shift spots is Sonys comic book film Kraven the Hunter, which will now ope… [+1252 chars]"
     }
   ]
 }
