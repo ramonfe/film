@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 770,
+  "TotalResults": 773,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "EDITH M. LEDERER Associated Press",
+      "Title": "Ashley Judd speaks out on the right of women to control their bodies and be free from male violence",
+      "Description": "Actor Ashley Judd, whose allegations against movie mogul Harvey Weinstein helped spark the #MeToo movement, is speaking out on the right of women and girls to control their own bodies and be free from male violence",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/ashley-judd-speaks-women-control-bodies-free-male-109772791",
+      "UrlToImage": "https://i.abcnewsfe.com/a/88a2c291-cd44-4f58-a0c3-7053254cde11/wirestory_410e4ed4bc6b1315748f3469e06c2b2b_16x9.jpg?w=1600",
+      "PublishedAt": "2024-04-30T02:14:36Z",
+      "Content": "UNITED NATIONS -- Actor Ashley Judd, whose allegations against movie mogul Harvey Weinstein helped spark the #MeToo movement, spoke out Monday on the rights of women and girls to control their own bo… [+4002 chars]"
+    },
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "EDITH M. LEDERER Associated Press",
+      "Title": "Ashley Judd speaks out on the right of women to control their bodies and be free from male violence",
+      "Description": "Actor Ashley Judd, whose allegations against movie mogul Harvey Weinstein helped spark the #MeToo movement, is speaking out on the right of women and girls to control their own bodies and be free from male violence",
+      "Url": "https://abcnews.go.com/US/wireStory/ashley-judd-speaks-women-control-bodies-free-male-109772789",
+      "UrlToImage": "https://i.abcnewsfe.com/a/88a2c291-cd44-4f58-a0c3-7053254cde11/wirestory_410e4ed4bc6b1315748f3469e06c2b2b_16x9.jpg?w=1600",
+      "PublishedAt": "2024-04-30T02:14:31Z",
+      "Content": "UNITED NATIONS -- Actor Ashley Judd, whose allegations against movie mogul Harvey Weinstein helped spark the #MeToo movement, spoke out Monday on the rights of women and girls to control their own bo… [+4002 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-109697478,width-1070,height-580,imgsize-101776,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2024-04-29T12:44:52Z",
       "Content": "10 animals that have the most unique tails"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Marketscreener.com"
-      },
-      "Author": null,
-      "Title": "French actor Gerard Depardieu questioned over alleged sexual assaults",
-      "Description": "(marketscreener.com) French screen legend Gerard Depardieu was detained for questioning on Monday in connection with alleged sexual assaults against two women on separate film sets, police sources said.\n Depardieu, one of France's top movie stars, has been at…",
-      "Url": "https://www.marketscreener.com/news/latest/French-actor-Gerard-Depardieu-questioned-over-alleged-sexual-assaults-46564053/",
-      "UrlToImage": "https://www.marketscreener.com/images/reuters/2024-04/2024-04-29T121538Z_1_LYNXMPEK3S0EZ_RTROPTP_3_FILMFESTIVAL-BERLIN.JPG",
-      "PublishedAt": "2024-04-29T12:15:38Z",
-      "Content": "PARIS (Reuters) - French screen legend Gerard Depardieu was detained for questioning on Monday in connection with alleged sexual assaults against two women on separate film sets, police sources said.… [+1308 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Khabarhub.com"
-      },
-      "Author": "Khabarhub",
-      "Title": "Actor CP Lohani passes away",
-      "Description": "KATHMANDU: Actor CP Lohani, celebrated for his role in the iconic Nepali movie “Maitighar,” has passed away. He breathed his last while undergoing treatment at Annapurna Neuro Hospital. Lohani, who battled Parkinson’s, Alzheimer’s, and pneumonia, succumbed to…",
-      "Url": "https://english.khabarhub.com/2024/29/353193/",
-      "UrlToImage": "https://english.khabarhub.com/wp-content/uploads/2024/04/CP-Lohani.webp",
-      "PublishedAt": "2024-04-29T11:26:16Z",
-      "Content": "KATHMANDU: Actor CP Lohani, celebrated for his role in the iconic Nepali movie “Maitighar,” has passed away.\r\nHe breathed his last while undergoing treatment at Annapurna Neuro Hospital.\r\nLohani, who… [+186 chars]"
-    },
-    {
-      "Source": {
-        "Id": "time",
-        "Name": "Time"
-      },
-      "Author": "Associated Press",
-      "Title": "Police Summon Actor Gérard Depardieu for Questioning Over Sexual Assault Allegations",
-      "Description": "The questioning is over allegations made by two women that he sexually assaulted them on movie sets, French media reported.",
-      "Url": "https://time.com/6971973/gerard-depardieu-sexual-assualt-allegations/",
-      "UrlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-842913922.jpg?quality=85&w=1024&h=628&crop=1",
-      "PublishedAt": "2024-04-29T10:25:31Z",
-      "Content": "PARIS French media are reporting that police have summoned actor Gérard Depardieu for questioning about allegations made by two women that he sexually assaulted them on movie sets.\r\nBroadcaster BFMTV… [+1004 chars]"
     }
   ]
 }
