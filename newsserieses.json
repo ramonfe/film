@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 939,
+  "TotalResults": 940,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "'Lo que la verdad esconde: El caso Asunta', una aproximación más realista de lo ocurrido a lo visto en Netflix",
+      "Description": "En septiembre de 2013 nos enteramos de la desaparición de Asunta Basterra, una niña de doce años residente en el municipio de Teo, en La Coruña, Galicia. El cuerpo de Asunta fue encontrado un día más tarde en una pista forestal de un municipio cercano, dando …",
+      "Url": "https://www.lavanguardia.com/andro4all/series/lo-que-la-verdad-esconde-el-caso-asunta-una-aproximacion-mas-realista-de-lo-ocurrido-a-lo-visto-en-netflix",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/asunta.jpg?width=1200",
+      "PublishedAt": "2024-05-01T13:01:07Z",
+      "Content": "El caso Asunta conmocionó a la sociedad española en 2013 y no solo Netflix nos contó su historia\r\nEn septiembre de 2013 nos enteramos de la desaparición de Asunta Basterra, una niña de doce años resi… [+2307 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/6630c767e6630e558c621019/16:9/w_1280,c_limit/gilbert2.jpg",
       "PublishedAt": "2024-04-30T14:25:14Z",
       "Content": "Cuando empezamos a practicar en Boston, Luca salía y nos daba indicaciones. Nos decía: \"Quiero que este punto sea más corto, que este otro sea más largo. Quiero algo más de acción. Quiero más intensi… [+3070 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Netflix prepara una nueva serie en imagen real de Scooby-Doo",
-      "Description": "Scooby-Doo, el famoso perro detective, prepara su regreso de la mano de Netflix. Siguiendo la estela de la buena acogida que he tenido Velma, que acaba de estrenar su segunda temporada en HBO, el servicio de streaming de la ene roja ya trabaja en una serie de…",
-      "Url": "https://www.culturaocio.com/tv/noticia-netflix-prepara-nueva-serie-imagen-real-scooby-doo-20240430152650.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240430152650_1200.jpg",
-      "PublishedAt": "2024-04-30T13:26:50Z",
-      "Content": "MADRID, 30 Abr. (CulturaOcio) - \r\n   Scooby-Doo, el famoso perro detective, prepara su regreso de la mano de Netflix. Siguiendo la estela de la buena acogida que he tenido Velma, que acaba de estrena… [+1983 chars]"
     }
   ]
 }
