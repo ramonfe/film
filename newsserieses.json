@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 930,
+  "TotalResults": 931,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Xavier Oliva",
+      "Title": "Abre un museo con una piscina de bolas gigante en Barcelona: salió en una popular serie de Netflix",
+      "Description": "Los fans de Emily in Paris’, la archiconocida serie de Netflix, seguro que recordarán el encuentro de Emily y Gabriel en el museo de los globos durante la tercera temporada. Un espacio lleno de color en el que los protagonistas disfrutaron como niños en la pi…",
+      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20240501/balloon-museum-barcelona-netflix-101271309",
+      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/faa78398-184f-42b7-8545-6d1ad8dd00d8_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-05-01T04:30:00Z",
+      "Content": "Los fans de Emily in Paris,la archiconocida serie de Netflix, seguro que recordarán el encuentro de Emily y Gabriel en el museo de los globos durante la tercera temporada. Un espacio lleno de color e… [+4855 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/6630c3dd46e29e04acb9580c/16:9/w_1280,c_limit/final-rivales-explicado.jpg",
       "PublishedAt": "2024-04-30T10:13:33Z",
       "Content": "El final de Rivales, la nueva película de Luca Guadagnino protagonizada por Zendaya, Josh OConnor y Mike Faist ha dejado a todo el mundo con bastantes preguntas, y es que no queda nada claro.\r\nToda l… [+2210 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "EL MUNDO",
-      "Title": "La carta del padre de Asunta al creador de la serie sobre el crimen: \"Mi condena es no haberla podido socorrer\"",
-      "Description": "El estreno en Netflix de la serie 'El caso Asunta' ha vuelto a poner de actualidad el asesinato de la niña Asunta Basterra Porto en septiembre de 2013 y por el que...",
-      "Url": "https://www.elmundo.es/espana/2024/04/30/6630ba72fc6c83902f8b45ca.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/1cb3dd51d9b4c8a7c480fe57d57bfe27/crop/172x3/870x468/f/webp/assets/multimedia/imagenes/2024/04/30/17144670283648.jpg",
-      "PublishedAt": "2024-04-30T09:34:56Z",
-      "Content": "El estreno en Netflix de la serie 'El caso Asunta' ha vuelto a poner de actualidad el asesinato de la niña Asunta Basterra Porto en septiembre de 2013 y por el que fueron condenados sus padres adopti… [+3190 chars]"
     }
   ]
 }
