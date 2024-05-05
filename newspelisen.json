@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 898,
+  "TotalResults": 899,
   "Articles": [
+    {
+      "Source": {
+        "Id": "polygon",
+        "Name": "Polygon"
+      },
+      "Author": "James Grebey",
+      "Title": "Please ignore Ryan Gosling’s terrible advice about phone use in theaters",
+      "Description": "The Fall Guy features a PSA where Ryan Gosling and director David Leitch say it’s OK to use your phone in a movie theater. Castmate Emily Blunt knows better.",
+      "Url": "https://www.polygon.com/24148319/ryan-gosling-fall-guy-movie-theater-phone-video",
+      "UrlToImage": "https://cdn.vox-cdn.com/thumbor/-y0ZVW0Mff2_w4QRNWfVerQYx1s=/0x0:3500x1832/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25432241/Dirtbag1.jpg",
+      "PublishedAt": "2024-05-04T15:01:00Z",
+      "Content": "If youve been to movie theaters much in the post-quarantine years, youve surely seen a certain kind of pre-show message where a stars appears on screen to thank the audience for seeing their film the… [+5334 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.mediaite.com/wp-content/uploads/2024/05/AP24038114963044-scaled.jpg",
       "PublishedAt": "2024-05-03T13:25:32Z",
       "Content": "AP Photo/Jose Luis Magana, File\r\nThe Sixth, a documentary from the super-hot studio A24 by the award-winning couple Sean Fine and Andrea Nix Fine, was set to have a same-day streaming release when it… [+3102 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tyler Treese",
-      "Title": "Emily in Paris Season 4 Release Date Set in Cast Video",
-      "Description": "Netflix set the Emily in Paris Season 4 release date in a new video featuring the cast today, revealing that the Lily Collins-led series will be split into two parts. When is Emily in Paris Season 4 coming out? Emily in Paris Season 4 will be split into two 5…",
-      "Url": "https://www.comingsoon.net/tv/news/1699005-emily-in-paris-season-4-release-date-video",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/05/Emily-in-Paris-Season-4-Release-Date.png?resize=1200,630",
-      "PublishedAt": "2024-05-03T13:00:27Z",
-      "Content": "Netflix set the Emily in Paris Season 4 release date in a new video featuring the cast today, revealing that the Lily Collins-led series will be split into two parts.\r\nEmily in Paris Season 4 will be… [+1580 chars]"
     }
   ]
 }
