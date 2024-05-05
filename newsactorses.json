@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 710,
+  "TotalResults": 711,
   "Articles": [
+    {
+      "Source": {
+        "Id": "rt",
+        "Name": "RT"
+      },
+      "Author": "RT en Español\n , RT en Español",
+      "Title": "Balean la casa de una actriz de la serie 'Vecinos' que había denunciado a su exnovio por maltrato",
+      "Description": "La casa de Yael Duval fue atacada por unos desconocidos que iban en motocicleta.",
+      "Url": "https://actualidad.rt.com/actualidad/508186-balean-casa-actriz-serie-vecinos",
+      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.05/article/66363825e9ff71515b3e4fdc.jpeg",
+      "PublishedAt": "2024-05-04T18:42:52Z",
+      "Content": "El domicilio, en Ciudad de México, de la actriz Yael Duval, conocida por su participación en la serie de televisión 'Vecinos', fue asaltado por dos hombres armados no identificados que iban en motoci… [+1235 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240503114001_1200.jpg",
       "PublishedAt": "2024-05-03T09:40:01Z",
       "Content": "MADRID, 3 May. (CulturaOcio) - \r\n   Kristen Stewart acaba de estrenar Sangre en los labios, un thriller de venganza ambientado en los años 80 dirigida por Rose Glass. Ahora, la actriz que saltara a l… [+2236 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Jornada.com.mx"
-      },
-      "Author": "DEMOS, Desarrollo de Medios, S.A. de C.V.",
-      "Title": "Robert de Niro no confrontó a jóvenes; grababa serie",
-      "Description": "El video que circuló el miércoles en Internet en el que supuestamente Robert de Niro gritaba a estudiantes universitarios que se manifestaban en Nueva York a favor de Palestina, sólo se trataba de una escena que el actor filma en esa ciudad.",
-      "Url": "https://www.jornada.com.mx/2024/05/03/espectaculos/a08n1esp",
-      "UrlToImage": "https://www.jornada.com.mx/imagemeta/1200x630BN.jpg",
-      "PublishedAt": "2024-05-03T08:50:26Z",
-      "Content": "Periódico La JornadaViernes 3 de mayo de 2024, p. 8\r\nEl video que circuló el miércoles en Internet en el que supuestamente Robert de Niro gritaba a estudiantes universitarios que se manifestaban en N… [+1346 chars]"
     }
   ]
 }
