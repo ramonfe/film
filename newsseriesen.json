@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "Caroline Bologna",
+      "Title": "This New Drama Miniseries Is The Top Show On Netflix Right Now",
+      "Description": "A new spy thriller and a bilingual comedy show are also trending on streaming services including Max, Hulu, Apple TV+ and Prime Video.",
+      "Url": "https://www.huffpost.com/entry/a-man-in-full-popular-netflix-show_n_663840f3e4b0e44cfb121820",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/6638572c2300001e00bc4e80.jpg?cache=OmDvjm33Wp&ops=1200_630",
+      "PublishedAt": "2024-05-06T13:36:20Z",
+      "Content": "A Man in Full is currently the most popular show on Netflix, according to the streaming services public ranking system.\r\nThe limited drama series is an adaptation of Tom Wolfes 1998 novel and stars J… [+5999 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://focus.independent.ie/thumbor/h7vSVEyd-fqvjxXLVJ-YH9XQjL8=/380x0:3260x1920/629x0/prod-mh-ireland/80023b9a-2310-4ddb-985d-b5fc63137691/aeccae0a-0b29-4dbb-a1a8-865b223ea042/80023b9a-2310-4ddb-985d-b5fc63137691.jpg",
       "PublishedAt": "2024-04-17T13:03:00Z",
       "Content": "Baby Reindeer is already a surefire entry on the critics end-of-year lists thanks to its devastating mix of comedy, drama, frustration, distress and fear.\r\nNetflix series are, for the most part, enjo… [+671 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thedesk.net",
-      "Title": "Ofcom revises accessibility code to include streaming TV services",
-      "Description": "A streaming TV viewer watches an Amazon Prime Video show on a tablet. (Courtesy image) British media regulator Ofcom has revised its Access Service Code to include digital catch-up and streaming television services for the first time. The revision means comme…",
-      "Url": "https://biztoc.com/x/9e34869d1f8ad191",
-      "UrlToImage": "https://c.biztoc.com/p/9e34869d1f8ad191/s.webp",
-      "PublishedAt": "2024-04-17T09:42:10Z",
-      "Content": "A streaming TV viewer watches an Amazon Prime Video show on a tablet. (Courtesy image)British media regulator Ofcom has revised its Access Service Code to include digital catch-up and streaming telev… [+296 chars]"
     }
   ]
 }
