@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 843,
+  "TotalResults": 844,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "I guess I learned how to appreciate The Phantom Menace",
+      "Description": "More than anything, Star Wars: Episode 1 - The Phantom Menace is a fascinating cultural object. It's been 25 years since I saw the film in theaters, and over a decade since I last rewatched it (in a vain attempt to help my Trekkie wife catch up to the prequel…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173797688",
+      "UrlToImage": null,
+      "PublishedAt": "2024-05-06T18:54:11Z",
+      "Content": "More than anything, Star Wars: Episode 1 - The Phantom Menace is a fascinating cultural object. It's been 25 years since I saw the film in theaters, and over a decade since I last rewatched it (in a … [+6386 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.slashfilm.com/img/gallery/paramount-lost-a-supreme-court-showdown-that-changed-movie-theaters-forever/l-intro-1714420147.jpg",
       "PublishedAt": "2024-05-05T14:00:15Z",
       "Content": "Paramount had to focus on quality. From 1949 to 1955, a Paramount movie was nominated for Best Picture at the Academy Awards. \r\nOne might think the Paramount Decrees ushered in a glorious new era for… [+1551 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "BusinessLine"
-      },
-      "Author": "T E Raja Simhan",
-      "Title": "Tamil movie Ghilli re-release continues its bull run in theatres",
-      "Description": "Ghilli's 2004 re-release breaks records with ₹30 crore collection in two weeks, sparking a trend in Tamil cinema.",
-      "Url": "https://www.thehindubusinessline.com/news/tamil-movie-ghilli-re-release-continues-its-bull-run-in-theatres/article68142132.ece",
-      "UrlToImage": "https://bl-i.thgim.com/public/incoming/fosdcj/article68142477.ece/alternates/LANDSCAPE_1200/CCI_HINDU_NEWSDESK_G501BL6EL.1.II2",
-      "PublishedAt": "2024-05-05T13:11:35Z",
-      "Content": "The re-release of Ghilli, the 2004 Tamil blockbuster movie, on April 20 has already crossed a record collection of 30 crores in two weeks and the bull run continues in theatres across Tamil Nadu, in … [+3311 chars]"
     }
   ]
 }
