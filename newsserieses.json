@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 900,
+  "TotalResults": 901,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Hay una película increíblemente polémica de Jenna Ortega que está arrasando en Netflix",
+      "Description": "Está claro que Jenna Ortega se ha convertido en un auténtico fenómeno de masas. Gracias a su aparición en la serie más vista de Netflix, su aparición en cada vez más papeles ha sido algo notable e inevitable. Aunque ya venía de hacer algunas películas de terr…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/hay-una-pelicula-subida-de-tono-de-jenna-ortega-que-esta-arrasando-en-netflix",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/05/millers-girl-la-pelicula-de-jenna-ortega.jpg?width=1200",
+      "PublishedAt": "2024-05-06T15:01:25Z",
+      "Content": "Se trata de una cinta que en su momento fue bastante criticada en las salas de cine\r\nEstá claro que Jenna Ortega se ha convertido en un auténtico fenómeno de masas. Gracias a su aparición en la serie… [+3293 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.formulatv.com/images/articulos/128000/128075_NR46qkPgxY8H0aBF9m2Uv7oEsWec3Li15-hog.jpg",
       "PublishedAt": "2024-05-05T14:12:37Z",
       "Content": "En medio del revuelo por el éxito de 'El caso Asunta', el juez José Antonio Vázquez Taín participó como colaborador en el programa 'Vamos a ver' de Telecinco donde, junto a Joaquín Prat y Patricia Pa… [+1900 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'The Boys' se mancha de sangre en el tráiler de su temporada 4 en Amazon Prime Video",
-      "Description": "Amazon Prime Video acaba de compartir un nuevo tráiler de la cuarta temporada de The Boys. La serie regresará el 13 de junio con más capítulos marcados por la violencia de las nuevas tramas, que adquieren tintes sangrientos a los que no estaban acostumbrados …",
-      "Url": "https://www.eldiario.es/vertele/videos/trailers-y-avances/the-boys-trailer-cuarta-temporada-4-fecha-estreno-amazon-prime-video_7_11342020.html",
-      "UrlToImage": "https://static.eldiario.es/clip/2b4e1320-a593-4904-864b-af9aab374c52_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-05-05T13:30:25Z",
-      "Content": "Amazon Prime Video acaba de compartir un nuevo tráiler de la cuarta temporada de The Boys. La serie regresará el 13 de junio con más capítulos marcados por la violencia de las nuevas tramas, que adqu… [+860 chars]"
     }
   ]
 }
