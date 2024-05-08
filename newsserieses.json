@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 930,
+  "TotalResults": 931,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Seis capítulos en total y con un director de Black Mirror tras las cámaras: HBO ofrece más información de El Caballero de los Siete Reinos, el spin-off de Juego de Tronos",
+      "Description": "El universo de Juego de Tronos está en pleno auge. Tras el lanzamiento de las dos primeras temporadas de La Casa del Dragón, HBO ha comenzado a mover ficha con la próxima adaptación ambientada en el mundo creado por George R. R. Martin: El Caballero de los Si…",
+      "Url": "https://www.vidaextra.com/series/seis-capitulos-total-director-black-mirror-camaras-hbo-ofrece-informacion-caballero-siete-reinos-spin-off-juego-tronos",
+      "UrlToImage": "https://i.blogs.es/b96193/juego-de-tronos/840_560.jpeg",
+      "PublishedAt": "2024-05-07T19:01:15Z",
+      "Content": "El universo de Juego de Tronos está en pleno auge. Tras el lanzamiento de las dos primeras temporadas de La Casa del Dragón, HBO ha comenzado a mover ficha con la próxima adaptación ambientada en el … [+1274 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/69c805/apple-tv/840_560.jpeg",
       "PublishedAt": "2024-05-07T10:01:13Z",
       "Content": "Como cualquier mortal, no son pocas las veces que he estado viendo una serie o película y por la razón que sea no he acabado de entender el diálogo que se acaba de producir. Bien sea porque en ese mo… [+2251 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Mario Seijas",
-      "Title": "Freya Allan, Ciri en The Witcher, quiere que los fans le den una oportunidad a Liam Hemsworth",
-      "Description": "Cavill no está, Cavill se fue\nLa serie de The Witcher en Netflix ha experimentado un cambio importante de protagonista, y los fans no están muy convencidos",
-      "Url": "https://es.ign.com/the-witcher-tv/202766/news/freya-allan-ciri-en-the-witcher-quiere-que-los-fans-le-den-una-oportunidad-a-liam-hemsworth",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/news/t/the-witche/the-witcher-star-freya-allan-wants-fans-to-give-henry-cavill_zvh7.1200.jpg",
-      "PublishedAt": "2024-05-07T09:30:23Z",
-      "Content": "Henry Cavill se ha alejado de The Witcher en Netflix, y su sustituto Liam Hemsworth ya se ha enfrentado a críticas en Internet. Sin embargo, la actriz de Ciri Freya Allan quiere que los fans le den u… [+1434 chars]"
     }
   ]
 }
