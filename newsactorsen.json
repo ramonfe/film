@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 823,
+  "TotalResults": 824,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4298956-screenshot2024-05-06at3.40.00pm.png",
       "PublishedAt": "2024-05-06T19:13:00Z",
       "Content": "Before Ryan Reynolds settled on the idea to make Deadpool and Wolverine a team-up film with those two main characters, the actor pitched numerous other ideas that never got off the ground. Reynolds t… [+2037 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "I guess I learned how to appreciate The Phantom Menace",
-      "Description": "More than anything, Star Wars: Episode 1 - The Phantom Menace is a fascinating cultural object. It's been 25 years since I saw the film in theaters, and over a decade since I last rewatched it (in a vain attempt to help my Trekkie wife catch up to the prequel…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173797688",
-      "UrlToImage": null,
-      "PublishedAt": "2024-05-06T18:54:11Z",
-      "Content": "More than anything, Star Wars: Episode 1 - The Phantom Menace is a fascinating cultural object. It's been 25 years since I saw the film in theaters, and over a decade since I last rewatched it (in a … [+6386 chars]"
     }
   ]
 }
