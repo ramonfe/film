@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 875,
+  "TotalResults": 877,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Brit + Co"
+      },
+      "Author": "Chloe Williams​",
+      "Title": "Elle Fanning & Timothée Chalamet Get Cozy In Leaks From \"A Complete Unknown\"",
+      "Description": "Austin Butler as Elvis, Selena Gomez as Linda Rondstat, and now Timothée Chalamet as Bob Dylan — there will never be enough biopics for me! (The real question is when are we going to get a Taylor Swift movie?). When pictures from the set of the new Bob Dylan …",
+      "Url": "https://www.brit.co/a-complete-unknown/",
+      "UrlToImage": "https://www.brit.co/media-library/a-complete-unknown-elle-fanning-timothee-chalamet.png?id=52191341&width=1200&height=600&coordinates=0%2C10%2C0%2C12",
+      "PublishedAt": "2024-05-07T21:05:37Z",
+      "Content": "Austin Butler as Elvis, Selena Gomez as Linda Rondstat, and now Timothée Chalamet as Bob Dylan there will never be enough biopics for me! (The real question is when are we going to get a Taylor Swift… [+4834 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NPR"
-      },
-      "Author": "Linda Holmes",
-      "Title": "Is Jerry Seinfeld's 'Unfrosted' a tasty treat, or just a stale old standby?",
-      "Description": "The new Netflix film <em>Unfrosted </em>tells a fanciful invented version of the Pop-Tart's origin. The film was directed and co-written by Jerry Seinfeld, who also stars as a Kellogg's executive who's in a race to release a new breakfast idea before their ri…",
-      "Url": "https://www.npr.org/2024/05/07/1197964425/is-jerry-seinfelds-unfrosted-a-tasty-treat-or-just-a-stale-old-standby",
-      "UrlToImage": "https://media.npr.org/assets/img/2024/05/06/unfrosted_00_58_20_07_r.jpg-unfrosted_00_58_20_07_r1_wide-88c495271dfcecbdfb012702d57c26ef5b20674e.jpg?s=1400&c=100&f=jpeg",
-      "PublishedAt": "2024-05-07T07:00:00Z",
-      "Content": "Melissa McCarthy, Jerry Seinfeld, and Jim Gaffigan in Unfrosted.\r\nNetflix\r\nThe new Netflix film Unfrosted tells a fanciful invented version of the Pop-Tart's origin. The film was directed and co-writ… [+389 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Thenation.com"
-      },
-      "Author": "Dave Zirin",
-      "Title": "Macklemore Dares Others to Stand Up for Palestine",
-      "Description": "Activism\n \n \n / \n May 7, 2024\n \r\n\n \nMacklemore Dares Others to Stand Up for Palestine\r\n\n\n\nWith “Hind’s Hall,” the rapper is telling artists and other culture workers, “The students are risking it all. Where are you?”\r\n\n\n\r\n\n \n \n Dave Zirin \r\n\n \n \n Share\n \n \n F…",
-      "Url": "https://www.thenation.com/article/culture/macklemore-hinds-hall-palestine/",
-      "UrlToImage": "https://www.thenation.com/wp-content/uploads/2024/05/Macklemore.jpg",
-      "PublishedAt": "2024-05-07T00:00:00Z",
-      "Content": "With Hinds Hall, the rapper is telling artists and other culture workers, The students are risking it all. Where are you?\r\nAd Policy\r\nMacklemore performs live at Lollapalooza Berlin 2023 on September… [+5474 chars]"
     }
   ]
 }
