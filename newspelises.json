@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "Disney pisa el freno con Marvel y pone tope al número de series y películas nuevas por año",
+      "Description": "No hay que ser muy listo para entender que más no significa necesariamente mejor, pero a Disney parece que le ha llevado varios años entenderlo. Le ha pasado con Star Wars, aunque no parece que vayan a echar el freno, más bien al contrario, y sobre todo le ha…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/disney-pisa-el-freno-con-marvel-y-pone-tope-al-numero-de-series-y-peliculas-nuevas-por-ano",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/05/disney-marvel.jpg?width=1200",
+      "PublishedAt": "2024-05-07T18:19:27Z",
+      "Content": "Más no siempre es mejor\r\nNo hay que ser muy listo para entender que más no significa necesariamente mejor, pero a Disney parece que le ha llevado varios años entenderlo. Le ha pasado con Star Wars, a… [+1933 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://meneame.net/img/logo_meneame.png",
       "PublishedAt": "2024-04-30T13:46:12Z",
       "Content": "Es acojonante como en una peli cuya producción cuesta 200 millones se gasta 125 millones más en su promoción."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Un asunto familiar, de Netflix, es la comedia romántica con Zac Efron y Nicole Kidman que no esperabas",
-      "Description": "Netflix acaba de compartir las primeras imágenes y fecha de estreno de Un asunto familiar, una comedia romántica que probablemente no imaginabas, pero que desde luego no te vas a querer perder.\r\n\nY es que Nicole Kidman y Zac Efron se vuelven a encontrar 12 añ…",
-      "Url": "https://www.revistagq.com/articulo/un-asunto-familiar-netflix-comedia-romantica-nicole-kidman-zac-efron",
-      "UrlToImage": "https://media.revistagq.com/photos/6630dfe64b69037cbdc97e75/16:9/w_1280,c_limit/AFA_20221011_06551r.jpg",
-      "PublishedAt": "2024-04-30T12:14:51Z",
-      "Content": "Netflix acaba de compartir las primeras imágenes y fecha de estreno de Un asunto familiar, una comedia romántica que probablemente no imaginabas, pero que desde luego no te vas a querer perder.\r\nY es… [+1756 chars]"
     }
   ]
 }
