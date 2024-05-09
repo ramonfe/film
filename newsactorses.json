@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 747,
+  "TotalResults": 748,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "elmundo.es",
+      "Title": "Muere a los 74 años Ian Gelder, el actor de Juego de Tronos que interpretó a Kevan Lannister",
+      "Description": "En la ficción, su personaje era el tío de Jaime y Tywin Lannister, dos de los personajes más queridos de la serie. Apareció en cinco episodios, entre ellos la boda entre Tywin y Sansa Stark Leer",
+      "Url": "https://www.elmundo.es/television/2024/05/08/663b1db3fc6c8385178b45a0.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/480708b82bab4823b8609bf4d373f1ef/resize/1200/f/webp/assets/multimedia/imagenes/2024/05/08/17151501177338.jpg",
+      "PublishedAt": "2024-05-08T06:37:59Z",
+      "Content": "En menos de seis meses, un cáncer de vías biliares ha acabado con la vida del actor Ian Gelder. El británico era muy conocido en Reino Unido y participó en grandes producciones televisivas como Docto… [+1481 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/205d3092-7192-46c1-a60f-659b15e501f3_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-05-07T13:10:04Z",
       "Content": "Han pasado ya cuatro meses desde que TVE comenzara a promocionar Detective Touré, la adaptación de las novelas de Jon Arretxe con Malcolm Treviño-Sitté al frente, sin que aún se haya concretado una f… [+3471 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"Tienes que emprender tu propio viaje\": Anya Taylor-Joy no quiso saber nada de Charlize Theron hasta finalizar el rodaje de Furiosa",
-      "Description": "Está claro que el mes de mayo tiene nombre y apellidos en las taquillas mundiales de cine: Furiosa. La nueva película de la saga Mad Max está creando mucha expectación entre los fans de la franquicia, y muchos tienen ganas de ver a Anya Taylor-Joy desempeñand…",
-      "Url": "https://www.vidaextra.com/cine/tienes-que-emprender-tu-propio-viaje-anya-taylor-joy-no-quiso-saber-nada-charlize-theron-finalizar-rodaje-furiosa",
-      "UrlToImage": "https://i.blogs.es/ed3767/furiosa/840_560.jpeg",
-      "PublishedAt": "2024-05-07T11:23:49Z",
-      "Content": "Está claro que el mes de mayo tiene nombre y apellidos en las taquillas mundiales de cine: Furiosa. La nueva película de la saga Mad Max está creando mucha expectación entre los fans de la franquicia… [+1583 chars]"
     }
   ]
 }
