@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 913,
+  "TotalResults": 914,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": null,
+      "Title": "Missing CMS student found dead at movie theater parking lot in Ballantyne",
+      "Description": null,
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9eec114c-76ab-4521-a5be-d2f585759983",
+      "UrlToImage": null,
+      "PublishedAt": "2024-05-09T23:36:28Z",
+      "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": "nbc-news",
-        "Name": "NBC News"
-      },
-      "Author": "Variety",
-      "Title": "New ‘Lord of the Rings’ movie, ‘The Hunt for Gollum,’ being produced by Peter Jackson",
-      "Description": "Warner Bros. will release the first of its new batch of “The Lord of the Rings” films in 2026, which will focus on Andy Serkis’s Gollum.",
-      "Url": "https://www.nbcnews.com/pop-culture/pop-culture-news/new-lord-rings-movie-hunt-gollum-produced-peter-jackson-rcna151453",
-      "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/151202-gollum-jsw-1016a-6c8711.jpg",
-      "PublishedAt": "2024-05-09T13:54:03Z",
-      "Content": "Warner Bros. will release the first of its new batch of The Lord of the Rings films in 2026, which will focus on Andy Serkiss Gollum.\r\nOriginal The Lord of the Rings trilogy filmmaker Peter Jackson a… [+3049 chars]"
     }
   ]
 }
