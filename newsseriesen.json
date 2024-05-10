@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Luis Joshua Gutierrez",
+      "Title": "10 Excellent Video Game TV Shows You Can Watch Right Now, From Castlevania To Fallout",
+      "Description": "It's becoming increasingly common to see your favorite video game character make the jump to the small screen. Over the past couple of years, we've seen different streaming platforms, such as Netflix, Max, and Peacock, adapt popular video games to the medium.…",
+      "Url": "https://www.gamespot.com/gallery/video-game-tv-shows-you-can-watch-right-now-from-castlevania-to-fallout/2900-5385/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1746/17463818/4300957-falloutshow.jpg",
+      "PublishedAt": "2024-05-09T19:18:00Z",
+      "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
     {
       "Source": {
         "Id": "polygon",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-04-19T15:47:47Z",
       "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an Editor crash when At… [+320268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Neowin"
-      },
-      "Author": "John Callaham",
-      "Title": "The Fallout TV show is officially getting a second season, confirms Amazon",
-      "Description": "Amazon Prime Video has confirmed that the Fallout live-action TV series, which got rave reviews for its recently dropped first season, will be getting a second season on the streaming service. Read more...",
-      "Url": "https://www.neowin.net/news/the-fallout-tv-show-is-officially-getting-a-second-season-confirms-amazon/",
-      "UrlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/04/1713487782_fallout-tv-show-2_story.jpg",
-      "PublishedAt": "2024-04-19T04:56:01Z",
-      "Content": "While things were already looking good for the recently launched first season of the Fallout live-action TV series to be renewed, it became official late on Thursday. Amazon Prime Video has confirmed… [+1374 chars]"
     }
   ]
 }
