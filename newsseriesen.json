@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Theplaylist.net"
+      },
+      "Author": "Mike DeAngelo",
+      "Title": "‘Dark Matter’: Joel Edgerton & Jennifer Connelly Discuss Multiversal Sci-Fi Series, ‘Top Gun: Maverick,’ Marvel & More [Bingeworthy Podcast]",
+      "Description": "In this week’s episode of Bingeworthy, our TV and streaming podcast host Mike DeAngelo ventures into another universe to discuss “Dark Matter.” The Apple TV+ series is based on the Blake Crouch book of the same name and follows a college professor who is abdu…",
+      "Url": "https://theplaylist.net/dark-matter-joel-edgerton-jennifer-connelly-discuss-multiversal-sci-fi-series-top-gun-maverick-marvel-more-bingeworthy-podcast-20240510/",
+      "UrlToImage": "https://cdn.theplaylist.net/wp-content/uploads/2024/02/02221456/DarkMatter_101_01892F.jpg",
+      "PublishedAt": "2024-05-10T13:00:00Z",
+      "Content": "In this weeks episode of Bingeworthy, our TV and streaming podcast host Mike DeAngelo ventures into another universe to discuss Dark Matter. The Apple TV+ series is based on the Blake Crouch book of … [+6715 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1746/17463818/4290842-bestanime%282%29.jpg",
       "PublishedAt": "2024-04-19T19:07:00Z",
       "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Unity.com"
-      },
-      "Author": "Unity Technologies",
-      "Title": "6000.0.0b16",
-      "Description": "6000.0.0b16\n\n April 19, 2024\n \n unityhub://6000.0.0b16/1ddb887463a9\n \n \n Windows (X86-64)\r\n\n \n Unity Editor Windows (X86-64)\n \n Component Installers\r\n\n \n Android Build Support\n \r\n\n \n iOS Build Support\n \r\n\n \n tvOS Build Support\n \r\n\n \n visionOS Build Support\n \r…",
-      "Url": "https://unity.com/releases/editor/beta/6000.0.0b16",
-      "UrlToImage": null,
-      "PublishedAt": "2024-04-19T15:47:47Z",
-      "Content": "<li>2D: Fixed am issue where a SpriteShapeRenderer with mask interaction set is unable to be masked by a SpriteMask when using a URP pipeline.\r\n(UUM-59737)\r\n</li><li>2D: Fixed an Editor crash when At… [+320268 chars]"
     }
   ]
 }
