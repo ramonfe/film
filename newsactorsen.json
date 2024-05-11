@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 838,
+  "TotalResults": 839,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/05/miranda-dating.jpg",
       "PublishedAt": "2024-05-09T06:39:15Z",
       "Content": "Miranda Cosgrove‘s onscreen relationship is taking center stage in Netflix’s new movie Mother of the Bride, and you might be wondering about her real-life relationship status. \r\nThe 30-year-old actre… [+901 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Entertainment Tonight"
-      },
-      "Author": "Zach Seemayer",
-      "Title": "Miranda Cosgrove Says She Wants to 'Wrap Up' 'iCarly' With a Movie",
-      "Description": "The actress spoke with ET at a screening of her new film 'Mother of the Bride' in the Pacific Palisades on Wednesday.",
-      "Url": "https://www.etonline.com/miranda-cosgrove-says-she-wants-to-wrap-up-icarly-with-a-movie-exclusive-225065",
-      "UrlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-05/Miranda_Cosgrove_GettyImages-2152116671_1280.jpg?h=c673cd1c",
-      "PublishedAt": "2024-05-09T05:46:44Z",
-      "Content": "Miranda Cosgrove feels like there's more story to tell when it comes to the iCarly universe.\r\nThe actress walked the carpet at a special screening of her new Netflix romcom Mother of the Bride -- hel… [+1815 chars]"
     }
   ]
 }
