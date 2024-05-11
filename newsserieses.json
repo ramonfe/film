@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 931,
+  "TotalResults": 932,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El juez del caso Asunta, muy decepcionado con la serie de Netflix: «Intentar sembrar dudas otra vez...»",
+      "Description": "'El caso Asunta' , la serie de Netflix sobre el asesinato de la niña gallega en 2013 a manos de sus padres se ha convertido en todo un fenómeno esta temporada. La ficción -muy fiel a la realidad en muchos aspectos, como la interpretación de Candela Peña y Tri…",
+      "Url": "https://www.abc.es/play/series/noticias/juez-asunta-decepcionado-serie-netflix-intentar-sembrar-20240510073000-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/05/10/vazquez-tain-2-ktaE--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-05-10T05:30:00Z",
+      "Content": "'El caso Asunta', la serie de Netflix sobre el asesinato de la niña gallega en 2013 a manos de sus padres se ha convertido en todo un fenómeno esta temporada.La creciente pasión por el 'true crime' h… [+2612 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/66349a0ceb8a4596d591670a/16:9/w_1280,c_limit/brian-hater.jpg",
       "PublishedAt": "2024-05-09T11:43:14Z",
       "Content": "Brian Cox es un actor shakesperiano, de formación clásica; un gran escocés y, a sus 77 años, una formidable estrella del teatro y de la pequeña pantalla con una estimable carrera de más de seis décad… [+6443 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Marina Velasco",
-      "Title": "La miniserie de robos que quiso seguir la estela de 'La casa de papel' en Netflix: tiene 6 capítulos y sigue cautivando al público",
-      "Description": "Ambientada en una prisión psiquiátrica, la serie carcelaria que Netflix estrenó durante el verano de 2022 apuesta por un reparto coral encabezado por Alberto Ammann y Luis Callejo",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2024-05-09/la-noche-mas-larga-miniserie-espanola-robos-netflix_3880473/",
-      "UrlToImage": "https://images.ecestaticos.com/fipMh18V9HBJpFMjmothMlJ-WNc=/0x0:1500x1000/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/57a/354/caa/57a354caa46c93e80a6cf716e694ac00.jpg",
-      "PublishedAt": "2024-05-09T11:23:00Z",
-      "Content": "La miniserie de Netflix sobre el acosador de una familia que te dejará perplejo tras acabarte Mi reno de pelucheUna de las mejores series españolas sobre corrupción con Pepe Sancho que puedes ver est… [+2504 chars]"
     }
   ]
 }
