@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 869,
+  "TotalResults": 870,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbs-news",
+        "Name": "CBS News"
+      },
+      "Author": null,
+      "Title": "1 dead after shooting inside Ohio movie theater, police say",
+      "Description": "The shooting occurred on Friday night inside a Regal Cinemas theater in Ohio, according to police.",
+      "Url": "https://www.cbsnews.com/news/shooting-ohio-movie-theater-regal-cinemas-one-dead/",
+      "UrlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/29/b7b00813-a64d-47dc-88f7-3ada03245b0b/thumbnail/1200x630/32a06abd781ddf4f7778014ab7008227/gettyimages-1397821981.jpg?v=218688c1357f974b9630d4fa8914721c",
+      "PublishedAt": "2024-05-11T15:19:05Z",
+      "Content": "One person is dead after a late-night shooting at a movie theater in Ohio, according to police.\r\nAround 11 p.m. local time on Friday, the Massillon Police Department was notified of a shooting that h… [+1245 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.yimg.com/ny/api/res/1.2/RCbrKXBQlFfkx62jtKwurg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/tampa-bay-times-st-petersburg-fla/c52bcb16a421502f0bb5b9df8b7fbac3",
       "PublishedAt": "2024-05-10T11:30:00Z",
       "Content": "The new owners of the Sundial shopping plaza in downtown St. Petersburg are tussling with the owner of the AMC Sundial 12 movie theater in the courts.\r\nThe Sundial owners claim that the theaters owne… [+3797 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Celebitchy.com"
-      },
-      "Author": "Rosie",
-      "Title": "A new Lord of The Rings movie is coming in 2026 starring & directed by Andy Serkis",
-      "Description": "Pack your second breakfast and elevenses because two new Lord of the Rings movies are now in development. Who’s ready to journey back into Middle-earth again? The movies are a part of a two-film deal, with the first one currently scheduled for a 2026 release.…",
-      "Url": "https://www.celebitchy.com/871153/a_new_lord_of_the_rings_movie_is_coming_in_2026_starring_directed_by_andy_serkis/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-05-10T11:00:38Z",
-      "Content": "Pack your second breakfast and elevenses because two new Lord of the Rings movies are now in development. Whos ready to journey back into Middle-earth again? The movies are a part of a two-film deal,… [+4532 chars]"
     }
   ]
 }
