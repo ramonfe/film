@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 868,
+  "TotalResults": 869,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Massillon Police investigating fatal shooting at Regal Cinemas; suspect in custody - News 5 Cleveland WEWS",
+      "Description": "Massillon Police investigating fatal shooting at Regal Cinemas; suspect in custodyNews 5 Cleveland WEWS Daron Davis shot to death inside Regal Massillon movie theaterCanton Repository 1 dead after shooting inside Regal Cinemas theater in OhioABC News Man murd…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173841685",
+      "UrlToImage": null,
+      "PublishedAt": "2024-05-11T14:53:10Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-05-10T11:00:38Z",
       "Content": "Pack your second breakfast and elevenses because two new Lord of the Rings movies are now in development. Whos ready to journey back into Middle-earth again? The movies are a part of a two-film deal,… [+4532 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Warner Bros. Shuts Down 15 Year Old Lord of the Rings: The Hunt for Gollum Fan Film After New Movie Reveal - IGN",
-      "Description": "Warner Bros. Shuts Down 15 Year Old Lord of the Rings: The Hunt for Gollum Fan Film After New Movie RevealIGN New Lord of the Rings Movies Coming from Peter Jackson in 2026Hollywood Reporter The Hunt for Gollum: are Peter Jackson and Andy Serkis making a Lord…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=173831363",
-      "UrlToImage": null,
-      "PublishedAt": "2024-05-10T10:32:10Z",
-      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
     }
   ]
 }
