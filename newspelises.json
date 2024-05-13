@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 137,
+  "TotalResults": 138,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.alucine.es/wp-content/uploads/2021/01/65.jpg",
       "PublishedAt": "2024-05-06T12:30:45Z",
       "Content": "Howard, un nuevo héroe: Un auténtico clasicazo de los patinazos del cine de superhéroes. Llegado directamente desde la década de los 80, Howard, un nuevo héroe puede ser de lo peor que haya visto nun… [+1149 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "La película más vista en Netflix España ahora mismo no es de Netflix (pero sí española)",
-      "Description": "Sin edulcorar no ha logrado ser la película más vista de Netflix España este fin de semana, se ha quedado finalmente en quinto lugar aunque seguro que internacionalmente subirá algunos puestos. En nuestro país, es una vez más un título español el que lidera e…",
-      "Url": "https://www.revistagq.com/articulo/pelicula-mas-vista-netflix-espana-valle-de-sombras",
-      "UrlToImage": "https://media.revistagq.com/photos/6638c8ecdc49332463b9d268/16:9/w_1280,c_limit/pelicula-mas-vista-netflix-valle-de-sombras.jpg",
-      "PublishedAt": "2024-05-06T12:13:03Z",
-      "Content": "Sin edulcorar no ha logrado ser la película más vista de Netflix España este fin de semana, se ha quedado finalmente en quinto lugar aunque seguro que internacionalmente subirá algunos puestos. En nu… [+1929 chars]"
     }
   ]
 }
