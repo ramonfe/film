@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 805,
+  "TotalResults": 806,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'The Fall Guy' gives Hollywood muted summer kickoff with $28.5M opening",
+      "Description": "New York — \"The Fall Guy,\" the Ryan Gosling-led, action-comedy ode to stunt performers, opened below expectations with $28.5 million, according to studio estimates Sunday, providing a lukewarm start to a summer movie season that's very much to be determined f…",
+      "Url": "https://www.voanews.com/a/the-fall-guy-gives-hollywood-muted-summer-kickoff-with-28-5m-opening/7608149.html",
+      "UrlToImage": "https://gdb.voanews.com/30E815E7-CB46-4038-8412-FBB83948AE5C.jpg",
+      "PublishedAt": "2024-05-12T19:27:04Z",
+      "Content": "New York  \"The Fall Guy,\" the Ryan Gosling-led, action-comedy ode to stunt performers, opened below expectations with $28.5 million, according to studio estimates Sunday, providing a lukewarm start t… [+4172 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-05-10T21:36:32Z",
       "Content": "Please be advised this upload has ads cut or watermarked into the video.\r\nPlot: Taylor Pherry is commanded by God to write a movie inspired by his crazy, dysfunctional family, but the Devil has his o… [+520 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "In a Violent Nature: Read to know all the details about release date, storyline, trailer and cast",
-      "Description": "‘In a Violent Nature’ is set to be released on May 31 after a short delay in its release. The movie has already received positive reviews in the film festival it was screened at.",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/in-a-violent-nature-read-to-know-all-the-details-about-release-date-storyline-trailer-and-cast/articleshow/110019924.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-110019929,width-1200,height-630,imgsize-54564,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2024-05-10T20:56:19Z",
-      "Content": "First time feature film writer and director Chris Nash is all set for the release of his venture titled In a Violent Nature. The reviews promise pure evil! Released at the Sundance Film Festival in 2… [+1748 chars]"
     }
   ]
 }
