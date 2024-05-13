@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 900,
+  "TotalResults": 905,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Genbeta.com"
+      },
+      "Author": "Eva Rodriguez de Luis",
+      "Title": "ChatGPT ha cambiado mi forma de ver la tele: así es como lo uso para saber qué ver en Netflix y otras plataformas de streaming",
+      "Description": "La llegada del streaming a los televisores, primero con Netflix y luego con la competencia, trajo consigo una paradoja curiosa: en un momento en el que hay tanto para ver, no sabes qué ver.\n<!-- BREAK 1 -->\nDe hecho, no será la primera (y seguramente, ni la ú…",
+      "Url": "https://www.genbeta.com/a-fondo/chatgpt-ha-cambiado-mi-forma-ver-cine-series-asi-como-uso-para-saber-que-ver-tele-1",
+      "UrlToImage": "https://i.blogs.es/a060a5/marques-kaspbrak-5wthjqg6hbu-unsplash/840_560.jpeg",
+      "PublishedAt": "2024-05-12T12:01:41Z",
+      "Content": "La llegada del streaming a los televisores, primero con Netflix y luego con la competencia, trajo consigo una paradoja curiosa: en un momento en el que hay tanto para ver, no sabes qué ver.\r\nDe hecho… [+5465 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "David Freire",
+      "Title": "Xiaomi Pad 6S Pro, análisis: la mejor tablet de Xiaomi hasta la fecha llega para plantarle cara al iPad Pro",
+      "Description": "De todos es sabido que los iPads de Apple dominan el mercado de las tablets desde hace varios años gracias a un equilibrio casi perfecto entre hardware y software, pero parece que algo cambió el año pasado, ya que los dos grandes fabricantes de dispositivos A…",
+      "Url": "https://www.lavanguardia.com/andro4all/xiaomi/xiaomi-pad-6s-pro-analisis-la-mejor-tablet-de-xiaomi-hasta-la-fecha-llega-para-plantarle-cara-al-ipad-pro",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/05/xiaomi-pad-6s-pro-portada2.jpg?width=1200",
+      "PublishedAt": "2024-05-12T11:01:20Z",
+      "Content": "La Xiaomi Pad 6S Pro y su exclusivo stylus bluetooth, el Xiaomi Focus Pen / Fotografía: Ruben Ulloa\r\nDe todos es sabido que los iPads de Apple dominan el mercado de las tablets desde hace varios años… [+18321 chars]"
+    },
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Estrella Gomez",
+      "Title": "Lo paranormal volverá a conquistar Netflix con la serie Pesadillas y ensoñaciones de Joko Anwar",
+      "Description": "Un total de siete relatos\nLa serie Pesadillas y ensoñaciones de Joko Anwar ya tiene fecha de estreno en Netflix",
+      "Url": "https://es.ign.com/netflix/202798/news/lo-paranormal-volvera-a-conquistar-netflix-con-la-serie-pesadillas-y-ensonaciones-de-joko-anwar",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/sin-titulo-1_cz84.1200.jpg",
+      "PublishedAt": "2024-05-12T11:00:29Z",
+      "Content": "No son imaginaciones tuyas. Dado el éxito que tiene todo lo relacionado con lo paranormal, Netflix está apostando cada vez más por los proyectos que están centrados en esa temática. Sin ir más lejos,… [+1669 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Ramón Varela",
+      "Title": "Fallout 4 fue el juego más vendido durante abril en Reino Unido, casi una década después de su debut",
+      "Description": "La serie de Amazon Prime Video ha tenido un efecto muy visible en toda la saga, que vuelve a la lista de los más vendidos con varios juegos.<!--aa--->Es fácil de entender el interés de muchas editoras por expandir sus licencias más conocidas a nuevos medios, …",
+      "Url": "https://vandal.elespanol.com/noticia/1350771220/fallout-4-fue-el-juego-mas-vendido-durante-abril-en-reino-unido-casi-una-decada-despues-de-su-debut/",
+      "UrlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/5/5-2024/12/202451210451846_1.jpg",
+      "PublishedAt": "2024-05-12T08:51:00Z",
+      "Content": "Es fácil de entender el interés de muchas editoras por expandir sus licencias más conocidas a nuevos medios, como el cine y la televisión. Cuando se hace bien, se consigue impulsar las ventas de los … [+1427 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Ramón Varela",
+      "Title": "LEGO y PlayStation colaboran en un proyecto con la licencia Horizon",
+      "Description": "<!--cache-->En esta ocasión, los indicios apuntan más a un videojuego; anteriormente ya habían lanzado un set de piezas dedicado al Cuellilargo.<!--aa--->Sony y LEGO están colaborando con un proyecto de la licencia Horizon, la saga de Guerrilla Games. No es l…",
+      "Url": "https://vandal.elespanol.com/noticia/1350771217/lego-y-playstation-colaboran-en-un-proyecto-con-la-licencia-horizon/",
+      "UrlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/5/5-2024/12/20245128364067_1.jpg",
+      "PublishedAt": "2024-05-12T07:09:00Z",
+      "Content": "Sony y LEGO están colaborando con un proyecto de la licencia Horizon, la saga de Guerrilla Games. No es la primera vez que lo hacen, ya existe un set de construcción de LEGO dedicado al icónico Cuell… [+1788 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/45526c1c0c70e6c0d6dc7cc6fd9f506f.jpg",
       "PublishedAt": "2024-05-10T16:45:00Z",
       "Content": "Esta saga ilustrada de ciencia ficción del creador de Cuentos del bucle sigue a una adolescente huérfana que emprende un viaje para encontrar a su hermano desaparecido, con la ayuda de un compañero r… [+449 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "P. V.",
-      "Title": "La supuesta acosadora de «Mi reno de peluche», en su primera entrevista en televisión: «Richard Gadd es un psicótico»",
-      "Description": "Fiona Harvey, que se ha dado por aludida por los eventos de la serie, niega la mayoría de los hechos narrados por el humorista y confirma que denunciará tanto a él como a Netflix: «Todo es completamente falso, muy difamatorio»",
-      "Url": "https://www.lavozdegalicia.es/noticia/cultura/2024/05/10/supuesta-acosadora-reno-peluche-primera-entrevista-television-richard-gadd-psicotico/00031715339398303302299.htm",
-      "UrlToImage": "https://cflvdg.avoz.es/sc/aBBPDC_1I-F1nOoClXrybiSSM7E=/1280x/2024/05/10/00121715339342124935411/Foto/fiona_harvey.jpg",
-      "PublishedAt": "2024-05-10T15:35:00Z",
-      "Content": "La supuesta acosadora de Richard Gadd representada en Mi reno de peluche en el personaje de Martha Scott ha decidido dar la cara en la vida real. La abogada Fiona Harvey —así se llama la mujer que se… [+8696 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Lucía Casañal Calvo",
-      "Title": "La supuesta acosadora que inspiró 'Mi reno de peluche' aparece y amenaza con demandar a Netflix y a Richard Gadd",
-      "Description": "DÉJAME EN PAZ Fiona Harvey ha acudido al programa de Piers Morgan para explicar su versión sobre las situaciones de acoso que se muestran en la serie de Netflix estrenada el 11 de abril.La supuesta acosadora que inspiró 'Mi reno de peluche' aparece y amenaza …",
-      "Url": "https://www.ecartelera.com/noticias/acosadora-richard-gadd-mi-reno-peluche-aparece-demandas-77174/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/77100/77174-h2.jpg",
-      "PublishedAt": "2024-05-10T15:26:00Z",
-      "Content": "'Mi reno de peluche' se ha convertido en todo un éxito de Netflix. Desde el estreno de la serie británica dirigida y protagonizada por Richard Gadd, basada en un caso real de acoso que vivió él mismo… [+2994 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mundodeportivo.com"
-      },
-      "Author": "Autor Redacción",
-      "Title": "¿Mató Rosario Porto a sus padres? La respuesta del teniente coronel que lo investigó es muy clara",
-      "Description": "Aunque hace ya más de 10 años desde que la pequeña Asunta Basterra fue asesinada a manos de su padres adoptivos, Rosario Porto y Alfonso Basterra, el estreno de la serie de Netflix 'El caso Asunta' ha hecho que todo lo relacionado con el crimen vuelva a poner…",
-      "Url": "https://www.mundodeportivo.com/actualidad/20240510/1002243994/pudo-matar-rosario-porto-padres-asunta-respuesta-teniente-coronel-investigo-clara-dct.html",
-      "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/05/10/663e2c9fda87a.jpeg",
-      "PublishedAt": "2024-05-10T15:16:35Z",
-      "Content": "Aunque hace ya más de 10 años desde que la pequeña Asunta Basterra fue asesinada a manos de su padres adoptivos, Rosario Porto y Alfonso Basterra, el estreno de la serie de Netflix 'El caso Asunta' h… [+2671 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Kenth",
-      "Title": "A EA no le importa si ya pagaste por su juego y ahora analizan en ponerte publicidad",
-      "Description": "Si te preocupa la posibilidad de que las publicidades en los servicios de películas y series por streaming como Netflix y Prime Video lleguen al mundo de los videojuegos, déjame decirte que esto podría suceder. Electronic Arts está considerando la idea de inc…",
-      "Url": "https://www.xataka.com.mx/videojuegos/a-ea-no-le-importa-pagaste-su-juego-ahora-analizan-ponerte-publicidad",
-      "UrlToImage": "https://i.blogs.es/c7eb64/ea-cangrejo/840_560.jpeg",
-      "PublishedAt": "2024-05-10T15:01:33Z",
-      "Content": "Si te preocupa la posibilidad de que las publicidades en los servicios de películas y series por streaming como Netflix y Prime Video lleguen al mundo de los videojuegos, déjame decirte que esto podr… [+3002 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Alucine.es"
-      },
-      "Author": "Hector",
-      "Title": "La serie que le supuso a Netflix las mayores pérdidas de su historia",
-      "Description": "No todo es de color de rosa en Netflix. A pesar de que su corta historia esta plagada de grandes éxitos, no todas las jugadas le salen igual de bien. De hecho, la plataformas de streaming tendrá que asumir que la serie que se había convertido en una de las ma…",
-      "Url": "https://www.alucine.es/2024/05/10/la-serie-que-le-supuso-a-netflix-las-mayores-perdidas-de-su-historia/",
-      "UrlToImage": "https://www.alucine.es/wp-content/uploads/2021/06/1-55.jpg",
-      "PublishedAt": "2024-05-10T14:30:37Z",
-      "Content": "No todo es de color de rosa en Netflix. A pesar de que su corta historia esta plagada de grandes éxitos, no todas las jugadas le salen igual de bien. De hecho, la plataformas de streaming tendrá que … [+1532 chars]"
     }
   ]
 }
