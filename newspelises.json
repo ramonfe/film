@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 138,
+  "TotalResults": 139,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Rafa Cervera",
+      "Title": "Mary Woronov, la actriz que rompió con los tópicos femeninos haciendo serie B",
+      "Description": "Para mucha gente, Mary Woronov es una actriz de las películas experimentales de Warhol, alguien que en 1966 bailó en el espectáculo Exploding Plastic Inevitable al ritmo de la música de The Velvet Underground. En realidad, eso no fue más que el inicio de la t…",
+      "Url": "https://www.eldiario.es/cultura/libros/mary-woronov-actriz-rompio-topicos-femeninos-haciendo-serie-b_1_11349273.html",
+      "UrlToImage": "https://static.eldiario.es/clip/7a4ce7f4-1b77-4ccb-b4cc-1d387b884ff4_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-05-13T19:43:40Z",
+      "Content": "Para mucha gente, Mary Woronov es una actriz de las películas experimentales de Warhol, alguien que en 1966 bailó en el espectáculo Exploding Plastic Inevitable al ritmo de la música de The Velvet Un… [+1239 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/663a376fdef4927888cb307b/16:9/w_1280,c_limit/superar-ghosting.jpg",
       "PublishedAt": "2024-05-07T14:22:29Z",
       "Content": "Superar un ghosting,es decir, que alguien con quien tenías una relación corte toda comunicación de la noche a la mañana sin explicación, puede ser muy difícil. Aunque esta práctica desafortunadamente… [+2354 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Europapress.es"
-      },
-      "Author": null,
-      "Title": "La Fiesta del Cine vuelve del 3 al 6 de junio con entradas a 3,5 euros",
-      "Description": "Una nueva edición de la Fiesta del Cine se celebrará en toda España los días lunes 3, martes 4, miércoles 5 y jueves 6 de junio, con entradas durante esos cuatro de todas las películas de la cartelera al precio especial de 3,5 euros.",
-      "Url": "https://www.europapress.es/cultura/cine-00128/noticia-fiesta-cine-vuelve-junio-entradas-35-euros-20240507142618.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240507142618_1200.jpg",
-      "PublishedAt": "2024-05-07T12:26:18Z",
-      "Content": "MADRID, 7 May. (EUROPA PRESS) - \r\n   Una nueva edición de la Fiesta del Cine se celebrará en toda España los días lunes 3, martes 4, miércoles 5 y jueves 6 de junio, con entradas durante esos cuatro … [+1866 chars]"
     }
   ]
 }
