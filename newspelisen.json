@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 801,
+  "TotalResults": 802,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Tricia Crimmins",
+      "Title": "‘It does not end well’: Open AI’s latest release compared to sci-fi film ‘Her’",
+      "Description": "Today, Open AI announced its latest artificial intelligence model, GPT-4o, which can converse with users in real-time via voice, vision, and text. The revolutionary product is being compared online to the 2013 sci-fi film, Her.\n\n\nOpen AI is the company behind…",
+      "Url": "https://www.dailydot.com/debug/open-ai-gpt4o-her/",
+      "UrlToImage": "https://uploads.dailydot.com/2024/05/open-ai-HER.jpg?auto=compress&fm=pjpg",
+      "PublishedAt": "2024-05-13T20:10:25Z",
+      "Content": "Today, Open AI announced its latest artificial intelligence model, GPT-4o, which can converse with users in real-time via voice, vision, and text. The revolutionary product is being compared online t… [+2863 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/05/the-justice-league-in-the-dceu.jpg",
       "PublishedAt": "2024-05-12T22:40:03Z",
       "Content": "Summary\r\n<ul><li> DCU's upcoming releases focus on lesser-known characters, but iconic figures like Superman and Batman will still play central roles. </li><li> Aquaman's absence from the DCU slate h… [+5381 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (Associated Press)",
-      "Title": "Crews prepare for controlled demolition as cleanup continues at Baltimore bridge collapse site",
-      "Description": "Baltimore, Maryland — After weeks of preparation, crews are scheduled to conduct a controlled demolition Sunday evening to break down the largest remaining span of the collapsed Francis Scott Key Bridge in Maryland, which came crashing down under the impact o…",
-      "Url": "https://www.voanews.com/a/crews-prepare-for-controlled-demolition-as-cleanup-continues-at-baltimore-bridge-collapse-site/7608183.html",
-      "UrlToImage": "https://gdb.voanews.com/0A8052CA-3FDF-48D7-A779-B7AE7B9A3D85.jpg",
-      "PublishedAt": "2024-05-12T21:21:37Z",
-      "Content": "Baltimore, Maryland  After weeks of preparation, crews are scheduled to conduct a controlled demolition Sunday evening to break down the largest remaining span of the collapsed Francis Scott Key Brid… [+3705 chars]"
     }
   ]
 }
