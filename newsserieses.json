@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 934,
+  "TotalResults": 935,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Belén Liotti",
+      "Title": "Salió el tráiler oficial de la temporada 2 de “House of the Dragon”",
+      "Description": "HBO lanzó este martes el tráiler oficial de la segunda temporada de “House of the Dragon”, serie ambientada 200 años antes de los acontecimientos de la popular serie “Game of Thrones”.",
+      "Url": "https://cnnespanol.cnn.com/2024/05/14/trailer-oficial-temporada-2-house-dragon-trax/",
+      "UrlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/tom-glynn-carney.webp",
+      "PublishedAt": "2024-05-14T22:57:39Z",
+      "Content": "(CNN) -- Se acerca la segunda temporada de House of the Dragon y es una guerra.\r\nHBO (que es propiedad de la empresa matriz de CNN, Warner Bros. Discovery) lanzó este martes el tráiler oficial de la … [+1077 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/36614d/p_644729979tm-2/840_560.jpeg",
       "PublishedAt": "2024-05-14T12:15:23Z",
       "Content": "Esta misma semana, se estrena la serie más esperada por las amantes de la época de la Regencia de Inglaterra. Esta es Los Bridgerton que, desde la primera temporada, encontró un público fiel que se b… [+1748 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Irene Ingelmo",
-      "Title": "Jonathan Bailey ha reutilizado su increíble esmoquin de los Globos de Oro para la premiere de Los Bridgerton 3",
-      "Description": "Entre las muchas razones por las que estamos deseando ver lo nuevo de Los Bridgerton, Jonathan Bailey es una de las principales. El actor fue el protagonista de la segunda temporada, que giraba en torno a Anthony Bridgerton, el mayor de los hijos del vizconde…",
-      "Url": "https://www.revistagq.com/articulo/jonathan-bailey-bridgerton-3-premier-look-esmoquin-blanco-globos-de-oro",
-      "UrlToImage": "https://media.revistagq.com/photos/66435145d334459cd6997033/16:9/w_1280,c_limit/2152319265",
-      "PublishedAt": "2024-05-14T12:14:46Z",
-      "Content": "Entre las muchas razones por las que estamos deseando ver lo nuevo de Los Bridgerton, Jonathan Bailey es una de las principales. El actor fue el protagonista de la segunda temporada, que giraba en to… [+2046 chars]"
     }
   ]
 }
