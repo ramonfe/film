@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 933,
+  "TotalResults": 934,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Bridgerton: los looks de los protagonistas y la actriz que se llevó todas las miradas",
+      "Description": "Con el estreno de la tercera temporada de la serie de Netflix cada vez más cerca, el elenco se vistió de gala para la gran premiere que se realizó anoche en Nueva York",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/bridgerton-los-looks-de-los-protagonistas-y-la-actriz-que-se-llevo-todas-las-miradas-nid14052024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/luke-newton-y-nicola-coughlan-anoche-en-nueva-DMWOGELKGZEHJH7CJCBFHY3OQQ.jpg?auth=97abfeaeb4bad64c2f45bb722f06830fc4d6b491b59404dd38f027c6c101c23b&width=768&height=512&quality=70&smart=false&focal=1075,545",
+      "PublishedAt": "2024-05-14T21:02:06Z",
+      "Content": "© Copyright 2024 SA LA NACION | Todos los derechos reservados. Dirección Nacional del Derecho de Autor DNDA - EXPEDIENTE DNDA (renovación) RL-2023-95334553-APN-DNDA#MJ.Queda prohibida la reproducción… [+36 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media.revistagq.com/photos/66435145d334459cd6997033/16:9/w_1280,c_limit/2152319265",
       "PublishedAt": "2024-05-14T12:14:46Z",
       "Content": "Entre las muchas razones por las que estamos deseando ver lo nuevo de Los Bridgerton, Jonathan Bailey es una de las principales. El actor fue el protagonista de la segunda temporada, que giraba en to… [+2046 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Revistagq.com"
-      },
-      "Author": "Guillermina Carro",
-      "Title": "Qué es Tapie de Netflix, la mejor serie internacional del año según la academia británica de tv",
-      "Description": "Si has visto la lista de ganadores de los BAFTA de la televisión, habrás visto también que la serie Tapie de Netflix se llevó el premio a mejor show internacional superando así a éxitos mundiales como Succession, The Bear o The last of us. Sin embargo, es tam…",
-      "Url": "https://www.revistagq.com/articulo/barnard-tapie-netflix-serie-bafta",
-      "UrlToImage": "https://media.revistagq.com/photos/66434f14144a03e2730e8674/16:9/w_1280,c_limit/W_105_Unit_01403.jpg,W_105_Unit_01403.jpg",
-      "PublishedAt": "2024-05-14T11:48:40Z",
-      "Content": "Si has visto la lista de ganadores de los BAFTA de la televisión, habrás visto también que la serie Tapie de Netflix se llevó el premio a mejor show internacional superando así a éxitos mundiales com… [+2375 chars]"
     }
   ]
 }
