@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 937,
+  "TotalResults": 938,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "Actor de ‘La Casa de Papel’ está en Puebla: ¿Qué está haciendo ‘Berlín’ en México?",
+      "Description": "Pedro Alonso Ochoro, actor que interpreta a 'Berlín' en la serie 'La Casa de Papel' de Netflix se encuentra en México actualmente.",
+      "Url": "https://www.elfinanciero.com.mx/entretenimiento/2024/05/14/pedro-alonso-ochoro-en-mexico-que-serie-esta-grabando-y-que-lugares-visito/",
+      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/HTTCbNsxQQ9quvKwaVlc1n7gBfo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/I5ANP24EPNHTROY7JCSZIHVE5M.jpg",
+      "PublishedAt": "2024-05-15T04:21:17Z",
+      "Content": "Pedro Alonso Ochoro, actor que interpretó a Berlín en La Casa de Papel de Netflix, se encuentra en México desde hace unos días y visitó diferentes puntos de nuestro país como la alcaldía Coyoacán, pe… [+1844 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/8118b1/spider-man-noir-serie-1-/840_560.jpeg",
       "PublishedAt": "2024-05-14T13:25:55Z",
       "Content": "Sabemos desde hace un año que existe un proyecto sobre Spider-Man Noir que cristalizará en forma de una serie para Amazon Prime Video. La particular versión del trepamuros en blanco y negro fue inter… [+2244 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Netflix decora las paradas de Tussam para celebrar el estreno de Los Bridgerton",
-      "Description": "Los Bridgerton están a pocos días de estrenar temporada en Netflix. Esta vez vendrá dividida en dos partes: una se estrenará el 16 de mayo y la otra el 13 de junio. Y, a pocos días de ver los nuevos episodios de una de las series más alabadas por la crítica, …",
-      "Url": "https://www.abc.es/sevilla/ciudad/netflix-decora-paradas-tussam-celebrar-estreno-bridgerton-20240514143821-nts.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2024/05/14/WhatsAppImage2024-05-14at09.44.03-koLI-U60246984597439F-1200x840@diario_abc.jpeg",
-      "PublishedAt": "2024-05-14T12:38:22Z",
-      "Content": "Los Bridgerton están a pocos días de estrenar temporada en Netflix. Esta vez vendrá dividida en dos partes: una se estrenará el 16 de mayo y la otra el 13 de junio. Y, a pocos días de ver los nuevos … [+1210 chars]"
     }
   ]
 }
