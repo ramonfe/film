@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 880,
+  "TotalResults": 881,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Dan Zinski",
+      "Title": "Brad Pitts $300M+ Formula One Movie Reportedly Sets IMAX Release Date",
+      "Description": "Brad Pitt's $300 million-plus Apple-produced Formula One movie reportedly sets a summer release date in the increasingly popular IMAX format.",
+      "Url": "https://screenrant.com/brad-pitt-formula-one-movie-release-date-imax/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/05/brad-pitt-in-once-upon-a-time-in-hollywood.jpg",
+      "PublishedAt": "2024-05-16T16:02:57Z",
+      "Content": "Summary\r\n<ul><li>\r\n Brad Pitt's big-budget Formula One movie gets a release date in IMAX on June 27, 2025.\r\n </li><li>\r\n Apple spared no expense in making this film a reality, promising a thrilling c… [+2739 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4303451-ps-plus-catalog-may.jpg",
       "PublishedAt": "2024-05-15T17:02:00Z",
       "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Matt Fowler",
-      "Title": "Upcoming New Marvel Movies for 2024: Release Dates for Phase 5 and 6",
-      "Description": "Here's a look at every upcoming Marvel movie and TV show we know about -- from Blade to Avengers: Secret Wars and everything in between!",
-      "Url": "https://www.ign.com/articles/upcoming-new-next-marvel-movies-2024-tv-shows-release-dates",
-      "UrlToImage": "https://assets-prd.ignimgs.com/2023/09/07/upcomingmarveltvmovies-blogroll-1694108851056.jpg?width=1280",
-      "PublishedAt": "2024-05-15T16:37:43Z",
-      "Content": "It might be hard to keep Marvel's upcoming movie and TV slate straight -- it's a lot to absorb, we know, especially after San Diego Comic-Con 2022 revealed much of the roadmap of Phase 4, 5, and 6 of… [+10638 chars]"
     }
   ]
 }
