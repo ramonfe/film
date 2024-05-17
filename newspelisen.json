@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 868,
+  "TotalResults": 869,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Theplaylist.net"
-      },
-      "Author": "Edward Davis",
-      "Title": "‘Supergirl: Woman Of Tomorrow’ From DC Studios Lands Summer 2026 Release",
-      "Description": "DC Studios’ Gods and Monsters, a five-film/five-TV series plan, at least so far, is starting to inch forward. Following the upcoming “Superman,” film set for 2025, Warner Bros. has announced a summer 2026 release date for “Supergirl: World Of Tomorrow.” Now o…",
-      "Url": "https://theplaylist.net/supergirl-woman-of-tomorrow-from-dc-studios-lands-summer-2026-release-20240515/",
-      "UrlToImage": "https://cdn.theplaylist.net/wp-content/uploads/2024/01/29193335/%E2%80%98Supergirl-New-Woman-Of-Steel-Is-%E2%80%98House-Of-The-Dragons-Milly-Alcock.jpg",
-      "PublishedAt": "2024-05-15T12:58:30Z",
-      "Content": "DC Studios Gods and Monsters, a five-film/five-TV series plan, at least so far, is starting to inch forward. Following the upcoming Superman, film set for 2025, Warner Bros. has announced a summer 20… [+2067 chars]"
     }
   ]
 }
