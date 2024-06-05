@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "iMore"
+      },
+      "Author": "oliver@monkeymanmedia.com (Oliver Haslam)",
+      "Title": "Netflix is ditching support for these older Apple TV streaming boxes — upgrade before the next binge-worthy show premieres",
+      "Description": "Netflix has announced that it will soon end support for the 2nd and 3rd generation Apple TVs.",
+      "Url": "https://www.imore.com/music-movies-tv/apple-tv-4k/netflix-is-ditching-support-for-these-older-apple-tv-streaming-boxes-upgrade-before-the-next-binge-worthy-show-premieres",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/L7LPKbvufxrVFDZv3nEq4V-1200-80.jpg",
+      "PublishedAt": "2024-06-04T12:39:58Z",
+      "Content": "Netflix fans who happen to watch their favorite TV shows via 2nd and 3rd-generation Apple TVs might need to consider upgrading to a newer model after the streamer warned that it will drop support for… [+1488 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20240520_WST_507997_The-CW-ESPN.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2024-05-20T15:32:29Z",
       "Content": "Having already acquired several sports properties, The CW may turn its attention to soccer. Nexstar Media Groups broadcast TV channel had previously been reserved for TV shows, movies, and news progr… [+3646 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Fast Company"
-      },
-      "Author": "Reuters",
-      "Title": "How Google, Netflix, and Warner Bros.’s ad tech stole the show from celebrities at TV upfront",
-      "Description": "Television “upfront” advertiser presentations this week in New York City were hardly about TV at all.\n\n\n\nThe annual week-long affair where media executives have traditionally pre-sold TV advertising featured many familiar trappings: pop stars Alicia Keys and …",
-      "Url": "https://www.fastcompany.com/91127117/how-google-netflix-warner-bros-s-ad-tech-stole-show-from-celebrities-tv-upfront",
-      "UrlToImage": "https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit/wp-cms-2/2024/05/2024-05-17T104450Z_1_LYNXMPEK4G0CH_RTROPTP_4_TELEVISION-ADVERTISING-UPFRONT.jpg",
-      "PublishedAt": "2024-05-17T13:02:59Z",
-      "Content": "Television upfront advertiser presentations this week in New York City were hardly about TV at all.\r\nThe annual week-long affair where media executives have traditionally pre-sold TV advertising feat… [+3420 chars]"
     }
   ]
 }
