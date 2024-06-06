@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 894,
+  "TotalResults": 895,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.mos.cms.futurecdn.net/5GVRsah2jrdPaEL463AKZW-1200-80.jpg",
       "PublishedAt": "2024-06-04T17:53:32Z",
       "Content": "Imitation is the sincerest form of flattery, but more importantly it's the path to boffo box office returns. I'm building and running my own movie studio in Blockbuster Inc\r\n, and with all of the fil… [+5793 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Time Out"
-      },
-      "Author": "Primary Author: Anna Rahmanan",
-      "Title": "The Music Box will temporarily close for renovations this summer",
-      "Description": "The iconic movie theater will shut down for four weeks starting in August.",
-      "Url": "https://www.timeout.com/chicago/news/the-music-box-will-temporarily-close-for-renovations-this-summer-060424",
-      "UrlToImage": "https://media.timeout.com/images/106142041/image.jpg",
-      "PublishedAt": "2024-06-04T17:49:07Z",
-      "Content": "Earlier this week, the legendary Music Box Theater at 3733 N. Southport Ave announced that, as part of its 95th birthday celebration, it will shut down for part of the summer to undergo massive repai… [+1683 chars]"
     }
   ]
 }
