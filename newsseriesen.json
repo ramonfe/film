@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fast Company"
+      },
+      "Author": "joshuachristensen",
+      "Title": "This comedy streamer came back from the brink stronger—and funnier—than ever",
+      "Description": "Improv’s golden rule is never say no. Performers, generally, have to roll with whatever premise their scene partners have introduced. But Sam Reich knows that what works for improv doesn’t always work for business. In his nearly 20 years at Dropout (formerly …",
+      "Url": "https://www.fastcompany.com/91136741/dropout-rebrand-collegehumor-sam-reich",
+      "UrlToImage": "https://images.fastcompany.com/image/upload/f_auto,q_auto,c_fit/wp-cms-2/2024/06/p-1-91136741-how-dropout-competes.jpg",
+      "PublishedAt": "2024-06-06T20:38:46Z",
+      "Content": "Improvs golden rule is never say no. Performers, generally, have to roll with whatever premise their scene partners have introduced. But Sam Reich knows that what works for improv doesnt always work … [+6924 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.tweaktown.com/news/9/8/98464_01_apple-tv-plus-sci-fi-drama-dark-matter-beats-fallout-to-the-top-of-streaming-charts_full.jpg",
       "PublishedAt": "2024-05-22T18:00:02Z",
       "Content": "The latest hit to land on the Apple TV Plus streaming service appears to be Dark Matter, a sci-fi show that's based on a best-selling book of the same name by Black Crouch and starring Joel Edgerton … [+1284 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HYPEBEAST"
-      },
-      "Author": "info@hypebeast.com (Hypebeast)",
-      "Title": "Apple TV+ Considers Performance-Based Pay for Hollywood Stars",
-      "Description": "Apple TV+ is exploring a new compensation model for actors and production staff that ties pay to the success of a show or movie. An internal document reveals that this performance-based pay would consider metrics like subscriber growth, viewing time and produ…",
-      "Url": "https://hypebeast.com/2024/5/apple-tv-considers-performance-based-pay-for-hollywood-stars-info",
-      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F05%2F22%2Fapple-tv-considers-performance-based-pay-for-hollywood-stars-info-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-      "PublishedAt": "2024-05-22T09:34:04Z",
-      "Content": "Apple TV+ is exploring a new compensation model for actors and production staff that ties pay to the success of a show or movie. An internal document reveals that this performance-based pay would con… [+1105 chars]"
     }
   ]
 }
