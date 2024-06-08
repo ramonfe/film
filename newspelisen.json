@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 928,
+  "TotalResults": 929,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "msmash",
+      "Title": "A 27-Year Old Tamagotchi Mystery Has Been Solved",
+      "Description": "A 27-year old Tamagotchi mystery was solved this week when a collector figured out how to unlock secret characters on the Mothra Tamagotchi, released in Japan in 1997. From a report: A Discord user named rhubarb_pie found out how to unlock the \"Moll & Lora\" t…",
+      "Url": "https://news.slashdot.org/story/24/06/07/1813219/a-27-year-old-tamagotchi-mystery-has-been-solved",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/news_64.png",
+      "PublishedAt": "2024-06-07T18:12:00Z",
+      "Content": "A Discord user named rhubarb_pie found out how to unlock the \"Moll &amp; Lora\" twins as playable characters, which were previously seen in the handheld pet-raising-simulator as medical nurses who hea… [+1242 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f947dfb6a3a8458119bda7bd3d1d13e.jpg",
       "PublishedAt": "2024-06-06T22:00:00Z",
       "Content": "Spellbound is the latest film from Skydance Animation, led by former head of Pixar John Lasseter, and it features an incredible voice cast including Rachel Zegler, John Lithgow, Jenifer Lewis, Tituss… [+524 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "deadline.com",
-      "Title": "‘Wallace & Gromit’ Netflix Movie Gets Title, Unveils Voiceover Cast",
-      "Description": "As part of Netflix’s NEXT Animation splash, the first images, title and voiceover cast for Aardman’s new Wallace & Gromit movie was announced. Release date is this winter. Titled, Wallace & Gromit: Vengeance Most Fowl, the new Nick Park and Merlin Crossingham…",
-      "Url": "https://biztoc.com/x/b5909e056075867d",
-      "UrlToImage": "https://c.biztoc.com/p/b5909e056075867d/s.webp",
-      "PublishedAt": "2024-06-06T21:10:07Z",
-      "Content": "As part of Netflixs NEXT Animation splash, the first images, title and voiceover cast for Aardmans new Wallace &amp; Gromit movie was announced. Release date is this winter.Titled, Wallace &amp; Grom… [+311 chars]"
     }
   ]
 }
