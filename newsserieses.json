@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 896,
+  "TotalResults": 897,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Perfil.com"
+      },
+      "Author": "Lara Vieytes",
+      "Title": "De la pantalla chica a Netflix: uno de los juegos más populares tendrá su serie animada",
+      "Description": "La plataforma sigue apostando a las series sobre videojuegos. Leer más",
+      "Url": "https://caras.perfil.com/noticias/internacional/netflix-uno-de-los-juegos-mas-populares-tendra-su-serie-animada.phtml",
+      "UrlToImage": "https://fotos.perfil.com/2024/06/07/trim/1140/641/minecraft-x-netflix-1816100.jpg",
+      "PublishedAt": "2024-06-07T23:04:47Z",
+      "Content": "Se cumplen el aniversario número 15 del estreno de uno de los videojuegos más conocidos del mundo, Minecraft. Este juego interactivo de construcción, que cuenta con un modo de supervivencia, es uno d… [+957 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://sm.ign.com/t/ign_es/news/b/baby-reind/baby-reindeers-real-martha-hits-netflix-with-170-million-def_b3cb.1200.jpg",
       "PublishedAt": "2024-06-07T09:30:26Z",
       "Content": "Fiona Harvey, la mujer en la que se inspira la acosadora de Mi reno de peluche, el sorprendente éxito de Netflix, ha demandado a la plataforma de streaming por difamación.\r\nSorprendentemente, Richard… [+3057 chars]"
-    },
-    {
-      "Source": {
-        "Id": "rt",
-        "Name": "RT"
-      },
-      "Author": "RT en Español\n , RT en Español",
-      "Title": "Mujer que asegura inspiró la serie 'Baby Reindeer' demanda a Netflix por una multimillonaria suma",
-      "Description": "Fiona Harvey ha negado en repetidas ocasiones ser una acosadora, así como las afirmaciones de que envió a Richard Gadd 41.000 correos electrónicos y cientos de mensajes de voz.",
-      "Url": "https://actualidad.rt.com/actualidad/512143-mujer-asegura-inspiro-serie-baby-reindeer-demanda-netflix",
-      "UrlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2024.06/article/6662d06959bf5b7b0b060e42.jpg",
-      "PublishedAt": "2024-06-07T09:29:44Z",
-      "Content": "Fiona Harvey, la mujer que afirma ser la inspiración detrás del personaje de Martha Scott en la exitosa serie de Netflix 'Baby Reindeer', ha presentado el jueves una demanda por 170 millones de dólar… [+2383 chars]"
     }
   ]
 }
