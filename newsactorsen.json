@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 818,
+  "TotalResults": 820,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "etimes.in",
+      "Title": "Govinda and his son groove to the iconic Coolie No.1 song: video inside",
+      "Description": "Govind is an evergreen actor in Bollywood celebrated for his exceptional dance moves and larger-than-life performances. ​A video recently appeared on social media showing Govinda dancing and having a great time with his son and some friends to the song \"Goriy…",
+      "Url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-and-his-son-groove-to-the-iconic-coolie-no-1-song-video-inside/articleshow/110894515.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-110894515,width-1070,height-580,imgsize-155038,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2024-06-11T06:17:06Z",
+      "Content": "Amala Paul's stunning saree looks"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://variety.com/wp-content/uploads/2024/06/Black-Butterflies.jpg?w=1000&h=563&crop=1",
       "PublishedAt": "2024-06-10T06:00:43Z",
       "Content": "Twelve-time Grammy-winning Panamanian musician, actor and human rights activist Ruben Blades has provided an original song for the Spanish-Panamanian animated climate change movie “Black Butterflies”… [+2616 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Jennifer Lawrence Wears Zendaya's 'I Told Ya' Shirt from 'Challengers' Movie - Buy Your Own Now!",
-      "Description": "Jennifer Lawrence is clearly among the fans of Zendaya‘s recent hit movie Challengers! The 33-year-old Oscar-winning actress was spotted wearing the iconic “I Told Ya” t-shirt while stepping out on Thursday (June 6) in New York City. The “I Told Ya” shirt was…",
-      "Url": "https://www.justjared.com/2024/06/09/jennifer-lawrence-wears-zendayas-i-told-ya-shirt-from-challengers-movie-buy-your-own-now/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/06/jlaw-toldya.jpg",
-      "PublishedAt": "2024-06-10T01:05:43Z",
-      "Content": "Jennifer Lawrence is clearly among the fans of Zendaya‘s recent hit movie Challengers!\r\nThe 33-year-old Oscar-winning actress was spotted wearing the iconic “I Told Ya” t-shirt while stepping out on … [+684 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "IndieWire"
-      },
-      "Author": "Hrichlin93",
-      "Title": "Geena Davis Says Diversity and Inclusion Are ‘Inherently Not Controversial’: ‘You Should Be Able to Watch a Movie and See Yourself Reflected Back’",
-      "Description": "The actress and activist responsible for the Institute on Gender in Media is helping host another year of Arkansas' Bentonville Film Festival this week.",
-      "Url": "https://www.indiewire.com/news/festivals/geena-davis-calls-dei-intiatives-inherently-not-controversial-1235014139/",
-      "UrlToImage": "https://www.indiewire.com/wp-content/uploads/2024/06/GettyImages-1405295162.jpg?w=650",
-      "PublishedAt": "2024-06-09T23:00:00Z",
-      "Content": "From June 10 to June 16, actress and activistGeena Davis, alongside festival director Wendy Guerrero and many others, will be hosting the 10th anniversary of Arkansas’ Bentonville Film Festival. This… [+2125 chars]"
     }
   ]
 }
