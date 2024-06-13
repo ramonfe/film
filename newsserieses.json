@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 845,
+  "TotalResults": 846,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Applesfera.com"
+      },
+      "Author": "Álvaro García M.",
+      "Title": "Avalancha de estrenos: primer vistazo a las temporadas 2 de 'Severance', 'Silo' y más novedades de Apple TV+",
+      "Description": "La WWDC 2024 de Apple no sólo nos deparó la introducción de Apple Intelligence a iOS 18 o macOS Sequoia. También sirvió en primera instancia para lanzar un trailer con imágenes inéditas de algunas de las mejores series de Apple TV+ y que se estrenarán este mi…",
+      "Url": "https://www.applesfera.com/servicios-apple/avalancha-estrenos-primer-vistazo-a-temporadas-2-severance-silo-novedades-apple-tv",
+      "UrlToImage": "https://i.blogs.es/c34a1c/silo-y-severance/840_560.jpeg",
+      "PublishedAt": "2024-06-12T15:01:29Z",
+      "Content": "La WWDC 2024 de Apple no sólo nos deparó la introducción de Apple Intelligence a iOS 18 o macOS Sequoia. También sirvió en primera instancia para lanzar un trailer con imágenes inéditas de algunas de… [+4666 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.elotrolado.net/headers/upload/1/0/10879e_arcane_news.jpg?1200",
       "PublishedAt": "2024-06-11T17:05:13Z",
       "Content": "Netflix y Riot Games han mostrado el tráiler de la segunda temporada de Arcane, la serie animada ambientada en el universo de League of Legends, y anunciado que será la última. Tras el éxito de la pr… [+2085 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Daniel García",
-      "Title": "Estas 9 \"novedades\" de iOS 18 ya estaban antes en Android",
-      "Description": "Desde el reciente anuncio de iOS 18 en el pasado evento de Apple WWDC 2024, todo el universo de Apple y su competencia ha podido ver todo lo que llegará a este sistema operativo. Se trata de una actualización de altos vuelos, y hará que por fin lleguen numero…",
-      "Url": "https://www.lavanguardia.com/andro4all/android/estas-8-novedades-de-ios-18-ya-estaban-antes-en-android",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/06/pantalla-de-inicio-de-ios-18.jpeg?width=1200",
-      "PublishedAt": "2024-06-11T17:01:10Z",
-      "Content": "Desde el reciente anuncio de iOS 18 en el pasado evento de Apple WWDC 2024, todo el universo de Apple y su competencia ha podido ver todo lo que llegará a este sistema operativo. Se trata de una actu… [+5032 chars]"
     }
   ]
 }
