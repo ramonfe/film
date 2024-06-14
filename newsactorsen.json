@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 857,
+  "TotalResults": 858,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-12T16:12:31Z",
       "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Before Johnny Depp Was Cast in EDWARD SCISSORHANDS Tom Cruise, Michael Jackson, and More Were Considered",
-      "Description": "Johnny Depp’s acting career exploded after he starred in Tim Burton’s classic 1990 film Edward Scissorhands, but before he landed the lead role, there were eight other actors that were considered. The role could’ve easily gone to another actor, and the list o…",
-      "Url": "https://geektyrant.com/news/before-johnny-depp-was-cast-in-edward-scissorhands-eight-other-actors-were-considered-for-the-role",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/651f9824f0cd9f50aaed6cc5/1718208005341/before-johnny-depp-was-cast-in-edward-scissorhands-eight-other-actors-were-considered-for-the-role.jpg?format=1500w",
-      "PublishedAt": "2024-06-12T16:00:00Z",
-      "Content": "Johnny Depps acting career exploded after he starred in Tim Burtons classic 1990 film Edward Scissorhands, but before he landed the lead role, there were eight other actors that were considered. The … [+4052 chars]"
     }
   ]
 }
