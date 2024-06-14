@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 745,
+  "TotalResults": 746,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Netflix da la fecha de estreno de la temporada final de 'Élite'",
+      "Description": "Casi siete años han pasado desde que Netflix anunciara su segunda serie española . La primera fue 'Las chicas del cable', un drama de época de los creadores de 'Velvet' , cuyo final llegó en verano de 2020. La segunda fue 'Élite' , cuyo principal reclamo era …",
+      "Url": "https://www.abc.es/play/series/noticias/netflix-fecha-estreno-temporada-final-elite-20240613155816-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/06/13/elite-final-temporada-8-k0h--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-06-13T13:58:17Z",
+      "Content": "Casi siete años han pasado desde que Netflix anunciara su segunda serie española. La primera fue 'Las chicas del cable', un drama de 'época' de los creadores de 'Velvet', cuyo final llegó en verano d… [+1878 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/c34a1c/silo-y-severance/840_560.jpeg",
       "PublishedAt": "2024-06-12T15:01:29Z",
       "Content": "La WWDC 2024 de Apple no sólo nos deparó la introducción de Apple Intelligence a iOS 18 o macOS Sequoia. También sirvió en primera instancia para lanzar un trailer con imágenes inéditas de algunas de… [+4666 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Kevin Spacey llora en TV, admite que fue “demasiado tocón” y asegura estar arruinado: \"No sé dónde voy a vivir\"",
-      "Description": "Kevin Spacey ha reaparecido ante las cámaras con una entrevista en plató para el periodista Piers Morgan, tras las acusaciones de delitos sexuales que salieron a la luz en 2017. En 2022, fue absuelto de una de las causas, y en 2023 fue declarado no culpable d…",
-      "Url": "https://www.eldiario.es/vertele/noticias/kevin-spacey-llora-tv-admite-tocon-asegura-arruinado-no-vivir_1_11443516.html",
-      "UrlToImage": "https://static.eldiario.es/clip/0e396bed-f98e-4fa8-a303-3ea15858ef58_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-06-12T14:20:52Z",
-      "Content": "Kevin Spacey ha reaparecido ante las cámaras con una entrevista en plató para el periodista Piers Morgan, tras las acusaciones de delitos sexuales que salieron a la luz en 2017. En 2022, fue absuelto… [+4760 chars]"
     }
   ]
 }
