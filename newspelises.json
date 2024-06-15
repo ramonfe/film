@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 107,
+  "TotalResults": 108,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Laura García Higueras",
+      "Title": "Annie Ernaux: \"Ganar el Nobel de Literatura no ha hecho que me sienta menos tránsfuga de clase\"",
+      "Description": "Jueves. 12 de la mañana. 28 grados. Los aledaños del madrileño Cine Doré empiezan a llenarse de personas, en su mayoría universitarias, inquietas, esperanzadas, nerviosas, entusiastas. Quedan más de cinco horas para que abra la taquilla y puedan hacerse con a…",
+      "Url": "https://www.eldiario.es/cultura/libros/annie-ernaux-ganar-nobel-literatura-no-hecho-sienta-transfuga-clase_1_11449937.html",
+      "UrlToImage": "https://static.eldiario.es/clip/dcf13a9f-a4d2-4f01-b1d4-1710d7134a74_facebook-watermarked-aspect-ratio_default_0_x2013y611.jpg",
+      "PublishedAt": "2024-06-14T20:27:46Z",
+      "Content": "Jueves. 12 de la mañana. 28 grados. Los aledaños del madrileño Cine Doré empiezan a llenarse de personas, en su mayoría universitarias, inquietas, esperanzadas, nerviosas, entusiastas. Quedan más de … [+1048 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/06/03/cine-archivo-U05868148355Mub-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-06-03T09:55:02Z",
       "Content": "Las salas de Valencia vuelve a sumarse a la Fiesta del Cine 2024, la campaña en la que los espectadores de toda España pueden disfrutar de las películas de la cartelera con las entradas a 3,50 euros.… [+1042 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "EFE",
-      "Title": "La Fiesta del Cine vuelve con precios reducidos para revitalizar una taquilla alicaída",
-      "Description": "Con la taquilla a medio gas y la perspectiva de un verano complicado, la Fiesta del Cine vuelve la próxima semana ofreciendo entradas a precios reducidos con el fin de llenar las salas en tiempos en que la batalla por la atención del espectador es cada vez má…",
-      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20240603/fiesta-cine-precios-103239618",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/c21e96ae-951a-4676-bb46-2a6c9c081eb8_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-06-03T06:18:28Z",
-      "Content": "Con la taquilla a medio gas y la perspectiva de un verano complicado, la Fiesta del Cine vuelve la próxima semana ofreciendo entradas a precios reducidos con el fin de llenar las salas en tiempos en … [+4215 chars]"
     }
   ]
 }
