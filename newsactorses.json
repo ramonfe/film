@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 724,
+  "TotalResults": 725,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Muere Seven, el perro que luchó contra los zombis en 'The Walking Dead'",
+      "Description": "Tristeza absoluta entre la familia de 'The Walking Dead'. La mítica serie apocalíptica , que acabó en 2022 tras once temporadas, ha perdido esta semana a uno de sus personajes, sin duda, más entrañables. Se trata del perro que en las últimas temporadas estuvo…",
+      "Url": "https://www.abc.es/recreo/muere-seven-perro-lucho-zombis-the-walking-20240615155908-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/recreo/2024/06/15/seven-U85421343032wUP-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-06-15T13:59:08Z",
+      "Content": "Tristeza absoluta entre la familia de 'The Walking Dead'. La mítica serie apocalíptica, que acabó en 2022 tras once temporadas, ha perdido esta semana a uno de sus personajes, sin duda, más entrañabl… [+1192 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/06/12/quien-es-fernando-pena-polemico-asesor-fiscal-imanol-arias-ana-duato-U88735435306VIA-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-06-14T02:27:19Z",
       "Content": "¿Quién es este Fernando Peña, más allá de conocerse ahora que era el cerebro del 'caso Nummaria' y el hombre que finalmente acercaría a Imanol Arias y Ana Duato al banquillo de los acusados? Pues se … [+3392 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Héctor Alterio: «Lo paso bien en escena... Es lo único que puedo y sé hacer»",
-      "Description": "En septiembre de 1974, un actor argentino llamado Héctor Alterio viajó a San Sebastián para presentar en el festival de cine de aquel año -que ganó, por cierto, 'Malas tierras', primer largometraje de Terrence Malick - la película 'La tregua', dirigida por Se…",
-      "Url": "https://www.abc.es/cultura/teatros/hector-alterio-paso-bien-escena-unico-puedo-20240613172210-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/cultura/2024/06/13/HectorAlterio-U36752364728OUq-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-06-14T02:18:04Z",
-      "Content": "En septiembre de 1974, un actor argentino llamado Héctor Alterio viajó a San Sebastián para presentar en el festival de cine de aquel año -que ganó, por cierto, 'Malas tierras', primer largometraje d… [+618 chars]"
     }
   ]
 }
