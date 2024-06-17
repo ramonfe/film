@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 804,
+  "TotalResults": 805,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El apartamento neoyorquino de Jessica Chastain, a la venta por 7 millones de euros",
+      "Description": "Bradley Cooper estuvo nominado al Oscar por su interpretación del compositor Leonard Bernstein en el biopic Maestro . En esa cinta producida por Netflix, muchas de las escenas suceden en un impresionante apartamento de lujo en Nueva York, la casa del director…",
+      "Url": "https://www.abc.es/summum/living/casas/apartamento-neoyorquino-jessica-chastain-venta-millones-euros-20240616082350-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/summum/2024/06/04/principalchastainok-U77036145052uyL-1024x512@diario_abc.jpeg",
+      "PublishedAt": "2024-06-16T06:23:51Z",
+      "Content": "Bradley Cooper estuvo nominado al Oscar por su interpretación del compositor Leonard Bernstein en el biopic Maestro. En esa cinta producida por Netflix, muchas de las escenas suceden en un impresiona… [+5980 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/14fbff/pexels-jeshoots-com-147458-1201996/840_560.jpeg",
       "PublishedAt": "2024-06-14T12:06:00Z",
       "Content": "Aunque en muchas ocasiones el precio de las Smart TVs 4K es muy tentador, hay otros televisores que no cuentan con un sistema operativo ni con una resolución 4K y que su precio es extraordinariamente… [+2023 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "El creador de 'The Boys' avanza cómo será la última temporada y se abre a un spin-off con Jeffrey Dean Morgan",
-      "Description": "Tras confirmarse que The Boys solo tendrá cinco temporadas (la cuarta se estrenó este jueves en Amazon Prime Video), el creador de la serie ha hecho algunas revelaciones sobre esos capítulos finales con los que se pondrá el broche de oro a la historia de Carn…",
-      "Url": "https://www.eldiario.es/vertele/series/the-boys-ultima-temporada-5-spin-off-jeffrey-dean-morgan_1_11449160.html",
-      "UrlToImage": "https://static.eldiario.es/clip/2b4e1320-a593-4904-864b-af9aab374c52_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-06-14T12:04:30Z",
-      "Content": "Tras confirmarse que The Boyssolo tendrá cinco temporadas (la cuarta se estrenó este jueves en Amazon Prime Video), el creador de la serie ha hecho algunas revelaciones sobre esos capítulos finales c… [+2177 chars]"
     }
   ]
 }
