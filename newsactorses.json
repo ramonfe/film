@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 704,
+  "TotalResults": 705,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'Clanes', o la doble vida de una villa en la que manda el narcotráfico",
+      "Description": "El narcotráfico gallego lleva años inspirando rodajes. Hace tiempo que no impacta ver series que toman las Rías Baixas como escenario para narrar historias que hablan de crimen, poder y ambición. Pero, según parece, sigue quedando terreno por explorar. 'Clane…",
+      "Url": "https://www.abc.es/espana/galicia/clanes-doble-vida-villa-manda-narcotrafico-20240616185032-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/06/16/clanes_S01_E07_07062023_jaimeolmedo_DSC_5882-U03346032141MFZ-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-06-16T08:33:49Z",
+      "Content": "El narcotráfico gallego lleva años inspirando rodajes. Hace tiempo que no impacta ver series que toman las Rías Baixas como escenario para narrar historias que hablan de crimen, poder y ambición. Per… [+6250 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/63a3ef50-4b81-485e-849f-7e07519355b5_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-06-14T10:27:26Z",
       "Content": "Se acerca el regreso de Betty la fea. El carismático personaje que se hizo popular en todo el mundo hace 25 años vuelve a la pequeña pantalla con una nueva serie que se estrenará en Amazon Prime Vide… [+1026 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Muere Ron Simons, actor de 'Succession' y 'Daredevil', a los 63 años",
-      "Description": "El actor Ron Simons , que ha participado en series de televisión como 'Succession' , 'Daredevil' o 'Ley y orden', ha muerto a los 63 años este pasado miércoles, según informa The Hollywood Reporter. Ganador de cuatro premios Tony en Broadway, Simons nació en …",
-      "Url": "https://www.abc.es/play/television/noticias/muere-ron-simons-actor-succession-daredevil-anos-20240614115905-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/06/14/ron-simons-kB2B--1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-06-14T09:59:05Z",
-      "Content": "El actor Ron Simons, que ha participado en series de televisión como 'Succession', 'Daredevil' o 'Ley y orden', ha muerto a los 63 años este pasado miércoles, según informa The Hollywood Reporter.Gan… [+913 chars]"
     }
   ]
 }
