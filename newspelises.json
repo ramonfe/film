@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 97,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La Fundición vuelve a abrir en el mes de julio con una programación que combina cabaret y comedia",
+      "Description": "Por segunda temporada consecutiva, el teatro La Fundición de Sevilla abre las puertas de su espacio también en el periodo estival con la propuesta y la venta de entradas en su web de los dos espectáculos que compondrán la programación del mes de julio: por un…",
+      "Url": "https://www.abc.es/queplan/sevilla/teatro/fundicion-vuelve-abrir-mes-julio-programacion-combina-20240617123842-nts.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/queplan/2024/06/17/alma-cabaret-kDbH--1024x512@abc.jpg",
+      "PublishedAt": "2024-06-17T10:38:43Z",
+      "Content": "Por segunda temporada consecutiva, el teatro La Fundición de Sevilla abre las puertas de su espacio también en el periodo estival con la propuesta y la venta de entradas en su web de los dos espectác… [+4814 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/06/04/camilo-kc4E--1024x512@diario_abc.jpg",
       "PublishedAt": "2024-06-04T17:41:54Z",
       "Content": "Con su inusual bigote y su particular voz por bandera, Camilo Andrés Echeverry Correa (Medellín, 1994) ha conseguido convertirse en uno de los grandes cantantes de habla hispana. Han pasado ya casi d… [+4903 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"Necesitamos más experiencias cinematográficas\": Denis Villeneuve está decepcionado con que Dune: Parte 2 siga siendo la película más exitosa del año",
-      "Description": "Han pasado ya 6 meses desde que comenzó el 2024 y Dune: Parte 2 sigue siendo la película más exitosa del año. La cinta de Denis Villeneuve ha sido un éxito rotundo tanto en la taquilla como en la crítica, y si bien el director se alegra de que a la gente le h…",
-      "Url": "https://www.vidaextra.com/cine/necesitamos-experiencias-cinematograficas-denis-villeneuve-esta-decepcionado-que-dune-parte-2-siga-siendo-pelicula-exitosa-ano",
-      "UrlToImage": "https://i.blogs.es/3dfe0b/dune-parte-2/840_560.jpeg",
-      "PublishedAt": "2024-06-04T11:30:41Z",
-      "Content": "Han pasado ya 6 meses desde que comenzó el 2024 y Dune: Parte 2 sigue siendo la película más exitosa del año. La cinta de Denis Villeneuve ha sido un éxito rotundo tanto en la taquilla como en la crí… [+1765 chars]"
     }
   ]
 }
