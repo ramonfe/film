@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 922,
+  "TotalResults": 923,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vulture"
+      },
+      "Author": "Zoe Guy",
+      "Title": "Jordan Peele Drops a Cryptic Release Date",
+      "Description": "Jordan Peele has dropped a cryptic release date. There’s nothing scarier than a movie with no details.",
+      "Url": "http://www.vulture.com/article/jordan-peele-new-movie-release-date.html",
+      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/4cd/dd4/173624a40e3ccee24a1470c1555d767b01-jordan-peele-new-movie.1x.rsocial.w1200.jpg",
+      "PublishedAt": "2024-06-17T22:11:20Z",
+      "Content": "Eight-hundred and fifty-eight days, whispers the dead girl from The Ring. Thats how long we have to wait for Jordan Peeles secret new joint, according to a cryptic graphic of a date that the filmmake… [+767 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-17T15:08:13Z",
       "Content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Owen Danoff",
-      "Title": "Serenity Composer David Newman Talks Bringing The Firefly Movies Music To Vinyl For The First Time",
-      "Description": "Composer David Newman talks Firefly's legacy and his score for the 2005 movie Serenity to celebrate the unique soundtrack’s first-ever vinyl release.",
-      "Url": "https://screenrant.com/serenity-firefly-movie-composer-david-newman-interview/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/06/serenity-composer-david-newman-talks-bringing-the-firefly-movie-s-music-to-vinyl-for-the-first-time.jpg",
-      "PublishedAt": "2024-06-17T14:00:10Z",
-      "Content": "Summary\r\n<ul><li>\r\n David Newman's score for the Firefly follow-up movie Serenity is now available for pre-order on vinyl.\r\n </li><li>Screen Rant interviewed Newman about his work on the movie.\r\n </l… [+10654 chars]"
     }
   ]
 }
