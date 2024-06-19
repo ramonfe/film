@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 99,
+  "TotalResults": 100,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "Estos son los cines en los que podrás ver el reestreno de 'Nausicaä del Valle del Viento'",
+      "Description": "Puede que El chico y la garza sea la, hasta ahora, última película del maestro de la animación japonesa Hayao Miyazaki, pero seguimos quedando con la que fue una de sus primeras obras como director, Nausicaä del Valle del Viento, que además dio origen al estu…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/estos-son-los-cines-en-los-que-podras-ver-el-reestreno-de-nausicaa-del-valle-del-viento",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/06/nausicaa-del-valle-del-viento.jpg?width=1200",
+      "PublishedAt": "2024-06-18T11:44:15Z",
+      "Content": "Nausicaä sigue siendo impresionante y muy recomendable hoy día\r\nPuede que El chico y la garza sea la, hasta ahora, última película del maestro de la animación japonesa Hayao Miyazaki, pero seguimos q… [+2908 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/ce41ef/dragon-ball-kai-espana/840_560.jpeg",
       "PublishedAt": "2024-06-06T11:04:38Z",
       "Content": "Ha tardado su tiempo, pero el estreno de Dragon Ball Kai en todo el territorio español será a lo grande en el sentido más literal de la expresión: además de su debut en la plataforma Anime Box, la ve… [+2469 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "TVE y laSexta refrescan la noche de los miércoles con dos estrenos para competir contra 'El 1%' y 'El Marqués'",
-      "Description": "La noche de los miércoles presentará dos nuevas ofertas a partir de la próxima semana. TVE y laSexta lanzan el 12 de junio Lazos de sangre y Apatrullando, respectivamente, para competir en prime time ante El 1% de Antena 3 y El Marqués de Telecinco, los dos t…",
-      "Url": "https://www.eldiario.es/vertele/noticias/tve-lasexta-refrescan-noche-miercoles-estrenos-competir-1-marques-lazos-sangre-apatrullando-jalis-delaserna_1_11426887.html",
-      "UrlToImage": "https://static.eldiario.es/clip/577bec89-6102-4426-af2f-5e425c162bab_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-06-06T10:15:29Z",
-      "Content": "La noche de los miércoles presentará dos nuevas ofertas a partir de la próxima semana. TVE y laSexta lanzan el 12 de junio Lazos de sangre y Apatrullando, respectivamente, para competir en prime time… [+2573 chars]"
     }
   ]
 }
