@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 101,
+  "TotalResults": 102,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Pablo Scarpellini",
+      "Title": "Tiembla Hollywood tras el espejismo de Barbenheimer: batacazos en la taquilla de verano y paro alarmante en los estudios",
+      "Description": "La industria del cine vuelve a un panorama de crisis e incertidumbre, con las salas vacías y cifras de paro alarmantes, y el fracaso de las grandes películas de la campaña de verano no está mejorando la situación Leer",
+      "Url": "https://www.elmundo.es/cultura/cine/2024/06/19/6672b968fdddff76268b4595.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/cc7e94c3bd4ddc96fb9abbc0ad4ef73e/crop/0x0/1200x800/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/19/17187948790133.jpg",
+      "PublishedAt": "2024-06-19T19:32:22Z",
+      "Content": "Hay sensación de crisis de gran calado en Hollywood. El funesto resultado en taquilla del Memorial Day Weekend —el puente largo que tradicionalmente marca el inicio de la temporada veraniega en Estad… [+6364 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2024/06/09/banderas-afp-kWqF--1024x512@diario_abc.jpg",
       "PublishedAt": "2024-06-09T02:35:14Z",
       "Content": "A principio de los 90, con poco más de 30 años, Antonio Banderas hizo un viaje de ida a Estados Unidos que se convirtió en una carrera internacional llena de éxitos. Aquel joven actor es hoy, también… [+5043 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.co"
-      },
-      "Author": "Jessica Vargas A.",
-      "Title": "El nuevo videojuego de Five Nights at Freddy's promete ser aún más aterrador: así es 'Into the Pit'",
-      "Description": "La popular franquicia de videojuegos de terror Five Nights at Freddy's (FNAF) está lista para expandirse una vez más con el lanzamiento de un nuevo título: Into the Pit. Esta nueva entrega promete sumergir a los jugadores en una experiencia aún más aterradora…",
-      "Url": "https://www.xataka.com.co/videojuegos/nuevo-videojuego-five-nights-at-freddys-promete-ser-aterrador-asi-into-the-pit",
-      "UrlToImage": "https://i.blogs.es/ba2014/captura-de-pantalla-2024-06-07-a-la-s-18.01.12/840_560.png",
-      "PublishedAt": "2024-06-08T21:19:28Z",
-      "Content": "La popular franquicia de videojuegos de terror Five Nights at Freddy's(FNAF)está lista para expandirse una vez más con el lanzamiento de un nuevo título:Into the Pit. Esta nueva entrega promete sumer… [+2532 chars]"
     }
   ]
 }
