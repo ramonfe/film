@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 803,
+  "TotalResults": 804,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Josh Campbell",
+      "Title": "‘Rust’ prosecutors intend to paint Alec Baldwin as repeatedly ‘reckless’ while handling firearm, court document shows | CNN",
+      "Description": "Special prosecutors in the upcoming “Rust” shooting trial intend to portray actor and film producer Alec Baldwin as repeatedly flouting safety protocols on the movie set in the days before the fatal shooting of the film’s cinematographer Halyna Hutchins, acco…",
+      "Url": "https://www.cnn.com/2024/06/19/entertainment/rust-prosecutors-alec-baldwin-reckless-handling-firearm/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1245427091.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-06-19T23:53:49Z",
+      "Content": "Special prosecutors in the upcoming Rust shooting trial intend to portray actor and film producer Alec Baldwin as repeatedly flouting safety protocols on the movie set in the days before the fatal sh… [+3302 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.rawstory.com/media-library/the-view-s-joy-behar-l-and-rachel-maddow-r.png?id=52468545&width=1200&height=600&coordinates=0%2C0%2C0%2C50",
       "PublishedAt": "2024-06-18T16:24:06Z",
       "Content": "Companies such as SpaceX, Blue Origin and Sierra Space have developed vehicles with reusable boosters, automated flight systems and lightweight materials to support these deep space missions. Some ev… [+6206 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NDTV News"
-      },
-      "Author": null,
-      "Title": "Nothing Against Muslim Community In Movie \"Hamare Barah\": Bombay High Court",
-      "Description": "Underlining that the Indian public was \"not gullible or silly\", the Bombay High Court on Tuesday said it watched actor Annu Kapoor-starrer \"Hamare Baarah\" movie and found nothing objectionable in it that was against the Quran or the Muslim community.",
-      "Url": "https://www.ndtv.com/india-news/nothing-against-muslim-community-in-movie-hamare-barah-bombay-high-court-5918148",
-      "UrlToImage": "https://c.ndtvimg.com/2024-06/8oejd3ks_hamare-baarah-movie-poster-hamare-barah-movie_625x300_13_June_24.jpeg",
-      "PublishedAt": "2024-06-18T15:56:43Z",
-      "Content": "Underlining that the Indian public was \"not gullible or silly\", the Bombay High Court on Tuesday said it watched actor Annu Kapoor-starrer \"Hamare Baarah\" movie and found nothing objectionable in it … [+2176 chars]"
     }
   ]
 }
