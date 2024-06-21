@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 806,
+  "TotalResults": 807,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-jerusalem-post",
+        "Name": "The Jerusalem Post"
+      },
+      "Author": "BY HANNAH BROWN",
+      "Title": "Shira Haas wins prize at Monte Carlo Festival",
+      "Description": "The series also stars Yousef “Joe” Sweid as a recently widowed therapist who treats patients at night, and Lucy Ayoub as his sisterShira Haas won the Golden Nymph Jury Prize at the 63rd Monte Carlo International Television Festival on Tuesday night for her ro…",
+      "Url": "https://www.jpost.com/israel-news/culture/article-806946",
+      "UrlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/604879",
+      "PublishedAt": "2024-06-20T03:11:10Z",
+      "Content": "Shira Haas won the Golden Nymph Jury Prize at the 63rd Monte Carlo International Television Festival on Tuesday night for her role in the upcoming series Night Therapy, from Yes Studios.\r\nThe series … [+2603 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-18T16:34:46Z",
       "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Raw Story"
-      },
-      "Author": "Travis Gettys",
-      "Title": "'Dagger to his heart': New book reveals celebrity crush Trump can't get over",
-      "Description": "Donald Trump is seemingly obsessed with Will & Grace star Debra Messing, a former NBC colleague turned high-profile critic.Variety co-editor in chief Ramin Setoodeh interviewed the former president extensively in 2021 and 2023 for his book \"Apprentice in Wond…",
-      "Url": "https://www.rawstory.com/debra-messing-trump/",
-      "UrlToImage": "https://www.rawstory.com/media-library/sad-trump.png?id=28870387&width=1200&height=600&coordinates=0%2C26%2C0%2C26",
-      "PublishedAt": "2024-06-18T16:33:20Z",
-      "Content": "Companies such as SpaceX, Blue Origin and Sierra Space have developed vehicles with reusable boosters, automated flight systems and lightweight materials to support these deep space missions. Some ev… [+6206 chars]"
     }
   ]
 }
