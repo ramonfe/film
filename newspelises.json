@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 102,
+  "TotalResults": 103,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hosteltur.com"
+      },
+      "Author": "Hosteltur",
+      "Title": "El nuevo hotel Ibis Styles de Madrid abre sobre el Teatro Maravillas",
+      "Description": "La marca ibis Styles, del grupo francés Accor, sigue creciendo en España con el hotel ibis Styles Madrid Centro Maravillas, ubicado sobre el icónico teatro Maravillas de Malasaña. La apertura se producirá este mes de la mano de AGP Hotels. El ibis Styles Madr…",
+      "Url": "https://www.hosteltur.com/164168_el-nuevo-hotel-ibis-styles-de-madrid-abre-sobre-el-teatro-maravillas.html",
+      "UrlToImage": "https://static.hosteltur.com/app/public/uploads/img/articles/2024/06/20/M_123838_el-teatro-maravillas-de-madrid-se-convierte-en-un-nuevo-hotel-ibis-styles.jpg",
+      "PublishedAt": "2024-06-20T11:14:38Z",
+      "Content": "El ibis Styles Madrid Centro Maravillas cuenta con 64 habitaciones standard y premium, estas últimas inspiradas en los géneros de las etapas principales que vivió el Teatro desde sus inicios: zarzuel… [+1623 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/1e72f2/diseno-sin-titulo/840_560.jpeg",
       "PublishedAt": "2024-06-09T12:31:56Z",
       "Content": "Se habla mucho últimamente de la \"cancelación\" de artistas, es decir, creadores que se convierten en apestados de la industria por declaraciones incorrectas o posicionamientos políticamente mal visto… [+5536 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Antonio Banderas: «Es peligroso educar a los jóvenes en la cultura de lo inmediato»",
-      "Description": "A principio de los 90, con poco más de 30 años, Antonio Banderas hizo un viaje de ida a Estados Unidos que se convirtió en una carrera internacional llena de éxitos. Aquel joven actor es hoy, también, un prestigioso gestor y promotor cultural, con un indiscut…",
-      "Url": "https://www.abc.es/cultura/antonio-banderas-peligroso-educar-jovenes-cultura-inmediato-20240609043513-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2024/06/09/banderas-afp-kWqF--1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-06-09T02:35:14Z",
-      "Content": "A principio de los 90, con poco más de 30 años, Antonio Banderas hizo un viaje de ida a Estados Unidos que se convirtió en una carrera internacional llena de éxitos. Aquel joven actor es hoy, también… [+5043 chars]"
     }
   ]
 }
