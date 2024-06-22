@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 724,
+  "TotalResults": 725,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.jpg?img=https://img.gruporeforma.com/imagenes/960x640/6/748/5747301.jpg&wm=1&ang=0",
       "PublishedAt": "2024-06-20T22:46:49Z",
       "Content": "00 MIN 30 SEG\r\nGrupo REFORMA\r\nCd. de México (20 junio 2024) .-16:44 hrs"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "César Aguilla",
-      "Title": "\"No quiero justicia, quiero venganza\": esto es lo que piensan los actores de House of the Dragon, el gran fenómeno de HBO",
-      "Description": "House of the Dragon ha regresado con una segunda temporada y, tras el primer episodio estrenado, podemos contarles que hablamos con el cast. Ambas facciones se están disputan el reinado de Poniente, con el rey Aegon Targaryen II sentado en el Trono de Hierro,…",
-      "Url": "https://www.xataka.com.mx/cine-y-tv/no-quiero-justicia-quiero-venganza-esto-que-piensan-actores-house-of-the-dragon-gran-fenomeno-hbo",
-      "UrlToImage": "https://i.blogs.es/965386/diseno-sin-titulo-50-/840_560.jpeg",
-      "PublishedAt": "2024-06-20T21:30:38Z",
-      "Content": "House of the Dragon ha regresado con una segunda temporada y, tras el primer episodio estrenado, podemos contarles quehablamos con el cast. Ambas facciones se están disputan el reinado de Poniente, c… [+6839 chars]"
     }
   ]
 }
