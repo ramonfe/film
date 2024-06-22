@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 712,
+  "TotalResults": 713,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Martín Fernández Cruz",
+      "Title": "Robert Blake: el niño jamás abrazado, el protagonista de una recordada serie de los 70 y el hombre acusado de asesinar a su esposa",
+      "Description": "Dueño de una vida marcada por los excesos, el actor de Baretta tuvo una carrera llena de altibajos y se consolidó como un nombre rodeado de polémica",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/robert-blake-el-nino-jamas-abrazado-el-protagonista-de-una-recordada-serie-de-los-70-y-el-hombre-nid21062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/robert-blake-el-nino-jamas-abrazado-el-KS3UT3IR3ZFNRKYKX5LOU2WIB4.jpg?auth=e9412bdcfc9c75ed355767d9a5826280c04f432801a31cc154d0a05448edca9e&width=1920&height=1269&quality=70&smart=true",
+      "PublishedAt": "2024-06-21T14:18:07Z",
+      "Content": "La infancia de Robert Blake estuvo muy lejos de ser idílica. El niño, destinado a convertirse en actor, aprendió a amar ese oficio como una forma de resguardarse ante una niñez violenta. Michael Jame… [+8750 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://meneame.net/img/logo_meneame.png",
       "PublishedAt": "2024-06-20T17:25:56Z",
       "Content": "#6 El Tiger y el oro que se llevaron del banco de Clermont (16 millones de dólares en lingotes de oro, o 65 millones de marcos para que lo entienda el alemán del tanque)."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "elDiarioes Cultura",
-      "Title": "Muere Donald Sutherland a los 88 años",
-      "Description": "Ha muerto el actor Donald Sutherland a los 88 años, según ha confirmado su hijo, el también actor Kiefer Sutherland, con un mensaje en redes sociales.\n \n “Con gran pesar les digo que mi padre, Donald Sutherland, ha fallecido. Personalmente me parece uno de lo…",
-      "Url": "https://www.eldiario.es/cultura/cine/muere-donald-sutherland-88-anos_1_11465884.html",
-      "UrlToImage": "https://static.eldiario.es/clip/24f33df6-5eac-4cb4-b4b7-98761e2c7bf9_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-06-20T17:22:43Z",
-      "Content": "Ha muerto el actor canadiense Donald Sutherland a los 88 años, según ha confirmado su hijo, el también actor Kiefer Sutherland, con un mensaje en redes sociales. Según la revista Variety, ha fallecid… [+1274 chars]"
     }
   ]
 }
