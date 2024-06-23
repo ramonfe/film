@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 697,
+  "TotalResults": 699,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "Aldo Ruiz",
+      "Title": "Así es Adrián Pedraja, el guapo camarero de 'First Dates Hotel' y actor que fue novio de Sheila Casas",
+      "Description": "El malagueño, de 34 años, participó en la famosa serie 'El secreto de puente viejo'",
+      "Url": "https://www.hola.com/actualidad/20240622700603/adrian-pedraja-camarero-first-dates-hotel-exnovio-sheila-casas/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/bcd250677622-foto-8-ig-ok.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-06-22T06:48:47Z",
+      "Content": "Próximamente comenzarán en Telecinco las emisiones de First Dates Hotel. Aparte de Carlos Sobera y Lidia Torrent, uno de los rostros que más ha llamado la atención es el de Adrián Pedraja, un guapo a… [+1075 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "A pocos meses de ser declarado culpable por agresión y abuso, Jonathan Majors confirmó su regreso al cine",
+      "Description": "El actor de Creed III volverá a la pantalla grande, luego de recibir una pena de 52 semanas de libertad condicional",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/a-pocos-meses-de-ser-declarado-culpable-por-agresion-y-abuso-jonathan-majors-confirmo-su-regreso-al-nid22062024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/jonathan-DQ4MRYNXBJB65IRGHO2YZNTVFQ.jpg?auth=7753c1178d5d05465b09cb6dacc47731791736dac8dc051d38d031229754cedf&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-06-22T06:18:02Z",
+      "Content": "Jonathan Majors emprende su regreso a la industria del cine, paso a paso. Luego de ser hallado culpable de los cargos por acoso sexual y agresión, todo indicaba que la carrera de este actor había lle… [+3995 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.hola.com/horizon/landscape/14e965a8d9d9-gettyimages-2158471019.jpg?im=Resize=(1200)",
       "PublishedAt": "2024-06-21T09:03:32Z",
       "Content": "No para. Eva Longoria tiene una agenda llena de compromisos y, entre otras razones, por el estreno de la serie Tierra de mujeres. Un título de Apple TV+ en el que interpreta a Gala, una mujer neoyorq… [+3239 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Jacob Elordi es víctima de un deepfake erótico en redes sociales",
-      "Description": "Jacob Elordi (26 años), el talentoso actor conocido por su trabajo en la serie 'Euphoria' y la película 'Saltburn', se encuentra en el centro de una controversia después de que un video erótico falso protagonizado por él comenzara a circular en redes sociales…",
-      "Url": "https://www.abc.es/gente/jacob-elordi-victima-deepfake-erotico-redes-sociales-20240621110121-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/06/21/jacob-elordi-U55137150458eFD-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-06-21T09:01:22Z",
-      "Content": "Jacob Elordi (26 años), el talentoso actor conocido por su trabajo en la serie 'Euphoria' y la película 'Saltburn', se encuentra en el centro de una controversia después de que un video erótico falso… [+2491 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Belén Prieto",
-      "Title": "Kevin Costner no estará en el final de 'Yellowstone': \"Adoro la serie, pero no voy a poder continuar\"",
-      "Description": "Después de muchas especulaciones, el actor ha zanjado el tema, confirmando que no regresará a la serie.",
-      "Url": "https://www.elespanol.com/series/20240621/kevin-costner-no-final-yellowstone-adoro-serie-voy-poder-continuar/864663611_0.html",
-      "UrlToImage": "https://s1.elespanol.com/2024/06/21/series/864673688_244208367_1706x960.jpg",
-      "PublishedAt": "2024-06-21T08:32:21Z",
-      "Content": "Apenas unas horas después de que se anunciara el regreso de Yellowstone con sus nuevos episodios el 14 de noviembre, Kevin Costner ha puesto fin a todas las especulaciones y rumores sobre su posible … [+4049 chars]"
     }
   ]
 }
