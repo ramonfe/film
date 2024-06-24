@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 959,
+  "TotalResults": 960,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Associated Press)",
+      "Title": "'Inside Out 2' scores $100M in its 2nd weekend, setting records",
+      "Description": "New York — Weekend number two was just as joyous for “Inside Out 2.” \n\n\nThe Pixar sequel collected $100 million in ticket sales in its second weekend, according to studio estimates Sunday, setting a record for an animated movie in its follow-up frame in theat…",
+      "Url": "https://www.voanews.com/a/inside-out-2-scores-100m-in-its-2nd-weekend-setting-records/7667083.html",
+      "UrlToImage": "https://gdb.voanews.com/3A2183E0-66CA-49F2-9CCE-D6DE926EE564.jpg",
+      "PublishedAt": "2024-06-23T18:12:27Z",
+      "Content": "New York  Weekend number two was just as joyous for Inside Out 2. \r\nThe Pixar sequel collected $100 million in ticket sales in its second weekend, according to studio estimates Sunday, setting a reco… [+3604 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-111176299,width-1200,height-630,imgsize-69392,overlay-economictimes/photo.jpg",
       "PublishedAt": "2024-06-21T20:53:02Z",
       "Content": "Netflix is developing a live-action adaptation of the popular video game BioShock, bringing the underwater city of Rapture to life. This project has been in the works since 2022, with Francis Lawrenc… [+2283 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Five men face jail time for running the illegal streaming service Jetflicks",
-      "Description": "The illegal streaming service Jetflicks once boasted on its website that visitors could watch just about any TV show or movie “Anytime. Anywhere.” Now the five people behind the bootleg streaming service are facing some serious jail time.\nA jury found Kristop…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174223581",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-21T20:52:10Z",
-      "Content": "The illegal streaming service Jetflicks once boasted on its website that visitors could watch just about any TV show or movie “Anytime. Anywhere.” Now the five people behind the bootleg streaming ser… [+2561 chars]"
     }
   ]
 }
