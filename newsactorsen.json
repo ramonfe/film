@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 780,
+  "TotalResults": 781,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Sky.com"
+      },
+      "Author": "Claire Gilbody Dickerson, news reporter",
+      "Title": "Pirates Of The Caribbean actor dies in shark attack",
+      "Description": "A lifeguard who appeared in the fourth Pirates Of The Caribbean movie has died after being attacked by a shark off Oahu in Hawaii.",
+      "Url": "https://news.sky.com/story/pirates-of-the-caribbean-actor-tamayo-perry-dies-after-being-attacked-by-shark-while-surfing-in-hawaii-13157896",
+      "UrlToImage": "https://e3.365dm.com/24/06/1600x900/skynews-tamayo-perry-pirates-of-caribbean_6589511.jpg?20240624081656",
+      "PublishedAt": "2024-06-24T06:24:00Z",
+      "Content": "A lifeguard who appeared in the fourth Pirates Of The Caribbean movie has died after being attacked by a shark off Oahu in Hawaii.\r\nTamayo Perry, 49, who has also starred in Charlie's Angels 2 and Bl… [+1466 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://focus.independent.ie/thumbor/roEUruDmBgAx0Swc6oRqQUGvix4=/0x0:2044x1362/629x0/prod-mh-ireland/cfa38c47-10d8-4823-b2cb-8116fc17d07d/e805778c-bd38-4c8f-b6a7-898d8549c1d4/0a3e578412c3499393b6494c12d448e1.jpg",
       "PublishedAt": "2024-06-21T21:05:08Z",
       "Content": "A judge in New Mexico has denied a request to use immunity to compel evidence from a movie set armourer in the involuntary manslaughter trial of actor Alec Baldwin who fatally shot a cinematographer … [+4239 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The A.V. Club"
-      },
-      "Author": "Mary Kate Carr",
-      "Title": "Alec Baldwin fails to get Rust manslaughter case dismissed yet again",
-      "Description": "Much as his legal team has tried to avoid it, Alec Baldwin will be going to court for charges of involuntary manslaughter over the shooting death of cinematographer Halyna Hutchins while filming the movie Rust. It’s been a long road, with charges against the …",
-      "Url": "https://www.avclub.com/alec-baldwin-fails-rust-case-dismissed-again-1851554469",
-      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/51d9c4f3db6498028490ac4c9d242247.jpg",
-      "PublishedAt": "2024-06-21T20:50:03Z",
-      "Content": "Much as his legal team has tried to avoid it, Alec Baldwin will be going to court for charges of involuntary manslaughter over the shooting death of cinematographer Halyna Hutchins while filming the … [+1676 chars]"
     }
   ]
 }
