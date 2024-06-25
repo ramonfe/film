@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 670,
+  "TotalResults": 666,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Salió hace poco y para mí ya es mucho mejor que 'Star Wars'. Es de mis sagas favoritas y está en streaming",
+      "Description": "Hoy es turno de hablar de una de mis películas favoritas. Basada en un libro de Frank Herbert, esta película se ha convertido en una auténtica joya para aquellos que, como yo, aman la mejor ciencia ficción. Es una película absolutamente redonda en muchos aspe…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/salio-hace-poco-y-para-mi-ya-es-mucho-mejor-que-star-wars-es-de-mis-sagas-favoritas-y-esta-en-streaming",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/06/dune.webp?width=1200",
+      "PublishedAt": "2024-06-24T14:01:48Z",
+      "Content": "Ambas producciones tienen una calidad desbordante\r\nHoy es turno de hablar de una de mis películas favoritas. Basada en un libro de Frank Herbert, esta película se ha convertido en una auténtica joya … [+3642 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/efec31/portada-total/840_560.jpeg",
       "PublishedAt": "2024-06-22T08:01:22Z",
       "Content": "Mi tele Sony A95K  ha sido una de las mejores compras que he realizado. Una Smart TV muy top que pude adquirir a un fantástico precio gracias a una oferta. Y dicho todo esto, tengo una cosa clara: no… [+7186 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hola"
-      },
-      "Author": "B. Moreno",
-      "Title": "Todo lo que sabemos sobre la temporada final de 'Élite', que tiene fecha de estreno en Netflix",
-      "Description": "El esperado desenlace de la serie llegará con la octava temporada",
-      "Url": "https://www.hola.com/actualidad/20240622700795/elite-todo-sobre-la-octava-y-ultime-temporada-de-la-serie/",
-      "UrlToImage": "https://www.hola.com/horizon/landscape/b3784f2b46b7-elites08e01010923matiasurisdsc09620-t.jpg?im=Resize=(1200)",
-      "PublishedAt": "2024-06-22T06:59:08Z",
-      "Content": "Élite, la serie española más longeva de Netflix, llega a su fin este mismo verano con el estreno de su esperadísima octava temporada, que será el desenlace de la ficción. El 26 de julio Las Encinas v… [+3657 chars]"
     }
   ]
 }
