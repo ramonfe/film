@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/06/Jurassic-World-Chaos-Theory-Season-2-Renewed.jpg?resize=1200,630",
       "PublishedAt": "2024-06-07T13:10:52Z",
       "Content": "Fans of Jurassic World: Chaos Theory will be thrilled to learn that Netflix has renewed the show for its second season. Furthermore, viewers need not wait for long as Season 2 will begin streaming mu… [+1665 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "thewrap.com",
-      "Title": "The Tao of Bluey: The Magic Of the Show That Captivates Both Kids And Parents",
-      "Description": "The second most popular TV show in all of streaming for 2023 wasn’t a blockbuster Netflix series or a quirky sitcom or even a long-running procedural. It was a cartoon about a blue dog with an Australian accent who delights in playing with her sister, mother …",
-      "Url": "https://biztoc.com/x/0078b0c0bdfdde00",
-      "UrlToImage": "https://c.biztoc.com/p/0078b0c0bdfdde00/s.webp",
-      "PublishedAt": "2024-06-07T13:10:17Z",
-      "Content": "The second most popular TV show in all of streaming for 2023 wasnt a blockbuster Netflix series or a quirky sitcom or even a long-running procedural. It was a cartoon about a blue dog with an Austral… [+280 chars]"
     }
   ]
 }
