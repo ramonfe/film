@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Apple TV+ subscribers will get early access to the company's latest original podcast",
+      "Description": "Apple will release its first premium podcast with early access available to Apple TV+ subscribers. The company made the announcement in a press release today that its first dual-language podcast, My Divo, will be the first podcast tied to an Apple TV+ subscri…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174292399",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-24T20:12:13Z",
+      "Content": "Apple will release its first premium podcast with early access available to Apple TV+ subscribers. The company made the announcement in a press release today that its first dual-language podcast, My … [+1428 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.macworld.com/wp-content/uploads/2024/06/tim-cook-apple-keynote.jpg?quality=50&strip=all&w=1024",
       "PublishedAt": "2024-06-07T16:38:46Z",
       "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThe second-biggest d… [+13489 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Vansh Mehra",
-      "Title": "Netflix’s Jurassic World: Chaos Theory Season 2 Renewed, Gets Surprising 2024 Release Window",
-      "Description": "Fans of Jurassic World: Chaos Theory will be thrilled to learn that Netflix has renewed the show for its second season. Furthermore, viewers need not wait for long as Season 2 will begin streaming much sooner than expected. Jurassic World: Chaos Theory Season…",
-      "Url": "https://www.comingsoon.net/tv/news/1757437-jurassic-world-chaos-theory-season-2-renewed-netflix-release-date-2024",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/06/Jurassic-World-Chaos-Theory-Season-2-Renewed.jpg?resize=1200,630",
-      "PublishedAt": "2024-06-07T13:10:52Z",
-      "Content": "Fans of Jurassic World: Chaos Theory will be thrilled to learn that Netflix has renewed the show for its second season. Furthermore, viewers need not wait for long as Season 2 will begin streaming mu… [+1665 chars]"
     }
   ]
 }
