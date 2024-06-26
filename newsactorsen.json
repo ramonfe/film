@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 777,
+  "TotalResults": 778,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Pranav Dixit",
+      "Title": "OpenAI has delayed its seductive ChatGPT voice assistants",
+      "Description": "If you’ve been dreaming about spending your summer whispering sweet nothings into the digital ears of one of the seductive ChatGPT voice assistants that OpenAI showed off last month, you’ll have to dream a little longer. On Tuesday, the company announced that…",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5ddc6097-6738-4a06-b80c-4944f6189f60",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-25T23:30:27Z",
+      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-24T21:45:12Z",
       "Content": "Defense attorneys for Alec Baldwin are seeking to scuttle an involuntary manslaughter trial against the actor-producer in the fatal shooting of a cinematographer during rehearsal for the Western movi… [+2849 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Boston Herald"
-      },
-      "Author": "Associated Press",
-      "Title": "Baldwin wants judge to toss manslaughter case",
-      "Description": "Defense attorneys for Alec Baldwin are seeking to scuttle an involuntary manslaughter trial against the actor-producer in the fatal shooting of a cinematographer during rehearsal for the Western movie \"Rust.\"",
-      "Url": "https://www.bostonherald.com/2024/06/24/baldwin-wants-judge-to-toss-case/",
-      "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/06/AP24172847476560.jpg?w=1024&h=683",
-      "PublishedAt": "2024-06-24T21:16:19Z",
-      "Content": "SANTA FE, N.M. — Defense attorneys for Alec Baldwin are seeking to scuttle an involuntary manslaughter trial against the actor-producer in the fatal shooting of a cinematographer during rehearsal for… [+2421 chars]"
     }
   ]
 }
