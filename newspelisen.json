@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 952,
+  "TotalResults": 953,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-washington-post",
+        "Name": "The Washington Post"
+      },
+      "Author": "Jada Yuan",
+      "Title": "Inside the battle to release controversial Trump movie ‘The Apprentice’",
+      "Description": "The American release of Donald Trump movie “The Apprentice,” starring Sebastian Stan and Jeremy Strong, is in question, despite a distribution deal on the table.",
+      "Url": "https://www.washingtonpost.com/entertainment/movies/2024/06/25/donald-trump-movie-the-apprentice-release/",
+      "UrlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MMCEMW73HGCOSMFZEJBFXLL73Y.jpg&w=1440",
+      "PublishedAt": "2024-06-25T21:52:57Z",
+      "Content": "Controversy was near-constant for Daniel Snyder during the 24 years he owned the NFLs Washington Commanders. Now, a year after he sold his stake in the team, Snyder has landed in a different kind of … [+11090 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/05/thumb/fitandfill/400X400/1712288806-9648.jpg",
       "PublishedAt": "2024-06-25T12:18:31Z",
       "Content": "Kangana Ranaut-starrer 'Emergency' will now hit the theatres on 6th of September. The movie is based on former PM Indira Gandhi. Earlier, the film was earlier set to release on June 14th\r\nB'wood acto… [+2664 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Raw Story"
-      },
-      "Author": "Agence France-Presse",
-      "Title": "Almodovar's love affair with Madrid explored in new exhibition",
-      "Description": "Oscar-winning director Pedro Almodovar's decades-long love affair with Madrid is the focus of a new exhibition in the Spanish capital which has appeared in all of his feature films to varying degrees.\"Madrid, Almodovar Girl\", which runs until October 20 at th…",
-      "Url": "https://www.rawstory.com/almodovar-s-love-affair-with-madrid-explored-in-new-exhibition/",
-      "UrlToImage": "https://www.rawstory.com/media-library/spanish-filmmaker-pedro-almodovar-seen-here-during-the-opening-of-an-exhibition-that-explores-the-role-of-madrid-in-his-movies.jpg?id=52496718&width=1200&height=600&coordinates=0%2C0%2C0%2C133",
-      "PublishedAt": "2024-06-25T10:56:42Z",
-      "Content": "\"We are going to the heart of the city and leaving the stadiums,\" Pierre Rabadan, Deputy Mayor of Paris in charge of Sport and the Olympic and Paralympic Games told AFP. \r\nIt is a change of model for… [+5136 chars]"
     }
   ]
 }
