@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 684,
+  "TotalResults": 682,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Esther Mucientes",
+      "Title": "El sueño imposible de Eva Longoria y Carmen Maura: \"En este momento de mi vida hago lo que me da la real gana\"",
+      "Description": "Carmen Maura y Eva Longoria juntas en una serie. ¿Quién podría haberse imaginado tal fantasía? Tierra de mujeres, la nueva serie de Apple TV y Bambú Producciones, lo ha hecho posible Leer",
+      "Url": "https://www.elmundo.es/television/series/2024/06/25/66754513e9cf4af0438b458c.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/2f51829d0b46e650f21de6625fcaea8b/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/21/17189663462736.jpg",
+      "PublishedAt": "2024-06-25T19:35:10Z",
+      "Content": "Más de 12 años llevaba Eva Longoria sin ponerse delante de una cámara. ¿La razón? Estaba harta de que siempre le ofrecieran los mismos papeles -\"que si una detective, que si una policía, que si la es… [+10851 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/62892e/homelander/840_560.jpeg",
       "PublishedAt": "2024-06-25T06:31:41Z",
       "Content": "Sin ninguna clase de discusión, la gran figura de The Boys es la de Patriota. El líder de Los Siete es una suerte de Superman sin ninguna clase de escrúpulos para conseguir sus objetivos, lo cual res… [+1728 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Perfil.com"
-      },
-      "Author": "R.N.",
-      "Title": "La serie de Nahir Galarza: así fue el backstage de la filmación",
-      "Description": "Se conocieron detalles del documental sobre la joven entrerriana estrenada en la plataforma Amazon Prime. Leer más",
-      "Url": "https://noticias.perfil.com/noticias/medios/la-serie-de-nahir-galarza-asi-fue-el-backstage-de-la-filmacion.phtml",
-      "UrlToImage": "https://fotos.perfil.com/2024/06/24/trim/1280/720/nahir-galarza-1824010.jpg",
-      "PublishedAt": "2024-06-25T06:14:00Z",
-      "Content": "Tras el éxito en audiencia del film \"Nahir\", protagonizada por Valentina Zenere, la historia sobre Nahir Galarza y el crimen de Fernando Pastorizzo continua en Amazon Prime con el estrenó del documen… [+2115 chars]"
     }
   ]
 }
