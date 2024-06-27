@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 778,
+  "TotalResults": 779,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "OpenAI has delayed its seductive ChatGPT voice assistants",
+      "Description": "If you’ve been dreaming about spending your summer whispering sweet nothings into the digital ears of one of the seductive ChatGPT voice assistants that OpenAI showed off last month, you’ll have to dream a little longer. On Tuesday, the company announced that…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174316955",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-26T00:12:10Z",
+      "Content": "If you’ve been dreaming about spending your summer whispering sweet nothings into the digital ears of one of the seductive ChatGPT voice assistants that OpenAI showed off last month, you’ll have to d… [+1716 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://variety.com/wp-content/uploads/2024/06/GettyImages-2149292647.jpg?w=1000&h=563&crop=1",
       "PublishedAt": "2024-06-24T21:50:04Z",
       "Content": "Jodie Foster recently chatted with “The Bikeriders” star Jodie Comer for Interview magazine and got honest about her relationship to acting. The two-time Oscar winner for best actress admitted that s… [+1744 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Japan Today"
-      },
-      "Author": null,
-      "Title": "Alec Baldwin's attorneys ask New Mexico judge to dismiss the case against him over firearm evidence",
-      "Description": "Defense attorneys for Alec Baldwin are seeking to scuttle an involuntary manslaughter trial against the actor-producer in the fatal shooting of a cinematographer during rehearsal for the Western movie “Rust.”  Baldwin’s lawyers argue in a motion seeking to di…",
-      "Url": "https://japantoday.com/category/entertainment/alec-baldwin%27s-attorneys-ask-new-mexico-judge-to-dismiss-the-case-against-him-over-firearm-evidence",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-24T21:45:12Z",
-      "Content": "Defense attorneys for Alec Baldwin are seeking to scuttle an involuntary manslaughter trial against the actor-producer in the fatal shooting of a cinematographer during rehearsal for the Western movi… [+2849 chars]"
     }
   ]
 }
