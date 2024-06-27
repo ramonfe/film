@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 683,
+  "TotalResults": 684,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Sara Cubero",
+      "Title": "Ana Bokesa, la actriz que estuvo a punto de tirar la toalla y ahora lucha contra el racismo gracias a su misterioso papel en 'Élite'",
+      "Description": "En el vibrante mundo del entretenimiento digital, pocas series han causado tanto revuelo como Élite, la serie de Netflix que ha capturado la atención de audiencias globales. En...",
+      "Url": "https://www.elmundo.es/madrid/2024/06/27/667c238dfc6c83f30e8b45a0.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/4aab271783b2cb9f355528eedebeb89a/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/26/17194115963467.jpg",
+      "PublishedAt": "2024-06-26T22:03:58Z",
+      "Content": "En el vibrante mundo del entretenimiento digital, pocas series han causado tanto revuelo como Élite, la serie de Netflix que ha capturado la atención de audiencias globales. En su sexta temporada, un… [+3577 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/212f0e/stasr-wars/840_560.jpeg",
       "PublishedAt": "2024-06-25T13:31:44Z",
       "Content": "Con el paso de los años, la opinión del público sobre Hayden Christensen y su interpretación de Anakin Skywalker ha mejorado significativamente. La versión más joven del temible Sith enamoró a muchos… [+1871 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hola"
-      },
-      "Author": "B. Moreno",
-      "Title": "'Hermanos': El motivo de salud por el que una actriz muy querida estará ausente de la serie",
-      "Description": "La personalidad vitalista e imprevisible de su personaje ha sabido ganarse el corazón del público",
-      "Url": "https://www.hola.com/actualidad/20240625701377/hermanos-ausencia-elif-motivo-salud/",
-      "UrlToImage": "https://www.hola.com/horizon/landscape/256846674ef4-portada-eylullize-ig-t.jpg?im=Resize=(1200)",
-      "PublishedAt": "2024-06-25T12:42:00Z",
-      "Content": "Además de mucho suspense e intriga, la tercera temporada de Hermanos ha vivido la llegada de una nueva incorporación a la trama: Elif Çetin, que con su presencia ha logrado refrescar la historia y ll… [+4341 chars]"
     }
   ]
 }
