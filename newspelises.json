@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Juan Pablo Sanabria",
+      "Title": "El CRFIC pronto dirá adiós: Estos son 10 filmes que todavía puede ver en el festival de cine",
+      "Description": "El CRFIC 2024 finaliza el próximo 29 de junio, pero aún quedan buenas películas ticas y extranjeras para sacarle el jugo a su cartelera",
+      "Url": "https://www.nacion.com/viva/cine/el-crfic-pronto-dira-adios-estos-son-10-filmes-que/4V7DHFLMKFBLHKWICFGNOLD5DI/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/Of3ryhFSPDifULz8sh24FiSz380=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/RDBNX5PYZFBPLE5QAD5WOGFZHQ.jpeg",
+      "PublishedAt": "2024-06-27T13:30:00Z",
+      "Content": "El festival, que comenzó el día 20 de este mes, se desarrolla en cuatro sedes ubicadas en San José: Cine Magaly, Teatro Eugene ONeill, Sala Gómez Miralles del Centro de Cine y la Alianza Francesa. En… [+7306 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/dbff9c/captura-de-pantalla-2024-06-13-a-las-17.29.57/840_560.jpeg",
       "PublishedAt": "2024-06-14T10:31:44Z",
       "Content": "Disney lleva una racha de pequeños pinchazos en taquilla tan acusada (y, sobre todo, una crisis de imagen derivada del abuso de sus franquicias más populares y del agotamiento de las mismas) que ha t… [+4166 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Lupe Torres",
-      "Title": "Agustín Aristarán: la ansiedad, recrear un personaje casi insuperable en School of Rock y sus trucos para mantener el ego a raya",
-      "Description": "Días antes del estreno de School of Rock, una de las apuestas más fuertes de la cartelera teatral porteña para las vacaciones de invierno, el versátil artista conversó con LA NACION sobre cómo es ponerse en la piel de un personaje entrañable, que hizo famoso …",
-      "Url": "https://www.lanacion.com.ar/espectaculos/teatro/agustin-aristaran-la-ansiedad-recrear-un-personaje-casi-insuperable-en-school-of-rock-y-sus-trucos-nid14062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/agustin-soy-rada-aristaran-asume-el-protagonico-2SKSH7F3S5E2LAJ4D3JHIV5LYE.JPG?auth=85922107b4d0a4a9aaf9babbe9dd476b149330b1e22811af39b54495ff2fa6c4&width=1920&height=1280&quality=70&smart=true",
-      "PublishedAt": "2024-06-14T09:00:00Z",
-      "Content": "Agustín Rada Aristarán se encontró con su vocación los primeros años de su existencia y nunca la dejó ir. A los 12 años ya hacía magia y pasaba la gorra en los semáforos de su Bahía Blanca natal. A l… [+8792 chars]"
     }
   ]
 }
