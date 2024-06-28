@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 951,
+  "TotalResults": 948,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hollywood Reporter"
+      },
+      "Author": "Ryan Gajewski",
+      "Title": "'Street Fighter' Movie Lands 2026 Release From Sony",
+      "Description": "The film based on the video game franchise had recently parted ways with directors Danny and Michael Philippou.",
+      "Url": "http://www.hollywoodreporter.com/movies/movie-news/street-fighter-movie-release-sony-1235933496/",
+      "UrlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/MSDSTFI_UV005.jpg?w=1024",
+      "PublishedAt": "2024-06-27T00:15:02Z",
+      "Content": "Street Fighter is preparing to boom into theaters in 2026.\r\nSony Pictures announced Wednesday that the new movie based on the popular video game franchise will be released theatrically on March 20, 2… [+1683 chars]"
+    },
     {
       "Source": {
         "Id": "ign",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4292693-team-america-heck-yeah.jpg",
       "PublishedAt": "2024-06-25T23:05:00Z",
       "Content": "A few years after creating South Park, Trey Parker and Matt Stone tried to leverage the show's success by making a puppet action movie, and the result was 2004's Team America: World Police, which is … [+1525 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Phil Owen",
-      "Title": "The South Park Movie Is Now Available On 4K Blu-Ray For The First Time",
-      "Description": "South Park: Bigger, Longer and Uncut 25th Anniversary Edition \r\n $23 (was $26) \r\nSee at Amazon See at Walmart See at Target \r\nConsidering that South Park is still going strong as a TV show in 2024, it's pretty impressive that the movie version, South Park: Bi…",
-      "Url": "https://www.gamespot.com/articles/the-south-park-movie-is-now-available-on-4k-blu-ray-for-the-first-time/1100-6522868/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4292694-south-park-blu.jpg",
-      "PublishedAt": "2024-06-25T23:05:00Z",
-      "Content": "Considering that South Park is still going strong as a TV show in 2024, it's pretty impressive that the movie version, South Park: Bigger, Longer and Uncut, came out 25 years ago. But why think about… [+1518 chars]"
     }
   ]
 }
