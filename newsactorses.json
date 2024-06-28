@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 684,
+  "TotalResults": 685,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Muere Bill Cobbs, actor 'El guardaespaldas', 'Noche en el museo' o 'Los Soprano', a los 90 años",
+      "Description": "Bill Cobbs , un destacado actor afroamericano con papeles en más de 150 películas y programas de televisión, ha muerto este martes a los 90 años, dijo su familia. «Bill, un amado socio, hermano mayor, tío, padre sustituto, padrino y amigo, recientemente celeb…",
+      "Url": "https://www.abc.es/play/cine/muere-bill-cobbs-actor-guardaespaldas-noche-museo-20240627065231-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/06/27/cobbs-kBBE--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-06-27T04:52:31Z",
+      "Content": "Bill Cobbs, un destacado actor afroamericano con papeles en más de 150 películas y programas de televisión, ha muerto este martes a los 90 años, dijo su familia.\r\n«Bill, un amado socio, hermano mayor… [+839 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/42e5b428-f47b-4015-9796-4e35b533c4e2_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-06-25T13:40:53Z",
       "Content": "TVE saca por sorpresa del cajón una de sus series más reclamadas. La cadena pública ha empezado a promocionar el estreno dela tercera temporada de HIT, su serie juvenil protagonizada por Daniel Grao,… [+3416 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Joel Calata",
-      "Title": "'Te extraño': esta es la historia del bolero de Armando Manzanero que marcó para siempre la carrera de Luis Miguel",
-      "Description": "Aunque se pueda hablar largo y tendido sobre Luis Miguel, tanto de su vida privada como de su exitosa carrera musical, el astro vivió un momento clave en su carrera: conocer a un compositor mexicano lo llevó a la cima del estrellato y lo consagró como un expo…",
-      "Url": "https://www.trendencias.com/eventos/te-extrano-esta-historia-bolero-armando-manzanero-que-marco-para-siempre-carrera-luis-miguel",
-      "UrlToImage": "https://i.blogs.es/93a380/snapinsta.app_19955600_1135325829944194_4513251655835189248_n_1080/840_560.jpeg",
-      "PublishedAt": "2024-06-25T13:36:42Z",
-      "Content": "Aunque se pueda hablar largo y tendido sobre Luis Miguel, tanto de su vida privada como de su exitosa carrera musical, el astro vivió un momento clave en su carrera: conocer a un compositor mexicano … [+6777 chars]"
     }
   ]
 }

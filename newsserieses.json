@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 720,
+  "TotalResults": 721,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Muere Bill Cobbs, actor 'El guardaespaldas', 'Noche en el museo' o 'Los Soprano', a los 90 años",
+      "Description": "Bill Cobbs , un destacado actor afroamericano con papeles en más de 150 películas y programas de televisión, ha muerto este martes a los 90 años, dijo su familia. «Bill, un amado socio, hermano mayor, tío, padre sustituto, padrino y amigo, recientemente celeb…",
+      "Url": "https://www.abc.es/play/cine/muere-bill-cobbs-actor-guardaespaldas-noche-museo-20240627065231-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/06/27/cobbs-kBBE--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-06-27T04:52:31Z",
+      "Content": "Bill Cobbs, un destacado actor afroamericano con papeles en más de 150 películas y programas de televisión, ha muerto este martes a los 90 años, dijo su familia.\r\n«Bill, un amado socio, hermano mayor… [+839 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/c5dd30/49ad5033ec3139b07e3ac7adc2176e771e92bb59r1-1559-1200v2_uhq-1-/840_560.jpeg",
       "PublishedAt": "2024-06-26T13:52:16Z",
       "Content": "Poco a poco, Netflix va desvelando algunos de los actores que formarán parte de la segunda temporada de One Piece. La versión live action del manga de Eiichiro Oda continuará con las aventuras de los… [+1317 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "El Confidencial",
-      "Title": "La serie española rodada en Galicia, que no lleva ni una semana estrenada, es ya lo más visto de Netflix",
-      "Description": "Interpretada por Clara Lago y Tamar Novas, los personajes se ven arrastrados a una relación sentimental imposible y una persecución por el narcotráfico",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2024-06-26/espanola-clara-lago-tamar-novas-narcotrafico-galicia-1qrt_3911420/",
-      "UrlToImage": "https://images.ecestaticos.com/75vsxeAQKT6UBDnmuWQiwrCgRKM=/0x0:1056x750/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/16f/b0c/1c8/16fb0c1c856744117cf47e9f120e0e05.jpg",
-      "PublishedAt": "2024-06-26T13:52:00Z",
-      "Content": "La miniserie española de terror en Netflix para viciarte este fin de semana: es de los creadores de Élite y solo tiene 8 capítulosJosé Pastor (El Marqués): \"El papel de Onofre ha supuesto poder empat… [+3885 chars]"
     }
   ]
 }
