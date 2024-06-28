@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 973,
+  "TotalResults": 974,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Dan Heching",
+      "Title": "The best movies, TV, music and more of 2024… so far | CNN",
+      "Description": "As we hurtle headlong into summer, we’re dully aware six months’ worth of new content has already hit our streaming platforms and our feeds this year – and in some rare cases, even gotten us out of the house and into a movie theater.",
+      "Url": "https://www.cnn.com/2024/06/27/entertainment/the-best-movies-tv-music-and-more-of-2024-so-far/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cowboycarter.JPG?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-06-27T19:18:33Z",
+      "Content": "As we hurtle headlong into summer, were dully aware six months worth of new content has already hit our streaming platforms and our feeds this year and in some rare cases, even gotten us out of the h… [+9412 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/02/best-games-of-the-2020s-street-fighter-6-ryu-1.jpg",
       "PublishedAt": "2024-06-26T23:44:57Z",
       "Content": "The Street Fighterreboot movie sets a release date in 2026 despite directors Danny and Michael Philippou recently departing the project.\r\nNow, Sony has officially set a March 20, 2026 release for the… [+53 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Entertainment Tonight"
-      },
-      "Author": "Hope Sloop",
-      "Title": "Third 'Downton Abbey' Movie Gets Release Date: Everything We Know",
-      "Description": "The new 'Downton' movie is slated to see the return of fan favorites from the original series and the sequel films.",
-      "Url": "https://www.etonline.com/third-downton-abbey-movie-gets-release-date-everything-we-know-225324",
-      "UrlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2022-06/downton%20poster.jpeg?h=026830cb",
-      "PublishedAt": "2024-06-26T23:43:03Z",
-      "Content": "Downton Abbey's third film officially has a release date.\r\nIn late June 2024, Focus Features and Universal Pictures International announced that the upcoming successor to  2019's Downton Abbey and it… [+4203 chars]"
     }
   ]
 }
