@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 978,
+  "TotalResults": 979,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Dune director throws shade at the Deadpool & Wolverine popcorn bucket",
+      "Description": "There’s a war brewing in Hollywood and we’re not talking about how AI will inevitably kill us all by plagiarizing The Joker’s chaos plans from The Dark Knight. We’re talking about the popcorn bucket war.\nThe latest shot came from Dune director Denis Villeneuv…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174332993",
+      "UrlToImage": null,
+      "PublishedAt": "2024-06-27T23:52:07Z",
+      "Content": "There’s a war brewing in Hollywood and we’re not talking about how AI will inevitably kill us all by plagiarizing The Joker’s chaos plans from The Dark Knight. We’re talking about the popcorn bucket … [+1663 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-111299083,width-1070,height-580,imgsize-1176063,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2024-06-27T01:30:00Z",
       "Content": "\"To the director who never ceases to amaze, the most courageous team and one hell of a cast!!! Sending heartfelt prayers, love and positivity! Kalki 2898 AD, I'm rooting for you.\"\r\nSai Pallavi\r\n\"The … [+4639 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Blair Marnell",
-      "Title": "Street Fighter Reboot Movie Lands 2026 Release Date",
-      "Description": "Thirty years ago, Universal brought Capcom's fighting game franchise, Street Fighter, to the big screen with Jean-Claude Van Damme, Ming-Na Wen, Kylie Minogue, and the late Raul Julia in the leading roles. 20th Century Fox rebooted the franchise in 2009 which…",
-      "Url": "https://www.gamespot.com/articles/street-fighter-reboot-movie-lands-2026-release-date/1100-6524549/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4320188-streetfighter6.jpg",
-      "PublishedAt": "2024-06-27T01:19:00Z",
-      "Content": "Thirty years ago, Universal brought Capcom's fighting game franchise, Street Fighter, to the big screen with Jean-Claude Van Damme, Ming-Na Wen, Kylie Minogue, and the late Raul Julia in the leading … [+1499 chars]"
     }
   ]
 }
