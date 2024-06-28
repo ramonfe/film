@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 976,
+  "TotalResults": 978,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hollywood Reporter"
+      },
+      "Author": "Ryan Gajewski",
+      "Title": "Alec Baldwin Stars in 'Clear Cut' Movie Trailer Ahead of 'Rust' Trial",
+      "Description": "Stephen Dorff, Tom Welling and Clive Standen also star in the Lionsgate thriller that is set for release next month.",
+      "Url": "http://www.hollywoodreporter.com/movies/movie-news/alec-baldwin-clear-cut-trailer-1235934450/",
+      "UrlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/06/Alec-Baldwin-in-CLEAR-CUT-Lionsgate.jpg?w=1024",
+      "PublishedAt": "2024-06-27T22:44:58Z",
+      "Content": "Alec Baldwin and Stephen Dorff get caught up in the dangerous world of cutting timber in the Pacific Northwest in the trailer for Clear Cut. \r\nLionsgate releases director Brian Skiba’s thriller featu… [+1411 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4320188-streetfighter6.jpg",
       "PublishedAt": "2024-06-27T01:19:00Z",
       "Content": "Thirty years ago, Universal brought Capcom's fighting game franchise, Street Fighter, to the big screen with Jean-Claude Van Damme, Ming-Na Wen, Kylie Minogue, and the late Raul Julia in the leading … [+1499 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hollywood Reporter"
-      },
-      "Author": "Ryan Gajewski",
-      "Title": "'Street Fighter' Movie Lands 2026 Release From Sony",
-      "Description": "The film based on the video game franchise had recently parted ways with directors Danny and Michael Philippou.",
-      "Url": "http://www.hollywoodreporter.com/movies/movie-news/street-fighter-movie-release-sony-1235933496/",
-      "UrlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/MSDSTFI_UV005.jpg?w=1024",
-      "PublishedAt": "2024-06-27T00:15:02Z",
-      "Content": "Street Fighter is preparing to boom into theaters in 2026.\r\nSony Pictures announced Wednesday that the new movie based on the popular video game franchise will be released theatrically on March 20, 2… [+1683 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Kat Bailey",
-      "Title": "Street Fighter Movie Gets 2026 Release Date Despite Reportedly Losing Directors",
-      "Description": "The new Street Fighter movie being co-developed by Legendary Pictures and Capcom officially has a 2026 release date despite reportedly losing its directors.",
-      "Url": "https://www.ign.com/articles/street-fighter-movie-gets-2026-release-date-despite-reportedly-losing-directors",
-      "UrlToImage": "https://assets-prd.ignimgs.com/2024/06/26/street-fighter-movie-label-1719445915930.png?width=1280",
-      "PublishedAt": "2024-06-26T23:53:15Z",
-      "Content": "Legendary's upcoming live-action Street Fighter movie may have recently lost its directors, but that isn't stopping distributor Sony Pictures from moving ahead with a release date.\r\nIn an update sent… [+1366 chars]"
     }
   ]
 }
