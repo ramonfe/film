@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 722,
+  "TotalResults": 723,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "B. Moreno",
+      "Title": "'Los Bridgerton': ¿Qué objetos del set se han llevado de recuerdo los protagonistas al terminar el rodaje",
+      "Description": "La tercera temporada de la serie se ha convertido en uno de los contenidos más vistos de Netflix a nivel mundial",
+      "Url": "https://www.hola.com/actualidad/20240627701670/los-bridgerton-recuerdos-del-rodaje-fin-serie/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/c5caed6b8812-gettyimages-2157329263.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-06-27T06:13:20Z",
+      "Content": "La tercera temporada de Los Bridgerton, como ya sucedió con sus dos antecesoras, se ha convertido en todo un éxito. La historia de amor entre Colin y Penelope, protagonizados por Luke Newton y Nicola… [+4189 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://sm.ign.com/t/ign_es/news/o/one-piece-/one-piece-season-2-all-but-confirmed-to-star-jamie-lee-curti_11pw.1200.jpg",
       "PublishedAt": "2024-06-26T14:18:23Z",
       "Content": "Netflix ya está preparando la temporada 2 de One Piece, la serie live-action que conquistó a todos los fans del manganime. Incluso el creador Eiichiro Oda tuvo muy buenas palabras para esta producció… [+1651 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "Natalia Puga",
-      "Title": "Un juzgado obliga a la serie Fariña a retirar una escena de sexo del narco Oubiña",
-      "Description": "Laureano Oubiña demandó a las corporaciones Atresmedia y Netflix y la productora Bambú, como responsables de la serie, y les pidió 1,5 millones de euros por haber vulnerado su derecho al honor, a la intimidad personal y familiar y a la propia imagen Leer",
-      "Url": "https://www.elmundo.es/television/2024/06/26/667c1d73fc6c83b66e8b4589.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/8a70ed394e470d752f1a77d29735bc70/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/26/17194100014318.jpg",
-      "PublishedAt": "2024-06-26T13:54:00Z",
-      "Content": "El histórico narcotraficante gallego Laureano Oubiña puede anotarse un tanto judicial frente a la serie Fariña. El capo de la droga había perdido en primera instancia una demanda por ofrecer una \"ima… [+3121 chars]"
     }
   ]
 }
