@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 724,
+  "TotalResults": 725,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "One Piece presenta a sus nuevos fichajes para la temporada 2",
+      "Description": "En 2023 Netflix estrenó One Piece, serie de imagen real basada en el manga de Eiichiro Oda. La ficción tendrá una segunda temporada y la plataforma de streaming ya ha anunciado...",
+      "Url": "https://www.elmundo.es/television/series/2024/06/28/667ec657fdddff5eaf8b4595.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/8a359dbc552bccb7ed9b3aaf4f0f5a2c/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/28/17195847550462.jpg",
+      "PublishedAt": "2024-06-28T14:29:42Z",
+      "Content": "En 2023 Netflix estrenó One Piece, serie de imagen real basada en el manga de Eiichiro Oda. La ficción tendrá una segunda temporada y la plataforma de streaming ya ha anunciado los nuevos fichajes pa… [+1818 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/f069e1/disney-julio-1-/840_560.jpeg",
       "PublishedAt": "2024-06-26T22:40:07Z",
       "Content": "El nuevo Disney+ ya está disponible en México con todo el contenido de Star. Acompañado de todas estas novedades, ya se revelaron los estrenos que estarán disponibles en julio, con nuevas temporadas,… [+6923 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "Sara Cubero",
-      "Title": "Ana Bokesa, la actriz que estuvo a punto de tirar la toalla y ahora lucha contra el racismo gracias a su misterioso papel en 'Élite'",
-      "Description": "En el vibrante mundo del entretenimiento digital, pocas series han causado tanto revuelo como Élite, la serie de Netflix que ha capturado la atención de audiencias globales. En...",
-      "Url": "https://www.elmundo.es/madrid/2024/06/27/667c238dfc6c83f30e8b45a0.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/4aab271783b2cb9f355528eedebeb89a/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/26/17194115963467.jpg",
-      "PublishedAt": "2024-06-26T22:03:58Z",
-      "Content": "En el vibrante mundo del entretenimiento digital, pocas series han causado tanto revuelo como Élite, la serie de Netflix que ha capturado la atención de audiencias globales. En su sexta temporada, un… [+3577 chars]"
     }
   ]
 }
