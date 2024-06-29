@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Luis Martínez",
+      "Title": "Charles Rivkin, el gran patrón del cine de Hollywood: \"España se ha convertido en el líder de Europa en el audiovisual y las cifras lo confirman\"",
+      "Description": "El presidente de la poderosa Motion Picture Association (MPA) bendice el cine español, se entrevista con los reyes, premia a Juan Antonio Bayona, a Nadia Calviño y a la Policía Nacional, e insiste en mostrarse inflexible con la piratería tras anunciar que la …",
+      "Url": "https://www.elmundo.es/cultura/cine/2024/06/28/667eed69e9cf4a8f2d8b456e.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/2903eb3fcd1bc435f77820494af006d3/resize/1200/f/webp/assets/multimedia/imagenes/2024/06/28/17195942721152.jpg",
+      "PublishedAt": "2024-06-28T17:26:54Z",
+      "Content": "Hace apenas unos días, los principales estudios de cine agrupados en torno a la Motion Picture Association (MPA) anunciaban un nuevo esfuerzo en su ya implacable y casi eterna guerra contra la pirate… [+9601 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/06/16/clanes_S01_E07_07062023_jaimeolmedo_DSC_5882-U03346032141MFZ-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-06-16T08:33:49Z",
       "Content": "El narcotráfico gallego lleva años inspirando rodajes. Hace tiempo que no impacta ver series que toman las Rías Baixas como escenario para narrar historias que hablan de crimen, poder y ambición. Per… [+6250 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Ignacio Fontes",
-      "Title": "Los amantes de Teruel o el amor en los tiempos del cólera",
-      "Description": "Llámase ‘violín de Ingres’ a la “gran afición que, más allá de su actividad reconocida, sienten o practican los sabios de una u otra faceta”; o sea, bajándonos a la tierra. Un pasatiempo que se ejecuta con brío y pasión“, un hobby. El de este diletante que le…",
-      "Url": "https://www.eldiario.es/politica/amantes-teruel-amor-tiempos-colera_129_11448536.html",
-      "UrlToImage": "https://static.eldiario.es/clip/3b9e161d-913f-4dd7-b23b-370a79560afa_facebook-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-06-15T20:04:07Z",
-      "Content": "Llámase ‘violín de Ingres’ a la “gran afición que, más allá de su actividad reconocida, sienten o practican los sabios de una u otra faceta”; o sea, bajándonos a la tierra. Un pasatiempo que se ejecu… [+1333 chars]"
     }
   ]
 }
