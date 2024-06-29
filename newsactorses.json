@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 678,
+  "TotalResults": 679,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Cinco momentos del debate: confusión, insultos y adulterio",
+      "Description": "En 90 minutos de debate, los candidatos a la presidencia de Estados Unidos intercambiaron insultos y recurrieron sin reparos a la descalificación personal. En este encuentro , celebrado en Atlanta el jueves, el presidente Joe Biden mostró signos de perder el …",
+      "Url": "https://www.abc.es/internacional/cinco-momentos-debate-confusion-insultos-adulterio-20240628065427-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2024/06/28/debate-tele-reuters-klnG--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-06-28T04:54:28Z",
+      "Content": "En 90 minutos de debate, los candidatos a la presidencia de Estados Unidos intercambiaron insultos y recurrieron sin reparos a la descalificación personal. En este encuentro, celebrado en Atlanta el … [+4115 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://editorial.aristeguinoticias.com/wp-content/uploads/2024/06/Tarzan-1-copia.png",
       "PublishedAt": "2024-06-26T21:52:15Z",
       "Content": "Mauricio Mejía\r\nEdgar Rice Burroughs llevaba una vida laboral aventurera y voluble cuando Peter Weissmüller y su esposa, Elisabeth Kersch, atracaron en Nueva York, después de una larga travesía desde… [+8227 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Margarita, la hija de Fito Páez y Romina Ricci, de novia con el actor de la serie de Tévez, Balthazar Murillo",
-      "Description": "La joven pareja se mostró en un evento público por primera vez: fueron juntos a ver la función especial de Sex, viví tu experiencia, en Palermo",
-      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/margarita-la-hija-de-fito-paez-y-romina-ricci-de-novia-con-el-actor-de-la-serie-de-tevez-balthazar-nid26062024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/margarita-paez-y-su-flamante-novio-balthazar-U5PPFLPCXVAS3HTKLAOFFMKS7M.jpg?auth=7105cb3be01a7667f3e21cfd13a7b4b47ca3499ea08e078019974bb59d9cd334&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-06-26T21:41:07Z",
-      "Content": "Margarita Páez, hija de Romina Ricci y Fito Páez, y su novio, el protagonista de la serie Apache: la vida de Carlos Tévez, Balthazar Murillo, decidieron blanquear su relación. Y lo hicieron en una pa… [+3307 chars]"
     }
   ]
 }
