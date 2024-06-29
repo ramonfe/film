@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 84,
+  "TotalResults": 85,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Luis Acosta",
+      "Title": "Hoy en Max: la película que recién se estrenó en streaming y ya es todo un éxito mundial para Marvel",
+      "Description": "Es una de las cintas que más se estrelló en taquilla este año, pero parece ser que una vez más, los servicios de streaming les brindan una segunda oportunidad a las cintas con bajo nivel de recepción. Y es que Madame Web fue el peor estreno de Marvel y Sony e…",
+      "Url": "https://www.xataka.com.mx/cine-y-tv/hoy-max-pelicula-que-recien-se-estreno-streaming-todo-exito-mundial-para-marvel",
+      "UrlToImage": "https://i.blogs.es/c0879a/sin-titulo-1/840_560.jpeg",
+      "PublishedAt": "2024-06-28T18:00:50Z",
+      "Content": "Es una de las cintas que más se estrelló en taquilla este año, pero parece ser que una vez más, los servicios de streaming les brindan una segunda oportunidad a las cintas con bajo nivel de recepción… [+2513 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/queplan/2024/06/17/alma-cabaret-kDbH--1024x512@abc.jpg",
       "PublishedAt": "2024-06-17T10:38:43Z",
       "Content": "Por segunda temporada consecutiva, el teatro La Fundición de Sevilla abre las puertas de su espacio también en el periodo estival con la propuesta y la venta de entradas en su web de los dos espectác… [+4814 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'Clanes', o la doble vida de una villa en la que manda el narcotráfico",
-      "Description": "El narcotráfico gallego lleva años inspirando rodajes. Hace tiempo que no impacta ver series que toman las Rías Baixas como escenario para narrar historias que hablan de crimen, poder y ambición. Pero, según parece, sigue quedando terreno por explorar. 'Clane…",
-      "Url": "https://www.abc.es/espana/galicia/clanes-doble-vida-villa-manda-narcotrafico-20240616185032-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/06/16/clanes_S01_E07_07062023_jaimeolmedo_DSC_5882-U03346032141MFZ-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-06-16T08:33:49Z",
-      "Content": "El narcotráfico gallego lleva años inspirando rodajes. Hace tiempo que no impacta ver series que toman las Rías Baixas como escenario para narrar historias que hablan de crimen, poder y ambición. Per… [+6250 chars]"
     }
   ]
 }
