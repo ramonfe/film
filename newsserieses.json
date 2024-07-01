@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 663,
+  "TotalResults": 664,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Silvia Fernández",
+      "Title": "Fecha y hora de estreno del 2x03 de 'La casa del dragon' en Max",
+      "Description": "La Casa del Dragón está siendo la estrella de la temporada, tanto en Max como en las plataformas de streaming en términos generales, pues se posiciona ahora mismo como la serie más popular del momento en España. Después de una primera temporada que se emitió …",
+      "Url": "https://www.lavanguardia.com/andro4all/series/fecha-y-hora-de-estreno-del-2x03-de-la-casa-del-dragon-en-max",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/06/fotos-del-2x03-de-la-casa-del-dragon.png?width=1200",
+      "PublishedAt": "2024-06-30T20:40:26Z",
+      "Content": "Escena del tercer capítulo de la temporada 2 de 'La Casa del Dragón'\r\nLa Casa del Dragón está siendo la estrella de la temporada, tanto en Max como en las plataformas de streaming en términos general… [+2734 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/88310e/los-anillos-de-poder/840_560.jpeg",
       "PublishedAt": "2024-06-28T17:30:48Z",
       "Content": "La segunda temporada de El Señor de los Anillos: Los Anillos de Poder quiere sorprender a los fans de la Tierra Media con la llegada de criaturas y personajes de todo tipo. Tras confirmar hace varias… [+1492 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Raquel Morales",
-      "Title": "El creador de Mi reno de peluche de Netflix está trabajando en su nueva serie",
-      "Description": "Una serie compuesta por 6 episodios\nLions es la nueva serie de Richard Gadd que está creada en colaboración con la BBC y HBO",
-      "Url": "https://es.ign.com/tv/204866/news/el-creador-de-mi-reno-de-peluche-de-netflix-esta-trabajando-en-su-nueva-serie",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/photo/n/netflix-hi/netflix-hit-baby-reindeer-has-become-an-object-of-fascinatio_q7kk.1200.jpg",
-      "PublishedAt": "2024-06-28T17:15:23Z",
-      "Content": "Richard Gadd ha encontrado un inesperado éxito con Mi reno de peluche, una de las series revelación de Netflix. El guionista escocés ya trabaja en una nueva idea cuyo título provisional es Lions y es… [+1720 chars]"
     }
   ]
 }
