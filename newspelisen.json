@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 884,
+  "TotalResults": 885,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Eva Rothenberg",
+      "Title": "‘Inside Out 2’ is the first movie of 2024 to top $1 billion at global box office | CNN Business",
+      "Description": "“Inside Out 2” has become the fastest-ever animated film to surpass $1 billion globally, shooting past the box office milestone this weekend, just 19 days after its release.",
+      "Url": "https://www.cnn.com/2024/06/30/business/inside-out-2-global-box-office/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/inside-out-2-online-use-pubstill-pub16.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-06-30T19:17:46Z",
+      "Content": "Inside Out 2 has become the fastest-ever animated film to surpass $1 billion globally, shooting past the box office milestone this weekend, just 19 days after its release.\r\nWere absolutely thrilled t… [+2161 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1746/17463818/4326847-4262385-duneparttwo2.jpg",
       "PublishedAt": "2024-06-28T21:43:00Z",
       "Content": "Although nothing has been officially confirmed, it's starting to look like Denis Villeneuve's Dune 3 may hit the big screen in December of 2026, and a new MonsterVerse movie is being slated for 2027.… [+1056 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "JoBlo.com"
-      },
-      "Author": "Kevin Fraser",
-      "Title": "Warner Bros. reveals when the next MonsterVerse movie will smash into theaters",
-      "Description": "Warner Bros. announces the release date of the next MonsterVerse movie, which is slated to be directed by Grant Sputore.\nThe post Warner Bros. reveals when the next MonsterVerse movie will smash into theaters appeared first on JoBlo.",
-      "Url": "https://www.joblo.com/next-monsterverse-movie-release-date/",
-      "UrlToImage": "https://www.joblo.com/wp-content/uploads/2024/06/next-monsterverse-movie-release.jpg",
-      "PublishedAt": "2024-06-28T21:07:38Z",
-      "Content": "Warner Bros. announces the release date of the next MonsterVerse movie, which is slated to be directed by Grant Sputore.\r\nWith Godzilla x Kong: The New Empire sitting pretty as the highest-grossing m… [+2094 chars]"
     }
   ]
 }
