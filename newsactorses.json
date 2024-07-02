@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 599,
+  "TotalResults": 600,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Natalia Trzenko",
+      "Title": "El #Metoo del cine francés tiene a sus primeros detenidos, los directores Benoît Jacquot y Jacques Doillon",
+      "Description": "Por la denuncia de la actriz y realizadora Judith Godrèche fueron demorados los realizadores; Gerard Depardieu será juzgado en octubre por el cargo de agresión sexual",
+      "Url": "https://www.lanacion.com.ar/espectaculos/cine/el-metoo-del-cine-frances-tiene-a-sus-primeros-detenidos-los-directores-benoit-jacquot-y-jacques-nid01072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/jacques-doillon-y-benoit-KOGUOP57ZJDRTFEFOYPXVLTPPM.JPG?auth=cbeb3f1ce7baf853520e5fbdb211763e22f7d35c3eafe91884f74cbd966775e3&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-01T22:31:42Z",
+      "Content": "A partir de hoy, la industria de cine francés ya no será igual. Los reconocidos directores Benoît Jacquot (Adiós a la reina) y Jacques Doillon (Casamiento de tres) fueron detenidos esta mañana en Par… [+4873 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/18df81/image-9-/840_560.jpeg",
       "PublishedAt": "2024-06-29T13:37:46Z",
       "Content": "La Eurocopa 2024 está modificando y trastocando muchos de los horarios habituales de nuestras series favoritas. Esto está causando algo de resquemor entre los televidentes, que ven como cada día es t… [+1544 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "El comentario censurado de Carlo Costanzia sobre Ana Rosa Quintana: «Es una insinuación fea»",
-      "Description": "En la nueva Mediaset España , con el Código Ético en la mano, no se permiten los enfrentamientos públicos entre diferentes productoras de la cadena: «Los presentadores o colaboradores no deben atacar o criticar a ningún otro programa o a sus presentadores o c…",
-      "Url": "https://www.abc.es/play/television/noticias/comentario-censurado-carlo-costanzia-sobre-ana-rosa-20240629122654-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/06/29/carlo-costanzia-ana-rosa-kNW--1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-06-29T10:26:55Z",
-      "Content": "En la nueva Mediaset España, con el Código Ético en la mano, no se permiten los enfrentamientos públicos entre diferentes productoras de la cadena: «Los presentadores o colaboradores no deben atacar … [+2526 chars]"
     }
   ]
 }
