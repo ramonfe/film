@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Netflix & Amazon Ordered Majority Of Originals From Outside U.S. Last Quarter, Ampere Research Finds - Deadline",
+      "Description": "Netflix & Amazon Ordered Majority Of Originals From Outside U.S. Last Quarter, Ampere Research FindsDeadline Netflix and Amazon Drive Bump in TV Show MarketThe New York Times Netflix and Amazon Dominate Commissioning by Streamers, Tilting the Content Market A…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174355223",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-01T12:54:15Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/06/Lenovo-ThinkBook-13x-open-1.jpg?quality=50&strip=all&w=1024",
       "PublishedAt": "2024-06-11T10:00:00Z",
       "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWalk into an electro… [+4954 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "Caroline Bologna",
-      "Title": "This Scandalous Reality Show Is The Top Series On Netflix Right Now",
-      "Description": "A 2020 crime drama and a wild new real estate show are also trending on streaming services like Max, Hulu, Apple TV+ and Disney+.",
-      "Url": "https://www.huffpost.com/entry/perfect-match-popular-netflix-shows_n_66670df3e4b02fc48bf41af2",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/666760352200001e001a50d3.jpg?cache=A09et8qFnj&ops=1200_630",
-      "PublishedAt": "2024-06-11T07:00:32Z",
-      "Content": "Perfect Match is currently the most popular show on Netflix, according to the platforms public ranking system.\r\nThe second season of dating reality show premiered on June 7 with the release of the fi… [+2147 chars]"
     }
   ]
 }
