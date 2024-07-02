@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 598,
+  "TotalResults": 599,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Javier Gutiérrez, sobre la discapacidad de su hijo mayor: «Nació como si fuese una película de terror»",
+      "Description": "Javier Gutiérrez es uno de los actores más respetados y valorados del panorama nacional. Tanto en el cine como en la pequeña pantalla, el intérprete habita en el olimpo de los más grandes de los últimos años. Más allá de su éxito profesional, Gutiérrez cuenta…",
+      "Url": "https://www.abc.es/gente/javier-gutierrez-sobre-discapacidad-hijo-mayor-nacio-20240701211216-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/07/01/1475795417-kLFI--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-07-01T19:12:16Z",
+      "Content": "Javier Gutiérrez es uno de los actores más respetados y valorados del panorama nacional. Tanto en el cine como en la pequeña pantalla, el intérprete habita en el olimpo de los más grandes de los últi… [+1584 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/a58de365-9862-4fe2-b179-edf2a751005d_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-06-28T20:44:27Z",
       "Content": "La historia literaria ha tenido por costumbre distribuir en filas a los autores de cada uno de sus capítulos, y vencer la inercia de esa clasificación viene a ser tarea muy difícil o imposible. Asumo… [+1054 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Enric Auquer: “Los jóvenes están consumiendo todo el día contenidos medio fascistas creados con algoritmos”",
-      "Description": "Enric Auquer es pura electricidad. Dice que fueron sus enormes ojos la clave para dotar de bondad al personaje de Antoni Benaiges en El maestro que prometió el mar; y puede que esa sea también su arma para conseguir contagiar su energía, su pasión y su compro…",
-      "Url": "https://www.eldiario.es/cultura/cine/enric-auquer-jovenes-consumiendo-dia-contenidos-medio-fascistas-creados-algoritmos_1_11482785.html",
-      "UrlToImage": "https://static.eldiario.es/clip/0eccb4ba-3c75-482f-8385-675eeb47a9fd_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-06-28T20:44:22Z",
-      "Content": "Enric Auquer es pura electricidad. Dice que fueron sus enormes ojos la clave para dotar de bondad al personaje de Antoni Benaiges en El maestro que prometió el mar; y puede que esa sea también su arm… [+1136 chars]"
     }
   ]
 }

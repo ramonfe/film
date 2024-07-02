@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 693,
+  "TotalResults": 694,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CinemaBlend"
+      },
+      "Author": "Caroline Young",
+      "Title": "Morgan Freeman Once Opened Up About The Consequences Of Becoming Too Famous",
+      "Description": "Morgan Freeman recently gave a candid interview about why he believes becoming a movie star limited him as a character actor.",
+      "Url": "https://www.cinemablend.com/movies/morgan-freeman-opened-up-consequences-becoming-too-famous",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/pd72d8TYk7vKg3LJD6cAZR-1200-80.jpg",
+      "PublishedAt": "2024-07-01T19:11:05Z",
+      "Content": "Morgan Freeman has been an iconic Hollywood figure for over five decades. The actor’s diverse career is prolific, exploring roles in serious dramas, laugh-out-loud comedies and several action films. … [+3275 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-29T02:30:09Z",
       "Content": "New Delhi, June 28 (PTI) She was advised to play “stupid characters” in a few movies to establish herself as an actor, an idea that didn’t look appealing to Juhi Babbar, who instead decided to step a… [+2755 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
