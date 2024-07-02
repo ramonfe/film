@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 897,
+  "TotalResults": 894,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "FOX 9"
+      },
+      "Author": "Fox 9",
+      "Title": "St. Louis Park's Showplace ICON theater closes; Marcus Theatres will reopen it",
+      "Description": "St. Louis Park's Showplace ICON movie theater closed on Sunday, but it will be reopened as the Marcus West End Cinema next week.",
+      "Url": "https://www.fox9.com/news/st-louis-park-movie-theater-will-reopen",
+      "UrlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/07/1280/720/GettyImages-1243093644.jpg?ve=1&tl=1",
+      "PublishedAt": "2024-07-01T20:37:43Z",
+      "Content": "ST. LOUIS PARK, Minn. (FOX 9) - St. Louis Park's Showplace ICON movie theater closed on Sunday, but it will be reopened as the Marcus West End Cinema next week.\r\nShowplace ICON at the Shops at West E… [+1460 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.abcotvs.com/dip/images/15013937_061224-wabc-inside-out-2-10am-img.jpg?w=1600",
       "PublishedAt": "2024-06-30T22:20:25Z",
       "Content": "NEW YORK -- \"Inside Out 2\" has become the fastest-ever animated film to surpass $1 billion globally, shooting past the box office milestone this weekend, just 19 days after its release.\r\nThe video ab… [+2503 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Block Club Chicago"
-      },
-      "Author": "Jamie Nesbitt Golden",
-      "Title": "South Loop's ShowPlace Icon Movie Theater Closes After 15 Years",
-      "Description": "South Loop's ShowPlace Icon Movie Theater Closes After 15 Yearsblockclubchicago.org",
-      "Url": "http://blockclubchicago.org/2024/06/30/south-loops-showplace-icon-movie-theater-closes-after-15-years/",
-      "UrlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2024/06/ShowplaceICON.jpg",
-      "PublishedAt": "2024-06-30T22:16:14Z",
-      "Content": "SOUTH LOOP ShowPlace Icon Theater held its last day in business Sunday as its set to close after 15 years in the South Loop, according to two employees.\r\nThe movie theater, 1011 S. Delano Court, open… [+1724 chars]"
     }
   ]
 }
