@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 725,
+  "TotalResults": 727,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Samantha Murphy Kelly",
+      "Title": "AI resurrects deceased actors’ voices to read audiobooks | CNN Business",
+      "Description": "Actress Judy Garland never recorded her voice to read an audiobook of The Wonderful Wizard of Oz, but you’ll soon be able to hear her rendition of the children’s novel that inspired the movie nonetheless.",
+      "Url": "https://www.cnn.com/2024/07/03/tech/elevenlabs-ai-celebrity-voices/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240703-split-judy-garland-burt-reynolds.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-07-03T16:32:21Z",
+      "Content": "Actress Judy Garland never recorded her voice to read an audiobook of The Wonderful Wizard of Oz, but youll soon be able to hear her rendition of the childrens novel that inspired the movie nonethele… [+3772 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Ryan Reynolds and Hugh Jackman Hilariously Recap DEADPOOL and DEADPOOL 2",
+      "Description": "Marvel Studios partnered up with Entertainment Weekly for a new video featuring Ryan Reynolds and Hugh Jackman offering a funny recap of Deadpool and Deadpool 2 ahead of the release of Deadpool & Wolverine.The actor also hilariously breaks down their onscreen…",
+      "Url": "https://geektyrant.com/news/ryan-reynolds-and-hugh-jackman-hilariously-recap-deadpool-and-deadpool-2",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6684476fcf077524fc6c3eb7/1720024121877/Screenshot+2024-07-02+at+12.41.42%E2%80%AFPM.jpg?format=1500w",
+      "PublishedAt": "2024-07-03T16:28:00Z",
+      "Content": "Marvel Studios partnered up with Entertainment Weekly for a new video featuring Ryan Reynolds and Hugh Jackman offering a funny recap of Deadpool and Deadpool 2 ahead of the release of Deadpool &amp;… [+1499 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.catholicnewsagency.com/storage/image/soundofhope.png?jpg",
       "PublishedAt": "2024-07-02T16:15:00Z",
       "Content": "Rev. Martin and Donna Martin with their adopted daughter, Terri, in the move \"Sound of Hope: The Story of Possum Trot.\" Credit: Angel Studios\r\nRebekah Weigel, writer and producer of the film, spoke w… [+1270 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nofilmschool.com"
-      },
-      "Author": "Jason Hellerman",
-      "Title": "Viggo Mortensen's Hilarious Way He Assesses a Screenplay",
-      "Description": "Viggo Mortensen is one of my favorite actors of all time. My first time seeing him in any movie was in Witness, but like many people, I didn't see him as a star until I saw The Lord of the Rings. Since then, if Viggo is in it, my butt is in a seat. It feels l…",
-      "Url": "https://nofilmschool.com/viggo-mortensen-picks-screenplay",
-      "UrlToImage": "https://nofilmschool.com/media-library/viggo-mortensen-s-hilarious-way-he-assesses-a-screenplay.jpg?id=52521654&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-      "PublishedAt": "2024-07-02T16:03:02Z",
-      "Content": "Oftentimes our struggle isnt just getting a foot in the door, but also, putting up a constant fight to stay in the country. Let me start by saying that I appreciate our resilience, and good things wi… [+4072 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Eddie Makuch",
-      "Title": "Cate Blanchett Explains Why She Is In The Borderlands Movie, And It Has To Do With COVID",
-      "Description": "Cate Blanchett's next big movie role is playing the space-outlaw Lilith in the Borderlands movie, which is based on the Gearbox video game. When Blanchett was announced for the film, many people had a lot to say about the two-time Oscar-winner joining the cas…",
-      "Url": "https://www.gamespot.com/articles/cate-blanchett-explains-why-she-is-in-the-borderlands-movie-and-it-has-to-do-with-covid/1100-6524648/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4328027-screenshot2024-07-02at11.24.30am.png",
-      "PublishedAt": "2024-07-02T15:10:00Z",
-      "Content": "Cate Blanchett's next big movie role is playing the space-outlaw Lilith in the Borderlands movie, which is based on the Gearbox video game. When Blanchett was announced for the film, many people had … [+1708 chars]"
     }
   ]
 }
