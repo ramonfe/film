@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 613,
+  "TotalResults": 614,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Una estrella de Friends contó un secreto de su paso por la serie",
+      "Description": "Se trata de Jane Sibbett, quien apareció en la popular sitcom de los 90; en una entrevista televisiva, la actriz de 61 años sorprendió al revelar por qué no interpretó a uno de los personajes principales",
+      "Url": "https://www.lanacion.com.ar/espectaculos/una-estrella-de-friends-conto-un-secreto-de-su-paso-por-la-serie-nid02072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/jane-sibbett-asumio-el-papel-de-carol-pocos-dias-2SBZ76ZIIRAJVM6EGWTOP6JX3U.jpg?auth=b737b1b5c13041f8c863af07478e8761bb5bf004d69681c14898dac8ee357b2e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-03T02:58:41Z",
+      "Content": "No hay dudas queFriends marcó un antes y un después en distintas generaciones que se prendían frente al televisor para entretenerse con las aventuras de un par de amigos. La sitcom de la década de lo… [+3050 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/195206/pasiondegavilanes/840_560.jpeg",
       "PublishedAt": "2024-07-01T12:01:57Z",
       "Content": "El mundo de las telenovelas está de luto. El pasado sábado, el reconocido actor colombiano Sigifredo Vega, fallecía a los 77 años tras una larga batalla contra el cáncer. Una noticia que la televisió… [+2069 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Víctor Rodríguez Gago",
-      "Title": "José Manuel Ballester, variaciones sobre la escala urbana",
-      "Description": "Estas imágenes de gran formato de arquitectura y áreas urbanas innovadoras de las grandes ciudades globales tienen en común que abordan la escala del paisaje como un tema pictórico y filosófico. José Manuel Ballester (Madrid, 1960) ha seleccionado, para su pr…",
-      "Url": "https://www.eldiario.es/canariasahora/cultura/jose-manuel-ballester-variaciones-escala-urbana_1_11491197.html",
-      "UrlToImage": "https://static.eldiario.es/clip/06a47db3-1d43-4e36-a25f-1bc0b8abd559_facebook-watermarked-aspect-ratio_default_1098163.jpg",
-      "PublishedAt": "2024-07-01T11:37:06Z",
-      "Content": "Estas imágenes de gran formato de arquitectura y áreas urbanas innovadoras de las grandes ciudades globales tienen en común que abordan la escala del paisaje como un tema pictórico y filosófico. José… [+5072 chars]"
     }
   ]
 }
