@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Los pasos de Arturo Valls para ser una 'Mala persona': «Hace falta comedia más variada, en el cine siempre te encuentras lo mismo»",
+      "Description": "Para ser una mala persona hace falta seguir una serie de pasos muy sencillos. Nunca hay que disculparse, pase lo que pase, aunque la metedura de pata sea enorme. Es imprescindible rodearse de las peores influencias, no importa si son tus amigos o no, acércate…",
+      "Url": "https://www.abc.es/play/cine/noticias/pasos-arturo-valls-mala-persona-falta-comedia-20240702174756-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/07/02/1708423067-scaled-U22154008171AAN-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-07-03T14:32:01Z",
+      "Content": "Para ser una mala persona hace falta seguir una serie de pasos muy sencillos. Nunca hay que disculparse, pase lo que pase, aunque la metedura de pata sea enorme. Es imprescindible rodearse de las peo… [+4005 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/7da70a/sin-titulo-1/840_560.jpeg",
       "PublishedAt": "2024-06-21T17:59:11Z",
       "Content": "Parece que las adaptaciones de videojuegos a la pantalla grande viven su mejor momento desde hace un par de años. Basta con ver el éxito de películas como Mario Bros. The Movie, Mortal Kombat, Detect… [+2706 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "Javier Pastor",
-      "Title": "Una IA ha creado el guión de una película que precisamente habla de la creatividad en el cine. Una sala se niega a estrenarla",
-      "Description": "'The Last Screenwriter' no es tanto una película como un experimento. Uno en el que su director, Peter Luisi, tiene claro que la industria del cine va a cambiar radicalmente. Él mismo admitía que la revolución de la IA no le parecía tan llamativa. \"Solía pens…",
-      "Url": "https://www.xataka.com/robotica-e-ia/ia-ha-creado-guion-pelicula-que-precisamente-habla-creatividad-cine-sala-se-niega-a-estrenarla",
-      "UrlToImage": "https://i.blogs.es/08b1c4/last-1/840_560.jpeg",
-      "PublishedAt": "2024-06-21T14:31:04Z",
-      "Content": "'The Last Screenwriter' no es tanto una película como un experimento. Uno en el que su director, Peter Luisi, tiene claro que la industria del cine va a cambiar radicalmente. Él mismo admitía que la … [+2923 chars]"
     }
   ]
 }
