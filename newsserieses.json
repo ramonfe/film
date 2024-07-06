@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 663,
+  "TotalResults": 664,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "TRESB",
+      "Title": "La serie de médicos con Blanca Suárez que aspira a ser mejor que Anatomía de Grey",
+      "Description": "Netflix ya tiene una nueva serie española en el horizonte. El 30 de agosto estrenará Respira, drama hospitalario creado por Carlos Montero y protagonizado por Blanca Suárez.",
+      "Url": "https://www.elmundo.es/television/series/2024/07/05/66880845fdddff33a88b45a6.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/3fba0f0d35aca29589a20468aa4a5756/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/05/17201914190761.jpg",
+      "PublishedAt": "2024-07-05T15:00:00Z",
+      "Content": "Netflix ya tiene una nueva serie española en el horizonte. El 30 de agosto estrenará Respira, drama hospitalario creado por Carlos Montero y protagonizado por Blanca Suárez.\r\n\"El Hospital Joaquín Sor… [+1908 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/49ce83/matt-smith_3/840_560.jpeg",
       "PublishedAt": "2024-07-04T12:31:03Z",
       "Content": "Hay unos cuantos episodios de las series que adaptan la franquicia creada por George R.R. Martin que han dado abundantes quebraderos de cabeza a los espectadores. Porque no se ve nada. O hay que verl… [+4136 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Marina Velasco",
-      "Title": "La serie que se ve en una semana y es ideal para que el tiempo pase rápido hasta tus vacaciones",
-      "Description": "La ficción protagonizada por Anya Taylor-Joy se inspira en figuras y experiencias reales, y es considerada una de las mejores miniseries de Netflix. La joya de Scott Frank sirve como un homenaje a las mujeres de mente prodigiosa",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2024-07-04/gambito-de-dama-serie-netflix-ver-en-una-semana_3917225/",
-      "UrlToImage": "https://images.ecestaticos.com/5-9B6wVOm5PvvljNIReC1adwf_Q=/0x0:640x360/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/5fb/275/882/5fb275882091efd67efae9195364c775.jpg",
-      "PublishedAt": "2024-07-04T12:07:00Z",
-      "Content": "La serie de época perfecta para viajar al pasado (es perfecta para ver esta semana y este es el por qué)La (ácida) serie cómica de Netflix dirigida por Martin Scorsese que devorarás en tus vacaciones… [+2714 chars]"
     }
   ]
 }
