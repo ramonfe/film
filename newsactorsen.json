@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 697,
+  "TotalResults": 698,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CBM (Comic Book Movie)"
+      },
+      "Author": "MarkCassidy",
+      "Title": "Emma Roberts Believes \"Internet Culture\" Was To Blame For MADAME WEB's Negative Reception",
+      "Description": "Madame Web actress Emma Roberts believes that the movie would have been more positively-received if it wasn't for people making fun of it online...",
+      "Url": "https://comicbookmovie.com/spider_man/madame-web/emma-roberts-believes-internet-culture-was-to-blame-for-madame-webs-negative-reception-a211880",
+      "UrlToImage": "https://comicbookmovie.com/images/articles/banners/211880.jpg",
+      "PublishedAt": "2024-07-05T22:39:36Z",
+      "Content": "It's probably fair to say that Madame Web always had a pretty steep hill to climb after becoming meme-fodder immediately after the release of its first (and only) trailer, but right from the opening … [+3308 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/07/1992-trailer.jpg",
       "PublishedAt": "2024-07-04T02:00:32Z",
       "Content": "The trailer for Tyrese Gibson‘s new thriller has been released!\r\nThe 45-year-old actor stars alongside Christopher Ammanuel, Scott Eastwood, and the late Ray Liotta in the upcoming movie 1992.\r\nHere’… [+956 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
