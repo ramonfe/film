@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 907,
+  "TotalResults": 908,
   "Articles": [
+    {
+      "Source": {
+        "Id": "associated-press",
+        "Name": "Associated Press"
+      },
+      "Author": "Julie Carr Smyth",
+      "Title": "How an Oscar-winning filmmaker helped a small-town art theater in Ohio land a big grant",
+      "Description": "When the Little Art Theatre set out to land a $100,000 grant to fund a stylish new marquee, the cozy arthouse theater had some talented help. Oscar-winning documentarian Steve Bognar lives in Yellow Springs, the Ohio town where the theater is a downtown fixtu…",
+      "Url": "https://apnews.com/article/little-art-grant-small-theaters-survival-streaming-268bc5d9f318983265e423196605cc68",
+      "UrlToImage": "https://dims.apnews.com/dims4/default/59bd14e/2147483647/strip/true/crop/5737x3227+0+299/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2F4f%2Fdb72131d40af850164bd4ee1d259%2Fc4c696289d4b4a438463666b22909f8c",
+      "PublishedAt": "2024-07-06T04:33:25Z",
+      "Content": "YELLOW SPRINGS, Ohio (AP) When the Little Art Theatre set out to land a $100,000 grant to fund a stylish new marquee, with a nod to its century-long history, the cozy Ohio arthouse theater had some t… [+3704 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/07/blake-ryan.jpg",
       "PublishedAt": "2024-07-04T17:01:20Z",
       "Content": "Both Blake Lively and Hugh Jackman had something to say about a new photo of Ryan Reynolds.\r\nAs the 47-year-old actor is gearing up for the release of his new movie Deadpool &amp; Wolverine with Hugh… [+885 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Gameinformer.com"
-      },
-      "Author": "Kyle Hilliard",
-      "Title": "Monaco 2 Preview — Sneaking in a new dimension",
-      "Description": "Platform:\n PC\n Publisher:\n Humble Games\n Developer:\n Pocketwatch Games\n \n\n The first Monaco released in 2013 at a point when Xbox Live Arcade had hit its stride, and there was a new appetite for the type of creative and unique game that existed below the huge…",
-      "Url": "https://www.gameinformer.com/preview/2024/07/04/sneaking-in-a-new-dimension",
-      "UrlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2024/07/03/988151ff/monaco2_01.jpg",
-      "PublishedAt": "2024-07-04T16:00:00Z",
-      "Content": "The first Monaco released in 2013 at a point when Xbox Live Arcade had hit its stride, and there was a new appetite for the type of creative and unique game that existed below the huge budget triple-… [+3374 chars]"
     }
   ]
 }
