@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 674,
+  "TotalResults": 675,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbc-news",
+        "Name": "CBC News"
+      },
+      "Author": null,
+      "Title": "Stand-up comedian, actor, screenwriter and director: Rising star Ramy Youssef on how he got into showbiz",
+      "Description": "American stand-up comedian, actor, screenwriter and director Ramy Youssef has been busy, having debuted his second comedy special on HBO, directed an episode of the hit series The Bear, co-starred in the Oscar-winning movie Poor Things and hosted Saturday Nig…",
+      "Url": "https://www.cbc.ca/news/canada/british-columbia/ramy-youssef-vancouver-1.7253384",
+      "UrlToImage": "https://i.cbc.ca/1.5642658.1720034315!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ramy-youssef.jpg",
+      "PublishedAt": "2024-07-07T13:02:00Z",
+      "Content": "Ramy Youssef has been busy these past few years. \r\nThe American stand-up comedian, actor, screenwriter and director went on tour, debuted his second comedy special on HBO, directed an episode of the … [+5391 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "1970-01-01T00:00:00Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NPR"
-      },
-      "Author": "Stephen Thompson",
-      "Title": "'MaXXXine' closes a grisly trilogy in style",
-      "Description": "The new movie MaXXXine stars Mia Goth as an adult-film actress who gets her big break in Hollywood, only to be revisited by horrors from her past. Set in 1985 Los Angeles, it's the final film in director Ti West's beloved horror trilogy that began with the mo…",
-      "Url": "https://www.npr.org/2024/07/05/1197967394/maxxxine-closes-a-grisly-trilogy-in-style",
-      "UrlToImage": "https://media.npr.org/assets/img/2024/07/03/a24_maxxxine_firstlook_confidential_wide-4b703f38c45da39ae6dddb41619bc504f923d0b4.jpg?s=1400&c=100&f=jpeg",
-      "PublishedAt": "2024-07-05T07:00:00Z",
-      "Content": "Mia Goth and Halsey in MaXXXine.\r\nJustin Lubin/A24\r\nThe new movie MaXXXine stars Mia Goth as an adult-film actress who gets her big break in Hollywood, only to be revisited by horrors from her past. … [+214 chars]"
     }
   ]
 }

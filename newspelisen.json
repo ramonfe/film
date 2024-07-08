@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 873,
+  "TotalResults": 874,
   "Articles": [
+    {
+      "Source": {
+        "Id": "bleacher-report",
+        "Name": "Bleacher Report"
+      },
+      "Author": "Mike Chiari",
+      "Title": "Video: Brad Pitt's 'F1' Movie Trailer Drops After Details of Release Date and Cast",
+      "Description": "Formula One released the official teaser trailer Sunday for the upcoming Apple Original Films movie entitled F1. The movie, which stars Brad Pitt as an F1…",
+      "Url": "https://bleacherreport.com/articles/10127431-video-brad-pitts-f1-movie-trailer-drops-after-details-of-release-date-and-cast",
+      "UrlToImage": "https://media.bleacherreport.com/image/upload/x_85,y_17,w_1642,h_1093,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1720360589/tzxnhn48cphvsn9ehtyz.jpg",
+      "PublishedAt": "2024-07-07T13:57:44Z",
+      "Content": "James Sutton - Formula 1/Formula 1 via Getty Images\r\nFormula One released the official teaser trailer Sunday for the upcoming Apple Original Films movie entitled F1.\r\nFormula 1@F1This is F1. Starring… [+976 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-111520763,width-1200,height-630,imgsize-146332,overlay-economictimes/photo.jpg",
       "PublishedAt": "2024-07-05T16:35:19Z",
       "Content": "(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.)\r\nDownload The Economic Times News App to get Daily International News… [+8 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Daily Beast"
-      },
-      "Author": "Josephine Walker",
-      "Title": "‘Despicable Me 4’ Sets Off Fireworks During July 4 Opening",
-      "Description": "Kena Betancur/Reuters\r\nSupervillain-turned-anti-villain-turned-crimefighter Gru and his gang of highlighter-yellow Minions are back to blow up the July 4 box office with the latest installment of the Despicable Me franchise. Universal and Illumination’s Despi…",
-      "Url": "https://www.thedailybeast.com/despicable-me-4-sets-off-fireworks-during-july-4-opening",
-      "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2514,w_4471,x_0,y_11/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1720190151/2024-06-09T170503Z_1492739060_RC2R78AXZ913_RTRMADP_3_FILM-DESPICABLE-ME-4-PREMIERE_i8hx7i",
-      "PublishedAt": "2024-07-05T16:11:57Z",
-      "Content": "Supervillain-turned-anti-villain-turned-crimefighter Gru and his gang of highlighter-yellow Minions are back to blow up the July 4 box office with the latest installment of the Despicable Me franchis… [+903 chars]"
     }
   ]
 }
