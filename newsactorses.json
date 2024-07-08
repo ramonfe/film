@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 555,
+  "TotalResults": 556,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "El Tiempo (Colombia)",
+      "Title": "Una actriz de Stranger Things acusó a la serie de estar “maldita” y adelantó cómo será la temporada final",
+      "Description": "Lo dijo Maya Hawke, quien interpreta a Robin Buckley en la famosa producción de Netflix que, hasta el momento, tiene cuatro temporadas",
+      "Url": "https://www.lanacion.com.ar/espectaculos/una-actriz-de-stranger-things-acuso-a-la-serie-de-estar-maldita-y-adelanto-como-sera-la-temporada-nid07072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/una-actriz-de-stranger-things-dijo-que-la-serie-PYGNCUVSY5B7PADMS6HAG2SGGA.png?auth=28d116ac8f1f15e79de054d8141b41ef977fa7d1ae1892af4c50fd21fea61fd6&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-07T22:13:14Z",
+      "Content": "Maya Hawke, la joven actriz hija de Uma Thurman y Ethan Hawke, se dio a conocer en la tercera temporada de la serie de Netflix, Stranger Things.\r\nHawke, de 25 años, quien interpreta a Robin Buckley e… [+2576 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/cultura/2024/07/04/NOVIO-5-scaled-U16334445535yIg-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-07-04T17:02:07Z",
       "Content": "En 1952, Carmen Sevilla era una de las estrellas emergentes de nuestro cine. Había comenzado su carrera cinematográfica apenas cinco años antes, pero su belleza y su simpatía habían conquistado ya al… [+5875 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"Esta película podría salvarte la vida\": cómo la pandemia llevó a Cate Blanchett a protagonizar la adaptación al cine de Borderlands",
-      "Description": "Queda poco más de un mes para que llegue a los cines una adaptación que lleva años en desarrollo: Borderlands. A pesar del caos en su producción, la cinta ha reunido a una buena cantidad de actores de renombre, siendo Cate Blanchett la más destacada y sorpren…",
-      "Url": "https://www.vidaextra.com/cine/esta-pelicula-podria-salvarte-vida-como-pandemia-llevo-a-cate-blanchett-a-protagonizar-adaptacion-al-cine-borderlands",
-      "UrlToImage": "https://i.blogs.es/4a697b/borderlands/840_560.jpeg",
-      "PublishedAt": "2024-07-04T17:01:05Z",
-      "Content": "Queda poco más de un mes para que llegue a los cines una adaptación que lleva años en desarrollo: Borderlands. A pesar del caos en su producción, la cinta ha reunido a una buena cantidad de actores d… [+1642 chars]"
     }
   ]
 }
