@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 556,
+  "TotalResults": 557,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "Cristina Álvarez",
+      "Title": "¡Sorpresa! Margot Robbie está embarazada",
+      "Description": "La actriz va a ser mamá junto a su marido, el productor de cine Tom Ackerley",
+      "Url": "https://www.hola.com/actualidad/20240708704822/margot-robbie-esta-embarazada/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/71cc98afa631-gettyimages-1501791213.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-07-08T06:48:13Z",
+      "Content": "Un nuevo bebé va a llegar a Hollywood en los próximos meses, y es que ¡Margot Robbie está embarazada! La actriz australiana, de 34 años, y su marido, el productor de cine Tom Ackerley, también de 34,… [+1437 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/07/04/boiling-kSoB--1024x512@diario_abc.jpeg",
       "PublishedAt": "2024-07-04T17:03:50Z",
       "Content": "Hay tensión, mucha, y todo va a doble velocidad, porque las cocinas funcionan como ollas a presión, todo es tirante, va rápido y puede estallar en cualquier momento. Por momentos, la británica 'Boili… [+1498 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'El novio de España': la frustrada historia de amor entre Carmen Sevilla y Luis Mariano",
-      "Description": "En 1952, Carmen Sevilla era una de las estrellas emergentes de nuestro cine. Había comenzado su carrera cinematográfica apenas cinco años antes, pero su belleza y su simpatía habían conquistado ya al público. Y no solo a él, también a un joven tenor vasco que…",
-      "Url": "https://www.abc.es/cultura/teatros/novio-espana-frustrada-historia-amor-carmen-sevilla-20240704190207-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/cultura/2024/07/04/NOVIO-5-scaled-U16334445535yIg-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-07-04T17:02:07Z",
-      "Content": "En 1952, Carmen Sevilla era una de las estrellas emergentes de nuestro cine. Había comenzado su carrera cinematográfica apenas cinco años antes, pero su belleza y su simpatía habían conquistado ya al… [+5875 chars]"
     }
   ]
 }
