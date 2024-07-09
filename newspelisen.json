@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 862,
+  "TotalResults": 863,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Jon Bitner",
+      "Title": "All The Best Target Circle Week Deals - Video Games, Lego Sets, Books, Laptops, And More",
+      "Description": "You don't have to wait until Prime Day 2024 to start saving, as Target Circle Week has officially kicked off--and it's offering some of the best deals of the year. You'll need to create a free Target Circle membership account, but once you've taken a minute t…",
+      "Url": "https://www.gamespot.com/gallery/target-circle-week-deals/2900-5574/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4329919-targetcircleweek.jpg",
+      "PublishedAt": "2024-07-08T19:08:00Z",
+      "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.soundandvision.com/images/070824_the_gawker_apple_vision_pro_promo.jpg",
       "PublishedAt": "2024-07-08T00:00:00Z",
       "Content": "We dont often get a chance to peer into tomorrow, but spending half an hour for a free demo of Vision Pro at an Apple store is one of those opportunities not to be missed. My first encounter with the… [+9818 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Twit.tv"
-      },
-      "Author": "TWiT",
-      "Title": "ATTG 2032: My Baby Loves to Boom Boom - DIY Home Theater, Backup Best Practices, Corrupted Kernel Extensions & More",
-      "Description": "Leo and Mikah tackle a wide range of tech questions from viewers, covering everything from backup strategies to AI's impact on creativity. The hosts are joined by the Home Theater Geek Scott Wilkinson, who shares an impressive DIY home theater, and travel exp…",
-      "Url": "https://twit.tv/shows/ask-the-tech-guys/episodes/2032",
-      "UrlToImage": "https://elroy.twit.tv/sites/default/files/images/episodes/2024/07/852252/hero/ATTG2032_thumbnail.jpg",
-      "PublishedAt": "2024-07-08T00:00:00Z",
-      "Content": "Leo and Mikah tackle a wide range of tech questions from viewers, covering everything from backup strategies to AI's impact on creativity. The hosts are joined by the Home Theater Geek Scott Wilkinso… [+3076 chars]"
     }
   ]
 }
