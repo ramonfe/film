@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 629,
+  "TotalResults": 630,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "MARÍA ALMENAR",
+      "Title": "Gratacós, la empresa catalana que está detrás del vestuario de Los Bridgerton: \"Se enamoraron de todo lo llamativo\"",
+      "Description": "Desde los espectaculares vestidos de la popular serie de Netflix hasta los escenarios de Brodway, la empresa familiar catalana con vocación internacional sigue al filo de las tendencias con sus exclusivos tejidos. Leer",
+      "Url": "https://www.elmundo.es/yodona/moda/2024/07/09/668bd374fc6c834d7b8b4578.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/d8128153eb22cc56a7cb2c7b6a03c3f3/crop/244x55/2828x1992/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/08/17204409157433.jpg",
+      "PublishedAt": "2024-07-09T00:42:24Z",
+      "Content": "Queridos lectores, si un atuendo minuciosamente elegido otorga autoridad y estatus a su portador, os revelaré un secreto que os hará enormemente poderosos: los tejidos de los fastuosos vestidos que l… [+9630 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/843a51/e9f8c292964a8cbf6dbc37abed8d00ebe7da7758-scaled/840_560.jpeg",
       "PublishedAt": "2024-07-07T13:11:00Z",
       "Content": "No es precisamente pequeño el mapa de Horizon Forbidden West, por lo que todavía me queda mucho por descubrir a lo largo del Oeste Prohibido junto a Aloy. GAIA ha solicitado que reúna a todas las fun… [+5998 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Laura Soria",
-      "Title": "Tiene solo 8 capítulos y engancha tanto como Los Bridgerton y La Reina Carlota: la serie turca de Netflix que se ha convertido en un fenómeno de culto",
-      "Description": "Si ya no sabes qué serie de misterio ver en Netflix, apúntate esta serie corta turca que ha enamorado a todos por su impecable fotografía y su interesante e intrigante trama.",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a61522467/serie-suspense-turca-netflix-medianoche-en-el-pera-palace/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/medianoche-en-el-pera-palace-netflix-elle-66898403ca48e.jpg?crop=0.920xw:0.819xh;0.0394xw,0.0351xh&resize=1200:*",
-      "PublishedAt": "2024-07-07T11:09:00Z",
-      "Content": "En la plataforma de Netflixpodemos encontrar una gran variedad de películas y series muy exitosas. Eso no es ninguna novedad, aunque normalmente suelen ser unas dos o tres las que se llevan todo el p… [+2561 chars]"
     }
   ]
 }
