@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 641,
+  "TotalResults": 642,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TheJournal.ie"
+      },
+      "Author": "Jane Moore",
+      "Title": "Alec Baldwin's manslaughter trial over fatal film set shooting to begin today",
+      "Description": "The US actor has pleaded not guilty to involuntary manslaughter over the death of Halyna Hutchins on the set of the movie Rust in 2021.",
+      "Url": "https://www.thejournal.ie/alec-baldwin-trial-shooting-cinematographer-film-set-6430938-Jul2024/",
+      "UrlToImage": "https://img2.thejournal.ie/article/6430938/river/?height=400&version=6430939",
+      "PublishedAt": "2024-07-09T06:18:34Z",
+      "Content": "ALEC BALDWINS MANSLAUGHTER trial over the fatal shooting of a cinematographer on a New Mexico film set three years ago will begin today.\r\nThe US actor pleaded not guilty to involuntary manslaughter e… [+2492 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
       "PublishedAt": "2024-07-08T04:00:23Z",
       "Content": "By MORGAN LEE A New Mexico judge is setting the table for the involuntary manslaughter trial of actor Alec Baldwin, who arrived at court Monday over a fatal shooting on the set of the Western movie “… [+116 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Boston Herald"
-      },
-      "Author": "Associated Press",
-      "Title": "Alec Baldwin arrives at court for pretrial hearing over fatal shooting of cinematographer",
-      "Description": "By MORGAN LEE A New Mexico judge is setting the table for the involuntary manslaughter trial of actor Alec Baldwin, who arrived at court Monday over a fatal shooting on the set of a Western movie. Judge Mary Marlowe Sommer will consider an array of requests f…",
-      "Url": "https://www.bostonherald.com/2024/07/08/alec-baldwin-arrives-at-court-for-pretrial-hearing-over-fatal-shooting-of-cinematographer/",
-      "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/07/Baldwin_Set_Shooting_59643.jpg?w=1024&h=682",
-      "PublishedAt": "2024-07-08T04:00:23Z",
-      "Content": "By MORGAN LEE\r\nA New Mexico judge is setting the table for the involuntary manslaughter trial of actor Alec Baldwin, who arrived at court Monday over a fatal shooting on the set of the Western movie … [+4243 chars]"
     }
   ]
 }
