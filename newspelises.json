@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Paz Vega se estrena como directora y guionista con 'Rita', una película ambientada en la Sevilla de los años 80",
+      "Description": "Paz Vega inicia su carrera como directora y guionista con su ópera prima, 'Rita' , sumando así nuevos hitos a su fructífera trayectoria como actriz dentro y fuera de España, ganadora de un Goya y premiada en el Festival de Cannes con el trofeo Chopard, entre …",
+      "Url": "https://www.abc.es/sevilla/cultura/paz-vega-estrena-directora-guionista-rita-pelicula-20240710141431-nts.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2024/07/10/pazvega-bea-hohenleiter-U50643031345ZPd-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-07-10T12:17:51Z",
+      "Content": "Paz Vega inicia su carrera como directora y guionista con su ópera prima, 'Rita', sumando así nuevos hitos a su fructífera trayectoria como actriz dentro y fuera de España, ganadora de un Goya y prem… [+5462 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/Of3ryhFSPDifULz8sh24FiSz380=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/RDBNX5PYZFBPLE5QAD5WOGFZHQ.jpeg",
       "PublishedAt": "2024-06-27T13:30:00Z",
       "Content": "El festival, que comenzó el día 20 de este mes, se desarrolla en cuatro sedes ubicadas en San José: Cine Magaly, Teatro Eugene ONeill, Sala Gómez Miralles del Centro de Cine y la Alianza Francesa. En… [+7306 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nuevatribuna.es"
-      },
-      "Author": "Cinenuevatribuna",
-      "Title": "'Jo, ¡qué noche!', una comedia delirante y retorcida que salvó la carrera de Martin Scorsese",
-      "Description": "Posiblemente podamos argumentar que Martin Scorsese es uno de los mejores directores de cine vivos, pero, detrás de esa afirmación, a principios de los años ochenta, hubo momentos en los que su nombre era veneno para la taquilla.",
-      "Url": "https://www.nuevatribuna.es/articulo/cultura---ocio/cine-jo-que-noche/20240627130535228335.html",
-      "UrlToImage": "https://www.nuevatribuna.es/media/nuevatribuna/images/2024/06/27/2024062710104717939.jpg",
-      "PublishedAt": "2024-06-27T11:05:35Z",
-      "Content": "Celín Cebrián | @Celn4\r\nPosiblemente podamos argumentar que Martin Scorsese es uno de los mejores directores de cine vivos, pero, detrás de esa afirmación, a principios de los años ochenta, hubo mome… [+7496 chars]"
     }
   ]
 }

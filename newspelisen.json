@@ -1,8 +1,99 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 873,
+  "TotalResults": 871,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Robb Report"
+      },
+      "Author": "Emma Reynolds",
+      "Title": "A Lavish Belle Époque-Style Estate in the Heart of the French Riviera Lists for $24 Million",
+      "Description": "The Super-Cannes estate in the heart of the French Riviera features Belle Époque-style architecture with a pool, movie theater, and wine cellar.",
+      "Url": "http://robbreport.com/shelter/homes-for-sale/cannes-belle-epoque-estate-french-riviera-1235703192/",
+      "UrlToImage": "https://robbreport.com/wp-content/uploads/2024/07/Picture-84309481-1.jpg?w=681&h=383&crop=1",
+      "PublishedAt": "2024-07-10T13:00:00Z",
+      "Content": "The French Riviera is synonymous with azure waters, fabulous pebbled beaches, and small but glamorous towns filled with splendid mansions. Favored by aristocracy, dignitaries, and jetsetters, there a… [+2829 chars]"
+    },
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Jack Guy",
+      "Title": "‘Shrek 5’ is coming in July 2026, and the big stars are onboard | CNN",
+      "Description": "Grab your torch and pitchforks! Everyone’s favorite ogre is heading back to town, with the the latest movie in the “Shrek” franchise set for release in mid-2026.",
+      "Url": "https://www.cnn.com/2024/07/10/entertainment/shrek-5-release-date-scli-intl/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-1606330a.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-07-10T12:44:20Z",
+      "Content": "Grab your torch and pitchforks! Everyones favorite ogre is heading back to town, with the the latest movie in the Shrek franchise set for release in mid-2026.\r\nMovie studio Dreamworks Animation confi… [+1277 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "Trailer For John Malkovich's Charming-Looking Film MR. BLAKE AT YOUR SERVICE",
+      "Description": "Here’s a trailer for John Malkovich's upcoming French comedy, Mr. Blake at Your Service, which looks like a delightful and enjoyable feel-good movie. In the film, “Mr. Andrew Blake (Malkovich), a recently widowed British businessman, takes a job as a butler i…",
+      "Url": "https://geektyrant.com/news/trailer-for-john-malkovichs-charming-looking-film-mr-blake-at-your-service",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/666c6ec4cff84127aa0c1cb0/1720612859512/trailer-for-john-malkovichs-charming-looking-film-mr-blake-at-your-service.jpg?format=1500w",
+      "PublishedAt": "2024-07-10T12:00:00Z",
+      "Content": "Heres a trailer for John Malkovich's upcoming French comedy, Mr. Blake at Your Service, which looks like a delightful and enjoyable feel-good movie. \r\nIn the film, Mr. Andrew Blake (Malkovich), a rec… [+699 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Twistedsifter.com"
+      },
+      "Author": "Matthew Gilligan",
+      "Title": "Cheap Movie Theater Manager Insisted That All Snow On Sidewalks Be Removed, So A Worker Followed The Rules And Got Massive Overtime Pay",
+      "Description": "Making bank off the snow banks!",
+      "Url": "http://twistedsifter.com/2024/07/cheap-movie-theater-manager-insisted-that-all-snow-on-sidewalks-be-removed-so-a-worker-followed-the-rules-and-got-massive-overtime-pay/",
+      "UrlToImage": "https://twistedsifter.com/wp-content/uploads/2024/07/redditshovels.jpg",
+      "PublishedAt": "2024-07-10T09:45:53Z",
+      "Content": "It’s funny how some bosses want things done perfectly, but they also don’t want to give employees any extra money, isn’t it?\r\nHmmm…how curious!\r\nAnd if you’ve been in that situation before, we think … [+3961 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "STV News"
+      },
+      "Author": "Pa Media",
+      "Title": "Shrek 5 officially in development with original cast including Mike Myers and Eddie Murphy set to return",
+      "Description": "Mike Myers, Eddie Murphy and Cameron Diaz are set to return to the franchise, almost a quarter of a century after the release of the first movie.",
+      "Url": "https://news.stv.tv/entertainment/shrek-5-officially-in-development-with-original-cast-including-mike-myers-and-eddie-murphy-set-to-return",
+      "UrlToImage": "https://news.stv.tv/wp-content/uploads/2024/07/9a99eeb7b4700ad6383c73bb06256ddc-1720599810-social-default.jpg",
+      "PublishedAt": "2024-07-10T08:31:48Z",
+      "Content": "Shrek 5 is officially in development with original stars Mike Myers, Eddie Murphy and Cameron Diaz all confirmed to return.\r\nMyers is set to return to the swamp as gruff ogre Shrek, for another adven… [+1561 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "ANI",
+      "Title": "'Shrek 5' confirmed for July 2026 release, original cast to return",
+      "Description": "DreamWorks Animation has officially announced 'Shrek 5,' set for release on July 1, 2026, bringing back original stars Mike Myers, Eddie Murphy, and Cameron Diaz to their iconic roles. Directed by Walt Dohrn, known for his work in the 'Shrek' universe, includ…",
+      "Url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/shrek-5-confirmed-for-july-2026-release-original-cast-to-return/articleshow/111627030.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-111627030,width-1070,height-580,imgsize-37130,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2024-07-10T07:06:57Z",
+      "Content": "9 hill stations in India prone to landslides; must avoid in monsoons"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "etimes.in",
+      "Title": "BLACKPINK reveals the trailer and release date for their 'BORN PINK' world tour concert movie",
+      "Description": "\"BLACKPINK WORLD TOUR IN CINEMAS\" celebrates the group's 8th anniversary with a thrilling concert film capturing their 'BORN PINK' tour finale at Seoul's Gocheok Sky Dome. The trailer highlights their global journey, featuring energetic performances and tradi…",
+      "Url": "https://timesofindia.indiatimes.com/entertainment/k-pop/music/news/blackpink-reveals-the-trailer-and-release-date-for-their-born-pink-world-tour-concert-movie/articleshow/111626808.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-111626946,width-1070,height-580,imgsize-61664,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2024-07-10T07:02:38Z",
+      "Content": "BLACKPINK WORLD TOUR [BORN PINK] IN CINEMAS MAIN TRAILER"
+    },
     {
       "Source": {
         "Id": "marca",
@@ -301,97 +392,6 @@
       "UrlToImage": "https://media2.firstshowing.net/firstshowing/img16/onefastmoviePostercolorbigmTW1.jpg",
       "PublishedAt": "2024-07-09T16:18:15Z",
       "Content": "by Alex BillingtonJuly 9, 2024Source:YouTube\r\n\"You don't beat 'em by slugging 'em. You beat 'em with skill.\" Prime Video has revealed the official trailer for a motorcycle racing drama titled One Fas… [+2223 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HYPEBEAST"
-      },
-      "Author": "info@hypebeast.com (Hypebeast)",
-      "Title": "Kim Kardashian, Halle Berry and Glenn Close Set to Star In Ryan Murphy Legal Series",
-      "Description": "Ryan Murphy, a TV producer known for assembling star-studded casts, brought Kim Kardashian, Halle Berry and Glenn Close on board for an upcoming legal drama series. The show All’s Fair features the A-list trio in an all-female law firm set in Los Angeles. Ini…",
-      "Url": "https://hypebeast.com/2024/7/kim-kardashian-halle-berry-glenn-close-ryan-murphy-series",
-      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F07%2F09%2FKim-Kardashian-Halle-Berry-Glenn-Close-Ryan-Murphy-Series-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-      "PublishedAt": "2024-07-09T15:33:05Z",
-      "Content": "Ryan Murphy, a TV producer known for assembling star-studded casts, brought Kim Kardashian, Halle Berry and Glenn Close on board for an upcoming legal drama series. The show Alls Fair features the A-… [+1610 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Investing.com"
-      },
-      "Author": "Investing.com",
-      "Title": "Cinemark and Mike's Hot Honey Team Up to Bring Sweet Heat to Everyone's Favorite Movie Theater Treats",
-      "Description": "Cinemark and Mike's Hot Honey Team Up to Bring Sweet Heat to Everyone's Favorite Movie Theater Treats",
-      "Url": "https://www.investing.com/news/press-releases/cinemark-and-mikes-hot-honey-team-up-to-bring-sweet-heat-to-everyones-favorite-movie-theater-treats-93CH-3512010",
-      "UrlToImage": "https://i-invdn-com.investing.com/news/World_News_9_800x533_L_1420026261.jpg",
-      "PublishedAt": "2024-07-09T14:40:04Z",
-      "Content": "For the first time ever, moviegoers will be able to enjoy Mike's Hot Honey ® smoothly integrated into their favorite cinema snacks including popcorn, hot food items and more.\r\n PLANO, Texas--(BUSINES… [+6113 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elite Daily"
-      },
-      "Author": "Dylan Kickham",
-      "Title": "'The Devil Wears Prada 2': Predicted Release Date, Cast, Plot",
-      "Description": "Nearly two decades after Miranda Priestly was introduced to the world, a new 'Devil Wears Prada' movie is in the works. Here are all the details.",
-      "Url": "https://www.elitedaily.com/entertainment/the-devil-wears-prada-2-release-date-cast-plot",
-      "UrlToImage": "https://imgix.bustle.com/uploads/image/2024/7/9/444b296e/meryl-streep-devil-wears.webp?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4851&fp-y=0.2924",
-      "PublishedAt": "2024-07-09T14:27:00Z",
-      "Content": "Miranda Priestly is coming back for another walkthrough. Nearly two decades after the icy fashion editor first stomped the runway, shes making a long-awaited return in The Devil Wears Prada 2. On Jul… [+1912 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Jessica Fisher",
-      "Title": "Director Doug Liman Says He and Tom Cruise Still Talk About an EDGE OF TOMORROW Sequel and Says \"We Love That World\"",
-      "Description": "It feels like we get a lot of updates on a sequel that may or may not ever happen. Fans of the 2014 action movie Edge of Tomorrow have long wondered if we may see a second film in the franchise, and the film’s stars have always had positive things to say abou…",
-      "Url": "https://geektyrant.com/news/director-doug-liman-says-he-and-tom-cruise-still-talk-about-an-edge-of-tomorrow-sequel-and-says-we-love-that-world",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/668c638749982f1b6885260a/1720535154540/Screenshot%2B%25281556%2529.jpg?format=1500w",
-      "PublishedAt": "2024-07-09T14:25:00Z",
-      "Content": "It feels like we get a lot of updates on a sequel that may or may not ever happen. Fans of the 2014 action movie Edge of Tomorrow have long wondered if we may see a second film in the franchise, and … [+2427 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GlobeNewswire"
-      },
-      "Author": "Sight & Sound",
-      "Title": "Sight & Sound Partners to Premiere Their First Ever LIVE Broadcast into Movie Theaters Nationwide, Courtesy of Fathom Events",
-      "Description": "The brand-new original production, DANIEL, goes from the big stage to the big screen in this special movie theater event — Friday, August 30th.......",
-      "Url": "https://www.globenewswire.com/news-release/2024/07/09/2910509/0/en/Sight-Sound-Partners-to-Premiere-Their-First-Ever-LIVE-Broadcast-into-Movie-Theaters-Nationwide-Courtesy-of-Fathom-Events.html",
-      "UrlToImage": "https://ml.globenewswire.com/Resource/Download/f6bf73af-7b3b-4294-9b97-1b6cab67267f",
-      "PublishedAt": "2024-07-09T14:00:00Z",
-      "Content": "LANCASTER, Pa., July 09, 2024 (GLOBE NEWSWIRE) -- Following a decade of taking their spectacular theater experience from the stage to the screen, Sight &amp; Sound is partnering with Fathom Events to… [+4001 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Teen Vogue"
-      },
-      "Author": "Sara Delgado",
-      "Title": "Children of Blood and Bone Movie: Cast, Director, Release Date, & Everything You Need to Know",
-      "Description": "Everything we know so far about the long-anticipated movie adaptation of Tomi Adeyemi's 'Children of Blood and Bone,' including director, cast news, and more.",
-      "Url": "https://www.teenvogue.com/story/children-of-blood-and-bone-movie-everything-you-need-to-know",
-      "UrlToImage": "https://assets.teenvogue.com/photos/668d20c978c58f9fd1e05364/16:9/w_1280,c_limit/34728667.jpg",
-      "PublishedAt": "2024-07-09T13:14:26Z",
-      "Content": "The movie adaptation of Tomi Adeyemi's debut YA novel, Children of Blood and Bone, is officially on the horizon. After being years in the making, it looks like the literary phenomenon is finally shap… [+3850 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Rlsbb.cc"
-      },
-      "Author": "saamaan1@yahoo.com (Master), Master",
-      "Title": "The Pastor 2016 1080p AMZN WEB-DL H264-playWEB",
-      "Description": "Note: It's The Pastor 2016 and all info about movie has been fixed. Plot: An imprisoned former gang leader discovers his faith in God while in solitary confinement. When he comes out, he becomes a Pastor and is committed to protecting the youth in his gang in…",
-      "Url": "https://rlsbb.cc/the-pastor-2016-1080p-amzn-web-dl-h264-playweb/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-09T11:05:52Z",
-      "Content": "Note: It's The Pastor 2016 and all info about movie has been fixed.\r\nPlot: An imprisoned former gang leader discovers his faith in God while in solitary confinement. When he comes out, he becomes a P… [+1825 chars]"
     }
   ]
 }
