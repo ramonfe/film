@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 688,
+  "TotalResults": 689,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Rebecca Rosenberg",
+      "Title": "Alec Baldwin 'Rust' trial: Defense argues gun safety rules don’t apply to an actor playing a movie role",
+      "Description": "Actor Alec Baldwin had no way to know a live bullet could be in a movie set revolver and isn't culpable for the fatal error, his lawyer said Wednesday in opening statements.",
+      "Url": "https://www.foxnews.com/entertainment/alec-baldwin-rust-trial-defense-argues-gun-safety-rules-dont-apply-actor-playing-movie-role",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Alec-Baldwin-Rust-Trial-Shooting-Day-3-Pool_01.jpg",
+      "PublishedAt": "2024-07-10T19:08:43Z",
+      "Content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+4270 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.usmagazine.com/wp-content/uploads/2024/07/paul-walter-e1720592961948.jpg?crop=0px%2C111px%2C1384px%2C726px&resize=1200%2C630&quality=86&strip=all",
       "PublishedAt": "2024-07-10T06:35:15Z",
       "Content": "Sign InUp with your social account\r\nContinue with Google\r\nContinue with Facebook\r\nContinue with Amazon\r\nContinue with AppleWe won't post to any of your accounts\r\nGet back to the \r\nPaul Walter Hauser.… [+2501 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "etimes.in",
-      "Title": "Bigg Boss 17 fame Samarth Jurel rushed to the hospital as he gets injured while shooting for his upcoming Bollywood movie",
-      "Description": "Actor Samarth Jurel injured in a filming accident while shooting for a Bollywood movie. Currently hospitalized and stable. Fans show support on social media. Incident highlights safety risks on set. Jurel known for TV roles in Udaariyaan and Maitree, set for …",
-      "Url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-fame-samarth-jurel-rushed-to-the-hospital-as-he-gets-injured-while-shooting-for-his-upcoming-bollywood-movie/articleshow/111623665.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-111623618,width-1070,height-580,imgsize-14974,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2024-07-10T05:09:12Z",
-      "Content": "India's new cricket coach Gautam Gambhir swears by this desi food for energy"
     }
   ]
 }
