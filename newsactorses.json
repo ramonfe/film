@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 588,
+  "TotalResults": 589,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Reforma.com"
+      },
+      "Author": "Grupo REFORMA",
+      "Title": "Hallan sin vida a Benji Gregory, actor de la serie 'ALF'",
+      "Description": "El actor Benji Gregory, protagonista de la serie 'ALF', fue encontrado sin vida en un estacionamiento adentro de su coche a los 46 años.",
+      "Url": "https://www.reforma.com/hallan-sin-vida-a-benji-gregory-actor-de-alf/ar2838857",
+      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/759/5758563.jpg&wm=1&ang=0",
+      "PublishedAt": "2024-07-11T02:09:51Z",
+      "Content": "01 MIN 00 SEG\r\nGrupo REFORMA\r\nCd. de México (10 julio 2024) .-20:06 hrs"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/ccef3621-8b0a-4f28-a091-92f6e4d18a35_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-07-09T13:59:51Z",
       "Content": "Han pasado casi tres años desde que Disney y Marvel pusieron en marcha el spin-off de Bruja Escarlata y Visión centrado en Agatha Harkness, encarnada por Kathryn Hahn. Desde entonces, el proyecto ha … [+1400 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Ana Garcés, Jana en 'La Promesa', se pronuncia sobre su continuidad y desvela su mayor sorpresa",
-      "Description": "En Valladolid hay mucho arte. Sólo de esta tierra podían ser Lola Herrera, Concha Velasco , Miguel Delibes, Ágata Lys , Elvira Minguez ... Y la actriz Ana Garcés (24), protagonista de 'La Promesa', el serial de época que emite La 1 de TVE de lunes a viernes (…",
-      "Url": "https://www.abc.es/play/series/noticias/ana-garces-jana-promesa-pronuncia-sobre-continuidad-20240709152821-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/07/09/ana-garces-la-promesa-jana-kjCG--1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-07-09T13:28:22Z",
-      "Content": "En Valladolid hay mucho arte. Sólo de esta tierra podían ser Lola Herrera, Concha Velasco, Miguel Delibes, Ágata Lys, Elvira Minguez... Y la actriz Ana Garcés (24), protagonista de 'La Promesa', el s… [+1948 chars]"
     }
   ]
 }
