@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 902,
+  "TotalResults": 904,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Twit.tv"
+      },
+      "Author": "TWiT",
+      "Title": "Home Theater Geeks 440: A Comfy Couch Home Theater!",
+      "Description": "A.J. is a movie industry professional who built a new house in Los Angeles. Of course, he installed a home theater in the big bonus room with high-end equipment and a super comfy \"pit couch\" that's perfect for cuddling with his partner. \nHost: Scott Wilkinson…",
+      "Url": "https://twit.tv/shows/home-theater-geeks/episodes/440",
+      "UrlToImage": "https://elroy.twit.tv/sites/default/files/images/episodes/2024/07/852370/hero/HTG0440_thumbnail.jpg",
+      "PublishedAt": "2024-07-11T19:59:30Z",
+      "Content": "A.J. is a movie industry professional who built a new house in Los Angeles. Of course, he installed a home theater in the big bonus room with high-end equipment and a super comfy \"pit couch\" that's p… [+251 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Newser"
+      },
+      "Author": "John Johnson",
+      "Title": "Release of Costner's Western Sequel Is Canceled",
+      "Description": "They loved it at Cannes. But movie-goers in the US have been decidedly less enthusiastic about Kevin Costner's ambitious western Horizon: An American Saga . As a result, New Line Cinema has called an abrupt halt to plans of releasing the sequel to cinemas on …",
+      "Url": "https://www.newser.com/story/352821/release-of-costners-western-sequel-is-canceled.html",
+      "UrlToImage": "https://img1-azrcdn.newser.com/image/1545552-12-20240711145820.jpeg",
+      "PublishedAt": "2024-07-11T19:26:00Z",
+      "Content": "They loved it at Cannes. But movie-goers in the US have been decidedly less enthusiastic about Kevin Costner's ambitious western Horizon: An American Saga. As a result, New Line Cinema has called an … [+1045 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://onecms-res.cloudinary.com/image/upload/s--dOqDIOQF--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2024/07/11/shrek-gallery-1.jpg?itok=Q_xXqpnG",
       "PublishedAt": "2024-07-11T02:40:37Z",
       "Content": "A spokesperson wrote: Not too Far, Far Away @Shrek 5 is coming to theaters on July 1, 2026 with Mike Myers, Eddie Murphy, and Cameron Diaz.\r\nWalt Dohrn (who previously worked as a writer and artist o… [+1367 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hollywood Reporter"
-      },
-      "Author": "Ryan Gajewski",
-      "Title": "Watchmen Chapter 1 Trailer: Matthew Rhys, Katee Sackhoff Voice Roles",
-      "Description": "Adapting the classic comic book series, director Brandon Vietti's two-part movie is set for release later this year from Warner Bros.",
-      "Url": "http://www.hollywoodreporter.com/movies/movie-news/watchmen-chapter-1-trailer-matthew-rhys-katee-sackhoff-1235945754/",
-      "UrlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/07/Watchmen-Chapter-I-trailer.jpg?w=1296&h=730&crop=1",
-      "PublishedAt": "2024-07-11T00:53:10Z",
-      "Content": "The Doomsday Clock is ticking in the trailer for the animated feature Watchmen Chapter 1. \r\nHailing from Warner Bros. Animation and Paramount, the title is the first in a two-part film based on the c… [+1691 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Lisa Respers France",
-      "Title": "Kevin Costner’s next ‘Horizon’ film pulled from August theatrical release schedule",
-      "Description": "The next film in Kevin Costner’s ambitious western movie franchise has been postponed. The sequel to the currently-in-theaters “Horizon: An American Saga - Chapter 1” was scheduled to be released in theaters on August 16.",
-      "Url": "https://www.cnn.com/2024/07/10/entertainment/horizon-chapter-2-postponed-kevin-costner/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/horizon-an-american-saga.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2024-07-11T00:19:00Z",
-      "Content": "The next film in Kevin Costners ambitious western movie franchise has been postponed.\r\nThe sequel to the currently-in-theaters Horizon: An American Saga - Chapter 1 was scheduled to be released in th… [+1551 chars]"
     }
   ]
 }
