@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 900,
+  "TotalResults": 902,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hollywood Reporter"
+      },
+      "Author": "Ryan Gajewski",
+      "Title": "Watchmen Chapter 1 Trailer: Matthew Rhys, Katee Sackhoff Voice Roles",
+      "Description": "Adapting the classic comic book series, director Brandon Vietti's two-part movie is set for release later this year from Warner Bros.",
+      "Url": "http://www.hollywoodreporter.com/movies/movie-news/watchmen-chapter-1-trailer-matthew-rhys-katee-sackhoff-1235945754/",
+      "UrlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/07/Watchmen-Chapter-I-trailer.jpg?w=1296&h=730&crop=1",
+      "PublishedAt": "2024-07-11T00:53:10Z",
+      "Content": "The Doomsday Clock is ticking in the trailer for the animated feature Watchmen Chapter 1. \r\nHailing from Warner Bros. Animation and Paramount, the title is the first in a two-part film based on the c… [+1691 chars]"
+    },
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Lisa Respers France",
+      "Title": "Kevin Costner’s next ‘Horizon’ film pulled from August theatrical release schedule",
+      "Description": "The next film in Kevin Costner’s ambitious western movie franchise has been postponed. The sequel to the currently-in-theaters “Horizon: An American Saga - Chapter 1” was scheduled to be released in theaters on August 16.",
+      "Url": "https://www.cnn.com/2024/07/10/entertainment/horizon-chapter-2-postponed-kevin-costner/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/horizon-an-american-saga.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-07-11T00:19:00Z",
+      "Content": "The next film in Kevin Costners ambitious western movie franchise has been postponed.\r\nThe sequel to the currently-in-theaters Horizon: An American Saga - Chapter 1 was scheduled to be released in th… [+1551 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1671,w_2968,x_6,y_67/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1720607225/2010-05-20T000000Z_163819758_GM1E65L0HJB01_RTRMADP_3_USA_tvpsev",
       "PublishedAt": "2024-07-10T13:16:32Z",
       "Content": "Shrek 5 is officially in the works, and it will reunite the original trio, Mike Myers, Eddie Murphy, and Cameron Diaz, to reprise their roles as Shrek, Donkey, and Princess Fiona, respectively, accor… [+787 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Brit + Co"
-      },
-      "Author": "Meredith Holser",
-      "Title": "The 'Severance' Season 2 Release Date Is Here",
-      "Description": "The cast and crew of Severance are finally returned to the office after months of waiting for production to resume, and we finally have a first look from the new season! Apple TV+ just posted a teaser image from season 2 of cast member Adam Scott holding a bu…",
-      "Url": "https://www.brit.co/severance-season-2-release-date/",
-      "UrlToImage": "https://www.brit.co/media-library/severance-season-2-updates.jpg?id=51221518&width=1200&height=600&coordinates=45%2C212%2C21%2C0",
-      "PublishedAt": "2024-07-10T13:16:16Z",
-      "Content": "The cast and crew of Severance are finally returned to the office after months of waiting for production to resume, and we finally have a first look from the new season! Apple TV+ just posted a tease… [+3653 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Robb Report"
-      },
-      "Author": "Emma Reynolds",
-      "Title": "A Lavish Belle Époque-Style Estate in the Heart of the French Riviera Lists for $24 Million",
-      "Description": "The Super-Cannes estate in the heart of the French Riviera features Belle Époque-style architecture with a pool, movie theater, and wine cellar.",
-      "Url": "http://robbreport.com/shelter/homes-for-sale/cannes-belle-epoque-estate-french-riviera-1235703192/",
-      "UrlToImage": "https://robbreport.com/wp-content/uploads/2024/07/Picture-84309481-1.jpg?w=681&h=383&crop=1",
-      "PublishedAt": "2024-07-10T13:00:00Z",
-      "Content": "The French Riviera is synonymous with azure waters, fabulous pebbled beaches, and small but glamorous towns filled with splendid mansions. Favored by aristocracy, dignitaries, and jetsetters, there a… [+2829 chars]"
     }
   ]
 }
