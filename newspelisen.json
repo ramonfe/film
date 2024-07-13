@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 902,
+  "TotalResults": 903,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Adafruit.com"
+      },
+      "Author": "Zay",
+      "Title": "Animated Movie Display with Raspberry Pi @Raspberry_Pi #PiDay #RaspberryPi",
+      "Description": "Maybe when you were a kid, you lived behind a movie theater. And maybe that movie theater threw away movie posters and cardboard uprights. And maybe you nabbed those posters and uprights and that was pretty great. How much greater to make your very own animat…",
+      "Url": "https://blog.adafruit.com/2024/07/12/animated-movie-display-with-raspberry-pi-raspberry_pi-piday-raspberrypi/",
+      "UrlToImage": "https://cdn-blog.adafruit.com/uploads/2024/07/F9TLB7BLWUP2AM4.jpg.webp",
+      "PublishedAt": "2024-07-12T18:00:01Z",
+      "Content": "Maybe when you were a kid, you lived behind a movie theater. And maybe that movie theater threw away movie posters and cardboard uprights. And maybe you nabbed those posters and uprights and that was… [+3788 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/07/silo-season-2-ferguson.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "PublishedAt": "2024-07-11T20:12:42Z",
       "Content": "Its been an exciting couple of weeks for Apple TV+ news. Apples first summer blockbuster debuted its teaser trailer; Sunny became the best-reviewed TV+ series of the year and Fancy Dance the best-rev… [+1455 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Twit.tv"
-      },
-      "Author": "TWiT",
-      "Title": "Home Theater Geeks 440: A Comfy Couch Home Theater!",
-      "Description": "A.J. is a movie industry professional who built a new house in Los Angeles. Of course, he installed a home theater in the big bonus room with high-end equipment and a super comfy \"pit couch\" that's perfect for cuddling with his partner. \nHost: Scott Wilkinson…",
-      "Url": "https://twit.tv/shows/home-theater-geeks/episodes/440",
-      "UrlToImage": "https://elroy.twit.tv/sites/default/files/images/episodes/2024/07/852370/hero/HTG0440_thumbnail.jpg",
-      "PublishedAt": "2024-07-11T19:59:30Z",
-      "Content": "A.J. is a movie industry professional who built a new house in Los Angeles. Of course, he installed a home theater in the big bonus room with high-end equipment and a super comfy \"pit couch\" that's p… [+251 chars]"
     }
   ]
 }
