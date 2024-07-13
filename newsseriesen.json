@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 43,
+  "TotalResults": 44,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "AppleInsider"
+      },
+      "Author": "news@appleinsider.com (Malcolm Owen)",
+      "Title": "Jake Gyllenhaal's 'Presumed Innocent' gets renewed for a second season",
+      "Description": "Apple has renewed its legal drama \"Presumed Innocent\" starring Jake Gyllenhaal for a second season on Apple TV+.Jake Gyllenhaal in 'Presumed Innocent' for Apple TV+The first season of Presumed Innocent is still airing, with the eight-episode limited series se…",
+      "Url": "https://appleinsider.com/articles/24/07/12/jake-gyllenhaals-presumed-innocent-gets-renewed-for-a-second-season",
+      "UrlToImage": "https://photos5.appleinsider.com/gallery/60352-124089-presumedinnocent-xl.jpg",
+      "PublishedAt": "2024-07-12T19:01:09Z",
+      "Content": "Jake Gyllenhaal in 'Presumed Innocent' for Apple TV+\r\nApple has renewed its legal drama \"Presumed Innocent\" starring Jake Gyllenhaal for a second season on Apple TV+.\r\nThe first season of Presumed In… [+992 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-06-24T20:12:13Z",
       "Content": "Apple will release its first premium podcast with early access available to Apple TV+ subscribers. The company made the announcement in a press release today that its first dual-language podcast, My … [+1428 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
