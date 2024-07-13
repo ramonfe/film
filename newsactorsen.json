@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 705,
+  "TotalResults": 706,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Purseblog.com"
+      },
+      "Author": "Kaitlin Serio",
+      "Title": "Daisy Edgar-Jones is My New Style Icon",
+      "Description": "Maybe you recognize her from the cult-favorite-book-turned-movie Where the Crawdads Sing or maybe Hulu’s popular miniseries Normal People. Or, maybe you knew who Daisy Edgar-Jones was, but you didn’t really know who she was until a simple but chic look stoppe…",
+      "Url": "https://www.purseblog.com/gucci/daisy-edgar-jones-is-my-new-style-icon/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-12T14:18:34Z",
+      "Content": "Maybe you recognize her from the cult-favorite-book-turned-movie Where the Crawdads Sing or maybe Hulu’s popular miniseries Normal People. Or, maybe you knew who Daisy Edgar-Jones was, but you didn’t… [+196 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20240711_WST_515760_necaxa.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2024-07-11T19:04:14Z",
       "Content": "Interest has recently increased in TV shows around sports. From Formula 1: Drive to Survive to Winning Time: The Rise of the Lakers Dynasty, weve been served with behind-the-scenes footage of many of… [+2824 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TMZ"
-      },
-      "Author": "TMZ Staff",
-      "Title": "Alec Baldwin Wasn't Only 'Rust' Actor With Live Ammo On Set",
-      "Description": "Alec Baldwin wasn't the only actor on the \"Rust\" movie set with live ammunition ... another actor was found to have a live bullet in his gun holster. The bombshell news was just dropped in court today as part of crime scene technician Marissa…",
-      "Url": "https://www.tmz.com/2024/07/11/alec-baldwin-actor-holster-live-rounds-ammunition-rust-set-jensen-ackles/",
-      "UrlToImage": "https://imagez.tmz.com/image/3e/16by9/2024/07/11/3e3910d7d9894e1cb106c02441c0afa1_xl.jpg",
-      "PublishedAt": "2024-07-11T18:59:40Z",
-      "Content": "Alec Baldwin wasn't the only actor on the \"Rust\" movie set with live ammunition ... another actor was found to have a live bullet in his gun holster.\r\nThe bombshell news was just dropped in court tod… [+1503 chars]"
     }
   ]
 }

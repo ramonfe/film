@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 41,
+  "TotalResults": 42,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Sam Singleton",
+      "Title": "Surfshark vs. NordVPN: Which VPN is better in 2024?",
+      "Description": "VPNs can be an invaluable tool for anyone who regularly uses the internet. Not only do they help keep your online activities private, but they can also get around region blocks to stream your favorite content. When searching for a good VPN provider, two names…",
+      "Url": "https://www.pcworld.com/article/2389229/surfshark-vs-nordvpn.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/07/Surfshark-vs-NordVPN.png?w=1024",
+      "PublishedAt": "2024-07-12T14:30:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nVPNs can be an inval… [+6809 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.mos.cms.futurecdn.net/sTiTiAJj79ipgaH8qhxXsh-1200-80.jpg",
       "PublishedAt": "2024-06-24T18:09:41Z",
       "Content": "Over the past few weeks, popular Apple TV+ shows have risen to the top of the streaming charts. Dark Matter rose to the top of the streaming charts a few weeks ago, overtaking popular titles like Ama… [+2973 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "How to stream video to your TV using a VPN",
-      "Description": "Thanks to the convoluted nature of geography-based licensing among the major studios, streaming services with international reach can have much more comprehensive selections of TV shows and movies in a different country. That’s why savvy viewers have long use…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174228513",
-      "UrlToImage": null,
-      "PublishedAt": "2024-06-22T15:13:35Z",
-      "Content": "Thanks to the convoluted nature of geography-based licensing among the major studios, streaming services with international reach can have much more comprehensive selections of TV shows and movies in… [+6377 chars]"
     }
   ]
 }
