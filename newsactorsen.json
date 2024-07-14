@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 729,
+  "TotalResults": 730,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "‘Rust’ prosecutor who quit moments before charges were dropped calls out Alec Baldwin’s ‘reckless’ on-set behavior - New York Post",
+      "Description": "‘Rust’ prosecutor who quit moments before charges were dropped calls out Alec Baldwin’s ‘reckless’ on-set behaviorNew York Post ‘Rust’ movie set shooting trial: Why the involuntary manslaughter case against actor Alec Baldwin was dismissedCNN ‘Signs of Scorch…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174492163",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-13T15:12:04Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/07/ramirez-phoenix-haynes.jpg",
       "PublishedAt": "2024-07-12T17:57:59Z",
       "Content": "Danny Ramirez and Joaquin Phoenix will be starring in a new movie together.\r\nThe 31-year-old Top Gun: Maverick actor will be starring opposite the 49-year-old Joker actor in the upcoming untitled det… [+647 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Mat Elfring",
-      "Title": "Captain America: Brave New World Trailer Breakdown And Easter Eggs",
-      "Description": "It's here! The first trailer for Captain America: Brave New World has arrived! Coming to theaters on February 14, 2025, this will be Anthony Mackie's big-screen debut as Captain America. He took on the mantle in the Disney+ series The Falcon and The Winter So…",
-      "Url": "https://www.gamespot.com/gallery/captain-america-brave-new-world-trailer-breakdown-and-easter-eggs/2900-5589/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1562/15626911/4332597-dek.png",
-      "PublishedAt": "2024-07-12T16:29:00Z",
-      "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
     }
   ]
 }
