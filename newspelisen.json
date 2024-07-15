@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 830,
+  "TotalResults": 831,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/01-longlegs-maikamonroe-courtesyofneon-669046fe1bed6.jpg?crop=0.724xw:0.647xh;0.141xw,0.191xh&resize=1200:*",
       "PublishedAt": "2024-07-12T16:00:00Z",
       "Content": "Be honest: Do you remember the last time that a horror flick has genuinely sent a chill (or several) down your spine? Or when a movie made you so scared, you literally jumped out of your seat from fe… [+2382 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Advocate.com"
-      },
-      "Author": "Christine Linnell",
-      "Title": "Casey McQuiston's bisexual rom-com 'The Pairing' will make you hungry",
-      "Description": "Romance novelist Casey McQuiston is having an amazing year. Fresh from the hit movie adaptation of their 2019 bestseller Red, White & Royal Blue, a contender for this year's Emmys, the Out 100 honoree has not only announced they're co-writing the RWRB 2 scree…",
-      "Url": "https://www.advocate.com/arts-entertainment/casey-mcquiston-the-pairing-interview",
-      "UrlToImage": "https://www.advocate.com/media-library/casey-mcquiston-the-pairing-red-white-royal-blue-sequel.jpg?id=52675006&width=1200&height=600&coordinates=0%2C0%2C0%2C78",
-      "PublishedAt": "2024-07-12T15:20:58Z",
-      "Content": "Romance novelist Casey McQuiston is having an amazing year. Fresh from the hit movie adaptation of their 2019 bestseller Red, White &amp; Royal Blue, a contender for this year's Emmys, the Out 100 ho… [+19078 chars]"
     }
   ]
 }
