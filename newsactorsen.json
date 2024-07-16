@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 690,
+  "TotalResults": 688,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "A Criminal Case Behind Him, Alec Baldwin Must Navigate ‘Rust’ Lawsuits - The New York Times",
+      "Description": "A Criminal Case Behind Him, Alec Baldwin Must Navigate ‘Rust’ LawsuitsThe New York Times ‘Rust’ movie set shooting trial: Why the involuntary manslaughter case against actor Alec Baldwin was dismissedCNN Hutchins Family Attorney Says 'Rust' Case Dismissal 'St…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174501873",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-15T03:52:48Z",
+      "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-13T12:33:43Z",
       "Content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Josh Campbell",
-      "Title": "Why the involuntary manslaughter case against actor Alec Baldwin was dismissed | CNN",
-      "Description": "Two days after Alec Baldwin’s involuntary manslaughter trial began and nearly three years after the fatal “Rust” movie set shooting that led to the charge against him, a New Mexico judge said eight words that left the actor visibly emotional – and marked the …",
-      "Url": "https://www.cnn.com/2024/07/13/entertainment/alec-baldwin-rust-trial-dismissed/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230119110833-01a-baldwin-rust-shooting-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2024-07-13T10:52:45Z",
-      "Content": "Two days after Alec Baldwins involuntary manslaughter trial began and nearly three years after the fatal Rust movie set shooting that led to the charge against him, a New Mexico judge said eight word… [+6449 chars]"
     }
   ]
 }
