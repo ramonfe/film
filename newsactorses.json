@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 557,
+  "TotalResults": 558,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "B. Moreno",
+      "Title": "Hablamos con Onur Tuna por el estreno de 'Una vida perfecta'",
+      "Description": "El actor da vida a Mesut, un comisario dispuesto a investigar el oscuro pasado de la protagonista en la nueva serie de turca de Telecinco",
+      "Url": "https://www.hola.com/actualidad/20240716706796/entrevista-con-onur-tuna-desde-estambul/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/be9fa47bcba9-image00022.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-07-16T13:32:34Z",
+      "Content": "Onur Tuna es uno es uno de los artistas más valorados y respetados del mundo del espectáculo en Turquía. Su presencia en un proyecto se considera como garantía de éxito y de que se contará una buena … [+9076 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.dw.com/image/69656502_6.jpg",
       "PublishedAt": "2024-07-14T15:27:00Z",
       "Content": "La actriz estadounidense Shannen Doherty, conocida por su papel en la serie dramática de televisión Beverly Hills 90210, murió a los 53 años después de una larga batalla contra el cáncer, indicó la r… [+1337 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Reforma.com"
-      },
-      "Author": "Grupo REFORMA",
-      "Title": "Falleció Shannen Doherty, actriz de 'Beverly Hills, 90210'",
-      "Description": "La actriz Shannen Doherty, famosa por su papel en la serie 'Beverly Hills, 90210', falleció a los 53 años tras larga lucha contra el cáncer.",
-      "Url": "https://www.reforma.com/fallecio-shannen-doherty-actriz-de-beverly-hills-90210/ar2840480",
-      "UrlToImage": "https://reforma.com/aplicacioneslibre/compartir/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/6/761/5760737.jpg&wm=1&ang=0",
-      "PublishedAt": "2024-07-14T14:40:52Z",
-      "Content": "La actriz ganó gran popularidad en \"90210\" por su interpretación de Brenda, una estudiante de Minnesota con matrícula de honor que luchaba por encajar con sus compañeros de clase. Crédito: AFP"
     }
   ]
 }
