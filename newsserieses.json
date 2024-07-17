@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 602,
+  "TotalResults": 603,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "EC Brands",
+      "Title": "La serie documental de LALIGA aterriza en Netflix",
+      "Description": "En ‘LALIGA: Más allá del gol’ los clubes abren las puertas de sus casas para mostrar el lado más humano del fútbol y revivir la última temporada de LALIGA desde una óptica jamás mostrada",
+      "Url": "https://www.elconfidencial.com/empresas/2024-07-16/laliga-netflix-serie-deportiva-morena-films-bra_3923296/",
+      "UrlToImage": "https://images.ecestaticos.com/6Up8yAPQQdfycmOLt7EHETq7bLY=/0x0:1200x900/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/2cc/37d/2cd/2cc37d2cd236bd7cde0b97da648931e8.jpg",
+      "PublishedAt": "2024-07-16T03:00:00Z",
+      "Content": "‘Cuando termina la competición, comienza la historia’. Así es como se anunciaba al mundo LALIGA: Más allá del gol, el último proyecto audiovisual sobre la organización deportiva que acerca sus clubes… [+8625 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/eigwVjzrwiP9Gc29BN0lzNjnkwA=/1440x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/CGKPLT6JKJF2XKYIZ5W2MJ72VE.png",
       "PublishedAt": "2024-07-14T21:27:59Z",
       "Content": "La exitosa serie de HBO, Euphoria comenzará el rodaje de su tercera temporada hasta enero del 2025. La noticia fue confirmada por la cadena a medios como Variety y The Hollywood Reporter.Estoy encant… [+1866 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "El adelanto de la serie de Ángel Di María en Netflix que erizó la piel de los hinchas",
-      "Description": "En septiembre de este año se estrenará la serie documental sobre el futbolista rosarino que se retira de la selección argentina en una final de Copa América; cómo fue la tierna escena con su esposa Jorgelina Cardoso",
-      "Url": "https://www.lanacion.com.ar/deportes/el-adelanto-de-la-serie-de-angel-di-maria-en-netflix-que-erizo-la-piel-de-los-hinchas-nid14072024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/jorgelina-cardoso-le-seca-las-lagrimas-a-su-U4TS52BDDBBOHJBTLHOWEP6LBQ.jpg?auth=0d0f722c31429724234ba8eec1c285ee2b220a0778c9bbc3673da59c1dd17a4c&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-07-14T20:25:05Z",
-      "Content": "La historia de Ángel Di María con la selección argentina ameritaba una serie: de ser uno de los más cuestionados pasó a convertirse en alguien fundamental en las últimas tres copas que se conquistaro… [+2837 chars]"
     }
   ]
 }
