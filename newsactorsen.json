@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 712,
+  "TotalResults": 713,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news-au",
+        "Name": "ABC News (AU)"
+      },
+      "Author": "Hannah Story",
+      "Title": "Rebel Wilson's movie about a country deb ball to premiere despite producers suing for defamation",
+      "Description": "Despite producers allegedly threatening to block the premiere, and then filing a lawsuit against actor-director Rebel Wilson, The Deb will close Toronto International Film Festival in September.",
+      "Url": "https://www.abc.net.au/news/2024-07-17/rebel-wilson-the-deb-toronto-defamation-lawsuit/104108708",
+      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/efa6dfae2669cf72dadae4c9d6d66ac5?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+      "PublishedAt": "2024-07-17T03:25:07Z",
+      "Content": "Rebel Wilson's directorial debut film will premiere in September at a prestigious international film festival, despite producers filing a defamation lawsuit against Wilson.\r\nThe Australian actor and … [+4409 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6693533fd475137507096282/1721062566279/New+Photo+From+HELLBOY-+THE+CROOKED+MAN+Featuring+Jack+Kelsy+as+Hellboy.jpg?format=1500w",
       "PublishedAt": "2024-07-15T16:56:00Z",
       "Content": "Mignola previously talked about the film calling it the most faithful adaptation yet, but well just have to wait and see how fans react to it when they watch it. \r\nWhile Kesys version of Hellboy is n… [+2478 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Portland Mercury"
-      },
-      "Author": "Elinor Jones",
-      "Title": "THE TRASH REPORT: Too Much is Happening! This Sucks!!",
-      "Description": "Get ready for an overwhelming can of the week's hottest trash!\n \n by Elinor Jones\n \n \n \n Hi, Trash Pandas! Welcome to The Trash Report, your Portland home for news, gossip, and flailing. I'm not so much Elinor Jones as the stunned husk of a woman who yearns f…",
-      "Url": "https://www.portlandmercury.com/the-trash-report/2024/07/15/47302382/the-trash-report-too-much-is-happening-this-sucks",
-      "UrlToImage": "https://media1.fdncms.com/portmerc/imager/u/large/47304149/gettyimages-1174663874.jpg",
-      "PublishedAt": "2024-07-15T16:50:00Z",
-      "Content": "Hi, Trash Pandas! Welcome to The Trash Report, your Portland home for news, gossip, and flailing. I'm not so much Elinor Jones as the stunned husk of a woman who yearns for precedented times. Crazy w… [+6293 chars]"
     }
   ]
 }
