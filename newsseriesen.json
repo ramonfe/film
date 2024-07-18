@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Fallout’s 16 Emmy nominations show that successful gaming adaptations are no longer a fluke",
+      "Description": "Prime Video’s Fallout has followed The Last of Us in video-game adaptations making smashing freshman debuts at the Emmys. The Academy of Television Arts and Sciences unveiled this year’s nominations on Wednesday, and Amazon’s adaptation of Bethesda’s franchis…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174523963",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-17T19:17:37Z",
+      "Content": "Prime Video’s Fallout has followed The Last of Us in video-game adaptations making smashing freshman debuts at the Emmys. The Academy of Television Arts and Sciences unveiled this year’s nominations … [+2914 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://variety.com/wp-content/uploads/2024/07/Lost-Netflix.png?w=844&h=563&crop=1",
       "PublishedAt": "2024-07-01T16:50:50Z",
       "Content": "All six seasons of “Lost,” the cult-classic supernatural show that ended its TV run 14 years ago, are once again streaming on Netflix in the U.S. as of July 1.\r\nThe full run of “Lost,” created by J.J… [+1386 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "Caroline Bologna",
-      "Title": "This Disturbing Docuseries Is The Top Show On Netflix Right Now",
-      "Description": "A buzzy new dramedy and a historical fantasy series are also trending on streaming services like Max, Hulu, Apple TV+ and Prime Video.",
-      "Url": "https://www.huffpost.com/entry/worst-roommate-ever-popular-netflix-show_n_66820574e4b08dc39c83339c",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/6682b37b2600001d007cdb55.jpg?ops=1200_630",
-      "PublishedAt": "2024-07-01T13:48:57Z",
-      "Content": "Worst Roommate Ever is currently the most popular show on Netflix, according to the platforms public ranking system.\r\nAs the title suggests, the docuseries details peoples real experiences with night… [+1848 chars]"
     }
   ]
 }
