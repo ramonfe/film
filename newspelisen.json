@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 799,
+  "TotalResults": 800,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Fandango co-founder J. Michael Cline dead at 64",
+      "Description": "One of the founders of the movie ticketing service Fandango has died following an apparent suicide in New York City.\nJ. Michael Cline, the co-founder of the movie ticket website and service Fandango, died Tuesday after falling from the balcony of a Manhattan …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174534323",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-18T22:33:32Z",
+      "Content": "One of the founders of the movie ticketing service Fandango has died following an apparent suicide in New York City.\r\nJ. Michael Cline, the co-founder of the movie ticket website and service Fandango… [+2775 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/07/scarlett-disney.jpg",
       "PublishedAt": "2024-07-18T06:29:45Z",
       "Content": "Scarlett Johansson opened up about suing Disney in 2021 and if she’s holding a grudge against the company years later. \r\nIf you forgot, the 39-year-old actress sued the major media company over breac… [+1091 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bleeding Cool News"
-      },
-      "Author": "Kaitlyn Booth",
-      "Title": "Charlize Theron On Why The Old Guard 2 Release Has Been Delayed",
-      "Description": "Netflix has been on a mission that has been impacting me and only me for years. It already took them forever to greenlight The Old Guard 2, and once the movie got off the ground and wrapped, we heard nothing else about it. Not that long ago, we got some hints…",
-      "Url": "https://bleedingcool.com/movies/charlize-theron-on-why-the-old-guard-2-release-has-been-delayed/",
-      "UrlToImage": "https://bleedingcool.com/wp-content/uploads/2021/06/COMPMAINR5-2000x1125.jpg",
-      "PublishedAt": "2024-07-18T02:41:07Z",
-      "Content": "Posted in: Movies, Netflix | Tagged: the old guard, the old guard 2\r\nCharlize Theron has confirmed that the changes in leaderships appear to be reason that The Old Guard 2 hasn't been released yet.\r\n… [+3050 chars]"
     }
   ]
 }
