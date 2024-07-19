@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 704,
+  "TotalResults": 705,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "Eric Deggans",
+      "Title": "'I've Lived In An Incredible Time': Comic Bob Newhart Dies At 94",
+      "Description": "Comic Bob Newhart, best known for an everyman persona that powered two classic TV sitcoms, died Thursday morning of natural causes. He was 94. Newhart was the funniest guy in the room while playing unassuming characters who, in others' hands, would have been …",
+      "Url": "https://www.npr.org/2024/07/18/791345695/bob-newhart-dead",
+      "UrlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2969x1671+0+162/resize/1400/quality/100/format/jpeg/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2020%2F01%2F02%2Fgettyimages-182996164_custom.jpg",
+      "PublishedAt": "2024-07-18T20:13:29Z",
+      "Content": "Bob Newhart played psychologist Robert Hartley in the 1970s sitcom The Bob Newhart Show.\r\nGerald Smith/NBCUniversal via Getty Images\r\nComic Bob Newhart, best known for an everyman persona that powere… [+4740 chars]"
+    },
     {
       "Source": {
         "Id": "associated-press",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gameinformer.com/sites/default/files/styles/thumbnail/public/2024/07/17/b1e32ca0/the-ghoul-fallout.jpg",
       "PublishedAt": "2024-07-17T18:21:00Z",
       "Content": "Fallout, a TV adaptation of the popular post-apocalyptic video game series, was released on Amazon Prime this past April. Video game adaptations can be a bit of a mixed bag sometimes, but in this cas… [+2064 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Will Shanklin",
-      "Title": "Fallout’s 16 Emmy nominations show that successful gaming adaptations are no longer a fluke",
-      "Description": "Prime Video’s Fallout has followed The Last of Us in video-game adaptations making smashing freshman debuts at the Emmys. The Academy of Television Arts and Sciences unveiled this year’s nominations on Wednesday, and Amazon’s adaptation of Bethesda’s franchis…",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_237fa136-3b87-4490-a106-1dda5453fc92",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-17T17:55:56Z",
-      "Content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
