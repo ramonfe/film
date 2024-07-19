@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 798,
+  "TotalResults": 799,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://bleedingcool.com/wp-content/uploads/2021/06/COMPMAINR5-2000x1125.jpg",
       "PublishedAt": "2024-07-18T02:41:07Z",
       "Content": "Posted in: Movies, Netflix | Tagged: the old guard, the old guard 2\r\nCharlize Theron has confirmed that the changes in leaderships appear to be reason that The Old Guard 2 hasn't been released yet.\r\n… [+3050 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (Agence France-Presse)",
-      "Title": "Fire kills 16 people at shopping mall in southwestern China",
-      "Description": "Beijing — A fire at a shopping mall killed 16 people in the southwestern Chinese city of Zigong, state media reported early Thursday.\n\n\nFirefighters and rescuers responded to a fire call shortly after 6 p.m. at the 14-story commercial building, and pulled 75 …",
-      "Url": "https://www.voanews.com/a/fire-kills-16-people-at-shopping-mall-in-southwestern-china-/7702046.html",
-      "UrlToImage": "https://gdb.voanews.com/59583F63-95AB-4B2D-836A-ECF6BAE42970.jpg",
-      "PublishedAt": "2024-07-18T00:19:53Z",
-      "Content": "Beijing  A fire at a shopping mall killed 16 people in the southwestern Chinese city of Zigong, state media reported early Thursday.\r\nFirefighters and rescuers responded to a fire call shortly after … [+1436 chars]"
     }
   ]
 }
