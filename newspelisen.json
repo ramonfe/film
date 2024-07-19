@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 844,
+  "TotalResults": 845,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "VOA News"
+      },
+      "Author": "webdesk@voanews.com (Agence France-Presse)",
+      "Title": "Fire kills 16 people at shopping mall in southwestern China",
+      "Description": "Beijing — A fire at a shopping mall killed 16 people in the southwestern Chinese city of Zigong, state media reported early Thursday.\n\n\nFirefighters and rescuers responded to a fire call shortly after 6 p.m. at the 14-story commercial building, and pulled 75 …",
+      "Url": "https://www.voanews.com/a/fire-kills-16-people-at-shopping-mall-in-southwestern-china-/7702046.html",
+      "UrlToImage": "https://gdb.voanews.com/59583F63-95AB-4B2D-836A-ECF6BAE42970.jpg",
+      "PublishedAt": "2024-07-18T00:19:53Z",
+      "Content": "Beijing  A fire at a shopping mall killed 16 people in the southwestern Chinese city of Zigong, state media reported early Thursday.\r\nFirefighters and rescuers responded to a fire call shortly after … [+1436 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-16T19:34:04Z",
       "Content": "Behaviour Interactive has shared a bunch of Dead by Daylight-related updates, including the release date for an upcoming spinoff. The Casting of Frank Stone, which was developed by Until Dawn studio … [+1588 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Kris Holt",
-      "Title": "Dead by Daylight spinoff The Casting of Frank Stone arrives on September 3",
-      "Description": "Behaviour Interactive has shared a bunch of Dead by Daylight\r\n-related updates, including the release date for an upcoming spinoff. The Casting of Frank Stone\r\n, which was developed by Until Dawn studio Supermassive Games, will hit PC, PlayStation and Xbox on…",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2c60ad01-c6b2-4304-88e7-1eeac5b467b9",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-16T19:23:39Z",
-      "Content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
