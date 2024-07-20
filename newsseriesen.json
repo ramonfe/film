@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "nytimes.com",
+      "Title": "With Netflix, ‘Your Honor’ Becomes a Surprising Summer TV Hit",
+      "Description": "Once again, a show with little following has become hugely popular once it starts streaming on Netflix.",
+      "Url": "https://biztoc.com/x/75e0e531e3e443bd",
+      "UrlToImage": "https://biztoc.com/cdn/75e0e531e3e443bd_s.webp",
+      "PublishedAt": "2024-07-19T09:15:00Z",
+      "Content": "Once again, a show with little following has become hugely popular once it starts streaming on Netflix.\r\nThis story appeared on nytimes.com, 2024-07-19."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/07/horizon-zero-dawn-show-netflix-cancellation.jpg?resize=1200,630",
       "PublishedAt": "2024-07-04T11:26:14Z",
       "Content": "Its being reported that the Horizon: Zero Dawn series, which is in development at Netflix, is no longer happening following the allegations concerning its showrunner.\r\nIn a report by Rolling Stone, U… [+1296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Root"
-      },
-      "Author": "Stephanie Holland",
-      "Title": "If You Love ‘Supacell,’ Check Out These British TV Series",
-      "Description": "Photo: Netflix\r\nFor a long time, the captivating draw of British TV was a well kept secret. However, the streaming takeover has led audiences to discover the deeper, more complex stories often told across the pond. The latest series to capture viewers’ intere…",
-      "Url": "https://www.theroot.com/if-you-love-supacell-check-out-these-british-tv-seri-1851575769",
-      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e4101ec9b3d66ae438e464cd23580263.jpg",
-      "PublishedAt": "2024-07-03T20:32:12Z",
-      "Content": "If mob stories are your thing, you definitely need to watch Gangs of London. The murder of Finn Wallace, the head of Londons underground, throws everything into chaos and sets off a very bloody power… [+171 chars]"
     }
   ]
 }
