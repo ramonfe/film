@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 581,
+  "TotalResults": 582,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://assetsio.gnwcdn.com/halo-paramount.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "PublishedAt": "2024-07-19T00:22:56Z",
       "Content": "Paramount+ ha confirmado la cancelación de la serie de televisión de Halo tras dos temporadas.\r\nLa plataforma de streaming explicaba que \"podemos confirmar que Halo no seguirá adelante con una tercer… [+1824 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "El Financiero"
-      },
-      "Author": "EFE",
-      "Title": "Muere el actor Bob Newhart, ídolo de Sheldon en ‘La teoría del Big Bang’",
-      "Description": "Bob Newhart, actor conocido como el Dr Protón en la serie 'La Teoría del Big Bang murió este jueves.",
-      "Url": "https://www.elfinanciero.com.mx/espectaculos/2024/07/18/muere-bob-newhart-actor-de-la-teoria-del-big-bang-quien-es-que-le-paso/",
-      "UrlToImage": "https://www.elfinanciero.com.mx/resizer/vFhmqO5l85a0J__9uGnFitSCzMI=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RRG3CUUT6VGMRLND2X2F6PWNLI.jpg",
-      "PublishedAt": "2024-07-18T23:40:43Z",
-      "Content": "El actor estadounidenseBob Newhart, conocido por la serie de televisión La teoría del Big Bang y su discurso inexpresivo y tartamudeante, murió la mañana de este jueves a los 94 años tras una breve e… [+2419 chars]"
     }
   ]
 }
