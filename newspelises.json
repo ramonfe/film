@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La reserva natural más bonita de Andalucía esconde jirafas y rinocerontes en un desierto",
+      "Description": "La reserva zoológica de Oasys Minihollywood abrió sus puertas en junio de 1997. Cuenta con más de 800 animales de 200 especies diferentes y está ubicada en el corazón del Desierto de Tabernas (Almería), incluyendo una vegetación con más de 4.000 árboles. Este…",
+      "Url": "https://www.abc.es/viajar/andalucia/reserva-natural-bonita-andalucia-esconde-jirafas-rinocerontes-20240722124933-nts.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/viajar/2024/07/22/jirafas-mini-hollywood-almeria-U27151225857KrY-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-07-22T14:37:50Z",
+      "Content": "La reserva zoológica de Oasys Minihollywood abrió sus puertas en junio de 1997. Cuenta con más de 800 animales de 200 especies diferentes y está ubicada en el corazón del Desierto de Tabernas (Almerí… [+3353 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/d83f80/avatar/840_560.jpeg",
       "PublishedAt": "2024-07-09T12:31:48Z",
       "Content": "La muerte de Jon Landau ha supuesto un inesperado golpe para Hollywood. Se trataba de uno de los productores más queridos de la industria, y corresponsable de algunos de sus mayores éxitos. Pero tamb… [+3735 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Silvia Fernández",
-      "Title": "'Del Revés 2 (Inside Out 2)' continúa imparable: ya es la película de animación más taquillera de la historia de España",
-      "Description": "Desde su estreno el pasado 19 de junio, Del Revés 2 (Inside Out 2) ha superado semana tras semana las previsiones a nivel mundial que tenían sobre ella, convirtiéndose en un fenómeno imparable. La nueva película de Pixar no para de batir sus propios récords, …",
-      "Url": "https://www.lavanguardia.com/andro4all/series/del-reves-2-inside-out-2-continua-imparable-ya-es-la-pelicula-de-animacion-mas-taquillera-de-la-historia-de-espana",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/07/escena-de-del-reves-2-inside-out-2.png?width=1200",
-      "PublishedAt": "2024-07-09T10:10:41Z",
-      "Content": "Escena de la película 'Del Reves 2 (Inside Out 2)'\r\nDesde su estreno el pasado 19 de junio, Del Revés 2 (Inside Out 2)ha superado semana tras semana las previsiones a nivel mundial que tenían sobre e… [+2455 chars]"
     }
   ]
 }
