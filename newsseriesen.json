@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "Wailin Wong",
+      "Title": "The curious rise of novelty popcorn buckets",
+      "Description": "Even before the Dune: Part 2 popcorn bucket went viral this year, movie theaters have been trying all types of ways to lure customers back. There's reclining seats, expanded menu options and even more merchandise. Today on the show, we track the rise of the p…",
+      "Url": "https://www.npr.org/2024/07/23/1197967756/movie-theaters-lure-customers-novelty-popcorn-buckets",
+      "UrlToImage": "https://media.npr.org/assets/img/2024/07/23/more-show-artwork-1-_wide-7aa2813b3c72c84193e5cf66e7c8ace173a48548.jpg?s=1400&c=100&f=jpeg",
+      "PublishedAt": "2024-07-23T20:08:28Z",
+      "Content": "A screenshot of the \"Deadpool &amp; Wolverine\" popcorn bucket shared by Ryan Reynolds. (Ryan Reynolds/YouTube)\r\nRyan Reynolds/YouTube\r\nEven before the Dune: Part 2 popcorn bucket went viral this year… [+592 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.macrumors.com/t/f4rqI-ehQUQTZyI_yhkCPuKhayY=/1960x/article-new/2024/07/Apple-TV-Plus-Severance-Season-2.jpg",
       "PublishedAt": "2024-07-10T12:56:19Z",
       "Content": "The critically-acclaimed workplace thriller \"Severance\" returns to Apple TV+ early next year, according to a teaser video released today.\r\nApple said the 10-episode season will premiere on Friday, Ja… [+970 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "AppleInsider"
-      },
-      "Author": "news@appleinsider.com (Malcolm Owen)",
-      "Title": "Workplace thriller 'Severance' returns to Apple TV+ in early 2025",
-      "Description": "The return of Lumon Industries to Apple TV+ is on the way, with the second season of \"Severance\" landing on the streaming service on January 17.An Apple TV+ teaser image for the second season of 'Severance'After a critical reception, the second season of Seve…",
-      "Url": "https://appleinsider.com/articles/24/07/10/workplace-thriller-severance-returns-to-apple-tv-in-early-2025",
-      "UrlToImage": "https://photos5.appleinsider.com/gallery/60322-124009-severance2-xl.jpg",
-      "PublishedAt": "2024-07-10T12:50:24Z",
-      "Content": "An Apple TV+ teaser image for the second season of 'Severance'\r\nThe return of Lumon Industries to Apple TV+ is on the way, with the second season of \"Severance\" landing on the streaming service on Ja… [+1302 chars]"
     }
   ]
 }
