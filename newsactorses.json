@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 530,
+  "TotalResults": 531,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Muere la actriz y modelo Teresa Gimpera a los 87 años",
+      "Description": "La actriz y modelo catalana Teresa Gimpera , una de las musas de la 'Gauche Divine' de Barcelona, ha fallecido este martes a los 87 años, según han informado fuentes de la Conselleria de Cultura de la Generalitat. Nacida en Igualada (Barcelona) el 21 de septi…",
+      "Url": "https://www.abc.es/play/television/noticias/muere-actriz-modelo-teresa-gimpera-anos-20240723214032-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/07/23/Gimpera-k83E--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-07-23T19:42:15Z",
+      "Content": "La actriz y modelo catalana Teresa Gimpera, una de las musas de la 'Gauche Divine' de Barcelona, ha fallecido este martes a los 87 años, según han informado fuentes de la Conselleria de Cultura de la… [+1396 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2024/07/19/COIXET_ABANICO-U04435523674oKT-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-07-22T02:12:19Z",
       "Content": "El verano es a Isabel Coixet lo que el agua al aceite. ¡Incompatible! Detesta la cineasta que la obliguen a estar quieta, y ya se sabe que el verano, como los domingos, ralentiza la vida a su mínima … [+584 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "«Hasta que te maten»: el horror de una relación casi mortal",
-      "Description": "El pasado 9 de julio , las pantallas se tiñeron de un oscuro y perturbador relato con el estreno de ' Hasta que te maten ' (' Until I Kill You '). En esta nueva serie británica , Shaun Evans , conocido por su papel en 'Endeavour', se sumerge en las profundida…",
-      "Url": "https://www.abc.es/play/series/maten-horror-relacion-mortal-20240722172626-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/07/22/until_i_kill_you-712138522-large_20240719170702-RHQRbTWRC4T8whV7hcumb7I-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-07-22T02:11:46Z",
-      "Content": "El pasado 9 de julio, las pantallas se tiñeron de un oscuro y perturbador relato con el estreno de 'Hasta que te maten' ('Until I Kill You'). En esta nueva serie británica, Shaun Evans, conocido por … [+4305 chars]"
     }
   ]
 }
