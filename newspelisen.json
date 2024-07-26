@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 806,
+  "TotalResults": 807,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Pixar’s ‘Inside Out 2’ Becomes Top Animated Film of All Time at Global Box Office - Hollywood Reporter",
+      "Description": "Pixar’s ‘Inside Out 2’ Becomes Top Animated Film of All Time at Global Box OfficeHollywood Reporter ‘Inside Out 2’ Surpasses ‘Frozen 2’ as Highest-Grossing Animated Film in HistoryVariety ‘Inside Out 2’ becomes highest-grossing animated movie of all timeCNN W…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174587620",
+      "UrlToImage": null,
+      "PublishedAt": "2024-07-25T05:33:10Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4338900-transformersone.jpg",
       "PublishedAt": "2024-07-24T13:45:00Z",
       "Content": "If Paramount was hoping to create some positive buzz for Transformers One before Comic-Con 2024, then the studio succeeded. On the eve of Hollywood's annual convergence on San Diego, Paramount hosted… [+3245 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "marketwatch.com",
-      "Title": "AMC’s debt restructuring bodes well for box-office recovery, says Benchmark",
-      "Description": "AMC Entertainment Holdings Inc.’s debt restructuring this week puts the movie-theater chain and original meme stock in a good position for an expected box-office rebound, according to Benchmark.",
-      "Url": "https://biztoc.com/x/fefdb8f12420fdcc",
-      "UrlToImage": "https://biztoc.com/cdn/800/og.png",
-      "PublishedAt": "2024-07-24T13:35:24Z",
-      "Content": "AMC Entertainment Holdings Inc.s debt restructuring this week puts the movie-theater chain and original meme stock in a good position for an expected box-office rebound, according to Benchmark.\r\nThis… [+46 chars]"
     }
   ]
 }
