@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 520,
+  "TotalResults": 521,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eurogamer.es"
+      },
+      "Author": "Josep Maria Sempere",
+      "Title": "Primer tráiler de la serie de Prime Video de Yakuza: Like a Dragon",
+      "Description": "Amazon ha publicado el primer tráiler oficial de la serie de Like a Dragon, la franquicia anteriormente conocida como Yakuza, que se emitirá a través de la plataforma de streaming Prime Video.\n\nLike a Dragon: Yakuza tiene previsto su estreno para el próximo d…",
+      "Url": "https://www.eurogamer.es/primer-trailer-de-la-serie-de-prime-video-de-yakuza-like-a-dragon",
+      "UrlToImage": "https://assetsio.gnwcdn.com/likeadragonprimevideo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "PublishedAt": "2024-07-27T18:12:25Z",
+      "Content": "Amazon ha publicado el primer tráiler oficial de la serie de Like a Dragon, la franquicia anteriormente conocida como Yakuza, que se emitirá a través de la plataforma de streaming Prime Video.\r\nLike … [+1256 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/b911ea25-3e4b-45e5-951d-9fa983b7b7d5_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-07-25T17:45:29Z",
       "Content": "El 26 de junio de 2023, Así es la vida debutó en la tarde de Telecinco con una difícil misión: recoger el relevo de Sálvame y ocupar un hueco que en ese momento parecía no solo difícil de rellenar si… [+9286 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Endesa firma un acuerdo con Masdar para la gestión de sus plantas solares en España",
-      "Description": "A través de su sociedad participada Enel Green Power España, Endesa ha firmado un acuerdo con Masdar, un relevante actor del sector renovable, para la venta de un porcentaje minoritario -equivalente a un 49,99%- de EGPE Solar. Esta sociedad de reciente creaci…",
-      "Url": "https://www.abc.es/sevilla/economia/endesa-firma-acuerdo-masdar-gestion-plantas-solares-20240725194326-nts.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2024/07/25/planta-solar-endesa-U37147164143knM-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-07-25T17:43:26Z",
-      "Content": "A través de su sociedad participada Enel Green Power España, Endesa ha firmado un acuerdo con Masdar, un relevante actor del sector renovable, para la venta de un porcentaje minoritario -equivalente … [+1762 chars]"
     }
   ]
 }
