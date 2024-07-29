@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 493,
+  "TotalResults": 495,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Álvaro Onieva",
+      "Title": "Periodistas, una serie pegada a la actualidad que despertó vocaciones (y que no quiso hablar de ETA)",
+      "Description": "Hablamos con la actriz Alicia Borrachero y con los guionistas Felipe Mellizo y Pilar Nadal para recordar la mítica serie de Telecinco, ambientada en el periódico Crónica Universal Leer",
+      "Url": "https://www.elmundo.es/television/2024/07/28/669926a021efa0642b8b4591.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/a50a1e41a2379bc1d993dd121138f425/resize/1200/f/webp/assets/multimedia/imagenes/2024/07/18/17213120381585.jpg",
+      "PublishedAt": "2024-07-28T19:50:12Z",
+      "Content": "\"Periodistas llegó en un momento en que había muchas series de corte familiar\", recuerda la actriz Alicia Borrachero. \"Hacía tiempo que no había una profesional y fue, para su época, una serie más mo… [+9141 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Alejandro Alcolea, Joe Curtin",
+      "Title": "Michael Douglas: \"El problema del turismo es la combinación de los Airbnb y los 'rent a car'\"",
+      "Description": "En su visita a Palma para recibir el premio Masters of Cinema del festival de cine Atlántida Film Fest, organizado por Filmin, el reconocido actor estadounidense habla tajante al señalar que el turismo de masas \"es uno de los problemas más importantes en Mall…",
+      "Url": "https://www.eldiario.es/illes-balears/cultura/michael-douglas-problema-turismo-combinacion-airbnb-rent-car_1_11554795.html",
+      "UrlToImage": "https://static.eldiario.es/clip/97ff1c6e-0d28-4da1-a184-54ab67c5ba16_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-07-28T19:48:44Z",
+      "Content": "LEER ESTE TEXTO EN CATALÁN\r\nMichael Douglas, el reconocido actor estadounidense detrás de películas como Instinto Básico, The Game o Un día de furia, ha recibido el premio Masters of Cinema en la gal… [+5999 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/07/26/mayo-zambada-narcos-U60534893391qLE-U63533182366QcO-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-07-26T12:07:09Z",
       "Content": "Ismael 'El Mayo' Zambada García, líder del cartel de Sinaloa y también socio de Joaquín 'El Chapo' Guzman, fue arrestado este jueves y actualmente se encuentra bajo custodia en El Paso (Texas). El in… [+2232 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Primeras imágenes de Sevilla en 'Kaos', la superproducción de Netflix que se lanza en agosto",
-      "Description": "Sevilla hace tiempo que se ha convertido para la industria audiovisual en un escenario ideal para grabar algunas de las producciones más esperadas en las distintas plataformas de contenido presentes en el mercado. La última de ellas que dará relevancia a la c…",
-      "Url": "https://www.abc.es/sevilla/ciudad/primeras-imagenes-sevilla-kaos-superproduccion-netflix-lanza-20240726131904-nts.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2024/07/26/kaos_netflix-U05161458563pmQ-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-07-26T11:19:05Z",
-      "Content": "Sevilla hace tiempo que se ha convertido para la industria audiovisual en un escenario ideal para grabar algunas de las producciones más esperadas en las distintas plataformas de contenido presentes … [+1413 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Elsa Pataky regresa a la TV española 20 años después, junto a Maxi Iglesias en la nueva serie de SkyShowtime",
-      "Description": "Comienza la producción de 'Matices', un thriller psicológico que cuenta con Maxi Iglesias al frente, además de Luis Tosar, Enrique Arce y Hovik Keuchkerian. Pataky vuelve 20 años después a una serie española\r\nRodolfo Sancho revela que rechazó una serie por el…",
-      "Url": "https://www.eldiario.es/vertele/series/elsa-pataky-regresa-tv-espanola-20-anos-despues-maxi-iglesias-nueva-serie-skyshowtime_1_11551281.html",
-      "UrlToImage": "https://static.eldiario.es/clip/06f361be-675d-4604-a74a-60b2d22320b7_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-07-26T11:07:43Z",
-      "Content": "SkyShowtime ha anunciado el inicio de la producción de la serie española Matices, la segunda ficción original comisionada en España por la plataforma, joint venture de Paramount y Comcast. Se trata d… [+2815 chars]"
     }
   ]
 }
