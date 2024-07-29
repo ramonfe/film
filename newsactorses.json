@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 521,
+  "TotalResults": 522,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Marcela Ayora",
+      "Title": "Una vida atravesada por la música, el cine y su amistad con Luis Eduardo Aute",
+      "Description": "De familia de artistas, la actriz y cantante María José Demare recuerda el día que conoció a Aute y la primera canción que cantó de él “Aleluya”. “Era muy fan de mi papá”, reconoce",
+      "Url": "https://www.lanacion.com.ar/conversaciones-de-domingo/una-vida-atravesada-por-la-musica-el-cine-y-su-amistad-con-luis-eduardo-aute-nid28072024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/maria-jose-demare-la-hija-del-gran-cineasta-canta-5UNVMF43HNBB7EKELMLXQ6T5MA.jpg?auth=37cc9731f4a6c77e92725546cecb7e7c0c78034fd01ad89e4300d5205b1fdb86&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-07-28T03:10:00Z",
+      "Content": "De una caminata por la calle Cerrito surgieron las ganas de entrar. Es que era una disquería, lugar ideal para esa chica de 16 que tocaba la guitarra y cantaba. Y si bien en esa tarde de los años 60 … [+11925 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/3d4cba6d-0529-4bf4-9b80-bcef06ca592e_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-07-25T17:45:30Z",
       "Content": "A partir de este viernes 26 de julio, Élite pasará a formar parte de la historia. Esa es la fecha elegida por Netflix para estrenar la temporada final de la serie juvenil creada por Carlos Montero y … [+12774 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Lorenzo Ayuso",
-      "Title": "Así empezó y así acaba 'Así es la vida', el programa que relevó a 'Sálvame' y que devuelve el sitio a Jorge Javier",
-      "Description": "Trece meses después de su estreno, el magacín conducido por Sandra Barneda y César Muñoz dejará su hueco a 'El diario de Jorge'. Concluye la andadura de un programa que nació como un parche, pero que trató de innovar en su apuesta, y que acabó alargándose has…",
-      "Url": "https://www.eldiario.es/vertele/noticias/asi-es-la-vida-empezo-acaba-programa-relevo-salvame-devuelve-relevo-jorge-javier_1_11546906.html",
-      "UrlToImage": "https://static.eldiario.es/clip/b911ea25-3e4b-45e5-951d-9fa983b7b7d5_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-07-25T17:45:29Z",
-      "Content": "El 26 de junio de 2023, Así es la vida debutó en la tarde de Telecinco con una difícil misión: recoger el relevo de Sálvame y ocupar un hueco que en ese momento parecía no solo difícil de rellenar si… [+9286 chars]"
     }
   ]
 }
