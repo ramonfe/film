@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La presencia de la Familia Real en París condiciona las vacaciones en Mallorca",
+      "Description": "Los Reyes Felipe y Letizia han vuelto a instalarse en el Palacio de Marivent para unas vacaciones en las que Mallorca vuelve a acoger a la Familia Real , aunque en principio se les verá poco por la isla. Las vacaciones oficiales de los Reyes, la Princesa Leon…",
+      "Url": "https://www.abc.es/gente/presencia-familia-real-paris-condiciona-vacaciones-mallorca-20240729194347-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2024/07/29/reyes-juegos-olimpicos-vacaciones-mallorca-U77301885186xLj-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-07-29T02:29:51Z",
+      "Content": "Los Reyes Felipe y Letizia han vuelto a instalarse en el Palacio de Marivent para unas vacaciones en las que Mallorca vuelve a acoger a la Familia Real, aunque en principio se les verá poco por la is… [+6002 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.libertaddigital.com/2024/07/12/1200/627/lm/cines-callao-m.jpg",
       "PublishedAt": "2024-07-16T04:17:41Z",
       "Content": "El cine español es una de esas industrias de la economía que generan una gran confrontación entre dos grupos de la población marcadamente identificados, como lo pudiera ser también la tauromaquia. Es… [+4045 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Frankie MB",
-      "Title": "Todo lo que sabemos sobre Terminator Zero: primer tráiler, fechas, protagonistas y más",
-      "Description": "La fecha de estreno de Terminator Zero no está elegida de cualquier manera: los creadores de las versiones animadas de Ghost in the Shell desatarán el apocalipsis de James Cameron en clave de anime el próximo 29 de agosto, el mismo día del día del juicio fina…",
-      "Url": "https://www.vidaextra.com/series/todo-que-sabemos-terminator-zero-primer-trailer-fechas-protagonistas",
-      "UrlToImage": "https://i.blogs.es/9d02e3/terminator-zero-netflix/840_560.jpeg",
-      "PublishedAt": "2024-07-15T14:01:22Z",
-      "Content": "La fecha de estreno de Terminator Zero no está elegida de cualquier manera: los creadores de las versiones animadas de Ghost in the Shell desatarán el apocalipsis de James Cameron en clave de anime e… [+2947 chars]"
     }
   ]
 }
