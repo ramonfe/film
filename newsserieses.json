@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 589,
+  "TotalResults": 590,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'The Bear' enciende sus fogones en un agosto lleno de estrenos",
+      "Description": "Parece que para el calor sofocante del verano el único remedio que hay es darse un chapuzón en la piscina. Pero también se puede encender el ventilador, poner la televisión y ver las mejores series que se estrenan en agosto. Disney+ enciende los fogones de nu…",
+      "Url": "https://www.abc.es/play/series/noticias/the-bear-enciende-fogones-agosto-lleno-estrenos-20240729174304-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/07/29/Bear-E303_07_39_22.Still014-U10218263888fXE-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-07-29T16:09:47Z",
+      "Content": "Parece que para el calor sofocante del verano el único remedio que hay es darse un chapuzón en la piscina. Pero también se puede encender el ventilador, poner la televisión y ver las mejores series q… [+2845 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.ecestaticos.com/sznJt5aQtBGgb4zh7w3HXvR_d6Y=/0x0:1024x600/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/896/adf/b9c/896adfb9c82ff4457e52ba0a554006e1.jpg",
       "PublishedAt": "2024-07-27T03:00:00Z",
       "Content": "La serie de Netflix basada en hechos reales que tienes que ver: un maratón para el verano con Pedro PascalLa nueva serie española de Netflix en Galicia tras El caso Asunta: una historia de amor entre… [+2739 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Jordi Sabaté",
-      "Title": "'Casa en flames', la ácida comedia que llena las salas con su retrato de una familia catalana en la Costa Brava",
-      "Description": "Rodada en catalán, el último filme de Dani de la Orden se ha situado como el segundo filme más taquillero de los últimos años, solo por detrás de 'Alcarràs'\r\nEl maestro que prometió ver el mar a sus alumnos cumple su promesa 88 años después de ser fusilado po…",
-      "Url": "https://www.eldiario.es/catalunya/casa-flames-acida-comedia-llena-salas-retrato-familia-catalana-costa-brava_1_11546704.html",
-      "UrlToImage": "https://static.eldiario.es/clip/3c02a45c-a1f9-4f26-8ea2-9cd793e692b1_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-07-26T20:13:02Z",
-      "Content": "El verano cinematográfico catalán tiene un éxito inesperado llamado Casa en flames, la última película del precoz y prolífico director Dani de la Orden. El filme ha conseguido en sus cuatro primeras … [+7390 chars]"
     }
   ]
 }
