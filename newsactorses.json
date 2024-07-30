@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 496,
+  "TotalResults": 497,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "Adriana Casado",
+      "Title": "¿Se avecina un nuevo reencuentro de 'Médico de familia'? Aarón Guerrero responde a la gran pregunta",
+      "Description": "El actor que dio vida a Chechu ha reaparecido en televisión para recordar la mítica serie española",
+      "Url": "https://www.hola.com/actualidad/20240729709718/aaron-guerrrero-reencuentro-medico-de-familia/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/5dadd276ad4a-medico-de-familia-telecinco-z.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-07-29T20:24:31Z",
+      "Content": "Aarón Guerrero, el actor que interpretó a Chechu en la mítica Médico de familia, ha reaparecido a través de una llamada telefónica en el programa Fiesta. La charla entre el ahora empresario y los col… [+2466 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/07/el-libro-de-eli-pelicula-con-denzel-washington.png?width=1200",
       "PublishedAt": "2024-07-28T15:01:49Z",
       "Content": "El mundo que narra es muy interesante y la puesta en escena está muy bien llevada\r\nLas películas sobre el fin del mundo son bastante famosas y seguidas por el gran público. El lanzamiento y exitazo d… [+3176 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'La Promesa' se despide de uno de sus personajes antes de hacer un parón en TVE por los JJOO",
-      "Description": "El serial de TVE concluye las tramas de uno de sus personajes, que se marcha sin cerrar la puerta por completo\r\nAntena 3 prepara el estreno de dos nuevas series internacionales: así son 'Buenos días, mamá' y 'Una nueva vida'\r\n\n Antes de hacer un parón en su e…",
-      "Url": "https://www.eldiario.es/vertele/series/la-promesa-tve-adriano_1_11554595.html",
-      "UrlToImage": "https://static.eldiario.es/clip/bdac6709-5045-4478-9755-3c9ff399c800_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-07-28T13:54:07Z",
-      "Content": "Antes de hacer un parón en su emisión por el inicio de los Juegos Olímpicos, La Promesa se despidió de uno de sus personajes. Adriano, el gran amigo de Catalina, decidió alejarse de la hija del marqu… [+1291 chars]"
     }
   ]
 }
