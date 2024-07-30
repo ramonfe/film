@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Qué hacer en Sevilla este fin de semana",
+      "Description": "Este verano, Sevilla ofrece una amplia variedad de actividades y eventos para todos los gustos, desde emocionantes días en los parques acuáticos de Agua Mágica y Guadalpark, hasta conciertos en la Fundación Cajasol o noches mágicas con proyecciones cinematogr…",
+      "Url": "https://www.abc.es/queplan/sevilla/que-hacer/sevilla-fin-semana-20240727161315-nts.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/queplan/2024/07/27/Guadalpark-sevilla-agosto-U27340518257rSF-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-07-29T14:36:30Z",
+      "Content": "Este verano, Sevilla ofrece una amplia variedad de actividades y eventos para todos los gustos, desde emocionantes días en los parques acuáticos de Agua Mágica y Guadalpark, hasta conciertos en la Fu… [+13954 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/07/Twisters-Hipertextual-2309.jpg?fit=1800%2C1123&quality=55&strip=all&ssl=1",
       "PublishedAt": "2024-07-16T13:00:00Z",
       "Content": "En 1996, el cine de desastres estaba de capa caída. Después de su auge en la década de 1970, se había convertido en un género lleno de clichés y sin atractivo para la taquilla. Por lo que el éxito de… [+6022 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Libremercado.com"
-      },
-      "Author": "Miguel Puga",
-      "Title": "El cine español recibe en subvenciones el doble de lo que recauda en taquilla",
-      "Description": "El cine español recibe más ayudas estatales de lo que es capaz de generar en ingresos.",
-      "Url": "https://www.libremercado.com/2024-07-16/el-cine-espanol-recibe-en-subvenciones-el-doble-de-lo-que-recauda-en-taquilla-7147530/",
-      "UrlToImage": "https://s.libertaddigital.com/2024/07/12/1200/627/lm/cines-callao-m.jpg",
-      "PublishedAt": "2024-07-16T04:17:41Z",
-      "Content": "El cine español es una de esas industrias de la economía que generan una gran confrontación entre dos grupos de la población marcadamente identificados, como lo pudiera ser también la tauromaquia. Es… [+4045 chars]"
     }
   ]
 }
