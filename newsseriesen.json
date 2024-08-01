@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Steven Petite",
+      "Title": "Ted Lasso Blu-Ray Box Set Gets Launch-Day Discount At Amazon And Limited-Edition Poster",
+      "Description": "Ted Lasso: The Complete Series on Blu-ray \r\n $75 (was $85) \r\nSee at Amazon See at Amazon (DVD) \r\nTed Lasso: The Complete Series is now available on Blu-ray and DVD (as of July 30). The box set contains all three seasons of Apple TV's smash hit as well as a li…",
+      "Url": "https://www.gamespot.com/articles/ted-lasso-blu-ray-box-set-gets-launch-day-discount-at-amazon-and-limited-edition-poster/1100-6523264/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4343360-tedlasso.jpg",
+      "PublishedAt": "2024-07-31T00:19:00Z",
+      "Content": "Ted Lasso: The Complete Series is now available on Blu-ray and DVD (as of July 30). The box set contains all three seasons of Apple TV's smash hit as well as a limited-edition double-sided poster. Am… [+2393 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-18T22:03:38Z",
       "Content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MacRumors"
-      },
-      "Author": "Hartley Charlton",
-      "Title": "Apple Looking to License More Movies to Expand Apple TV+ Library",
-      "Description": "Apple is in active talks to license more films from major Hollywood studios as it seeks to bolster Apple TV+, according to Bloomberg.\n\n\n\n\n\nApple has traditionally focused on original productions for its streaming platform, but it is increasingly looking to ex…",
-      "Url": "https://www.macrumors.com/2024/07/18/apple-looking-to-license-more-movies/",
-      "UrlToImage": "https://images.macrumors.com/t/ePThL2KRQuy_9Z77a2x6gd01jCQ=/1920x/article-new/2020/12/Apple-TV-Ray-Light-2-Blue.jpg",
-      "PublishedAt": "2024-07-18T14:37:21Z",
-      "Content": "Apple is in active talks to license more films from major Hollywood studios as it seeks to bolster Apple TV+, according to Bloomberg.\r\nApple has traditionally focused on original productions for its … [+1835 chars]"
     }
   ]
 }
