@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The New Republic"
+      },
+      "Author": "Phillip Maciak",
+      "Title": "The Genius of Evil",
+      "Description": "There was a giant, man-size crucifix outside of my first-grade classroom. This object—bloody and graphic—stood probably eight feet tall and was clearly meant to hang high above the altar of a large Roman Catholic church. But my grade school had wedged it into…",
+      "Url": "https://newrepublic.com/article/184246/evil-paramount-tv-review",
+      "UrlToImage": "https://images.newrepublic.com/48860c4703b466f03ee7749331f9d1280aab43df.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "PublishedAt": "2024-07-31T10:00:00Z",
+      "Content": "All rot, the show seems to suggest, is systemic rot. And while David, Kristen, and Ben are nominally the White Hats in this situation, as they methodically root out the tendrils of this metaphysical … [+3195 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-18T22:34:06Z",
       "Content": "Netflix is expanding its games roster with an intriguing (and probably gruesome) new tie-in. During the company's quarterly earnings announcement, Netflix shared that it plans to launch a multiplayer… [+1462 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Anna Washenko",
-      "Title": "Netflix will drop a new multiplayer game when Squid Game season 2 premieres this year",
-      "Description": "Netflix is expanding its games roster with an intriguing (and probably gruesome) new tie-in. During the company's quarterly earnings announcement\r\n, Netflix shared that it plans to launch a multiplayer game inspired by Squid Game. Its release date will be tim…",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c6582c2f-ef1e-4057-a3ff-78cccabeef44",
-      "UrlToImage": null,
-      "PublishedAt": "2024-07-18T22:03:38Z",
-      "Content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
