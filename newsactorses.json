@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 516,
+  "TotalResults": 517,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "Ada Nuño",
+      "Title": "Aida Folch: \"Me enfada cuando la gente dice que escoge su carrera. Te llega lo que te llega\"",
+      "Description": "La actriz comenzó su carrera con 14 años, se ha movido entre el cine y la televisión y ahora presenta 'Isla perdida', la tercera película en la que trabaja a las órdenes de Fernando Trueba",
+      "Url": "https://www.elconfidencial.com/cultura/2024-07-31/entrevista-aida-folch-isla-perdida_3933238/",
+      "UrlToImage": "https://images.ecestaticos.com/nhoUfjhA3C_C7el4jTSVzje4jxc=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/557/60c/453/55760c453f0cb39ffe380de117bc7229.jpg",
+      "PublishedAt": "2024-07-31T03:00:00Z",
+      "Content": "La primera vez que Aida Folch posó frente a la cámara, lo hizo bajo las órdenes de Fernando Trueba. Corría el año 2002 y, una década antes, Juan Marsé había publicado una novela de nombre tan exótico… [+7463 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/07/29/auroracarbonell-U15886011015JmF-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-07-29T16:33:10Z",
       "Content": "A finales de la década de los 90, una joven Aurora Carbonell alcanzaba la popularidad interpretando al personaje de Yasmina en la famosa serie 'Al salir de clase'. Tras finalizar el papel en 2002, su… [+3280 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'The Bear' enciende sus fogones en un agosto lleno de estrenos",
-      "Description": "Parece que para el calor sofocante del verano el único remedio que hay es darse un chapuzón en la piscina. Pero también se puede encender el ventilador, poner la televisión y ver las mejores series que se estrenan en agosto. Disney+ enciende los fogones de nu…",
-      "Url": "https://www.abc.es/play/series/noticias/the-bear-enciende-fogones-agosto-lleno-estrenos-20240729174304-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/07/29/Bear-E303_07_39_22.Still014-U10218263888fXE-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-07-29T16:09:47Z",
-      "Content": "Parece que para el calor sofocante del verano el único remedio que hay es darse un chapuzón en la piscina. Pero también se puede encender el ventilador, poner la televisión y ver las mejores series q… [+2845 chars]"
     }
   ]
 }
