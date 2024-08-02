@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 710,
+  "TotalResults": 711,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "JAKE COYLE AP film writer",
+      "Title": "Review: In 'The Instigators,' a heist goes terrifically wrong",
+      "Description": "“The Instigators” may be a modern streaming movie for Apple but it’s a decidedly old-school kind of caper, stock full of local color and peopled with character-actor faces you’re happy to see",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/review-instigators-heist-terrifically-wrong-112486391",
+      "UrlToImage": "https://i.abcnewsfe.com/a/6ffb57f6-d468-4b38-868a-04920882d4bd/wirestory_9387b63247281504b61d9766de8d914a_16x9.jpg?w=1600",
+      "PublishedAt": "2024-08-01T18:06:26Z",
+      "Content": "Though depression lurks around the edges of The Instigators, Doug Limans heist movie is a loosely amiable return to South Boston for Matt Damon and Casey Affleck, who also co-wrote the film.\r\nIn the … [+3354 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.livemint.com/img/2024/07/31/1600x900/GKe5VsXWwAAjCcD_1722411721152_1722411746452.jpg",
       "PublishedAt": "2024-07-31T09:33:46Z",
       "Content": "Tamil film producers have called for all movie shoots to be halted, saying the high fees that actors command, among other issues, are to be blamed for the industrys woes.\r\nThe Tamil Film Producers' C… [+3769 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Den of Geek US"
-      },
-      "Author": "David Crow",
-      "Title": "Appreciating the Pre-MCU Superhero Movies of the 2000s",
-      "Description": "Like anyone else who’s enjoyed a superhero movie in the last 25 years, Ryan Reynolds is having a moment this week. Only for him, it is obviously much more so. An actor who appeared in multiple iterations of the genre’s earliest days in the 21st century—being …",
-      "Url": "https://www.denofgeek.com/movies/appreciating-pre-mcu-superhero-movies-of-the-2000s/",
-      "UrlToImage": "https://www.denofgeek.com/wp-content/uploads/2024/07/2000s-Superhero-movies-like-Spider-Man-X-Men-and-The-Dark-Knight.jpg?fit=1200%2C675",
-      "PublishedAt": "2024-07-31T09:00:00Z",
-      "Content": "That freedom, both for filmmakers and perhaps their shortsighted studio executives, led to a lot of junk like the soulless and sitcom-y Fantastic Four flicks, and whatever the hell they thought they … [+3943 chars]"
     }
   ]
 }
