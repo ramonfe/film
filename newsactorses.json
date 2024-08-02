@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 529,
+  "TotalResults": 530,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Hernán Ferreirós",
+      "Title": "Maxxxine: con homenajes a De Palma y Hitchcock, Ti West despide a su heroína, capaz de todo por la fama",
+      "Description": "X y Pearl pusieron en el mapa a la británica Mia Goth por su rol de actriz porno devenida estrella de cine, ahora perseguida por un asesino serial en una entretenida pero no muy original trama con mucho de Vestida para matar y Doble de cuerpo",
+      "Url": "https://www.lanacion.com.ar/espectaculos/cine/maxxxine-con-homenajes-a-de-palma-y-hitchcock-ti-west-despide-a-su-heroina-capaz-de-todo-por-la-fama-nid01082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/mia-goth-en-maxxxine-estreno-de-este-jueves-ABJQPLOLNRAJBG36AHYG2FAKFE.JPG?auth=5a8e758b521e326801bfde1cc703cf5e8652f40ee1e90e45c76979786bfaeaaa&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-01T03:00:00Z",
+      "Content": "MaXXXine (Estados Unidos/2024). Guion, edición y dirección: Ti West. Fotografía: Eliot Rockett. Música: Tyler Bates. Elenco: Mia Goth, Kevin Bacon, Giancarlo Esposito, Elizabeth Debicki, Halsey, Lily… [+3222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/07/rhaenyra-targaryen-en-el-2x08-de-la-casa-del-dragon.png?width=1200",
       "PublishedAt": "2024-07-30T15:40:02Z",
       "Content": "Rhaenyra Targaryen, interpretada por en el 2x08 de 'La casa del dragon'\r\nTras el gran éxito de su primera temporada en 2022, contábamos los días para el estreno de la segunda entrega de La casa del d… [+2990 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "El creador de 'Mi reno de peluche' revela el \"terrible acoso\" sufrido para 'tumbar' la denuncia por difamación contra Netflix",
-      "Description": "Aunque no había sido objeto de la demanda, Richard Gadd apoya a Netflix y deja constancia de los años de acoso de parte de Fiona Harvey. Esta pide 170 millones a la plataforma por difamación, tras haberse señalado a sí misma como la inspiración del personaje …",
-      "Url": "https://www.eldiario.es/vertele/series/creador-reno-peluche-revela-terrible-acoso-sufrido-tumbar-denuncia-difamacion-netflix_1_11559547.html",
-      "UrlToImage": "https://static.eldiario.es/clip/ad956ab7-5837-4476-b299-5153a993313d_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-07-30T13:55:22Z",
-      "Content": "Continúa el contubernio de Mi reno de peluche, el fenómeno de 2024 en Netflix. Richard Gadd, creador y protagonista de la aclamada ficción, participa en la defensa de la plataforma de streaming ante … [+4252 chars]"
     }
   ]
 }
