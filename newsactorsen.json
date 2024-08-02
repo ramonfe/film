@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 699,
+  "TotalResults": 700,
   "Articles": [
+    {
+      "Source": {
+        "Id": "nbc-news",
+        "Name": "NBC News"
+      },
+      "Author": "Andrew Blankstein and Antonio Planas",
+      "Title": "Green 'Power Rangers' actor wanted in Idaho parking dispute battery case",
+      "Description": "Police in Idaho issued a misdemeanor arrest warrant for the actor who played the green ranger in the \"Power Rangers\" movie franchise in connection with the alleged battery of a man in a dispute over a parking space, authorities said Wednesday.",
+      "Url": "https://www.nbcnews.com/news/us-news/green-power-rangers-actor-wanted-idaho-parking-dispute-battery-case-rcna164614",
+      "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240731-hector-david-rivera-jr-2019-ac-713p-d406af.jpg",
+      "PublishedAt": "2024-08-01T02:34:55Z",
+      "Content": "Police in Idaho issued a misdemeanorarrest warrant for the actor who played the green ranger in the \"Power Rangers\" movie franchise in connection with the alleged battery of a man in a dispute over a… [+1160 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-30T19:17:05Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "The Feed",
-      "Title": "Josh Hartnett blames stalkers for leaving Hollywood, reveals details about his new movie",
-      "Description": "Josh Hartnett is back and after 'Oppenheimer' and \"Wrath of Man\", the \"Pearl Harbor\" actor is an interesting role in 'Trap'.",
-      "Url": "https://economictimes.indiatimes.com/news/international/us/josh-hartnett-blames-stalkers-for-leaving-hollywood-reveals-details-about-his-new-movie/articleshow/112147328.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-112147327,width-1200,height-630,imgsize-7544,overlay-economictimes/photo.jpg",
-      "PublishedAt": "2024-07-30T19:15:46Z",
-      "Content": "Josh Hartnett, the famed teen idol in the late 1990s, has claimed that he decided to leave Hollywood career because of stalking issue, as per a report.Hartnett found fame in the late 1990s and early … [+1557 chars]"
     }
   ]
 }
