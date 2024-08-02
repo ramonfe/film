@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 704,
+  "TotalResults": 706,
   "Articles": [
+    {
+      "Source": {
+        "Id": "newsweek",
+        "Name": "Newsweek"
+      },
+      "Author": "Jane LaCroix",
+      "Title": "Matt Damon Brings the Whole Clan to 'The Instigators' Premiere in Rare Public Family Outing",
+      "Description": "The actor was accompanied by his wife and four children on the red carpet of his latest movie.",
+      "Url": "https://www.newsweek.com/entertainment/celebrity-news/matt-damon-whole-family-joins-red-carpet-instigators-1933216",
+      "UrlToImage": "https://d.newsweek.com/en/full/2440914/matt-damon-family.jpg",
+      "PublishedAt": "2024-08-01T14:48:55Z",
+      "Content": "Entertainment gossip and news from Newsweek's network of contributors\r\nMatt and Luciana Damon had a special family night out in New York City, turning heads with the whole gang at the premiere of Mat… [+2674 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Jessica Fisher",
+      "Title": "ST. ELMO'S FIRE Sequel in Early Stages of Development According to Rob Lowe: \"We've Met With the Studio\"",
+      "Description": "A sequel to the cult classic 1985 “Brat Pack” drama St. Elmo’s Fire is early in development, according to one of the film’s stars, Rob Lowe. In a recent interview with Entertainment Tonight, Lowe and his son, John Owen Lowe, talked about their Netflix comedy …",
+      "Url": "https://geektyrant.com/news/st-elmos-fire-sequel-in-early-stages-of-development-according-to-rob-lowe-weve-met-with-the-studio",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/66aaa548602fdb36f491a5b9/1722520804086/st+elmos+fire.jpg?format=1500w",
+      "PublishedAt": "2024-08-01T14:00:00Z",
+      "Content": "A sequel to the cult classic 1985 Brat Pack drama St. Elmos Fire is early in development, according to one of the films stars, Rob Lowe. In a recent interview with Entertainment Tonight, Lowe and his… [+1524 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/07/86495602.jpg?quality=75&strip=all&w=1024",
       "PublishedAt": "2024-07-30T22:03:54Z",
       "Content": "Elizabeth Banks nearly kicked the bucket while making her new movie, “Skincare.”\r\n“I had my first ever choking incident,” the actress, 50, revealed on “Good Morning America” Tuesday, explaining that … [+2911 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Surprise DEADPOOL & WOLVERINE Actor Breaks Silence on His Role; Says Ryan Reynolds Fought for Him",
-      "Description": "Deadpool & Wolverine is packed with all kinds of awesome cameos and Easter eggs, and there are so many to love! One of the cameos, though, that had me busting up laughing was Channing Tatum, who finally got to play Gambit after more than ten years of trying t…",
-      "Url": "https://geektyrant.com/news/channing-tatum-breaks-silence-on-his-deadpool-wolverine-role-says-ryan-reynolds-fought-for-him",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/66a900d08061e57c89eb448d/1722373419501/channing-tatum-breaks-silence-on-his-deadpool-wolverine-role-says-ryan-reynolds-fought-for-him.jpg?format=1500w",
-      "PublishedAt": "2024-07-30T21:03:00Z",
-      "Content": "Deadpool &amp; Wolverine is packed with all kinds of awesome cameos and Easter eggs, and there are so many to love! \r\nOne of the cameos, though, that had me busting up laughing was Channing Tatum, wh… [+1544 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Blair Marnell",
-      "Title": "Deadpool And Wolverine Co-Star Thanks Ryan Reynolds For Saving His X-Men Dream Role",
-      "Description": "Marvel's Deadpool and Wolverine featured a number of returning performers from the 20th Century Fox era of X-Men movies. However, it also included an actor whose X-Men film never escaped development hell before Disney purchased Fox's entertainment assets in 2…",
-      "Url": "https://www.gamespot.com/articles/deadpool-and-wolverine-co-star-thanks-ryan-reynolds-for-saving-his-x-men-dream-role/1100-6525415/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4337723-deadpoolandwolverine5.jpg",
-      "PublishedAt": "2024-07-30T20:38:00Z",
-      "Content": "Marvel's Deadpool and Wolverine featured a number of returning performers from the 20th Century Fox era of X-Men movies. However, it also included an actor whose X-Men film never escaped development … [+1771 chars]"
     }
   ]
 }
