@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 804,
+  "TotalResults": 805,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Phil Owen",
+      "Title": "All 34 Marvel Cinematic Universe Movies Ranked, Including Deadpool and Wolverine",
+      "Description": "The Marvel Cinematic Universe has been in constant flux for the past several years, first with COVID upsetting the entire release calendar, then with Spider-Man: No Way holding onto its scheduled date and releasing out of order, then with the whole Jonathan M…",
+      "Url": "https://www.gamespot.com/gallery/every-marvel-cinematic-universe-movie-ranked/2900-4657/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1757/17577455/4344722-deadpoolandwolverinecameos.jpg",
+      "PublishedAt": "2024-08-02T16:30:00Z",
+      "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://res.cloudinary.com/pippa/image/fetch/c_pad,w_600,h_315/https://assets.pippa.io/shows/60518a52f69aa815d2dba41c/1722469481291-f8e6c727-17bc-49cb-8ab6-8c69028c61a0.jpeg",
       "PublishedAt": "2024-08-01T16:00:28Z",
       "Content": "This week, Alan and Quinta were joined by Kevin Frazier to talk through some of the weeks biggest national security news, including:\r\n<ul><li>KOSA Nostra. An overwhelming majority of senators voted t… [+1657 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Variety"
-      },
-      "Author": "Todd Gilchrist",
-      "Title": "‘Torso,’ Sergio Martino’s Trailblazing 1973 Slasher Film, Set For 4K Release in September",
-      "Description": "An early cornerstone of the slasher movie genre is coming to 4K Ultra HD. On September 17, physical media distributor Arrow Films will release Sergio Martino’s 1973 film “Torso” in a limited edition box set featuring a brand-new 4K restoration from the origin…",
-      "Url": "https://variety.com/2024/film/news/torso-sergio-martino-4k-arrow-video-1236091782/",
-      "UrlToImage": "https://variety.com/wp-content/uploads/2024/07/torso-packshot-e1722451565154.jpg?w=1000&h=563&crop=1",
-      "PublishedAt": "2024-08-01T16:00:00Z",
-      "Content": "An early cornerstone of the slasher movie genre is coming to 4K Ultra HD.\r\nOn September 17, physical media distributor Arrow Films will release Sergio Martino’s 1973 film “Torso” in a limited edition… [+1928 chars]"
     }
   ]
 }
