@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 540,
+  "TotalResults": 541,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Bruce Willis, la desaparición del héroe canalla",
+      "Description": "Recordar puede ser un acto cruel. Mientras millones de aficionados comparten la memoria de un héroe de acción, que sangraba, bromeaba y hasta sudaba en medio de un ejército de tríceps hormonados, Bruce Willis, un tipo que ha salvado el mundo libre al menos un…",
+      "Url": "https://www.abc.es/play/cine/noticias/bruce-willis-desaparicion-heroe-canalla-20240801140901-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/08/01/BRUCEW-30-40copia-U13370181482tvW-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-08-02T02:30:16Z",
+      "Content": "Recordar puede ser un acto cruel. Mientras millones de aficionados comparten la memoria de un héroe de acción, que sangraba, bromeaba y hasta sudaba en medio de un ejército de tríceps hormonados, Bru… [+614 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/17cb5d2d-8937-4a13-9c12-a30ccc071670_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-07-31T18:50:47Z",
       "Content": "Agosto es siempre un mes valle para el lanzamiento de series. Al ser habitualmente las semanas “de vacaciones” por excelencia en todo el mundo, se nota en la cantidad (aunque aún así son 44 estrenos)… [+15770 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "Marina Velasco",
-      "Title": "Ni María Pedraza ni Danna Paola: esta es la actriz que vuelve a la temporada final de 'Élite'",
-      "Description": "Sus creadores barajaron el desarrollo de un 'spin-off', pero Netflix tiene la última palabra sobre el futuro de la serie. Si la audiencia no remonta, no habrá más cursos en Las Encinas",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2024-07-31/regreso-nadia-temporada-final-elite-netflix_3934463/",
-      "UrlToImage": "https://images.ecestaticos.com/zdK5bltcwVWl4WrR7_vJHGErheI=/0x0:1600x1067/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/3fc/dcc/1e4/3fcdcc1e4758bf774ee98956b4f18b44.jpg",
-      "PublishedAt": "2024-07-31T18:01:00Z",
-      "Content": "¿Lágrimas o liberación? Tráiler de la temporada 8 de Élite, el final de la serie de NetflixLa serie de Netflix que homenajea a la española Élite y es perfecta para ver este fin de semanaYa no habrá m… [+3634 chars]"
     }
   ]
 }
