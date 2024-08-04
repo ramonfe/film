@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 650,
+  "TotalResults": 651,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La nueva pareja de Álvaro Rico: 'influencer' y con un enorme parecido a su ex, Ester Expósito",
+      "Description": "Conocimos a Álvaro Rico cuando hizo el papel de Polo en la exitosa serie de Netflix, 'Élite'. Pero no era su primer trabajo, tan solo el más reconocido y sin duda el que le cambio la vida. No solo porque se convirtió en alguien reconocido, muy reconocido, pas…",
+      "Url": "https://www.abc.es/gente/nueva-pareja-alvaro-rico-influencer-enorme-parecido-20240803104526-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/08/03/alvaro-ester-novia-combo-U30001501552CQU-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-08-03T02:30:04Z",
+      "Content": "Conocimos a Álvaro Rico cuando hizo el papel de Polo en la exitosa serie de Netflix, 'Élite'. Pero no era su primer trabajo, tan solo el más reconocido y sin duda el que le cambio la vida. No solo po… [+4397 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/deportes/2024/08/01/enmanuel-reyes-medalla-paris-juegos-U80510078285uBH-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-08-01T12:52:39Z",
       "Content": "Enmanuel Reyes Pla, alias 'El Profeta', ya tiene la medalla olímpica con la que tanto había soñado. Aquel metal que se le escapó en Tokio, cuando el calendario quiso enfrentarlo con su antiguo compat… [+3475 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "El FesTVal 2024 anuncia sus estrenos: 'GH', 'Pekín Express', el fin de 'Entrevías' o la primera serie diaria de Disney+",
-      "Description": "La presentación de la nueva edición de 'Gran Hermano', la premiere de 'Beguinas' y de 'MasterChef Celebrity' forman parte de la programación de esta edición\r\nEl Consejo de Informativos de TVE denuncia ataques de Maduro y Ayuso, y recuerda a los partidos su co…",
-      "Url": "https://www.eldiario.es/vertele/noticias/festval-2024-anuncia-estrenos-gh-pekin-express-entrevias-primera-serie-diaria-disney_1_11564771.html",
-      "UrlToImage": "https://static.eldiario.es/clip/236b8afb-26fb-4356-84a6-241da1d186c0_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-08-01T12:18:37Z",
-      "Content": "El FesTVal ha desgranado las grandes bazas de programación para su decimosexta edición, que tendrá lugar entre el 2 y el 8 de septiembre en Vitoria-Gasteiz. \r\nCarlos Franganillo suma galardones y rec… [+6136 chars]"
     }
   ]
 }
