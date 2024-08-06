@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 519,
+  "TotalResults": 506,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Estrella Gomez",
+      "Title": "Esta nueva serie encabezada por Emma Myers se ha colado en el top 10 de Netflix y puedes verla en una tarde",
+      "Description": "La actriz protagoniza Miércoles\n¿Quieres ocupar tu día con algo impresionante? Entonces no te pierdas esta nueva serie disponible en Netflix",
+      "Url": "https://es.ign.com/asesinato-para-principiantes/206209/news/esta-nueva-serie-encabezada-por-emma-myers-se-ha-colado-en-el-top-10-de-netflix-y-puedes-verla-en-un",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/sin-titulo-1_6mwu.1200.jpg",
+      "PublishedAt": "2024-08-05T17:01:08Z",
+      "Content": "Fans del misterio y los crímenes, formad un gran círculo y poned toda vuestra atención en estas líneas. Netflix estrenó hace muy poco un nuevo proyecto que no solo cuenta con una cara bastante conoci… [+2114 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.jornada.com.mx/2024/08/02/fotos/a08n1esp-1.jpg",
       "PublishedAt": "2024-08-02T09:06:40Z",
       "Content": "Periódico La JornadaViernes 2 de agosto de 2024, p. 8\r\nLa presentación del libro La resiliencia del cine mexicano, en la 19 entrega del Abecedario del cine mexicano, de Jorge Ayala Blanco, se tornó e… [+4272 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Begoña Alonso",
-      "Title": "Primera imagen de la serie con la que Elsa Pataky regresa a la televisión española después de 20 años",
-      "Description": "La actriz madrileña, a la que no habíamos visto en la tele desde 'Los Serrano', vuelve de la mano de SkyShowtime.",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a61770815/matices-serie-skyshowtime-elsa-pataky/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/spanish-actress-elsa-pataky-presents-biotherm-skincare-at-news-photo-1722584417.jpg?crop=1.00xw:0.751xh;0,0.0341xh&resize=1200:*",
-      "PublishedAt": "2024-08-02T08:12:00Z",
-      "Content": "Parece mentira, pero han pasado ya 20 años desde la última serie española en la que participó Elsa Pataky, 'Los Serrano', en Telecinco. Después, Elsa se centró en su carrera como actriz de cine en Ho… [+2235 chars]"
     }
   ]
 }
