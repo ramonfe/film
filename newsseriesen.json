@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "Caroline Bologna",
+      "Title": "This British Mystery Series Is The Top Show On Netflix Right Now",
+      "Description": "Two true crime docuseries and a new superhero show are also trending on streaming services like Max, Hulu, Apple TV+ and Amazon Prime Video.",
+      "Url": "https://www.huffpost.com/entry/good-girls-guide-to-murder-netflix-shows_n_66af012de4b065f391f4194f",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/66af05bb2500001d00048fdf.jpg?cache=bav8OV7GPx&ops=1200_630",
+      "PublishedAt": "2024-08-05T13:26:52Z",
+      "Content": "A Good Girls Guide to Murder is currently the most popular show on Netflix, according to the platforms public ranking system.\r\nThe British mystery series premiered on the streaming service on Aug. 1 … [+1959 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-07-23T12:12:12Z",
       "Content": "For all its stacked selection of original content, like Fallout, The Boys and Rings of Power, Prime Video has historically pffered a cluttered, confusing and less-than-intuitive layout — especially c… [+2227 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
