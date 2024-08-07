@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 669,
+  "TotalResults": 670,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": null,
+      "Title": "Hit TV show actor corrects facial scarring language",
+      "Description": "The actor has spoken out against the use of the word \"deformed\" to describe visible differences.",
+      "Url": "https://www.bbc.com/news/articles/c5y5501610eo",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f83e/live/890eded0-5310-11ef-9d90-1d42dc89597e.png",
+      "PublishedAt": "2024-08-06T04:53:33Z",
+      "Content": "Mr Rhodes played Silver Denys in the second season of popular HBO series House of the Dragon. \r\nA London actor who starred in hit TV show House of the Dragon has called for better language for people… [+2554 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://insidethemagic.net/wp-content/uploads/2024/08/johnny-depp-7.png",
       "PublishedAt": "2024-08-03T12:00:37Z",
       "Content": "Years ago, actor Johnny Depp likely could have had his pick of nearly any film project that required a young and attractive male lead to play a character. In recent years, however, things have been d… [+6656 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "‘Bigg Boss OTT 3’: Ranvir Shorey accepts defeat, says ‘that’s how life is’",
-      "Description": "As 'Bigg Boss OTT Season 3' wrapped up, Ranvir Shorey, who finished as the second runner-up, looked back on his challenging journey in the reality show. The season, hosted by Bollywood icon Anil Kapoor, concluded with TV actress Sana Makbul claiming the winne…",
-      "Url": "https://economictimes.indiatimes.com/magazines/panache/bigg-boss-ott-3-ranvir-shorey-accepts-defeat-says-thats-how-life-is/articleshow/112241463.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-112241782,width-1200,height-630,imgsize-41322,overlay-etpanache/photo.jpg",
-      "PublishedAt": "2024-08-03T07:12:39Z",
-      "Content": "As 'Bigg Boss OTT Season 3' concluded, Ranvir Shorey, who secured the second runner-up position, reflected on his intense journey in the reality show. Hosted by Bollywood legend Anil Kapoor, the seas… [+1854 chars]"
     }
   ]
 }
