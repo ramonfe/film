@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Marcos Catalán",
+      "Title": "El increíble salario en royalties que percibió Cate Blanchett por su papel de Galadriel en 'El Señor de los Anillos'",
+      "Description": "Cate Blanchett es parte del reparto de Borderlands, la película basada en un videojuego que, según la crítica, está cerca de convertirse en una de las peores adaptaciones del medio; menos mal que siempre nos quedarán todas las de Uwe Boll, la Hitman de 2017 o…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/el-increible-salario-en-royalties-que-percibio-cate-blanchett-por-su-papel-de-galadriel-en-el-senor-de-los-anillos",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/cate-blanchett-galadriel.jpg?width=1200",
+      "PublishedAt": "2024-08-08T14:00:03Z",
+      "Content": "Galadriel en una de las escenas de la trilogía\r\nCate Blanchett es parte del reparto de Borderlands, la película basada en un videojuego que, según la crítica, está cerca de convertirse en una de las … [+2134 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/queplan/2024/07/27/Guadalpark-sevilla-agosto-U27340518257rSF-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-07-29T14:36:30Z",
       "Content": "Este verano, Sevilla ofrece una amplia variedad de actividades y eventos para todos los gustos, desde emocionantes días en los parques acuáticos de Agua Mágica y Guadalpark, hasta conciertos en la Fu… [+13954 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "La presencia de la Familia Real en París condiciona las vacaciones en Mallorca",
-      "Description": "Los Reyes Felipe y Letizia han vuelto a instalarse en el Palacio de Marivent para unas vacaciones en las que Mallorca vuelve a acoger a la Familia Real , aunque en principio se les verá poco por la isla. Las vacaciones oficiales de los Reyes, la Princesa Leon…",
-      "Url": "https://www.abc.es/gente/presencia-familia-real-paris-condiciona-vacaciones-mallorca-20240729194347-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2024/07/29/reyes-juegos-olimpicos-vacaciones-mallorca-U77301885186xLj-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-07-29T02:29:51Z",
-      "Content": "Los Reyes Felipe y Letizia han vuelto a instalarse en el Palacio de Marivent para unas vacaciones en las que Mallorca vuelve a acoger a la Familia Real, aunque en principio se les verá poco por la is… [+6002 chars]"
     }
   ]
 }
