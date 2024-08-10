@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 78,
+  "TotalResults": 79,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Alberto Corona",
+      "Title": "Por qué Alejandro Dumas vuelve a conquistar la taquilla francesa: “Batman es una especie de hijo del Conde de Montecristo”",
+      "Description": "Tras adaptar en dos exitosas películas la historia de ‘Los tres mosqueteros’, Alexandre de la Patellière y Matthieu Delaporte se atreven con la otra gran novela del inmortal escritor\r\nM. Night Shyamalan aborda el fenómeno Taylor Swift en 'La trampa': “No soy …",
+      "Url": "https://www.eldiario.es/cultura/cine/alejandro-dumas-vuelve-conquistar-taquilla-francesa-batman-especie-hijo-conde-montecristo_1_11578598.html",
+      "UrlToImage": "https://static.eldiario.es/clip/1f77a8cd-b1b1-4d96-93e3-3bba7326f8ad_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-08-08T19:55:19Z",
+      "Content": "La última adaptación de Los tres mosqueteros, dividida en dos películas con los títulos D’Artagnan y Milady, asaltó la taquilla francesa a lo largo de 2023 dispuesta a reparar una injusticia históric… [+1616 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/07/imagen-de-deadpool-y-lobezno.png?width=1200",
       "PublishedAt": "2024-07-29T17:25:45Z",
       "Content": "Hugh Jackman y Ryan Reynolds en una escena de 'Deadpool y Lobezno', acompañados del perro Dogpool\r\nDesde hace unos días, las salas de cine se han inundado de personas vestidas de rojo y amarillo, y n… [+2729 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Qué hacer en Sevilla este fin de semana",
-      "Description": "Este verano, Sevilla ofrece una amplia variedad de actividades y eventos para todos los gustos, desde emocionantes días en los parques acuáticos de Agua Mágica y Guadalpark, hasta conciertos en la Fundación Cajasol o noches mágicas con proyecciones cinematogr…",
-      "Url": "https://www.abc.es/queplan/sevilla/que-hacer/sevilla-fin-semana-20240727161315-nts.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/queplan/2024/07/27/Guadalpark-sevilla-agosto-U27340518257rSF-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-07-29T14:36:30Z",
-      "Content": "Este verano, Sevilla ofrece una amplia variedad de actividades y eventos para todos los gustos, desde emocionantes días en los parques acuáticos de Agua Mágica y Guadalpark, hasta conciertos en la Fu… [+13954 chars]"
     }
   ]
 }
