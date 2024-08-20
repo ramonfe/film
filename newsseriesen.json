@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "Caroline Bologna",
+      "Title": "This True Crime Docuseries Is The Top Show On Netflix Right Now",
+      "Description": "A new comedy-drama and two animated series are also among the shows trending on streaming services like Max, Hulu, Apple TV+ and Peacock.",
+      "Url": "https://www.huffpost.com/entry/american-murder-laci-peterson-netflix-shows_n_66c2c59ae4b05da555286c5e",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/66c2f16a2200001a00ba6ec3.png?cache=KXHDJZVyyH&ops=1200_630",
+      "PublishedAt": "2024-08-19T14:17:32Z",
+      "Content": "American Murder: Laci Peterson is currently the most popular show on Netflix, according to the platforms public ranking system.\r\nThe new true crime docuseries dives into the murder of Laci Peterson, … [+1986 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.newrepublic.com/48860c4703b466f03ee7749331f9d1280aab43df.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "PublishedAt": "2024-07-31T10:00:00Z",
       "Content": "All rot, the show seems to suggest, is systemic rot. And while David, Kristen, and Ben are nominally the White Hats in this situation, as they methodically root out the tendrils of this metaphysical … [+3195 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Steven Petite",
-      "Title": "Ted Lasso Blu-Ray Box Set Gets Launch-Day Discount At Amazon And Limited-Edition Poster",
-      "Description": "Ted Lasso: The Complete Series on Blu-ray \r\n $75 (was $85) \r\nSee at Amazon See at Amazon (DVD) \r\nTed Lasso: The Complete Series is now available on Blu-ray and DVD (as of July 30). The box set contains all three seasons of Apple TV's smash hit as well as a li…",
-      "Url": "https://www.gamespot.com/articles/ted-lasso-blu-ray-box-set-gets-launch-day-discount-at-amazon-and-limited-edition-poster/1100-6523264/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4343360-tedlasso.jpg",
-      "PublishedAt": "2024-07-31T00:19:00Z",
-      "Content": "Ted Lasso: The Complete Series is now available on Blu-ray and DVD (as of July 30). The box set contains all three seasons of Apple TV's smash hit as well as a limited-edition double-sided poster. Am… [+2393 chars]"
     }
   ]
 }
