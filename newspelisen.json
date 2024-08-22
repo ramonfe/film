@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 734,
+  "TotalResults": 735,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Alli Rosenbloom",
+      "Title": "‘It Ends With Us’ actor Brandon Sklenar addresses online ‘negativity’ after backlash related to the film | CNN",
+      "Description": "“It Ends With Us” actor Brandon Sklenar is addressing the online discourse surrounding the release and promotion of the new movie.",
+      "Url": "https://www.cnn.com/2024/08/20/entertainment/it-ends-with-us-brandon-sklenar/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24219815880969.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-08-20T23:14:02Z",
+      "Content": "It Ends With Us actor Brandon Sklenar is addressing the online discourse surrounding the release and promotion of the new movie.\r\nSklenar posted a lengthy message on his Instagram page on Tuesday, wr… [+2994 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9e56102c543b220efebd0d6d6b838238.jpg",
       "PublishedAt": "2024-08-19T17:55:00Z",
       "Content": "Politics has always provided Hollywood with an endless supply of high drama and fascinating characters. As the 2024 presidential election heads to the Democratic National Convention, were all enjoyin… [+342 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Blair Marnell",
-      "Title": "Joker Director Has Funny Response To Deadpool And Wolverine's Massive Success",
-      "Description": "For the first time since its release on July 26, Deadpool & Wolverine did not finish at No. 1 at the box office last weekend. Instead, it fell to No. 2 with $29 million, which brings its domestic take to $545.8 million. When combined with its worldwide grosse…",
-      "Url": "https://www.gamespot.com/articles/joker-director-has-funny-response-to-deadpool-and-wolverines-massive-success/1100-6525927/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4352852-joker.jpg",
-      "PublishedAt": "2024-08-19T17:01:00Z",
-      "Content": "For the first time since its release on July 26, Deadpool &amp; Wolverine did not finish at No. 1 at the box office last weekend. Instead, it fell to No. 2 with $29 million, which brings its domestic… [+1222 chars]"
     }
   ]
 }
