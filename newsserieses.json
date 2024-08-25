@@ -1,8 +1,359 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 654,
+  "TotalResults": 650,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Perfil.com"
+      },
+      "Author": "Chiara Scigliano",
+      "Title": "La serie de Netflix que es un éxito y tiene solo 6 capítulos",
+      "Description": "'Maternidad Activada' lanzó su segunda temporada y es de lo más visto en la plataforma. Leer más",
+      "Url": "https://caras.perfil.com/noticias/internacional/a31-serie-netflix-exito-6-capitulos.phtml",
+      "UrlToImage": "https://fotos.perfil.com/2024/08/24/trim/1140/641/la-serie-de-netflix-que-es-un-exito-y-tiene-solo-6-capitulos-maternidad-activada-1859837.jpg",
+      "PublishedAt": "2024-08-24T00:57:23Z",
+      "Content": "La plataforma de Netflix es experta en sorprender con estrenos por semana. Además de tener una amplia cartelera para todos los gustos de sus usuarios, la plataforma estrena semanalmente nuevas propue… [+1925 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Ipadizate.com"
+      },
+      "Author": "Gabriela Martínez",
+      "Title": "'Familia de Medianoche', la serie en español de Apple TV+",
+      "Description": "Apple TV+ ha estrenado el tráiler oficial de 'Familia de Medianoche' o 'Midnight Family', una nueva serie en español que promete cautivar al público con su intensa narrativa sobre la otra cara del sistema de salud en la ciudad de México. Creada por Julio Roja…",
+      "Url": "https://ipadizate.com/apple-tv/familia-de-medianoche-la-serie-en-espanol-de-apple-tv",
+      "UrlToImage": "https://ipadizate.com/hero/2024/08/familia-de-medianoche-apple-tv.png?width=1200",
+      "PublishedAt": "2024-08-23T21:58:06Z",
+      "Content": "Renata Vaca, Joaquín Cosío, Diego Calva y Sergio Bautista completan el elenco principal\r\nApple TV+ ha estrenado el tráiler oficial de 'Familia de Medianoche' o 'Midnight Family', una nueva serie en e… [+2821 chars]"
+    },
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Una famosa serie de Netflix busca solteros en Atlanta: quiénes pueden postularse",
+      "Description": "Descubre cómo es el casting que hará la serie de Netflix \"Love is Blind\" en Atlanta. Cómo es el cuestionario y cuál es el historial de las parejas formadas en esta serie.",
+      "Url": "https://www.lanacion.com.ar/estados-unidos/georgia/una-famosa-serie-de-netflix-busca-solteros-en-atlanta-quienes-pueden-postularse-nid23082024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/lauren-y-cameron-se-casaron-al-final-de-la-25R5NQFEZFAOJGJAINPXHN432E.jpg?auth=d2562bd31dbdf8af84b436c4f6b285c4a85313b792c27cae40523226e3d3fec9&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-08-23T21:42:45Z",
+      "Content": "Con un anuncio en redes sociales, la productora de Love is Blind, la exitosa serie de Netflix, anunció que realizara un nuevo casting en Atlanta. Allí seleccionará a 15 hombres y 15 mujeres que se at… [+3133 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Silvia Fernández",
+      "Title": "'Horizon: An American Saga', el western por el que Kevin Costner ha hipotecado su casa, aterriza en Max junto a otras novedades",
+      "Description": "Esta semana, la plataforma que hasta hace unos meses conocíamos como HBO, tiene una clarísima protagonista: Horizon: An American Saga, el western dirigido, producido y protagonizado por Kevin Costner (El guardaespaldas, Yellowstone) en el que ha invertido 38 …",
+      "Url": "https://www.lavanguardia.com/andro4all/series/horizon-an-american-saga-el-western-por-el-que-kevin-costner-ha-hipotecado-su-casa-aterriza-en-max-junto-a-otras-novedades",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/kevin-costner.1724444151.2253.jpg?width=1200",
+      "PublishedAt": "2024-08-23T21:40:01Z",
+      "Content": "Kevin Costner en la película 'Horizon: An American Saga - Capítulo 1'\r\nEsta semana, la plataforma que hasta hace unos meses conocíamos como HBO, tiene una clarísima protagonista: Horizon: An American… [+6754 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Mauricio Herrera",
+      "Title": "Cazando Gangas México: iPhone 12 por 8,999 pesos, laptop con mochila gratis para el regreso a clases 2024 y Red Dead Redemption II",
+      "Description": "Ya estamos justo en los últimos días antes de regreso a clases 2024 y ya hemos compartido varias laptops, tablets, hasta cuadernos inteligentes y escritorios. Si aún te hace falta algo, aquí seguramente encontrarás algo. No olvides visitar Xataka Selección pa…",
+      "Url": "https://www.xataka.com.mx/seleccion/cazando-gangas-mexico-iphone-12-por-8-999-pesos-laptop-con-mochila-gratis-para-el-regreso-a-clases-2024-y-red-dead-redemption-ii",
+      "UrlToImage": "https://i.blogs.es/d529db/apple-iphone-12-gangas-xataka-mexico/840_560.png",
+      "PublishedAt": "2024-08-23T21:31:38Z",
+      "Content": "Ya estamos justo en los últimos días antes de regreso a clases 2024 y ya hemos compartido varias laptops, tablets, hasta cuadernos inteligentes y escritorios. Si aún te hace falta algo, aquí segurame… [+4542 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Silvia Fernández",
+      "Title": "‘¿Aquí no hay quien viva’ o ‘La que se avecina’? Su creador, Alberto Caballero, zanja el eterno debate en redes",
+      "Description": "Desde hace años, lustros y dentro de poco, décadas, uno de los temas más recurrentes en redes sociales es el enfrentamiento entre las dos series españolas creadas por los hermanos Alberto y Laura Caballero: Aquí no hay quien viva y La que se avecina. Un día, …",
+      "Url": "https://www.lavanguardia.com/andro4all/series/aqui-no-hay-quien-viva-o-la-que-se-avecina-su-creador-alberto-caballero-zanja-el-eterno-debate-en-redes",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/aqui-no-hay-quien-viva-o-la-que-se-avecina_.png?width=1200",
+      "PublishedAt": "2024-08-23T20:00:38Z",
+      "Content": "Vicenta (Gemma Cuervo), Concha (Emma Penella) y Marisa (Mariví Bilbao) en 'Aquí no hay quien viva' / Antonio Recio (Jordi Sánchez) y Berta Escobar (Nathalie Seseña) en 'La que se avecina'\r\nDesde hace… [+6030 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.mx"
+      },
+      "Author": "Luis Acosta",
+      "Title": "Hoy en Netflix: la impactante mini serie mexicana basada en hechos reales que conmociona a internet",
+      "Description": "Para un padre no hay nada más doloroso que la muerte de un hijo, ¿pero qué pasa cuando la muerte está rodeada de secretos, negocios e intriga? Esta es la trama de la nueva serie mexicana de Netflix: Accidente. Una historia más turbia de lo que te imaginas y q…",
+      "Url": "https://www.xataka.com.mx/cine-y-tv/hoy-netflix-impactante-mini-serie-mexicana-basada-hechos-reales-que-conmociona-a-internet",
+      "UrlToImage": "https://i.blogs.es/d6b195/accidente-netflix-serie/840_560.jpeg",
+      "PublishedAt": "2024-08-23T17:59:11Z",
+      "Content": "Para un padre no hay nada más doloroso que la muerte de un hijo, ¿pero qué pasa cuando la muerte está rodeada de secretos, negocios e intriga? Esta es la trama de la nueva serie mexicana de Netflix: … [+2683 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "\"Estás lidiando con este mundo\": los showrunners de Los Anillos de Poder comparan la segunda temporada de la serie con Oppenheimer",
+      "Description": "Quedan muy pocos días para que regrese a Amazon Prime Video una de las series más ambiciosas de todo el año: Los Anillos de Poder. Los nuevos episodios de la obra inspirada en la Tierra Media intentarán enamorar a los fans que se mostraron reticentes con la p…",
+      "Url": "https://www.vidaextra.com/series/estas-lidiando-este-mundo-showrunners-anillos-poder-comparan-segunda-temporada-serie-oppenheimer",
+      "UrlToImage": "https://i.blogs.es/243e16/anillos-de-poder/840_560.jpeg",
+      "PublishedAt": "2024-08-23T17:31:38Z",
+      "Content": "Quedan muy pocos días para que regrese a Amazon Prime Video una de las series más ambiciosas de todo el año: Los Anillos de Poder. Los nuevos episodios de la obra inspirada en la Tierra Media intenta… [+1882 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Cristina Sobrino",
+      "Title": "No, no es cosa tuya: algunas de las razones por las que el personaje de Emily de 'Emily in Paris' puede llegar a ser insoportable",
+      "Description": "Hay series que llegan para rellenar vacíos, y no necesariamente de programación, sino aquellos que han dejado otras producciones en nosotras. En el caso de Emily in Paris, se trata de un proyecto que está hecho para convencer a una Generación Millennial que s…",
+      "Url": "https://www.trendencias.com/series-de-television/no-no-cosa-tuya-algunas-razones-que-personaje-emily-emily-in-paris-puede-llegar-a-ser-insoportable",
+      "UrlToImage": "https://i.blogs.es/8bcb90/trendencias-emily-in-paris-cae-mal-1-/840_560.png",
+      "PublishedAt": "2024-08-23T16:45:50Z",
+      "Content": "Hay series que llegan para rellenar vacíos, y no necesariamente de programación, sino aquellos que han dejado otras producciones en nosotras. En el caso de Emily in Paris, se trata de un proyecto que… [+4447 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Elena Sánchez-Beato",
+      "Title": "Esta serie turca te recordará a \"Pecado Original\" y es perfecta para ver cuando llegue su final",
+      "Description": "Hace unos días te adelantamos que \"Pecado Original\" se encontraba en su recta final. Si su emisión sigue su curso normal y nada cambia, la fecha aproximada para su último capítulo emitido en Antena 3, será el próximo 12 de septiembre. Una fecha que está a la …",
+      "Url": "https://www.trendencias.com/telenovelas/esta-serie-turca-te-recordara-a-pecado-original-perfecta-para-ver-cuando-llegue-su-final",
+      "UrlToImage": "https://i.blogs.es/453fc6/el-es-mi-hijo_b181-1-/840_560.jpeg",
+      "PublishedAt": "2024-08-23T14:02:43Z",
+      "Content": "Hace unos días te adelantamos que \"Pecado Original\" se encontraba en su recta final. Si su emisión sigue su curso normal y nada cambia, la fecha aproximada para su último capítulo emitido en Antena 3… [+1561 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mariló Delgado",
+      "Title": "La tripulación de 'One Piece' de Netflix sigue creciendo. La temporada 2 encuentra a Vivi en 'Los Bridgerton' y nos deja con un adelanto de Arabasta",
+      "Description": "La serie en acción real de 'One Piece' sigue calentando motores. La segunda temporada de Netflix ya se está rodando en Sudáfrica, así que poco a poco nos ha ido llegando un goteíllo de información y nuevos fichajes.\n<!-- BREAK 1 -->\nEsta semana Eiichiro Oda n…",
+      "Url": "https://www.espinof.com/series-de-ficcion/tripulacion-one-piece-netflix-sigue-creciendo-temporada-2-encuentra-a-vivi-bridgerton-nos-deja-adelanto-arabasta",
+      "UrlToImage": "https://i.blogs.es/e2d323/vivi/840_560.jpeg",
+      "PublishedAt": "2024-08-23T14:01:37Z",
+      "Content": "La serie en acción real de 'One Piece' sigue calentando motores. La segunda temporada de Netflix ya se está rodando en Sudáfrica, así que poco a poco nos ha ido llegando un goteíllo de información y … [+1791 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com.co"
+      },
+      "Author": "Jessica Vargas A.",
+      "Title": "¿Cuándo es el momento de cambiar tu televisor?",
+      "Description": "En la actualidad, el televisor sigue siendo uno de los dispositivos más importantes en los hogares colombianos, ya sea para disfrutar de una película, seguir una serie o compartir momentos en familia.\n<!-- BREAK 1 -->\nSin embargo, al igual que otros aparatos …",
+      "Url": "https://www.xataka.com.co/otros-dispositivos/cuando-momento-cambiar-tu-televisor",
+      "UrlToImage": "https://i.blogs.es/ffe1ba/oppo-reno-11-f-5g-12-/840_560.png",
+      "PublishedAt": "2024-08-23T13:47:09Z",
+      "Content": "En la actualidad, el televisor sigue siendo uno de los dispositivos más importantes en los hogares colombianos, ya sea para disfrutar de una película, seguir una serie o compartir momentos en familia… [+2412 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "¡Miss Wednesday ya está aquí! Netflix anuncia a la actriz que interpretará a la princesa Nefertari Vivi en la segunda temporada de One Piece",
+      "Description": "La segunda temporada de One Piece en Netflix está cada vez más cerca, y con ello, se suman una gran cantidad de nuevos actores y actrices. Con Loguetown a la vuelta de la esquina y la visita a las primeras islas del Grand Line, Netflix ha ofrecido un primer v…",
+      "Url": "https://www.vidaextra.com/series/miss-wednesday-esta-aqui-netflix-anuncia-a-actriz-que-interpretara-a-princesa-nefertari-vivi-segunda-temporada-one-piece",
+      "UrlToImage": "https://i.blogs.es/207a8e/vivi/840_560.jpeg",
+      "PublishedAt": "2024-08-23T13:29:42Z",
+      "Content": "La segunda temporada de One Piece en Netflix está cada vez más cerca, y con ello, se suman una gran cantidad de nuevos actores y actrices. Con Loguetown a la vuelta de la esquina y la visita a las pr… [+1409 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "Miguel Jorge",
+      "Title": "\"El que crea que va a ser 'Vengadores: Endgame' se va a decepcionar\": el último viaje de 'The Grand Tour' llega a su fin",
+      "Description": "Para los amantes al automovilismo hay un antes y un después de la aparición en televisión de Jeremy Clarkson, Richard Hammond y James May. Se podría decir sin problemas que el trío revolucionó el concepto del sector en la pequeña pantalla. Ahora ha llegado un…",
+      "Url": "https://www.xataka.com/cine-y-tv/que-crea-que-va-a-ser-vengadores-endgame-se-va-a-decepcionar-ultimo-viaje-the-grand-tour-llega-a-su-fin",
+      "UrlToImage": "https://i.blogs.es/8db77b/1200_800-23/840_560.jpeg",
+      "PublishedAt": "2024-08-23T13:15:37Z",
+      "Content": "Para los amantes al automovilismo hay un antes y un después de la aparición en televisión de Jeremy Clarkson, Richard Hammond y James May. Se podría decir sin problemas que el trío revolucionó el con… [+2872 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Jorge Loser",
+      "Title": "La nueva serie de terror que está arrasando en Netflix es una espeluznante antología de historias reales de un célebre programa de radio en Tailandia",
+      "Description": "Los cuentos de miedo al calor de una hoguera han sido siempre una forma arquetípica de asustarnos, y ahora Netflix le dado la vuelta al tópico, trayendo 8 episodios terroríficos rodados a partir de historias reales en la nueva serie 'Martes de terror: Extremo…",
+      "Url": "https://www.espinof.com/netflix/nueva-serie-terror-que-esta-arrasando-netflix-espeluznante-antologia-historias-reales-celebre-programa-radio-tailandia",
+      "UrlToImage": "https://i.blogs.es/a166b8/tuesdayextreme/840_560.jpeg",
+      "PublishedAt": "2024-08-23T13:01:39Z",
+      "Content": "Los cuentos de miedo al calor de una hoguera han sido siempre una forma arquetípica de asustarnos, y ahora Netflix le dado la vuelta al tópico, trayendo 8 episodios terroríficos rodados a partir de h… [+3576 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Para mí, esta serie se come a 'Los anillos de poder'. Tiene dos temporadas y está en streaming",
+      "Description": "El hype que generó el lanzamiento de Los anillos de poder hace ya dos años se hundió como un soufflé mal cocinado, y es que no terminó de dejar contentos a nadie, algo que han prometido que solucionarán en esta segunda temporada, y es que el material de Peter…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/para-mi-esta-serie-se-come-a-los-anillos-de-poder-tiene-dos-temporadas-y-esta-en-streaming",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/03/4956992-1.jpg?width=1200",
+      "PublishedAt": "2024-08-23T13:01:35Z",
+      "Content": "Se trata de una serie muy querida por sus fans, pero que no ha tenido mucho altavoz\r\nEl hype que generó el lanzamiento de Los anillos de poder hace ya dos años se hundió como un soufflé mal cocinado,… [+2437 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Joel Calata",
+      "Title": "'Emily en París' no es sólo un homenaje a la capital de la moda en el mundo: también es un guiño a la máxima diva del estilo en el cine",
+      "Description": "Para aquellos que vivan bajo una roca o en una caverna en algún iceberg, la serie 'Emily en París' ha cautivado al mundo con su explosión de color, moda y encanto parisino. Pero, ¿qué es lo que hace que el estilo de Emily Cooper sea tan icónico y atemporal? L…",
+      "Url": "https://www.trendencias.com/series-de-television/emily-paris-no-solo-homenaje-a-capital-moda-mundo-tambien-guino-a-maxima-diva-estilo-cine",
+      "UrlToImage": "https://i.blogs.es/1488ad/ps---plantilla-portadas-xtk-copia/840_560.jpeg",
+      "PublishedAt": "2024-08-23T12:45:52Z",
+      "Content": "Para aquellos que vivan bajo una roca o en una caverna en algún iceberg, la serie 'Emily en París' ha cautivado al mundo con su explosión de color, moda y encanto parisino. Pero, ¿qué es lo que hace … [+2665 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Sergio Cejas (Beld)",
+      "Title": "\"El listón no podría estar más alto\": el coguionista de The Batman 2 expresa su emoción por el peliculón que asegura que se avecina",
+      "Description": "El universo cinematográfico de DC tiene varios proyectos entre manos y uno de los más interesantes es el de The Batman 2, la secuela de la película en la que Robert Pattinson encarna al Caballero Oscuro. La producción de esta continuación ni siquiera ha comen…",
+      "Url": "https://www.vidaextra.com/cine/liston-no-podria-estar-alto-coguionista-the-batman-2-expresa-su-emocion-peliculon-que-asegura-que-se-avecina",
+      "UrlToImage": "https://i.blogs.es/86e081/the-batman/840_560.jpeg",
+      "PublishedAt": "2024-08-23T12:15:36Z",
+      "Content": "El universo cinematográfico de DC tiene varios proyectos entre manos y uno de los más interesantes es el de The Batman 2, la secuela de la película en la que Robert Pattinson encarna al Caballero Osc… [+2349 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Alberto García",
+      "Title": "'La trampa', dónde ver y cuándo se estrena en streaming el thriller dirigido por M. Night Shyamalan",
+      "Description": "O te gusta mucho o muy poco el cine de M. Night Shyamalan. El cineasta cuenta con un largo recorrido cinematográfico y durante todos estos años hemos podido ver obras que han logrado calar entre el público y los medios; tales como 'El protegido', 'El sexto se…",
+      "Url": "https://www.espinof.com/seleccion/trampa-donde-ver-cuando-se-estrena-streaming-thriller-dirigido-m-night-shyamalan",
+      "UrlToImage": "https://i.blogs.es/3f878e/la-trampa-cabecera/840_560.jpeg",
+      "PublishedAt": "2024-08-23T11:01:39Z",
+      "Content": "O te gusta mucho o muy poco el cine de M. Night Shyamalan. El cineasta cuenta con un largo recorrido cinematográfico y durante todos estos años hemos podido ver obras que han logrado calar entre el p… [+2688 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Juan Sanmartín",
+      "Title": "Gol D. Roger existió de verdad: dos piratas legendarios inspiraron a Eiichiro Oda para crear al dueño del One Piece",
+      "Description": "Es imposible entender ni una página de One Piece sin su presencia. Gol D. Roger es uno de los personajes más importantes del manga creado por Eiichiro Oda por motivos de peso. El bigotudo pirata fue el encargado de ocultar el tesoro que da nombre a la serie, …",
+      "Url": "https://www.vidaextra.com/series/gol-d-roger-existio-verdad-dos-piratas-legendarios-inspiraron-a-eiichiro-oda-para-crear-al-dueno-one-piece-1",
+      "UrlToImage": "https://i.blogs.es/057c60/pxfuel/840_560.jpeg",
+      "PublishedAt": "2024-08-23T10:31:37Z",
+      "Content": "Es imposible entender ni una página de One Piece sin su presencia. Gol D. Roger es uno de los personajes más importantes del manga creado por Eiichiro Oda por motivos de peso. El bigotudo pirata fue … [+5635 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Carla Monfort",
+      "Title": "Más allá de 'BoJack Horseman'. Netflix vuelve a fichar a su creador para una nueva serie de animación para adultos",
+      "Description": "Parece que fue ayer cuando 'BoJack Horseman' terminaba su recorrido, pero ya hace cuatro años del final. Raphael Bob-Waksberg, su creador, volverá a Netflix junto con todo el equipo responsable de la historia del caballo antropomorfo con 'Long Short Story', s…",
+      "Url": "https://www.espinof.com/netflix/alla-bojack-horseman-netflix-vuelve-a-fichar-a-su-creador-para-nueva-serie-animacion-para-adultos",
+      "UrlToImage": "https://i.blogs.es/fc2b48/bojack-1-/840_560.jpeg",
+      "PublishedAt": "2024-08-23T10:31:36Z",
+      "Content": "Parece que fue ayer cuando 'BoJack Horseman' terminaba su recorrido, pero ya hace cuatro años del final. Raphael Bob-Waksberg, su creador, volverá a Netflix junto con todo el equipo responsable de la… [+1795 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Adslzone.net"
+      },
+      "Author": "Raquel Holgado",
+      "Title": "Movistar Plus+ viaja al pasado con el estreno de su serie de época basada en la vida de María Antonieta",
+      "Description": "Las series de época están de moda y todas las plataformas en streaming están apostando por este tipo de temática. Amazon Prime Video nos lo ha demostrado con ‘My Lady Jane’, Netflix lleva años con ‘Bridgerton’ y, ahora, le llega el turno a Movistar Plus+, con…",
+      "Url": "https://www.adslzone.net/noticias/streaming-tv/movistar-plus-estreno-serie-de-epoca-maria-antonieta/",
+      "UrlToImage": "https://www.adslzone.net/app/uploads-adslzone.net/2024/08/Maria-Antonieta-serie-Movistar.jpg",
+      "PublishedAt": "2024-08-23T10:30:08Z",
+      "Content": "La historia mezclada con tintes de ficción tienen un público muy fiel en los servicios en streaming. Son muchas las producciones que se basan en contextos históricos reales o en personajes que fueron… [+3795 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xatakahome.com"
+      },
+      "Author": "Antonio Vallejo",
+      "Title": "Esta app es la alternativa a Kodi más capaz para televisores Samsung y la podemos descargar gratis: así funciona Emby",
+      "Description": "Hoy día los usuarios contamos con una buena serie de recursos para expandir nuestro centro multimedia. Entre las aplicaciones más reconocidas para ello tenemos algunas como Kodi o Plex, siendo los grandes referentes. No obstante, aquellos que lo prefieran tam…",
+      "Url": "https://www.xatakahome.com/tutoriales/esta-app-alternativa-a-kodi-capaz-para-televisores-samsung-podemos-descargar-gratis-asi-funciona-emby-1",
+      "UrlToImage": "https://i.blogs.es/f929b1/emby/1200_630.jpeg",
+      "PublishedAt": "2024-08-23T10:01:37Z",
+      "Content": "Hoy día los usuarios contamos con una buena serie de recursos para expandir nuestro centro multimedia. Entre las aplicaciones más reconocidas para ello tenemos algunas como Kodi o Plex, siendo los gr… [+4235 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mariló Delgado",
+      "Title": "El final de 'Sailor Moon' ya está disponible en Netflix para cerrar a lo grande el anime de Naoko Takeuchi con una maratón de fin de semana",
+      "Description": "Las películas de 'Sailor Moon Cosmos' se han hecho de rogar, porque se estrenaron el verano pasado en Japón y prácticamente hasta hace nada no sabíamos cuándo iban a tener distribución internacional. Por desgracia, no llegaremos a verlas en pantalla grande en…",
+      "Url": "https://www.espinof.com/anime/final-sailor-moon-esta-disponible-netflix-para-cerrar-a-grande-anime-naoko-takeuchi-maraton-fin-semana",
+      "UrlToImage": "https://i.blogs.es/e1069c/sailor-moon-cosmos/840_560.jpeg",
+      "PublishedAt": "2024-08-23T10:01:37Z",
+      "Content": "Las películas de 'Sailor Moon Cosmos' se han hecho de rogar, porque se estrenaron el verano pasado en Japón y prácticamente hasta hace nada no sabíamos cuándo iban a tener distribución internacional.… [+1481 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Culturaocio.com"
+      },
+      "Author": null,
+      "Title": "Sendhil Ramamurthy será Nefertari Cobra en la temporada 2 de One Piece",
+      "Description": "La segunda temporada de la serie en acción real de One Piece, cuya primera entrega arrasó en Netflix, ya está en fase de rodaje. Esta nueva tanda de episodios incluirá a nuevos personajes ya conocidos por los fans del manga y el anime. Y uno de los más espera…",
+      "Url": "https://www.culturaocio.com/tv/noticia-sendhil-ramamurthy-sera-nefertari-cobra-temporada-one-piece-20240823104439.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240823104439_1200.jpg",
+      "PublishedAt": "2024-08-23T08:44:39Z",
+      "Content": "MADRID, 23 Ago. (CulturaOcio) - \r\n   La segunda temporada de la serie en acción real de One Piece, cuya primera entrega arrasó en Netflix, ya está en fase de rodaje. Esta nueva tanda de episodios inc… [+1966 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Culturaocio.com"
+      },
+      "Author": null,
+      "Title": "La temporada 3 de El abogado del Lincoln ya tiene fecha de estreno en Netflix",
+      "Description": "El abogado del Lincoln, la serie de Netflix protagonizada por Manuel Garcia Rulfo, regresará con una tercera temporada basada en la quinta novela de la saga literaria de Michael Connelly, Los dioses de la culpa. Ahora, se ha anunciado cuándo llegarán los diez…",
+      "Url": "https://www.culturaocio.com/tv/noticia-temporada-abogado-lincoln-ya-tiene-fecha-estreno-netflix-20240823103016.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240823103016_1200.jpg",
+      "PublishedAt": "2024-08-23T08:30:16Z",
+      "Content": "MADRID, 23 Ago. (CulturaOcio) - \r\n   El abogado del Lincoln, la serie de Netflix protagonizada por Manuel Garcia Rulfo, regresará con una tercera temporada basada en la quinta novela de la saga liter… [+1767 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespanol.com"
+      },
+      "Author": "Manu Delgado",
+      "Title": "Todos los juegos a los que podrás jugar totalmente gratis este fin de semana (23 al 25 de agosto)",
+      "Description": "Este fin de semana (del 23 al 25 de agosto) podrás probar y conseguir juegos gratis para siempre en Xbox Series X/S, Xbox One, PC y Nintendo Switch.<!--aa--->También te puede interesar:<ul><li>Juegos gratis de agosto de 2024 en PS Plus, Epic Games Store y Pri…",
+      "Url": "https://vandal.elespanol.com/noticia/1350773716/todos-los-juegos-a-los-que-podras-jugar-totalmente-gratis-este-fin-de-semana-23-al-25-de-agosto/",
+      "UrlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/8/8-2024/23/2024823845518_2.jpg",
+      "PublishedAt": "2024-08-23T06:47:00Z",
+      "Content": "También te puede interesar:\r\nComo cada fin de semana, del 23 al 25 de agosto hay una serie de promociones disponibles Xbox Series X/S, Xbox One, PC y Nintendo Switch que van a permitir jugar gratis, … [+5331 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -41,357 +392,6 @@
       "UrlToImage": "https://cdn.forbes.com.mx/2024/07/familia.webp",
       "PublishedAt": "2024-08-22T18:10:08Z",
       "Content": "Ya fue lanzado el tráiler de la serie dramática “Familia de medianoche”, inspirada en el documental del mismo nombre y que se estrenará a nivel mundial el 25 de septiembre en Apple TV+.\r\nFamilia de m… [+1299 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Kenth",
-      "Title": "Puedes descargar gratis este sucesor espiritual de Dead Space, regresando el la violencia y el suspenso en el espacio: The Callisto Protocol",
-      "Description": "Uno de los títulos que se catalogó como el \"sucesor espiritual\" de Dead Space, y que, si bien esto no es sorpresa dado que fue elaborado por exdesarrolladores de este juego de terror espacial, The Callisto Protocol se ganó un lugar entre los juegos de suspens…",
-      "Url": "https://www.xataka.com.mx/videojuegos/puedes-descargar-gratis-este-sucesor-espiritual-dead-space-regresando-violencia-suspenso-espacio-the-callisto-protocol",
-      "UrlToImage": "https://i.blogs.es/df21c8/tcp_dlc_4_key_art_1920x1080_1_986caf3c09/840_560.jpeg",
-      "PublishedAt": "2024-08-22T18:00:41Z",
-      "Content": "Uno de los títulos que se catalogó como el \"sucesor espiritual\" de Dead Space, y que, si bien esto no es sorpresa dado que fue elaborado por exdesarrolladores de este juego de terror espacial, The Ca… [+2013 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Elena Sánchez-Beato",
-      "Title": "Este personaje abandona para siempre \"La Promesa\" sin cumplir con las teorías sobre su final",
-      "Description": "Después de más de 400 episodios de \"La Promesa\", los que somos seguidores de la serie desde el principio, sabemos muy bien de qué pie cojea cada personaje. Su personalidad, sus gustos, sus impresiones... incluso cómo pueden actuar cuando les ocurre algún suce…",
-      "Url": "https://www.trendencias.com/telenovelas/este-personaje-abandona-para-siempre-promesa-cumplir-teorias-su-final",
-      "UrlToImage": "https://i.blogs.es/824d6e/image/840_560.jpeg",
-      "PublishedAt": "2024-08-22T17:07:16Z",
-      "Content": "Después de más de 400 episodios de \"La Promesa\", los que somos seguidores de la serie desde el principio, sabemos muy bien de qué pie cojea cada personaje. Su personalidad, sus gustos, sus impresione… [+1694 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "https://www.facebook.com/lavozdegalicia",
-      "Title": "Victoria Beckham tendrá su propia serie documental en Netflix",
-      "Description": "La plataforma abordará la faceta de diseñadora de moda de la «celebrity»",
-      "Url": "https://www.lavozdegalicia.es/noticia/sociedad/2024/08/23/victoria-beckham-tendra-propia-serie-documental-netflix/0003_202408G23P39993.htm",
-      "UrlToImage": "https://img.lavdg.com/sc/evtB4c9SvRCHD0iDbVZO_PL13II=/1280x/2024/08/22/00121724342102139755195/Foto/j_20240822_174703000.jpg",
-      "PublishedAt": "2024-08-22T16:06:00Z",
-      "Content": "La corriente de los contenidos de celebrities en plataformas de contenidos no cesa. Victoria Beckham tendrá su propia serie documental en Netflix, en la que abordará su faceta como diseñadora de moda… [+1821 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "La cara oculta del éxito en el tráiler de Estrellas del k-pop, que ya tiene fecha de estreno en Apple TV+",
-      "Description": "El próximo viernes 30 de agosto Apple TV+ estrenará Estrellas del k-pop, una serie documental centrada en varias figuras del fenómeno musical surcoreano. Ahora, la plataforma ha lanzado el tráiler oficial de la producción, que sigue a Jessi, Cravity y Blacksw…",
-      "Url": "https://www.culturaocio.com/tv/noticia-cara-oculta-exito-trailer-estrellas-pop-ya-tiene-fecha-estreno-apple-tv-20240822175944.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240822175944_1200.jpg",
-      "PublishedAt": "2024-08-22T15:59:44Z",
-      "Content": "MADRID, 22 Ago. (CulturaOcio) - \r\n   El próximo viernes 30 de agostoApple TV+ estrenará Estrellas del k-pop, una serie documental centrada en varias figuras del fenómeno musical surcoreano. Ahora, la… [+2139 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Miguel Solo",
-      "Title": "El actor de 'Sexo en Nueva York' que rechazó inicialmente su rol por ser un cliché racista y pasó a convertirse en uno de los personajes más queridos",
-      "Description": "La sexta y última temporada de 'Sexo en Nueva York' tenía aún algunos ases bajo la manga para mantener a los espectadores al borde de su asiento. El guapo y carismático doctor Robert Leeds solo apareció en cinco episodios de aquella temporada, pero su rol fue…",
-      "Url": "https://www.espinof.com/series-de-ficcion/actor-sexo-nueva-york-que-rechazo-inicialmente-su-rol-ser-cliche-racista-paso-a-convertirse-uno-personajes-queridos",
-      "UrlToImage": "https://i.blogs.es/2c01d2/leeds/840_560.jpeg",
-      "PublishedAt": "2024-08-22T15:31:31Z",
-      "Content": "La sexta y última temporada de 'Sexo en Nueva York' tenía aún algunos ases bajo la manga para mantener a los espectadores al borde de su asiento. El guapo y carismático doctor Robert Leeds solo apare… [+2474 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Faq-mac.com"
-      },
-      "Author": "Alf",
-      "Title": "Qué viene en Apple TV+: Familia de medianoche",
-      "Description": "Apple TV+ ha estrenado el tráiler de “Familia de medianoche”, el drama médico en español de 10 episodios de la showrunner y directora Natalia Beristáin, y creado para la televisión por Julio Rojas y la ganadora del Premio Ariel Gibrán Portela. La serie con ep…",
-      "Url": "https://www.faq-mac.com/2024/08/que-viene-en-apple-tv-familia-de-medianoche/",
-      "UrlToImage": "https://www.faq-mac.com/wp-content/uploads/2024/08/Familia-de-medianoche.jpg",
-      "PublishedAt": "2024-08-22T15:03:25Z",
-      "Content": "Apple TV+ ha estrenado el tráiler de “Familia de medianoche”, el drama médico en español de 10 episodios de la showrunner y directora Natalia Beristáin, y creado para la televisión por Julio Rojas y … [+1333 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "La serie de abogados más adictiva ya tiene fecha de estreno de su temporada 3 en Netflix. Mickey Haller se enfrenta al caso más difícil de su carrera",
-      "Description": "Casi no estamos acostumbrados a tener series populares volviendo de año en año y es que una de las series más adictivas de Netflix, 'El abogado del Lincoln' ya tiene fecha de estreno para su temporada 3. \"Las diligencias\" del nuevo caso de Mickey Haller se po…",
-      "Url": "https://www.espinof.com/netflix/serie-abogados-adictiva-tiene-fecha-estreno-su-temporada-3-netflix-mickey-haller-se-enfrenta-al-caso-dificil-su-carrera",
-      "UrlToImage": "https://i.blogs.es/023fcb/tll_303_unit_07638rc/840_560.jpeg",
-      "PublishedAt": "2024-08-22T14:31:31Z",
-      "Content": "Casi no estamos acostumbrados a tener series populares volviendo de año en año y es que una de las series más adictivas de Netflix, 'El abogado del Lincoln' ya tiene fecha de estreno para su temporad… [+1454 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "Más monstruos, más entornos y más facciones: el showrunner de Fallout revela los ambiciosos planes de Amazon Prime Video para la segunda temporada de la serie",
-      "Description": "Además de The Boys e Invencible, Amazon Prime Video está preparando nuevos capítulos de Fallout para los próximos años. Tras el enorme éxito de su primera temporada, la adaptación del exitoso videojuego propiedad de Bethesda llegará a lo más alto con una segu…",
-      "Url": "https://www.vidaextra.com/series/monstruos-entornos-facciones-showrunner-fallout-revela-ambiciosos-planes-amazon-prime-video-para-segunda-temporada-serie",
-      "UrlToImage": "https://i.blogs.es/4fd132/fallout/840_560.jpeg",
-      "PublishedAt": "2024-08-22T14:31:31Z",
-      "Content": "Además de The Boys e Invencible, Amazon Prime Video está preparando nuevos capítulos de Fallout para los próximos años. Tras el enorme éxito de su primera temporada, la adaptación del exitoso videoju… [+1549 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'Los anillos de poder' siembra la duda con la primera imagen del mago oscuro interpretado por Ciarán Hinds",
-      "Description": "Las nuevas imágenes de la temporada 2 muestran al actor convertido en Mago Oscuro, aunque todavía nadie ha aclarado cuál será su personaje \r\n'Cicatriz', la nueva serie de TVE basada en la novela de Juan Gómez-Jurado, divide a los espectadores y pincha en audi…",
-      "Url": "https://www.eldiario.es/vertele/series/el-senor-de-los-anillos-poder-temporada-2-fecha-estreno-amazon-prime-video-mago-oscuro-ciaran-hinds_1_11603413.html",
-      "UrlToImage": "https://static.eldiario.es/clip/092f3e08-8faf-4644-b81d-9935118da50d_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-08-22T14:31:26Z",
-      "Content": "En las últimas semanas se han difundido muchas imágenes de la segunda temporada de El señor de los anillos: Los anillos de poder, que se estrenará en Amazon Prime Video el jueves 29 de agosto. Sin em… [+1223 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Esteban García Marcos",
-      "Title": "La eterna rival de la 'Patrulla Canina' está en streaming y va a encantar a tus hijos",
-      "Description": "Las series infantiles han vivido un auténtico revival en los últimos años. No es para menos, ya que las nuevas generaciones también necesitan sus series señeras en las que verse reflejados. Una serie que lleva ya unos cuantos años arrasando es Patrulla Canina…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/la-eterna-rival-de-la-patrulla-canina-esta-en-streaming-y-va-a-encantar-a-tus-hijos",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/miraculous-ladybug.jpg?width=1200",
-      "PublishedAt": "2024-08-22T14:10:29Z",
-      "Content": "Durante más de 140 capítulos tendrá pegados a tus hijos al sofá\r\nLas series infantiles han vivido un auténtico revival en los últimos años. No es para menos, ya que las nuevas generaciones también ne… [+3067 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "One Piece ya tiene a su rey de Arabasta de carne y hueso: Netflix presenta al actor que encarnará a Nefertari Cobra en la segunda temporada de la serie",
-      "Description": "Netflix está desvelando poco a poco a los actores que formarán parte de la segunda temporada de la serie de acción real de One Piece. Tras revelar a varios villanos y aliados de distintos arcos de la obra, la compañía acaba de anunciar a uno de los personajes…",
-      "Url": "https://www.vidaextra.com/series/one-piece-tiene-a-su-rey-arabasta-carne-hueso-netflix-presenta-al-actor-que-encarnara-a-nefertari-cobra-segunda-temporada-serie",
-      "UrlToImage": "https://i.blogs.es/14b14d/one-piece/840_560.jpeg",
-      "PublishedAt": "2024-08-22T13:35:40Z",
-      "Content": "Netflix está desvelando poco a poco a los actores que formarán parte de la segunda temporada de la serie de acción real de One Piece. Tras revelar a varios villanos y aliados de distintos arcos de la… [+1134 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hipertextual"
-      },
-      "Author": "Aglaia Berlutti",
-      "Title": "Pánico Satánico: la histeria colectiva que cambió al cine y la televisión",
-      "Description": "En 2022, la cuarta temporada de Stranger Things se volvió un éxito para Netflix. Pero además, trajo a colación en sus capítulos un fenómeno que formó parte de la cultura pop a mediados de 1980. En la trama, la serie insigne de la plataforma, narraba el cómo, …",
-      "Url": "http://hipertextual.com/2024/08/panico-satanico-la-histeria-colectiva-que-cambio-al-cine-y-la-television",
-      "UrlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/07/nicolas-cages-horror-film-longlegs.jpg?fit=1920%2C1080&quality=55&strip=all&ssl=1",
-      "PublishedAt": "2024-08-22T12:30:00Z",
-      "Content": "Publicado enSeries y Películas\r\nPánico Satánico: la histeria colectiva que cambió al cine y la televisión \r\nDurante la década de 1980 y 1990, una serie de teorías conspirativas infundadas acerca de s… [+10532 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Gran decepción para los fans de One Piece en su segunda temporada",
-      "Description": "Netflix ya está rodando la temporada 2 de One Piece. Los nuevos capítulos contarán con nuevas incorporaciones, incluyendo una de las más esperadas: la doctora Kureha. Sin embargo, no será Jamie Lee Curtis quien encarne a este icónico personaje en su versión d…",
-      "Url": "https://www.culturaocio.com/tv/noticia-gran-decepcion-fans-one-piece-segunda-temporada-20240822133836.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240822133836_1200.jpg",
-      "PublishedAt": "2024-08-22T11:38:36Z",
-      "Content": "MADRID, 22 Ago. (CulturaOcio) - \r\n   Netflix ya está rodando la temporada 2 de One Piece. Los nuevos capítulos contarán con nuevas incorporaciones, incluyendo una de las más esperadas: la doctora Kur… [+1997 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'Cicatriz', la nueva serie de TVE basada en la novela de Juan Gómez-Jurado, divide a los espectadores y pincha en audiencias",
-      "Description": "'Cicatriz', ficción de TVE que amplía el universo de 'Reina Roja', genera dudas tras su estreno en La 1. La ficción pinchó en audiencias y dividió la opinión de los telespectadores, lectores o no de la novela de Juan Gómez-Jurado\r\nOPINIÓN - 'Querido diario… d…",
-      "Url": "https://www.eldiario.es/vertele/series/cicatriz-nueva-serie-tve-basada-novela-juan-gomez-jurado-divide-espectadores-pincha-audiencias_1_11602728.html",
-      "UrlToImage": "https://static.eldiario.es/clip/d3323253-1aff-4f1c-96d5-8b33f381cd22_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-08-22T11:31:49Z",
-      "Content": "TVE estrenó este miércoles Cicatriz, nueva serie que adapta la novela homónima de Juan Gómez-Jurado, escritor que salta a la televisión abierto a través de una historia que amplía el universo de la R… [+4420 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "¿A qué hora se estrena la temporada 2 de Pachinko en Apple TV+?",
-      "Description": "La segunda temporada de Pachinko, la aclamada serie basada en la exitosa novela homónima de Min Jin Lee, llega a Apple TV+ este viernes 23 de agosto con el estreno de su primer episodio. Pachinko es una historia épica de amor y supervivencia a lo largo de cua…",
-      "Url": "https://www.culturaocio.com/tv/noticia-hora-estrena-temporada-pachinko-apple-tv-20240822131542.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240822131542_1200.jpg",
-      "PublishedAt": "2024-08-22T11:15:42Z",
-      "Content": "MADRID, 22 Ago. (CulturaOcio) - \r\n   La segunda temporada de Pachinko, la aclamada serie basada en la exitosa novela homónima de Min Jin Lee, llega a Apple TV+ este viernes 23 de agosto con el estren… [+3037 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "Apple TV+ renueva por una segunda temporada su serie de ciencia ficción protagonizada por Jennifer Connelly",
-      "Description": "El novelista Blake Crouch ya sabe lo que es que adapten sus libros a la pequeña pantalla pues en 2015 hizo lo propio su trilogía de misterio y suspense Wayward Pines, de la que además se encargó M. Night Shyamalan, un director que acaba de estrenar La trampa …",
-      "Url": "https://www.lavanguardia.com/andro4all/series/apple-tv-renueva-por-una-segunda-temporada-su-serie-de-ciencia-ficcion-protagonizada-por-jennifer-connelly",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/materia-oscura.1724318198.7252.jpg?width=1200",
-      "PublishedAt": "2024-08-22T11:01:30Z",
-      "Content": "Joel Edgerton y Kennifer Connelly viven en una realidad paralela, literalmente\r\nEl novelista Blake Crouch ya sabe lo que es que adapten sus libros a la pequeña pantalla pues en 2015 hizo lo propio su… [+2884 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Pedro Gallego",
-      "Title": "Vuelve a los cines el potente blockbusters que hace casi 40 años quiso acabar con la Guerra Fría. Espectáculo máximo y ochentero que puedes ver también en Prime Video",
-      "Description": "El cine comercial americano de los ochenta tiene unas cualidades bastante distinguibles que vienen a la mente nada más se mencionan, y series como ‘Stranger Things’ se han encargado de hacer expolio brutal de los aspectos más llamativos o incluso superficiale…",
-      "Url": "https://www.espinof.com/cine-clasico/vuelve-a-cines-potente-blockbusters-que-hace-casi-40-anos-quiso-acabar-guerra-fria-espectaculo-maximo-ochentero-que-puedes-ver-tambien-prime-video",
-      "UrlToImage": "https://i.blogs.es/898f5e/rocky-iv-1985/840_560.jpeg",
-      "PublishedAt": "2024-08-22T11:01:29Z",
-      "Content": "El cine comercial americano de los ochenta tiene unas cualidades bastante distinguibles que vienen a la mente nada más se mencionan, y series como Stranger Things se han encargado de hacer expolio br… [+3219 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "EFE, Redacción verTele",
-      "Title": "Netflix dará a Victoria Beckham su propia docuserie tras el éxito de la de David",
-      "Description": "Tras 'Beckham', centrada en la carrera y la vida de David Beckham, Netflix hará ahora otra docuserie sobre Victoria Adams, centrada en su carrera en el mundo de la moda\r\nOPINIÓN - 'Querido diario… de Jorge', te escribo con una felicitación y 4 propuestas para…",
-      "Url": "https://www.eldiario.es/vertele/series/netflix-dara-victoria-beckham-propia-docuserie-exito-david_1_11602653.html",
-      "UrlToImage": "https://static.eldiario.es/clip/029a10c6-395e-4d45-89af-c88bd73abef9_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-08-22T10:46:46Z",
-      "Content": "La ex estrella del pop británica Victoria Beckham tendrá su propia serie documental en Netflix, en la que abordará su faceta como diseñadora de moda, un negocio con el que ha logrado labrarse una ide… [+1281 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "No es Jamie Lee Curtis, pero 'One Piece' encuentra a la Kureha perfecta. La temporada 2 de Netflix ya tiene a los mejores doctores de Drum Island",
-      "Description": "Eiichiro Oda nos decía que se venían más confirmaciones para la segunda temporada de 'One Piece', y no mentía. Poco a poco vamos teniendo más información de lo que se está cociendo con el live action de Netflix, y aunque nos hemos llevado el chasco de saber q…",
-      "Url": "https://www.espinof.com/series-de-ficcion/no-jamie-lee-curtis-one-piece-encuentra-a-kureha-perfecta-temporada-2-netflix-tiene-a-mejores-doctores-drum-island",
-      "UrlToImage": "https://i.blogs.es/62e80a/kureha/840_560.jpeg",
-      "PublishedAt": "2024-08-22T09:21:31Z",
-      "Content": "Eiichiro Oda nos decía que se venían más confirmaciones para la segunda temporada de 'One Piece', y no mentía. Poco a poco vamos teniendo más información de lo que se está cociendo con el live action… [+1729 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Anya Taylor-Joy protagonizará la adaptación de Cómo matar a tu familia de Netflix",
-      "Description": "Anya Taylor-Joy, que debutó en Netflix con la serie Gambito de dama, volverá a trabajar para la plataforma. La actriz protagonizará la adaptación de Cómo matar a tu familia, novela escrita por Bella Mackie.",
-      "Url": "https://www.culturaocio.com/tv/noticia-anya-taylor-joy-protagonizara-adaptacion-matar-familia-netflix-20240822110822.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240822110822_1200.jpg",
-      "PublishedAt": "2024-08-22T09:08:22Z",
-      "Content": "MADRID, 22 Ago. (CulturaOcio) - \r\n   Anya Taylor-Joy, que debutó en Netflix con la serie Gambito de dama, volverá a trabajar para la plataforma. La actriz protagonizará la adaptación de Cómo matar a … [+1704 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "María Yuste",
-      "Title": "Hoy en Netflix: la miniserie de época de solo 3 capítulos que la crítica alaba y se ve en una tarde que no sabes qué ver",
-      "Description": "Eres incapaz de empezar una serie que lleve ya más de dos temporadas, pero tienes la tarde tonta o un fin de semana sin planes y te apetece invertirlo en descansar física y mentalmente delante de la tele. Una miniserie es lo que estás buscando. De hecho, las …",
-      "Url": "https://www.trendencias.com/series-de-television/miniserie-epoca-solo-3-capitulos-alabada-critica-esta-netflix-se-ve-tarde-que-no-sabes-que-ver",
-      "UrlToImage": "https://i.blogs.es/32c024/6382105e71793/840_560.jpeg",
-      "PublishedAt": "2024-08-22T09:01:32Z",
-      "Content": "Eres incapaz de empezar una serie que lleve ya más de dos temporadas, pero tienes la tarde tonta o un fin de semana sin planes y te apetece invertirlo en descansar física y mentalmente delante de la … [+2077 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "'Cicatriz' pincha en audiencias. La nueva adaptación de Juan Gómez-Jurado arranca con un estreno muy flojo en RTVE",
-      "Description": "Pese a ser una producción tan ambiciosa, 'Cicatriz' no ha empezado con buen pie su emisión: el estreno de los dos primeros capítulos en La 1 quedó por debajo de los 500.000 espectadores y fue superado incluso por 'Los Japón' en Antena 3.\n<!-- BREAK 1 -->\nEstr…",
-      "Url": "https://www.espinof.com/series-de-ficcion/cicatriz-pincha-audiencias-nueva-adaptacion-juan-gomez-jurado-arranca-estreno-muy-flojo-rtve",
-      "UrlToImage": "https://i.blogs.es/60cdd0/cicatriz/840_560.jpeg",
-      "PublishedAt": "2024-08-22T08:20:38Z",
-      "Content": "Pese a ser una producción tan ambiciosa, 'Cicatriz' no ha empezado con buen pie su emisión: el estreno de los dos primeros capítulos en La 1 quedó por debajo de los 500.000 espectadores y fue superad… [+1424 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakahome.com"
-      },
-      "Author": "Paco Rodriguez",
-      "Title": "No tengo barra de sonido ni home cinema y no me enteraba de los diálogos en las películas. Así puedes solucionarlo en la Smart TV",
-      "Description": "Ya hemos comentado en otras ocasiones el problema de las series y películas actuales en las que cuesta muchas veces seguir los diálogos y sus posibles causas, como una mala gestión de la conversión multicanal a estéreo, aunque también puede ser culpa de los c…",
-      "Url": "https://www.xatakahome.com/televisores/no-tengo-barra-sonido-home-cinema-no-me-enteraba-dialogos-peliculas-asi-puedes-solucionarlo-smart-tv",
-      "UrlToImage": "https://i.blogs.es/0fd7b5/1366_2000jota-portada/1200_630.jpeg",
-      "PublishedAt": "2024-08-22T07:09:33Z",
-      "Content": "Ya hemos comentado en otras ocasiones el problema de las series y películas actuales en las que cuesta muchas veces seguir los diálogos y sus posibles causas, como una mala gestión de la conversión m… [+5708 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Libertaddigital.com"
-      },
-      "Author": "Juan Manuel González",
-      "Title": "'El Encargado' temporada 3 convierte a Eliseo en un genio del mal",
-      "Description": "Guillermo Francella vuelve a ser Eliseo, alias El Encargado. Una serie argentina cuya tercera temporada ya está disponible en Disney Plus.",
-      "Url": "https://www.libertaddigital.com/cultura/series/2024-08-22/el-encargado-temporada-3-convierte-a-eliseo-en-un-genio-del-mal-7156638/",
-      "UrlToImage": "https://s.libertaddigital.com/2024/08/21/1200/627/ld/el-encargado-3.jpeg",
-      "PublishedAt": "2024-08-22T06:51:53Z",
-      "Content": "En esta entrega, Eliseo (Guillermo Francella) asiste a una convención interamericana de encargados en Río de Janeiro. Allí, rodeado de sus compañeros de profesión, tiene una revelación sobre el próxi… [+296 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "A.N.",
-      "Title": "El asesinato que desató en EEUU el furor por los 'true crime', ahora es una serie con Bardem",
-      "Description": "En 1989, los hermanos Lyle y Erik Menéndez asesinaron a sangre fría a sus padres en Beverly Hills. Ahora, Ryan Murphy e Ian Brennan cuentan su historia en Netflix",
-      "Url": "https://www.elconfidencial.com/cultura/2024-08-22/asesinato-estados-unidos-monstruos-true-crime_3946806/",
-      "UrlToImage": "https://images.ecestaticos.com/7mq_O4oUkZ1CfiZN3yl__t9Qahc=/0x0:2272x1528/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/343/67a/084/34367a08438779e40e014afb3c3d4d91.jpg",
-      "PublishedAt": "2024-08-22T03:00:00Z",
-      "Content": "Era un 20 de agosto como cualquier otro, solo que no lo fue en absoluto. Aquel día de 1989, los hermanos Lyle y Erik Menéndez volvieron a su casa, ubicada en Beverly Hills (California) y asesinaron a… [+4411 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "https://www.facebook.com/lavozdegalicia",
-      "Title": "HBO y BBC coproducirán la nueva serie de Michaela Coel tras «Podría destruirte»",
-      "Description": "«First Day on Earth» contará la historia de una novelista británica atascada en su trabajo que recibe una oferta laboral en Ghana",
-      "Url": "https://www.lavozdegalicia.es/noticia/series/2024/08/22/hbo-bbc-coproduciran-nueva-serie-michaela-coel/0003_202408G22P39993.htm",
-      "UrlToImage": "https://img.lavdg.com/sc/wDzJDTSomn547KR7Jd5Z_sc1fQw=/1280x/2024/08/21/00121724250421812712330/Foto/j_20240821_162449000.jpg",
-      "PublishedAt": "2024-08-22T03:00:00Z",
-      "Content": "La multipremiada actriz, guionista y directora Michaela Coel (Londres, 1987) será la cara visible de la serie First Day on Earth, una nueva coproducción de BBC y HBO Max en la que será la protagonist… [+1822 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Silvia Fernández",
-      "Title": "El tiroteo más épico de la historia del Salvaje Oeste ya es una serie de Netflix, y llega esta semana junto a un aluvión de novedades",
-      "Description": "Netflix ha hecho su agosto con la cuarta temporada de Emily en París, una de sus series más aclamadas, y puede que ese sea el motivo por el que esta semana han bajado un poco el listón. A pesar de que la plataforma nunca deja su marcador de estrenos en blanco…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/el-tiroteo-mas-epico-de-la-historia-del-salvaje-oeste-ya-es-una-serie-de-netflix-y-llega-esta-semana-junto-a-un-aluvion-de-novedades",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/wyatt-earp-y-la-guerra-de-los-cowboys.jpg?width=1200",
-      "PublishedAt": "2024-08-21T21:45:02Z",
-      "Content": "Póster oficial de la serie 'Wyatt Earp y la guerra de los cowboys'\r\nNetflix ha hecho su agosto con la cuarta temporada de Emily en París, una de sus series más aclamadas, y puede que ese sea el motiv… [+9386 chars]"
     }
   ]
 }
