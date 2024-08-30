@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 701,
+  "TotalResults": 702,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nintendo Life"
+      },
+      "Author": "Liam Doolan",
+      "Title": "Sonic 3 Movie Director Reflects On \"Full Circle\" Shadow The Hedgehog Moment",
+      "Description": "Jeff and Shadow go way back.In case you missed it, the Sonic the Hedgehog 3 trailer has been officially released, confirming Keanu Reeves as the voice of Shadow.While the third movie is already a massive milestone for everyone involved in the live-action seri…",
+      "Url": "https://www.nintendolife.com/news/2024/08/sonic-3-movie-director-reflects-on-full-circle-shadow-the-hedgehog-moment",
+      "UrlToImage": "https://images.nintendolife.com/03daa758fd986/1280x720.jpg",
+      "PublishedAt": "2024-08-29T05:00:00Z",
+      "Content": "Image: SEGA, Paramount\r\nIn case you missed it, the Sonic the Hedgehog 3 trailer has been officially released, confirming Keanu Reeves as the voice of Shadow.\r\nWhile the third movie is already a massi… [+1207 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-08-28T11:32:09Z",
       "Content": "As a regular reader of TMA, you might have picked up on regular references to the addictive card-game-that-isn’t-a-card-game, Balatro. If you want to get technical, it’s a single-player poker-themed … [+2554 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
