@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 100,
+  "TotalResults": 101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Nicole Kidman es de lo poco rescatable en Batman Forever, y no participó en la película precisamente por dinero",
+      "Description": "Está claro que el cine de superhéroes ha permitido que muchos actores cumplan el sueño de interpretar a los superhéroes de su infancia. Un ejemplo de esto es David Corenswet, quien interpretará a Superman en una próxima película. Además, el género es conocido…",
+      "Url": "https://www.vidaextra.com/cine/nicole-kidman-poco-rescatable-batman-forever-no-participo-pelicula-precisamente-dinero",
+      "UrlToImage": "https://i.blogs.es/fef87a/batman-forever/840_560.jpeg",
+      "PublishedAt": "2024-08-29T20:01:59Z",
+      "Content": "Está claro que el cine de superhéroes ha permitido que muchos actores cumplan el sueño de interpretar a los superhéroes de su infancia. Un ejemplo de esto es David Corenswet, quien interpretará a Sup… [+1563 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/37eed8/john-goodman/840_560.jpeg",
       "PublishedAt": "2024-08-22T17:31:32Z",
       "Content": "Hay actores que persiguen un personaje y no cejan en su empeño hasta conseguirlo. El caso de John Goodman fue todo lo contrario, y es quenunca quiso protagonizar 'Los Picapiedra'pero al final se dejó… [+1857 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'Odio el verano': el roce hace el cariño, y los incovenientes comedia",
-      "Description": "Dirigida por Fernando García-Ruiz , esta producción se suma a la fórmula 'comedia + verano', que parece ser la clave del éxito en taquilla en época estival. «Es cine para divertirse, sin mayor pretensión», señala Malena Alterio sobre 'Odio el verano' . La pel…",
-      "Url": "https://www.abc.es/play/cine/odio-verano-roce-carino-incovenientes-comedia-20240823172747-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/08/23/foto_56fd_20240822172113-RBRjliVyEG4YtUWPKqyir8J-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-08-22T16:41:05Z",
-      "Content": "Dirigida por Fernando García-Ruiz, esta producción se suma a la fórmula 'comedia + verano', que parece ser la clave del éxito en taquilla en época estival. «Es cine para divertirse, sin mayor pretens… [+1408 chars]"
     }
   ]
 }
