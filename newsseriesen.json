@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Apple event 2024: What to expect at the iPhone 16 keynote in September",
+      "Description": "The biggest day of the tech world’s autumn calendar is nearly here: Apple’s iPhone 16 event will take place on September 9 at 1PM ET. We'll be live-blogging the news, and you can watch it live via the company’s website or on YouTube. The biggest news from the…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174870660",
+      "UrlToImage": null,
+      "PublishedAt": "2024-08-29T17:52:18Z",
+      "Content": "The biggest day of the tech world’s autumn calendar is nearly here: Apple’s iPhone 16 event will take place on September 9 at 1PM ET. We'll be live-blogging the news, and you can watch it live via th… [+10094 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/08/videoframe_91208.png?resize=1200,630",
       "PublishedAt": "2024-08-15T18:25:41Z",
       "Content": "Netflix has finally released the trailer for That 90s Show Part 3, teasing the return of the sequel series to the hit sitcom That 70s Show.\r\nThe trailer highlights the trouble the characters will fac… [+1577 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eurogamer.net"
-      },
-      "Author": "Matt Wales",
-      "Title": "Amazon reportedly working on animated anthology TV series featuring Spelunky and other video game worlds",
-      "Description": "Amazon has reportedly commissioned a new animated anthology series for its Prime Video streaming service that'll feature new stories set across a variety of existing video game worlds, including Spelunky and Amazon's own New World.\n\nThat's according to Hollyw…",
-      "Url": "https://www.eurogamer.net/amazon-reportedly-working-on-animated-anthology-tv-series-featuring-spelunky-and-other-video-game-worlds",
-      "UrlToImage": "https://assetsio.gnwcdn.com/spelunky-art-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "PublishedAt": "2024-08-14T21:34:50Z",
-      "Content": "Amazon has reportedly commissioned a new animated anthology series for its Prime Video streaming service that'll feature new stories set across a variety of existing video game worlds, including Spel… [+1446 chars]"
     }
   ]
 }
