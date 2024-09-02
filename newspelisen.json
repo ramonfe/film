@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 719,
+  "TotalResults": 720,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Newser"
+      },
+      "Author": "Bob Cronin",
+      "Title": "Holdovers, Reagan Can't Topple Incumbent",
+      "Description": "Onscreen and at the ticket window, Deadpool apparently can't be killed. Deadpool & Wolverine , one of the defining movies of the summer, ruled a weekend with quiet openings and low theater attendance as the summer movie season came to an anticlimactic close. …",
+      "Url": "https://www.newser.com/story/355506/holdovers-reagan-cant-topple-incumbent.html",
+      "UrlToImage": "https://img2-azrcdn.newser.com/image/1556675-12-20240901150002.jpeg",
+      "PublishedAt": "2024-09-01T19:30:00Z",
+      "Content": "Onscreen and at the ticket window, Deadpool apparently can't be killed. Deadpool &amp; Wolverine, one of the defining movies of the summer, ruled a weekend with quiet openings and low theater attenda… [+1899 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-112956699,width-1200,height-630,imgsize-46276,overlay-economictimes/photo.jpg",
       "PublishedAt": "2024-08-31T18:31:46Z",
       "Content": "For television enthusiasts, few upcoming films have generated as much excitement as the highly anticipated Peaky Blinders movie. After months of speculation, Netflix officially confirmed in June 2024… [+3571 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vulture"
-      },
-      "Author": "Jennifer Zhan",
-      "Title": "Looks Like Trump’s Team Couldn’t Get the Trump Movie Dumped",
-      "Description": "‘The Apprentice,’ the Donald Trump movie starring Sebastian Stan, will open in U.S. theaters before the election. A Trump campaign spokesperson has described the October release as ‘election interference.’",
-      "Url": "http://www.vulture.com/article/trump-movie-the-apprentice-release-date-election.html",
-      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/ea4/851/3463737ea36d18a143d89bfa7bab50f5fb-apprentice-new-film.1x.rsocial.w1200.jpg",
-      "PublishedAt": "2024-08-31T17:05:16Z",
-      "Content": "Talk about campaign season. The Trump movie will make it to U.S. theaters before the presidential election and in time to push for awards consideration. Per The Hollywood Reporter, Briarcliff Enterta… [+1558 chars]"
     }
   ]
 }
