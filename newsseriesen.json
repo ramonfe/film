@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Worldsoccertalk.com"
+      },
+      "Author": "Jonny Coffey",
+      "Title": "Apple drops MLS Season Pass to lowest price this year",
+      "Description": "Apple has cut the cost of its MLS Season Pass for the remainder of the 2024 season, bringing the fee down to its lowest price for the calendar year. The streaming service, which gives viewers access to all remaining regular season games and the playoffs, was …",
+      "Url": "https://worldsoccertalk.com/news/apple-drops-mls-season-pass-to-lowest-price-this-year/",
+      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20240902_WST_526071_apple-tv-mls-season-pass.jpg[ampersand]width=1200[ampersand]height=740",
+      "PublishedAt": "2024-09-02T17:23:34Z",
+      "Content": "Apple has cut the cost of its MLS Season Pass for the remainder of the 2024 season, bringing the fee down to its lowest price for the calendar year.\r\nThe streaming service, which gives viewers access… [+3130 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-08-20T19:21:14Z",
       "Content": "Streaming posted another banner month in July, reaching multiple new milestones in the latest issue of The Gauge report from Nielsen. The big headline is that streaming was responsible for 41.4 perce… [+2056 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Arcane Season 2 Poster Previews Final Season of Netflix Series",
-      "Description": "Netflix has released a brand new Arcane Season 2 poster, previewing the upcoming final season of the hit League of Legends animated series. The new poster shows off a detailed look at Ekko, the leader of the Firelights and a prominent figure in the first seas…",
-      "Url": "https://www.comingsoon.net/tv/news/1834580-arcane-season-2-poster-netflix-league-of-legends",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/06/Arcane-season-2-posters.jpg?resize=1200,630",
-      "PublishedAt": "2024-08-20T19:20:14Z",
-      "Content": "Netflix has released a brand new Arcane Season 2 poster, previewing the upcoming final season of the hit League of Legends animated series. \r\nThe new poster shows off a detailed look at Ekko, the lea… [+1101 chars]"
     }
   ]
 }
