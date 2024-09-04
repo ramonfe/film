@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 688,
+  "TotalResults": 689,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Taylor Romine",
+      "Title": "James Darren, actor in ‘Gidget’ and ‘TJ Hooker,’ dies at 88, Variety reports | CNN",
+      "Description": "James Darren, an actor, director and singer who had his breakout role of Moondoggie in the 1959 movie “Gidget,” died Monday at age 88, Variety reported.",
+      "Url": "https://www.cnn.com/2024/09/03/entertainment/james-darren-actor-death/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-114590049.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-09-03T04:36:08Z",
+      "Content": "James Darren, an actor, director and singer who had his breakout role of Moondoggie in the 1959 movie Gidget, died Monday at age 88, Variety reported.\r\nThe entertainer died at Cedars-Sinai Hospital i… [+1713 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/08/brad-update.jpg",
       "PublishedAt": "2024-08-31T23:05:15Z",
       "Content": "A source is providing the latest update about Brad Pitt‘s relationship with his girlfriend Ines de Ramon.\r\nThe 60-year-old actor has been linked to the jewelry executive since November 2022. They wer… [+879 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "TNN",
-      "Title": "Entire Mollywood is answerable: Mohanlal on Hema panel report",
-      "Description": "Actor Mohanlal addressed the crisis in the Malayalam film industry, arguing it's unjust to solely blame the Association of Malayalam Movie Artists. He emphasized accountability for the entire industry regarding the Hema Committee report. Mohanlal welcomed the…",
-      "Url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/entire-mollywood-is-answerable-mohanlal-on-hema-panel-report/articleshow/112957385.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-112957386,width-1070,height-580,imgsize-528403,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2024-08-31T21:19:44Z",
-      "Content": "8 morning habits that can help sharpen memory"
     }
   ]
 }
