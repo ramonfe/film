@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The MLS Season Pass on Apple TV is now $10 for the rest of the season",
+      "Description": "Soccer fans (or football to me, a Malaysian) who want to catch up on the latest Major League Soccer (MLS) matches for the rest of the 2024 season can now purchase the MLS Season Pass through Apple TV for $10. For Apple TV+ subscribers, the MLS Season Pass is …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174908130",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-03T16:52:09Z",
+      "Content": "Soccer fans (or football to me, a Malaysian) who want to catch up on the latest Major League Soccer (MLS) matches for the rest of the 2024 season can now purchase the MLS Season Pass through Apple TV… [+917 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.soundandvision.com/images/082224_best_gear_spring-summer_2024_promo.png",
       "PublishedAt": "2024-08-22T00:00:00Z",
       "Content": "The spring and summer of 2024 produced a bumper crop of exceptional audio and video gear, ranging from a $169 gaming headset to a unique $12,000 set of speakers (no, thats not a typo) from a French c… [+25189 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "The Lincoln Lawyer Season 3 Release Date Set for Netflix Drama",
-      "Description": "Netflix has announced The Lincoln Lawyer Season 3 release date for the upcoming return of the hit legal drama, based on Michael Connelly’s Mickey Haller novel series. This comes after over a year since the show had concluded its 10-episode second installment.…",
-      "Url": "https://www.comingsoon.net/tv/news/1835505-the-lincoln-lawyer-season-3-release-date-set-netflix-drama",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/08/The-Lincoln-Lawyer-s3.jpg?resize=1200,630",
-      "PublishedAt": "2024-08-21T17:52:49Z",
-      "Content": "Netflix has announced The Lincoln Lawyer Season 3 release date for the upcoming return of the hit legal drama, based on Michael Connellys Mickey Haller novel series. This comes after over a year sinc… [+1147 chars]"
     }
   ]
 }
