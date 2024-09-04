@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 696,
+  "TotalResults": 678,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cisa.gov"
+      },
+      "Author": "CISA",
+      "Title": "Vulnerability Summary for the Week of August 26, 2024",
+      "Description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source & Patch Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>Adobe--Acrobat Reader </td>\n<td>Acrobat Reader versions 127.0.2651.105 and earli…",
+      "Url": "https://www.cisa.gov/news-events/bulletins/sb24-247",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-03T12:41:05Z",
+      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1101 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "CinemaBlend"
+      },
+      "Author": "Alexandra Ramos",
+      "Title": "The Smurfs Movie: Release Date, Cast, And Other Things We Know",
+      "Description": "The Smurfs getting another movie adaptation. Here is what we know so far about The Smurfs Movie.",
+      "Url": "https://www.cinemablend.com/movies/the-smurfs-movie-release-date-cast-and-other-things-we-know",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/neCWdtJ6QjkAnBsGiKER2Y-1200-80.jpg",
+      "PublishedAt": "2024-09-03T09:04:15Z",
+      "Content": "Are you ready for another Smurfs movie – called The Smurfs Movie? \r\nThat’s right, we’re getting another adaptation of The Smurfs if you can believe it. The film is considered a reboot of the Smurfs s… [+5882 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "DealPost Team",
+      "Title": "Turn Your Car’s Screen into an Entertainment Hub for 40% Off",
+      "Description": "TL;DR: For $89.97 through September 29, the Auto Wireless Car Adapter lets you stream movies and shows from your phone to your car’s screen, keeping passengers entertained on the go.\r\n\n\n\n\nUsing a car monitor for navigation is pretty common on summer road trip…",
+      "Url": "https://www.pcworld.com/article/2444308/turn-your-cars-screen-into-an-entertainment-hub-for-40-off.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/09/Apple-CarPlay-Android-Auto-Wireless-Adapter-with-Streaming-Service-Support-2024-Edition-1.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2024-09-03T08:00:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nTL;DR: For $89.97 th… [+1593 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JTNQDVZQPVBUBOF7PQRIUZHZHA.jpg?_a=DATAfRfiZAA0",
       "PublishedAt": "2024-09-01T17:39:21Z",
       "Content": "Just like in the movies, Deadpool cant be killed.\r\nDeadpool &amp; Wolverine, one of the defining movies of the summer, ruled the box office on a weekend with quiet openings and low theater attendance… [+5077 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "apnews.com",
-      "Title": "‘Deadpool’ tops charts yet again as 'Reagan' beats expectations on sluggish Labor Day weekend",
-      "Description": "Just like in the movies, Deadpool can’t be killed. \n“Deadpool & Wolverine,” one of the defining movies of the summer, ruled the box office on a weekend with quiet openings and low theater attendance as the summer movie season came to an anticlimactic close.\nF…",
-      "Url": "https://biztoc.com/x/ca3e7fcb8779f5fb",
-      "UrlToImage": "https://biztoc.com/cdn/ca3e7fcb8779f5fb_s.webp",
-      "PublishedAt": "2024-09-01T17:38:34Z",
-      "Content": "Just like in the movies, Deadpool cant be killed. Deadpool &amp; Wolverine, one of the defining movies of the summer, ruled the box office on a weekend with quiet openings and low theater attendance … [+132 chars]"
-    },
-    {
-      "Source": {
-        "Id": "financial-post",
-        "Name": "Financial Post"
-      },
-      "Author": "The Associated Press",
-      "Title": "‘Deadpool’ tops charts yet again as ‘Reagan’ beats expectations on sluggish Labor Day weekend",
-      "Description": "Just like in the movies, Deadpool can’t be killed. “Deadpool & Wolverine,” one of the defining movies of the summer, ruled the box office on a weekend with quiet openings and low theater attendance as the summer movie season came to an anticlimactic close. Fo…",
-      "Url": "https://financialpost.com/pmn/deadpool-tops-charts-yet-again-as-reagan-beats-expectations-on-sluggish-labor-day-weekend",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-01T17:30:35Z",
-      "Content": "Author of the article:\r\nArticle content\r\nJust like in the movies, Deadpool cant be killed.\r\nDeadpool &amp; Wolverine, one of the defining movies of the summer, ruled the box office on a weekend with … [+5372 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "1970-01-01T00:00:00Z",
-      "Content": "[Removed]"
     }
   ]
 }
