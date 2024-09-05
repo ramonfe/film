@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Apple Event 2024: What we expect at the iPhone 16 launch event next week",
+      "Description": "The biggest day of the tech world’s autumn calendar is nearly here: Apple’s iPhone 16 event will take place on September 9 at 1PM ET. We'll be live-blogging the news, and you can watch it live via the company’s website or on YouTube. The biggest news from App…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174919232",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-04T17:53:33Z",
+      "Content": "The biggest day of the tech world’s autumn calendar is nearly here: Apple’s iPhone 16 event will take place on September 9 at 1PM ET. We'll be live-blogging the news, and you can watch it live via th… [+11247 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/08/A-Man-on-the-Inside-sitll.jpg?resize=1200,630",
       "PublishedAt": "2024-08-23T16:29:07Z",
       "Content": "Netflix has released a new batch of A Man on the Inside photos, previewing its upcoming comedy series starring Ted Danson. \r\nThe series which was originally known as A Classic Spy before being rename… [+1194 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Philippine Star"
-      },
-      "Author": "Kathleen A. Llemit",
-      "Title": "Pearl Harbor attack in 'Pulang Araw': Ricky Lee on making history resonate with audiences",
-      "Description": "Almost a month since the historical show premiered on streaming platform Netflix and on free TV via GMA-7, \"Pulang Araw\" is moving at a faster pace as the war breaks out, affecting the lives of Filipinos, including the four central characters of the show.",
-      "Url": "https://www.philstar.com/entertainment/2024/08/23/2380045/pearl-harbor-attack-pulang-araw-ricky-lee-making-history-resonate-audiences",
-      "UrlToImage": "https://media.philstar.com/photos/2024/06/11/pulang-araw_2024-06-11_09-45-28.jpg",
-      "PublishedAt": "2024-08-23T09:59:34Z",
-      "Content": "MANILA, Philippines — As the four main characters of \"Pulang Araw\" deal with their suppressed feelings, tonight's episode will let viewers see the horrors brought by the bombing of Pearl Harbor in De… [+3390 chars]"
     }
   ]
 }
