@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 722,
+  "TotalResults": 723,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Thomas H",
+      "Title": "La película que cambió la vida de Ethan Hawke: «Cada vez que me siento perdido, la veo. Es obra de un genio»",
+      "Description": "Ethan Hawke, el reconocido actor de Hollywood, revela cómo una película ganadora de 5 Oscars ha sido su guía en los momentos difíciles y la considera una obra maestra que todo amante del cine debería ver.",
+      "Url": "https://es.gizmodo.com/la-pelicula-que-cambio-la-vida-de-ethan-hawke-cada-vez-que-me-siento-perdido-la-veo-es-obra-de-un-genio-2000127547",
+      "UrlToImage": "https://es.gizmodo.com/app/uploads/2024/09/Ethan-Hawke.jpg",
+      "PublishedAt": "2024-09-04T15:17:43Z",
+      "Content": "Durante una emotiva masterclass en el Festival de Venecia, Ethan Hawke compartió con los asistentes el momento que despertó su amor por el cine y las películas que lo han definido como persona y como… [+2074 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.lavdg.com/sc/ku-JqTHlcqh6NjKu9U3112Ab7jc=/1280x/2024/09/03/00121725361507251747201/Foto/bradpitt.jpg",
       "PublishedAt": "2024-09-03T12:23:00Z",
       "Content": "Fueron una de las sensaciones de la noche del domingo en la alfombra roja del Festival de Venecia. Amigos y compañeros de nuevo en un proyecto cinematográfico, la comedia de acción Wolfs,Brad Pitt y … [+2855 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Laura Pérez, Adrián Ruiz",
-      "Title": "Movistar Plus+ presenta su nueva docuserie sobre Alaska \"sin líneas rojas\" y una diferencia clave con la de Bosé",
-      "Description": "La plataforma estrenará en diciembre 'Alaska Revelada', una docuserie de tres episodios centrada en la figura de Alaska con el objetivo de reflejar su legado. \"Este proyecto se diferencia muchísimo del de Miguel Bosé porque él es un gran misterio para el espe…",
-      "Url": "https://www.eldiario.es/vertele/noticias/movistar-plus-presenta-nueva-docuserie-alaska-lineas-rojas-diferencia-clave-bose_1_11625525.html",
-      "UrlToImage": "https://static.eldiario.es/clip/cf7260e0-d2cb-43e6-ae6e-f9c8b5d919e5_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-09-03T12:05:57Z",
-      "Content": "Movistar Plus+ ha arrancado este martes 3 de septiembre su paso por el FesTVal 2024 con la presentación de Alaska Revelada, su nueva docuserie centrada en la figura de la artista que se estrenará en … [+5906 chars]"
     }
   ]
 }
