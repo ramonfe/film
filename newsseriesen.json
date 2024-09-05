@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Netflix is working on an animated Twilight TV show based on Midnight Sun",
+      "Description": "In case the many books and films from the Twilight universe haven't provided enough fodder for your fandom, there's a new TV project in the works about the love-em-or-hate-em sparkly vampires of the Pacific Northwest. An animated series adaptation of Midnight…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174921166",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-04T21:52:38Z",
+      "Content": "In case the many books and films from the Twilight universe haven't provided enough fodder for your fandom, there's a new TV project in the works about the love-em-or-hate-em sparkly vampires of the … [+1666 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20230524_WST_434049_chivas-tigres.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2024-08-25T01:21:34Z",
       "Content": "Chivas vs Tigres UANL, is one of the marquee matchups in Mexico. Here are the details for you on how to watch.\r\nChivas de Guadalajara and Tigres are two of the bigger clubs in Mexico, so clashes betw… [+3134 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "New York Post"
-      },
-      "Author": "Chris Harris",
-      "Title": "First steps taken towards Ted Lasso’s fourth season",
-      "Description": "“Ted Lasso” fans will surely get a kick out of this. Two weeks after “Ted Lasso” co-creator Bill Lawrence told The Post more episodes were possible in the not-so-distant future comes word the hit Apple TV+ show could be returning for a fourth season. Warner B…",
-      "Url": "https://nypost.com/2024/08/24/entertainment/ted-lasso-returning-season-four-might-soon-be-a-go/",
-      "UrlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/08/88262136.jpg?quality=75&strip=all&w=1024",
-      "PublishedAt": "2024-08-24T23:50:42Z",
-      "Content": "“Ted Lasso” fans will surely get a kick out of this.\r\nTwo weeks after “Ted Lasso” co-creator Bill Lawrence told The Post more episodes were possible in the not-so-distant future comes word the hit Ap… [+2218 chars]"
     }
   ]
 }
