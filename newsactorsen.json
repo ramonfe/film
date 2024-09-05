@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 697,
+  "TotalResults": 698,
   "Articles": [
+    {
+      "Source": {
+        "Id": "newsweek",
+        "Name": "Newsweek"
+      },
+      "Author": "Jane LaCroix",
+      "Title": "Sebastian Stan Looks Unrecognizable as Donald Trump In Latest 'The Apprentice' Teaser",
+      "Description": "A new clip of the actor in his upcoming movie has been released.",
+      "Url": "https://www.newsweek.com/entertainment/celebrity-news/sebastian-stan-plays-donald-trump-apprentice-new-clip-sept-2024-1948366",
+      "UrlToImage": "https://d.newsweek.com/en/full/2463669/sebastian-stan.jpg",
+      "PublishedAt": "2024-09-04T02:09:11Z",
+      "Content": "Entertainment gossip and news from Newsweek's network of contributors\r\nSebastian Stan is shocking fans with his portrayal of a young Donald Trump in the upcoming film The Apprentice.\r\nThe movie, whic… [+2273 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/66d21c804fb38c67863a1757/1725294512329/Trailer+For+The+STEAMBOAT+WILLIE+Inspired+Horror+Film+SCREAMBOAT.jpg?format=1500w",
       "PublishedAt": "2024-09-02T16:28:00Z",
       "Content": "The short film that introduced Mickey Mouse to the world, 1928s Steamboat Willie, is now a part of the public domain, and that means a bunch of crappy low-budget horror movies are being made to capit… [+1398 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Ian McKellen Is Open to Playing Gandalf Again in THE HUNT FOR GOLLUM but Says Filmmakers \"Better Be Quick\"",
-      "Description": "Ian McKellen has been approached about playing Gandalf again in director Andy Serkis’ upcoming Middle Earth movie The Lord of the Rings: The Hunt for Gollum, and it’s something that he is open to doing. But, he warns, that the filmmakers “better be quick.”Dur…",
-      "Url": "https://geektyrant.com/news/ian-mckellen-is-open-to-playing-gandalf-again-in-the-hunt-for-gollum-but-says-filmmakers-better-be-quick",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/66d5c8fc0e8c4804aeafefa2/1725292969593/ian-mckellen-has-heard-gandalf-will-be-a-part-of-the-lord-of-the-rings-the-hunt-for-gollum.jpg?format=1500w",
-      "PublishedAt": "2024-09-02T16:00:00Z",
-      "Content": "Ian McKellen has been approached about playing Gandalf again in director Andy Serkis upcoming Middle Earth movie The Lord of the Rings: The Hunt for Gollum, and its something that he is open to doing… [+2024 chars]"
     }
   ]
 }
