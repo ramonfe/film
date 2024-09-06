@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 725,
+  "TotalResults": 726,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "1970-01-01T00:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/dragon-cast.jpg",
       "PublishedAt": "2024-09-04T06:12:44Z",
       "Content": "A live action version of How to Train Your Dragon is in the works!\r\nThe new adaptation was first announced over a year ago, in February 2023, with the original film series’ writer/director Dean DeBlo… [+908 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Louis Partridge Has NOT Been Cast in Netflix's 'Chronicles of Narnia' Adaptation, Despite Reports",
-      "Description": "Louis Partridge will not be starring in a new adaptation of The Chronicles of Narnia. The 21-year-old actor was rumored to be the first casting announced in a major role in the new movie adaptation for Netflix. He was said to be portraying the character Digor…",
-      "Url": "https://www.justjared.com/2024/09/04/louis-partridge-has-not-been-cast-in-netflixs-chronicles-of-narnia-adaptation-despite-reports/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/louis-narnia.jpg",
-      "PublishedAt": "2024-09-04T04:30:36Z",
-      "Content": "Louis Partridge will not be starring in a new adaptation of The Chronicles of Narnia.\r\nThe 21-year-old actor was rumored to be the first casting announced in a major role in the new movie adaptation … [+788 chars]"
     }
   ]
 }
