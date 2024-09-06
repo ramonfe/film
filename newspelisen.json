@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 743,
+  "TotalResults": 744,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Medical Xpress"
+      },
+      "Author": "Medical Express",
+      "Title": "Scientists Studied Eye Movements To See How Our Brains Process Stories",
+      "Description": "Picture two people sitting in a movie theater, both watching the screen: Are they seeing the same thing? Or is the movie playing out differently in each of their minds? Researchers from the Justus Liebig University Giessen (JLU) have found that it's the latte…",
+      "Url": "https://medicalxpress.com/news/2024-09-movie-brain-eye-movements-versions.html",
+      "UrlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/so-which-movie-did-you-1.jpg",
+      "PublishedAt": "2024-09-05T17:32:00Z",
+      "Content": "Picture two people sitting in a movie theater, both watching the screen: Are they seeing the same thing? Or is the movie playing out differently in each of their minds? Researchers from the Justus Li… [+3361 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.abcnewsfe.com/a/5a653fd7-04ec-4ca2-9818-124c30de6c38/wirestory_dfaa84ffa521b9f54b6104a8515891ef_16x9.jpg?w=1600",
       "PublishedAt": "2024-09-04T19:18:26Z",
       "Content": "NEW YORK -- Hard as it may be to believe, there arent a lot of Hollywood agents clamoring for their star clients to take the role of one of the polarizing political figures of the 21st century.\r\nSeba… [+6895 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "abcnews.go.com",
-      "Title": "They made a movie about Trump. Then no one would release it",
-      "Description": "By a landslide, “The Apprentice” is the most controversial movie of the fall",
-      "Url": "https://biztoc.com/x/def630bd0bb8ce8f",
-      "UrlToImage": "https://biztoc.com/cdn/def630bd0bb8ce8f_s.webp",
-      "PublishedAt": "2024-09-04T19:17:24Z",
-      "Content": "By a landslide, The Apprentice is the most controversial movie of the fall\r\nThis story appeared on abcnews.go.com, 2024-09-04."
     }
   ]
 }
