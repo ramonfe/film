@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": "techradar",
+        "Name": "TechRadar"
+      },
+      "Author": "tom.power@futurenet.com (Tom Power)",
+      "Title": "James Gunn's Creature Commandos TV show finally has a Max release date, and it's set to go up against two big Disney Plus series",
+      "Description": "The first project in James Gunn and Peter Safran's rebooted DC Cinematic Universe will make its streaming debut in early December.",
+      "Url": "https://www.techradar.com/streaming/hbo-max/james-gunns-creature-commandos-tv-show-finally-has-a-max-release-date-and-its-set-to-go-up-against-two-big-disney-plus-series",
+      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/GBZAeSdLvR6jkwrLRYx3Jc-1200-80.jpg",
+      "PublishedAt": "2024-09-05T16:24:53Z",
+      "Content": "Prepare yourself for a TV show-heavy start to December, everyone, because Creature Commandos, the first project in James Gunn's revived DC Cinematic Universe (DCU), has just added itself into the equ… [+4352 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20150822_CMS_142961_HowToWatch_SerieA.jpg[ampersand]width=1200[ampersand]height=740",
       "PublishedAt": "2024-08-27T17:48:31Z",
       "Content": "If youre trying to find where to watch Serie A on US TV, youve come to the right place.\r\nAlthough the Serie A doesnt have the amount of fans as Englands Premier League or Spains La Liga, there are st… [+3079 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Chris Moore",
-      "Title": "How to watch League Cup on US TV",
-      "Description": "If you’re wondering where to watch League Cup on US TV, we have the answers you’re looking for. Founded in 1960, the League Cup, now officially known as the EFL Cup and referred to as the Carabao Cup for sponsorship reasons, was started in part as somewhat of…",
-      "Url": "https://worldsoccertalk.com/where-to-watch-league-cup-on-us-tv/",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20200824_CMS_308809_HowToWatch_LeagueCup.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2024-08-27T17:44:17Z",
-      "Content": "If youre wondering where to watch League Cup on US TV, we have the answers youre looking for.\r\nFounded in 1960, the League Cup, now officially known as the EFL Cup and referred to as the Carabao Cup … [+3311 chars]"
     }
   ]
 }
