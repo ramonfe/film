@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Apple Event 2024: What to expect at the iPhone 16 launch event on Monday",
+      "Description": "For Apple devotees, the biggest tech day of the year is coming up: The Apple iPhone 16 launch event. It'll take place on September 9 at 1PM ET in Cupertino, CA, and you can stream it live on YouTube or the company's website. We'll also be live-blogging the ne…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174935460",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-06T16:32:21Z",
+      "Content": "For Apple devotees, the biggest tech day of the year is coming up: The Apple iPhone 16 launch event. It'll take place on September 9 at 1PM ET in Cupertino, CA, and you can stream it live on YouTube … [+12559 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/08/Disclaimer_Photo_0101.jpg?resize=1200,630",
       "PublishedAt": "2024-08-30T14:05:00Z",
       "Content": "Named after a typical disclaimer attached to works of fiction that claim that any similarities to persons living or dead are coincidental, Disclaimer is the newest Apple TV+ miniseries. This show sta… [+7117 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Apple event 2024: What to expect at the iPhone 16 keynote in September",
-      "Description": "The biggest day of the tech world’s autumn calendar is nearly here: Apple’s iPhone 16 event will take place on September 9 at 1PM ET. We'll be live-blogging the news, and you can watch it live via the company’s website or on YouTube. The biggest news from the…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174870660",
-      "UrlToImage": null,
-      "PublishedAt": "2024-08-29T17:52:18Z",
-      "Content": "The biggest day of the tech world’s autumn calendar is nearly here: Apple’s iPhone 16 event will take place on September 9 at 1PM ET. We'll be live-blogging the news, and you can watch it live via th… [+10094 chars]"
     }
   ]
 }
