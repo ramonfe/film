@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 782,
+  "TotalResults": 783,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Sofía Sánchez Ramírez",
+      "Title": "Todo sobre ‘Respira’: Nueva serie de Netflix conmueve con drama en hospitales",
+      "Description": "La nueva serie 'Respira', de Netflix, expone las deficiencias de un hospital público en Valencia, así como la presión constante que enfrentan sus médicos",
+      "Url": "https://www.nacion.com/viva/entretenimiento/todo-sobre-respira-nueva-serie-de-netflix-conmueve/XOQGXTDKTZA57BBQRFOXKBCYSE/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/JZVNH6AOYFFQFMSJOPAVCPRHD4.jpg?smart=true&auth=5a28bdff8bdc9d83fac7708503206c6abbe1553a579eeb919d2e6c8f5cc75124&width=1440",
+      "PublishedAt": "2024-09-07T16:10:20Z",
+      "Content": "Cada médico tiene una historia con sus pacientes, que va más allá de su misión de salvarles la vida. Los vínculos emocionales que surgen y desaparecen en un hospital público se convierten en los prot… [+3044 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/b6e068/x720/840_560.jpeg",
       "PublishedAt": "2024-09-06T12:31:49Z",
       "Content": "A falta de una semana para su estreno, desde Amazon Prime Video han desvelado el tráiler final de 'En fin', una comedia de ciencia ficción (o, al menos su base es esa) que nos presentará un apocalips… [+1044 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "George R.R. Martin critica con dureza que 'La casa del dragón' haya eliminado un personaje, y HBO le responde",
-      "Description": "El autor de las novelas carga las tintas contra la dirección de la serie por no haber incluido un personaje que, a su juicio, sí es importante en la trama\r\nMovistar+ y Carles Porta llegan “al máximo nivel del true crime” con 'Luz en la oscuridad', lejos de “a…",
-      "Url": "https://www.eldiario.es/vertele/series/george-r-r-martin-critica-eliminado-personaje-maelor-targaryen-hbo-responde-la-casa-del-dragon_1_11634070.html",
-      "UrlToImage": "https://static.eldiario.es/clip/aef8f600-0043-42d6-aec7-99a954b6e50d_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-09-06T12:27:52Z",
-      "Content": "George R.R. Martin tiene por costumbre criticar –cuando lo considera necesario– las series que se han grabado sobre sus libros. Al fin y al cabo, es él quien escribió Canción de Hierro y Fuego, así q… [+3025 chars]"
     }
   ]
 }
