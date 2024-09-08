@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 72,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "How to use a VPN on Roku",
+      "Description": "The Roku smart TV platform is an accessible way to watch your favorite streaming content in a centralized location – either built-in to TVs, or by adding affordable dongles or set-top boxes to older televisions. However, a common frustration for any smart TV …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174941792",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-07T13:13:28Z",
+      "Content": "The Roku smart TV platform is an accessible way to watch your favorite streaming content in a centralized location – either built-in to TVs, or by adding affordable dongles or set-top boxes to older … [+2690 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2096,w_3727,x_0,y_797/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1725025727/GettyImages-1641620388_iue6nx",
       "PublishedAt": "2024-08-30T15:15:17Z",
       "Content": "What have Amazon co-founder and executive chairman Jeff Bezos and his fiancée, Lauren Sánchez, been binge-watching lately? Mostly stuff thats not on Amazon Prime, according to Sánchez. The former new… [+848 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Brendan Hesse",
-      "Title": "The Best Gaming And Tech Deals In Amazon's Labor Day Sale",
-      "Description": "Labor Day weekend is upon us, and while some of us are likely planning to use the long weekend for one last adventure before summer ends, it also means tons of great online shopping sales. One of the biggest is Amazon's Labor Day sale, which runs through Mond…",
-      "Url": "https://www.gamespot.com/gallery/amazon-labor-day-sale-2024/2900-5737/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4359331-000.jpg",
-      "PublishedAt": "2024-08-30T14:54:00Z",
-      "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
     }
   ]
 }
