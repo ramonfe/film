@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 743,
+  "TotalResults": 744,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Thomas H",
+      "Title": "La inesperada decisión que cambió el rumbo de una estrella de acción",
+      "Description": "Un actor se enfrentó a uno de los momentos más duros de su carrera en un rodaje exigente y agotador. Lo que sucedió después cambió su vida para siempre y lo convirtió en una de las figuras más icónicas del cine de artes marciales. Descubre los detalles detrás…",
+      "Url": "https://es.gizmodo.com/la-inesperada-decision-que-cambio-el-rumbo-de-una-estrella-de-accion-2000127936",
+      "UrlToImage": "https://es.gizmodo.com/app/uploads/2024/09/Van-Damme.jpg",
+      "PublishedAt": "2024-09-08T19:17:35Z",
+      "Content": "Un papel que pudo haber sido y no fue\r\nEn 1987, mientras Jean-Claude Van Damme aún era un actor relativamente desconocido, tuvo la oportunidad de formar parte de Depredador, una de las películas de a… [+3051 chars]"
+    },
     {
       "Source": {
         "Id": "marca",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202409/_W768_H512_80/893976.jpg",
       "PublishedAt": "2024-09-06T16:59:00Z",
       "Content": "No es la primera vez que las celebridades hacen cambios rotundos en su imagen. Teñirse el cabello es más común de lo que parece. Natalia Oreiro se sumó a esta lista y deslumbró a los usuarios de Inst… [+766 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Adrián Ruiz, Laura Pérez",
-      "Title": "'El gran premio de la cocina' desvela cuándo y cómo se verá en La 1, con Lydia Bosch nostálgica por Germán González",
-      "Description": "TVE ha confirmado la que será su nueva baza para cada mañana antes del Telediario: 'El gran premio de la cocina' se ha presentado en el FesTVal con protagonismo de Lydia Bosch por su feeling con Germán González: \"Sentí la misma química que con Emilio Aragón\"\r…",
-      "Url": "https://www.eldiario.es/vertele/noticias/gran-premio-cocina-desvela-vera-1-lydia-bosch-nostalgica-german-gonzalez_1_11634147.html",
-      "UrlToImage": "https://static.eldiario.es/clip/000269ee-8bbf-4518-b8e9-1b150efd526a_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-09-06T16:07:07Z",
-      "Content": "TVE ha cerrado este viernes 6 de septiembre su participación en el FesTVal 2024 de Vitoria con la presentación de El gran premio de la cocina, su nuevo talent culinario de tira diaria con Lydia Bosch… [+5982 chars]"
     }
   ]
 }
