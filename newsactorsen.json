@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 720,
+  "TotalResults": 721,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Caroline Thayer",
+      "Title": "Orlando Bloom thought he 'was gonna die' from 52-pound weight loss for new movie",
+      "Description": "For his role in the movie, \"The Cut,\" Orlando Bloom says he lost nearly one-third of his body weight. The English actor added that he thought he \"was gonna die.\"",
+      "Url": "https://www.foxnews.com/entertainment/orlando-bloom-thought-was-gonna-die-from-extreme-52-pound-weight-loss-new-movie",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/d5fb9f36-orlando-bloom.jpg",
+      "PublishedAt": "2024-09-08T16:10:18Z",
+      "Content": "Orlando Bloom lost nearly a third of his body weight to play a revived boxer in his upcoming film, \"The Cut,\" which premiered at the Toronto International Film Festival last week. \r\nThe actor, 47, de… [+2671 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/florence-tiff.jpg",
       "PublishedAt": "2024-09-07T02:18:51Z",
       "Content": "Florence Pugh wears a light pink, strapless dress while attending the 2024 Toronto International Film Festival held at Princess of Wales Theatre on Friday night (September 6) in Toronto, Ontario.\r\nTh… [+1493 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
-      },
-      "Author": "Ashley Hume",
-      "Title": "Jennifer Lopez stuns at premiere of Ben Affleck-produced film 'Unstoppable'; actor is a no-show",
-      "Description": "Jennifer Lopez attended the TIFF premiere of \"Unstoppable,\" the movie she worked on with ex Ben Affleck, but the actor was a no-show. Affleck was instead spotted in Los Angeles.",
-      "Url": "https://www.foxnews.com/entertainment/jennifer-lopez-stuns-premiere-ben-affleck-produced-film-unstoppable-actor-no-show",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/jlobentiff3.jpg",
-      "PublishedAt": "2024-09-07T00:39:51Z",
-      "Content": "Jennifer Lopez stepped out in style for the premiere of \"Unstoppable,\" the movie she worked on with ex Ben Affleck, but the Oscar-winning actor was a no-show.\r\nLopez, 55, who starred in the biographi… [+3050 chars]"
     }
   ]
 }
