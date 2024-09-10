@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 748,
+  "TotalResults": 750,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Así es la casa de diseño en El Escorial donde Pedro Almodóvar ha rodado 'La habitación de al lado'",
+      "Description": "Pedro Almodóvar ha hecho historia para el cine y la cultura española al ganar el León de Oro en el festival de Venecia por su última película, La habitación de al lado , primer largometraje de su carrera que rueda en inglés, con Tilda Swinton y Julianne Moore…",
+      "Url": "https://www.abc.es/summum/living/casas/casa-diseno-escorial-pedro-almodovar-rodado-habitacion-20240909074058-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/summum/2024/09/08/casa-almodovar-ok-U15452036825Knx-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-09-09T05:40:58Z",
+      "Content": "Pedro Almodóvar ha hecho historia para el cine y la cultura española al ganar el León de Oro en el festival de Venecia por su última película, La habitación de al lado, primer largometraje de su carr… [+4411 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Publico.es"
+      },
+      "Author": "Público",
+      "Title": "¿Puede James Bond ser gay?",
+      "Description": "La pregunta \"¿cree que podría haber un James Bond gay?\" que se le hizo al actor Daniel Craig durante el Festival de Cine de Venecia y que tantas opiniones dispares provocó no es improcedente ni descabellada. No es improcedente porque se la plantean al último …",
+      "Url": "https://blogs.publico.es/dominiopublico/64341/puede-james-bond-ser-gay/",
+      "UrlToImage": "https://blogs.publico.es/dominiopublico/files/2024/09/1538746122_339970_1538746267_noticia_normal.jpg",
+      "PublishedAt": "2024-09-09T05:25:49Z",
+      "Content": "09/09/202406/09/2024Forograma de una de las películas de James Bond protagonizada por Daniel Craig\r\nLa pregunta \"¿cree que podría haber un James Bond gay?\" que se le hizo al actor Daniel Craig durant… [+6740 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://img.huffingtonpost.es/files/og_thumbnail/uploads/2024/09/07/luis-zahera-y-jose-coronado.jpeg",
       "PublishedAt": "2024-09-07T06:17:15Z",
       "Content": "El actor José Coronado ha ofrecido una entrevista a VerTelecon motivo del estreno de la cuarta y última temporada de la serie Entrevías y no ha dudado en hablar de cómo es trabajar con Luis Zahera.\r\n… [+1016 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Anna R. Alòs",
-      "Title": "Lola Marceli: \"La monarquía es un anacronismo, no me considero súbdita de nadie\"",
-      "Description": "Nació en Alicante, creció en Málaga, y los últimos años ha vivido entre Madrid y Barcelona. Nombre de pila, Dolores Muñoz Marceli. Lo de Lola tiene fácil explicación y adoptó artísticamente el apellido de su madre. Simultaneó estudios de interpretación con lo…",
-      "Url": "https://www.elperiodico.com/es/gente/20240907/lola-marceli-monarquia-anacronismo-considero-107798693",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/402613cd-e581-4d45-a611-07aa90e963b2_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-09-07T06:00:11Z",
-      "Content": "Nació en Alicante, creció en Málaga, y los últimos años ha vivido entre Madrid y Barcelona. Nombre de pila, Dolores Muñoz Marceli. Lo de Lola tiene fácil explicación y adoptó artísticamente el apelli… [+5842 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Mussolini resucita en Venecia en una serie que busca \"disipar el espectro del fascismo\"",
-      "Description": "Joe Wright adapta la novela de Antonio Scurati con un inmenso Luca Marinelli como el dictador y con música de uno de los Chemical Brothers para acercarla a las nuevas generaciones\r\nTodo sobre el Festival de Venecia - ‘Los años nuevos’, el trabajo más íntimo y…",
-      "Url": "https://www.eldiario.es/cultura/cine/mussolini-resucita-venecia-serie-busca-disipar-espectro-fascismo_1_11634482.html",
-      "UrlToImage": "https://static.eldiario.es/clip/77fa1143-6f78-46cf-9b0b-b4226881b4d8_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-09-06T20:00:14Z",
-      "Content": "El Festival de Cine de Venecia es el más veterano de todos. Se fundó en 1932, y quien estuvo detrás de aquella creación no fue otro que Benito Mussolini, que vio en el cine un arma de propaganda fasc… [+1170 chars]"
     }
   ]
 }

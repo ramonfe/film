@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 116,
+  "TotalResults": 117,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Sevilla se reivindica como centro del flamenco con la Bienal de los estrenos",
+      "Description": "Ole de nuevo. Bienvenida la Bienal. La vigésimo tercera edición de la gran cita con el flamenco se vive desde el 11 de septiembre hasta el próximo 5 de octubre en diferentes escenarios de Sevilla con varios objetivos, aunque si hay uno irrenunciable es el de …",
+      "Url": "https://www.abc.es/sevilla/cultura/sevilla-reivindica-centro-flamenco-bienal-estrenos-20240909213743-nts.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2024/09/09/cartel-bienal-2024_xoptimizadax_20240906213715-U26167487700AkG-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-09-09T05:04:01Z",
+      "Content": "Ole de nuevo. Bienvenida la Bienal. La vigésimo tercera edición de la gran cita con el flamenco se vive desde el 11 de septiembre hasta el próximo 5 de octubre en diferentes escenarios de Sevilla con… [+6254 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/0fda4291-e91d-46e5-811b-5b27894bf8b2_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-09-02T16:10:59Z",
       "Content": "Regreso a Las Sabinas, en Disney+, nació como la primera serie diaria de la historia producida para una plataforma. Con su estreno fijado para el próximo día 11 de septiembre, una nueva producción, t… [+4307 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ipadizate.com"
-      },
-      "Author": "Ángel Roca",
-      "Title": "Todos los estrenos de Apple TV+ en septiembre de 2024",
-      "Description": "Apple TV+ llega cargada de estrenos este mes de septiembre de 2024, con la llegada de nuevas temporadas de series de éxito y el estreno de películas protagonizadas por auténticas estrellas de cine. Durante el mes de agosto de 2024 Apple TV+ ya estreno novedad…",
-      "Url": "https://ipadizate.com/apple-tv/todos-los-estrenos-de-apple-tv-en-septiembre-de-2024",
-      "UrlToImage": "https://ipadizate.com/hero/2024/09/apple-tv-plus-television.jpeg?width=1200",
-      "PublishedAt": "2024-09-02T16:03:20Z",
-      "Content": "Estos son los estrenos de septiembre de 2024 en Apple TV+\r\nApple TV+ llega cargada de estrenos este mes de septiembre de 2024, con la llegada de nuevas temporadas de series de éxito y el estreno de p… [+3398 chars]"
     }
   ]
 }
