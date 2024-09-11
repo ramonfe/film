@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 776,
+  "TotalResults": 777,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Muere el mítico actor que puso voz a Darth Vader y a Mufasa, de El Rey León, a los 93 años",
+      "Description": "Era la voz original de personajes icónicos del cine como el de Darth Vader en la saga de Star Wars o el de Mufasa, en la oscarizada El Rey León de Disney... pero se ha apagado defi",
+      "Url": "https://www.marca.com/tiramillas/cine/2024/09/10/66dfd411268e3e7d158b45b2.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/97fd2d527ffba04e5db37566c06e25ad/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/10/17259449365265.jpg",
+      "PublishedAt": "2024-09-10T05:14:37Z",
+      "Content": "Era la voz original de personajes icónicos del cine como el de Darth Vader en la saga de Star Wars o el de Mufasa, en la oscarizada El Rey León de Disney... pero se ha apagado definitivamente a los 9… [+1470 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/5f8167/f.elconfidencial.com-original-ca1-144-61c-ca114461c506cb8403b56bd6215ffacb/840_560.jpeg",
       "PublishedAt": "2024-09-09T16:16:55Z",
       "Content": "Jesulín ya descansa en su domicilio, en Arcos de la Frontera. La noche del sábado comenzó a sentir un fuerto dolor en el pecho. De madrugada, acudió al urgencia asustado. Era un microinfarto. Fue tra… [+2293 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Matt Damon, el inesperado apoyo de Jennifer Lopez en su reaparición pública tras el divorcio con Ben Affleck",
-      "Description": "La historia de amor que construyeron Jennifer Lopez y Ben Affleck sigue teniendo, casi cuatro semanas después de poner el punto y final, algunos epílogos que alimentan todavía más la trama de una de las parejas más mediáticas de los últimos tiempos. El romanc…",
-      "Url": "https://www.abc.es/gente/matt-damon-inesperado-apoyo-jennifer-lopez-reaparicion-20240909122144-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2024/09/09/damon-U74385361278qst-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-09-09T15:54:30Z",
-      "Content": "La historia de amor que construyeron Jennifer Lopez y Ben Affleck sigue teniendo, casi cuatro semanas después de poner el punto y final, algunos epílogos que alimentan todavía más la trama de una de … [+3983 chars]"
     }
   ]
 }
