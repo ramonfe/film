@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 791,
+  "TotalResults": 792,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La secretaria autonómica de Cultura asegura que la nueva programación del IVC consolidará a la Comunidad Valenciana como referente de las artes escénicas",
+      "Description": "La Conselleria de Educación, Cultura, Universidades y Empleo ha presentado este martes la programación de Artes Escénicas del Institut Valencià de Cultura para la Temporada de septiembre a enero de 2024-202 5, la primera diseñada por la nueva dirección del IV…",
+      "Url": "https://www.abc.es/espana/comunidad-valenciana/secretaria-autonomica-cultura-asegura-nueva-programacion-ivc-20240910163806-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/09/10/PILAR-TEBAR-U42777347585sDR-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-09-10T14:38:07Z",
+      "Content": "La Conselleria de Educación, Cultura, Universidades y Empleo ha presentado este martes la programación de Artes Escénicas del Institut Valencià de Cultura para la Temporada de septiembre a enero de 2… [+10974 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202409/_W933_80/894393.jpeg",
       "PublishedAt": "2024-09-09T20:57:00Z",
       "Content": "James Earl Jones, prolífico actor conocido por su rol como la voz de Darth Vader en Star Wars y Mufasa en El rey león falleció en la mañana del lunes en su hogar de Nueva York. \r\nNacido en 1931, Jone… [+2129 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "La icónica actriz Kathy Bates anuncia su retirada",
-      "Description": "Kathy Bates se retira . La icónica actriz, nacida en Tennessee (EE.UU.) en 1948, pone punto y final a una carrera que empezó tarde y con mal pie, pero que supo recondudir yendo a contracorriente y con decisiones arriesgadas. Su papel en la película de terror …",
-      "Url": "https://www.abc.es/play/television/noticias/iconica-actriz-kathy-bates-anuncia-retirada-20240909225505-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/09/09/misery-kcaF--1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-09-09T20:55:06Z",
-      "Content": "Kathy Bates se retira. La icónica actriz, nacida en Tennessee (EE.UU.) en 1948, pone punto y final a una carrera que empezó tarde y con mal pie, pero que supo recondudir yendo a contracorriente y con… [+3205 chars]"
     }
   ]
 }
