@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 752,
+  "TotalResults": 753,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "La actriz \"vetada\" por El Hormiguero agudiza la guerra de audiencias: \"Pablo Motos tiembla\"",
+      "Description": "La actriz Najwa Nimri fue la invitada al segundo programa de &apos;La Revuelta&apos; en La1 de RTVE, y la protagonista de la serie &apos;Respira&apos; en Netflix no dejó pasar la o",
+      "Url": "https://www.marca.com/tiramillas/television/2024/09/11/66e1181646163f48438b45e2.html",
+      "UrlToImage": "https://phantom-marca.unidadeditorial.es/4375c9a6aec8d0cc7a85542522d8bb43/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/11/17260279541015.jpg",
+      "PublishedAt": "2024-09-11T04:24:25Z",
+      "Content": "La actriz Najwa Nimri fue la invitada al segundo programa de 'La Revuelta' en La1 de RTVE, y la protagonista de la serie 'Respira' en Netflix no dejó pasar la oportunidad de incidir en la rivalidad p… [+3238 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/7d3687/sin-titulo---2024-09-10t092446.237/840_560.jpeg",
       "PublishedAt": "2024-09-10T07:57:24Z",
       "Content": "A finales de agosto conocimos por fin la sentencia de Daniel Sancho un año después del asesinato de Edwin Arrieta. El chef ha sido condenado a cadena perpetua al ser juzgado culpable de asesinato pre… [+1979 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "EFE",
-      "Title": "HBO convoca audiciones \"inclusivas y diversas\" para encontrar al nuevo Harry Potter",
-      "Description": "La plataforma de 'streaming' HBO convocó a audiciones \"inclusivas y diversas\" en el Reino Unido para encontrar a los actores que interpretarán a Harry Potter, Hermione Granger y Ron Weasley en la próxima serie dedicada al mago estudiante del Colegio Hogwarts.…",
-      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20240910/hbo-convoca-audiciones-inclusivas-diversas-107953255",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/b0ae8934-5b1a-4efd-af2b-4a8739981fe0_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-09-10T02:33:36Z",
-      "Content": "La plataforma de 'streaming' HBO convocó a audiciones \"inclusivas y diversas\" en el Reino Unido para encontrar a los actores que interpretarán a Harry Potter, Hermione Granger y Ron Weasley en la pró… [+1570 chars]"
     }
   ]
 }
