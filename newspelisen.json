@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 732,
+  "TotalResults": 736,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "how to create an object for a Django model with many to many field?",
+      "Description": "class Date(models.Model):\n date = models.DateField()\n \n def __str__(self):\n return str(self.date)\n\nclass Time(models.Model):\n time = models.TimeField()\n\n def __str__(self):\n return str(self.time)\n \n\nclass Showtimes(models.Model):\n theater = models.ForeignKey(…",
+      "Url": "https://stackoverflow.com/questions/78979209/how-to-create-an-object-for-a-django-model-with-many-to-many-field",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2024-09-12T16:57:11Z",
+      "Content": "I want to create a object for ShowTimes by function call objects.create by passing all date and time field.\r\nThat is not how .create() [Django-doc] works. In order to populate the ManyToManyFields, y… [+803 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "First Trailer For Stephen King's SALEM'S LOT Unleashes The Vampire Terror!",
+      "Description": "The first trailer for the new feature film adaptation of Stephen King’s Salam’s Lot has finally been released, and it unleashes the awesome vampire terror!This is a horror movie that I’ve been extremely excited about watching! For some reason Warner Bros. has…",
+      "Url": "https://geektyrant.com/news/first-trailer-for-stephen-kings-salems-lot-unleashes-the-vampire-terror",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/66e31690364de767739eb918/1726159851447/Screenshot+2024-09-12+at+9.45.36%E2%80%AFAM.jpg?format=1500w",
+      "PublishedAt": "2024-09-12T16:50:00Z",
+      "Content": "The first trailer for the new feature film adaptation of Stephen Kings Salams Lothas finally been released, and it unleashes the awesome vampire terror!\r\nThis is a horror movie that Ive been extremel… [+2836 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "Dragon Ball Daima Crunchyroll Release Date Set for New Anime Series",
+      "Description": "The Dragon Ball Daima Crunchyroll release date has been announced for Toei Animation‘s newest Dragon Ball anime series. This comes in celebration of the 40th anniversary of Akira Toriyama’s beloved manga series. “Due to a conspiracy, Goku and his friends are …",
+      "Url": "https://www.comingsoon.net/anime/news/1848479-dragon-ball-daima-crunchyroll-release-date-anime-series",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/09/Screenshot-2024-09-12-122408.png?resize=1200,630",
+      "PublishedAt": "2024-09-12T16:45:40Z",
+      "Content": "The Dragon Ball Daima Crunchyroll release date has been announced for Toei Animations newest Dragon Ball anime series. This comes in celebration of the 40th anniversary of Akira Toriyamas beloved man… [+1095 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "‘Wicked: Part Two’ Shifting Days Before Thanksgiving 2025 - Deadline",
+      "Description": "‘Wicked: Part Two’ Shifting Days Before Thanksgiving 2025Deadline ‘Wicked: Part Two’ Moves Up Thanksgiving 2025 Release DateHollywood Reporter ‘Wicked 2’ Moves Up 2025 Release Date, Will No Longer Open Against ‘Zootopia 2’Variety 'Wicked' director Jon M. Chu …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174983177",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-12T16:12:38Z",
+      "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -340,58 +392,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2024/09/2x7abissw9pc1.png?auto=compress&fit=scale&fm=png&h=400&w=800",
       "PublishedAt": "2024-09-11T17:27:09Z",
       "Content": "AMC loves to do fun, whimsical tie-ins to big blockbuster releases. It makes sense; in a post-Covid world, getting people out to the theaters requires all the pyrotechnics the theater chains can must… [+2882 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "Justin Kroll",
-      "Title": "Michael B. Jordan To Direct And Star In New ‘Thomas Crown Affair’ Movie From Outlier Society And Amazon MGM Studios",
-      "Description": "EXCLUSIVE: After breaking box office records for a directing debut on Creed III, Michael B. Jordan looks to have lined up his next high-profile directing gig. Sources tell Deadline that Jordan has signed on to direct Thomas Crown Affair for Amazon MGM Studios…",
-      "Url": "http://deadline.com/2024/09/michael-b-jordan-thomas-crown-affair-remake-movie-1236083693/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2024/09/Michael-B-Jordan.jpg?w=1024",
-      "PublishedAt": "2024-09-11T17:15:00Z",
-      "Content": "EXCLUSIVE: After breaking box office records for a directing debut on Creed III, Michael B. Jordan looks to have lined up his next high-profile directing gig. Sources tell Deadline that Jordan has si… [+2484 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Hugh Grant Reveals the Movie That He Credits for Putting His Acting Career Back on Track",
-      "Description": "Hugh Grant is opening up about his career. In a recent interview with Vanity Fair, the 64-year-old Bridget Jones’s Diary star spoke out about a time in his career when he was “marooned,” following the release of Did You hear About the Morgans? in 2009. During…",
-      "Url": "https://www.justjared.com/2024/09/11/hugh-grant-reveals-the-movie-that-he-credits-for-putting-his-acting-career-back-on-track/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/hugh-grant-movie-social.jpg",
-      "PublishedAt": "2024-09-11T17:08:41Z",
-      "Content": "Hugh Grant is opening up about his career.\r\nIn a recent interview with Vanity Fair, the 64-year-old Bridget Jones’s Diary star spoke out about a time in his career when he was “marooned,” following t… [+1469 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "First Showing"
-      },
-      "Author": "Alex Billington",
-      "Title": "Full Trailer for Water-Based Action Saga 'Devara Part 1' Starring NTR Jr",
-      "Description": "\"I will become a terror killing that courage.\" Prathyangira Cinemas has unveiled an official trailer for a movie called Devara Part 1, the next big Indian epic action movie hitting theater this year. It's already set for a global release (including in many US…",
-      "Url": "https://www.firstshowing.net/2024/full-trailer-for-water-based-action-saga-devara-part-1-starring-ntr-jr/",
-      "UrlToImage": "https://media2.firstshowing.net/firstshowing/img16/DevaraPart1MainpostbigimgTW1.jpg",
-      "PublishedAt": "2024-09-11T17:05:04Z",
-      "Content": "by Alex BillingtonSeptember 11, 2024Source:YouTube\r\n\"I will become a terror killing that courage.\" Prathyangira Cinemas has unveiled an official trailer for a movie called Devara Part 1, the next big… [+2217 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Rlsbb.cc"
-      },
-      "Author": "saamaan1@yahoo.com (Master)",
-      "Title": "Various Artists - 80's Mix (2024)",
-      "Description": "Tracklist:01. Pet Shop Boys - Heart02. Alphaville - Big in Japan03. Duran Duran - Union of the Snake04. Fleetwood Mac - Big Love (2018 Remaster)05. The Smiths - How Soon Is Now06. New Order - The Perfect Kiss07. Spandau Ballet - Only When You Leave08. Kajagoo…",
-      "Url": "https://rlsbb.cc/various-artists-80s-mix-2024/",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-11T16:46:03Z",
-      "Content": "Tracklist:01. Pet Shop Boys - Heart02. Alphaville - Big in Japan03. Duran Duran - Union of the Snake04. Fleetwood Mac - Big Love (2018 Remaster)05. The Smiths - How Soon Is Now06. New Order - The Per… [+1043 chars]"
     }
   ]
 }
