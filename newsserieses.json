@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 781,
+  "TotalResults": 782,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elconfidencial.com"
+      },
+      "Author": "R. Badillo",
+      "Title": "\"Una gran guerra u otra pandemia\": así ve el futuro Bill Gates de cara a los próximos 25 años",
+      "Description": "La intervención de Bill Gates en un programa de CNBC sigue dando que hablar. Además, a escasos días de que se estrene su nueva serie en Netflix",
+      "Url": "https://www.elconfidencial.com/tecnologia/2024-09-12/gran-guerra-pandemia-futuro-bill-gates_3959990/",
+      "UrlToImage": "https://images.ecestaticos.com/jZcjuFuWCjSUxbRQVfzRJ53JW2I=/0x0:1296x860/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/768/48b/b4d/76848bb4db0979286b685c85d26a5c5b.jpg",
+      "PublishedAt": "2024-09-12T03:00:00Z",
+      "Content": "Según Bill Gates, esta es la edad a la que los niños deberían tener su primer móvilEsto es lo que Bill Gates le preguntaría a un viajero del tiempo procedente del futuroBill Gates estrenará una serie… [+2906 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/7c0df6/lotr_s2_ut_221206_00292_r1_3000/840_560.jpeg",
       "PublishedAt": "2024-09-11T10:01:34Z",
       "Content": "Había dudas, sobre todo después de informaciones de medidoras externas que aseguraban que el estreno de la temporada 2 había sido menos vista que la primera de 'El señor de los anillos: Los anillos d… [+1723 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Estrella Gomez",
-      "Title": "HBO muestra un adelanto extendido de El Pingüino",
-      "Description": "Comienza la cuenta atrás\nEl Pingüino es la próxima serie original de HBO y está a punto de estrenarse en su plataforma",
-      "Url": "https://es.ign.com/the-batman-penguin-spinoff-series/207524/news/hbo-muestra-un-adelanto-extendido-de-el-pinguino",
-      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/sin-titulo-1_kr2b.1200.jpg",
-      "PublishedAt": "2024-09-11T10:00:48Z",
-      "Content": "La película The Batman que Matt Reeves estrenó en 2022 presenta multitud de personajes de Gotham con caras completamente nuevas. Entre ellos está Colin Farrell como Oz Cobb, alias El Pingüino, quien … [+2004 chars]"
     }
   ]
 }
