@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 120,
+  "TotalResults": 121,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "20 años de Poesía en Voz Alta y 65 aniversario de La Casa del Lago UNAM: Esta es la cartelera",
+      "Description": "Más de 25 actividades durante tres días de conciertos, performances, instalaciones sonoras, cine, talleres y acciones escénicas que darán cuenta de un abanico de propuestas que oscilan entre lo histórico y lo contemporáneo.",
+      "Url": "https://www.elfinanciero.com.mx/entretenimiento/2024/09/13/20-anos-de-poesia-en-voz-alta-y-65-aniversario-de-la-casa-del-lago-unam-esta-es-la-cartelera/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/GS7V7I5FVBHKZADKKKGINTGMXA.jpg?smart=true&auth=e31f73602cce566662887e7f2d219b91c2b87bd7de28be7b151e938c251d534e&width=1200&height=630",
+      "PublishedAt": "2024-09-13T22:46:21Z",
+      "Content": "Kae Tempest, Thurston Moore, Patti Smith, Amiri Baraka, Abul Mogard, Raúl Zurita, Rocío Ceron y Michel Houellebecq son algunas de las figuras, provenientes de distintas latitudes, disciplinas y gener… [+6318 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/a6f6bd/e78d2c88ad49be37dbffe720ccc208f3237d8c76_s2_n2_y2/840_560.jpeg",
       "PublishedAt": "2024-09-06T02:01:43Z",
       "Content": "En 1999 llegó a salas de cine de todo el mundo una de las películas más influyentes dentro de los géneros de acción y ciencia ficción. Inspirada en el filme japonés dirigido por Mamoru Oshii, Ghost i… [+2347 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Disney+ pone fecha de estreno a la adaptación televisiva de 'Yo, adicto', tras pasar por el Festival de San Sebastián",
-      "Description": "La adaptación de la novela homónima de Javier Giner, cocreador, guionista y director de la serie, llegará en octubre a la plataforma, tras verse en Sección Oficial del Festival de San Sebastián\r\nMaría Patiño y el exdirector de 'Socialité' cuentan cómo protegí…",
-      "Url": "https://www.eldiario.es/vertele/series/disney-pone-fecha-estreno-adaptacion-televisiva-adicto-pasar-festival-san-sebastian_1_11631810.html",
-      "UrlToImage": "https://static.eldiario.es/clip/43bca796-9999-4289-8f88-e8aa4a3537d5_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-09-05T15:08:02Z",
-      "Content": "Disney+ ha puesto fecha de estreno a Yo, adicto, su nueva serie española. La adaptación del libro homónimo escrito por Javier Giner llegará a la plataforma, bajo la marca Star, el próximo 30 de octub… [+1983 chars]"
     }
   ]
 }
