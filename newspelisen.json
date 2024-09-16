@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 721,
+  "TotalResults": 722,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The New Republic"
+      },
+      "Author": "Aaron Gell",
+      "Title": "Confessions of a Former Carnivore",
+      "Description": "Nearly two decades on, the mask worn by the anarchist revolutionary in V for Vendetta still commands attention. One recent afternoon, four black-clad figures, all sporting the same maniacal visage, stood back-to-back in silence on a pedestrian plaza in downto…",
+      "Url": "https://newrepublic.com/article/185445/confessions-former-carnivore-future-vegan",
+      "UrlToImage": "https://images.newrepublic.com/93f246e5cd8d79c0cd0afdb95a645ceca9aba9b9.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "PublishedAt": "2024-09-15T10:00:00Z",
+      "Content": "In retrospect, I think I was less worried that the world might change forever than that it might not. Our lives, at least, would be different. I ordered a subscription to Self-Reliance magazine and a… [+2281 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/beeltejuice-animated-sequel.jpg",
       "PublishedAt": "2024-09-13T12:40:14Z",
       "Content": "The highly anticipated Beetlejuice Beetlejuicewas released on September 6, 2024, and many of the original actors returned for the Beetlejuice sequel, however, the franchise already had a great sequel… [+4270 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "POPSUGAR"
-      },
-      "Author": "Emily Weaver",
-      "Title": "Why Your Joints Hurt During Your Period, According to 3 Ob-Gyns",
-      "Description": "As if bloating, fatigue, PMS, and headaches weren't enough, there's another fairly common period symptom that can wreak havoc on your day: joint pain. While people don't always connect joint pain to their menstrual cycle, in research published in BMC Women's …",
-      "Url": "https://www.popsugar.com/health/why-do-my-joints-hurt-during-my-period-47890032",
-      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/wx-BM1nSq8vT-iIgK4cukPX7Dog=/0x315:4910x2893/fit-in/4912x3240/top/filters:format_auto():quality(85):upscale()/2024/04/30/679/n/1922729/50740b4b66310be74bdae3.45357659_.jpg",
-      "PublishedAt": "2024-09-13T12:00:02Z",
-      "Content": "As if bloating, fatigue, PMS, and headaches weren't enough, there's another fairly common period symptom that can wreak havoc on your day: joint pain. While people don't always connect joint pain to … [+4753 chars]"
     }
   ]
 }
