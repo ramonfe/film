@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 75,
+  "TotalResults": 76,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Sam Singleton",
+      "Title": "Here’s why you should be using a VPN with your smart TV",
+      "Description": "Gone are the days of circling through the same old cable TV channels or blocking out your schedule on weeknights just so you can catch your favorite show. Now, streaming services and smart TVs have all of the content you could ever want at your fingertips at …",
+      "Url": "https://www.pcworld.com/article/2453859/heres-why-you-should-be-using-a-vpn-with-your-smart-tv.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/09/Best-VPN-For-Fire-Stick-Privado.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2024-09-16T13:00:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nGone are the days of… [+7119 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/apple-tv-renewals1.jpg",
       "PublishedAt": "2024-09-03T18:30:55Z",
       "Content": "There’s another Apple TV+ television show renewal to share!\r\nWe’re recapping all the major decisions made by the fan favorite streaming service this year, and there have been a lot of renewals! Unfor… [+110 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "The MLS Season Pass on Apple TV is now $10 for the rest of the season",
-      "Description": "Soccer fans (or football to me, a Malaysian) who want to catch up on the latest Major League Soccer (MLS) matches for the rest of the 2024 season can now purchase the MLS Season Pass through Apple TV for $10. For Apple TV+ subscribers, the MLS Season Pass is …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174908130",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-03T16:52:09Z",
-      "Content": "Soccer fans (or football to me, a Malaysian) who want to catch up on the latest Major League Soccer (MLS) matches for the rest of the 2024 season can now purchase the MLS Season Pass through Apple TV… [+917 chars]"
     }
   ]
 }
