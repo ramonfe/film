@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "How to stream using a VPN on Roku",
+      "Description": "The Roku smart TV platform is an accessible way to watch your favorite streaming content in a centralized location – either built-in to TVs, or by adding affordable dongles or set-top boxes to older televisions. One big advantage of the Roku platform is that …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175008991",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-16T20:52:19Z",
+      "Content": "The Roku smart TV platform is an accessible way to watch your favorite streaming content in a centralized location – either built-in to TVs, or by adding affordable dongles or set-top boxes to older … [+3600 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-16T20:17:41Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -365,32 +391,6 @@
       "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_339b1698-1043-4d79-b8a4-8f385f9f519a",
       "UrlToImage": null,
       "PublishedAt": "2024-09-04T20:40:52Z",
-      "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Apple Event 2024: What we expect at the iPhone 16 launch event next week",
-      "Description": "The biggest day of the tech world’s autumn calendar is nearly here: Apple’s iPhone 16 event will take place on September 9 at 1PM ET. We'll be live-blogging the news, and you can watch it live via the company’s website or on YouTube. The biggest news from App…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174919232",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-04T17:53:33Z",
-      "Content": "The biggest day of the tech world’s autumn calendar is nearly here: Apple’s iPhone 16 event will take place on September 9 at 1PM ET. We'll be live-blogging the news, and you can watch it live via th… [+11247 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Lawrence Bonk",
-      "Title": "Apple Event 2024: What we expect at the iPhone 16 launch event next week",
-      "Description": "The biggest day of the tech world’s autumn calendar is nearly here: Apple’s iPhone 16 event will take place on September 9 at 1PM ET. We'll be live-blogging the news, and you can watch it live via the company’s website or on YouTube. The biggest news from App…",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b127033-58db-4f57-87b2-69db7d52a9b9",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-04T15:15:01Z",
       "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
