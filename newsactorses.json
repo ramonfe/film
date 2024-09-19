@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 865,
+  "TotalResults": 866,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Publico.es"
+      },
+      "Author": "zeleb.publico.es",
+      "Title": "Javier Bardem estrena su primera serie",
+      "Description": "El actor forma parte del reparto de 'Monstruos: La historia de Lyle y Eric Menendez', dirigida por Ryan Murphy y basada en una historia real.",
+      "Url": "https://zeleb.publico.es/noticia/javier-bardem-estrena-su-primera-serie/",
+      "UrlToImage": "https://zeleb.publico.es/wp-content/uploads/2024/09/bardem-serie-1.jpg",
+      "PublishedAt": "2024-09-18T22:11:31Z",
+      "Content": "Ryan Murphy siente una oscura atracción por el lado más perverso de la humanidad. Lo demostró con Dahmer, la primera entrega de su serie Monstruos, y continúa ahora con un nuevo true crime que explot… [+2192 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -136,19 +149,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"Nunca he visto tanto llanto en mi vida\": David Harbour anticipa un final profundamente conmovedor para la quinta y última temporada de Stranger Things",
-      "Description": "Netflix tiene grandes expectativas para sus producciones en 2025. Además de la segunda temporada de One Piece y los nuevos capítulos de El Juego del Calamar, la plataforma también estrenará la quinta y última temporada de una de sus series más exitosas: Stran…",
-      "Url": "https://www.vidaextra.com/series/nunca-he-visto-llanto-mi-vida-david-harbour-anticipa-final-profundamente-conmovedor-para-quinta-ultima-temporada-stranger-things",
-      "UrlToImage": "https://i.blogs.es/78dbee/stranger-things/840_560.jpeg",
-      "PublishedAt": "2024-09-18T16:30:38Z",
-      "Content": "Netflix tiene grandes expectativas para sus producciones en 2025. Además de la segunda temporada de One Piece y los nuevos capítulos de El Juego del Calamar, la plataforma también estrenará la quinta… [+1749 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Xataka.com"
       },
       "Author": "John Tones",
@@ -158,6 +158,19 @@
       "UrlToImage": "https://i.blogs.es/af9c03/captura-de-pantalla-2024-09-18-a-las-10.51.00/840_560.jpeg",
       "PublishedAt": "2024-09-18T16:30:38Z",
       "Content": "Aunque lo hemos ido comprobando en la larga historia de Batman a lo largo de las décadas, solo en los últimos tiempos hemos llegado hasta el punto de titular una serie de televisión con el nombre de … [+4065 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "\"Nunca he visto tanto llanto en mi vida\": David Harbour anticipa un final profundamente conmovedor para la quinta y última temporada de Stranger Things",
+      "Description": "Netflix tiene grandes expectativas para sus producciones en 2025. Además de la segunda temporada de One Piece y los nuevos capítulos de El Juego del Calamar, la plataforma también estrenará la quinta y última temporada de una de sus series más exitosas: Stran…",
+      "Url": "https://www.vidaextra.com/series/nunca-he-visto-llanto-mi-vida-david-harbour-anticipa-final-profundamente-conmovedor-para-quinta-ultima-temporada-stranger-things",
+      "UrlToImage": "https://i.blogs.es/78dbee/stranger-things/840_560.jpeg",
+      "PublishedAt": "2024-09-18T16:30:38Z",
+      "Content": "Netflix tiene grandes expectativas para sus producciones en 2025. Además de la segunda temporada de One Piece y los nuevos capítulos de El Juego del Calamar, la plataforma también estrenará la quinta… [+1749 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2024/09/18/david-broncano-portada-U03170438578Eff-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-09-18T08:37:28Z",
       "Content": "David Broncano (39 años) vive actualmente uno de los momentos más brillantes de su carrera profesional y, al mismo tiempo, disfruta de una vida personal plena junto a su pareja, la actriz Silvia Alon… [+4371 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Ivett Salgado Méndez",
-      "Title": "El Pingüino: el villano va más allá del estereotipo",
-      "Description": "Retratar la complejidad de un hombre como Oswald Cobblepot para la serie El pingüino requirió de romper con la figura clásica de los villanos que, históricamente, han sido representados con discapacidades físicas o estigmatizados por su apariencia; en su luga…",
-      "Url": "https://www.milenio.com/espectaculos/pinguino-busca-romper-figura-clasica-villanos",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/09/17/lauren-franc-showrunner-serie-pinguino.jpg",
-      "PublishedAt": "2024-09-18T08:31:43Z",
-      "Content": "Retratar la complejidad de un hombre como Oswald Cobblepot para la serie El pingüino requirió de romper con la figura clásica de los villanos que, históricamente, han sido representados con discapaci… [+5077 chars]"
     }
   ]
 }
