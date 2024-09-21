@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 951,
+  "TotalResults": 952,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Llegó a Netflix, dura dos horas y se convirtió en el thriller más visto: de qué trata la película que se basa en un caso real",
+      "Description": "La historia gira en torno al asesino en serie John List, quien mató en 1971 a su esposa, a su madre y a sus tres hijos en su casa de Nueva Jersey; mirá el trailer",
+      "Url": "https://www.lanacion.com.ar/espectaculos/llego-a-netflix-dura-dos-horas-y-se-convirtio-en-el-thriller-mas-visto-de-que-trata-la-pelicula-que-nid20092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-pelicula-asesino-en-casa-fue-estrenada-en-2009-ONRCAO2L2BBENNIGYOOFJG6PJI.jpg?auth=7f034889e6fa4293398cb898510d774d2158483aff0880a12e0c7f26924d591c&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-20T19:27:29Z",
+      "Content": "La película Asesino en casalogró posicionarse como unade las más vistas en Netflix en las últimas semanas. Este film de suspenso psicológico, dirigido por Nelson McCormick y estrenado originalmente e… [+1800 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/fc5cb3/aniquilacion/840_560.jpeg",
       "PublishedAt": "2024-09-20T12:30:50Z",
       "Content": "En el catálogo de Netflix podemos encontrar películas de todo tipo y un buen puñado de ellas dedicadas a todos aquellos amantes de la ciencia ficción. Si bien este género es muy amplio y puede abarca… [+2609 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Pedro J. García",
-      "Title": "'Monstruos: La historia de Lyle y Erik Menendez': Críticas a Ryan Murphy por el tratamiento \"incestuoso\" a los hermanos",
-      "Description": "PROBLEMÁTICO \"Han convertido su historia en un fanfic incestuoso\". \"Esto es horrible\". Internautas se quejan de la sexualización de Lyle y Erik Menendez en la segunda temporada de la serie antológica de Netflix.'Monstruos: La historia de Lyle y Erik Menendez'…",
-      "Url": "https://www.ecartelera.com/noticias/monstruos-lyle-erik-menendez-criticas-ryan-murphy-hermanos-78382/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/78300/78382-h2.jpg",
-      "PublishedAt": "2024-09-20T12:24:54Z",
-      "Content": "Tras el enorme éxito en 2022 de 'Dahmer', la miniserie sobre el asesino en serie Jeffrey Dahmer, protagonizada por Evan Peters, Netflix convirtió la propiedad en una serie antológica, cuyas siguiente… [+2891 chars]"
     }
   ]
 }
