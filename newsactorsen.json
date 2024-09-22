@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 783,
+  "TotalResults": 785,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "MORGAN LEE Associated Press",
+      "Title": "Alec Baldwin urges judge to stand by dismissal of involuntary manslaughter case in 'Rust' shooting",
+      "Description": "Alec Baldwin has urged a New Mexico judge to stand by her decision to end his trial and dismiss an involuntary manslaughter charge against the actor in the fatal shooting of a cinematographer on the set of a Western movie",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/alec-baldwin-urges-judge-stand-dismissal-involuntary-manslaughter-113890476",
+      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "PublishedAt": "2024-09-21T01:26:01Z",
+      "Content": "SANTA FE, N.M. -- Alec Baldwin urged a New Mexico judge on Friday to stand by her decision to skuttle his trial and dismiss an involuntary manslaughter charge against the actor in the fatal shooting … [+2516 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-21T01:14:09Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/kj-apa-sublime-social.jpg",
       "PublishedAt": "2024-09-19T22:10:39Z",
       "Content": "KJ Apa is set to star in a new movie about Sublime!\r\nThe 3000 Pictures biopic about the band has the 27-year-old Riverdale actor attached to star as Bradley Nowell in the film, with Justin Chon on bo… [+1114 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Latest News in Nigeria & Breaking Naija News 24/7 | LEGIT.NG"
-      },
-      "Author": "Chinasa Afigbo",
-      "Title": "BBNaija S9: Ebele Okaro Begs Fans to Vote for Her Family Members on TV Game Show, “My Real Blood”",
-      "Description": "Nigerian actress Ebele Okaro spurred reactions online as she dislocated whom she was rooting for in the ongoing Big Brother Naija TV game show, more on Legit.ng.",
-      "Url": "https://www.legit.ng/entertainment/celebrities/1614811-bbnaija-s9-ebele-okaro-begs-fans-vote-family-members-tv-game-show-real-blood/",
-      "UrlToImage": "https://cdn.legit.ng/images/1200x675/fdb797c1ad8d8702.jpeg?v=1",
-      "PublishedAt": "2024-09-19T21:15:44Z",
-      "Content": "<ul><li>Nigerian veteran actress Ebele Okaro spurred reactions online after she stated whom she was supporting in the ongoing Brother Naija season 9, \"No Loose Guard\"</li><li>The movie star, in a vid… [+2874 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Scarlett Johansson Joins Chris Hemsworth & Brian Tyree Henry at 'Transformers One' Premiere in London",
-      "Description": "Scarlett Johansson has arrived on the Transformers One press tour! On Thursday (September 19), the 39-year-old Black Widow actress joined fellow Marvel Cinematic Universe alums Chris Hemsworth and Brian Tyree Henry on the red carpet at the European premiere o…",
-      "Url": "https://www.justjared.com/2024/09/19/scarlett-johansson-joins-chris-hemsworth-brian-tyree-henry-at-transformers-one-premiere-in-london/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/scarlett-transformers.jpg",
-      "PublishedAt": "2024-09-19T20:15:59Z",
-      "Content": "Scarlett Johansson has arrived on the Transformers One press tour! \r\nOn Thursday (September 19), the 39-year-old Black Widow actress joined fellow Marvel Cinematic Universe alums Chris Hemsworth and … [+1034 chars]"
     }
   ]
 }
