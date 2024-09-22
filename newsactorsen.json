@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 785,
+  "TotalResults": 786,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "MORGAN LEE Associated Press",
+      "Title": "Alec Baldwin urges judge to stand by dismissal of involuntary manslaughter case in 'Rust' shooting",
+      "Description": "Alec Baldwin has urged a New Mexico judge to stand by her decision to end his trial and dismiss an involuntary manslaughter charge against the actor in the fatal shooting of a cinematographer on the set of a Western movie",
+      "Url": "https://abcnews.go.com/US/wireStory/alec-baldwin-urges-judge-stand-dismissal-involuntary-manslaughter-113890474",
+      "UrlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "PublishedAt": "2024-09-21T03:38:18Z",
+      "Content": "SANTA FE, N.M. -- Alec Baldwin urged a New Mexico judge on Friday to stand by her decision to skuttle his trial and dismiss an involuntary manslaughter charge against the actor in the fatal shooting … [+2516 chars]"
+    },
     {
       "Source": {
         "Id": "abc-news",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://nofilmschool.com/media-library/strange-harvest-occult-murder-in-inland-empire.jpg?id=53650375&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
       "PublishedAt": "2024-09-19T22:32:28Z",
       "Content": "But in his newest iteration, costume designer Helen Huang was tasked with giving the character and expansive cast of The Penguin their looks, and you might be surprised at some of her inspirationsand… [+11847 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "KJ Apa Attached to Star in Sublime Biopic",
-      "Description": "KJ Apa is set to star in a new movie about Sublime! The 3000 Pictures biopic about the band has the 27-year-old Riverdale actor attached to star as Bradley Nowell in the film, with Justin Chon on board to direct, via Deadline. Justin is also writing the scree…",
-      "Url": "https://www.justjared.com/2024/09/19/kj-apa-attached-to-star-in-sublime-biopic/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/kj-apa-sublime-social.jpg",
-      "PublishedAt": "2024-09-19T22:10:39Z",
-      "Content": "KJ Apa is set to star in a new movie about Sublime!\r\nThe 3000 Pictures biopic about the band has the 27-year-old Riverdale actor attached to star as Bradley Nowell in the film, with Justin Chon on bo… [+1114 chars]"
     }
   ]
 }
