@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 783,
+  "TotalResults": 784,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ABC 12 News"
+      },
+      "Author": "Bing Guan/bloomberg/getty Images Via Cnn Newsource",
+      "Title": "Major movie theater chains unveil a $2.2 billion makeover plan",
+      "Description": "The biggest theater chains in the United States and Canada have a $2.2 billion plan to bring the movie industry back to life.",
+      "Url": "https://www.abc12.com/news/major-movie-theater-chains-unveil-a-2-2-billion-makeover-plan/article_0e1401d9-71e2-5c87-903f-a93fce9bf467.html",
+      "UrlToImage": "https://bloximages.newyork1.vip.townnews.com/abc12.com/content/tncms/assets/v3/editorial/c/23/c23bba92-3512-528b-82a6-e7da7fcc2622/66ef445872b89.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "PublishedAt": "2024-09-21T23:00:42Z",
+      "Content": "New York (CNN) With movies hitting streaming services faster than ever and consumers cutting back on spending, moviegoers might feel a bit less enthused to head to their multiplex these days. Thats w… [+2284 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://usrimg-full.fark.net/_/_I/fark__I9yrQSygR7nUFWk322Hre2bu58.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1727064000&Signature=PPFHoQ7i9vnvZV3Ehpf8pHk5eZc%3D",
       "PublishedAt": "2024-09-20T15:20:08Z",
       "Content": "I'm just going to leave these quotes:\"But I had a gun. I never traveled without a gun, still don't. I always carry a gun.\r\nAnd I got my gun out of my pocketbook. I told the man, 'If you put your hand… [+243 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Apoorv Rastogi",
-      "Title": "Netflix’s Magic: The Gathering Series Adds Terry Matalas as Showrunner",
-      "Description": "A Netflix animated adaptation of the popular online card game Magic: The Gathering has seen its fair share of production troubles. The series was originally announced in 2019 but failed to receive any update on its progression since. Consequently, speculation…",
-      "Url": "https://www.comingsoon.net/tv/news/1852052-magic-the-gathering-netflix-series-showrunner-terry-matalas",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/09/MixCollage-20-Sep-2024-08-07-PM-1538.jpg?resize=1200,630",
-      "PublishedAt": "2024-09-20T14:38:16Z",
-      "Content": "A Netflix animated adaptation of the popular online card game Magic: The Gathering has seen its fair share of production troubles. The series was originally announced in 2019 but failed to receive an… [+2071 chars]"
     }
   ]
 }
