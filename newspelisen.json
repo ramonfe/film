@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 813,
+  "TotalResults": 819,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Jordan Valinsky",
+      "Title": "Major movie theater chains unveil a $2.2 billion makeover plan | CNN Business",
+      "Description": "With movies hitting streaming services faster than ever and consumers cutting back on spending, moviegoers might feel a bit less enthused to head to their multiplex these days. That’s why the biggest theater chains in the United States and Canada have a $2.2 …",
+      "Url": "https://www.cnn.com/2024/09/21/business/amc-regal-cinemark-movie-theater-makeover-plan/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2035480399.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-09-21T13:00:19Z",
+      "Content": "With movies hitting streaming services faster than ever and consumers cutting back on spending, moviegoers might feel a bit less enthused to head to their multiplex these days. Thats why the biggest … [+2159 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Root"
+      },
+      "Author": "The Root Bot",
+      "Title": "Weekend Entertainment Roundup September 21, 2024",
+      "Description": "Photo: MEGA/GC Images (Getty Images), Phil Walter, Screenshot: TruDroneVideos/YouTube (Getty Images), Brad Barket/Getty Images for STARZ // Ricky Vigil M / Justin E Palmer/GC Images (Getty Images), Jemal Countess/Getty Images for Congressional Black Caucus Fo…",
+      "Url": "https://www.theroot.com/weekend-entertainment-roundup-september-21-2024-1851653851",
+      "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/61747882639f80ca0d590be5280b8e94.jpg",
+      "PublishedAt": "2024-09-21T13:00:00Z",
+      "Content": "Michael Jackson was a larger than life personality, so its no surprise that his home matched his life. The superstars Neverland Ranch was famous for being a massive 2,700 acre area with its own zoo, … [+424 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Business Standard"
+      },
+      "Author": "Business Standard",
+      "Title": "On Fawad Khan's movie, MNS leader's open dare: 'Theatre owners know…'",
+      "Description": "Amid the news that Pakistani movie 'The Legend of Maula Jatt' starring Fawad Khan will release in India, MNS Cinema Wing President Ameya Khopkar has threatened theatre owners against screening it",
+      "Url": "https://www.business-standard.com/politics",
+      "UrlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_685x385.jpg",
+      "PublishedAt": "2024-09-21T12:32:41Z",
+      "Content": "The results of the upcoming assembly elections, although driven by the political dynamics of each state, will reflect the general political mood of the nation, former law minister Ashwani Kumar added"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "MacRumors"
+      },
+      "Author": "Hartley Charlton",
+      "Title": "'28 Years Later' to Be First Blockbuster Movie Shot on iPhone",
+      "Description": "With a budget of $75 million, Danny Boyle's \"28 Years Later\" will become the first major blockbuster Hollywood movie to be shot on iPhone, WIRED reports.\n\n\n\nJodie Comer on the set of \"28 Years Later\" with an iPhone 15 Pro Max camera rig (right).\n\nThe upcoming…",
+      "Url": "https://www.macrumors.com/2024/09/21/first-blockbuster-movie-shot-on-iphone/",
+      "UrlToImage": "https://images.macrumors.com/t/tx7rQFRKMFLbYhgemU9R6rP-Cpw=/1600x/article-new/2024/09/28-years-later-iphone-rig.jpg",
+      "PublishedAt": "2024-09-21T11:31:55Z",
+      "Content": "With a budget of $75 million, Danny Boyle's \"28 Years Later\" will become the first major blockbuster Hollywood movie to be shot on iPhone, WIRED reports.\r\nThe upcoming post-apocalyptic British horror… [+1581 chars]"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "PTI",
+      "Title": "Ridley Scott teases 'Gladiator 3', says he has 'lit the fuse'",
+      "Description": "Ridley Scott has teased plans for a third 'Gladiator' movie. Awaiting the release of 'Gladiator II' in November, Scott revealed that the sequel is set two decades after the original and follows Lucius, played by Paul Mescal. The film also stars Denzel Washing…",
+      "Url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ridley-scott-teases-gladiator-3-says-he-has-lit-the-fuse/articleshow/113550395.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-113550395,width-1070,height-580,imgsize-19966,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2024-09-21T11:11:56Z",
+      "Content": "KillerHeat Trailer : Joseph Gordon-Levitt, Shailene Woodley and Richard Madden Starrer Killer Heat Official Trailer"
+    },
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "TOI Entertainment Desk",
+      "Title": "'Transformers One' sees $26M opening weekend, much slower than expected",
+      "Description": "​On the other hand, Warner Bros.' *Beetlejuice* remains strong in its third weekend. The movie should take in $24.75 million this weekend from 4,172 theaters. The film takes in $6.75 million today. The domestic box office total for *Beetlejuice* will probably…",
+      "Url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/transformers-one-sees-26m-opening-weekend-much-slower-than-expected/articleshow/113548546.cms",
+      "UrlToImage": "https://static.toiimg.com/thumb/msid-113548669,width-1070,height-580,imgsize-1624748,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "PublishedAt": "2024-09-21T10:00:04Z",
+      "Content": "New animated movie *Transformers One* will see an opening weekend of $26 million, less than what was projected earlier. The movie earned $9.7 million on Friday, including preview screenings. The prev… [+2856 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -314,84 +392,6 @@
       "UrlToImage": "https://cdn.theplaylist.net/wp-content/uploads/2024/09/20092457/Dont-Move-1.jpg",
       "PublishedAt": "2024-09-20T13:26:55Z",
       "Content": "With horror movie season heating up, there’s plenty of new thrillers, ghost stories, and slasher films hitting streamers in the next several weeks.  So what’s on Netflix’s release schedule? At their … [+1562 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Eric Frederiksen",
-      "Title": "The 20 Best Vampire Movies For Your Bloodsucking Halloween Season",
-      "Description": "The 20 Best Vampire Movies For Your Bloodsucking Halloween Season\r\nVampire movies suck. Every single one of them. Stupid puns aside, the vampire is an almost-universal part of supernatural lore across the world, and 1922's Nosferatu is one of the very first h…",
-      "Url": "https://www.gamespot.com/gallery/the-20-best-vampire-movies-for-your-bloodsucking-halloween-season/2900-5781/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1603/16030002/4369533-10-interview-with-vampire.jpg",
-      "PublishedAt": "2024-09-20T13:00:00Z",
-      "Content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "'I Saw the TV Glow': Streaming Release Date and How to Watch From Anywhere",
-      "Description": "Stream the trippiest movie of the year.",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175091375",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-20T12:52:37Z",
-      "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Apple iPhone 16 and iPhone 16 Plus review: Closing the gap to the Pro",
-      "Description": "The “regular” iPhone has become like a second child. Year after year, this model has gotten the hand-me-downs from the previous version of the iPhone Pro – the older, smarter sibling. The iPhone 15 received the iPhone 14 Pro’s Dynamic Island and A16 Bionic pr…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175091269",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-20T12:32:07Z",
-      "Content": "The “regular” iPhone has become like a second child. Year after year, this model has gotten the hand-me-downs from the previous version of the iPhone Pro – the older, smarter sibling. The iPhone 15 r… [+13355 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-20T12:00:50Z",
-      "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Trailer for the Black Metal Horror Movie INVOKING YELL",
-      "Description": "This is a trailer for a black metal horror movie titled Invoking Yell, which is a ‘90s-set story told in a found footage format. Invoking Yell follows “a trio of metalhead twenty-something girls who venture into the woods to shoot the demo tape for their blac…",
-      "Url": "https://geektyrant.com/news/trailer-for-the-black-metal-horror-movie-invoking-yell",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/66d8834d82b1b5170d730116/1726833629970/Screenshot+2024-09-04+at+9.03.16%E2%80%AFAM.jpg?format=1500w",
-      "PublishedAt": "2024-09-20T12:00:00Z",
-      "Content": "This is a trailer for a black metal horror movie titled Invoking Yell, which is a 90s-set story told in a found footage format. \r\nInvoking Yell follows a trio of metalhead twenty-something girls who … [+912 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Devindra Hardawar",
-      "Title": "Engadget Podcast: Reviewing the iPhone 16 and Apple Watch Series 10",
-      "Description": "Our reviews of the iPhone 16 Pro and Apple Watch Series 10 are up, thanks to one very tired Cherlynn Low. In this episode, Devindra and Cherlynn discuss her final thoughts on Apple's new hardware, including why the iPhone 16 Pro’s photo processing is particul…",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e220557a-1102-4bfc-82b1-a65646795d47",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-20T11:30:33Z",
-      "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
