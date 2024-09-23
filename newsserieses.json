@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 931,
+  "TotalResults": 932,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "Jessica Rojas Ch.",
+      "Title": "Kim Kardashian se reunió con los hermanos Lyle y Erik Menéndez",
+      "Description": "Lyle y Erik Menéndez cumplen una condena perpetua por el asesinato de sus padres. Netflix estrenó una serie sobre ellos llamada 'Monsters: The Lyle and Erik Menendez Story'",
+      "Url": "https://www.nacion.com/viva/farandula/kim-kardashian-se-reunio-con-los-hermanos-lyle-y/N7OLFMOA6JBI3NMJEDYW4GFN7Q/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/3X73DFJOIBHWFN3RPZ5ST6DM2E.jpeg?smart=true&auth=bd9f5a355f31bba773f43e1a7c306ed7108208556b417f9d321debc9287c7752&width=1440",
+      "PublishedAt": "2024-09-22T15:30:44Z",
+      "Content": "El sábado 21 de setiembre, la socialité Kim Kardashian se reunió con los hermanos Lyle y Erik Menéndez, quienes cumplen cadena perpetua por el asesinato de sus padres, José y Kitty.\r\nSobre ellos, Net… [+1439 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://fotos.perfil.com/2024/09/20/trim/1140/641/el-juego-del-calamar-2-1876992.jpg",
       "PublishedAt": "2024-09-20T20:02:23Z",
       "Content": "El producto audiovisual más visto en la historia de Netflix, \"El Juego del Calamar\", tendrá su segunda temporada y los seguidores o fanáticos que quedaron cautivados en el lanzamiento registrado en 2… [+4768 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Llegó a Netflix, dura dos horas y se convirtió en el thriller más visto: de qué trata la película que se basa en un caso real",
-      "Description": "La historia gira en torno al asesino en serie John List, quien mató en 1971 a su esposa, a su madre y a sus tres hijos en su casa de Nueva Jersey; mirá el trailer",
-      "Url": "https://www.lanacion.com.ar/espectaculos/llego-a-netflix-dura-dos-horas-y-se-convirtio-en-el-thriller-mas-visto-de-que-trata-la-pelicula-que-nid20092024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-pelicula-asesino-en-casa-fue-estrenada-en-2009-ONRCAO2L2BBENNIGYOOFJG6PJI.jpg?auth=7f034889e6fa4293398cb898510d774d2158483aff0880a12e0c7f26924d591c&width=768&quality=70&smart=false",
-      "PublishedAt": "2024-09-20T19:27:29Z",
-      "Content": "La película Asesino en casalogró posicionarse como unade las más vistas en Netflix en las últimas semanas. Este film de suspenso psicológico, dirigido por Nelson McCormick y estrenado originalmente e… [+1800 chars]"
     }
   ]
 }

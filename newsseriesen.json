@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Netflix Cancels 6 TV Shows in 2024, Renews 27 Others (So Far)",
+      "Description": "There have been more TV show renewal announcements over at Netflix! This year, the streamer has renewed a ton of content, while only cancelling 6 series. We’re recapping every major renewal and cancellation decision from the fan favorite streaming service. Ke…",
+      "Url": "https://www.justjared.com/2024/09/22/netflix-cancels-6-tv-shows-in-2024-renews-27-others-so-far/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/09/netflix-cancels-2-shows-mid-production1.jpg",
+      "PublishedAt": "2024-09-22T15:30:43Z",
+      "Content": "There have been more TV show renewal announcements over at Netflix!\r\nThis year, the streamer has renewed a ton of content, while only cancelling 6 series.\r\nWe’re recapping every major renewal and can… [+135 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/66d9daba83754f1fb9918e50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "PublishedAt": "2024-09-06T12:00:00Z",
       "Content": "What to watch this weekend.\r\nCredit: Netflix / Apple / Peacock\r\nIts almost the weekend which means one thing and one thing only: Soon, youll be able to kick back and relax with a good TV show or movi… [+8719 chars]"
-    },
-    {
-      "Source": {
-        "Id": "techradar",
-        "Name": "TechRadar"
-      },
-      "Author": "tom.power@futurenet.com (Tom Power)",
-      "Title": "James Gunn's Creature Commandos TV show finally has a Max release date, and it's set to go up against two big Disney Plus series",
-      "Description": "The first project in James Gunn and Peter Safran's rebooted DC Cinematic Universe will make its streaming debut in early December.",
-      "Url": "https://www.techradar.com/streaming/hbo-max/james-gunns-creature-commandos-tv-show-finally-has-a-max-release-date-and-its-set-to-go-up-against-two-big-disney-plus-series",
-      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/GBZAeSdLvR6jkwrLRYx3Jc-1200-80.jpg",
-      "PublishedAt": "2024-09-05T16:24:53Z",
-      "Content": "Prepare yourself for a TV show-heavy start to December, everyone, because Creature Commandos, the first project in James Gunn's revived DC Cinematic Universe (DCU), has just added itself into the equ… [+4352 chars]"
     }
   ]
 }
