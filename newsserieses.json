@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 928,
+  "TotalResults": 929,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "De qué se acusa a Anna Delvey, la polémica participante de Dancing with the stars que con sus delitos inspiró una serie de Netflix, baila con tobillera electrónica",
+      "Description": "En la primera participación de la llamada ‘falsa heredera’ en el concurso de baile mostró el dispositivo adornado con brillos para combinar con su atuendo",
+      "Url": "https://www.lanacion.com.ar/espectaculos/de-que-se-acusa-a-anna-delvey-la-polemica-participante-de-dancing-with-the-stars-que-con-sus-delitos-nid23092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/anna-delvey-fingio-ser-una-rica-heredera-alemana-QVLMMI6OYJHQ3KNXRGPN35G2II.jpg?auth=866040cbaf9e324cccc2ea6f52657350626c1816c0c4ca1e304d08c7cfe2ad92&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-23T21:55:25Z",
+      "Content": "La temporada 33 del programa Dancing with the stars trajo sorpresas para los espectadores. Entre las nuevas concursantes está Anna Delvey, una joven que se dio a conocer a nivel internacional por una… [+3564 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i0.wp.com/culturacolectiva.com/wp-content/uploads/2024/09/Los-hermanos-Erik-y-Lyle-Menendez-reciben-una-sorpresiva-visita-en-prision-tras-el-estreno-de-la-pol-1.jpg?fit=1200%2C635&ssl=1",
       "PublishedAt": "2024-09-22T21:37:01Z",
       "Content": "Monsters: The Lyle and Erick Menendez Story, la nueva serie de Ryan Murphy para Netflix ha levantado una ola crítica por la gran libertad creativa que el realizador se tomó para contar la historia de… [+2052 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Pedro Espinosa",
-      "Title": "Javier Coronilla, el hombre que hace llorar a los robots",
-      "Description": "El isleño, referente internacional de animatrónica en el cine, busca ahora un nuevo mercado en los parques de atracciones\r\nRobots e Inteligencia Artificial para asistir a ancianos y dependientes: “No vienen a sustituir a las personas”\n\r\n\n La imaginación de Ja…",
-      "Url": "https://www.eldiario.es/andalucia/lacajanegra/javier-coronilla-hombre-llorar-robots_1_11669360.html",
-      "UrlToImage": "https://static.eldiario.es/clip/3c87ccf8-c50b-4877-b216-23cfb0399e9f_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-09-22T18:11:43Z",
-      "Content": "La imaginación de Javier Coronilla (San Fernando (Cádiz), 1982) siempre ha volado alto. De hecho, de niño quería ser piloto de avión. Pero su vida profesional se ha quedado en tierra. Dejó los estudi… [+1069 chars]"
     }
   ]
 }
