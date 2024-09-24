@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 761,
+  "TotalResults": 762,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Tim Lammers, Contributor, \n Tim Lammers, Contributor\n https://www.forbes.com/sites/timlammers/",
+      "Title": "Horror Thriller ‘Oddity’ Makes Streaming Debut On Shudder This Week",
+      "Description": "\"Oddity\"—a critically acclaimed horror movie that only played in limited release in theaters—begins streaming on Shudder this week. Find out when you can watch it at home.",
+      "Url": "https://www.forbes.com/sites/timlammers/2024/09/23/horror-thriller-oddity-makes-streaming-debut-on-shudder-this-week/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/66f193317aefd500ae7344b2/0x0.jpg?format=jpg&crop=1402,789,x618,y58,safe&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2024-09-23T16:30:08Z",
+      "Content": "Caroline Menton in \"Oddity.\"\r\nIFC FILMS/SHUDDER\r\nOdditya critically acclaimed horror movie that only played in limited release in theatersbegins streaming on Shudder this week.\r\nA Shudder and IFC Fil… [+2935 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-113550395,width-1070,height-580,imgsize-19966,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2024-09-21T11:11:56Z",
       "Content": "KillerHeat Trailer : Joseph Gordon-Levitt, Shailene Woodley and Richard Madden Starrer Killer Heat Official Trailer"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "TOI Entertainment Desk",
-      "Title": "'Transformers One' sees $26M opening weekend, much slower than expected",
-      "Description": "​On the other hand, Warner Bros.' *Beetlejuice* remains strong in its third weekend. The movie should take in $24.75 million this weekend from 4,172 theaters. The film takes in $6.75 million today. The domestic box office total for *Beetlejuice* will probably…",
-      "Url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/transformers-one-sees-26m-opening-weekend-much-slower-than-expected/articleshow/113548546.cms",
-      "UrlToImage": "https://static.toiimg.com/thumb/msid-113548669,width-1070,height-580,imgsize-1624748,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "PublishedAt": "2024-09-21T10:00:04Z",
-      "Content": "New animated movie *Transformers One* will see an opening weekend of $26 million, less than what was projected earlier. The movie earned $9.7 million on Friday, including preview screenings. The prev… [+2856 chars]"
     }
   ]
 }
