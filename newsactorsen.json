@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 763,
+  "TotalResults": 764,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "msmash",
+      "Title": "OpenAI Finally Brings Humanlike ChatGPT Advanced Voice Mode To US Plus, Team Users",
+      "Description": "OpenAI is rolling out its advanced voice interface for ChatGPT to all Plus and Team subscribers in the U.S., the company said Tuesday. The feature, unveiled four months ago, lets users speak to the AI chatbot instead of typing. Five new voices join the lineup…",
+      "Url": "https://slashdot.org/story/24/09/24/1924211/openai-finally-brings-humanlike-chatgpt-advanced-voice-mode-to-us-plus-team-users",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+      "PublishedAt": "2024-09-24T21:25:00Z",
+      "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://usrimg-850.fark.net/B/B_/fark_B_OjLb45CJNUFmdv9qNoFca4kQ8.jpg?AWSAccessKeyId=JO3ELGV4BGLFW7Y3EZXN&Expires=1727668800&Signature=%2Ft6wPJMhIjSKJJAizfX1hu0iXME%3D",
       "PublishedAt": "2024-09-23T18:50:10Z",
       "Content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links… [+177 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Brit + Co"
-      },
-      "Author": "Kayla Walden",
-      "Title": "Jennifer Lopez's New Netflix Rom-Com Is The Thing Of Our 'Office Romance' Dreams",
-      "Description": "Jennifer Lopez may be all over our FYPs, but she's also about to be all over the big screen as well. As some of you may know, she's producing the amazing Emily Henry adaptation Happy Place, and now she's set to work on a new romance with Ted Lasso star and wr…",
-      "Url": "https://www.brit.co/office-romace-jennifer-lopez-movie/",
-      "UrlToImage": "https://www.brit.co/media-library/brett-goldstein-jennifer-lopez-office-romance-romcom.png?id=53650496&width=1200&height=600&coordinates=0%2C38%2C0%2C265",
-      "PublishedAt": "2024-09-23T17:06:34Z",
-      "Content": "Jennifer Lopez may be all over our FYPs, but she's also about to be all over the big screen as well. As some of you may know, she's producing the amazing Emily Henry adaptation Happy Place,and now sh… [+2292 chars]"
     }
   ]
 }
