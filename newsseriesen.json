@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Aaron Kim",
+      "Title": "How to stream via a VPN on Roku",
+      "Description": "The Roku smart TV platform is an accessible way to watch your favorite streaming content in a centralized location – either built-in to TVs, or by adding affordable dongles or mini boxes, like the new-for-2024 Roku Ultra, to older televisions. One big advanta…",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b37b1ce2-8106-40b4-9b94-03e4500791fe",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-24T14:14:47Z",
+      "Content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-113151105,width-1200,height-630,imgsize-82390,overlay-etpanache/photo.jpg",
       "PublishedAt": "2024-09-07T11:21:52Z",
       "Content": "While Netflix is infamous for cancelling many of its promising shows without a by-your-leave, the streaming giant has also given many dying shows a new lease of life. One of the best examples of a ca… [+1732 chars]"
-    },
-    {
-      "Source": {
-        "Id": "polygon",
-        "Name": "Polygon"
-      },
-      "Author": "Austen Goslin",
-      "Title": "The best games to play on Netflix right now",
-      "Description": "Netflix may still be the first name you think of when you consider streaming a movie or TV show, but over the last several years, the streaming service has made in-roads toward gaming as well. In fact, your Netflix subscription actually gets you access to qui…",
-      "Url": "https://www.polygon.com/what-to-play/448049/the-best-games-to-play-on-netflix-right-now",
-      "UrlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22832462/Hades_guide_Nectar__Keepsakes__and_Ambrosia_header.png?quality=90&strip=all&crop=0%2C14.205090513394%2C100%2C71.589818973211&w=1200",
-      "PublishedAt": "2024-09-06T21:23:31Z",
-      "Content": "Netflix may still be the first name you think of when you consider streaming a movie or TV show, but over the last several years, the streaming service has made in-roads toward gaming as well. In fac… [+5558 chars]"
     }
   ]
 }

@@ -1,8 +1,86 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 923,
+  "TotalResults": 929,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "Ana Merodio",
+      "Title": "La aterradora historia tras la nueva serie de Javier Bardem en Netflix: el crimen de los Menendez",
+      "Description": "Era 1989 cuando los hermanos Lyle y Erik, quienes actualmente se encuentran cumpliendo cadena perpetúa, acabaron con la vida de sus padres Jose y Kitty Menendez",
+      "Url": "https://www.hola.com/actualidad/20240924720122/cimen-de-los-menendez-netflix-javier-bardem/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/06573924e72e-menendezfamilyportraitcompdprepd.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-09-24T14:47:51Z",
+      "Content": "Dio vida al tetrapléjico Ramón Sampedro en Mar Adentro, se metió en la piel del psicópata Anton Chigurh en la película No es país para viejos y se transformó en el villano Silva en la cinta de James … [+5583 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Cristina Sobrino",
+      "Title": "Hoy en Prime Video: no soy fan del cine bélico, pero siempre recomiendo esta película de guerra que fue una de las mejores de 2017",
+      "Description": "Las producciones en las que las masacres son las protagonistas a veces me cuestan, pero he de reconocer que si están bien planteadas me flipan. Sí, lo admito, a veces soy una chica de extremos. Eso sí, en política siempre con los que defienden algo tan básico…",
+      "Url": "https://www.trendencias.com/series-de-television/hoy-prime-video-no-soy-fan-cine-belico-siempre-recomiendo-esta-pelicula-guerra-que-fue-mejores-2017",
+      "UrlToImage": "https://i.blogs.es/ef9ad2/trendencias-pelicula-guerra-dunkerque4/840_560.jpeg",
+      "PublishedAt": "2024-09-24T14:34:22Z",
+      "Content": "Las producciones en las que las masacres son las protagonistas a veces me cuestan, pero he de reconocer que si están bien planteadas me flipan. Sí, lo admito, a veces soy una chica de extremos. Eso s… [+2772 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Randy Meeks",
+      "Title": "'Magic' no estaba muerta y vuelve como por arte de magia: Netflix muestra sus cartas desvelando a sus protagonistas",
+      "Description": "Treinta años ya contemplan a 'Magic: the gathering', el inmortal juego de cartas de Wizards of the Coast que tiene alrededor de 27.000 cartas distintas jugadas por millones de personas en todo el mundo y que puede hacer que te gastes un auténtico pastizal en …",
+      "Url": "https://www.espinof.com/en-rodaje/magic-no-estaba-muerta-vuelve-como-arte-magia-netflix-muestra-sus-cartas-desvelando-a-sus-protagonistas",
+      "UrlToImage": "https://i.blogs.es/c1f75e/magic/840_560.jpeg",
+      "PublishedAt": "2024-09-24T14:31:41Z",
+      "Content": "Treinta años ya contemplan a 'Magic: the gathering', el inmortal juego de cartas de Wizards of the Coast que tiene alrededor de 27.000 cartas distintas jugadas por millones de personas en todo el mun… [+2249 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Silvia Fernández",
+      "Title": "Esta serie sigue siendo inolvidable, la mejor historia de fantasía jamás contada sigue disponible en streaming y es el momento de volver a darle una oportunidad",
+      "Description": "Que levante la mano quien no haya tenido ganas de ver una serie después de leer sus críticas o que alguien se la haya recomendado, pero cuando ha visto la cantidad de temporadas y episodios por temporada que tenía, ha decidido pasar de largo. Efectivamente, a…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/esta-serie-sigue-siendo-inolvidable-la-mejor-historia-de-fantasia-jamas-contada-sigue-disponible-en-streaming-y-es-el-momento-de-volver-a-darle-una-oportunidad",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/09/juego-de-tronos-ok.png?width=1200",
+      "PublishedAt": "2024-09-24T14:30:55Z",
+      "Content": "Daenerys Targaryen, uno de los personajes protagonistas, de espaldas\r\nQue levante la mano quien no haya tenido ganas de ver una serie después de leer sus críticas o que alguien se la haya recomendado… [+2683 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Culturaocio.com"
+      },
+      "Author": null,
+      "Title": "Cate Blanchett, atormentada en el inquietante tráiler de Observada, la miniserie de Alfonso Cuarón",
+      "Description": "El próximo viernes 11 de octubre se estrenarán en Apple TV+ los dos primeros episodios de Observada (Disclaimer) la primera serie del multioscarizado Alfonso Cuarón. Cate Blanchett protagoniza junto a Kevin Kline este thriller psicológico de siete capítulos b…",
+      "Url": "https://www.culturaocio.com/tv/noticia-cate-blanchett-atormentada-inquietante-trailer-observada-miniserie-alfonso-cuaron-20240924160135.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240924160135_1200.jpg",
+      "PublishedAt": "2024-09-24T14:01:35Z",
+      "Content": "MADRID, 24 Sep. (CulturaOcio) -\r\n   El próximo viernes 11 de octubre se estrenarán en Apple TV+ los dos primeros episodios de Observada (Disclaimer) la primera serie del multioscarizado Alfonso Cuaró… [+2952 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Thomas H",
+      "Title": "El plan de Bill Gates que busca cambiar el rumbo de la humanidad: ¿De qué se trata?",
+      "Description": "Bill Gates ha lanzado un ambicioso plan que podría marcar un antes y un después en la historia de la humanidad. En su reciente serie documental de Netflix, aborda los grandes desafíos globales, desde el cambio climático hasta la inteligencia artificial. Descu…",
+      "Url": "https://es.gizmodo.com/el-plan-de-bill-gates-que-busca-cambiar-el-rumbo-de-la-humanidad-de-que-se-trata-2000129437",
+      "UrlToImage": "https://es.gizmodo.com/app/uploads/2024/09/Bill-Gates.jpg",
+      "PublishedAt": "2024-09-24T13:59:56Z",
+      "Content": "Más allá de su legado en Microsoft, Bill Gates se ha convertido en una figura destacada por su labor filantrópica y su interés en resolver problemas globales. Su enfoque abarca temas tan variados com… [+2249 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -314,84 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/09/23/millie-bobby-brown-vuelve-jake.jpg",
       "PublishedAt": "2024-09-23T20:49:00Z",
       "Content": "Millie Bobby Brown, quien es reconocida por su papel en la exitosa serie de Netflix, 'Stranger Things', hace cuatro meses unió su vida en matrimonio con Jake Bongiovi, hijo del famoso Jon Bon Jovi, e… [+1560 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Perfil.com"
-      },
-      "Author": "Rocío Limeres",
-      "Title": "Escándalo con la serie \"Envidiosa\": la autora rompió el silencio y aclaró en quién está inspirado el personaje de Griselda Siciliani",
-      "Description": "Carolina Aguirre habló tras ser acusada de basarse en Lucía Numer, examiga suya y escritora del libro \"Adiós Cachorra\", para crear la ficción que es un éxito en Netflix. Leer más",
-      "Url": "https://exitoina.perfil.com/noticias/destacada/escandalo-serie-envidiosa-autora-rompio-silencio-aclaro-inspirado-personaje-griselda-siciliani.phtml",
-      "UrlToImage": "https://fotos.perfil.com/2024/09/23/trim/1140/641/carolina-aguirre-la-autora-de-la-serie-envidiosa-1878274.jpg",
-      "PublishedAt": "2024-09-23T19:13:08Z",
-      "Content": "\"Envidiosa\", la nueva serie argentina de Netflix que está siendo un éxito, destapó un gran escándalo: el personaje de Griselda Siciliani estaría inspirado en una reconocida influencer argentina.\r\nEn … [+2205 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Atomix"
-      },
-      "Author": "AldoLawson",
-      "Title": "Netflix confirma nueva serie animada de Cyberpunk 2077",
-      "Description": "Recuperar la credibilidad de los fans respecto al producto de Cyberpunk 2077 no fue sencillo, dado que como fue un juego que salió con muchos problemas y reembolsos parecía que no habría mucha salvación, pero CD Projekt RED buscó reivindicarse y lo logró con …",
-      "Url": "https://atomix.vg/netflix-confirma-nueva-serie-animada-de-cyberpunk-2077/",
-      "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2024/09/edy.jpg",
-      "PublishedAt": "2024-09-23T18:34:58Z",
-      "Content": "Recuperar la credibilidad de los fans respecto al producto de Cyberpunk 2077 no fue sencillo, dado que como fue un juego que salió con muchos problemas y reembolsos parecía que no habría mucha salvac… [+1963 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "Matt Reeves confirma que la serie derivada de Arkham sigue en marcha, aunque su enfoque ha cambiado: \"Queda un largo camino para llegar a su destino\"",
-      "Description": "El asilo más famoso de los cómics está de vuelta. Tras conocer hace varias semanas que la serie derivada de The Batman centrada en el manicomio y prisión de Gotham había sido cancelada, el creador de la nueva franquicia del Caballero Oscuro ha confirmado el r…",
-      "Url": "https://www.vidaextra.com/series/matt-reeves-confirma-que-serie-derivada-arkham-sigue-marcha-su-enfoque-ha-cambiado-queda-largo-camino-para-llegar-a-su-destino",
-      "UrlToImage": "https://i.blogs.es/a8ba02/arkham/840_560.jpeg",
-      "PublishedAt": "2024-09-23T18:31:37Z",
-      "Content": "El asilo más famoso de los cómics está de vuelta. Tras conocer hace varias semanas que la serie derivada de The Batman centrada en el manicomio y prisión de Gotham había sido cancelada, el creador de… [+1446 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "Los hermanos Menendez, contra serie de Netflix: \"¿Por qué las víctimas masculinas de agresión sexual no denuncian?\"",
-      "Description": "Netflix ha estrenado Monstruos: La historia de Lyle y Erik Menendez. La miniserie, creada por Ian Brennan y Ryan Murphy, está basada en hechos reales y relata la historia de dos hermanos que acabaron con la vida de sus padres en 1989.",
-      "Url": "https://www.culturaocio.com/tv/noticia-hermanos-menendez-contra-serie-netflix-victimas-masculinas-agresion-sexual-no-denuncian-20240923190222.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20240923190222_1200.jpg",
-      "PublishedAt": "2024-09-23T17:02:22Z",
-      "Content": "MADRID, 23 Sep. (CulturaOcio) - \r\n   Netflix ha estrenado Monstruos: La historia de Lyle y Erik Menendez. La miniserie, creada por Ian Brennan y Ryan Murphy, está basada enhechos reales y relata la h… [+3655 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Joel Calata",
-      "Title": "Arrasa en Prime Video México una serie que evoca a la nostalgia y retrata el vaivén de la adolescencia en los noventa",
-      "Description": "Alguna vez leí que \"todo lo que no se recuerda está condenado a repetirse\", y hay algo de razón en esa frase: la nostalgia siempre llega para darnos un duro golpe de recuerdos del pasado y la industria del entretenimiento lo sabe a la perfección, de ahí que e…",
-      "Url": "https://www.espinof.com/amazon-prime-video/arrasa-prime-video-mexico-serie-que-evoca-a-nostalgia-retrata-vaiven-adolescencia-noventa",
-      "UrlToImage": "https://i.blogs.es/1cdced/30664012_30nama/840_560.jpeg",
-      "PublishedAt": "2024-09-23T17:01:38Z",
-      "Content": "Alguna vez leí que \"todo lo que no se recuerda está condenado a repetirse\", y hay algo de razón en esa frase: la nostalgia siempre llega para darnos un duro golpe de recuerdos del pasado y la industr… [+2421 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Xavi Mogrovejo",
-      "Title": "Henry Cavill también cae presa de Warhammer 40,000: Space Marine 2",
-      "Description": "<!--cache-->Heny Cavill está totalmente sumergido en el universo de 'Warhammer' y aplaude 'Space Marine 2' mientras prepara su serie para Amazon Prime Video.'Warhammer 40,000: Space Marine 2' tiene a la comunidad de Games Workshop dando verdaderas palmas. La …",
-      "Url": "https://vandal.elespanol.com/noticia/1350774416/henry-cavill-tambien-cae-presa-de-warhammer-40000-space-marine-2/",
-      "UrlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/9/9-2024/23/202492316524210_1.jpg",
-      "PublishedAt": "2024-09-23T16:45:00Z",
-      "Content": "'Warhammer 40,000: Space Marine 2' tiene a la comunidad de Games Workshop dando verdaderas palmas. La secuela de acción del título de 2011 desarrollado por Relic Entertainment y publicado por THQ est… [+2061 chars]"
     }
   ]
 }
