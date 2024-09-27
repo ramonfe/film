@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 770,
+  "TotalResults": 772,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "MORGAN LEE Associated Press",
+      "Title": "Judge weighs whether to dismiss movie armorer's conviction in fatal set shooting by Alec Baldwin",
+      "Description": "A judge is considering whether to dismiss a criminal conviction against a movie armorer in the shooting death of a cinematographer by actor Alec Baldwin",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/judge-weighs-dismiss-movie-armorers-conviction-fatal-set-114174405",
+      "UrlToImage": "https://i.abcnewsfe.com/a/c82b6327-d452-424e-a339-91d1bb2c7134/wirestory_53277e8c094e50bfd71dfe053dc4e97e_16x9.jpg?w=1600",
+      "PublishedAt": "2024-09-26T05:18:27Z",
+      "Content": "SANTA FE, N.M. -- A judge is planning to hear arguments in court Thursday over whether to dismiss a criminal conviction against a movie armorer in the shooting death of a cinematographer by actor Ale… [+1747 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-26T05:07:28Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
       "PublishedAt": "2024-09-24T21:25:00Z",
       "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GamesRadar+"
-      },
-      "Author": "lauren.milici@futurenet.com (Lauren Milici)",
-      "Title": "DC’s new Supergirl movie casts The Old Guard actor as its lead villain, a character you likely won't recognize",
-      "Description": "Matthias Schoenaerts is playing Krem of the Yellow Hills",
-      "Url": "https://www.gamesradar.com/entertainment/dc-movies/dcs-new-supergirl-movie-casts-the-old-guard-actor-as-its-lead-villain-a-character-you-likely-wont-recognize/",
-      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/fWbKqziHpWUs89yk5HYJBM-1200-80.jpg",
-      "PublishedAt": "2024-09-24T20:47:18Z",
-      "Content": "Supergirl: Woman of Tomorrow has cast its lead villain – and it's likely one you've never heard of.\r\nAccording to Deadline, Matthias Schoenaerts is set to play Krem of the Yellow Hills, a supervillai… [+1550 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Martina Alcheva",
-      "Title": "Ted Lasso star drops clues about more seasons amid return talk",
-      "Description": "Fans of Ted Lasso may have reason to get excited, as there are growing whispers of the beloved show returning for more seasons. Jason Sudeikis, who stars as the affable Ted Lasso, is reportedly preparing to bring the character back. Actor Lloyd Griffith expre…",
-      "Url": "https://worldsoccertalk.com/tv/ted-lasso-star-drops-clues-about-more-seasons-amid-return-talk/",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20240924_WST_530977_Ted-Lasso-seasons.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2024-09-24T19:28:17Z",
-      "Content": "Fans of Ted Lasso may have reason to get excited, as there are growing whispers of the beloved show returning for more seasons. Jason Sudeikis, who stars as the affable Ted Lasso, is reportedly prepa… [+3243 chars]"
     }
   ]
 }
