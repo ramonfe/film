@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 969,
+  "TotalResults": 970,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "YODONA.COM",
+      "Title": "Mireia Oriol, Nevenka en el cine, protagoniza la portada del nuevo número de Yo Dona",
+      "Description": "Yo Dona, la revista femenina mensual de El Mundo, vuelve a los quioscos el sábado 28 de septiembre. En su portada, Mireia Oriol, la actriz que protagoniza la película Soy Nevenka. Leer",
+      "Url": "https://www.elmundo.es/yodona/actualidad/2024/09/27/66f525e9fdddff26578b45a9.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/74eec5dc88ef7820d92dc1938518d9a0/crop/87x4/1730x2194/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/26/17273417719013.jpg",
+      "PublishedAt": "2024-09-27T00:33:51Z",
+      "Content": "En el papel de la primera mujer que denunció un caso de acoso sexual en la política española, la actriz relata cómo se sintió durante el rodaje: \"Sentía que estaba viviendo una película que no era la… [+1445 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/e5d005/peaky-blinders/840_560.jpeg",
       "PublishedAt": "2024-09-26T13:00:50Z",
       "Content": "Uno de los estrenos más esperados de Netflix para 2025 será, sin duda, la película de Peaky Blinders. Cillian Murphy regresará como Tommy Shelby para un último acto lleno de acción, y recientemente s… [+1325 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.co"
-      },
-      "Author": "Jimmy Pepinosa",
-      "Title": "¿Buscas actuar en una producción de Netflix? En esta ciudad de Colombia están buscando extras y así puedes aplicar a la convocatoria",
-      "Description": "En el segundo trimestre de 2024, Netflix registró más de 277 millones de suscriptores de pago en todo el mundo y para cualquier actor aparecer en alguna de las producciones que se encuentran disponibles en esta plataforma de streaming puede significar un gran…",
-      "Url": "https://www.xataka.com.co/servicios/buscas-salir-serie-netflix-esta-ciudad-colombia-estan-buscando-extras-asi-puedes-aplicar-a-convocatoria",
-      "UrlToImage": "https://i.blogs.es/442ad1/trabajo-/840_560.png",
-      "PublishedAt": "2024-09-26T12:53:00Z",
-      "Content": "En el segundo trimestre de 2024, Netflix registró más de 277 millones de suscriptores de pago en todo el mundo y para cualquier actor aparecer en alguna de las producciones que se encuentran disponib… [+2999 chars]"
     }
   ]
 }
