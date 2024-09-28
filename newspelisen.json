@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 804,
+  "TotalResults": 805,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Apple TV+ shifts movie strategy to be very Netflix-like, per report - 9to5Mac",
+      "Description": "Apple TV+ shifts movie strategy to be very Netflix-like, per report9to5Mac Apple Rolls Back Its Big Plans to Release Movies in TheatersBloomberg Report: Apple changes film strategy, will rarely do wide theatrical releasesArs Technica Report: Apple Shifts Movi…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175146491",
+      "UrlToImage": null,
+      "PublishedAt": "2024-09-27T22:33:12Z",
+      "Content": "Check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly a… [+228 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://tvline.com/wp-content/uploads/2024/09/deadpool-wolverine-how-to-stream.jpg?w=650",
       "PublishedAt": "2024-09-26T18:01:39Z",
       "Content": "Deadpool &amp; Wolverine will soon be available to buy and stream online. Here’s everything you need to know about watching the superhero movie from home.\r\nThe film — which became the MCU’s fifth hig… [+2016 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Chicago Reader"
-      },
-      "Author": "Andrea Thompson",
-      "Title": "Review: Patrice: The Movie",
-      "Description": "Patrice: The Movie in limited release in theaters and streaming on Hulu\nThe post Review: Patrice: The Movie appeared first on Chicago Reader.",
-      "Url": "http://chicagoreader.com/film/movie-review/review-patrice-the-movie/",
-      "UrlToImage": "https://chicagoreader.com/wp-content/uploads/2024/09/patrice.png",
-      "PublishedAt": "2024-09-26T18:00:25Z",
-      "Content": "Theres a real undercurrent of anger and frustration in the documentary Patrice: The Movie. It should be rage.\r\nBut rage isnt something any of its subjects can give into. Not when theyre struggling to… [+2718 chars]"
     }
   ]
 }
