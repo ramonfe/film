@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 66,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Brit + Co"
+      },
+      "Author": "Emily Stone",
+      "Title": "13 TV & Movie Adaptations That Are Just As Good As The Book (Yes, Really)",
+      "Description": "There are many moments that shape a young woman’s life. For me, I distinctly remember watching Holes and then being so excited to read the book. We were driving home from the movie theater and my mom had the book in her car (no, it’s not odd, she’s an English…",
+      "Url": "https://www.brit.co/tv-and-movie-adaptations/",
+      "UrlToImage": "https://www.brit.co/media-library/tv-and-movie-adaptations.png?id=53701799&width=1200&height=600&coordinates=0%2C12%2C0%2C14",
+      "PublishedAt": "2024-09-27T18:14:16Z",
+      "Content": "There are many moments that shape a young womans life. For me, I distinctly remember watching Holes and then being so excited to read the book. We were driving home from the movie theater and my mom … [+16570 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-07T14:41:17Z",
       "Content": "Description: The most comprehensive video downloading solution allows you to download videos from Amazon Prime, Netflix, Hulu, Disney+, HBO, and over 1000 other streaming websites. \r\nOn-demand videos… [+6006 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "How to use a VPN on Roku",
-      "Description": "The Roku smart TV platform is an accessible way to watch your favorite streaming content in a centralized location – either built-in to TVs, or by adding affordable dongles or set-top boxes to older televisions. However, a common frustration for any smart TV …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=174941792",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-07T13:13:28Z",
-      "Content": "The Roku smart TV platform is an accessible way to watch your favorite streaming content in a centralized location – either built-in to TVs, or by adding affordable dongles or set-top boxes to older … [+2690 chars]"
     }
   ]
 }
