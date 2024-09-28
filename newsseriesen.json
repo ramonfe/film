@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 68,
+  "TotalResults": 69,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Author: Sam Singleton",
+      "Title": "PrivadoVPN review: Come for the free VPN, stay for the premium features",
+      "Description": "At a glanceExpert's Rating\r\n\n\nPros\r\n\n<ul>\n<li>Excellent free version</li>\n\n\n\n<li>Unblocks streaming services</li>\n\n\n\n<li>10 simultaneous device connections</li>\n\n\n\n<li>Based in privacy-friendly Switzerland</li>\n</ul>\n\r\n\n\n\n\nCons\r\n\n<ul>\n<li>No independent audit…",
+      "Url": "https://www.pcworld.com/article/2455337/privado-vpn-review-2.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/09/PrivadoVPN_horizontal_Color_177c9c.png?w=1024",
+      "PublishedAt": "2024-09-27T14:30:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nAt a glance<ul><li>E… [+11920 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-07T13:13:28Z",
       "Content": "The Roku smart TV platform is an accessible way to watch your favorite streaming content in a centralized location – either built-in to TVs, or by adding affordable dongles or set-top boxes to older … [+2690 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-07T13:00:09Z",
-      "Content": "[Removed]"
     }
   ]
 }
