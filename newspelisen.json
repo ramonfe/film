@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 812,
+  "TotalResults": 813,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Forbes"
+      },
+      "Author": "Jordi Lippe-McGraw, Contributor, \n Jordi Lippe-McGraw, Contributor\n https://www.forbes.com/sites/jordilippemcgraw/",
+      "Title": "This Hotel In Ireland Makes Kids Feel Like Royalty",
+      "Description": "At Ashford Castle in Ireland, kids are treated like royalty with crowns, Lego butlers, custom adventures, personalized touches, and even their own private movie theater.",
+      "Url": "https://www.forbes.com/sites/jordilippemcgraw/2024/09/28/this-hotel-in-ireland-makes-kids-feel-like-royalty/",
+      "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/66f6ca7b4955ae5e9bcd077a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "PublishedAt": "2024-09-28T15:04:00Z",
+      "Content": "Ashford Castle makes both adults and kids feel like royalty.\r\nAervisions\r\nPicture this: your child, decked out in a crown, wandering the halls of a 13th-century castle. Not just any castlethis is Ash… [+5303 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-27T02:35:00Z",
       "Content": "Mumbai, Sept 26: The Central Board of Film Certification on Thursday told the Bombay High Court that a certificate would be issued to Kangana Ranuat’s film “Emergency” if certain cuts are made, as re… [+2129 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Variety"
-      },
-      "Author": "Varietymattdonnelly",
-      "Title": "AMC Theatres Chief Adam Aron Projects ‘Bright Future’ for Cinemas With Massive Upgrades Including $100 Million Coke Machine Investment",
-      "Description": "Adam Aron, CEO of the nation’s largest movie theater chain AMC Theatres, refuses to hide his optimism.  After a wild year of bankruptcy speculation, debt repayment extensions, revised credit ratings and a few billion dollars in box office earnings, the eterna…",
-      "Url": "https://variety.com/2024/film/news/amc-theatres-adam-aron-optimistic-upgrades-1236157370/",
-      "UrlToImage": "https://variety.com/wp-content/uploads/2024/09/adam.jpg?w=1000&h=563&crop=1",
-      "PublishedAt": "2024-09-26T23:41:06Z",
-      "Content": "Adam Aron, CEO of the nation’s largest movie theater chain AMC Theatres, refuses to hide his optimism. \r\nAfter a wild year of bankruptcy speculation, debt repayment extensions, revised credit ratings… [+2911 chars]"
     }
   ]
 }
