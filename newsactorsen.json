@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 766,
+  "TotalResults": 767,
   "Articles": [
+    {
+      "Source": {
+        "Id": "news-com-au",
+        "Name": "News.com.au"
+      },
+      "Author": "Nick Bond",
+      "Title": "Music and movie legend Kris Kristofferson dead",
+      "Description": "Legendary singer and actor Kris Kristofferson has died at the age of 88, it’s been reported today.",
+      "Url": "https://www.news.com.au/entertainment/celebrity-life/celebrity-deaths/music-and-movie-legend-kris-kristofferson-dead/news-story/aa8977491a934c7624a3800cdb0f6693",
+      "UrlToImage": "https://content.api.news/v3/images/bin/6aec3b2f348a297d0de5c05e92d5f948",
+      "PublishedAt": "2024-09-29T22:45:00Z",
+      "Content": "Legendary singer and actor Kris Kristofferson has died at the age of 88, it’s been reported today. \r\nThe acclaimed country singer-songwriter who also starred in films including the 1976 version of A … [+1507 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://deadline.com/wp-content/uploads/2024/09/GettyImages-1441291583-e1727464096870.jpg?w=1024",
       "PublishedAt": "2024-09-27T20:00:00Z",
       "Content": "EXCLUSIVE: Oscar-nominated singer-songwriter Björk previewed a clip from her new movie Cornucopiaat Climate Week today.\r\nThe 16x Grammy nominee and Cannes Film Festival winning actress is the creativ… [+2181 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "observer.com",
-      "Title": "Why OpenAI’s ‘Strawberry’ Reasoning Model Is a Big Deal",
-      "Description": "Ever watched the 2013 movie Her? It stars the actor Joaquin Phoenix as Theodore, a man who forms a deep romantic relationship with a self-aware artificial intelligence (A.I.) named Samantha, voiced by Scarlett Johansson. Fast forward to today, a ‘conscious A.…",
-      "Url": "https://biztoc.com/x/cbdd1b573ceb2881",
-      "UrlToImage": "https://biztoc.com/cdn/802/og.png",
-      "PublishedAt": "2024-09-27T19:55:01Z",
-      "Content": "Ever watched the 2013 movie Her? It stars the actor Joaquin Phoenix as Theodore, a man who forms a deep romantic relationship with a self-aware artificial intelligence (A.I.) named Samantha, voiced b… [+134 chars]"
     }
   ]
 }
