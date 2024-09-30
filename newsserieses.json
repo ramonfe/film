@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 978,
+  "TotalResults": 979,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Se acaba de estrenar en Netflix y ya se convirtió en la comedia romántica más vista",
+      "Description": "Nadie quiere esto es una serie que desembarcó en el gigante del streaming este jueves y, en pocas horas, se posicionó como una de las más vistas; por qué deslumbró a los suscriptores",
+      "Url": "https://www.lanacion.com.ar/espectaculos/se-acaba-de-estrenar-en-netflix-y-ya-se-convirtio-en-la-comedia-romantica-mas-vista-nid28092024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/nadie-quiere-esto-desembarco-en-netflix-hace-48-UXI2IMNYMJBVPDGQDRFEAIEK3U.jpg?auth=bbb0d75ec2e88a1ecd0b8325a9aa86bf975cb90bf9b18f4d88e856de8191d1e6&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-09-29T00:45:52Z",
+      "Content": "Netflix no deja de sorprender con su amplio catálogo. Suspenso, romance, terror, acción, infantiles, historias reales, documentales, producciones clásicas y hasta estrenos, todas tienen su espacio de… [+2380 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://fotos.perfil.com/2024/09/27/trim/1140/641/los-3-looks-de-griselda-siciliani-en-envidiosa-que-marcaran-tendencia-en-2025-1881043.jpg",
       "PublishedAt": "2024-09-27T16:43:05Z",
       "Content": "Los tres looks deGriselda Sicilianien \"Envidiosa\" que marcarán tendencia en 2025 son un reflejo del excelente trabajo de Lorena Díaz, diseñadora de vestuario de la serie. A través de su experiencia y… [+3016 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Amaia Sanz",
-      "Title": "'Heartstopper': Kit Connor y Joe Locke revelan las consecuencias del largo rodaje de las escenas de sexo",
-      "Description": "PRIMERAS VECES Los protagonistas se encuentran en plena promoción de la que será la tercera temporada de la serie juvenil de Netflix.'Heartstopper': Kit Connor y Joe Locke revelan las consecuencias del largo rodaje de las escenas de sexo",
-      "Url": "https://www.ecartelera.com/noticias/heartstopper-connor-locke-escenas-intimas-nueva-temporada-78451/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/78400/78451-h2.jpg",
-      "PublishedAt": "2024-09-27T15:56:15Z",
-      "Content": "Sabíamos que el tono de 'Heartstopper' iba a cambiar esta temporada. En el tráiler ya se pudo ver una estética más oscura para representar las nuevas tramas que son más profundas. Pero, por si había … [+3416 chars]"
     }
   ]
 }
