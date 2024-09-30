@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 765,
+  "TotalResults": 766,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hollywood Reporter"
+      },
+      "Author": "Zoe G. Phillips",
+      "Title": "John Ashton Dead: 'Beverly Hills Cop' Actor Was 76",
+      "Description": "Ashton played Detective Sergeant John Taggart in several installments of the Eddie Murphy-led movie series.",
+      "Url": "http://www.hollywoodreporter.com/movies/movie-news/john-ashton-dead-beverly-hills-cop-actor-1236017328/",
+      "UrlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/09/JohnAshton.jpeg?w=1296&h=730&crop=1",
+      "PublishedAt": "2024-09-29T19:02:43Z",
+      "Content": "John Ashton, known for playing John Taggert in Beverly Hills Cop and its various sequels, has died. He was 76. \r\nAshton died on Thursday in Fort Collins, Colorado, his manager Alan Somers told The Ho… [+1680 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://biztoc.com/cdn/802/og.png",
       "PublishedAt": "2024-09-27T19:55:01Z",
       "Content": "Ever watched the 2013 movie Her? It stars the actor Joaquin Phoenix as Theodore, a man who forms a deep romantic relationship with a self-aware artificial intelligence (A.I.) named Samantha, voiced b… [+134 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Drum"
-      },
-      "Author": "Audrey Kemp",
-      "Title": "Gary Sinise embraces his inner couch potato for Pluto TV",
-      "Description": "In two new ads by Haymaker, The CSI: NY and Forrest Gump star slips into a spud suit to rave about the free ad-supported streaming service to show that binge-watching greatness comes free — no strings (or fries) attached.Pluto TV, the free ad-supported stream…",
-      "Url": "https://www.thedrum.com/news/2024/09/27/gary-sinise-embraces-his-inner-couch-potato-pluto-tv",
-      "UrlToImage": "https://thedrum-media.imgix.net//thedrum-prod/s3/news/353803/plutotvad.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "PublishedAt": "2024-09-27T19:34:00Z",
-      "Content": "In two new ads by Haymaker, The CSI: NY and Forrest Gump star slips into a spud suit to rave about the free ad-supported streaming service to show that binge-watching greatness comes free no strings … [+1768 chars]"
     }
   ]
 }
