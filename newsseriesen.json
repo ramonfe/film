@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": "polygon",
+        "Name": "Polygon"
+      },
+      "Author": "Petrana Radulovic",
+      "Title": "Every movie and show coming to Netflix in October",
+      "Description": "Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. A lot of horror movies from the b…",
+      "Url": "https://www.polygon.com/entertainment/458016/ew-netflix-october-2024-movies-tv-to-watch",
+      "UrlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/08/Tomb_Raider__The_Legend_of_Lara_Croft_u_S1_E2_00_15_43_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "PublishedAt": "2024-09-30T20:47:43Z",
+      "Content": "Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s … [+18643 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-09T14:13:40Z",
       "Content": "For Apple followers, the biggest tech day of the year is finally here: The Apple iPhone 16 launch event. It'll take place later today, September 9, at 1PM ET in Cupertino, CA, and you can stream it l… [+13315 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Lawrence Bonk",
-      "Title": "Apple Event 2024: All the iPhone 16, Apple Watch and AirPods news expected today",
-      "Description": "For Apple followers, the biggest tech day of the year is finally here: The Apple iPhone 16 launch event. It'll take place later today, September 9, at 1PM ET in Cupertino, CA, and you can stream it live on YouTube or the company's website. We'll also be live-…",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_73b84f7e-c15e-429e-bef2-f5acc2962bdd",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-09T14:10:25Z",
-      "Content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
