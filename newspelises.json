@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 140,
+  "TotalResults": 141,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Esteban García Marcos",
+      "Title": "Esta película está arrasando a sus rivales, es lo más visto en streaming y ya fue la más taquillera en cines. No te la puedes perder",
+      "Description": "Hay películas que se convierten automáticamente en historia viva del cine nada más son estrenadas. No solo por lo que consiguen recaudar, ya que muchas de las películas más taquilleras acaban siendo bastante olvidables en el futuro, sino que además son pelícu…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/esta-pelicula-esta-arrasando-a-sus-rivales-es-lo-mas-visto-en-streaming-y-ya-fue-la-mas-taquillera-en-cines-no-te-la-puedes-perder",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/inside-out-recuerdos.webp?width=1200",
+      "PublishedAt": "2024-10-02T14:15:53Z",
+      "Content": "La cinta no para de arrasar, fue lo más taquillero en cines y ahora está triunfando en streaming\r\nHay películas que se convierten automáticamente en historia viva del cine nada más son estrenadas. No… [+3412 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/3859e1/ldg5nczb4u1p4o5pulxtdthpmyx/840_560.jpeg",
       "PublishedAt": "2024-09-26T15:46:45Z",
       "Content": "Son muy pocas las películas que, sin intentar ser moralinas o aleccionadoras, dejan en nosotros una sensación de reflexión profunda que nos acompaña durante toda la vida, y una de ellas está subiendo… [+3087 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Alexandra González",
-      "Title": "\"Deadpool &Wolverine\" se prepara para los Oscar 2025: Hugh Jackman y Ryan Reynolds lideran la campaña",
-      "Description": "La última película del UCM 'Deadpool & Wolverine', protagonizado por Ryan Reynolds y Hugh Jackman, no solo ha conquistado a las audiencias, sino que ahora apunta a la temporada de premios más importante del cine, incluyendo los Oscar.Marvel Studios y Disney e…",
-      "Url": "https://www.milenio.com/espectaculos/cine/deadpool-y-wolverine-preparan-campana-competir-oscar-2025",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/09/26/deadpool-wolverine-preparan-campana-competir.jpg",
-      "PublishedAt": "2024-09-26T13:23:00Z",
-      "Content": "La última película del UCM 'Deadpool &amp; Wolverine', protagonizado por Ryan Reynolds y Hugh Jackman, no solo ha conquistado a las audiencias, sino que ahora apunta a la temporada de premios más imp… [+2573 chars]"
     }
   ]
 }
