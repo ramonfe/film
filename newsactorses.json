@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1004,
+  "TotalResults": 1005,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La vida actual de Sofía Nieto tras desaparecer de la televisión: de protagonizar 'Aquí no hay quien viva' a ser profesora",
+      "Description": "Algunas series de televisión marcan a los espectadores para siempre, como es el caso de 'Aquí No Hay Quien Viva' . Tras seis temporadas y más de 90 capítulos, la serie, que dejó terminó en 2006 per siguió emitiéndose en Antena 3 y Neox varios años más, sigue …",
+      "Url": "https://www.abc.es/gente/vida-actual-sofia-nieto-tras-desaparecer-television-20241003080000-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2024/10/03/sofia-nieto--k58E-U60314443345903H-1200x840@diario_abc.jpg",
+      "PublishedAt": "2024-10-03T06:00:02Z",
+      "Content": "Algunas series de televisión marcan a los espectadores para siempre, como es el caso de 'Aquí No Hay Quien Viva'. Tras seis temporadas y más de 90 capítulos, la serie, que dejó terminó en 2006 per si… [+3712 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/7a6277d5-c706-49df-9991-5586de2a49f1_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-10-02T12:25:33Z",
       "Content": "El universo The Walking Dead vuelve a coger fuerza en televisión, con el lanzamiento este mismo 3 de octubre de la segunda temporada de The Walking Dead: Daryl Dixon, el spin-off centrado en el perso… [+3464 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "La docuserie sobre la baronesa Thyssen queda paralizada en Netflix por diferencias con la productora",
-      "Description": "Ocho meses después de su presentación en público, la docuserie sobre Tita Cervera ha quedado paralizada\r\nEntrevista - 'Las Abogadas' de TVE, contra silenciar su historia: “Los libros de texto los hacen señores, y dependen de su ideología”\r\n\n Fue el pasado mes…",
-      "Url": "https://www.eldiario.es/vertele/noticias/docuserie-baronesa-thyssen-paralizada-netflix-diferencias-productora-komodo-studio_1_11700054.html",
-      "UrlToImage": "https://static.eldiario.es/clip/3c1918de-09be-4011-a800-efe40a936489_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-10-02T12:15:47Z",
-      "Content": "Fue el pasado mes de febrero cuando Netflix anunció que iba a grabar una serie documental sobre Tita Cervera. “Es el momento de contar mi vida desde el principio”, declaró la baronesa Thyssen en el a… [+1233 chars]"
     }
   ]
 }
