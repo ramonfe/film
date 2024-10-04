@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 781,
+  "TotalResults": 769,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Blair Marnell",
+      "Title": "Disney+ Removes Four Indiana Jones Movies, Leaving Just One Left",
+      "Description": "Last year, during the run up to the release of Indiana Jones and the Dial of Destiny, Disney brought the first four films--Raiders of the Lost Ark, Indiana Jones and the Temple of Doom, Indiana Jones and the Last Crusade, and Indiana Jones and the Kingdom of …",
+      "Url": "https://www.gamespot.com/articles/disney-removes-four-indiana-jones-movies-leaving-just-one-left/1100-6526898/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4378499-raidersofthelostark.jpg",
+      "PublishedAt": "2024-10-03T18:43:00Z",
+      "Content": "Last year, during the run up to the release of Indiana Jones and the Dial of Destiny, Disney brought the first four films--Raiders of the Lost Ark, Indiana Jones and the Temple of Doom, Indiana Jones… [+1324 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Boston Herald"
+      },
+      "Author": "Brian Niemietz",
+      "Title": "Daniel Day-Lewis ends retirement to star in son’s film",
+      "Description": "Daniel Day-Lewis is coming out of retirement to star in a film he co-wrote with his son. A release date for their movie \"Anemone\" has not been announced.",
+      "Url": "https://www.bostonherald.com/2024/10/03/daniel-day-lewis-ends-retirement-anemone-movie-son-ronan/",
+      "UrlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/10/GettyImages-1927549619_cf6100.jpg?w=1024&h=843",
+      "PublishedAt": "2024-10-03T18:19:43Z",
+      "Content": "Academy Award-winning actor Daniel Day-Lewis is coming out of retirement to appear in his son’s upcoming feature film “Anemone.”\r\nDaniel and Ronan Day-Lewis co-wrote the movie about familial bonds wi… [+1533 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.brit.co/media-library/timothee-chalamet-marty-supreme.jpg?id=53718072&width=1200&height=600&coordinates=67%2C36%2C84%2C191",
       "PublishedAt": "2024-10-02T17:09:00Z",
       "Content": "Celebrities really aren't that different from us. They experiment with their fashion, they have their tried-and-true party recipes, and they get serious celebrity crushes. And we can actually thank G… [+2847 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-02T17:05:19Z",
-      "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slate Magazine"
-      },
-      "Author": "Dan Kois",
-      "Title": "The Kings of ’90s Indie Rock Just Played Their Own “Eras” Tour. They Called It “The End of Our Career.”",
-      "Description": "Pavement celebrated the release of the new movie about them with a one-off show. Was it their last?",
-      "Url": "https://slate.com/culture/2024/10/pavement-band-movie-documentary-concert-pavements-tour.html",
-      "UrlToImage": "https://compote.slate.com/images/37ef7699-1697-415c-82be-0998aff92434.jpeg?width=1560",
-      "PublishedAt": "2024-10-02T16:28:27Z",
-      "Content": "The night before the New York premiere of Pavements, Alex Ross Perrys prismatic, inventive, maddeningly clever documentary about the poster children for success-shy 90s indie rock, the band themselve… [+5108 chars]"
     }
   ]
 }
