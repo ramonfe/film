@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1002,
+  "TotalResults": 1003,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "DW (English)"
+      },
+      "Author": "Deutsche Welle",
+      "Title": "Médico acusado por muerte de Matthew Perry se declara culpable",
+      "Description": "Mark Chávez se declaró culpable ante un tribunal de Los Ángeles por conspiración para distribuir ketamina, droga que le fue suministrada al actor de la famosa serie Friends.",
+      "Url": "https://www.dw.com/es/m%C3%A9dico-acusado-por-muerte-de-matthew-perry-se-declara-culpable/a-70392543",
+      "UrlToImage": "https://static.dw.com/image/69956607_6.jpg",
+      "PublishedAt": "2024-10-03T02:28:00Z",
+      "Content": "Uno de los médicos acusados de la muerte del actor estadounidense Matthew Perry se declaró este miércoles (02.10.2024) culpable de un cargo de conspiración por distribuir la ketamina que causó el fal… [+1809 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2024/10/02/caso-sancho-rodolfo-dinero-nilson-dominguez-U12625638443Sun-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-10-02T10:47:53Z",
       "Content": "El «caso Sancho» no ha muerto, ni mucho menos. Muy al contrario, sigue generando un enorme caudal de noticias porque sus protagonistas siguen ofreciendo jugosos testimonios y porque todavía quedan mu… [+2915 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Europa Press, Redacción verTele",
-      "Title": "Muere John Amos, actor de series como 'Raíces, 'El ala oeste de la Casa Blanca' y 'El Príncipe de Bel-Air', a los 84 años",
-      "Description": "El intérprete falleció a mediados de agosto, aunque no ha sido hasta ahora cuando ha trascendido la noticia de su fallecimiento. Tuvo dilatada carrera en televisión, pero también en el cine, donde participó en películas como 'El príncipe de Zamunda' y su secu…",
-      "Url": "https://www.eldiario.es/vertele/noticias/muere-john-amos-actor-series-raices-ala-oeste-casa-blanca-principe-bel-air-84-anos_1_11699675.html",
-      "UrlToImage": "https://static.eldiario.es/clip/52fd5405-6fb9-44ba-b09a-30d8a4fa1890_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-10-02T10:34:02Z",
-      "Content": "John Amos, actor que dio vida a la versión adulta de Kunta Kinte en la miniserie Raíces, ha muerto a los 84 años. El actor, que también apareció en títulos como El príncipe de Zamunda o la secuela de… [+4382 chars]"
     }
   ]
 }
