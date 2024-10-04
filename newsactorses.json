@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1001,
+  "TotalResults": 1002,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "MARTA SOTILLO",
+      "Title": "Camila Morrone, la modelo que se convirtió en actriz: \"A la hora de meterte en un papel, el maquillaje y el peinado te cambian la energía, la actitud, los gestos...",
+      "Description": "Argentina antes que estadounidense, actriz después de modelo, quien saltara a la fama con la serie Todos quieren a Daisy Jones es hoy embajadora de Nars, icónica marca de colorido que cumple 30 años. La excusa perfecta para saber un poco más de Camila Morrone…",
+      "Url": "https://www.elmundo.es/yodona/belleza/2024/10/03/66fa9558e9cf4ac7718b4572.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/a935144b24601742f5aebb97d8881708/crop/341x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/30/17277019411394.jpg",
+      "PublishedAt": "2024-10-03T00:41:35Z",
+      "Content": "A Camila Morrone (Los Ángeles, 1997), su entrevista telefónica con YO DONA la ha hecho madrugar. Todavía no ha amanecido en Nueva York, la ciudad que hoy la acoge tanto para vivir como para rodar, pe… [+5568 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/52fd5405-6fb9-44ba-b09a-30d8a4fa1890_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-10-02T10:34:02Z",
       "Content": "John Amos, actor que dio vida a la versión adulta de Kunta Kinte en la miniserie Raíces, ha muerto a los 84 años. El actor, que también apareció en títulos como El príncipe de Zamunda o la secuela de… [+4382 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "FormulaTV",
-      "Title": "Irene Escolar ('Las abogadas'): \"Del encuentro con Manuela Carmena salí con mucho optimismo por la vida\"",
-      "Description": "ENTREVISTA Entrevistamos a la actriz que da vida a la abogada y exalcaldesa de Madrid en esta serie de La 1.Irene Escolar ('Las abogadas'): \"Del encuentro con Manuela Carmena salí con mucho optimismo por la vida\"",
-      "Url": "https://www.formulatv.com/videos/irene-escolar-las-abogadas-manuela-carmena-28550/",
-      "UrlToImage": "https://www.formulatv.com/images/videos/28000/f28550-ft.jpg",
-      "PublishedAt": "2024-10-02T10:02:00Z",
-      "Content": "ENTREVISTA\r\nEntrevistamos a la actriz que da vida a la abogada y exalcaldesa de Madrid en esta serie de La 1.\r\n171\r\n<ul><li>\"Más allá de unos hechos concretos, hemos intentado quedarnos con la esenci… [+1819 chars]"
     }
   ]
 }
