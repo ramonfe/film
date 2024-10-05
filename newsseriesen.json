@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Hans-Christian Dirscherl, Joel Lee",
+      "Title": "Bad news for Amazon Prime Video viewers! More ads are on the way",
+      "Description": "Amazon apparently wants to milk Prime Video even further by showing more ads than ever before. According to Ars Technica, Amazon will test how much advertising it can get away with before Prime Video viewers revolt (or even cancel their subscriptions altogeth…",
+      "Url": "https://www.pcworld.com/article/2478728/bad-news-for-amazon-prime-video-viewers-more-ads-are-on-the-way.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/10/AmazonPrimeVideo.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2024-10-04T16:33:21Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nAmazon apparently wa… [+2593 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/08/Time-Bandits-1.jpg?resize=1200,630",
       "PublishedAt": "2024-09-17T17:14:22Z",
       "Content": "Fans of the recently released sci-fantasy show Time Bandits have some bad news. The Taika Waititi-led series created for Apple TV+ has been canceled. The show, which follows a team of thieves, includ… [+1216 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "First Showing"
-      },
-      "Author": "Alex Billington",
-      "Title": "Creepy Netflix Teaser for Anna Kendrick's 'Woman of the Hour' Thriller",
-      "Description": "\"You have this Patti Smith vibration thing going on.\" Netflix has revealed their own teaser for Woman of the Hour, marking the directorial debut of Anna Kendrick. Netflix is releasing this in the US streaming on their service in October, though it's getting a…",
-      "Url": "https://www.firstshowing.net/2024/creepy-netflix-teaser-for-anna-kendricks-woman-of-the-hour-thriller/",
-      "UrlToImage": "https://media2.firstshowing.net/firstshowing/img16/WomanoftheHourFullPosterTW2.jpg",
-      "PublishedAt": "2024-09-17T13:51:29Z",
-      "Content": "by Alex BillingtonSeptember 17, 2024Source:YouTube\r\n\"You have this Patti Smith vibration thing going on.\" Netflix has revealed their own teaser for Woman of the Hour, marking the directorial debut of… [+2428 chars]"
     }
   ]
 }
