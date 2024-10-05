@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 142,
+  "TotalResults": 143,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La Fiesta del Cine vuelve a Sevilla con entradas a 3,5 euros: fechas y salas adheridas",
+      "Description": "Vuelve la Fiesta del Cine a Sevilla, tras la última edición que se celebró en el mes de junio, los sevillanos podrán disfrutar una vez más este año del cine a un precio especial durante cuatro días seguidos . Como suele ser habitual, en esta edición volverán …",
+      "Url": "https://www.abc.es/queplan/sevilla/que-hacer/fiesta-cine-vuelve-sevilla-entradas-euros-fechas-20241004110656-nts.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/queplan/2024/10/04/fiesta-cine-sevilla-U62034718618mwm-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-10-04T09:06:56Z",
+      "Content": "Vuelve la Fiesta del Cine a Sevilla, tras la última edición que se celebró en el mes de junio, los sevillanos podrán disfrutar una vez más este año del cine a un precio especial durante cuatro días s… [+1335 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/cba3bd/tiger-stripes/840_560.jpeg",
       "PublishedAt": "2024-09-29T11:01:09Z",
       "Content": "Ir al cine a veces puede ser más estratégico que una partida de Catan. Si bien los grandes estrenos se publicitan en múltiples ventanas y aguantan semanas (e incluso meses) en cartelera, hay otros má… [+3040 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Ricardo Cervantes Villegas",
-      "Title": "Andrew Garfield anuncia que volverá a la actuación tras su descanso de un año",
-      "Description": "En el año 2022 el famosoactor, Andrew Garfield, reveló que estaría tomándose un tiempo de receso luego de haber sido nominado para los premios de La Academia por su participación en el musical de Netflix, Tic Tic Boom; pues había sido bastante desgastante y q…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/andrew-garfield-anuncia-su-regreso-a-la-actuacion-con-we-live-in-time",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/09/28/andrew-garfield-anuncia-regreso-actuacion.jpg",
-      "PublishedAt": "2024-09-28T20:40:00Z",
-      "Content": "En el año 2022 el famoso actor, Andrew Garfield, reveló que estaría tomándose un tiempo de receso luego de haber sido nominado para los premios de La Academia por su participación en el musical de Ne… [+3224 chars]"
     }
   ]
 }
