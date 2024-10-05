@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Variety"
+      },
+      "Author": "Naman Ramachandran",
+      "Title": "Indian King of Comedy Kapil Sharma, Star of Busan Film ‘Zwigato,’ Takes on Global Streaming With Hit Netflix Show (EXCLUSIVE)",
+      "Description": "Indian comedy sensation Kapil Sharma, who starred in Nandita Das’ 2022 Busan selection “Zwigato,” has successfully transitioned his long-running TV show to Netflix, with “The Great Indian Kapil Show” now reaching audiences worldwide. “The Kapil Sharma Show” w…",
+      "Url": "https://variety.com/2024/global/news/kapil-sharma-show-netflix-1236168028/",
+      "UrlToImage": "https://variety.com/wp-content/uploads/2024/10/The-Great-Indian-Kapil-Show.jpg?w=1000&h=563&crop=1",
+      "PublishedAt": "2024-10-04T05:23:33Z",
+      "Content": "Indian comedy sensation Kapil Sharma, who starred in Nandita Das’ 2022 Busan selection “Zwigato,” has successfully transitioned his long-running TV show to Netflix, with “The Great Indian Kapil Show”… [+3780 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-16T20:52:19Z",
       "Content": "The Roku smart TV platform is an accessible way to watch your favorite streaming content in a centralized location – either built-in to TVs, or by adding affordable dongles or set-top boxes to older … [+3600 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-16T20:17:41Z",
-      "Content": "[Removed]"
     }
   ]
 }
