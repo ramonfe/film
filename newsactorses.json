@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1012,
+  "TotalResults": 1013,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Quién es Laura Moure, azafata de 'La Ruleta de la Suerte': su edad, su novio y su papel en una conocida serie",
+      "Description": "Entre los muchos programas de entretenimiento que existen en televisión, los concursos suelen ser uno de los formatos más atractivos para el público. Si pensamos en algunos de los más exitosos en nuestro país, es muy posible que la mayoría de personas coincid…",
+      "Url": "https://www.abc.es/play/television/noticias/quien-es-laura-moure-azafata-ruleta-suerte-edad-novio-papel-serie-20241005133316-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/10/05/laura-ruleta-suerte-kRWD-U603145790766UCF-1200x840@diario_abc.jpg",
+      "PublishedAt": "2024-10-05T17:30:00Z",
+      "Content": "Entre los muchos programas de entretenimiento que existen en televisión, los concursos suelen ser uno de los formatos más atractivos para el público. Si pensamos en algunos de los más exitosos en nue… [+3703 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2024/10/04/joaquin-phoenix-boda-secreta-U35828774163DQV-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-10-04T11:34:12Z",
       "Content": "El mundo del cine está de nuevo pendiente de la vida privada de una de las parejas más enigmáticas de Hollywood: Joaquin Phoenix (49 años) y Rooney Mara (39 años). A pesar de haber mantenido su relac… [+2376 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Publico.es"
-      },
-      "Author": "Página 12",
-      "Title": "Milei copia un monólogo de la serie 'El Ala Oeste de la Casa Blanca' en su discurso de la ONU",
-      "Description": "El presidente de Argentina repitió palabra por palabra lo que recita el actor Martin Sheen en la serie de finales de los 90, donde interpreta al mandatario estadounidense.",
-      "Url": "https://www.publico.es/internacional/milei-copia-monologo-serie-ala-oeste-casa-blanca-discurso-onu.html",
-      "UrlToImage": "https://www.publico.es/uploads/2024/10/04/66ffa8f708e42.jpeg",
-      "PublishedAt": "2024-10-04T11:24:00Z",
-      "Content": "Javier Milei, presidente de argentina, plagió en su discurso del pasado 24 de septiembre en Nueva York, dentro del marco de las Naciones Unidas, un monólogo de la serie estadounidense de finales de l… [+3499 chars]"
     }
   ]
 }
