@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1002,
+  "TotalResults": 1003,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elperiodico.com"
+      },
+      "Author": "Nando Salvà",
+      "Title": "Patricia López Arnaiz, Concha de Plata en San Sebastián, sobre ser actriz: Hace que sienta dudas, que tenga miedo, que duerma mal",
+      "Description": "Su irrupción en el cine español es una de las más rotundas que se recuerdan. Surgida aparentemente de la nada -dichosas apariencias-, desde el principio se mostró como una actriz ya experta, ya completamente formada, ya modélica e influyente. Y que nos hayamo…",
+      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20241005/patricia-lopez-arnaiz-concha-plata-108921111",
+      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/6a0e487e-7008-43f2-93db-eed7bfcb3be3_16-9-discover-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-10-05T05:00:34Z",
+      "Content": "Su irrupción en el cine español es una de las más rotundas que se recuerdan. Surgida aparentemente de la nada -dichosas apariencias-, desde el principio se mostró como una actriz ya experta, ya compl… [+4207 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/aquellos-maravillosos-90.jpg?width=1200",
       "PublishedAt": "2024-10-04T07:25:29Z",
       "Content": "Red y Kitty tendrán que dejar marchar a sus nietos\r\nRetomar una serie del pasado no suele ser ni sencillo ni desde luego una buena idea y lo más fácil es que después de una o dos temporadas acabe can… [+3103 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Christian Collado",
-      "Title": "Bizum celebra 8 años y anuncia grandes novedades: \"Bizum Pay\", pagos NFC y funcionamiento en otros países",
-      "Description": "Bizum, la plataforma de pagos móviles española, ha anunciado una serie de cambios significativos como parte de la celebración de su octavo aniversario. Desde su lanzamiento en 2016, la plataforma ha crecido a pasos agigantados, convirtiéndose en la herramient…",
-      "Url": "https://www.lavanguardia.com/andro4all/tecnologia/bizum-celebra-8-anos-y-anuncia-grandes-novedades-pagos-fisicos-y-funcionamiento-en-otros-paises",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/bizum.1728025991.6891.png?width=1200",
-      "PublishedAt": "2024-10-04T07:19:50Z",
-      "Content": "Bizum es la plataforma de envío de dinero entre particulares más usada de España\r\nBizum, la plataforma de pagos móviles española, ha anunciado una serie de cambios significativos como parte de la cel… [+3263 chars]"
     }
   ]
 }
