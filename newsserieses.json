@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1008,
+  "TotalResults": 1009,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Juan Carlos I, casi medio siglo atrapado en su aventura con Bárbara Rey",
+      "Description": "Días antes del 12 de enero de 1980, cuando Bárbara Rey se casó con Ángel Cristo en Valencia, la artista recibió en su residencia de Madrid un paquete que contenía dos regalos : un ostentoso reloj para su futuro marido y un solitario que la vedette reconoció n…",
+      "Url": "https://www.abc.es/espana/juan-carlos-medio-siglo-atrapado-aventura-barbara-20241005041320-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/10/05/1475477059-U31888583183pyU-1024x512@diario_abc.JPG",
+      "PublishedAt": "2024-10-05T02:13:21Z",
+      "Content": "Días antes del 12 de enero de 1980, cuando Bárbara Rey se casó con Ángel Cristo en Valencia, la artista recibió en su residencia de Madrid un paquete que contenía dos regalos: un ostentoso reloj para… [+6063 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/42f876b4-49f2-475e-a902-7bee3e72d833_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-10-04T10:33:05Z",
       "Content": "El caso de los hermanos Erik y Lyle Menendez sigue de máxima actualidad tras el impulso mediático de la serie de Netflix Monstruosbasada en su historia. Una ficción que pese a las críticas de los pro… [+4139 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Carla Monfort",
-      "Title": "La razón por la que este actor salió a regañadientes de 'La que se avecina'. \"Ni los espectadores ni yo merecíamos esto\"",
-      "Description": "Es normal que en las comedias los actores vayan y vengan, incluso los que interpretan a personajes con largo recorrido dentro de la serie. En el caso de Antonio Pagudo, estuvo en  'La que se avecina' hasta la temporada 11, pero su salida no fue intencionada s…",
-      "Url": "https://www.espinof.com/actores-y-actrices/razon-que-este-actor-salio-a-reganadientes-que-se-avecina-espectadores-yo-mereciamos-esto",
-      "UrlToImage": "https://i.blogs.es/64e708/la-que-se-avecina/840_560.jpeg",
-      "PublishedAt": "2024-10-04T10:30:50Z",
-      "Content": "Es normal que en las comedias los actores vayan y vengan, incluso los que interpretan a personajes con largo recorrido dentro de la serie. En el caso de Antonio Pagudo, estuvo en  'La que se avecina'… [+1961 chars]"
     }
   ]
 }
