@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1010,
+  "TotalResults": 1011,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Ágatha Ruiz de la Prada vende su casa en un reality",
+      "Description": "La diseñadora Ágatha Ruiz de la Prada celebró este jueves la última fiesta en la que ha sido su casa en los últimos 30 años en el madrileño Paseo de la Castellana. «Recuerdo que yo quería una casa en Conde Orgaz o frente al Parque de El Retiro , pero cuando m…",
+      "Url": "https://www.abc.es/gente/agatha-ruiz-prada-vende-casa-reality-20241005075930-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/10/05/agatha-U22468207737Bef-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-10-05T05:59:31Z",
+      "Content": "La diseñadora Ágatha Ruiz de la Prada celebró este jueves la última fiesta en la que ha sido su casa en los últimos 30 años en el madrileño Paseo de la Castellana. «Recuerdo que yo quería una casa en… [+6222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.hola.com/horizon/landscape/d6911f605311-menendez-getty5.jpg?im=Resize=(1200)",
       "PublishedAt": "2024-10-04T10:57:16Z",
       "Content": "Ser el protagonista real de una de serie 'true crime' puede tener, en el fondo, su parte buena y sino que se lo pregunten a los hermanos Menéndez, condenados en 1996 a cadena perpetua por matar a sus… [+4679 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Begoña Alonso",
-      "Title": "La liberación de los hermanos Menéndez se producirá en las próximas semanas, según Ryan Murphy",
-      "Description": "El gran productor de Hollywood y creador de la serie de Netflix sobre los hermanos Menéndez afirma que Lyle y Erik serán liberados próximamente a raíz del debate público abierto.",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a45730151/hermanos-menendez-salida-carcel-navidad/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/erik-menendez-left-and-is-brother-lyle-in-front-of-their-news-photo-1728039019.jpg?crop=1.00xw:0.657xh;0,0.107xh&resize=1200:*",
-      "PublishedAt": "2024-10-04T10:50:00Z",
-      "Content": "Ni el reality show de Georgina, ni la comedia romántica interreligiosa 'Nadie quiere esto', ni el thriller de Nicole Kidman tan cuestionado 'La pareja perfecta'. Desde hace tres semanas, el top mundi… [+3041 chars]"
     }
   ]
 }

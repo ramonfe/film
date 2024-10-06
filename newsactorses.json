@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1003,
+  "TotalResults": 1004,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Ágatha Ruiz de la Prada vende su casa en un reality",
+      "Description": "La diseñadora Ágatha Ruiz de la Prada celebró este jueves la última fiesta en la que ha sido su casa en los últimos 30 años en el madrileño Paseo de la Castellana. «Recuerdo que yo quería una casa en Conde Orgaz o frente al Parque de El Retiro , pero cuando m…",
+      "Url": "https://www.abc.es/gente/agatha-ruiz-prada-vende-casa-reality-20241005075930-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/10/05/agatha-U22468207737Bef-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-10-05T05:59:31Z",
+      "Content": "La diseñadora Ágatha Ruiz de la Prada celebró este jueves la última fiesta en la que ha sido su casa en los últimos 30 años en el madrileño Paseo de la Castellana. «Recuerdo que yo quería una casa en… [+6222 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/e6ce1c/sin-titulo---2024-10-04t084403.393/840_560.jpeg",
       "PublishedAt": "2024-10-04T08:26:33Z",
       "Content": "Fue en la noche de ayer cuando Manuel Turizo visitaba 'La Revuelta' dispuesto a promocionar su nueva cantinela, 'Qué pecao', en la que también colabora Kapo. Aunque el artista no se pronunció sobre s… [+2265 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Marcos Catalán",
-      "Title": "Malas nuevas para todos aquellos que estaban viendo 'Aquellos maravillosos 90'",
-      "Description": "Retomar una serie del pasado no suele ser ni sencillo ni desde luego una buena idea y lo más fácil es que después de una o dos temporadas acabe cancelada. Tampoco es de extrañar, ya que las nuevas audiencias no tienen cariño a esos personajes ni gustan de ver…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/malas-nuevas-para-todos-aquellos-que-estaban-viendo-aquellos-maravillosos-90",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/aquellos-maravillosos-90.jpg?width=1200",
-      "PublishedAt": "2024-10-04T07:25:29Z",
-      "Content": "Red y Kitty tendrán que dejar marchar a sus nietos\r\nRetomar una serie del pasado no suele ser ni sencillo ni desde luego una buena idea y lo más fácil es que después de una o dos temporadas acabe can… [+3103 chars]"
     }
   ]
 }
