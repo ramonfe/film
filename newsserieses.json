@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 997,
+  "TotalResults": 998,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'La franquicia', una bomba en el corazón del cine de superhéroes",
+      "Description": "Toda película de superhéroes tiene una historia de orígenes. Desde Thor al Capitán América. O Batman. La de 'La franquicia', la bomba nuclear de Max, con sello HBO, para dinamitar el manido género explotado por Marvel y DC, empezó en una comida entre Sam Mend…",
+      "Url": "https://www.abc.es/play/franquicia-bomba-corazon-cine-superheroes-20241006125707-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/10/07/franquicia1-U6053489339174F-U66648523404fCG-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-10-06T17:06:58Z",
+      "Content": "Toda película de superhéroes tiene una historia de orígenes. Desde Thor al Capitán América. O Batman. La de 'La franquicia', la bomba nuclear de Max, con sello HBO, para dinamitar el manido género ex… [+3452 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/b012f1/mono-malo-serie-de-apple/840_560.jpeg",
       "PublishedAt": "2024-10-05T11:02:00Z",
       "Content": "El 1 de noviembre de 2019 nació Apple TV+ en más de 100 países y regiones. Ahora, casi cinco años después, la plataforma cuenta con centenares de contenidos propios y un precio verdaderamente competi… [+20455 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "\"Nunca saldría en una serie como esa\". Joel Kinnaman responde a los rumores sobre su posible regreso como Rick Flag Jr. en una de las mejores series de superhéroes",
-      "Description": "El futuro de DC está en manos de James Gunn, quien ha tomado alguna que otra decisión que cuesta entender, como el hecho de que la temporada 1 de 'El pacificador' no forme parte del canon, pero la segunda, que está rodándose ahora mismo, si. Habrá que ver cóm…",
-      "Url": "https://www.espinof.com/actores-y-actrices/nunca-saldria-serie-como-esa-joel-kinnaman-responde-a-rumores-su-posible-regreso-como-rick-flag-jr-mejores-series-superheroes",
-      "UrlToImage": "https://i.blogs.es/667284/joel-kinnaman/840_560.jpeg",
-      "PublishedAt": "2024-10-05T11:01:00Z",
-      "Content": "El futuro de DC está en manos de James Gunn, quien ha tomado alguna que otra decisión que cuesta entender, como el hecho de que la temporada 1 de 'El pacificador' no forme parte del canon, pero la se… [+1437 chars]"
     }
   ]
 }
