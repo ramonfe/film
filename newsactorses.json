@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1000,
+  "TotalResults": 1001,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Isabel Valencia",
+      "Title": "Brenda Bezares se defiende de las críticas por querer 'opacar' triunfo de Mayito; “que me den chance”",
+      "Description": "La segunda edición de ‘La Casa de los Famosos México’, tuvo su gran final el pasado domingo, en el que se coronó a Mario Bezares como el ganador de la temporada, quedando en segundo lugar Karime Pindter, seguida de Gala Montes, Arath de la Torre y Briggite Bo…",
+      "Url": "https://www.milenio.com/espectaculos/brenda-bezares-se-defiende-de-la-criticas-tras-victoria-de-mario",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/06/brenda-bezares-defiende-criticas-redes.jpg",
+      "PublishedAt": "2024-10-06T19:47:00Z",
+      "Content": "La segunda edición de La Casa de los Famosos México, tuvo su gran final el pasado domingo, en el que se coronó a Mario Bezares como el ganador de la temporada, quedando en segundo lugar Karime Pindte… [+3028 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/2c638b6a-c226-4a5b-adb6-1f79e2f26eec_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-10-04T20:15:45Z",
       "Content": "Will Ferrell es uno de los cómicos más populares de EEUU. Lo es gracias a éxitos como Zoolander o Hermanos por pelotas, comedias que reventaron las taquillas y que le convirtieron en una estrella tra… [+620 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Levelup.com"
-      },
-      "Author": "Ulises Contreras",
-      "Title": "Dragon Ball Daima: reemplazan a famoso actor de DBZ tras escándalo por agresión e infidelidad",
-      "Description": "Tras el éxito de su manga, Dragon Ball dio el salto al anime con gran éxito en 1989. Desde entonces, la mayoría de los actores originales que interpretaron a los personajes en la versión original en japonés han repetido sus roles en las secuelas y otros proye…",
-      "Url": "https://www.levelup.com/noticias/805839/Dragon-Ball-Daima-reemplazan-a-famoso-actor-de-DBZ-tras-escandalo-por-agresion-e-infidelidad",
-      "UrlToImage": "https://cl2.buscafs.com/www.levelup.com/public/uploads/images/873476/873476_600x315.jpg",
-      "PublishedAt": "2024-10-04T20:15:00Z",
-      "Content": "Tras el éxito de su manga, Dragon Ball dio el salto al anime con gran éxito en 1989. Desde entonces, la mayoría de los actores originales que interpretaron a los personajes en la versión original en … [+3359 chars]"
     }
   ]
 }
