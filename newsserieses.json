@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 998,
+  "TotalResults": 999,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Netflix Argentina: la serie italiana que lanzó su segunda temporada de 5 capítulos y que conmueve por su trama",
+      "Description": "Todos quieren salvarse es un drama emotivo que tiene suspenso y actuaciones estelares; una opción ideal para este domingo",
+      "Url": "https://www.lanacion.com.ar/espectaculos/netflix-argentina-la-serie-italiana-que-lanzo-su-segunda-temporada-de-5-capitulos-y-que-conmueve-por-nid06102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/salio-la-segunda-temporada-de-todos-quieren-ZEY2LQOGAVBKXA5MXTNJEJ2VKI.jpg?auth=c15f47981f9288959ca8f6a0971c69e210fb562c398147cf6d9a98b8b9ce9e4e&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-06T20:05:48Z",
+      "Content": "Netflix, el enorme del streaming, se acopló al éxito de las producciones italianas. En su catálogo incluyeron estas películas y series que lograron un éxito sin precedentes, como la primera temporada… [+1875 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2024/04/22/66265e6c4a666.r_d.699-400-0.jpeg",
       "PublishedAt": "2024-10-05T11:15:24Z",
       "Content": "Millie Bobby Brown es una de las actrices del momento. La joven, que el pasado mes de febrero cumplió los 20 años, se dio a conocer en todo el mundo gracias a su trabajo como Once (Eleven) en la exit… [+1328 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Applesfera.com"
-      },
-      "Author": "Isra Fdez",
-      "Title": "Las 37 mejores series de Apple TV+ según la crítica y cómo verlas sin coste adicional",
-      "Description": "El 1 de noviembre de 2019 nació Apple TV+ en más de 100 países y regiones. Ahora, casi cinco años después, la plataforma cuenta con centenares de contenidos propios y un precio verdaderamente competitivo: 9,99 euros al mes. Series y más series disponibles en …",
-      "Url": "https://www.applesfera.com/nuevo/estas-21-mejores-series-apple-tv-critica-aprovecha-seis-meses-gratis-para-verlas",
-      "UrlToImage": "https://i.blogs.es/b012f1/mono-malo-serie-de-apple/840_560.jpeg",
-      "PublishedAt": "2024-10-05T11:02:00Z",
-      "Content": "El 1 de noviembre de 2019 nació Apple TV+ en más de 100 países y regiones. Ahora, casi cinco años después, la plataforma cuenta con centenares de contenidos propios y un precio verdaderamente competi… [+20455 chars]"
     }
   ]
 }
