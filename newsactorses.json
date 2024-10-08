@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 985,
+  "TotalResults": 986,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Manual para crear un 'remake' de una serie con éxito y no morir en el intento",
+      "Description": "El éxito de las series no solo se mide con la audiencia y su acogida. También reside en el ojo avizor de quienes las escogen para hacer un ‘remake’. El éxito de ‘Médico de familia’ no es comparable a la versión italiana ‘Un medico in famiglia’, que estuvo dur…",
+      "Url": "https://www.abc.es/play/series/noticias/manual-crear-remake-serie-exito-morir-intento-20241007180935-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/10/07/misteryslaura-U24410714738ZIY-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-10-07T16:09:35Z",
+      "Content": "El éxito de las series no solo se mide con la audiencia y su acogida. También reside en el ojo avizor de quienes las escogen para hacer un remake. El éxito de Médico de familia no es comparable a la … [+2821 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/372cad6e-591c-4a83-bd33-8a3f1f814fc6_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-10-06T06:00:42Z",
       "Content": "Demi Moore (Rosswell, 1962) está de vuelta, en el cine y en la vida. Protagoniza uno de los estrenos más esperados de la temporada, La sustancia, que transforma el mito de Dorian Gray en una película… [+3389 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Guillermo Rivera",
-      "Title": "San Miguel el Grande en llamas. La disputa de un bosque por la tala clandestina",
-      "Description": "Una ráfaga de plomo cortó el sueño de Ramona y Odilón a las 5 de la mañana del 5 de mayo de 2023. La pareja adivinó enseguida que no era sólo un sustito a la comunidad de Lázaro Cárdenas, en San Miguel el Grande. Era un ataque para matarlos. Cuando los balazo…",
-      "Url": "https://www.milenio.com/policia/talamontes-asedian-san-miguel-grande-llamas-asesinatos",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/04/talamontes-acechan-bosque-mixteca-oaxaquena.jpg",
-      "PublishedAt": "2024-10-06T05:02:01Z",
-      "Content": "Una ráfaga de plomo cortó el sueño de Ramona y Odilón a las 5 de la mañana del 5 de mayo de 2023. La pareja adivinó enseguida que no era sólo un sustito a la comunidad de Lázaro Cárdenas, en San Migu… [+15989 chars]"
     }
   ]
 }
