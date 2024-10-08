@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "Caroline Bologna",
+      "Title": "This New Satirical Comedy Is A Top Show On Max Right Now",
+      "Description": "A new German comedy and a popular animated series are also trending across streaming services including Netflix, Hulu, Apple TV+ and Amazon Prime Video.",
+      "Url": "https://www.huffpost.com/entry/the-franchise-popular-max-shows_n_67030a9be4b0907cd5a20aa1",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/6703d55724000058009fcef4.png?cache=ZDsQrKrrBj&ops=1200_630",
+      "PublishedAt": "2024-10-07T13:31:30Z",
+      "Content": "The Franchise is currently one of the most popular shows on Max, according to the platforms public ranking system.\r\nThe new satirical comedy revolves around a film crew working on a second-rate super… [+3009 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1726601966/Emily_in_Paris_n_S4_E8_00_25_04_21R_hy4uwz",
       "PublishedAt": "2024-09-17T19:42:27Z",
       "Content": "My relationship with Emily in Parisis complicated. Thats appropriate, I suppose. Netflixs titular expat with the magically unexpiring visas whole thing is relationships that would merit the Its Compl… [+5178 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Ishita Verma",
-      "Title": "Taika Waititi’s Time Bandits Canceled by Apple TV+ Before Season 2",
-      "Description": "Fans of the recently released sci-fantasy show Time Bandits have some bad news. The Taika Waititi-led series created for Apple TV+ has been canceled. The show, which follows a team of thieves, including an 11-year-old boy, traveling through space to save the …",
-      "Url": "https://www.comingsoon.net/tv/news/1849904-taika-waititi-time-bandits-canceled-apple-tv-season-2",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/08/Time-Bandits-1.jpg?resize=1200,630",
-      "PublishedAt": "2024-09-17T17:14:22Z",
-      "Content": "Fans of the recently released sci-fantasy show Time Bandits have some bad news. The Taika Waititi-led series created for Apple TV+ has been canceled. The show, which follows a team of thieves, includ… [+1216 chars]"
     }
   ]
 }
