@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 999,
+  "TotalResults": 1000,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Miguel Paredes",
+      "Title": "La mejor tecnología destroza su precio: ya está aquí el Prime Day de Amazon",
+      "Description": "No tienes que esperar más, el Amazon Prime Day acaba de dar su pistoletazo de salida. Algunas de las mejores ofertas de este 2024 ya han salido al escenario, es el momento de que vayas a por ellas. Hay mucho entre lo que escoger, puede ser complicado, motivo …",
+      "Url": "https://www.lavanguardia.com/andro4all/ofertas/la-mejor-tecnologia-destroza-su-precio-ya-esta-aqui-el-prime-day-de-amazon",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/echo-dot-5-amazon-prime.jpg?width=1200",
+      "PublishedAt": "2024-10-07T23:45:56Z",
+      "Content": "No tienes que esperar más, el Amazon Prime Day acaba de dar su pistoletazo de salida. Algunas de las mejores ofertas de este 2024 ya han salido al escenario, es el momento de que vayas a por ellas. H… [+3968 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/10/colin-farrell_12.jpg",
       "PublishedAt": "2024-10-07T12:40:20Z",
       "Content": "El Pingüino acaba de llegar hace apenas un par de semanas a Max. La nueva serie de HBO es un spin-off secuela de The Batman, la exitosa película de Matt Reeves. Ahora, el cineasta deja de lado al mur… [+3359 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mundodeportivo.com"
-      },
-      "Author": "Anna Martín Oliveras",
-      "Title": "¿Por qué Erik y Lyle Menéndez han criticado la serie 'Monstruos'? Su radical cambio de actitud",
-      "Description": "El pasado 19 de septiembre llegó a Netflix la nueva serie true crime ‘Monstruos: la historia de Lyle y Erik Menéndez’. Una ficción basada en el caso real del famoso parricidio de estos dos hermanos, que acabaron en 1989 con sus padres, José y Kitty Menéndez, …",
-      "Url": "https://www.mundodeportivo.com/actualidad/20241007/1002329473/criticas-hermanos-menendez-serie-monstruos-netflix-cambio-radical-actitud-erik-lyle-dct.html",
-      "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2024/10/05/670160cd76784.png",
-      "PublishedAt": "2024-10-07T12:38:48Z",
-      "Content": "El pasado 19 de septiembre llegó a Netflix la nueva serie true crimeMonstruos: la historia de Lyle y Erik Menéndez. Una ficción basada en el caso real del famoso parricidio de estos dos hermanos, que… [+3589 chars]"
     }
   ]
 }
