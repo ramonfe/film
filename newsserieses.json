@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 965,
+  "TotalResults": 966,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Expansion.com"
+      },
+      "Author": "Alberto Rey",
+      "Title": "Las mejores series de octubre",
+      "Description": "Las plataformas se guardan sus ases para más adelante. Netflix sigue jugueteando con la fecha de estreno de la nueva temporada (la última, ¿la última?) de Stranger Things, Disney no tiene munición de Marvel o Star Warsa la vista y Max considera que el trailer…",
+      "Url": "https://www.expansion.com/fueradeserie/cultura/album/2024/10/07/67000373468aeb6e7f8b45b0.html",
+      "UrlToImage": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2024/10/04/17280538920489.jpg",
+      "PublishedAt": "2024-10-07T05:17:26Z",
+      "Content": "Por: \r\nActualizado:\r\n07/10/2024 07:17 horas\r\nLas plataformas se guardan sus ases para más adelante. Netflix sigue jugueteando con la fecha de estreno de la nueva temporada (la última, ¿la última?) de… [+1305 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/lo-que-siempre-compro-en-prime-day.jpeg?width=1200",
       "PublishedAt": "2024-10-05T12:00:24Z",
       "Content": "En el Prime Day de Amazon no solo habrá ofertas en tecnología, también en productos que utilizas a diario\r\nA estas alturas estoy segurísima de que ya sabes que la semana que viene tendrá lugar el Pri… [+4517 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Esteban García Marcos",
-      "Title": "La mejor película de policías de la historia acaba de aterrizar en Netflix y es absolutamente insuperable. A mí me volvió loco",
-      "Description": "La mayoría de las películas de cine de detectives y policías suelen estar vinculadas con crímenes de todo tipo. Sin embargo, hay una película que se pasó el juego para siempre. Se trata de una cinta que reúne a actores del calado de Morgan Freeman, Brad Pitt …",
-      "Url": "https://www.lavanguardia.com/andro4all/series/la-mejor-pelicula-de-policias-de-la-historia-acaba-de-aterrizar-en-netflix-y-es-absolutamente-insuperable-a-mi-me-volvio-loco",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2022/01/Seven-tiene-uno-de-los-finales-de-pelicula-mas-recordados-de-la-historia-reciente.jpg?width=1200",
-      "PublishedAt": "2024-10-05T11:15:33Z",
-      "Content": "Todos sus actores están impecables en sus respectivos papeles\r\nLa mayoría de las películas de cine de detectives y policías suelen estar vinculadas con crímenes de todo tipo. Sin embargo, hay una pel… [+3286 chars]"
     }
   ]
 }
