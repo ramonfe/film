@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1000,
+  "TotalResults": 1001,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "20minutos.es"
+      },
+      "Author": "Julio Mármol",
+      "Title": "¿Cuándo y dónde ver el episodio final de 'Entrevías'? Horario del adiós de la serie de Jose Coronado",
+      "Description": "Las audiencias no están acompañando a la cuarta temporada de 'Entrevías', serie que, desde que llegó a Netflix, perdió sus desorbitadas cifras de cuota de pantalla en Telecinco.",
+      "Url": "https://www.20minutos.es/cinemania/series/entrevias-final-serie-jose-coronado-cuando-donde-ver-5640866/",
+      "UrlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/files/redes_cinemania/uploads/imagenes/2022/11/30/jose-coronado-en-entrevias.jpeg",
+      "PublishedAt": "2024-10-08T06:22:23Z",
+      "Content": "Jose Coronado está a punto de mudarse de Entrevías. Su personaje de Tirso Abantos se despedirá de las televisiones de España esta temporada, la cuarta de la popular serie que lo reúne con Luis Zahera… [+2182 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/72d9d0/the-franchise---lolly-adefope-daniel-bruhl-jessica-hynes-himesh-patel-aya-cash-isaac-powell---credit-colin-hutton-hbo/840_560.jpeg",
       "PublishedAt": "2024-10-07T13:00:51Z",
       "Content": "Aunque la nueva comedia de HBO (recién estrenada en Max), 'La franquicia' (The Franchise) no se moja, es fácil entender que los dardos de esta sátira en torno a los universos cinemáticos de superhéro… [+3506 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hipertextual"
-      },
-      "Author": "Gonzalo Franco",
-      "Title": "¿Habrá temporada 2 de ‘El Pingüino’? Collin Farrell, en contra de volver a ponerse «el puto traje»",
-      "Description": "El Pingüino acaba de llegar hace apenas un par de semanas a Max. La nueva serie de HBO es un spin-off secuela de The Batman, la exitosa película de Matt Reeves. Ahora, el cineasta deja de lado al murciélago de Robert Pattinson para centrarse en la vida crimin…",
-      "Url": "http://hipertextual.com/2024/10/habra-temporada-2-el-pinguino-collin-farrell-puto-traje",
-      "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/10/colin-farrell_12.jpg",
-      "PublishedAt": "2024-10-07T12:40:20Z",
-      "Content": "El Pingüino acaba de llegar hace apenas un par de semanas a Max. La nueva serie de HBO es un spin-off secuela de The Batman, la exitosa película de Matt Reeves. Ahora, el cineasta deja de lado al mur… [+3359 chars]"
     }
   ]
 }
