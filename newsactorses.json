@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1001,
+  "TotalResults": 1002,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "Cristina Álvarez",
+      "Title": "Carys, la hija de 21 años de Michael Douglas y Catherine Zeta Jones que está siguiendo sus pasos",
+      "Description": "Mientras estudia Cine en la Universidad de Brown, ya ha debutado como actriz en varios proyectos",
+      "Url": "https://www.hola.com/actualidad/20241008722050/carys-hija-actriz-michael-douglas-y-catherine-zeta-jones/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/720aa4ccd22b-gettyimages-1255311255.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-10-08T01:17:00Z",
+      "Content": "¡La saga continúa! Michael Douglas y Catherine Zeta Jones ya tienen sucesora: ni más ni menos que su hija Carys. A sus 21 años, la joven tiene claro que quiere seguir sus pasos y, aunque sigue con su… [+3216 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/10/07/pacino-kSMH--1024x512@diario_abc.jpg",
       "PublishedAt": "2024-10-07T06:24:41Z",
       "Content": "Alfredo James Pacino, conocido por todos como Al Pacino, ha confesado que en 2020 estuvo a punto de morir tras contraer Covid. Por aquel entonces, al inicio de la pandemia, no había vacunas disponibl… [+1834 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "iker cortés",
-      "Title": "«Regreso a Las Sabinas», una serie diaria con Andrés Velencoso y buena factura técnica",
-      "Description": "Celia Freijeiro y el actor y modelo protagonizan la producción que llega el viernes a Disney+",
-      "Url": "https://www.lavozdegalicia.es/noticia/series/2024/10/07/regreso-sabinas-ficcion-diaria-parece/0003_202410G7P33992.htm",
-      "UrlToImage": "https://img.lavdg.com/sc/RqHmsnsMFrlsSar__40bolSa6Uk=/1280x/2024/10/06/00121728213241771410216/Foto/GO7P33F1_13130.jpg",
-      "PublishedAt": "2024-10-07T03:00:00Z",
-      "Content": "La luz, la fotografía, la ausencia de platós, los interiores naturales, el alto porcentaje de exteriores... Los primeros compases de Regreso a Las Sabinas, la ficción que a partir del próximo viernes… [+137 chars]"
     }
   ]
 }
