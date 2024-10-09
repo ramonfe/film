@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1002,
+  "TotalResults": 1003,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Agencia EFE",
+      "Title": "Juanes se estrena en el cine y lo comparan con Antonio Banderas",
+      "Description": "Juanes se estrena en la gran pantalla con la película Pimpinero. Sangre y gasolina, dirigida por el colombiano Andrés Baiz, una cinta que llegará el próximo jueves a las salas de cine, un reto que asumió como \"otra forma de expresión\" más allá de su música, d…",
+      "Url": "https://www.milenio.com/espectaculos/famosos/juanes-debuta-cine-pimpinero-sangre-gasolina",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/07/comparan-a-juanes-con-antonio.jpg",
+      "PublishedAt": "2024-10-08T03:50:07Z",
+      "Content": "Juanes se estrena en la gran pantalla con la película Pimpinero. Sangre y gasolina, dirigida por el colombiano Andrés Baiz, una cinta que llegará el próximo jueves a las salas de cine, un reto que as… [+2184 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/42f112/obi-wan/840_560.jpeg",
       "PublishedAt": "2024-10-07T08:50:51Z",
       "Content": "De las múltiples series que forman parte del universo de Star Wars tenemos la de Obi-Wan Kenobi, aunque recientemente se ha confirmado que estuvo a punto de ser una película, como bien declaró Stuart… [+2479 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Al Pacino revela que estuvo a punto de morir por Covid y reflexiona sobre el más allá: «No hay nada allí»",
-      "Description": "Alfredo James Pacino , conocido por todos como Al Pacino , ha confesado que en 2020 estuvo a punto de morir tras contraer Covid . Por aquel entonces, al inicio de la pandemia, no había vacunas disponibles y la población estaba expuesta al virus, que afectaba …",
-      "Url": "https://www.abc.es/play/cine/pacino-revela-punto-morir-covid-reflexiona-sobre-20241007082440-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/10/07/pacino-kSMH--1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-10-07T06:24:41Z",
-      "Content": "Alfredo James Pacino, conocido por todos como Al Pacino, ha confesado que en 2020 estuvo a punto de morir tras contraer Covid. Por aquel entonces, al inicio de la pandemia, no había vacunas disponibl… [+1834 chars]"
     }
   ]
 }
