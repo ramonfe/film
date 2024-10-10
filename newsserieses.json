@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1035,
+  "TotalResults": 1036,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hipertextual"
+      },
+      "Author": "Gonzalo Franco",
+      "Title": "‘Daredevil: Born Again’: Marvel promete una Nueva York al estilo ‘Juego de Tronos’",
+      "Description": "Marvel Studios estrenará en 2025 Daredevil: Born Again. La serie servirá como continuación de las tres temporadas de Netflix y para ello contará con todo el reparto original. Charlie Cox regresa de la mano de la mayoría de sus compañeros, entre los que estará…",
+      "Url": "http://hipertextual.com/2024/10/daredevil-born-again-marvel-nueva-york-juego-de-tronos",
+      "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/10/GKsfBxaXoAAHuB1.jpeg",
+      "PublishedAt": "2024-10-09T14:57:52Z",
+      "Content": "Marvel Studios estrenará en 2025 Daredevil: Born Again. La serie servirá como continuación de las tres temporadas de Netflix y para ello contará con todo el reparto original. Charlie Cox regresa de l… [+2631 chars]"
+    },
     {
       "Source": {
         "Id": "cnn",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/9b0d22/8b2622395964b1eda987ba02c4bbb3b3fa5ff1ea_s2_n2_y2/840_560.jpeg",
       "PublishedAt": "2024-10-08T15:01:06Z",
       "Content": "Desde su participación en X de Ti West, la saga Screamy más recientemente la secuela de Beetlejuice, Jenna Ortega se ha posicionado como una de las actrices de Hollywood más populares del momento. Y … [+2213 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "La serie 'Cien años de soledad' ya tiene fecha de estreno",
-      "Description": "Netflix ha anunciado hoy la fecha de estreno de la serie 'Cien años de soledad' que contará con dos partes de ocho episodios cada una y tendrá su primera entrega el 11 de diciembre. Basada en la obra cumbre del Premio Nobel de Literatura Gabriel García Márque…",
-      "Url": "https://www.abc.es/play/series/noticias/serie-cien-anos-soledad-fecha-estreno-20241008165640-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/10/08/cien-anos-soledad-kQuE--1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-10-08T14:56:40Z",
-      "Content": "Netflix ha anunciado hoy la fecha de estreno de la serie 'Cien años de soledad' que contará con dos partes de ocho episodios cada una y tendrá su primera entrega el 11 de diciembre. Basada en la obra… [+1645 chars]"
     }
   ]
 }
