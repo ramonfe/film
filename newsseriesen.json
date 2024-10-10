@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "HBO & Max Cancel 'Velma,' Joins 11 Other Shows Canceled By Network This Year",
+      "Description": "HBO and the streaming service Max have just canceled their twelfth TV show of 2024: Velma. The animated series, which saw Mindy Kaling voicing the iconic Scooby Doo character, aired two seasons at the streamer before its cancellation. “Over the past two seaso…",
+      "Url": "https://www.justjared.com/2024/10/09/hbo-max-cancel-velma-joins-11-other-shows-canceled-by-network-this-year/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/10/velma-canceled1.jpg",
+      "PublishedAt": "2024-10-09T17:51:02Z",
+      "Content": "HBO and the streaming service Max have just canceled their twelfth TV show of 2024: Velma.\r\nThe animated series, which saw Mindy Kaling voicing the iconic Scooby Doo character, aired two seasons at t… [+528 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-09-30T15:52:07Z",
       "Content": "It’s always beautiful when two lonely corporations find one another. DirecTV has reached an agreement to acquire Dish Network, according to reporting by The New York Times. This would create a global… [+1950 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-09-30T15:20:41Z",
-      "Content": "[Removed]"
     }
   ]
 }
