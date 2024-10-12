@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 57,
+  "TotalResults": 58,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Devindra Hardawar",
+      "Title": "Engadget Podcast: Hunting data center vampires with Paris Marx",
+      "Description": "This week, we’re joined by tech critic Paris Marx to discuss Data Vampires, his latest Tech Won’t Save us podcast series. We chat about how data centers suck up vast amounts of power, water and other resources, and why the AI boom is exacerbating those issues…",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_14024d05-c7fb-4c23-8cb1-15a5dbfa2720",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-11T13:30:50Z",
+      "Content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/10/Are-You-Smarter-Than-A-Celebrity-Travis-Kelce.jpg?resize=1200,630",
       "PublishedAt": "2024-10-01T13:33:49Z",
       "Content": "Amazon Prime Video has released the official trailer for Are You Smarter Than A Celebrity?\r\nHosted by Kansas City Chiefs tight end Travis Kelce, Are You Smarter Than A Celebrity? is a spin-off to the… [+1749 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PCWorld"
-      },
-      "Author": "Author: Matthew S. Smith",
-      "Title": "Samsung OLED G8 review: This monitor is also a TV, for better or worse",
-      "Description": "At a glanceExpert's Rating\r\n\n\nPros\r\n\n<ul>\n<li>Attractive and luxurious design</li>\n\n\n\n<li>Smart TV features powered by Samsung’s Tizen OS</li>\n\n\n\n<li>Infinite contrast and wide color gamut</li>\n\n\n\n<li>Great motion clarity</li>\n</ul>\n\r\n\n\n\n\nCons\r\n\n<ul>\n<li>Smar…",
-      "Url": "https://www.pcworld.com/article/2470684/samsung-oled-g8-review.html",
-      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/10/samsung-odyssey-g8-oled-4.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2024-10-01T10:30:00Z",
-      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nAt a glance<ul><li>A… [+18005 chars]"
     }
   ]
 }

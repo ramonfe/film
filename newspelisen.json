@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 776,
+  "TotalResults": 777,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Yahoo Entertainment"
+      },
+      "Author": "Devindra Hardawar",
+      "Title": "Engadget Podcast: Hunting data center vampires with Paris Marx",
+      "Description": "This week, we’re joined by tech critic Paris Marx to discuss Data Vampires, his latest Tech Won’t Save us podcast series. We chat about how data centers suck up vast amounts of power, water and other resources, and why the AI boom is exacerbating those issues…",
+      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_14024d05-c7fb-4c23-8cb1-15a5dbfa2720",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-11T13:30:50Z",
+      "Content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-114101080,width-1070,height-580,imgsize-1037638,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2024-10-10T01:30:00Z",
       "Content": "Rajinikanth's film trials Vijay's 'GOAT' in advance sales\r\n'Vettaiyan', starring Rajinikanth, is one of the most highly anticipated films in Indian cinema. As the film is slated to release on October… [+3804 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Siliconera"
-      },
-      "Author": "Stephanie Liu",
-      "Title": "Hayao Miyazaki Concept Art Collection Will Start Appearing",
-      "Description": "Publishing house Iwanami Shoten will start releasing a complete collection of Hayao Miyazaki concept art from December 2024. So far, we know for sure that you’ll be able to get books of Nausicaä of the Valley of the Wind, Castle in the Sky, and My Neighbor To…",
-      "Url": "https://www.siliconera.com/hayao-miyazaki-concept-art-collection-will-start-appearing/",
-      "UrlToImage": "https://www.siliconera.com/wp-content/uploads/2024/10/miyazaki-concept-art-10092024.png",
-      "PublishedAt": "2024-10-09T23:30:00Z",
-      "Content": "Publishing house Iwanami Shoten will start releasing a complete collection of Hayao Miyazaki concept art from December 2024. So far, we know for sure that youll be able to get books of Nausicaä of th… [+1437 chars]"
     }
   ]
 }
