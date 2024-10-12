@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Ben Patterson",
+      "Title": "Hack Netflix: 6 ways to find something awesome to watch",
+      "Description": "Netflix has thousands of videos in its mammoth streaming catalog. Yet picking just the right show for a given night isn’t the chillaxing experience it should be.\r\n\n\n\n\nIndeed, the busy Netflix interface frequently pushes the same recommendations over and over,…",
+      "Url": "https://www.pcworld.com/article/2484002/hack-netflix-6-ways-to-find-something-awesome-to-watch.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/10/Netflix-main-screen.jpeg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2024-10-11T10:30:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nNetflix has thousand… [+8619 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/10/samsung-odyssey-g8-oled-4.jpg?quality=50&strip=all&w=1024",
       "PublishedAt": "2024-10-01T10:30:00Z",
       "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nAt a glance<ul><li>A… [+18005 chars]"
-    },
-    {
-      "Source": {
-        "Id": "polygon",
-        "Name": "Polygon"
-      },
-      "Author": "Petrana Radulovic",
-      "Title": "Every movie and show coming to Netflix in October",
-      "Description": "Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. A lot of horror movies from the b…",
-      "Url": "https://www.polygon.com/entertainment/458016/ew-netflix-october-2024-movies-tv-to-watch",
-      "UrlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/08/Tomb_Raider__The_Legend_of_Lara_Croft_u_S1_E2_00_15_43_03.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "PublishedAt": "2024-09-30T20:47:43Z",
-      "Content": "Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s … [+18643 chars]"
     }
   ]
 }
