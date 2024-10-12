@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1035,
+  "TotalResults": 1036,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'El bodegón con fantasmas' abrirá el día 17 El Festival de Cine de Albacete que proyectará cien películas",
+      "Description": "'Bodegón con fantasmas', de Enrique Bule o, será la película encargada de abrir la 26ª edición del Festival Internacional de Cine de Albacete , que se celebrará del 17 al 25 de octubre . Una proyección que será una vuelta casa, dado que la largometraje es un …",
+      "Url": "https://www.abc.es/espana/castilla-la-mancha/bodegon-fantasmas-abrira-dia-festival-cine-albacete-20241011184936-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/10/11/abycine-U14434574225ZMt-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-10-11T16:49:36Z",
+      "Content": "'Bodegón con fantasmas', de Enrique Buleo, será la película encargada de abrir la 26ª edición del Festival Internacional de Cine de Albacete, que se celebrará del 17 al 25 de octubre. Una proyección … [+3748 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/08e62ba2-5880-4099-a9c5-bb299de733ed_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-10-10T18:45:44Z",
       "Content": "24 series. Han leído bien: 24 títulos se nos acumulan en los siete días que componen la semana entre el lunes 7 y el domingo 13 de octubre. Si tuviéramos que hacer la cuenta, estaríamos hablando de u… [+16129 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"Wanda es muy inexperta\": Kathryn Hahn explica por qué Agatha Harkness necesita regresar a Marvel Studios después de la serie de Disney+",
-      "Description": "Aunque pocos confiaron en el último proyecto de Marvel en 2024, la serie Agatha: ¿Quién si no? se ha convertido en una de las grandes sorpresas de Disney este año. Y aunque todo indica que su impacto en el UCM será mínimo, su protagonista, Kathryn Hahn, expre…",
-      "Url": "https://www.vidaextra.com/series/wanda-muy-inexperta-kathryn-hahn-explica-que-agatha-harkness-necesita-regresar-a-marvel-studios-despues-serie-disney",
-      "UrlToImage": "https://i.blogs.es/efd0a2/agatha/840_560.jpeg",
-      "PublishedAt": "2024-10-10T18:31:25Z",
-      "Content": "Aunque pocos confiaron en el último proyecto de Marvel en 2024, la serie Agatha: ¿Quién si no? se ha convertido en una de las grandes sorpresas de Disney este año. Y aunque todo indica que su impacto… [+1607 chars]"
     }
   ]
 }
