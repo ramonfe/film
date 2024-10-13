@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1035,
+  "TotalResults": 1036,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Cuatro datos curiosos sobre los hijos de Al Pacino: Julie, Anton, Olivia y el pequeño Roman",
+      "Description": "El legendario actor tiene descendencia con tres parejas diferentes: cada uno de sus herederos sigue su propio camino, entre el cine, el arte y bajo perfil",
+      "Url": "https://www.lanacion.com.ar/espectaculos/cuatro-datos-curiosos-sobre-los-hijos-de-al-pacino-julie-anton-olivia-y-el-pequeno-roman-nid12102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/los-hijos-de-al-pacino-nacidos-de-diferentes-E3WFPUYFDJB2ZFKTHRE6VN3UVU.jpg?auth=6590bac4c09721f624bd818496eaf80e889916db46e8946c210d246c1f65e708&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-12T23:00:00Z",
+      "Content": "Al Pacino, uno de los actores más famosos de Hollywood, no solo es conocido por sus papeles icónicos en el cine, sino también por su vida personal, que incluye la paternidad. En 2023, el actor de 84 … [+3518 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/797d53/shanghai/840_560.jpeg",
       "PublishedAt": "2024-10-11T18:31:34Z",
       "Content": "La volatilidad del petróleo no es algo nuevo, con vaivenes desde la crisis de los años 70 hasta la caída de precios en 2014. Los operadores se habían acostumbrado a lidiar con variables impredecibles… [+3301 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Cristina Sobrino",
-      "Title": "La película perfecta para el finde de lluvia está en Prime Video: ocho nominaciones a los Oscar y una de las mejores escenas de la historia",
-      "Description": "Ni confirmo ni desmiento que haya visto Malditos Bastardos más veces de las que puedo contar con los dedos de una mano. Pero lo confirmo más que lo desmiento. De hecho, me estoy dando cuenta de que a pesar de que no soy una fan declarada del cine bélico, títu…",
-      "Url": "https://www.trendencias.com/series-de-television/pelicula-perfecta-para-finde-lluvia-esta-prime-video-ocho-nominaciones-a-oscar-mejores-escenas-historia",
-      "UrlToImage": "https://i.blogs.es/42687f/trendencias-pelicula-prime-video-malditos-bastardos1/840_560.jpeg",
-      "PublishedAt": "2024-10-11T18:25:30Z",
-      "Content": "Ni confirmo ni desmiento que haya visto Malditos Bastardos más veces de las que puedo contar con los dedos de una mano. Pero lo confirmo más que lo desmiento. De hecho, me estoy dando cuenta de que a… [+2197 chars]"
     }
   ]
 }
