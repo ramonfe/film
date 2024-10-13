@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 766,
+  "TotalResults": 767,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-times-of-india",
+        "Name": "The Times of India"
+      },
+      "Author": "The Feed",
+      "Title": "Alien: Romulus: All you may want to know about digital and physical release",
+      "Description": "The seventh installment of the \"Alien\" franchise, Alien: Romulus, will be available for digital release on October 15, 2024, and on 4K Ultra HD, Blu-ray, and DVD on December 3, 2024. Directed by Fede Álvarez, the movie follows a group of laborers who accident…",
+      "Url": "https://economictimes.indiatimes.com/news/international/us/alien-romulus-all-you-may-want-to-know-about-digital-and-physical-release/articleshow/114174119.cms",
+      "UrlToImage": "https://img.etimg.com/thumb/msid-114174161,width-1200,height-630,imgsize-27958,overlay-economictimes/photo.jpg",
+      "PublishedAt": "2024-10-12T13:49:59Z",
+      "Content": "Office Productivity\r\nMastering Microsoft Office: Word, Excel, PowerPoint, and 365\r\nBy - Metla Sudha Sekhar, IT Specialist and Developer\r\nView Program"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-11T13:30:50Z",
       "Content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "The Morning After: This is Tesla’s robotaxi, the Cybercab",
-      "Description": "At Tesla’s We, Robot event at Warner Bros. Discovery’s studio in California, the company finally unveiled its robotaxi. The car is expected to go into production before 2027, but even Musk caveated that, saying he was “highly optimistic with timeframes.”\nThe …",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175233053",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-11T12:52:08Z",
-      "Content": "At Tesla’s We, Robot event at Warner Bros. Discovery’s studio in California, the company finally unveiled its robotaxi. The car is expected to go into production before 2027, but even Musk caveated t… [+3176 chars]"
     }
   ]
 }
