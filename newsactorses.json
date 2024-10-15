@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1000,
+  "TotalResults": 1001,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Jacqueline Isola",
+      "Title": "Cumplió 50. Eleonora Wexler habla del paso del tiempo y de su libertad para elegir: “Hay cosas que ya no quiero en mi vida”",
+      "Description": "La actriz, que estrenó nueva serie, repasa su carrera y reflexiona sobre la felicidad, el amor y la ambición",
+      "Url": "https://www.lanacion.com.ar/revista-hola/cumplio-50-eleonora-wexler-habla-del-paso-del-tiempo-y-de-su-libertad-para-elegir-hay-cosas-que-ya-nid14102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/no-soy-una-megaestrella-pero-trabajo-de-lo-que-FN46YDHSLVGM3F6IKLJRVW5W3Y.jpg?auth=2ec8f13a7ccf079fc77e2072568483ca21fe907351c192ea747edfd6d8ce2091&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-14T06:00:00Z",
+      "Content": "¿En qué momento la vida se te pasa tan rápido?, pregunta riendo Eleonora Wexler, quien hace unos meses festejó sus 50 años rodeada por sus más íntimos, su pareja, el productor teatral Sebastián Blutr… [+2598 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i0.wp.com/culturacolectiva.com/wp-content/uploads/2024/09/CC-PORTADA-37.jpg?fit=1200%2C630&ssl=1",
       "PublishedAt": "2024-10-12T16:53:32Z",
       "Content": "Con la serie The Bear Jeremy Allen White se convirtió en chico de moda en Hollywood de la noche a la mañana, y desde entonces no ha dejado de aparecer en revistas y nuevos proyectos.\r\nCon su crecient… [+2772 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'Querer' es una obra mayor",
-      "Description": "El 17 se estrena en Movistar Plus+ ' Querer ', la serie de Alauda Ruiz de Azúa con Nagore Aramburu . Con Nagore Aramburu. Con Nagore Aramburu. Madre mía, qué actriz. Interpreta a Miren, una señora de Bilbao que tras 30 años de matrimonio decide denunciar a su…",
-      "Url": "https://www.abc.es/play/series/rosa-belmonte-querer-obra-mayor-20241012183917-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/10/12/Querer1-U67101575870HYA-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-10-12T16:39:17Z",
-      "Content": "El 17 se estrena en Movistar Plus+ 'Querer', la serie de Alauda Ruiz de Azúa con Nagore Aramburu. Con Nagore Aramburu. Con Nagore Aramburu. Madre mía, qué actriz. Interpreta a Miren, una señora de Bi… [+595 chars]"
     }
   ]
 }
