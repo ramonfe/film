@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cisa.gov"
+      },
+      "Author": "CISA",
+      "Title": "Vulnerability Summary for the Week of October 7, 2024",
+      "Description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n<th>Patch Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>adobe -- animate </td>\n<td>Animate versions 23.0.7, 24.0.4 and earli…",
+      "Url": "https://www.cisa.gov/news-events/bulletins/sb24-289",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-15T13:50:09Z",
+      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1101 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/06/MixCollage-28-Jun-2024-08-52-PM-6102.jpg?resize=1200,630",
       "PublishedAt": "2024-10-02T19:10:08Z",
       "Content": "Netflix has officially enlisted That 70s Show vet Topher Grace to The Waterfront cast for its upcoming family drama series from Scream and Dawsons Creek creator Kevin Williamson.\r\nGrace is expected t… [+1590 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Sugar Season 2 Set for Colin Farrell Show, First Details Revealed",
-      "Description": "Apple TV+ has announced that Sugar Season 2 has officially been greenlit, with the streaming platform bringing back the critically acclaimed series led by Colin Farrell. What do we know about Sugar Season 2? While not a whole lot is known about Sugar Season 2…",
-      "Url": "https://www.comingsoon.net/tv/news/1857407-sugar-season-2-colin-farrell-apple-tv-plus",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/04/Evolve-11-9.jpg?resize=1200,630",
-      "PublishedAt": "2024-10-02T17:54:16Z",
-      "Content": "Apple TV+ has announced that SugarSeason 2has officially been greenlit, with the streaming platform bringing back the critically acclaimed series led by Colin Farrell. \r\nWhile not a whole lot is know… [+1577 chars]"
     }
   ]
 }
