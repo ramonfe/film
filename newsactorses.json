@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1019,
+  "TotalResults": 1020,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "Cristina Álvarez",
+      "Title": "¿Te acuerdas de la protagonista de 'Dirty Dancing'? Así de sensacional está 37 años después",
+      "Description": "La actriz Jennifer Grey ha reaparecido en la alfombra roja para presentar su nueva película en el Festival de Cine de Londres",
+      "Url": "https://www.hola.com/belleza/20241015724019/jennifer-grey-protagonista-dirty-dancing-cambio/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/af5514d51de3-gettyimages-164358909.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-10-15T05:45:05Z",
+      "Content": "Parece mentira que hayan pasado 37 años desde que se estrenó Dirty Dancing... ¡37 años! Somos muchos los que todavía hoy recordamos las canciones de esta mítica película y, sobre todo, la bonita hist… [+3030 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/354a99/xx/840_560.jpeg",
       "PublishedAt": "2024-10-14T12:01:58Z",
       "Content": "Octubre es mes de terror. Y no solo por Halloween, sino porque en la cartelera coinciden un montón de estrenos temáticos. Y entre tanta novedad, a veces cuesta elegir algo que esté a la altura de las… [+2617 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "Sylvester Stallone pone nota a todas sus películas de 'Rocky', y pone un diez... pero también un sólido cero",
-      "Description": "Sylvester Stallone escribió el guion de 'Rocky' en solo tres días y medio, pero le cambió su vida por completo. Y eso que originalmente quisieron convertirla en una película hecha directamente para televisión y que alguien lo reescribiera. El actor, director …",
-      "Url": "https://www.espinof.com/listas/sylvester-stallone-pone-nota-a-todas-sus-peliculas-rocky-pone-diez-tambien-solido-cero",
-      "UrlToImage": "https://i.blogs.es/f487ca/rocky/840_560.jpeg",
-      "PublishedAt": "2024-10-14T12:00:04Z",
-      "Content": "Sylvester Stallone escribió el guion de 'Rocky' en solo tres días y medio, pero le cambió su vida por completo. Y eso que originalmente quisieron convertirla en una película hecha directamente para t… [+1625 chars]"
     }
   ]
 }
