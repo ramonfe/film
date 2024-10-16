@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1017,
+  "TotalResults": 1019,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Harrison Ford, su llegada a Marvel y las críticas contra el cine de superhéroes: “Somos unos tontos si nos sentamos a quejarnos del cambio”",
+      "Description": "El actor que pondrá un pie en el popular universo superheroico, se refirió a la importancia de ese género en la industria actual",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/harrison-ford-su-llegada-a-marvel-y-las-criticas-contra-el-cine-de-superheroes-somos-unos-tontos-si-nid15102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-quinta-parte-de-la-saga-se-estrenara-en-QM7OA7NH7VDXHFES2FYXHPPNLI.jpg?auth=fcd3e69e3e35f30fe3766972a66347c4ba8f98004466b4318c97777f0cff3798&width=768&quality=70&smart=false",
+      "PublishedAt": "2024-10-15T04:32:58Z",
+      "Content": "Con 82 años cumplidos, Harrison Ford es una de las mayores leyendas vivas de Hollywood. El protagonista de clásicos indiscutidos como Indiana Jones y los cazadores del arca perdida o Testigo en pelig… [+3817 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La Muestra de Cine Rural de Dos Torres analizará películas rodadas en Andalucía",
+      "Description": "La Casa de la Cultura de Dos Torres acogerá del 25 al 27 de octubre la XXII edición de su Muestra de Cine Rural y el V Maratón de Cine Instantáneo, proyectos ambos que organiza el Ayuntamiento de Dos Torres con la colaboración de la Diputación, la Universidad…",
+      "Url": "https://www.abc.es/espana/andalucia/cordoba/muestra-cine-rural-dos-torres-analizara-peliculas-20241015062548-nts.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/10/15/cine-dos-torres-U64828567788nKz-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-10-15T04:25:48Z",
+      "Content": "La Casa de la Cultura de Dos Torres acogerá del 25 al 27 de octubre la XXII edición de su Muestra de Cine Rural y el V Maratón de Cine Instantáneo, proyectos ambos que organiza el Ayuntamiento de Dos… [+2632 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://i.blogs.es/f487ca/rocky/840_560.jpeg",
       "PublishedAt": "2024-10-14T12:00:04Z",
       "Content": "Sylvester Stallone escribió el guion de 'Rocky' en solo tres días y medio, pero le cambió su vida por completo. Y eso que originalmente quisieron convertirla en una película hecha directamente para t… [+1625 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Lavozdegalicia.es"
-      },
-      "Author": "I. G.",
-      "Title": "Ana Polvorosa no participará en la secuela de «Aída», una película dirigida por Paco León",
-      "Description": "La versión cinematográfica no contará con la actriz, que ya había abandonado la serie de Telecinco dos años antes de que terminase. ¿Qué se sabe de los personajes que sí estarán presentes?",
-      "Url": "https://www.lavozdegalicia.es/noticia/cultura/2024/10/14/ana-polvorosa-participara-secuela-aida-pelicula-dirigida-paco-leon/00031728903807516296304.htm",
-      "UrlToImage": "https://img.lavdg.com/sc/0a381X0emon7fJAbbIuLWYyML-o=/1280x/2024/10/14/00121728906961885372957/Foto/eup_20241014_092423408.jpg",
-      "PublishedAt": "2024-10-14T11:56:00Z",
-      "Content": "La actriz Ana Polvorosa (Getafe, 1987), quien con solo 18 años empezó a ser conocida como actriz por su papel de Lorena García (la Lore) en la serie de televisión Aída, no estará presente en el regre… [+2773 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "Héctor Alabadí",
-      "Title": "Primera baja: Ana Polvorosa rechaza volver a ser La Lore en 'Aída y vuelta', la secuela de la exitosa serie",
-      "Description": "EXCLUSIVA La actriz, que abandonó la serie tras diez temporadas, no está interesada en participar en el largometraje que prepara Paco León.Primera baja: Ana Polvorosa rechaza volver a ser La Lore en 'Aída y vuelta', la secuela de la exitosa serie",
-      "Url": "https://www.formulatv.com/noticias/baja-ana-polvorosa-rechaza-la-lore-aida-y-vuelta-130485/",
-      "UrlToImage": "https://www.formulatv.com/images/articulos/130000/130485_IcvaLozUPgiNmHRYk81745236Ete9BJFx-hog.jpg",
-      "PublishedAt": "2024-10-14T11:13:02Z",
-      "Content": "'Aída' volverá próximamente a nuestras vidas con una secuela cinematográfica. Tal y como avanzó FormulaTV en exclusiva, Telecinco Cinema y Globomedia (The Mediapro Studio) trabajan junto a Paco León … [+2237 chars]"
     }
   ]
 }
