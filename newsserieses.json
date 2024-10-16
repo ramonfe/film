@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1049,
+  "TotalResults": 1035,
   "Articles": [
+    {
+      "Source": {
+        "Id": "marca",
+        "Name": "Marca"
+      },
+      "Author": "marca.com",
+      "Title": "Georgina Rodríguez y su receta de la tortilla de patata: \"Soy más de comer que de cocinarla\"",
+      "Description": "Georgina Rodríguez siempre es noticia por lo que hace y más aún cuando acaba de sacar a la palestra su propia serie en Netflix &apos;Soy Georgina&apos;. Además, es una de las cread",
+      "Url": "https://www.marca.com/tiramillas/actualidad/2024/10/15/670e8a5c268e3ea76e8b45a9.html",
+      "UrlToImage": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_z5urotsu/width/657/type/2/bgcolor/000000/0_z5urotsu.jpg",
+      "PublishedAt": "2024-10-15T15:47:33Z",
+      "Content": "Georgina Rodríguez siempre es noticia por lo que hace y más aún cuando acaba de sacar a la palestra su propia serie en Netflix 'Soy Georgina'. Además, es una de las creadoras de contenido que más seg… [+1439 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/10/silo.1728924101.8435.jpg?width=1200",
       "PublishedAt": "2024-10-14T16:46:56Z",
       "Content": "La verdad te pone en peligro\r\nLa hemos visto en el cine en películas como las Dune de Denis Villeneuve, en Doctor Sueño o acompañando a Tom Cruise en Misión: Imposible, pero también hemos disfrutado … [+2640 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "\"Dudo que pueda superarlo en toda mi vida\". Luke Grimes habla sobre el final de 'Yellowstone' y desvela las dos cosas que más va a echar de menos de la serie western",
-      "Description": "La cuenta atrás para el final de 'Yellowstone' ya ha comenzado. Será el próximo 10 de noviembre cuando se estrenen los últimos episodios de la serie y los fans de este western están impacientes por saber cómo acabará todo -y también cómo diantres se va a expl…",
-      "Url": "https://www.espinof.com/actores-y-actrices/dudo-que-pueda-superarlo-toda-mi-vida-luke-grimes-habla-final-yellowstone-desvela-dos-cosas-que-va-a-echar-serie-western",
-      "UrlToImage": "https://i.blogs.es/f039d4/yellowstone/840_560.jpeg",
-      "PublishedAt": "2024-10-14T16:15:57Z",
-      "Content": "La cuenta atrás para el final de 'Yellowstone' ya ha comenzado. Será el próximo 10 de noviembre cuando se estrenen los últimos episodios de la serie y los fans de este western están impacientes por s… [+2188 chars]"
     }
   ]
 }
