@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 750,
+  "TotalResults": 751,
   "Articles": [
+    {
+      "Source": {
+        "Id": "polygon",
+        "Name": "Polygon"
+      },
+      "Author": "Austen Goslin",
+      "Title": "Smile 2 is smarter, scarier, and much better than the first movie",
+      "Description": "The original Smile felt like a miracle when it was released in 2022: a well-crafted, decidedly solid horror movie plucked from the obscure hell of direct-to-streaming release and turned into a genuine box-office hit. But for all its commercial success, Smile …",
+      "Url": "https://www.polygon.com/review/466687/smile-2-review-best-horror-movies-2024",
+      "UrlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/10/S2_FP_011.jpg?quality=90&strip=all&crop=2.2255128205128%2C0%2C95.548974358974%2C100&w=1200",
+      "PublishedAt": "2024-10-16T23:14:58Z",
+      "Content": "The original Smile felt like a miracle when it was released in 2022: a well-crafted, decidedly solid horror movie plucked from the obscure hell of direct-to-streaming release and turned into a genuin… [+8127 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4378338-untildawn.jpg",
       "PublishedAt": "2024-10-15T23:34:00Z",
       "Content": "At the beginning of 2024, Sony Pictures announced that an Until Dawn feature film was in the works based on the 2015 interactive game from Supermassive Games and Sony. Now, Until Dawn has finished fi… [+1259 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Sony's Until Dawn movie gets April 25 release date",
-      "Description": "Sony announced in January that it planned to create a movie adaptation of its 2015 PlayStation game Until Dawn and the project is moving quickly through production. Earlier this month, director David F. Sandberg posted on Instagram that the film had wrapped s…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175260867",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-15T23:33:45Z",
-      "Content": "Sony announced in January that it planned to create a movie adaptation of its 2015 PlayStation game Until Dawn and the project is moving quickly through production. Earlier this month, director David… [+1622 chars]"
     }
   ]
 }
