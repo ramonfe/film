@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1032,
+  "TotalResults": 1033,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Paula Hergar",
+      "Title": "María Galiana hizo \"de las mejores promos que se han hecho\" en 'La Revuelta' con su propia cabeza cortada",
+      "Description": "David Broncano alucinó al descubrir lo que traía María Galiana en una caja como regalo de la noche\r\n\n María Galiana acudió este jueves a La Revuelta, tras ser una de las habituales en La Resistencia. La actriz llegaba al programa conquistándo al público desde…",
+      "Url": "https://www.eldiario.es/vertele/noticias/maria-galiana-hizo-mejores-promos-han-hecho-revuelta-propia-cabeza-cortada_1_11742918.html",
+      "UrlToImage": "https://static.eldiario.es/clip/d96eede0-e574-4702-a7c5-d8db0d4c3466_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-10-17T21:23:35Z",
+      "Content": "María Galiana acudió este jueves a La Revuelta, tras ser una de las habituales en La Resistencia. La actriz llegaba al programa conquistándo al público desde el arranque, al tocar el bombo y exclamar… [+1761 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/edc29663-e651-450a-ae3e-d4c6e3d3adb7_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-10-17T09:51:16Z",
       "Content": "La actriz Aitana Sánchez-Gijón (Roma, Italia, 1968) recibirá el Goya de Honor 2025, según ha anunciado este jueves el presidente de la Academia de Cine, Fernando Méndez-Leite, en la sede de la Academ… [+2038 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Publico.es"
-      },
-      "Author": "EFE",
-      "Title": "La actriz Aitana Sánchez-Gijón, Goya de Honor 2025",
-      "Description": "La entrega del premio se llevará a cabo durante la gala organizada por la Academia de Cine en Granada el próximo 8 de febrero.",
-      "Url": "https://www.publico.es/culturas/actriz-aitana-sanchez-gijon-goya-honor-2025.html",
-      "UrlToImage": "https://www.publico.es/uploads/2024/10/17/6710ded0069ad.jpeg",
-      "PublishedAt": "2024-10-17T09:51:00Z",
-      "Content": "La actriz Aitana Sánchez-Gijón ha sido seleccionada para recibir el Goya de Honor 2025. La entrega del premio se llevará a cabo durante la gala organizada por la Academia de Cine en Granada el próxim… [+371 chars]"
     }
   ]
 }
