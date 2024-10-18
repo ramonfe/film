@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1021,
+  "TotalResults": 1026,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Entretenimiento",
+      "Title": "\"No puedo cantar ahora\": Rita Ora rinde homenaje a Liam Payne en presentación de Japón | VIDEO",
+      "Description": "Al igual que a todos los fanáticos, amigos y familiares de Liam Payne, la noticia de su triste fallecimientoaturdió a artistas del mundo de la música, generando que algunos de ellos, como Rita Ora, rindieran un breve homenaje durante sus presentaciones.El día…",
+      "Url": "https://www.milenio.com/espectaculos/musica/rita-ora-rinde-homenaje-a-liam-payne-en-concierto-de-japon",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/17/rita-ora-rinde-homenaje-liam.jpg",
+      "PublishedAt": "2024-10-17T17:55:00Z",
+      "Content": "Al igual que a todos los fanáticos, amigos y familiares de Liam Payne, la noticia de su triste fallecimiento aturdió a artistas del mundo de la música, generando que algunos de ellos, como Rita Ora, … [+2611 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Lucas Handley",
+      "Title": "Matt Berry, de «What We Do in the Shadows», sobre vampiros, memes, y «Star Wars»",
+      "Description": "El actor, comediante y músico detrás de Laszlo Cravensworth habla con io9 sobre la temporada final de la serie de FX.",
+      "Url": "https://es.gizmodo.com/matt-berry-de-what-we-do-in-the-shadows-sobre-vampiros-memes-y-star-wars-2000131768",
+      "UrlToImage": "https://es.gizmodo.com/app/uploads/2024/10/Diseno-sin-titulo-16-3.jpg",
+      "PublishedAt": "2024-10-17T17:28:52Z",
+      "Content": "Matt Berry se hizo famoso en EE.UU. gracias a Laszlo, de What We Do in the Shadows, un artista de topiarios, músico, científico, esposo juguetón, murciélago, fanático de la renovación de casas, y que… [+3622 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Cordelia Jenkins",
+      "Title": "Harriet Walter habla de su interpretación de Margaret Thatcher",
+      "Description": "Por supuesto que Harriet Walter elegiría este lugar, creo, al pasar por la puerta giratoria de Arlington en Mayfair hacia un salón Art Decó de espejos, que reflejan rayas monocromáticas y azulejos pulidos. El ambiente es casi cruelmente elegante. ¿En qué otro…",
+      "Url": "https://www.milenio.com/negocios/financial-times/harriet-walter-margaret-thatcher-brian-margaret",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/17/harriet-walter-actriz.jpg",
+      "PublishedAt": "2024-10-17T17:11:45Z",
+      "Content": "Por supuesto que Harriet Walter elegiría este lugar, creo, al pasar por la puerta giratoria de Arlington en Mayfair hacia un salón Art Decó de espejos, que reflejan rayas monocromáticas y azulejos pu… [+12741 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vida Extra"
+      },
+      "Author": "Iván González",
+      "Title": "Después de hacer historia en Marvel, los directores de Vengadores: Endgame vuelven con la película más cara de la historia de Netflix. Ojo al primer tráiler de Estado Eléctrico",
+      "Description": "Netflix no escatimará en gastos de cara al 2025. Además del estreno de varias de las series más esperadas por todo el público, el servicio de streaming estadounidense acaba de lanzar el primer adelanto de la película más cara y ambiciosa de la plataforma en t…",
+      "Url": "https://www.vidaextra.com/cine/despues-hacer-historia-marvel-directores-vengadores-endgame-vuelven-pelicula-cara-historia-netflix-ojo-al-primer-trailer-estado-electrico",
+      "UrlToImage": "https://i.blogs.es/772678/estado-electirco/840_560.jpeg",
+      "PublishedAt": "2024-10-17T17:01:10Z",
+      "Content": "Netflix no escatimará en gastos de cara al 2025. Además del estreno de varias de las series más esperadas por todo el público, el servicio de streaming estadounidense acaba de lanzar el primer adelan… [+1345 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Joel Calata",
+      "Title": "'Viridiana' es una de las mejores películas de la historia. Y así fue cómo su protagonista mexicana la salvó de la censura",
+      "Description": "La historia del cine está llena de episodios fascinantes y a menudo desconocidos, pero pocos son tan intrigantes como el que protagonizó una icónica actriz mexicana, que regresó de Europa a México con una copia de contrabando de una de las más controvertidas …",
+      "Url": "https://www.espinof.com/directores-y-guionistas/controvertidas-peliculas-bunuel-termino-mexico-contrabando-actriz-saco-pais-asi-sobrevivio-al-periodo-franquista-epoca",
+      "UrlToImage": "https://i.blogs.es/bc802e/viridiana1/840_560.jpeg",
+      "PublishedAt": "2024-10-17T17:01:09Z",
+      "Content": "La historia del cine está llena de episodios fascinantes y a menudo desconocidos, pero pocos son tan intrigantes como el que protagonizó una icónica actriz mexicana, que regresó de Europa a México co… [+4909 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/queplan/2024/10/17/maria-hervas-teatro-U53618441436Krn-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-10-17T05:46:14Z",
       "Content": "'The second woman' no es una obra de teatro al uso, entre otras cosas porque dura nada menos que 24 horas. Tras la Bienal de Flamenco, el Teatro Central reabre sus puertas con su propia programación … [+4435 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Sandra Meneses Morales",
-      "Title": "Circo Plantae busca crear conciencia",
-      "Description": "La propuesta de Circo Plantae busca generar conciencia sobre el cuidado del ambiente y temas sociales, como el que presentaron en el Festival Internacional Cervantino.Con el espectáculo Nagasi, que significa ahora, en este momento, en lengua zapoteca, la comp…",
-      "Url": "https://www.milenio.com/cultura/circo-plantae-busca-crear-conciencia-festival-internacional-cervantino",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/16/circo-plantae-busca-crear-conciencia.jpg",
-      "PublishedAt": "2024-10-17T01:46:00Z",
-      "Content": "La propuesta de Circo Plantae busca generar conciencia sobre el cuidado del ambiente y temas sociales, como el que presentaron en el Festival Internacional Cervantino.\r\nCon el espectáculo Nagasi, que… [+4486 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Daniel Zainos",
-      "Title": "Así retrataron a Genaro García Luna en la serie 'El Chapo' | VIDEO",
-      "Description": "Tras la sentencia dictada al super policía de Felipe Calderón, su relevancia en la historia moderna de México ha sido recordada y, con ello, las veces que fue retratado en la ficción, como en la serie El Chapo, pero ¿qué personaje era Genaro García Luna? ¿Cóm…",
-      "Url": "https://www.milenio.com/espectaculos/television/asi-retrataron-a-genaro-garcia-luna-en-la-serie-el-chapo",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/16/serie-chapo-inspira-vida-capo.jpg",
-      "PublishedAt": "2024-10-17T00:34:00Z",
-      "Content": "Tras la sentencia dictada al super policía de Felipe Calderón, su relevancia en la historia moderna de México ha sido recordada y, con ello, las veces que fue retratado en la ficción, como en la seri… [+2548 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Atomix"
-      },
-      "Author": "AldoLawson",
-      "Title": "Se presenta la palomera de Venom: The Last Dance",
-      "Description": "La siguiente semana se estará estrenando Venom: The Last Dance, tercera película de esta adaptación de Sony que tiene como protagonista al actor Tom Hardy, y que de hecho no se sabe si habrá alguna continuación o si las aventuras de el par de antihéroes termi…",
-      "Url": "https://atomix.vg/se-presenta-la-palomera-de-venom-the-last-dance/",
-      "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2024/10/lavas.jpg",
-      "PublishedAt": "2024-10-16T22:54:02Z",
-      "Content": "La siguiente semana se estará estrenando Venom: The Last Dance, tercera película de esta adaptación de Sony que tiene como protagonista al actor Tom Hardy, y que de hecho no se sabe si habrá alguna c… [+2180 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencialdigital.com"
-      },
-      "Author": "Javier Tubio",
-      "Title": "El cambio de Jon Favreau: Antes y después",
-      "Description": "Jon Favreau es un nombre conocido en la industria del entretenimiento por su trabajo como actor, así como por su trabajo como director, productor y guionista. Desde pequeños papeles en comedias hasta convertirse en una de las mentes creativas más influyentes …",
-      "Url": "https://www.elconfidencialdigital.com/articulo/famosos/cambio-jon-favreau-antes-despues/20241017000000860086.html",
-      "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/10/16/2024101622461186342.jpg",
-      "PublishedAt": "2024-10-16T22:00:00Z",
-      "Content": "<ol><li>Inicios como actor y comediante</li><li>El paso a la dirección</li><li>El universo Marvel y más allá</li><li>El renacimiento de Disney y \"The Mandalorian\"</li></ol>Jon Favreau es un nombre co… [+4077 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Atomix"
-      },
-      "Author": "AldoLawson",
-      "Title": "Filtran fotos de Sydney Sweeney como la versión femenina de Rocky",
-      "Description": "Estamos ante una época de Hollywood en la que nuevas promesas del mundo del espectáculo van surgiendo, y dentro de todos estos talentos el elenco de la serie llamada Euphoria se ha beneficiado mucho, especialmente la actriz Sydney Sweeney, que ha participado …",
-      "Url": "https://atomix.vg/filtran-fotos-de-sydney-sweeney-como-la-version-femenina-de-rocky/",
-      "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2024/10/syd.jpg",
-      "PublishedAt": "2024-10-16T21:01:37Z",
-      "Content": "Estamos ante una época de Hollywood en la que nuevas promesas del mundo del espectáculo van surgiendo, y dentro de todos estos talentos el elenco de la serie llamada Euphoriase ha beneficiado mucho, … [+2412 chars]"
     }
   ]
 }
