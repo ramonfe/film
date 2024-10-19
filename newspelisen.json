@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 742,
+  "TotalResults": 744,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "M. Night Shyamalan's 'Trap': Max Release Date and Time",
+      "Description": "The Warner Bros. movie corners a serial killer at a pop concert.",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175277637",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-18T14:32:55Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Bleeding Cool News"
+      },
+      "Author": "Adi Tantimedh",
+      "Title": "The Lot: Horror Screenwriter Akela Cooper to Adapt Bad Idea Comic",
+      "Description": "Horror blockbuster screenwriter Akela Cooper will adapt The Lot, the hit comic from indie underground publisher BAD IDEA. Cooper's resume boasts a list of critical and commercial hits, including James Wan's batshit-insane cult horror movie Malignant, The Nun …",
+      "Url": "https://bleedingcool.com/movies/the-lot-horror-screenwriter-akela-cooper-to-adapt-bad-idea-comic/",
+      "UrlToImage": "https://bleedingcool.com/wp-content/uploads/2024/10/bad-idea-comics-the-lot-issue-11-2000x1125.jpg",
+      "PublishedAt": "2024-10-18T14:17:09Z",
+      "Content": "Posted in: Bad Idea, Comics, Movies, News | Tagged: Akela Cooper, BAD IDEA Publishing, horror comic, horror movie, Marguerite Bennett, NYCC 2024, Renato Guedes, the lot\r\nThe Lot, the satirical horror… [+3195 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -366,32 +392,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/670e8f3f8795116729aa00fb/1729110464620/the-john-wick-spinoff-ballerina-was-reportedly-a-big-mess-until-director-chad-stahelski-came-in-to-fix-it.jpg?format=1500w",
       "PublishedAt": "2024-10-16T20:27:00Z",
       "Content": "As you know, the release of the John Wick spinoff movie Ballerina was pushed back a whole year. It was previously reported that the reason was so that the creative team could amp up the action scenes… [+1907 chars]"
-    },
-    {
-      "Source": {
-        "Id": "marca",
-        "Name": "Marca"
-      },
-      "Author": "marca.com",
-      "Title": "The actor who will portray Travis Kelce in the movie about his passionate romance with Taylor Swift",
-      "Description": "The wait is almost over. Lifetime has announced the release of &quot;Christmas in the Spotlight,&quot; a film that captures the essence of a trending romance: Taylor Swift and Trav",
-      "Url": "https://www.marca.com/en/nfl/kansas-city-chiefs/2024/10/16/67101dae22601dd45f8b4579.html",
-      "UrlToImage": "https://phantom-marca.unidadeditorial.es/5f6bebd7a7fc0a963126ebd5113c2baf/resize/1200/f/webp/assets/multimedia/imagenes/2024/10/16/17291093486484.jpg",
-      "PublishedAt": "2024-10-16T20:13:01Z",
-      "Content": "The wait is almost over. Lifetime has announced the release of \"Christmas in the Spotlight,\" a film that captures the essence of a trending romance: Taylor Swift and Travis Kelce. Set to premiere on … [+1186 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "Patrick Hipes",
-      "Title": "Mattel Eyeing Live-Action ‘View-Master’ Movie At Sony",
-      "Description": "Sony Pictures and Masters of the Universe producer Escape Artists are developing a live-action film based on another Mattel toy line: View-Master, the 3D image reel viewer that was first introduced in 1939. The logline is under wraps, but the companies on Wed…",
-      "Url": "http://deadline.com/2024/10/view-master-movie-live-action-1236117936/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2024/10/View-Master.jpeg?w=679",
-      "PublishedAt": "2024-10-16T19:57:35Z",
-      "Content": "Sony Pictures and Masters of the Universe producer Escape Artists are developing a live-action film based on another Mattel toy line: View-Master, the 3D image reel viewer that was first introduced i… [+1371 chars]"
     }
   ]
 }
