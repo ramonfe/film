@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 724,
+  "TotalResults": 725,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Box Office: ‘Smile 2’ Grinning With $23M Opening, ‘Anora’ Jolts Awards Race Awake - Hollywood Reporter",
+      "Description": "Box Office: ‘Smile 2’ Grinning With $23M Opening, ‘Anora’ Jolts Awards Race AwakeHollywood Reporter ‘Smile 2’ Happier With $23M Opening; A24’s ‘We Live In Time’ Making Dime With $4M+, ‘Anora’ Wows With Massive $105K Theater Average – Saturday Box OfficeDeadli…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175286257",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-19T19:12:17Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.7/209922/gls-fpqasaansh2.jpg",
       "PublishedAt": "2024-10-18T12:09:13Z",
       "Content": "The distributor K-Movie has announced on its X/Twitter feed that it will release the anime film of Chainsaw Man creator Tatsuki Fujimoto's \"Look Back\" one-shot manga in U.K. cinemas on Friday October… [+2225 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-18T07:32:27Z",
-      "Content": "[Removed]"
     }
   ]
 }
