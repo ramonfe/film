@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1008,
+  "TotalResults": 1009,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Eldiario.es"
+      },
+      "Author": "Laura Pérez",
+      "Title": "'¿A qué estás esperando?', la '50 sombras' de Atresmedia que busca replicar su éxito literario con (mucho) sexo y chiste",
+      "Description": "Atresplayer estrena este domingo 20 de octubre la primera adaptación televisiva del universo de Megan Maxwell: una serie protagonizada por Adriana Torrebejano, Rubén Cortada, Eva Ugarte y Francisco Ortiz que se aleja de las ficciones 'premium' de la plataform…",
+      "Url": "https://www.eldiario.es/vertele/criticas/a-que-estas-esperando-serie-megan-maxwell-50-sombras-busca-replicar-exito-literario-sexo-chiste-adriana-torrebejano-ruben-cortada-atresplayer-atresmedia_1_11742741.html",
+      "UrlToImage": "https://static.eldiario.es/clip/3cfa971b-3bca-4eca-803c-36babd033dc4_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
+      "PublishedAt": "2024-10-19T17:45:01Z",
+      "Content": "Si una piensa en los universos cinematográficos de 50 sombras de Grey y las comedias españolas que arrasan en taquilla con Santiago Segura como máximo exponente, posiblemente encuentre pocos elemento… [+7581 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/b55c92/rick-y-morty/840_560.jpeg",
       "PublishedAt": "2024-10-18T13:31:18Z",
       "Content": "A pesar de que su popularidad haya disminuido ligeramente en los últimos años, no cabe duda de que Rick y Morty sigue siendo una de las series animadas más exitosas de la actualidad. El programa de A… [+1342 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Nacho Abad habla alto y claro de la libertad de los hermanos Menéndez: «Si nos tomamos la justicia por nuestra mano...»",
-      "Description": "La historia del asesinato de los hermanos Menéndez ha cobrado una gran repercusión en estas semanas con la serie, 'Monstruos: La historia de Lyle y Erik Menéndez' y el documental estrenados en la plataforma de streaming, Netflix. Así, este jueves saltaba la n…",
-      "Url": "https://www.abc.es/play/television/noticias/nacho-abad-habla-alto-claro-libertad-hermanos-20241018143735-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/10/18/nacho-abad-hermanos-menendez-boca-todos-U60411733212GWI-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-10-18T12:41:30Z",
-      "Content": "La historia del asesinato de los hermanos Menéndez ha cobrado una gran repercusión en estas semanas con la serie, 'Monstruos: La historia de Lyle y Erik Menéndez' y el documental estrenados en la pla… [+2151 chars]"
     }
   ]
 }
