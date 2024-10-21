@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 987,
+  "TotalResults": 988,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Alexandra González",
+      "Title": "\"Basada en hechos reales\"; Ésta es la historia detrás de 'El Asesino Del Juego De Citas'",
+      "Description": "La spooky season ha comenzado, y con ella llegan nuevas películasde terror que buscan estremecer al público. Este año, Anna Kendrick debuta como directora con El Asesino Del Juego De Citas, un thriller basado en una historia real tan extraña que supera la fic…",
+      "Url": "https://www.milenio.com/espectaculos/cine/anna-kendrick-la-historia-verdadera-de-el-asesino-del-juego-de-citas",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/19/anna-kendrick-historia-asesino-juego.jpg",
+      "PublishedAt": "2024-10-20T13:48:00Z",
+      "Content": "La spooky season ha comenzado, y con ella llegan nuevas películas de terror que buscan estremecer al público. Este año, Anna Kendrick debuta como directora con El Asesino Del Juego De Citas, un thril… [+3361 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/10/19/combo-mayra-joaquin-chicho-U01867747566lCW-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-10-19T03:53:59Z",
       "Content": "La presentadora cubana falleció a los 76 años, el pasado 13 de octubre en un hospital madrileño donde fue trasladada en estado crítico tras sufrir un derrame cerebral por una segunda caída en su domi… [+7712 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Pía Shaw",
-      "Title": "Mike Amigorena: por qué lo entusiasmó su último rol, su separación de Sofía Vitola y el vínculo que cultiva con su hija Miel",
-      "Description": "El actor y músico acaba de estrenar La mente del poder, la nueva serie de TNT y Flow, y en una charla con LA NACIÓN habló sobre el desafío de encarnar a un Presidente, su pasión por la música y la gastronomía y cómo es ser un padre",
-      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/mike-amigorena-por-que-lo-entusiasmo-su-ultimo-rol-su-separacion-de-sofia-vitola-y-el-vinculo-que-nid19102024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/mike-amigorena-en-una-mano-a-mano-con-la-nacion-GINQNYU75ZD33DRLNPKQGAEM44.JPG?auth=509730e8fee3234f3bc5c7cc0e1241f1cf86e5111702e4022808ea75b6317106&width=1200&height=800&quality=70&smart=true",
-      "PublishedAt": "2024-10-19T03:02:00Z",
-      "Content": "Es difícil encasillarlo.\r\n A lo largo de su carrera, Mike Amigorena ha demostrado que puede expresar el arte de distintas formas\r\n y colores: actuando los personajes más disímiles, sacando discos y d… [+12657 chars]"
     }
   ]
 }
