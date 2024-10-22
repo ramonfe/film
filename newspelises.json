@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 184,
+  "TotalResults": 185,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Pedro Ruiz va al cine a ver 'The Apprentice' y opina sin tapujos sobre la película de Donald Trump: «Me ha parecido...»",
+      "Description": "'The Apprentice' es una película que antes de que se estrenara ya había generado polémica . En ella se narra la historia del expresidente de Estados Unidos Donald Trump . La ficción cuenta los primeros años de su carrera empresarial y se centra en su relación…",
+      "Url": "https://www.abc.es/play/cine/noticias/pedro-ruiz-cine-ver-the-apprentice-opina-pelicula-donald-trump-20241021162116-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/10/21/montaje-pedro-ruiz-pelicula-trump-kPF--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-10-21T06:15:00Z",
+      "Content": "'The Apprentice' es una película que antes de que se estrenara ya había generado polémica. En ella se narra la historia del expresidente de Estados Unidos Donald Trump. La ficción cuenta los primeros… [+1948 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/98a92b/78cee01070d32f40957284f21ad110cc85f9d99f_s2_n2_y2/840_560.jpeg",
       "PublishedAt": "2024-10-15T20:23:47Z",
       "Content": "Las películas de Serie B suelen pasar sin pena ni gloria en la pantalla grande. A comparación de los blockbusters, estos filmes carentes de campañas publicitarias multimillonarias, han encontrado com… [+2165 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Isabel Valencia",
-      "Title": "Warner Bros enfrenta pérdida MILLONARIA por ‘Joker: Folie à Deux’",
-      "Description": "Hace unas semanas llegó a la pantalla grande ‘Joker: Folie à Deux’, la cual desde que se estrenó no ha parado de recibir críticas negativas, a pesar de la ovación de una duración de 11 minutos que recibió después de la proyección en el Festival de Cine de Ven…",
-      "Url": "https://www.milenio.com/espectaculos/cine/joker-2-provoca-perdidas-millonarias-a-warner-bros",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/15/joker-provoca-perdidas-millonarias-warner.jpg",
-      "PublishedAt": "2024-10-15T19:45:00Z",
-      "Content": "Hace unas semanas llegó a la pantalla grande Joker: Folie à Deux, la cual desde que se estrenó no ha parado de recibir críticas negativas, a pesar de la ovación de una duración de 11 minutos que reci… [+2284 chars]"
     }
   ]
 }
