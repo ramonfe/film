@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 699,
+  "TotalResults": 700,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "EditorDavid",
+      "Title": "Special VHS Release for 'Alien: Romulus' Announced by 20th Century Studios",
+      "Description": "An anonymous reader shared this report from ComicBook.com:\n\nOn Saturday, 20th Century Studios announced that the latest entry in the Alien sci-fi horror franchise will get a limited-edition VHS release on December 3 — just in time for the holidays. \n\nThe VHS …",
+      "Url": "https://entertainment.slashdot.org/story/24/10/21/0046258/special-vhs-release-for-alien-romulus-announced-by-20th-century-studios",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/scifi_64.png",
+      "PublishedAt": "2024-10-21T02:34:00Z",
+      "Content": "An anonymous reader shared this report from ComicBook.com:\r\nOn Saturday, 20th Century Studios announced that the latest entry in the Alien sci-fi horror franchise will get a limited-edition VHS relea… [+1377 chars]"
+    },
     {
       "Source": {
         "Id": "the-verge",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2024/10/Ash-Flying-Lotus.jpg?resize=1000%2C600&ssl=1",
       "PublishedAt": "2024-10-19T01:00:47Z",
       "Content": "RLJE Films and Shudder have acquired Ash, a new sci-fi horror film from Grammy Award Winner and filmmaker Flying Lotus (aka Steven Ellison). The news comes from  Shudder’s New York Comic Con panel to… [+1761 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TheWrap"
-      },
-      "Author": "Sharon Knolle",
-      "Title": "Roy Wood Jr. Explains Why He Left ‘The Daily Show’: ‘What If They Get a Host Who Doesn’t Want Me?’",
-      "Description": "The comedian also shares anxiety about Hollywood mergers and living \"in an era where they will spend $100 million to shoot a movie and then not release it\" \nThe post Roy Wood Jr. Explains Why He Left ‘The Daily Show’: ‘What If They Get a Host Who Doesn’t Want…",
-      "Url": "https://www.thewrap.com/roy-wood-jr-daily-show-departure-gayle-king-interview/",
-      "UrlToImage": "https://www.thewrap.com/wp-content/uploads/2024/10/roy-wood-jr-daily-show.jpg",
-      "PublishedAt": "2024-10-19T00:01:37Z",
-      "Content": "Roy Wood Jr. told Gayle King that one of the reasons he left his role as a Daily Show correspondent 10 months after Trevor Noahs departure was because he was worried that whoever the next host ended … [+2013 chars]"
     }
   ]
 }
