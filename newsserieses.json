@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 971,
+  "TotalResults": 958,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La nueva serie de Netflix basada en un asalto que conmocionó a España",
+      "Description": "Se trata de la nueva apuesta de la plataforma de streaming, que está basada en hechos reales y ya está dando que hablar; todo lo que hay que saber",
+      "Url": "https://www.lanacion.com.ar/espectaculos/la-nueva-serie-de-netflix-basada-en-un-asalto-que-conmociono-a-espana-nid22102024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-nueva-miniserie-de-netflix-que-ya-esta-dando-M3SZ4EYNSBAVFNMLQUTKPVZYIY.jpg?auth=8dedd21eb9704c447216761288049f440a290656d046247cbfb2d272b912af30&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-10-22T21:28:39Z",
+      "Content": "Actualmente, Netflix es una de las plataformas de streaming más reconocidas a nivel mundial, gracias a su constante renovación y a la diversidad de contenidos que ofrece. El sitio se esfuerza por man… [+3029 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/10/21/3199077.jpg",
       "PublishedAt": "2024-10-21T22:12:30Z",
       "Content": "Amazon MGM Studios desarrolla una serie basada en la novela de Stephen King Carrie, con Mike Flanagan al frente del proyecto, según reporta Variety.\r\nLa adaptación pretende ser una reinterpretación c… [+2548 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.co"
-      },
-      "Author": "Wilson Vega",
-      "Title": "Un mes con el iPhone 16: lo mismo de siempre, pero mucho mejor, y de una manera totalmente distinta",
-      "Description": "Lo hemos dicho antes: el problema cuando perfeccionas un diseño al punto de satisfacer tus necesidades de producción y, a la vez, las expectativas de sus usuarios, es que no necesitas hacer demasiados cambios. De hecho, como es el caso del iPhone 16, a veces …",
-      "Url": "https://www.xataka.com.co/series-y-peliculas/mes-iphone-16-colombia-siempre-mucho-mejor-manera-totalmente-distinta",
-      "UrlToImage": "https://i.blogs.es/7d66d1/whatsapp-image-2024-10-21-at-3.20.01-pm/840_560.jpeg",
-      "PublishedAt": "2024-10-21T22:06:00Z",
-      "Content": "Lo hemos dicho antes: el problema cuando perfeccionas un diseño al punto de satisfacer tus necesidades de producción y, a la vez, las expectativas de sus usuarios, es que no necesitas hacer demasiado… [+10075 chars]"
     }
   ]
 }
