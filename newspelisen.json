@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 750,
+  "TotalResults": 751,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComicBook.com"
+      },
+      "Author": "Spencer Perry",
+      "Title": "Marvel’s Tom Holland Confirms Spider-Man 4, Production Timeline Revealed",
+      "Description": "Tom Holland in Spider-Man No Way Home\nMarvel actor Tom Holland has been teasing the development of Spider-Man 4 for weeks now, revealing last week that the latest draft of the script “lit a fire under him.” Even when offering that update however, Holland woul…",
+      "Url": "http://comicbook.com/marvel/news/marvels-tom-holland-confirms-spider-man-4-production-timeline-revealed/",
+      "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/10/spider-man-4-confirmed-tom-holland-1.png?resize=2000,1127",
+      "PublishedAt": "2024-10-23T04:24:25Z",
+      "Content": "Marvel actor Tom Holland has been teasing the development of Spider-Man 4 for weeks now, revealing last week that the latest draft of the script “lit a fire under him.” Even when offering that update… [+2366 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/67169cff1a179f306ede28f0/1729600242945/Screenshot%2B%25281843%2529.jpg?format=1500w",
       "PublishedAt": "2024-10-22T12:30:00Z",
       "Content": "Gladiator II had its first screening Friday night, and early reactions have made their way to social media. The sequel to the 2000 film was screened at the Paramount Studios lot in Los Angeles, where… [+1174 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-22T12:12:17Z",
-      "Content": "[Removed]"
     }
   ]
 }
