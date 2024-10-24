@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 67,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The best streaming services in 2024",
+      "Description": "Picking a streaming service these days can feel a lot like picking a show to watch — there are so many options, and each one offers something a little different. Whether you're into binge-worthy TV series, blockbuster movies, live sports or award-winning docu…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175308683",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-23T12:13:25Z",
+      "Content": "Picking a streaming service these days can feel a lot like picking a show to watch — there are so many options, and each one offers something a little different. Whether you're into binge-worthy TV s… [+1131 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-23T09:00:15Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://extra-images.akamaized.net/image/06/16by9/2024/10/09/06fb9accc3e14b58857cfea47c789790_xl.jpg",
       "PublishedAt": "2024-10-09T15:34:31Z",
       "Content": "The deals keep coming! “Extra” continued to shop the Prime Big Deal Days. And here are some more A-list picks worth buying - from fashion and beauty to great deals on fitness and tech! \n \n Amazon Ech… [+2355 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "I’m so glad Slow Horses is a hit",
-      "Description": "The sixth and final episode of Slow Horses’ fourth season lands on Apple TV+ today, giving me a flimsy excuse to urge you all to watch. It’s a pulpy, fun and gripping British spy thriller that has finally started to garner some deserved attention. At six epis…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175219357",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-09T12:12:19Z",
-      "Content": "The sixth and final episode of Slow Horses’ fourth season lands on Apple TV+ today, giving me a flimsy excuse to urge you all to watch. It’s a pulpy, fun and gripping British spy thriller that has fi… [+2850 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-09T12:00:03Z",
-      "Content": "[Removed]"
     }
   ]
 }
