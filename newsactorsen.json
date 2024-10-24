@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 636,
+  "TotalResults": 638,
   "Articles": [
+    {
+      "Source": {
+        "Id": "newsweek",
+        "Name": "Newsweek"
+      },
+      "Author": "Daniel Seddon",
+      "Title": "'St. Elmo's Fire' Sequel Gets Major Update As Character Death Teased",
+      "Description": "Billy Hicks actor Rob Lowe told podcaster Kelly Ripa that the long-awaited follow-up to the coming-of-age movie has all of the original cast interested.",
+      "Url": "https://www.newsweek.com/st-elmos-fire-sequel-update-rob-lowe-1973615",
+      "UrlToImage": "https://d.newsweek.com/en/full/2502350/rob-lowe-teases-st-elmos-fire-sequel.jpg",
+      "PublishedAt": "2024-10-23T15:55:16Z",
+      "Content": "Rob Lowe has updated fans on the sequel to the coming-of-age movie St. Elmo's Fire.\r\nReleased in 1985, its storyline focused on a bunch of Georgetown University graduates settling into adult life wit… [+2850 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HYPEBEAST"
+      },
+      "Author": "info@hypebeast.com (Hypebeast)",
+      "Title": "Tom Holland Confirms 'Spider-Man 4' Is on the Way, Shooting To Begin Next Summer",
+      "Description": "Tom Holland is not keeping this a secret. The young actor appeared on The Tonight Show Starring Jimmy Fallon and spoke about Spider-Man 4. He confirms to the talk show host and his audience that the movies on the way and is set to begin production next summer…",
+      "Url": "https://hypebeast.com/2024/10/marvel-sony-pictures-tom-holland-confirms-spider-man-4-shooting-summer-2025-news",
+      "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F10%2F23%2Fmarvel-sony-pictures-tom-holland-confirms-spider-man-4-shooting-summer-2025-news-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "PublishedAt": "2024-10-23T15:24:08Z",
+      "Content": "Tom Holland is not keeping this a secret. The young actor appeared on The Tonight Show Starring Jimmy Fallon and spoke about Spider-Man 4. He confirms to the talk show host and his audience that the … [+1378 chars]"
+    },
     {
       "Source": {
         "Id": "fox-news",
@@ -366,32 +392,6 @@
       "UrlToImage": "https://static.toiimg.com/thumb/msid-114464791,width-1070,height-580,imgsize-20634,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
       "PublishedAt": "2024-10-22T11:54:34Z",
       "Content": "Happy Birthday Prabhas: 'Baahubali', 'Darling', 'Kalki' movies to watch on his special day"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "Spiderman actor Tom Holland in Christopher Nolan's next movie? Check release date, cast details",
-      "Description": "In what could be a good news for Tom Holland fans, the Spiderman actor has joined Christopher Nolan's next movie. Universal Pictures is set to release the movie in theatres on July 17, 2026, according to reports. This is the first time Tom Holland will be wor…",
-      "Url": "https://economictimes.indiatimes.com/news/international/global-trends/spiderman-actor-tom-holland-in-christopher-nolans-next-movie-check-release-date-cast-details/articleshow/114462592.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-114462700,width-1200,height-630,imgsize-37826,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2024-10-22T10:52:44Z",
-      "Content": "Artificial Intelligence(AI)\r\nAI and Analytics based Business Strategy\r\nBy - Tanusree De, Managing Director- Accenture Technology Lead, Trustworthy AI Center of Excellence: ATCI\r\nView Program"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Raw Story"
-      },
-      "Author": "Agence France-Presse",
-      "Title": "Harvey Weinstein diagnosed with bone marrow cancer: U.S. media",
-      "Description": "Disgraced Hollywood movie producer Harvey Weinstein has been diagnosed with a form of bone marrow cancer, US media reported Monday, a month after he was indicted on a new sex crime charge.Weinstein, 72, has chronic myeloid leukemia and is undergoing treatment…",
-      "Url": "https://www.rawstory.com/harvey-weinstein-diagnosed-with-bone-marrow-cancer-u-s-media/",
-      "UrlToImage": "https://www.rawstory.com/media-library/harvey-weinstein-jeenah-moon-pool-afp.png?id=53842762&width=1200&height=600&coordinates=0%2C66%2C0%2C66",
-      "PublishedAt": "2024-10-22T09:56:40Z",
-      "Content": "Disgraced Hollywood movie producer Harvey Weinstein has been diagnosed with a form of bone marrow cancer, US media reported Monday, a month after he was indicted on a new sex crime charge.\r\nWeinstein… [+1875 chars]"
     }
   ]
 }
