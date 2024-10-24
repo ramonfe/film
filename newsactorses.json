@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1056,
+  "TotalResults": 1057,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "El Financiero"
+      },
+      "Author": "Redacción",
+      "Title": "¿Qué enfermedades tiene César Bono? Actor dice que tuvo la misma bacteria que André Marín",
+      "Description": "César Bono, el intérprete de la serie Vecinos, ha enfrentado varios problemas de salud en los últimos años. En 2018, sufrió múltiples infartos cardíacos y cerebrales que afectaron la movilidad de su mano izquierda.",
+      "Url": "https://www.elfinanciero.com.mx/espectaculos/2024/10/23/que-enfermedades-tiene-el-actor-de-vecinos-cesar-bono/",
+      "UrlToImage": "https://elfinanciero.com.mx/resizer/v2/PBJYZPUKL5CHPL6REBZ64LUDDY.jpg?smart=true&auth=27fcdff1798f3cd19ba1266cb5865b217baa396dec390304972e8f2e7c6d9eae&width=1200&height=630",
+      "PublishedAt": "2024-10-23T23:22:21Z",
+      "Content": "César Bono, conocido por interpretar a Frankie Rivers en Vecinos, habló sobre la presidenta de México, Claudia Sheinbaum, y comentó: Se los digo con el corazón en la mano, muy seriamente, cuando supe… [+2602 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2023/12/20/65831ae9189f2.r_d.797-419-7500.jpeg",
       "PublishedAt": "2024-10-23T12:36:07Z",
       "Content": "A sus 55 años, Jennifer Aniston sigue siendo un referente de belleza y estilo en Hollywood. La actriz, conocida por su papel icónico en la serie Friends, parece no haber envejecido un solo día desde … [+3885 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Publico.es"
-      },
-      "Author": "Público / Efe",
-      "Title": "Muere a los 67 años Michael Newman, actor de la mítica serie 'Los vigilantes de la playa'",
-      "Description": "El intérprete dedicó sus últimos años a la investigación para tratar el párkinson, enfermedad que le diagnosticaron con 50 años.",
-      "Url": "https://www.publico.es/culturas/muere-67-anos-michael-newman-actor-mitica-serie-vigilantes-playa.html",
-      "UrlToImage": "https://www.publico.es/uploads/2024/10/23/6718ea978eaf2.jpeg",
-      "PublishedAt": "2024-10-23T12:26:00Z",
-      "Content": "Michael Newman, conocido por su papel en la exitosa serie Los vigilantes de la playa (Baywatch en su versión original), ha fallecido a los 67 años tras una largo tratamiento contra el párkinson, segú… [+2349 chars]"
     }
   ]
 }
