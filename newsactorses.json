@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1016,
+  "TotalResults": 1017,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Rtve.es"
+      },
+      "Author": null,
+      "Title": "La noche temática - Bruce Willis, todo un héroe americano",
+      "Description": "Su icónico papel como John McClane en \"La jungla de cristal\" catapultó al héroe de acción al estrellato. Pero Bruce Willis también es \"El sexto sentido\" y es \"Luz de Luna\". Conocido por su encanto y sentido del humor, sus interpretaciones demuestran su gran v…",
+      "Url": "https://www.rtve.es/play/videos/la-noche-tematica/bruce-willis-todo-heroe-americano/16300057/",
+      "UrlToImage": "https://img2.rtve.es/v/16300057/?imgProgApi=imgBackground&w=800",
+      "PublishedAt": "2024-10-26T22:35:35Z",
+      "Content": "SinopsisSu icónico papel como John McClane en \"La jungla de cristal\" catapultó al héroe de acción al estrellato. Pero Bruce Willis también es \"El sexto sentido\" y es \"Luz de Luna\". Conocido por su en… [+1445 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/ad4ea8da-6e1a-4ed4-aafa-4beca36918a8_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-10-25T21:25:36Z",
       "Content": "En la noche de este jueves tuvo lugar la gala de los Premios Taburiente 2024 en el Teatro Guimerá de la capital tinerfeña. Unos reconocimientos, tanto nacionales como internacionales, que la Fundació… [+8427 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Ismael Garcia Delgado",
-      "Title": "México dicta sentencia sobre Venom: El Último Baile y afirman que es una comedia de acción digna para el cierre de la trilogía",
-      "Description": "El universo cinematográfico de Sony se encargó de presentar en pantalla grande a diversos personajes relacionados con el amigable vecino Spider-Man. Sin embargo, en su mayoría no lograron cautivar ni al público ni a la crítica, convirtiéndose en fracasos para…",
-      "Url": "https://www.xataka.com.mx/cine-y-tv/mexico-dicta-sentencia-venom-ultimo-baile-afirman-que-comedia-accion-digna-para-cierre-trilogia",
-      "UrlToImage": "https://i.blogs.es/fb88aa/41c809943974b450f05cf3f1c1b5957035244246_s2_n2_y2/840_560.jpeg",
-      "PublishedAt": "2024-10-25T21:24:06Z",
-      "Content": "El universo cinematográfico de Sony se encargó de presentar en pantalla grande a diversos personajes relacionados con el amigable vecino Spider-Man. Sin embargo, en su mayoría no lograron cautivar ni… [+2742 chars]"
     }
   ]
 }
