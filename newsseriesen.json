@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComicBook.com"
+      },
+      "Author": "Charlie Ridgely",
+      "Title": "Territory: Is This New Netflix Series the Next Yellowstone?",
+      "Description": "Image Courtesy of Netflix\nYellowstone has spent the last few years as the biggest show on TV, sometimes feeling like it’s single-handedly saving the concept of cable dramas. Taylor Sheridan’s neo-Western has been an absolute juggernaut since its debut, breaki…",
+      "Url": "http://comicbook.com/tv-shows/news/netflix-tv-shows-territory-new-yellowstone-western/",
+      "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/10/territory-netflix-season-1.jpg?w=1200",
+      "PublishedAt": "2024-10-27T22:58:39Z",
+      "Content": "Yellowstone has spent the last few years as the biggest show on TV, sometimes feeling like it’s single-handedly saving the concept of cable dramas. Taylor Sheridan’s neo-Western has been an absolute … [+3114 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://nofilmschool.com/media-library/how-do-you-break-into-hollywood.webp?id=52197118&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
       "PublishedAt": "2024-10-14T15:45:00Z",
       "Content": "The film industry is notoriously hard to break into. It's been compared to being a professional athlete; you have to continue to train and stay on top of your game if you want to start for a great te… [+10408 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "Caroline Bologna",
-      "Title": "This Mystery Drama Is The Top Show On Netflix Right Now",
-      "Description": "A new psychological thriller and a spy drama are among the shows trending across streaming services like Max, Peacock, Apple TV+ and Amazon Prime Video.",
-      "Url": "https://www.huffpost.com/entry/outer-banks-popular-netflix-shows_n_670c7498e4b0aa1736e5707a",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/670c7f492400001f0082d023.jpg?cache=zESlgKA1mP&ops=1200_630",
-      "PublishedAt": "2024-10-14T14:08:11Z",
-      "Content": "Outer Banks is currently the most popular show on Netflix, according to the platforms public ranking system.\r\nThe mystery drama is back for season four, continuing the story of teens searching for tr… [+2081 chars]"
     }
   ]
 }
