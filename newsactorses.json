@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1033,
+  "TotalResults": 1035,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Los chanchullos de RTVE, el plantón a Serrat y 'La canción' de Massiel que hizo historia en España",
+      "Description": "Si veinte años no son nada, como decía Gardel, cincuenta tampoco son muchos... En 1968 gobernaba Franco, no Sánchez. Y España era muy distinta a la actual, o no tanto. RTVE estaba sumida en una interminable guerra, el uso del catalán despertaba suspicacias, l…",
+      "Url": "https://www.abc.es/play/series/noticias/chanchullos-rtve-planton-serrat-cancion-massiel-hizo-20241028114359-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/10/28/lacancion.jpg",
+      "PublishedAt": "2024-10-27T16:57:54Z",
+      "Content": "Si veinte años no son nada, como decía Gardel, cincuenta tampoco son muchos... En 1968 gobernaba Franco, no Sánchez. Y España era muy distinta a la actual, o no tanto. RTVE estaba sumida en una inter… [+3030 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "El Comercio/Perú/GDA",
+      "Title": "Liam Neeson anuncia su posible despedida del cine de acción",
+      "Description": "Liam Neeson, reconocido actor de acción, sorprendió al anunciar su posible retiro del género. Con 72 años dijo que 'esto tiene que terminar en algún momento'.",
+      "Url": "https://www.nacion.com/viva/farandula/liam-neeson-anuncia-su-posible-despedida-del-cine/HHNNA5BE2NETHLQ3ZXJMEGEZDI/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/PTKEWCH3DZAAPMUOA7YYBELFOQ.png?smart=true&auth=b4e73414c8063a476cb3c7561d3cd9b0a7ef8b503d359161f2b792cdbd00b0d3&width=1440",
+      "PublishedAt": "2024-10-27T16:29:27Z",
+      "Content": "La noticia que muchos no querían recibir llegó. El actor irlandés Liam Neeson, ícono del cine de acción contemporáneo, habló con claridad sobre su posible retiro de dicho género.Famoso mundialmente p… [+1855 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://meneame.net/img/logo_meneame.png",
       "PublishedAt": "2024-10-26T14:02:01Z",
       "Content": "El precio no es por apoyar a Israel, es por apoyar el Nazionismo de iSSrael."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Milenio Entretenimiento",
-      "Title": "Mamá de Matthew Perry recuerda los últimos momentos con su hijo antes de morir; asevera tuvo una “premonición”",
-      "Description": "A casi un año de la muerte de Matthew Perry, famoso por participar en la serie Friends,Suzanne Morrison, madre del actor, habló por primera vez sobre su lamentable perdida.Fue el pasado 28 de octubre cuando Perry fueencontrado muerto dentrode su bañeraen su d…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/mama-de-matthew-perry-lo-recuerda-y-dice-tuvo-una-premonicion",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/26/mama-matthew-perry-recuerda-momentos.jpg",
-      "PublishedAt": "2024-10-26T12:51:00Z",
-      "Content": "A casi un año de la muerte deMatthew Perry, famoso por participar en la serie Friends, Suzanne Morrison, madre del actor, habló por primera vez sobre su lamentable perdida. \r\nFue el pasado 28 de octu… [+2668 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "Jose García",
-      "Title": "El otro gran problema de Telegram no tiene nada que ver con Rusia: bots que desnudan a personas con IA",
-      "Description": "Corría el año 2019. La IA generativa todavía estaba en pañales, pero ya empezaban a escucharse y hacer ruido términos como redes neuronales (para bien, por su potencial) y deepfakes (normalmente, para mal). Uno de los escándalos más sonados de 2019 fue el de …",
-      "Url": "https://www.xataka.com/aplicaciones/otro-gran-problema-telegram-no-tiene-nada-que-ver-rusia-bots-que-desnudan-a-personas-ia",
-      "UrlToImage": "https://i.blogs.es/fbcc64/telegram/840_560.jpeg",
-      "PublishedAt": "2024-10-26T11:31:59Z",
-      "Content": "Corría el año 2019. La IA generativa todavía estaba en pañales, pero ya empezaban a escucharse y hacer ruido términos como redes neuronales (para bien, por su potencial) y deepfakes (normalmente, par… [+6956 chars]"
     }
   ]
 }
