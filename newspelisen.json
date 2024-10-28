@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 744,
+  "TotalResults": 745,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NDTV News"
+      },
+      "Author": "Sreetama Basu",
+      "Title": "Ajay Devgn's Naam With Anees Bazmee To Release After 10 Years",
+      "Description": "Naam was shot in 2014, but got delayed. The movie will finally hit the theatres on November 22, 2024",
+      "Url": "https://www.ndtv.com/entertainment/naam-ajay-devgns-long-delayed-film-with-anees-bazmee-to-release-in-november-after-10-years-6884249",
+      "UrlToImage": "https://c.ndtvimg.com/2024-10/s20md98o_w_625x300_27_October_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "PublishedAt": "2024-10-27T07:25:25Z",
+      "Content": "After Singham Again, Ajay Devgn is already set for the release of his next film, titled Naam, helmed by Aneex Bazmee. This marks the actor's fourth collaboration with the filmmaker, after the psychol… [+1752 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4390419-venom-1.jpg",
       "PublishedAt": "2024-10-25T18:49:00Z",
       "Content": "The standard 4K Blu-ray is priced at $50, the standard Blu-ray is $41, and for those of you who still prefer 480p media, the DVD release will be $35.\r\nSpecial features haven't been finalized yet, but… [+487 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news",
-        "Name": "ABC News"
-      },
-      "Author": "LINDSEY BAHR AP film writer",
-      "Title": "Fourth Spider-Man movie starring Tom Holland is set for release July 2026",
-      "Description": "Tom Holland is getting ready to don his Spidey suit again",
-      "Url": "https://abcnews.go.com/Entertainment/wireStory/fourth-spider-man-movie-starring-tom-holland-set-115158214",
-      "UrlToImage": "https://i.abcnewsfe.com/a/053a8095-af13-49d1-b302-047ed5e9438b/wirestory_f05d915262adb2859c0bbf36e0967455_16x9.jpg?w=1600",
-      "PublishedAt": "2024-10-25T18:46:44Z",
-      "Content": "Tom Holland is getting ready to don his Spidey suit again. The fourth installment of the blockbuster series has been set for a July 2026 release, Sony Pictures said Friday. \r\nDaniel Destin Cretton, b… [+881 chars]"
     }
   ]
 }
