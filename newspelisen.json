@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 733,
+  "TotalResults": 735,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Chris Reed",
+      "Title": "This New Lord of the Rings Movie Box Set Comes with the One Ring",
+      "Description": "A new gift box set of The Lord of the Rings motion picture trilogy in 4K is set to release just in time for Christmas.",
+      "Url": "https://www.ign.com/articles/where-to-buy-lord-of-the-rings-trilogy-one-ring-4k-gift-box",
+      "UrlToImage": "https://assets-prd.ignimgs.com/2024/10/28/1a-1730130401765.jpg?width=1280",
+      "PublishedAt": "2024-10-28T16:42:20Z",
+      "Content": "Heres one for Tolkien fans: A new box set of the Lord of the Rings movie trilogy is up for preorder (see it at Amazon). Priced at an oddly specific $157.32 and set to release December 20, it's a gift… [+1963 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Extra"
+      },
+      "Author": "Extra Staff",
+      "Title": "The Bear Becomes the Boss! First Look at Jeremy Allen White as Bruce Springsteen",
+      "Description": "Filming is underway in New Jersey on the new Bruce Springsteen movie “Deliver Me from Nowhere,” starring “The Bear’s” JeremyAllen White!\n 20th Century Studios just dropped the first photo of the actor embodying the Boss in a plaid shirt and leather jacket.\n T…",
+      "Url": "https://extratv.com/2024/10/28/the-bear-becomes-the-boss-first-look-at-jeremy-allen-white-as-bruce-springsteen/",
+      "UrlToImage": "https://extra-images.akamaized.net/image/d8/16by9/2024/10/28/d8c7f8b5bfc6485dbd472787535475f3_xl.jpg",
+      "PublishedAt": "2024-10-28T16:06:58Z",
+      "Content": "Filming is underway in New Jersey on the new Bruce Springsteen movie “Deliver Me from Nowhere,” starring “The Bear’s” JeremyAllen White!\n 20th Century Studios just dropped the first photo of the acto… [+2383 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/10/Marvel-Blade-delayed-release-date-cancelled-explained.png?resize=2000,1120",
       "PublishedAt": "2024-10-26T13:30:00Z",
       "Content": "Is this the final nail in the coffin for the Daywalker? Disney has removed Marvel Studios’ Blade movie from its 2025 release calendar and slotted Predator: Badlands for Nov. 7, 2025, leaving the Mahe… [+15043 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComicBook.com"
-      },
-      "Author": "Matthew Aguilar",
-      "Title": "Dynamic Duo Rumored to Be Getting Early 2028 Release",
-      "Description": "As DC Studios ramps up its new movie and television universe, one of the more unexpected but highly anticipated projects focuses on the Bat family, and now it appears we have a release window for it. Earlier this year James Gunn announced a new animated movie…",
-      "Url": "http://comicbook.com/dc/news/dynamic-duo-rumored-to-be-getting-early-2028-release/",
-      "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/10/DC-Dynamic-Duo-Logo.jpg?w=1200",
-      "PublishedAt": "2024-10-26T01:37:14Z",
-      "Content": "As DC Studios ramps up its new movie and television universe, one of the more unexpected but highly anticipated projects focuses on the Bat family, and now it appears we have a release window for it.… [+2276 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "IndieWire"
-      },
-      "Author": "Alison Foreman",
-      "Title": "The Quintessential Midnight Movie You Almost Can’t See, ‘Popcorn’ (1991) Is Why Streaming Feels Scary",
-      "Description": "After Dark: Directed by Mark Herrier...for the most part...this troubled treasure about a group of film students putting on a festival at a condemned theater is essential.",
-      "Url": "https://www.indiewire.com/features/best-of/popcorn-midnight-movie-1991-after-dark-1235060370/",
-      "UrlToImage": "https://www.indiewire.com/wp-content/uploads/2024/10/MSDPOPC_EC001.jpg?w=650",
-      "PublishedAt": "2024-10-26T01:30:00Z",
-      "Content": "On Friday nights, IndieWire After Dark takes a feature-length beat to honor fringe cinema in the streaming age.\r\nIn October 2024, we’re doing the Midnight Movie Monster Mash with films that challenge… [+5656 chars]"
     }
   ]
 }
