@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Google TV Streamer review: A great side piece for your TV, with a dash of smart home chops and (inessential) AI",
+      "Description": "What we once called the Google Chromecast (and then the Chromecast with Google TV) is now the Google TV Streamer. I won’t pretend to understand the reasoning behind any product’s rebrand, but at least this one makes a bit of sense. Casting content from elsewh…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175353157",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-29T16:32:37Z",
+      "Content": "What we once called the Google Chromecast (and then the Chromecast with Google TV) is now the Google TV Streamer. I won’t pretend to understand the reasoning behind any product’s rebrand, but at leas… [+12543 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-10-29T16:00:34Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "American Primeval Release Date Set for Western Thriller Show, First Look Photos Unveiled",
+      "Description": "Netflix has announced the American Primeval release date for the upcoming Western thriller drama starring Taylor Kitsch and Betty Gilpin. In addition, the streamer also shared official photos from the series, providing fans with a first look at the main cast.…",
+      "Url": "https://www.comingsoon.net/tv/news/1871427-american-primeval-release-date-western-thriller-first-look-photos",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/10/AMPRIMEVAL-9-1.jpg?resize=1200,630",
+      "PublishedAt": "2024-10-29T16:00:00Z",
+      "Content": "Netflix has announced the American Primeval release date for the upcoming Western thriller drama starring Taylor Kitsch and Betty Gilpin. In addition, the streamer also shared official photos from th… [+1185 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.theplaylist.net/wp-content/uploads/2024/10/15144208/Shrinking-Season-two.jpg",
       "PublishedAt": "2024-10-15T18:44:14Z",
       "Content": "Four years ago, as a global pandemic brought society both indoors and desperate for any means of suitable distraction, television veteran Bill Lawrence, having once breathed life into cultural touchs… [+7083 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Culinary Class Wars Season 2 Ordered, Netflix Issues Statement",
-      "Description": "Netflix has officially announced the Culinary Class Wars Season 2 renewal for its newest cooking reality competition show from South Korea. This comes after over a week since Season 1 released its final episode. Since making its debut nearly a month ago, the …",
-      "Url": "https://www.comingsoon.net/tv/news/1864035-culinary-class-wars-season-2-ordered-netflix-statement",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/10/Screenshot-2024-10-15-112810.png?resize=1200,630",
-      "PublishedAt": "2024-10-15T15:40:13Z",
-      "Content": "Netflix has officially announced the Culinary Class WarsSeason 2 renewal for its newest cooking reality competition show from South Korea. This comes after over a week since Season 1 released its fin… [+1492 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cisa.gov"
-      },
-      "Author": "CISA",
-      "Title": "Vulnerability Summary for the Week of October 7, 2024",
-      "Description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n<th>Patch Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>adobe -- animate </td>\n<td>Animate versions 23.0.7, 24.0.4 and earli…",
-      "Url": "https://www.cisa.gov/news-events/bulletins/sb24-289",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-15T13:50:09Z",
-      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1101 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Nofilmschool.com"
-      },
-      "Author": "Jason Hellerman",
-      "Title": "How Do You Break Into Hollywood Now?",
-      "Description": "The film industry is notoriously hard to break into. It's been compared to being a professional athlete; you have to continue to train and stay on top of your game if you want to start for a great team. \n\nBut just like professional sports, film and TV have ch…",
-      "Url": "https://nofilmschool.com/how-to-break-into-hollywood",
-      "UrlToImage": "https://nofilmschool.com/media-library/how-do-you-break-into-hollywood.webp?id=52197118&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
-      "PublishedAt": "2024-10-14T15:45:00Z",
-      "Content": "The film industry is notoriously hard to break into. It's been compared to being a professional athlete; you have to continue to train and stay on top of your game if you want to start for a great te… [+10408 chars]"
     }
   ]
 }
