@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1023,
+  "TotalResults": 1024,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Raquel Villaécija",
+      "Title": "Slimane, el francés que cantó al amor en Eurovisión, denunciado por acoso sexual",
+      "Description": "Este lunes arrancó el juicio contra el actor Gérard Depardieu por una agresión sexual a dos mujeres. Un monstruo del cine francés. Pero este martes, el blanco de las sospechas...",
+      "Url": "https://www.elmundo.es/internacional/2024/10/31/6722550421efa0d9618b45d3.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/44c13abf13c2523e258c7dad87b4d89b/f/webp/assets/multimedia/imagenes/2024/10/30/17303033435033.jpg",
+      "PublishedAt": "2024-10-30T23:14:21Z",
+      "Content": "Este lunes arrancó el juicio contra el actor Gérard Depardieu por una agresión sexual a dos mujeres. Un monstruo del cine francés.\r\nPero este martes, el blanco de las sospechas es el que, hace sólo u… [+2920 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.ecartelera.com/noticias/78700/78784-h2.jpg",
       "PublishedAt": "2024-10-30T09:00:00Z",
       "Content": "La primera reacción de Mario Casas al leer el guion de 'Escape' seguramente será la misma que la de los espectadores al verla. \"Tenía muchas preguntas\", reconoce el actor de N. Sí, ese es el ¿nombre?… [+3649 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Pedro Gallego",
-      "Title": "El thriller que cambió la carrera de Jake Gyllenhaal cumple 10 años, sigue siendo un cañón y puedes verlo en streaming",
-      "Description": "Existen determinados tipos de actores que se vuelven obsesión para la cinefilia tuitera y que, por la propia naturaleza de comunidades como Twitter, terminan dejados de lado sin llegar a haber renunciado a justo lo que les volvió populares en primer lugar. En…",
-      "Url": "https://www.espinof.com/actores-y-actrices/thriller-que-cambio-carrera-jake-gyllenhaal-cumple-10-anos-sigue-siendo-canon-puedes-verlo-streaming",
-      "UrlToImage": "https://i.blogs.es/5937b4/nightcrawler-2014-dan-gilroy/840_560.jpeg",
-      "PublishedAt": "2024-10-30T08:31:25Z",
-      "Content": "Existen determinados tipos de actores que se vuelven obsesión para la cinefilia tuitera y que, por la propia naturaleza de comunidades como Twitter, terminan dejados de lado sin llegar a haber renunc… [+2590 chars]"
     }
   ]
 }
