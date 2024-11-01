@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1024,
+  "TotalResults": 1025,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "AFP",
+      "Title": "Director de 'Emilia Pérez' revela que está \"aterrorizado\" por el éxito de la película",
+      "Description": "La cinta Emilia Pérezfue premiada en el festival de Cannes y adquirida por Netflix. Ahora, el director de este drama musical, el francés Jacques Audiard, se adentra en una ardua etapa: una brillante pero agotadora campaña en la carrera por el Oscar.\"Estoy ate…",
+      "Url": "https://www.milenio.com/espectaculos/cine/emilia-perez-director-aterrorizado-exito-pelicula",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/30/cinta-aspira-ganar-premio-oscar.jpg",
+      "PublishedAt": "2024-10-31T03:54:51Z",
+      "Content": "La cinta Emilia Pérez fue premiada en el festival de Cannes y adquirida por Netflix. Ahora, el director de este drama musical, el francés Jacques Audiard, se adentra en una ardua etapa: una brillante… [+4606 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/eip-410-unit-00139r-6722014513c28.jpg?crop=1.00xw:0.753xh;0,0.132xh&resize=1200:*",
       "PublishedAt": "2024-10-30T09:49:00Z",
       "Content": "¿Tú de qué 'team' eres con respecto a las relaciones que ha tenido Emily (Lily Collins) en la serie 'Emily in Paris'? ¿Eres más 'team Alfie', con su estilo caballeroso y señorial? ¿Eres del 'team Mar… [+2661 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Rafa Jiménez",
-      "Title": "Mario Casas y Rodrigo Cortés avisan que 'Escape' es una película que \"no va a agradar a todo el mundo\"",
-      "Description": "ENTREVISTA ECARTELERA Entrevistamos al director de 'Buried' y al actor de 'Contratiempo' en la presentación dentro del 72 Festival de Cine de San Sebastián de su nueva y \"extrema\" película sobre un hombre que quiere entrar en prisión.Mario Casas y Rodrigo Cor…",
-      "Url": "https://www.ecartelera.com/noticias/entrevista-escape-mario-casas-rodrigo-cortes-78784/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/78700/78784-h2.jpg",
-      "PublishedAt": "2024-10-30T09:00:00Z",
-      "Content": "La primera reacción de Mario Casas al leer el guion de 'Escape' seguramente será la misma que la de los espectadores al verla. \"Tenía muchas preguntas\", reconoce el actor de N. Sí, ese es el ¿nombre?… [+3649 chars]"
     }
   ]
 }
