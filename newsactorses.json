@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1009,
+  "TotalResults": 1010,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "María Hervás: «Mi obsesión como artista y como mujer es ser cada día más libre»",
+      "Description": "Veinticuatro horas sobre el escenario. Ése es el reto al que se enfrenta la actriz madrileña María Hervás en ' The Second Woman ' ('La segunda mujer'), una obra creada y dirigida por las australianas Nat Randall y Anna Breckon -dos artistas, se definen, «que …",
+      "Url": "https://www.abc.es/cultura/teatros/maria-hervas-obsesion-artista-mujer-dia-libre-20241031044333-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/cultura/2024/10/31/MariaHervas-U31480580601ZMr-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-11-01T03:43:34Z",
+      "Content": "Veinticuatro horas sobre el escenario. Ése es el reto al que se enfrenta la actriz madrileña María Hervás en 'The Second Woman' ('La segunda mujer'), una obra creada y dirigida por las australianas N… [+606 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/10/31/oderbruch-kbjE--1024x512@diario_abc.jpg",
       "PublishedAt": "2024-10-31T11:51:56Z",
       "Content": "La alemana 'Oderbruch' ha ganado el premio a la mejor serie de ficción en la segunda edición del South International Series Festival celebrado en Cádiz desde el pasado 25 de octubre por su «creativid… [+1523 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Sara Rubio Gómez",
-      "Title": "Para Jude Law, la serie de 'Harry Potter' es la culpable del fin de 'Animales fantásticos'",
-      "Description": "SE ACABÓ El actor, que formó parte de la saga, cree que la serie de 'Harry Potter' para Max ha cerrado todas las puertas a la continuación de 'Animales fantásticos'.Para Jude Law, la serie de 'Harry Potter' es la culpable del fin de 'Animales fantásticos'",
-      "Url": "https://www.ecartelera.com/noticias/jude-law-cree-serie-harry-potter-fin-animales-fantasticos-78811/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/78800/78811-h2.jpg",
-      "PublishedAt": "2024-10-31T11:39:00Z",
-      "Content": "Por si no era suficiente con que Eddie Redmayne (Newt Scamander) confirmara el fin de 'Animales fantásticos', otro de los actores de la franquicia se ha encargado de arrebatar cualquiera esperanza a … [+1870 chars]"
     }
   ]
 }
