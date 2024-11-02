@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 806,
+  "TotalResults": 807,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "POPSUGAR"
+      },
+      "Author": "Johanna Ferreira",
+      "Title": "Ariana DeBose Opens Up About Spirituality, the Election, and Her Ultimate Purpose",
+      "Description": "Ariana DeBose is having a moment. The proud Afro-Latina and unapologetically queer actress has carved a path for herself worth paying attention to, and not just for the powerful representation she brings by always staying true to her authentic self. DeBose's …",
+      "Url": "https://www.popsugar.com/identity/ariana-debose-talks-spirituality-politics-purpose-49406828",
+      "UrlToImage": "https://media1.popsugar-assets.com/files/thumbor/QPqULeE_Znl_-yg1c-fbCwlUi9s=/0x82:3749x2050/fit-in/3750x2630/top/filters:format_auto():quality(85):upscale()/2024/11/01/875/n/49351773/9dfe32e46725336c3d7264.03064992_.jpg",
+      "PublishedAt": "2024-11-01T20:10:46Z",
+      "Content": "Ariana DeBose is having a moment. The proud Afro-Latina and unapologetically queer actress has carved a path for herself worth paying attention to, and not just for the powerful representation she br… [+21081 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-31T16:33:00Z",
       "Content": "Throughout this ongoing blog series on C2PA's limitations and vulnerabilities, I have repeatedly referred to their designations with a slash. For example, \"Adobe/C2PA\", \"Adobe/CAI\", \"Adobe/C2PA/CAI\",… [+16791 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hackerfactor.com"
-      },
-      "Author": "Dr. Neal Krawetz",
-      "Title": "C2PA and the All Adobe Show",
-      "Description": "Throughout this ongoing blog series on C2PA's limitations and vulnerabilities, I have repeatedly referred to their designations with a slash. For example, \"Adobe/C2PA\", \"Adobe/CAI\", \"Adobe/C2PA/CAI\", etc. The slash is because I often don't see a distinction b…",
-      "Url": "https://hackerfactor.com/blog/index.php?/archives/1048-C2PA-and-the-All-Adobe-Show.html",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-31T16:33:00Z",
-      "Content": "Throughout this ongoing blog series on C2PA's limitations and vulnerabilities, I have repeatedly referred to their designations with a slash. For example, \"Adobe/C2PA\", \"Adobe/CAI\", \"Adobe/C2PA/CAI\",… [+16984 chars]"
     }
   ]
 }
