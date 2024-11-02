@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 74,
+  "TotalResults": 75,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-01T13:20:04Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": "polygon",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/10/cate-blanchett-and-sacha-baron-cohen-in-disclaimer.jpg",
       "PublishedAt": "2024-10-19T01:16:03Z",
       "Content": "Apple TV+'s latest thriller Disclaimerhas quickly gained traction, becoming a breakout hit within just one week of its release. Starring Academy Award-winner Cate Blanchett, the series revolves aroun… [+3473 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Anthony Nash",
-      "Title": "Dune: Prophecy Trailer Sets HBO & Max Release Date for Spin-off Show",
-      "Description": "A new Dune: Prophecy trailer is out, setting the release date for the highly anticipated HBO series that acts as a spin-off to the Dune movies. When does Dune: Prophecy come out? The new series releases on November 17, 2024, on HBO at 9:00 p.m. ET. The six-ep…",
-      "Url": "https://www.comingsoon.net/tv/news/1865819-dune-prophecy-trailer-hbo-release-date",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/10/dune-prophecy-trailer-still.png?resize=1200,630",
-      "PublishedAt": "2024-10-17T21:04:45Z",
-      "Content": "A new Dune: Prophecy trailer is out, setting the release date for the highly anticipated HBO series that acts as a spin-off to the Dune movies.\r\nThe new series releases on November 17, 2024, on HBO a… [+1445 chars]"
     }
   ]
 }
