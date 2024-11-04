@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 955,
+  "TotalResults": 956,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Mariana Mijares",
+      "Title": "El tío Netflix y Max versionan nuestros clásicos",
+      "Description": "El cine y la televisión han recurrido a la literatura para inspirar sus historias. Seguimos viendo versiones de Shakespeare, Jane Austen o Stephen King en producciones anglosajonas, pero también las grandes producciones de Marvel o DC se originaron en un cómi…",
+      "Url": "https://www.milenio.com/espectaculos/el-tio-netflix-y-max-versionan-nuestros-clasicos",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/01/el-tio-netflix-y-max-3.jpg",
+      "PublishedAt": "2024-11-03T06:07:01Z",
+      "Content": "El cine y la televisión han recurrido a la literatura para inspirar sus historias. Seguimos viendo versiones de Shakespeare, Jane Austen o Stephen King en producciones anglosajonas, pero también las … [+12706 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/10/31/aaron-diaz-francesco-sarcina-unen.jpg",
       "PublishedAt": "2024-11-01T09:01:34Z",
       "Content": "Un día, vestido de charro y mezcal en mano, Aarón Díaz visitó a su amigo Francesco Sarcina (cantautor italiano, miembro y líder del grupo de rock Le Vibrazioni) y le propuso una idea musical; esto, a… [+3045 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "Qué hacer en Sevilla en noviembre",
-      "Description": "Sevilla se viste de gala este noviembre, ofreciendo una variada y emocionante oferta de actividades que promete deleitar a todos los gustos y edades. Con el clima ya algo frío de esta época, la capital andaluza se convierte en el escenario perfecto para disfr…",
-      "Url": "https://www.abc.es/queplan/sevilla/que-hacer/sevilla-noviembre-20241101075423-nts.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/queplan/2024/11/01/gala-festival-cina-U85117233737BYe-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-11-01T06:54:23Z",
-      "Content": "Sevilla se viste de gala este noviembre, ofreciendo una variada y emocionante oferta de actividades que promete deleitar a todos los gustos y edades. Con el clima ya algo frío de esta época, la capit… [+30547 chars]"
     }
   ]
 }
