@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 905,
+  "TotalResults": 906,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "Paloma Anaya",
+      "Title": "El renacer de Adam Brody, casado con Leighton Meester, padre de dos hijos y estrella de la comedia que arrasa en Netflix",
+      "Description": "Es el actor del momento gracias a su papel de rabino sexy en la serie 'Nadie quiere esto'",
+      "Url": "https://www.hola.com/actualidad/20241104726926/adam-brody-arrasa-con-kristen-bell-serie-netflix/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/3e36a3f8543c-adam-brody-getty2.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-11-04T06:42:28Z",
+      "Content": "Dos de los actores más famosos de la pequeña pantalla forman uno de los matrimonios más estables de Hollywood y tienen dos hijos. Se trata de Adam Brody, el inolvidable Seth Cohen en The O.C., y Leig… [+2918 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/95bfd2/beef_110_unit_02104rc/840_560.jpeg",
       "PublishedAt": "2024-11-02T10:00:39Z",
       "Content": "Cuando se estrena contenido casi diario en plataformas de streaming como Netflix, es fácil que nos perdamos algunas joyas. Especialmente si no se publicitan ni se anuncian a bombo y platillo. A pesar… [+2196 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakahome.com"
-      },
-      "Author": "Antonio Vallejo",
-      "Title": "Apagar la tele con el mando del Chromecast está bien, pero el consumo fantasma me quita el sueño. Así he quitado esta función",
-      "Description": "Los dongles HDMI y set-top-box más actuales del mercado ofrecen un mando a distancia compatible con la tecnología HDMI-CEC. Esto es útil, ya que puedes hacer que el propio mando del dispositivo también te sirva para controlar algunas funciones del mando a dis…",
-      "Url": "https://www.xatakahome.com/tutoriales/apagar-tele-mando-chromecast-esta-bien-consumo-fantasma-me-quita-sueno-asi-he-quitado-esta-funcion",
-      "UrlToImage": "https://i.blogs.es/ac0f91/img20241009101926/1200_630.jpeg",
-      "PublishedAt": "2024-11-02T09:00:41Z",
-      "Content": "Los dongles HDMI y set-top-box más actuales del mercado ofrecen un mando a distancia compatible con la tecnología HDMI-CEC. Esto es útil, ya que puedes hacer que el propio mando del dispositivo tambi… [+3758 chars]"
     }
   ]
 }
