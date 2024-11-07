@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 200,
+  "TotalResults": 201,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Pedro Gallego",
+      "Title": "Clint Eastwood ya nos llevó a juicio en una de sus mejores películas antes de 'Jurado nº2'. Un drama sureño basado en hechos reales que puedes ver en streaming",
+      "Description": "Puede haber una infinidad de motivos por los que el estreno de ‘Jurado Nº 2’ no tiene el calibre que requeriría una posible última película de uno de los grandes cineastas del cine americano. Desde una falta de respeto a toda una institución como Clint Eastwo…",
+      "Url": "https://www.espinof.com/cine-clasico/clint-eastwood-nos-llevo-a-juicio-sus-mejores-peliculas-antes-jurado-no2-drama-sureno-basado-hechos-reales-que-puedes-ver-streaming",
+      "UrlToImage": "https://i.blogs.es/702805/medianoche-en-el-jardin-del-bien-y-el-mal-1997-clint-eastwood/840_560.jpeg",
+      "PublishedAt": "2024-11-06T19:30:51Z",
+      "Content": "Puede haber una infinidad de motivos por los que el estreno de Jurado Nº 2 no tiene el calibre que requeriría una posible última película de uno de los grandes cineastas del cine americano. Desde una… [+2985 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/042ab3/scream7/840_560.jpeg",
       "PublishedAt": "2024-11-02T20:00:41Z",
       "Content": "\"¿Te gustan las películas de terror?\". Hace más de dos décadas y medias que Wes Craven aterró a toda una generación con una pregunta que, paradójicamente, reavivó el interés por el cine de género más… [+3433 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Luis Acosta",
-      "Title": "Netflix tiene una de las películas más taquilleras de terror de la década pero quedan pocos días para verla en streaming",
-      "Description": "En últimos años el cine de terror nos ha regalado bastantes producciones muy buenas, basta con ver la más reciente cinta: La Sustancia, que ha sido el centro de muchas conversaciones en redes sociales. Pero una de las películas más taquilleras del 2022 fue So…",
-      "Url": "https://www.xataka.com.mx/cine-y-tv/netflix-tiene-peliculas-taquilleras-terror-decada-quedan-pocos-dias-para-verla-streaming",
-      "UrlToImage": "https://i.blogs.es/4373e7/smile-netflix/840_560.jpeg",
-      "PublishedAt": "2024-11-02T19:00:42Z",
-      "Content": "En últimos años el cine de terror nos ha regalado bastantes producciones muy buenas, basta con ver la más reciente cinta: La Sustancia, que ha sido el centro de muchas conversaciones en redes sociale… [+2734 chars]"
     }
   ]
 }
