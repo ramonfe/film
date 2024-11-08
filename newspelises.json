@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 200,
+  "TotalResults": 201,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Joel Calata",
+      "Title": "En los años 2000 el éxito de Sony Pictures dependía de sólo dos actores, una muestra de cómo ha evolucionado la idea de las estrellas de Hollywood",
+      "Description": "Hemos hablado anteriormente sobre los actores más prolíficos de la industria del cine y de cómo se han hecho millonarios a base de contratos estipulados y cláusulas que los benefician económicamente, sin embargo, pocas historias son tan sorprendentes como el …",
+      "Url": "https://www.espinof.com/actores-y-actrices/anos-2000-exito-sony-pictures-dependia-solo-dos-actores-muestra-como-ha-evolucionado-idea-estrellas-hollywood",
+      "UrlToImage": "https://i.blogs.es/290b29/ps---plantilla-portadas-xtk-copia/840_560.jpeg",
+      "PublishedAt": "2024-11-07T17:01:40Z",
+      "Content": "Hemos hablado anteriormente sobre los actores más prolíficos de la industria del cine y de cómo se han hecho millonarios a base de contratos estipulados y cláusulas que los benefician económicamente,… [+6466 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://ipadizate.com/hero/2024/10/cate-blanchett-en-disclaimer.jpg?width=1200",
       "PublishedAt": "2024-11-03T15:00:22Z",
       "Content": "Cate Blanchett en Disclaimer\r\nEl 11 de octubre pasado Apple TV+ estrenó una nueva serie titulada \"Disclaimer\" (Desprecio), una serie de suspenso y thriller psicológico dirigida por el mexicano Alfons… [+3946 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "Hoy en TV, una de las mejores películas del oeste de los últimos años. Un impresionante western que busca entretener por encima de todo",
-      "Description": "En Hollywood cada vez se apuesta con menos fuerza por las películas del oeste, por lo que es muy raro que nadie invierta en un blockbuster con forma de western. El enorme fracaso de 'El llanero solitario' en 2013 tampoco invita a ello, pero lo cierto es que t…",
-      "Url": "https://www.espinof.com/la-1/hoy-tv-mejores-peliculas-oeste-ultimos-anos-impresionante-western-que-busca-entretener-encima-todo",
-      "UrlToImage": "https://i.blogs.es/3e9fee/siete/840_560.jpeg",
-      "PublishedAt": "2024-11-03T12:00:50Z",
-      "Content": "En Hollywood cada vez se apuesta con menos fuerza por las películas del oeste, por lo que es muy raro que nadie invierta en un blockbuster con forma de western. El enorme fracaso de 'El llanero solit… [+2988 chars]"
     }
   ]
 }
