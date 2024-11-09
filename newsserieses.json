@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 916,
+  "TotalResults": 917,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka Android"
+      },
+      "Author": "Iván Ramírez",
+      "Title": "Las nueve aplicaciones que siempre instalo en mi móvil Android antes de un vuelo transatlántico",
+      "Description": "Una cosa es un vuelo de un par de horas y otro de diez horas o más. Si bien mi estrategia suele resumirse en \"dormir todo lo posible\", siempre preparo el móvil para que sea imposible aburrirme durante los vuelos más largos. Esto implica instalar una serie de …",
+      "Url": "https://www.xatakandroid.com/listas/nueve-aplicaciones-que-siempre-instalo-mi-movil-android-antes-vuelo-transatlantico",
+      "UrlToImage": "https://i.blogs.es/dabce3/appsavion/840_560.jpeg",
+      "PublishedAt": "2024-11-08T17:01:40Z",
+      "Content": "Una cosa es un vuelo de un par de horas y otro de diez horas o más. Si bien mi estrategia suele resumirse en \"dormir todo lo posible\", siempre preparo el móvil para que sea imposible aburrirme durant… [+4650 chars]"
+    },
     {
       "Source": {
         "Id": "ign",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241107192313_1200.jpg",
       "PublishedAt": "2024-11-07T18:23:13Z",
       "Content": "MADRID, 7 Nov. (CulturaOcio) - \r\n   La diplomática, serie creada por Debora Cahn, lanzó su temporada 2 el pasado 31 de octubre. Apenas unos días después de su llegada a Netflix, los fans ya se pregun… [+1500 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "¿A qué hora se estrena la temporada 2 de Arcane en Netflix?",
-      "Description": "La temporada 2 de Arcane, la aclamada serie de animación ambientada en el universo del videojuego League of Legends, llegará a Netflix el próximo 9 de noviembre con el estreno de sus tres primeros capítulos. Esta nueva entrega narrará el final de la brutal hi…",
-      "Url": "https://www.culturaocio.com/tv/noticia-hora-estrena-temporada-arcane-netflix-20241107183429.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241107183429_1200.jpg",
-      "PublishedAt": "2024-11-07T17:34:29Z",
-      "Content": "MADRID, 7 Nov. (CulturaOcio) - \r\n   La temporada 2 de Arcane, la aclamada serie de animación ambientada en el universo del videojuego League of Legends, llegará a Netflix el próximo 9 de noviembre co… [+2345 chars]"
     }
   ]
 }
