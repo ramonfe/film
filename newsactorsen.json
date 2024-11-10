@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 653,
+  "TotalResults": 654,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Dan Heching",
+      "Title": "Tony Todd, veteran actor behind the ‘Candyman’ horror movie franchise and more, dead at 69 | CNN",
+      "Description": "Tony Todd, the actor who played the eponymous phantom killer in the original “Candyman” horror franchise and other notable roles, has died at 69.",
+      "Url": "https://www.cnn.com/2024/11/09/entertainment/tony-todd-candyman-death/index.html",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1079928326.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-11-09T19:53:15Z",
+      "Content": "Tony Todd, the actor who played the eponymous phantom killer in the original Candyman horror franchise and other notable roles, has died at 69.\r\nThe news was confirmed to CNN on Saturday by Todds tal… [+2108 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/paul-ridley.jpg",
       "PublishedAt": "2024-11-08T18:29:10Z",
       "Content": "Paul Mescal and Ridley Scott are eying a second collaboration. \r\nThe 28-year-old actor is currently promoting his first movie with the celebrated director – Gladiator II, which premieres in theaters … [+1055 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Bruce Willis Was Originally Attached To JOHN WICK Before Keanu Reeves",
-      "Description": "Here’s a wild bit of John Wick movie trivia that was recently revealed by the action film’s co-director David Leitch. Another big action star was attached to take on the title role before Keanu Reeves came on board.During an interview with THR, for the film’s…",
-      "Url": "https://geektyrant.com/news/bruce-willis-was-originally-attached-to-john-wick-before-keanu-reeves",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/672d313f2de57148e632ff25/1731090586021/bruce-willis-was-originally-attached-to-john-wick-before-keanu-reeves.jpg?format=1500w",
-      "PublishedAt": "2024-11-08T18:29:00Z",
-      "Content": "Heres a wild bit of John Wick movie trivia that was recently revealed by the action films co-director David Leitch. Another big action star was attached to take on the title role before Keanu Reeves … [+1367 chars]"
     }
   ]
 }
