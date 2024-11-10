@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 960,
+  "TotalResults": 961,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "AFP",
+      "Title": "Éste fue el consejo que Martin Scorsese le dio a Rodrigo Prieto, director de ‘Pedro Páramo’",
+      "Description": "Pedro Páramo, la mítica novela del escritor mexicano Juan Rulfo, llega a la pantalla de Netflix bajo la batuta del director de fotografía Rodrigo Prieto, quien dejó Hollywood para sumirse en la fantasmagórica Comala, donde ocurre la historia. Un desierto polv…",
+      "Url": "https://www.milenio.com/espectaculos/cine/martin-scorsese-aconsejo-director-pedro-paramo",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/09/el-cineasta-mexicano-fue-asesorado.jpg",
+      "PublishedAt": "2024-11-09T22:21:51Z",
+      "Content": "Pedro Páramo, la mítica novela del escritor mexicano Juan Rulfo, llega a la pantalla de Netflix bajo la batuta del director de fotografía Rodrigo Prieto, quien dejó Hollywood para sumirse en la fanta… [+2134 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/f98365c9-5e2b-47d8-a22f-61e3ff276bae_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-11-08T18:19:51Z",
       "Content": "El actor de moda tras el estreno de la serie 'Yo, adicto' y la película 'Salve María' regresa a la esencia teatral con 'Gola', una propuesta íntima y singular sobre la gula que se estrena en el Tempo… [+6093 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Javier Chávez M",
-      "Title": "Muere famoso actor de 'La Reina del Sur' a los 42 años de manera repentina",
-      "Description": "Juan Felipe Muñoz Posso, famoso actor colombiano famoso por su personaje en la serie 'La Reina del Sur' murió a los 42 años en su casa en Bogotá, Colombia. La Asociación Colombiana de Actores y Actrices dio a conocer la noticia a través de sus redes sociales.…",
-      "Url": "https://www.milenio.com/espectaculos/famosos/muere-el-actor-juan-felipe-munoz-famoso-por-la-reina-del-sur",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/08/muere-actor-juan-felipe-munoz.jpg",
-      "PublishedAt": "2024-11-08T18:19:00Z",
-      "Content": "Juan Felipe Muñoz Posso, famoso actor colombiano famoso por su personaje en la serie 'La Reina del Sur' murió a los 42 años en su casa en Bogotá, Colombia. La Asociación Colombiana de Actores y Actri… [+1646 chars]"
     }
   ]
 }
