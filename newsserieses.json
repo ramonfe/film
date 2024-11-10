@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 924,
+  "TotalResults": 925,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Nacion.com"
+      },
+      "Author": "El Nuevo Día/ Puerto Rico/ GDA, Kevin Ruiz",
+      "Title": "Cinco estrenos destacados en Netflix para noviembre",
+      "Description": "Descubra los mejores estrenos de Netflix en noviembre 2024: Pedro Páramo, el documental de Elvis Presley y la serie de Ayrton Senna, entre otros",
+      "Url": "https://www.nacion.com/viva/entretenimiento/cinco-estrenos-destacados-en-netflix-para/ZHRBVX7ANBGTPD2SWLQRQUQ7SQ/story/",
+      "UrlToImage": "https://www.nacion.com/resizer/v2/YH7DWY5JFJBF7KHRHVUISTGLMA.jpg?smart=true&auth=3dfb74868dd6d8b8be37f87fa0958b21ed7bb54bd1fcad62380e4538fb18683e&width=1440",
+      "PublishedAt": "2024-11-08T23:15:03Z",
+      "Content": "Netflix\r\n sigue destacándose como una de las principales plataformas de entretenimiento en línea. Para noviembre, presenta una selección variada que incluye películas, series y documentales, ideales … [+1794 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/11/08/craig-kQcG--1024x512@diario_abc.JPG",
       "PublishedAt": "2024-11-08T06:02:18Z",
       "Content": "Los organizadores de un festival de cine de Estambul han anunciado el jueves la cancelación del evento en protesta por la prohibición de las autoridades locales de proyectar 'Queer', protagonizada po… [+2245 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": null,
-      "Title": "Su madre es argentina. Nació en París, vivió varios años en Buenos Aires y se ganó un lugar en una serie éxito de Netflix",
-      "Description": "La actriz franco-argentina conoció al amor de su vida mientras estudiaba en el Liceo Francés Jean Mermoz",
-      "Url": "https://www.lanacion.com.ar/revista-hola/su-madre-es-argentina-nacio-en-paris-vivio-varios-anos-en-buenos-aires-y-se-gano-un-lugar-en-una-nid08112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ademas-de-su-pasion-por-la-actuacion-y-el-baile-RWZV2CD4FNFIZMLOCEK6FKU7ZE.jpg?auth=71794937edf6aec1ebf8046c64506d5bd0563e2cdc10d9c9ad57e806fb12c742&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2024-11-08T06:00:00Z",
-      "Content": "Su padre es francés y su madre, argentina. Anaïs Weill sabe lo que es mudarse y cambiar de continente desde chica. Nació en París en 1993, a los 12 se instaló con su familia en Buenos Aires, siete añ… [+1231 chars]"
     }
   ]
 }
