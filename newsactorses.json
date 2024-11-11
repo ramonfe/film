@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 964,
+  "TotalResults": 965,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La vida actual de Eduardo García: de ser Josemi en 'Aquí no hay quien viva' a trabajar como camarero en Toledo",
+      "Description": "Con apenas 12 años, Eduardo García Martínez (Madrid, 1992) debutó en el mundo de la interpretación. Lo hizo en la fugaz serie de televisión 'Un lugar en el mundo', que desapareció de la parrilla de Antena 3 después de la emisión de 5 episodios por sus malos d…",
+      "Url": "https://www.abc.es/gente/vida-actual-eduardo-garcia-josemi-viva-trabajar-20241110101423-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/diario_abc/noticias/202411/11/gente/media/.jpg",
+      "PublishedAt": "2024-11-10T07:00:00Z",
+      "Content": "Con apenas 12 años, Eduardo García Martínez (Madrid, 1992) debutó en el mundo de la interpretación. Lo hizo en la fugaz serie de televisión 'Un lugar en el mundo', que desapareció de la parrilla de A… [+3570 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/11/08/2024110823084395592.jpg",
       "PublishedAt": "2024-11-08T23:00:00Z",
       "Content": "<ol><li>Los cimientos de un actor camaleónico</li><li>Transformación física y estilo icónico</li><li>Renacimiento de su carrera y su rol como amante de la gastronomía</li><li>El \"nuevo\" Stanley Tucci… [+4925 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Javier Zurro",
-      "Title": "Eduard Fernández: “Vivimos una época peligrosa, la gente se queda solo con el relato, con el titular”",
-      "Description": "El actor brilla en 'Marco', el filme de Jon Garaño y Aitor Arregi sobre Enric Marco, que llegó a presidir la Asociación de Supervivientes de Mauthausen sin haber estado en un campo de concentración\r\n‘Marco’, el español que fingió ser víctima del Holocausto se…",
-      "Url": "https://www.eldiario.es/cultura/cine/eduard-fernandez-vivimos-epoca-peligrosa-gente-queda-relato-titular_1_11802254.html",
-      "UrlToImage": "https://static.eldiario.es/clip/d153c9ac-1f2b-4454-982e-4a9137d524eb_facebook-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-11-08T21:24:47Z",
-      "Content": "El cine es, de alguna forma, el arte de mentir. Los directores cuentan una historia buscando una complicidad con el espectador. Intentando que este se involucre con lo que ve en la pantalla como si a… [+864 chars]"
     }
   ]
 }
