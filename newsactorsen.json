@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 652,
+  "TotalResults": 653,
   "Articles": [
+    {
+      "Source": {
+        "Id": "news-com-au",
+        "Name": "News.com.au"
+      },
+      "Author": "Caroline Thayer - Fox News",
+      "Title": "Star rips own movie: ‘Worst film ever made’",
+      "Description": "Comedian and actor Tim Dillon didn’t have to see much in his limited time on the set of Joker: Folie À Deux, to know the movie starring Joaquin Phoenix and Lady Gaga wouldn’t resonate with the public.",
+      "Url": "https://www.news.com.au/entertainment/movies/joker-2-actor-rips-own-movie-as-worst-film-ever-made-after-it-fails-at-box-office/news-story/935e06ac7d38e363df501b2d39629c78",
+      "UrlToImage": "https://content.api.news/v3/images/bin/d47bc8c6147640fd1d8950d148247d5d",
+      "PublishedAt": "2024-11-10T22:33:00Z",
+      "Content": "Comedian and actor Tim Dillon didn’t have to see much in his limited time on the set of Joker: Folie À Deux, to know the movie starring Joaquin Phoenix and Lady Gaga wouldn’t resonate with the public… [+3204 chars]"
+    },
     {
       "Source": {
         "Id": "fox-news",
@@ -266,19 +279,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Roanoke Times"
-      },
-      "Author": "JEFF MARTIN Associated Press",
-      "Title": "Actor Tony Todd, known for his role in the movie 'Candyman' and other films, dies at 69",
-      "Description": "He appeared in the 2000 horror film \"Final Destination\" and its sequel in 2003, and the Oliver Stone-directed classic \"Platoon.\"",
-      "Url": "https://roanoke.com/news/nation-world/obituaries/movies-films-obituary-death/article_1daa55d3-1903-58aa-97ad-2a7584b38b99.html",
-      "UrlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/da/1daa55d3-1903-58aa-97ad-2a7584b38b99/672fa8cb39ae7.preview.jpg?crop=1772%2C930%2C2%2C65&resize=1200%2C630&order=crop%2Cresize",
-      "PublishedAt": "2024-11-09T22:30:00Z",
-      "Content": "Actor Tony Todd, known for his haunting portrayal of a killer in the horror film \"Candyman\" and roles in many other films and television shows, has died at age 69.\r\nTodd died Wednesday at his home in… [+47963 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Richmond.com"
       },
       "Author": "JEFF MARTIN Associated Press",
@@ -288,6 +288,19 @@
       "UrlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/f/9c/f9c7db56-904b-517a-94d3-4231de8329f5/672fa8cb2bf83.preview.jpg?crop=1772%2C930%2C2%2C65&resize=1200%2C630&order=crop%2Cresize",
       "PublishedAt": "2024-11-09T22:30:00Z",
       "Content": "Actor Tony Todd, known for his haunting portrayal of a killer in the horror film \"Candyman\" and roles in many other films and television shows, has died at age 69.\r\nTodd died Wednesday at his home in… [+81328 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Roanoke Times"
+      },
+      "Author": "JEFF MARTIN Associated Press",
+      "Title": "Actor Tony Todd, known for his role in the movie 'Candyman' and other films, dies at 69",
+      "Description": "He appeared in the 2000 horror film \"Final Destination\" and its sequel in 2003, and the Oliver Stone-directed classic \"Platoon.\"",
+      "Url": "https://roanoke.com/news/nation-world/obituaries/movies-films-obituary-death/article_1daa55d3-1903-58aa-97ad-2a7584b38b99.html",
+      "UrlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/da/1daa55d3-1903-58aa-97ad-2a7584b38b99/672fa8cb39ae7.preview.jpg?crop=1772%2C930%2C2%2C65&resize=1200%2C630&order=crop%2Cresize",
+      "PublishedAt": "2024-11-09T22:30:00Z",
+      "Content": "Actor Tony Todd, known for his haunting portrayal of a killer in the horror film \"Candyman\" and roles in many other films and television shows, has died at age 69.\r\nTodd died Wednesday at his home in… [+47963 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s.hdnux.com/photos/01/45/50/43/26642626/3/rawImage.jpg",
       "PublishedAt": "2024-11-09T18:21:12Z",
       "Content": "Actor Tony Todd, known for his haunting portrayal of a killer in the horror film Candyman and roles in many other films and television shows, has died, his longtime manager confirmed. He was 69.\r\nTod… [+2249 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-09T18:07:40Z",
-      "Content": "[Removed]"
     }
   ]
 }
