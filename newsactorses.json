@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 961,
+  "TotalResults": 962,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "El País (Uruguay)",
+      "Title": "Es hija de una reconocida actriz, trabajó en una serie de Netflix y ahora forma parte del éxito de los cines",
+      "Description": "Margaret Qualley interpreta a Sue en La sustancia, la película que protagoniza junto a Demi Moore y que fue aclamada por la crítica",
+      "Url": "https://www.lanacion.com.ar/espectaculos/es-hija-de-una-reconocida-actriz-trabajo-en-una-serie-de-netflix-y-ahora-forma-parte-del-exito-de-nid09112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/sarah-margaret-qualley-tiene-30-anos-y-es-una-de-QW5VP4ZSEJFL7LMMNNO4CKPK2E.jpg?auth=29e5aaa8d6480cfed8845d16ae9db4ed09e115d0b71708652f6d545cd67bb830&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-10T00:20:54Z",
+      "Content": "Creo que si alguien me llama así es justo y es verdad, asumió la actriz Margaret Qualley sobre la posibilidad de ser llamada nepo baby. La expresión se popularizó en los últimos años y se refiere a l… [+6973 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/11/08/cineuropa1-U32871104408omv-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-11-08T18:38:29Z",
       "Content": "La gran pantalla protagoniza las próximas dos semanas en Compostela. En su trigésimo octava edición, Cineuropa oferta un repertorio que reúne más de 130 títulos, con un ojo puesto en la censura en el… [+4018 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Marta Cervera",
-      "Title": "Oriol Pla: \"No nos sentimos cómodos en el silencio, por eso la sociedad nos ofrece un banquete de excitaciones\"",
-      "Description": "El actor de moda tras el estreno de la serie 'Yo, adicto' y la película 'Salve María' regresa a la esencia teatral con 'Gola', una propuesta íntima y singular sobre la gula que se estrena en el Temporada Alta el próximo día 1. Con ella debutará en la Sala Pet…",
-      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20241108/oriol-pla-sentimos-comodos-silencio-111509073",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/f98365c9-5e2b-47d8-a22f-61e3ff276bae_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-11-08T18:19:51Z",
-      "Content": "El actor de moda tras el estreno de la serie 'Yo, adicto' y la película 'Salve María' regresa a la esencia teatral con 'Gola', una propuesta íntima y singular sobre la gula que se estrena en el Tempo… [+6093 chars]"
     }
   ]
 }

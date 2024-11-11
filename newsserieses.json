@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 898,
+  "TotalResults": 899,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "El País (Uruguay)",
+      "Title": "Es hija de una reconocida actriz, trabajó en una serie de Netflix y ahora forma parte del éxito de los cines",
+      "Description": "Margaret Qualley interpreta a Sue en La sustancia, la película que protagoniza junto a Demi Moore y que fue aclamada por la crítica",
+      "Url": "https://www.lanacion.com.ar/espectaculos/es-hija-de-una-reconocida-actriz-trabajo-en-una-serie-de-netflix-y-ahora-forma-parte-del-exito-de-nid09112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/sarah-margaret-qualley-tiene-30-anos-y-es-una-de-QW5VP4ZSEJFL7LMMNNO4CKPK2E.jpg?auth=29e5aaa8d6480cfed8845d16ae9db4ed09e115d0b71708652f6d545cd67bb830&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-10T00:20:54Z",
+      "Content": "Creo que si alguien me llama así es justo y es verdad, asumió la actriz Margaret Qualley sobre la posibilidad de ser llamada nepo baby. La expresión se popularizó en los últimos años y se refiere a l… [+6973 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/59a23a/nosferatu/840_560.jpeg",
       "PublishedAt": "2024-11-08T16:01:41Z",
       "Content": "Ya han aparecido primeras reacciones a la esperada adaptación de Robert Eggers de 'Nosferatu'  y parece que el director ha cocinado otro clásico del terror, con algunos críticos incluso insinuando su… [+4700 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Obed Nares",
-      "Title": "Telcel se suma al Buen Fin en México y dará de doble de gigas: estos son los paquetes que los tendrán",
-      "Description": "Telcel se quiere lucir con sus usuarios durante El Buen Fin. La compañía celular recientemente anunció una serie de atractivas promociones para sus usuarios de planes de recarga de 100 y 200 pesos, entre otros beneficios.\n<!-- BREAK 1 -->\nEsta campaña de ofer…",
-      "Url": "https://www.xataka.com.mx/celulares-y-smartphones/telcel-se-suma-al-buen-fin-mexico-dara-doble-gigas-estos-paquetes-que-tendran",
-      "UrlToImage": "https://i.blogs.es/3f72dc/logos-con-circulos-7-/840_560.jpeg",
-      "PublishedAt": "2024-11-08T16:01:41Z",
-      "Content": "Telcel se quiere lucir con sus usuarios durante El Buen Fin. La compañía celular recientemente anunció una serie de atractivas promociones para sus usuarios de planes de recarga de 100 y 200 pesos, e… [+2576 chars]"
     }
   ]
 }
