@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 648,
+  "TotalResults": 649,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Just Jared"
+      },
+      "Author": "Just Jared",
+      "Title": "Chris Evans Explains Why He's Sporting New Beard, Reveals Movie He's Filming",
+      "Description": "Chris Evans has been sporting a bushy new beard on his Red One press tour and he’s explaining the choice behind the facial hair. The 43-year-old actor was asked about his new look while attending the Red One premiere in New York City on Monday (November 11). …",
+      "Url": "https://www.justjared.com/2024/11/12/chris-evans-explains-why-hes-sporting-new-beard-reveals-movie-hes-filming/",
+      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/evans-beard.jpg",
+      "PublishedAt": "2024-11-12T06:42:19Z",
+      "Content": "Chris Evans has been sporting a bushy new beard on his Red One press tour and he’s explaining the choice behind the facial hair.\r\nThe 43-year-old actor was asked about his new look while attending th… [+1008 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://content.api.news/v3/images/bin/d47bc8c6147640fd1d8950d148247d5d",
       "PublishedAt": "2024-11-10T22:33:00Z",
       "Content": "Comedian and actor Tim Dillon didn’t have to see much in his limited time on the set of Joker: Folie À Deux, to know the movie starring Joaquin Phoenix and Lady Gaga wouldn’t resonate with the public… [+3204 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
-      },
-      "Author": "Caroline Thayer",
-      "Title": "'Joker 2' actor rips own movie as 'worst film ever made' after it fails at box office",
-      "Description": "Actor Tim Dillon ripped the Warner Bros. flick \"Joker: Folie À Deux\" which he had a small role in, as the \"worst film ever made.\"",
-      "Url": "https://www.foxnews.com/entertainment/joker-2-actor-rips-own-movie-worst-film-ever-made-after-fails-box-office",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/joker-1.jpg",
-      "PublishedAt": "2024-11-10T21:10:48Z",
-      "Content": "Comedian and actor Tim Dillon didn't have to see much in his limited time on the set of Joker: Folie À Deux, to know the movie starring Joaquin Phoenix and Lady Gaga wouldn't resonate with the public… [+3505 chars]"
     }
   ]
 }
