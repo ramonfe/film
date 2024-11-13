@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 653,
+  "TotalResults": 654,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cisa.gov"
+      },
+      "Author": "CISA",
+      "Title": "Vulnerability Summary for the Week of November 4, 2024",
+      "Description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>1000 Projects--Beauty Parlour Management System </td>\n<td>A vulnerability, which was cla…",
+      "Url": "https://www.cisa.gov/news-events/bulletins/sb24-317",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-12T16:20:06Z",
+      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s… [+899 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.etimg.com/thumb/msid-115184547,width-1200,height-630,imgsize-27018,overlay-economictimes/articleshow.jpg",
       "PublishedAt": "2024-11-11T13:53:24Z",
       "Content": "Comedian Tim Dillon, who had a short role in Joker: Folie à Deux, has criticised the film by calling it \"the worst film ever made'. Recently, Tim Dillon, who played a guard at Arkham Asylum in the co… [+2929 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "/FILM"
-      },
-      "Author": "staff@slashfilm.com (Witney Seibold)",
-      "Title": "Why Denzel Washington Rejected A Role In Terminator 2: Judgment Day",
-      "Description": "James Cameron originally offered Denzel Washington a part in Terminator 2: Judgement Day, but the actor turned the movie down. Here's why.",
-      "Url": "https://www.slashfilm.com/1703755/why-denzel-washington-rejected-terminator-2-judgment-day-role/",
-      "UrlToImage": "https://www.slashfilm.com/img/gallery/why-denzel-washington-rejected-a-role-in-terminator-2-judgment-day/l-intro-1730493622.jpg",
-      "PublishedAt": "2024-11-11T13:45:45Z",
-      "Content": "In James Cameron's 1991 ultra-blockbuster \"Terminator 2: Judgment Day,\" two sentient robots are sent back in time to the present, each given a specific assignment. The evil T-1000 (Robert Patrick) ha… [+1642 chars]"
     }
   ]
 }
