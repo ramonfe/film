@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 914,
+  "TotalResults": 915,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "El Festival de Cine de Almería fortalece en Madrid su papel como antesala de los Premios Goya",
+      "Description": "Una amplia representación de actores, directores, guionistas, productores y otros profesionales de la industria cinematográfica han arropado la presentación de la XXIII edición del Festival de Cine de Almería , Fical, en Madrid. El evento ha sido presentado p…",
+      "Url": "https://www.abc.es/espana/andalucia/almeria/festival-cine-almeria-fortalece-madrid-papel-antesala-20241112231132-nts.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/11/12/presentacion-fical-madrid-U30083700050NDg-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-11-12T05:57:37Z",
+      "Content": "Una amplia representación de actores, directores, guionistas, productores y otros profesionales de la industria cinematográfica han arropado la presentación de la XXIII edición del Festival de Cine d… [+5521 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://fotos.perfil.com/2024/11/10/trim/1140/641/la-china-suarez-usando-la-bikini-que-sera-tendencia-este-verano-1909048.jpg",
       "PublishedAt": "2024-11-10T22:07:14Z",
       "Content": "La China Suárezes una destacada figura en la escena argentina, no solo por su éxito como modelo y actriz, sino también por su influencia en la moda. Es considerada un ícono de estilo, siempre luciend… [+2182 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Gerardo Vilches",
-      "Title": "El lápiz con el que el venerado Oesterheld, asesinado por la dictadura argentina, convirtió al Che y a Eva Perón en mito",
-      "Description": "Se recuperan dos obras descatalogadas de la etapa más política y militante del guionista de 'El eternauta', dibujadas por Alberto Breccia\r\nPaloma Sánchez-Garnica, ganadora del Premio Planeta: “Las mujeres de mi generación revolucionamos todo para que las jóve…",
-      "Url": "https://www.eldiario.es/cultura/comics/lapiz-venerado-oesterheld-asesinado-dictadura-argentina-convirtio-che-eva-peron-mito_1_11804910.html",
-      "UrlToImage": "https://static.eldiario.es/clip/58df048b-6680-4de7-a79e-778f82ac6098_facebook-watermarked-aspect-ratio_default_0_x1196y416.jpg",
-      "PublishedAt": "2024-11-10T20:45:04Z",
-      "Content": "Pocos guionistas han tenido la trayectoria del argentino Héctor Germán Oesterheld (Buenos Aires, 1919-1978), una auténtica leyenda del cómic internacional, venerado en Argentina y leído en todo el mu… [+7034 chars]"
     }
   ]
 }
