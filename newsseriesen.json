@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 52,
+  "TotalResults": 53,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Amazon Fire HD 8 (2024) review: A cheap tablet hampered by outdated software",
+      "Description": "The latest Amazon Fire HD 8, updated last month and starting at $100, is a modest refresh, offering more RAM, a nominally upgraded camera and some new AI features. The general sales pitch, however, remains the same: You get a just-competent tablet for the ess…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175476785",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-15T15:12:30Z",
+      "Content": "The latest Amazon Fire HD 8, updated last month and starting at $100, is a modest refresh, offering more RAM, a nominally upgraded camera and some new AI features. The general sales pitch, however, r… [+12396 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F10%2F23%2Fnew-netflix-movies-films-tv-shows-november-2024-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "PublishedAt": "2024-10-24T07:08:21Z",
       "Content": "With the spooky season coming to an end, Netflix has unveiled its slate of new programming for November 2024.Next month’s list is led by the second season premiere of the League of Legends animated s… [+16072 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComicBook.com"
-      },
-      "Author": "Charlie Ridgely",
-      "Title": "Netflix: Every Movie & TV Show Arriving in November 2024",
-      "Description": "Image Courtesy of Netflix\nBelieve it or not, November is just around the corner. The calendar is set to flip in just over a week’s time, which means streaming services like Netflix are preparing another month’s worth of movie and TV additions. On Wednesday, N…",
-      "Url": "http://comicbook.com/tv-shows/news/netflix-november-2024-new-movies-tv-shows-streaming/",
-      "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/10/netflix-logo.webp?w=1280",
-      "PublishedAt": "2024-10-23T21:19:02Z",
-      "Content": "Believe it or not, November is just around the corner. The calendar is set to flip in just over a week’s time, which means streaming services like Netflix are preparing another month’s worth of movie… [+15193 chars]"
     }
   ]
 }
