@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 756,
+  "TotalResults": 757,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ScreenCrush"
+      },
+      "Author": "Matt Singer",
+      "Title": "‘Star Wars’ Movie Pulled From 2026 Release",
+      "Description": "Yet another ‘Star Wars’ movie is stuck in development hell. Continue reading…",
+      "Url": "https://screencrush.com/star-wars-movie-pulled-from-2026-release/",
+      "UrlToImage": "https://townsquare.media/site/442/files/2024/03/attachment-skywalker-saga-marathon-feature_00fadee3.jpg?w=1200&q=75&format=natural",
+      "PublishedAt": "2024-11-16T01:10:22Z",
+      "Content": "Yet another Star Wars movie has been pulled from yet another planned release date.\r\nDisney and Lucasfilm had penciled in the a new Star Wars film for release in theaters on December 18, 2026, a littl… [+1719 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e90087306667c84d1df79acc58a24cd3.jpg",
       "PublishedAt": "2024-11-14T20:15:00Z",
       "Content": "In England, royal movie premieres are a regular part of the release process for big budget films. Of course, meeting royalty requires a whole procedure for everyone involvedunless youre Denzel Washin… [+1882 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Time Out"
-      },
-      "Author": "Primary Author: Anna Rahmanan",
-      "Title": "The beloved dine-in ShowPlace ICON movie theater is reopening as an AMC",
-      "Description": "The new cinema will debut in early 2025.",
-      "Url": "https://www.timeout.com/chicago/news/the-beloved-dine-in-showplace-icon-movie-theater-is-reopening-as-an-amc-111424",
-      "UrlToImage": "https://media.timeout.com/images/106201769/image.jpg",
-      "PublishedAt": "2024-11-14T18:55:18Z",
-      "Content": "Chicagoans are still mourning the closure of ShowPlace ICON Theatre in the South Loop, which shut down this past summer after 15 years of delivering locals a luxury-like movie-going experience. \r\nWe … [+1613 chars]"
     }
   ]
 }
