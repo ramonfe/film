@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 730,
+  "TotalResults": 731,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComicBook.com"
+      },
+      "Author": "Marc Deschamps",
+      "Title": "Sonic the Hedgehog 3 Runtime Revealed",
+      "Description": "Sonic the Hedgehog 3‘s December 20th release is just over a month away, and more information about the movie is starting to come in as it approaches. We now know exactly how long the movie will be thanks to AMC’s official website (via Sonic Stadium). The sequ…",
+      "Url": "http://comicbook.com/gaming/news/sonic-the-hedgehog-3-movie-runtime-paramount/",
+      "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/11/Sonic-the-Hedgehog-3-and-Robotnik.jpg?resize=2000,1125",
+      "PublishedAt": "2024-11-17T15:47:38Z",
+      "Content": "Sonic the Hedgehog 3‘s December 20th release is just over a month away, and more information about the movie is starting to come in as it approaches. We now know exactly how long the movie will be th… [+2630 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://robbreport.com/wp-content/uploads/2024/11/388-Morrow.jpg?w=681&h=383&crop=1",
       "PublishedAt": "2024-11-15T22:30:00Z",
       "Content": "If you’ve been looking to move out of the city but don’t want to be too far from the action, this elaborate Garden State mansion listed for just shy of $14 million sits just 10 minutes from Manhattan… [+2811 chars]"
-    },
-    {
-      "Source": {
-        "Id": "ign",
-        "Name": "IGN"
-      },
-      "Author": "Alex Stedman",
-      "Title": "Star Wars Movie Pulled From 2026 Release Calendar and Replaced by Ice Age 6",
-      "Description": "A Star Wars movie previously dated for December 2026 has been pulled from Disney's calendar, replaced by Ice Age 6.",
-      "Url": "https://www.ign.com/articles/star-wars-movie-pulled-from-2026-release-calendar-and-replaced-by-ice-age-6",
-      "UrlToImage": "https://assets1.ignimgs.com/2019/05/22/1280-riseofskywalker-1558553524376.jpg?width=1280",
-      "PublishedAt": "2024-11-15T22:24:38Z",
-      "Content": "A Star Wars movie that had previously staked out a late 2026 release date has been pulled from Disney's calendar.\r\nAs reported by Variety on Friday, the film has been removed from the previously anno… [+1974 chars]"
     }
   ]
 }
