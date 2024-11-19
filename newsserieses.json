@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 850,
+  "TotalResults": 851,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'Cien años de soledad' o la maldición rota de adaptar lo «intocable»",
+      "Description": "Gabriel García Márquez tardó dieciocho meses en escribir 'Cien años de soledad', pero la tarea de adaptar la novela de su vida no es solitaria sino compartida. Para trasladar el Macondo del papel a las imágenes de la serie que Netflix estrena el 11 de diciemb…",
+      "Url": "https://www.abc.es/play/series/noticias/cien-anos-soledad-maldicion-rota-adaptar-intocable-20241118191400-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/11/18/aureliano-cien-anos-kPhH--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-11-18T03:09:42Z",
+      "Content": "Gabriel García Márquez tardó dieciocho meses en escribir 'Cien años de soledad', pero la tarea de adaptar la novela de su vida no es solitaria sino compartida. Para trasladar el Macondo del papel a l… [+614 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/f0456f/splinter-cell/840_560.jpeg",
       "PublishedAt": "2024-11-15T19:06:18Z",
       "Content": "En el mundo de los videojuegos, algunas compañías han experimentado un 2024 \"desafiante\" en términos de lanzamientos. Títulos como Concord, Suicide Squad: Kill The Justice League y Star Wars: Outlaws… [+2883 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakamovil.com"
-      },
-      "Author": "Eduardo Marín",
-      "Title": "Es la mejor serie de ciencia ficción del milenio, según un estudio. Una obra maestra en el espacio, y está en Prime Video",
-      "Description": "¿Qué pasaría con nuestra especie si nos volvemos una raza interplanetaria? Elon Musk quiere lograrlo, pero mientras tanto, esta serie de ciencia ficción nos plantea un escenario que se siente posible, y no demasiado descabellado. Quizás ese es uno de los elem…",
-      "Url": "https://www.xatakamovil.com/streaming/mejor-serie-ciencia-ficcion-milenio-estudio-obra-maestra-espacio-esta-prime-video",
-      "UrlToImage": "https://i.blogs.es/f70a29/serie-ciencia-ficcion-1/840_560.jpeg",
-      "PublishedAt": "2024-11-15T19:01:54Z",
-      "Content": "¿Qué pasaría con nuestra especie si nos volvemos una raza interplanetaria? Elon Musk quiere lograrlo, pero mientras tanto, esta serie de ciencia ficción nos plantea un escenario que se siente posible… [+3381 chars]"
     }
   ]
 }
