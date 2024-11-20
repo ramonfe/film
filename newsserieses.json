@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 832,
+  "TotalResults": 833,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "'Cien años de soledad' en Netflix: este es el día que se estrena la serie adaptación de la novela de Gabriel García Márquez",
+      "Description": "Basada en la obra cumbre del Premio Nobel de Literatura Gabriel García Márquez, bajo la dirección de Laura Mora (Los reyes del mundo) y Alex García López (The Witcher) y producida por Dynamo. 'Cien años de soledad' representa uno de los proyectos audiovisuale…",
+      "Url": "https://www.abc.es/play/series/noticias/cien-anos-soledad-netflix-dia-estrena-serie-adaptacion-novela-gabriel-garcia-marquez-20241119165640-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/10/08/adfdere-kSvD-U6033652460197a-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-11-19T06:15:00Z",
+      "Content": "Basada en la obra cumbre del Premio Nobel de Literatura Gabriel García Márquez, bajo la dirección de Laura Mora (Los reyes del mundo) y Alex García López (The Witcher) y producida por Dynamo. 'Cien a… [+1629 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/2c3b500b-3bb1-4c33-a372-15a9f10f1bbe_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-11-17T18:45:09Z",
       "Content": "Decía Goyo Jiménez en su monólogo Los americanos, emitido hace más de 15 años en el espacio Nuevos cómicos de Paramount Comedy (actual Comedy Central), que los estadounidenses tienen vidas más apasio… [+5587 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Zonanegativa.com"
-      },
-      "Author": "Jordi T. Pardo",
-      "Title": "#ZNSeries – El Pingüino. Episodio 8 – Algo grande o nimio",
-      "Description": "Y afrontamos el último episodio de El Pingüino, la serie de HBO Max centrada en el villano de las historias de Batman llega a su conclusión... ¿Ha sido satisfactorio el camino?",
-      "Url": "https://www.zonanegativa.com/znseries-el-pinguino-episodio-8-algo-grande-o-nimio/",
-      "UrlToImage": "https://www.zonanegativa.com/imagenes/2024/10/destacada-el-pinguino-3.jpg",
-      "PublishedAt": "2024-11-17T18:00:26Z",
-      "Content": "Créditos: En la elaboración de este artículo han participado Jordi T. Pardo\r\n, Juan Luis Daza\r\n, Raúl Gutiérrez\r\n, Román de Muelas\r\n y Sergio Fernández\r\nGénero\r\n: Thriller, drama, intrigaCreador\r\n La… [+27576 chars]"
     }
   ]
 }
