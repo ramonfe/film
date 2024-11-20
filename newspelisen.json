@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 724,
+  "TotalResults": 727,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-19T13:15:16Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": "nbc-news",
+        "Name": "NBC News"
+      },
+      "Author": "Kalhan Rosenblatt and Tony Lee",
+      "Title": "'Wicked' fans have a message to moviegoers: Don’t sing along in theaters",
+      "Description": "Can you sing along to “Wicked” show tunes in a movie theater? Ahead of the big-screen debut, die-hard fans of the musical are debating movie theater etiquette online.",
+      "Url": "https://www.nbcnews.com/pop-culture/wicked-moviegoers-debate-singing-in-theaters-rcna180178",
+      "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241114-wicked-ch-1318-1e43ca.jpg",
+      "PublishedAt": "2024-11-19T10:00:00Z",
+      "Content": "Can you sing along to Wicked show tunes in a movie theater? Depends on who you ask.\r\nThe cinematic retelling of the famed Broadway musical has sparked a debate online among die-hard fans about whethe… [+4263 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Variety"
+      },
+      "Author": "Patrick Frater",
+      "Title": "‘Harbin,’ Korean Blockbuster, Sets Christmas Release – Global Bulletin",
+      "Description": "‘HARBIN’ TO BE PRESENT AT CHRISTMAS Poised to be one of the biggest blockbusters of an uneven year for Korean cinema, “Harbin” is finally confirmed to release on Christmas Day (Dec. 25). The movie had its premiere in September at the Toronto International Fil…",
+      "Url": "https://variety.com/2024/film/news/harbin-korean-blockbuster-christmas-release-1236213990/",
+      "UrlToImage": "https://variety.com/wp-content/uploads/2024/11/Harbin-572284887921bab2f5ba635473651d5f-res.jpg?w=1000&h=563&crop=1",
+      "PublishedAt": "2024-11-19T08:01:00Z",
+      "Content": "Poised to be one of the biggest blockbusters of an uneven year for Korean cinema, “Harbin” is finally confirmed to release on Christmas Day (Dec. 25). The movie had its premiere in September at the T… [+5677 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://uploads.dailydot.com/2024/11/thick-of-it-meme-5.png?auto=compress&fit=scale&fm=png&h=193&w=800",
       "PublishedAt": "2024-11-18T14:16:56Z",
       "Content": "YouTuber KSIs single Thick Of It has been turned into a meme across social media in which users mock the YouTuber-turned-rapper, referring to his song as generic or the perfect Minecraft movie end cr… [+3803 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "Disney Removes Another STAR WARS Movie From the Release Schedule",
-      "Description": "Disney has pulled another Star Wars film off of its release schedule. A Star Wars film was set to be released on December 18th, 2026, but not anymore. Instead, Disney will release Ice Age 6 on that day. There’s no information on what that film would’ve been, …",
-      "Url": "https://geektyrant.com/news/disney-removes-another-star-wars-movie-from-the-release-schedule",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/673a66ede568570273da0ee0/1731936958734/disney-removes-another-star-wars-movie-from-the-release-schedule.jpg?format=1500w",
-      "PublishedAt": "2024-11-18T13:35:00Z",
-      "Content": "Disney has pulled another Star Wars film off of its release schedule. A Star Wars film was set to be released on December 18th, 2026, but not anymore. Instead, Disney will release Ice Age 6 on that d… [+1330 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "What's on Netflix"
-      },
-      "Author": "Kasey Moore",
-      "Title": "Gareth Evans Netflix Movie ‘Havoc’ Starring Tom Hardy Confirms 2025 Release",
-      "Description": "After years in development and extensive reshoots, the action thriller Havoc will hit our screens in 2025.",
-      "Url": "https://www.whats-on-netflix.com/news/tom-hardys-netflix-movie-havoc-what-we-know-so-far-11-2024/",
-      "UrlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2024/05/first-look-at-havoc-netflix-movie-tom-hardy.jpg",
-      "PublishedAt": "2024-11-18T12:34:54Z",
-      "Content": "Picture: Empire Online / Netflix\r\nHavoc is the long-awaited crime drama starring Tom Hardy (The Revenant, Venom). Directed and written by Gareth Evans, the movie has been coming for a long time but w… [+10138 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "cnbc.com",
-      "Title": "AMC is poised to ride the box office rebound, as long as its debt doesn't get in the way",
-      "Description": "The domestic box office is on the rebound, having posted its highest third-quarter ticket sales since the pandemic. The world's largest movie theater chain, however, isn't on such solid footing.\nAMC operates around 900 theaters and 10,000 screens globally, a …",
-      "Url": "https://biztoc.com/x/3b1d787e2d20fb41",
-      "UrlToImage": "https://biztoc.com/cdn/3b1d787e2d20fb41_s.webp",
-      "PublishedAt": "2024-11-18T12:02:02Z",
-      "Content": "The domestic box office is on the rebound, having posted its highest third-quarter ticket sales since the pandemic. The world's largest movie theater chain, however, isn't on such solid footing.AMC o… [+138 chars]"
     }
   ]
 }
