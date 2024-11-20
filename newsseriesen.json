@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 51,
+  "TotalResults": 52,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "Netflix Unveils International Slate, Includes Physical 100 Season 3 & More",
+      "Description": "Netflix has announced its upcoming international slate consisting of returning shows and new series and movies. One of the confirmed returning shows will be Physical 100, which just received its Season 3 renewal seven months after the second installment made …",
+      "Url": "https://www.comingsoon.net/tv/news/1880484-netflix-international-slate-physical-100-season-3-more",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/Screenshot-2024-11-19-121943.png?resize=1200,630",
+      "PublishedAt": "2024-11-19T19:49:51Z",
+      "Content": "Netflix has announced its upcoming international slate consisting of returning shows and new series and movies. One of the confirmed returning shows will be Physical 100, which just received its Seas… [+2010 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-31T09:00:36Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Google TV Streamer review: A great side piece for your TV, with a dash of smart home chops and (inessential) AI",
-      "Description": "What we once called the Google Chromecast (and then the Chromecast with Google TV) is now the Google TV Streamer. I won’t pretend to understand the reasoning behind any product’s rebrand, but at least this one makes a bit of sense. Casting content from elsewh…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175353157",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-29T16:32:37Z",
-      "Content": "What we once called the Google Chromecast (and then the Chromecast with Google TV) is now the Google TV Streamer. I won’t pretend to understand the reasoning behind any product’s rebrand, but at leas… [+12543 chars]"
     }
   ]
 }
