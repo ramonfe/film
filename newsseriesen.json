@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 49,
+  "TotalResults": 50,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Mac Observer"
+      },
+      "Author": "Bemfica de Oliva",
+      "Title": "Fix Apple TV ‘Problem Loading This Content’ Error: 6 Solutions",
+      "Description": "Watching a movie or TV show on your favorite streaming service is supposed to be relaxing, not stressful. This is not the case for many Apple TV users who encounter a \"problem loading this content\" error. If you're in this group, read below to understand the …",
+      "Url": "https://www.macobserver.com/tips/how-to/problem-loading-content-apple-tv/",
+      "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2024/11/Apple-TV-Problem-Loading-Content-Error-Message.png",
+      "PublishedAt": "2024-11-20T09:34:01Z",
+      "Content": "Watching a movie or TV show on your favorite streaming service is supposed to be relaxing, not stressful. This is not the case for many Apple TV users who encounter a “problem loading this content” e… [+3832 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-10-31T09:13:13Z",
       "Content": "You basically have three options for watching live TV at home: Hook up a digital antenna, pay for a cable subscription or sign up for a live TV streaming service. The content you get through a digita… [+18358 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-10-31T09:00:36Z",
-      "Content": "[Removed]"
     }
   ]
 }
