@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 853,
+  "TotalResults": 854,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Lavozdegalicia.es"
+      },
+      "Author": "Antía Díaz Leal",
+      "Title": "Matemáticas aplicadas",
+      "Description": "Ahora que los exámenes de la nueva PAU incluyen un contexto que parece la reseña de una serie de Netflix, el problema no pasaría el corte",
+      "Url": "https://www.lavozdegalicia.es/noticia/coruna/2024/11/20/matematicas-aplicadas/0003_202411H20C4993.htm",
+      "UrlToImage": "https://img.lavdg.com/sc/Dos6KVvxVbhAENodNyFLTOQ3h-c=/1280x/2024/11/19/00121732032242024218896/Foto/V10F3504.jpg",
+      "PublishedAt": "2024-11-20T04:00:00Z",
+      "Content": "«El propietario de un inmueble tiene alquilados los 40 pisos del mismo a 10.000 pesetas al mes cada uno. Por cada 1.000 pesetas de aumento en el precio del alquiler, pierde un inquilino que se trasla… [+1475 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/1c0424a3201852fdf8db6973c3f48c01/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/19/17320073394593.jpg",
       "PublishedAt": "2024-11-19T09:28:50Z",
       "Content": "La temporada 15 de La que se avecina ya ha llegado a Amazon Prime Video y los vecinos de Contubernio 49 van a vivir varios retornos a la popular serie de los hermanos Caballero.\r\nA los ya conocidos d… [+1803 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Culturaocio.com"
-      },
-      "Author": null,
-      "Title": "¿Cuándo se estrena el final de Cobra Kai 6 en Netflix?",
-      "Description": "La parte 2 de la temporada 6 de Cobra Kai desembarcó en Netflix el pasado viernes 15 de noviembre con el emocionante comienzo del Seikai Taikai y desvelando nuevos detalles sobre el misterioso pasado del señor Miyagi. Pero lo que realmente quieren saber los f…",
-      "Url": "https://www.culturaocio.com/tv/noticia-cuando-estrena-final-cobra-kai-netflix-20241119102849.html",
-      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241119102849_1200.jpg",
-      "PublishedAt": "2024-11-19T09:28:49Z",
-      "Content": "MADRID, 19 Nov. (CulturaOcio) - \r\n   La parte 2 de la temporada 6 de Cobra Kai desembarcó en Netflix el pasado viernes 15 de noviembre con el emocionante comienzo del Seikai Taikai y desvelando nuevo… [+1929 chars]"
     }
   ]
 }
