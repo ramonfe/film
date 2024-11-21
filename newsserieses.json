@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 858,
+  "TotalResults": 850,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "La serie romántica de Netflix con la que más se identifica cada signo del Zodíaco",
+      "Description": "La plataforma ofrece una gran variedad de contenidos sobre el amor y las parejas, y se puede encontrar la ideal para cada uno de los signos",
+      "Url": "https://www.lanacion.com.ar/horoscopo/la-serie-romantica-de-netflix-con-la-que-mas-se-identifica-cada-signo-del-zodiaco-nid20112024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-serie-romantica-de-netflix-ideal-para-cada-GVHHDJCPT5FLBM35CWR3N4QPDE.jpg?auth=7505ad4579dfdf0a96becb4fe07b7dfe348a10300012d08988ab13ed4ea299fa&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-11-20T15:31:40Z",
+      "Content": "Netflix es una de las plataformas de streaming más importantes del mundo, que produce su propio contenido y ofrece un catálogo extenso para todos los gustos. Humor, terror, documental, misterio, poli… [+4910 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/928b86cd-d0c2-4a47-a01f-e0db9bc42164_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-11-19T12:55:12Z",
       "Content": "El actor estadounidense Paul Teal, conocido especialmente por su papel en la serie juvenil One Tree Hill,ha fallecido a los 35 años a causa de un cáncer, según ha confirmado su agente en un comunicad… [+1810 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mariló Delgado",
-      "Title": "El showrunner de 'Arcane' revela por qué la tremenda serie de Netflix termina con su segunda temporada, y tiene mucho sentido. \"Pasamos 9 años con estos personajes\"",
-      "Description": "Esta semana 'Arcane' llega a su final definitivo con el desenlace de la segunda temporada. Tras tres años en desarrollo, estos últimos tres capítulos que se estrenan en Netflix el próximo 23 de noviembre pondrán punto y final a la historia de Vi, Jinx y el re…",
-      "Url": "https://www.espinof.com/animacion/showrunner-arcane-revela-que-tremenda-serie-netflix-termina-su-segunda-temporada-tiene-mucho-sentido-pasamos-9-anos-estos-personajes",
-      "UrlToImage": "https://i.blogs.es/3a1a08/arcane/840_560.jpeg",
-      "PublishedAt": "2024-11-19T12:46:18Z",
-      "Content": "Esta semana 'Arcane' llega a su final definitivo con el desenlace de la segunda temporada. Tras tres años en desarrollo, estos últimos tres capítulos que se estrenan en Netflix el próximo 23 de novie… [+2272 chars]"
     }
   ]
 }
