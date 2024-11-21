@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 173,
+  "TotalResults": 171,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Milenio Entretenimiento",
+      "Title": "¡Mejor que 'Joker 2'! Ésta es la calificación que recibió 'Wicked', el musical de Ariana Grande",
+      "Description": "El nuevo musical llamado 'Wicked' es una de las películas más esperadas del mes de noviembre, esto quedó demostrado en la reciente visita de Ariana Grande y Cynthia Erivo (protagonistas del filme) en la capital mexicana para la premiere de la película.Sin emb…",
+      "Url": "https://www.milenio.com/espectaculos/cine/que-calificacion-recibio-wicked-filme-protagonizado-por-ariana-grande",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/11/19/que-calificacion-recibio-wicked-especial.jpg",
+      "PublishedAt": "2024-11-20T03:47:00Z",
+      "Content": "El nuevo musical llamado 'Wicked' es una de las películas más esperadas del mes de noviembre, esto quedó demostrado en la reciente visita de Ariana Grande y Cynthia Erivo (protagonistas del filme) en… [+2600 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.nacion.com/resizer/v2/KPAQGGE35ZFTFGSTLAY6BPDGEA.jpg?smart=true&auth=829f8c9dc1a5d1fa78764601e6b7f610bd113e48498c56e15d9d06fd7281544c&width=1440",
       "PublishedAt": "2024-11-14T14:35:09Z",
       "Content": "The Walt Disney Company cerró su año fiscal con un beneficio neto de $4.972 millones, marcando un incremento del 111% en comparación con el año anterior, gracias al impulso de taquillazos como Intens… [+2490 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elperiodico.com"
-      },
-      "Author": "Alexandra Costa",
-      "Title": "Esta es la película catalana que ya han visto cerca de 500.000 personas",
-      "Description": "El cine catalán celebra un hito histórico con el rotundo éxito de \"El 47\", una película que ha cautivado a la audiencia y se ha convertido en un fenómeno cinematográfico. Con más de 457.000 espectadores, ha superado a títulos recientes como \"Casa en Flames\", …",
-      "Url": "https://www.elperiodico.com/es/ocio-y-cultura/20241114/pelicula-catalana-mas-vista-el-47-dv-111681267",
-      "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/252ecc25-8e32-4835-a491-6d8ee5e33814_16-9-discover-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2024-11-14T07:54:03Z",
-      "Content": "El cine catalán celebra un hito histórico con el rotundo éxito de \"El 47\", una película que ha cautivado a la audiencia y se ha convertido en un fenómeno cinematográfico. Con más de 457.000 espectado… [+3272 chars]"
     }
   ]
 }
