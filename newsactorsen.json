@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 670,
+  "TotalResults": 671,
   "Articles": [
+    {
+      "Source": {
+        "Id": "business-insider",
+        "Name": "Business Insider"
+      },
+      "Author": "aadekaiyero@insider.com (Ayomikun Adekaiyero)",
+      "Title": "What to know about Denzel Washington's family, including his actor kids",
+      "Description": "Every member of Denzel Washington's family is involved in front or behind the screen for a new Netflix movie, \"The Piano Lesson.\"",
+      "Url": "https://www.businessinsider.com/denzel-washingtons-4-kids-are-actors-producers-directors-biography-2024-11",
+      "UrlToImage": "https://i.insider.com/673f3b48fa0140cdd564a23a?width=1200&format=jpeg",
+      "PublishedAt": "2024-11-21T16:34:09Z",
+      "Content": "Almost the whole of Denzel Washington's family will appear in a film that debuts Friday, as \"Gladiator II\" arrives in theaters and \"The Piano Lesson\" premieres on Netflix.\r\nDenzel Washington stars in… [+7075 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/dc6bf86f24c4a9608635cbacd32b1565.jpg",
       "PublishedAt": "2024-11-20T19:41:57Z",
       "Content": "In case you missed it, Wicked, the upcoming The Wizard of Oz prequel film and adaptation of the beloved Broadway musical of the same name, is hitting theaters this week. The film stars Cynthia Erivo … [+2544 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vulture"
-      },
-      "Author": "Nick Newman",
-      "Title": "Rust Didn’t Choose to Echo Its Tragedy, But It Courses Through the Film",
-      "Description": "The finished ‘Rust’ movie, starring Alec Baldwin, is an appropriately unvarnished western, starring a lead actor visibly shaken by his experience making it. Here’s our scene report from the premiere in Poland.",
-      "Url": "http://www.vulture.com/article/rust-movie-review-compelling-tragic-as-you-think.html",
-      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/09d/785/1793997c2864c78b8a3b5a76e2a309b24b-rust-film.1x.rsocial.w1200.jpg",
-      "PublishedAt": "2024-11-20T19:30:09Z",
-      "Content": "It was a cold, overcast afternoon in Toru, Poland, as a packed theater watched Alec Baldwin shoot people. Youve not seen this film, but you know the story of how we got here. Three years have passed … [+7942 chars]"
     }
   ]
 }
