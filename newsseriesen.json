@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 56,
+  "TotalResults": 57,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-22T16:05:21Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.ghacks.net/wp-content/uploads/2024/11/Amazon-Prime-Videos-AI-will-recap-the-story-for-you.jpg",
       "PublishedAt": "2024-11-05T07:26:20Z",
       "Content": "Amazon Prime Video is getting a new AI feature. The streaming service is introducing X-Ray Recaps to generate a recap of the story of TV shows.\r\nThe feature creates brief summaries of full seasons an… [+2818 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Yahoo Entertainment"
-      },
-      "Author": "Jeremy Gan",
-      "Title": "Apple just approved another app that streams pirated movies and TV shows",
-      "Description": "By now, you’d think that Apple’s vetting procedures for the App Store are watertight, but think again. As reported by The Verge\r\n, this Threads post\r\n shows that an app called Univer Note, a productivity app on the outside, is actually an illegal app that gra…",
-      "Url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_208a3f37-275f-4f90-8a37-5540c6d42fc4",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-04T16:45:49Z",
-      "Content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
     }
   ]
 }
