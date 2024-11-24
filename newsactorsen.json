@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 673,
+  "TotalResults": 675,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-23T13:52:30Z",
+      "Content": "[Removed]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "",
+      "Title": "Billy Crystal on his new show 'Before', a psychological thriller",
+      "Description": "NPR's Scott Simon speaks to actor Billy Crystal about his new show, \"Before\" — a psychological thriller on Apple TV+. Listeners note that this conversation mentions self-harm.",
+      "Url": "https://www.npr.org/2024/11/23/nx-s1-5196857/billy-crystal-on-his-new-show-before-a-psychological-thriller",
+      "UrlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "PublishedAt": "2024-11-23T13:06:10Z",
+      "Content": "SCOTT SIMON, HOST: \r\n Eli is a child psychiatrist who lives with gruesome nightmares. It's his own profound loss. One day, there is a knock on his door from a little boy who has blood on his hands.\r\n… [+7948 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/11/millie-movie.jpg",
       "PublishedAt": "2024-11-21T22:50:02Z",
       "Content": "A third installment of Millie Bobby Brown‘s mega-successful Enola Holmes series is coming together! \r\nThe 20-year-old Stranger Things actress takes center stage in the franchise where she plays the y… [+1116 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Portland Mercury"
-      },
-      "Author": "Dom Sinacola",
-      "Title": "Gladiator II Is Just Gladiator With Jacked-up Howler Monkeys",
-      "Description": "Gladiator II Is Gladiator Gone Big Mode\nGladiator II Is Just Gladiator With Jacked-up Howler Monkeys\nWith Gladiator II Ridley Scott Finally Gets His Coliseum Rino Brawl\n \n by Dom Sinacola\n \n \n \n As of the end of November 2024, Ridley Scott will be 87 years ol…",
-      "Url": "https://www.portlandmercury.com/movies-and-tv/2024/11/21/47512640/gladiator-ii-is-just-gladiator-with-jacked-up-howler-monkeys",
-      "UrlToImage": "https://media1.fdncms.com/portmerc/imager/u/large/47512864/gl2_07002r4.webp",
-      "PublishedAt": "2024-11-21T21:50:00Z",
-      "Content": "As of the end of November 2024, Ridley Scott will be 87 years old.  In this, the twilight of a major artists career, one might assume that the release of Gladiator II corresponds to a certain reckoni… [+6600 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "The First Trailer for James Gunn's SUPERMAN Reportedly Coming in December",
-      "Description": "According to a new report from Collider, we won’t have to wait much longer for the first trailer for James Gunn’s Superman. They claim that it might be released online in mid-December.I hope that’s true because I’ve been really curious about this movie, and I…",
-      "Url": "https://geektyrant.com/news/the-first-trailer-for-james-gunns-superman-reportedly-coming-in-december",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/673f6228f84c214e1cfe5203/1732224490815/james-gunns-superman-is-said-to-be-a-complete-shift-to-hardcore-sci-fi-and-fantasy.jpg?format=1500w",
-      "PublishedAt": "2024-11-21T21:28:00Z",
-      "Content": "According to a new report from Collider, we wont have to wait much longer for the first trailer for James Gunns Superman. They claim that it might be released online in mid-December.\r\nI hope thats tr… [+1726 chars]"
     }
   ]
 }
