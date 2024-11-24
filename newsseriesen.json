@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "MacRumors"
+      },
+      "Author": "Juli Clover",
+      "Title": "Apple's Smart Home Command Center: What We Know So Far",
+      "Description": "Apple is working on a new Home accessory that is designed to serve as a central hub or \"Command Center\" for smart home management. The Apple TV and the HomePod are already home hubs and almost all Apple devices can control a HomeKit setup, but Apple is design…",
+      "Url": "https://www.macrumors.com/guide/apple-command-center/",
+      "UrlToImage": "https://images.macrumors.com/t/c-JxOppqgOfMA2iKB6isU6pTmcE=/2500x/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-5.png",
+      "PublishedAt": "2024-11-23T00:20:36Z",
+      "Content": "Apple is working on a new Home accessory that is designed to serve as a central hub or \"Command Center\" for smart home management. The Apple TV and the HomePod are already home hubs and almost all Ap… [+5426 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/Screenshot-2024-11-06-101013-e1730905860684.png?resize=1200,630",
       "PublishedAt": "2024-11-06T16:06:13Z",
       "Content": "Netflix has finally shared the Beastarsfinal season trailer for the long-awaited return of its hit high school drama anime, teasing the first part of the next installment. This comes after over three… [+2381 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Dan Girolamo",
-      "Title": "Missing You Release Date Set for New Harlan Coben Netflix Show",
-      "Description": "Netflix has revealed the Missing You release date for the next mystery TV show from Harlan Coben. What is Netflix’s Missing You release date?  Netflix announced that the Missing You release date will be January 1, 2025. Fans of Coben’s prior work will be able…",
-      "Url": "https://www.comingsoon.net/tv/news/1874343-missing-you-release-date-harlan-coben-netflix-show",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/Harlan-Coben-Missing-You.jpg?resize=1200,630",
-      "PublishedAt": "2024-11-06T15:01:00Z",
-      "Content": "Netflix has revealed the Missing You release date for the next mystery TV show from Harlan Coben.\r\nNetflix announced that the Missing You release date will be January 1, 2025. Fans of Cobens prior wo… [+1817 chars]"
     }
   ]
 }
