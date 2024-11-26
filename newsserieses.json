@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 811,
+  "TotalResults": 816,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Juan Carlos Arciniegas",
+      "Title": "ANÁLISIS | ¿Será la ficción la que al final cambie el rumbo legal de los hermanos Menéndez?",
+      "Description": "Creo en el poder transformador de las obras de arte, sea una película, una obra de teatro o un cuadro. Las historias de ficción o basadas en ella pueden chocar, molestar y, con la presión suficiente, quizá generar cambios sociales frente a determinada situaci…",
+      "Url": "https://cnnespanol.cnn.com/2024/11/25/analisis-hermanos-menendez-ficcion-caso-legal-orix",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758385-hermanosmenendezserie.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-11-25T15:52:49Z",
+      "Content": "(CNN Español) Creo en el poder transformador de las obras de arte, sea una película, una obra de teatro o un cuadro. Las historias de ficción o basadas en ella pueden chocar, molestar y, con la presi… [+3940 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "María Yuste",
+      "Title": "Esta serie es igual de buena que el brutal libro en el que se basa (o más). Se acaba de estrenar y me ha devuelto las ganas de leer",
+      "Description": "Ahora que ha terminado la que dicen que es la mejor y más fiel adaptación de un libro jamás llevada a la pantalla (hablo, por supuesto, de 'La amiga estupenda'), es un momento perfecto para descubrir otra de esas series de las que nos devuelve las ganas de le…",
+      "Url": "https://www.trendencias.com/series-de-television/esta-serie-igual-buena-que-brutal-libro-que-se-basa-se-acaba-estrenar-me-ha-devuelto-ganas-leer",
+      "UrlToImage": "https://i.blogs.es/cb14a4/sn_series-1_ep-12_26-04-23_017018/840_560.jpeg",
+      "PublishedAt": "2024-11-25T15:49:06Z",
+      "Content": "Ahora que ha terminado la que dicen que es la mejor y más fiel adaptación de un libro jamás llevada a la pantalla (hablo, por supuesto, de 'La amiga estupenda'), es un momento perfecto para descubrir… [+2431 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Albertini",
+      "Title": "Netflix quiere arrasar nada más comenzar 2025 y acaba de lanzar el tráiler del nuevo thriller del autor de 'Engaños'",
+      "Description": "{\"videoId\":\"x99qxm2\",\"autoplay\":true,\"title\":\"Te echo de menos - Trailer VO\",\"tag\":\"\",\"duration\":\"159\"}\n \r\n\n\r\n\n La mina de oro que han encontrado en Netflix (y que quiso replicar Prime Video) con las series basadas en las novelas de Harlan Coben sigue su curs…",
+      "Url": "https://www.espinof.com/trailers/netflix-quiere-arrasar-nada-comenzar-2025-acaba-lanzar-trailer-nuevo-thriller-autor-enganos",
+      "UrlToImage": "https://i.blogs.es/813a39/x720/840_560.jpeg",
+      "PublishedAt": "2024-11-25T15:48:46Z",
+      "Content": "La mina de oro que han encontrado en Netflix (y que quiso replicar Prime Video) con las series basadas en las novelas de Harlan Coben sigue su curso y la plataforma va a repetir la jugada de estrenar… [+1213 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Culturaocio.com"
+      },
+      "Author": null,
+      "Title": "¿Habrá temporada 3 de Arcane? Revelado el futuro de League of Legends en Netflix",
+      "Description": "La historia de Vi (Hailee Steinfeld) y Jinx (Ella Purnell) ha culminado del modo más épico posible con los últimos episodios de la temporada 2 de Arcane en Netflix. Pero su final es tan solo adiós momentáneo para los fans de la aclamada serie basada en el vid…",
+      "Url": "https://www.culturaocio.com/tv/noticia-habra-temporada-arcane-revelado-futuro-league-of-legends-netflix-20241125162607.html",
+      "UrlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241125162607_1200.jpg",
+      "PublishedAt": "2024-11-25T15:26:07Z",
+      "Content": "MADRID, 25 Nov. (CulturaOcio) - \r\n   La historia de Vi (Hailee Steinfeld) y Jinx (Ella Purnell) ha culminado del modo más épico posible con losúltimos episodios de la temporada 2 de Arcane en Netflix… [+2201 chars]"
+    },
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "Anabella González",
+      "Title": "¿Quiénes son Lyle y Erik Menéndez? La historia real detrás de “Monstruos”, la serie de Netflix",
+      "Description": "El 20 de agosto de 1989, los hermanos Lyle y Erik Menéndez mataron a sus padres en el interior de su mansión de Beverly Hills, California. La serie de Netflix “Monstruos: la historia de Lyle y Erik Menéndez”, que se estrenó en la plataforma el 19 de septiembr…",
+      "Url": "https://cnnespanol.cnn.com/2024/11/25/lyle-y-erik-menendez-parricidio-monstruos-netflix-orix",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1758385-hermanosmenendezserie.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-11-25T15:00:51Z",
+      "Content": "(CNN Español) El 20 de agosto de 1989, los hermanos Lyle y Erik Menéndez mataron a sus padres en el interior de su mansión de Beverly Hills, California. La serie de Netflix Monstruos: la historia de … [+7351 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://i.blogs.es/bef91f/android/840_560.jpeg",
       "PublishedAt": "2024-11-24T12:01:23Z",
       "Content": "Desde hace años que no veo la tele de toda la vida, ya que suelo informarme a través de internet y solo tiro de mi Smart TV con Android TV con un Chromecast con Google TV integrado para ver contenido… [+2312 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Anabel Palomares",
-      "Title": "Los niños que nunca se sintieron especiales a menudo muestran estos siete comportamientos siendo adultos, según la psicología",
-      "Description": "La infancia, y todo lo que vivimos siendo niños, moldea nuestra personalidad y nos convierte en los adultos que somos ahora. No solo hablamos de cómo afectan a nuestra manera de relacionarnos con otros como explica la teoría psicológica del estilo de apego\r\n.…",
-      "Url": "https://www.trendencias.com/familia-maternidad-y-ninos/ninos-que-nunca-se-sintieron-especiales-a-menudo-muestran-estos-siete-comportamientos-siendo-adultos-psicologia",
-      "UrlToImage": "https://i.blogs.es/495b26/ninos-que-nunca-se-sintieron-especiales-comportamientos-adultos/840_560.jpeg",
-      "PublishedAt": "2024-11-24T11:01:28Z",
-      "Content": "La infancia, y todo lo que vivimos siendo niños, moldea nuestra personalidad y nos convierte en los adultos que somos ahora. No solo hablamos de cómo afectan a nuestra manera de relacionarnos con otr… [+7285 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Irene Carpintero",
-      "Title": "Cuántos anuncios pone el plan barato de Amazon Prime",
-      "Description": "Prime Video pone ahora publicidad a los usuarios de su plan barato\r\nUno de los motivos por los que muchos se entusiasmaron con las plataformas de streaming fue la ausencia de publicidad. Sin embargo, tras la llegada del plan con anuncios de Netflix, Amazon Pr…",
-      "Url": "https://www.lavanguardia.com/andro4all/amazon/cuantos-anuncios-pone-el-plan-barato-de-amazon-prime",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/11/prime-anuncios.jpg?width=1200",
-      "PublishedAt": "2024-11-24T04:30:14Z",
-      "Content": "Prime Video pone ahora publicidad a los usuarios de su plan barato\r\nUno de los motivos por los que muchos se entusiasmaron con las plataformas de streaming fue la ausencia de publicidad. Sin embargo,… [+6310 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elconfidencial.com"
-      },
-      "Author": "A. Richart",
-      "Title": "Todas las series de estreno en las principales plataformas de 'streaming', del 25 de noviembre al 1 de diciembre de 2024",
-      "Description": "La nueva serie en Movistar Plus+ del director de 'As bestas', o el 'biopic' sobre Ayrton Senna en Netflix, entre las grandes destacadas de la semana",
-      "Url": "https://www.elconfidencial.com/television/series-tv/2024-11-24/listado-estrenos-semana-48-netflix-max-disney-primevideo-movistarplus-filmin_4008201/",
-      "UrlToImage": "https://images.ecestaticos.com/8awK8u3pc5MpCS5IWCe93qQkr0E=/0x0:2272x1364/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/5d1/794/52f/5d179452f51dafb96153b550a6bcb6c8.jpg",
-      "PublishedAt": "2024-11-24T04:00:00Z",
-      "Content": "La Favorita 1922, la comedia de época con la que Telecinco sentará a todas las generaciones ante el televisorLa conmovedora miniserie de Max, que está protagonizada por la protagonista de Fargo y sol… [+12825 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "¿Qué ha sido de la herencia de los hermanos Menéndez?",
-      "Description": "Aquel fue un juicio televisado y con audiencias millonarias que traspasaron las frontera. Lyle y Erik Menéndez siguen cumpliendo cadena perpetua en prisión por los brutales asesinatos de sus millonarios padres el 20 de agosto de 1989. Los vástagos, que entonc…",
-      "Url": "https://www.abc.es/gente/herencia-hermanos-menendez-realidad-supera-ficcion-20241114125521-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/11/14/hermanos-menendez-juicio-U61767200312KwB-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-11-24T03:37:33Z",
-      "Content": "Aquel fue un juicio televisado y con audiencias millonarias que traspasaron las frontera. Lyle y Erik Menéndez siguen cumpliendo cadena perpetua en prisión por los brutales asesinatos de sus millonar… [+5312 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Elespanol.com"
-      },
-      "Author": "Daniel Ramírez",
-      "Title": "Mariano cuenta cómo asaltaron el Banco Central a punta de pistola: \"¿El Cesid? ¿23-F? ¡Pero si éramos ladrones y rojos!\"",
-      "Description": "Mariano tenía 21 años el 23 de mayo de 1981, cuando asaltó el Central de Barcelona junto a otros diez hombres. Fue el atraco más grande de la Historia reciente: casi 300 rehenes, 37 horas y el Gobierno en vilo.\nAcepta relatar su testimonio para desmentir la v…",
-      "Url": "https://www.elespanol.com/espana/politica/20241124/mariano-cuenta-asaltaron-banco-central-punta-pistola-cesid-ladrones-rojos/902410009_0.html",
-      "UrlToImage": "https://s1.elespanol.com/2024/11/22/espana/politica/903170855_251117468_1706x960.png",
-      "PublishedAt": "2024-11-24T02:30:58Z",
-      "Content": "A su hermano le compraron la moto que quería y a él no. Las grandes averías a veces comienzan así. Una circunstancia anodina, sucedida un día cualquiera, empuja al muchacho a robar la caja de una emp… [+16092 chars]"
     }
   ]
 }

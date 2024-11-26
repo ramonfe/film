@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 53,
+  "TotalResults": 54,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "HuffPost"
+      },
+      "Author": "Caroline Bologna",
+      "Title": "This New Mystery Comedy Is The Top Show On Netflix Right Now",
+      "Description": "An Irish black comedy and sci-fi series are also among the shows trending across streaming services like Max, Hulu, Apple TV+ and Amazon Prime Video.",
+      "Url": "https://www.huffpost.com/entry/a-man-on-the-inside-popular-netflix-shows_n_6743b350e4b03c8ec6f8da14",
+      "UrlToImage": "https://img.huffingtonpost.com/asset/67449a3a1400002d009045a9.jpg?ops=1200_630",
+      "PublishedAt": "2024-11-25T15:55:14Z",
+      "Content": "A Man on the Inside is currently the most popular show on Netflix, according to the platforms public ranking system.\r\nThe new mystery comedy stars Ted Danson as a retired engineering professor who ta… [+1914 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.macrumors.com/t/jQaoH5HACczXNlgt0Bz0RUof1ZQ=/2000x/article-new/2023/06/silo-tv-show-apple-tv-plus.jpg",
       "PublishedAt": "2024-11-15T02:00:00Z",
       "Content": "The award-winning Apple TV+ sci-fi series \"Silo\" is finally back, after nearly a year-and-a-half wait. The first episode of the second season is now available on Apple's streaming service, and one ne… [+976 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The Daily Dot"
-      },
-      "Author": "Angela Andaloro",
-      "Title": "Here’s what the cast of ‘Orange Is The New Black’ is up to 5 years later",
-      "Description": "It's hard to believe it's been over five years since Netflix's first-ever big hit came to an end. Orange Is The New Black cemented the streaming giant's place among competitors. It also opened doors for many of the Netflix originals that have come since then.…",
-      "Url": "https://www.dailydot.com/pop-culture/orange-is-the-new-black-cast-where-to-watch-now/",
-      "UrlToImage": "https://uploads.dailydot.com/2024/11/orange-is-the-new-black-cast.png?auto=compress&fit=scale&fm=png&h=400&w=800",
-      "PublishedAt": "2024-11-11T17:35:17Z",
-      "Content": "Its hard to believe its been over five years since Netflixs first-ever big hit came to an end. Orange Is The New Black cemented the streaming giants place among competitors. It also opened doors for … [+9837 chars]"
     }
   ]
 }
