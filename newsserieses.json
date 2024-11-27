@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 815,
+  "TotalResults": 816,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Wesley Yin-Poole, Mario Sánchez",
+      "Title": "Se adelanta la fecha de estreno de Star Wars: Tripulación perdida en Disney Plus",
+      "Description": "Más rápido que el Halcón Milenario\nMuy buenas noticias para los fans de Star Wars: se adelanta el estreno de la serie Tripulación perdida en Disney Plus",
+      "Url": "https://es.ign.com/star-wars-skeleton-crew/210325/news/se-adelanta-la-fecha-de-estreno-de-star-wars-tripulacion-perdida-en-disney-plus",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/news/s/star-wars-/star-wars-skeleton-crew-disney-release-date-brought-forward_ny7r.1200.jpg",
+      "PublishedAt": "2024-11-26T17:15:33Z",
+      "Content": "Disney ha adelantado un día la fecha de estreno de Star Wars: Tripulación perdida. Inicialmente, la serie iba a estrenarse en Disney Plus el 3 de diciembre de 2024, pero ahora se lanzará en la plataf… [+1227 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/cb14a4/sn_series-1_ep-12_26-04-23_017018/840_560.jpeg",
       "PublishedAt": "2024-11-25T15:49:06Z",
       "Content": "Ahora que ha terminado la que dicen que es la mejor y más fiel adaptación de un libro jamás llevada a la pantalla (hablo, por supuesto, de 'La amiga estupenda'), es un momento perfecto para descubrir… [+2431 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "Netflix quiere arrasar nada más comenzar 2025 y acaba de lanzar el tráiler del nuevo thriller del autor de 'Engaños'",
-      "Description": "{\"videoId\":\"x99qxm2\",\"autoplay\":true,\"title\":\"Te echo de menos - Trailer VO\",\"tag\":\"\",\"duration\":\"159\"}\n \r\n\n\r\n\n La mina de oro que han encontrado en Netflix (y que quiso replicar Prime Video) con las series basadas en las novelas de Harlan Coben sigue su curs…",
-      "Url": "https://www.espinof.com/trailers/netflix-quiere-arrasar-nada-comenzar-2025-acaba-lanzar-trailer-nuevo-thriller-autor-enganos",
-      "UrlToImage": "https://i.blogs.es/813a39/x720/840_560.jpeg",
-      "PublishedAt": "2024-11-25T15:48:46Z",
-      "Content": "La mina de oro que han encontrado en Netflix (y que quiso replicar Prime Video) con las series basadas en las novelas de Harlan Coben sigue su curso y la plataforma va a repetir la jugada de estrenar… [+1213 chars]"
     }
   ]
 }
