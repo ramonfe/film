@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 633,
+  "TotalResults": 634,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cisa.gov"
+      },
+      "Author": "CISA",
+      "Title": "Vulnerability Summary for the Week of November 18, 2024",
+      "Description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>1000projects -- bookstore_management_system </td>\n<td>A vulnerability, which was classif…",
+      "Url": "https://www.cisa.gov/news-events/bulletins/sb24-331",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-26T19:00:53Z",
+      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s… [+899 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://biztoc.com/cdn/808/og.png",
       "PublishedAt": "2024-11-25T12:12:58Z",
       "Content": "Glen Powell and Brisket the dog.Presley Ann/Getty ImagesGlen Powell is the latest Hollywood star to get his own look-alike contest.It was held in the actor's hometown of Austin, Texas, and the actor … [+150 chars]"
-    },
-    {
-      "Source": {
-        "Id": "business-insider",
-        "Name": "Business Insider"
-      },
-      "Author": "Eammon Jacobs",
-      "Title": "Glen Powell was the most recent celebrity to get a look-alike contest. The actor raised the stakes by adding a movie cameo to the prize.",
-      "Description": "At the Glen Powell look-alike contest in the Austin, Texas, the actor added a last-minute prize: a cameo in his next movie.",
-      "Url": "https://www.businessinsider.com/glen-powell-look-alike-trend-contest-cameo-2024-11",
-      "UrlToImage": "https://i.insider.com/6744545d9f2901eb60369737?width=1200&format=jpeg",
-      "PublishedAt": "2024-11-25T12:02:17Z",
-      "Content": "Glen Powell and Brisket the dog.Presley Ann/Getty Images\r\n<ul><li>Glen Powell is the latest Hollywood star to get his own look-alike contest.</li><li>It was held in the actor's hometown of Austin, Te… [+2947 chars]"
     }
   ]
 }

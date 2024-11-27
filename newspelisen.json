@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 727,
+  "TotalResults": 729,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Mjtsai.com"
+      },
+      "Author": "Michael Tsai",
+      "Title": "Apple’s Movie Theater Beef With Hollywood",
+      "Description": "Mike Fleming Jr.: Jon Watts, the filmmaker who stepped out of the Spider-Man franchise with Tom Holland and Zendaya to script and direct George Clooney and Brad Pitt in the film Wolfs for Apple, created a press dustup yesterday when he let slip that he and th…",
+      "Url": "https://mjtsai.com/blog/2024/11/26/apples-movie-theater-beef-with-hollywood/",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-26T19:15:51Z",
+      "Content": "Jon Watts, the filmmaker who stepped out of the Spider-Man franchise with Tom Holland and Zendaya to script and direct George Clooney and Brad Pitt in the film Wolfs for Apple, created a press dustup… [+1926 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cisa.gov"
+      },
+      "Author": "CISA",
+      "Title": "Vulnerability Summary for the Week of November 18, 2024",
+      "Description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>1000projects -- bookstore_management_system </td>\n<td>A vulnerability, which was classif…",
+      "Url": "https://www.cisa.gov/news-events/bulletins/sb24-331",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-26T19:00:53Z",
+      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s… [+899 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/Screenshot_2023-11-29_at_10.38.54_AM_1200x675-2024-11-22T131513.941.jpg?resize=1200,630",
       "PublishedAt": "2024-11-25T19:59:21Z",
       "Content": "ComingSoon Senior Editor Brandon Schreur spoke to Mystery Science Theater 3000 host Jonah Ray. Ray discussed the annual Turkey Day event (which is being held on November 28, 2024, on Shout! TV and Th… [+14639 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "Dan Heching",
-      "Title": "I was stunned by how movingly cinematic ‘Wicked’ is. I shouldn’t be, and here’s why | CNN",
-      "Description": "Over the weekend, I came upon a hilarious post from a good ol’ social media influencer titled “Before Wicked vs After Wicked,” showing him doubting all the initial praise for the new movie – with people telling him, “It’s going to win best picture!” and him e…",
-      "Url": "https://www.cnn.com/2024/11/25/entertainment/wicked-essay/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2551-sb-00048.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2024-11-25T19:33:22Z",
-      "Content": "Over the weekend, I came upon a hilarious post from a good ol social media influencer titled Before Wicked vs After Wicked, showing him doubting all the initial praise for the new movie with people t… [+5500 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Bloody Disgusting"
-      },
-      "Author": "Brad Miska",
-      "Title": "‘Devon’ – JWoww’s Found Footage Horror Movie Haunts SCREAMBOX Tomorrow! [Trailer]",
-      "Description": "Tomorrow marks the SCREAMBOX release of the found footage horror movie Devon, the feature directorial debut of “Jersey Shore” alum Jenni “JWOWW” Farley! In the film, “When a group of friends try to uncover the truth behind an unsolved disappearance, they unwi…",
-      "Url": "https://bloody-disgusting.com/movie/3846773/devon-jwowws-found-footage-horror-movie-haunts-screambox-tomorrow-trailer/",
-      "UrlToImage": "https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2024/10/Devon_2.png?resize=1000%2C600&ssl=1",
-      "PublishedAt": "2024-11-25T19:28:15Z",
-      "Content": "Few female villains in the history of horror have been so beguiling as Pearl (Mia Goth). We first meet this dancing murderess in the twilight days of her life as she slaughters the cast and crew of a… [+7172 chars]"
     }
   ]
 }
