@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 758,
+  "TotalResults": 759,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-28T04:29:25Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/506335?v=1732678384",
       "PublishedAt": "2024-11-27T03:31:21Z",
       "Content": "Dwayne Johnson has no issue if moviegoers want to sing out loud during a screening at a movie theater.\r\nSing! Youve paid your hard earned money for a ticket, and youve gone into a musical, and youre … [+593 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "‘Wicked’ singalongs blasted by moviegoers as one theater chain bans practice - New York Post",
-      "Description": "‘Wicked’ singalongs blasted by moviegoers as one theater chain bans practiceNew York Post ‘Wicked’ Fans Can’t Stop Filming Scenes on Their Phones – a Form of Piracy That Hollywood Doesn’t Seem to MindVariety AMC issues strict warning to those who see ‘Wicked’…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175550219",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-27T03:12:09Z",
-      "Content": "FORTRAN is not a flower but a weed -- it is hardy, occasionally blooms,\r\nand grows in every computer.\r\n-- A.J. Perlis"
     }
   ]
 }
