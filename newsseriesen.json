@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 64,
+  "TotalResults": 65,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-11-29T16:35:51Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/zero-day-still.jpg?resize=1200,630",
       "PublishedAt": "2024-11-20T17:00:00Z",
       "Content": "Netflix has released the first official batch of Zero Day images, previewing the upcoming conspiracy thriller starring Robert De Niro.\r\nThe new batch of images shows off several of the main actors fr… [+1319 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComicBook.com"
-      },
-      "Author": "Charlie Ridgely",
-      "Title": "Netflix: Every Movie and TV Show Arriving in December 2024",
-      "Description": "Thanksgiving is just around the corner, and that means the month of December isn’t too far behind. While there are still a lot of big movie and TV releases set for November, Netflix is getting a head start on planning for the month ahead. On Wednesday, the st…",
-      "Url": "http://comicbook.com/tv-shows/news/netflix-every-movie-and-tv-show-arriving-in-december-2024/",
-      "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/10/netflix-logo.webp?w=1280",
-      "PublishedAt": "2024-11-20T16:28:26Z",
-      "Content": "Thanksgiving is just around the corner, and that means the month of December isn’t too far behind. While there are still a lot of big movie and TV releases set for November, Netflix is getting a head… [+13429 chars]"
     }
   ]
 }
