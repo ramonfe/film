@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 776,
+  "TotalResults": 777,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Martín Nicolás Parolari",
+      "Title": "La serie de HBO que marcó un antes y un después: ¿Debería haber terminado con su primera temporada?",
+      "Description": "Hay series que nos dejan una huella tan profunda que cualquier intento de prolongarlas parece innecesario. Una de ellas es \"Big Little Lies\", cuya primera temporada sigue siendo, para muchos, una obra perfecta. Pero ¿es realmente necesario que vuelva con más …",
+      "Url": "https://es.gizmodo.com/la-serie-de-hbo-que-marco-un-antes-y-un-despues-deberia-haber-terminado-con-su-primera-temporada-2000137083",
+      "UrlToImage": "https://es.gizmodo.com/app/uploads/2024/12/Diseno-sin-titulo-78.jpg",
+      "PublishedAt": "2024-12-01T18:40:17Z",
+      "Content": "«Big Little Lies» irrumpió como una miniserie que combinaba un reparto estelar con una trama llena de suspense y emoción. Originalmente concebida como una adaptación cinematográfica del libro homónim… [+2906 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.meneame.net/backend/media?type=link&id=4004956&version=0&ts=1732895647&image.webp",
       "PublishedAt": "2024-11-29T15:48:41Z",
       "Content": "#17 Conmigo tranquilo que las he visto las dos al completo.Lo que me parece que soy de los pocos que ha visto toda la serie y leído el relato, en inglés, que yo sepa no está traducido, Beacon32 (el n… [+38 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "La serie de Ayrton Senna llegó a Netflix: quién es quién en la historia del piloto",
-      "Description": "La vida del tres veces campeón de Fórmula 1 ya está disponible en la plataforma de streaming; todos los detalles de los personajes",
-      "Url": "https://www.lanacion.com.ar/espectaculos/la-serie-de-ayrton-senna-llego-a-netflix-quien-es-quien-en-la-historia-del-piloto-nid29112024/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/la-nueva-serie-que-narra-la-vida-de-ayrton-senna-FE4QBD5VM5CGVOZ5RJWDZMNDIQ.JPG?auth=f9c3529283e643008dd4f594ba693b953bd291bb4b79cf7d715624b4bb9aca9b&width=1200&quality=70&smart=false&height=831",
-      "PublishedAt": "2024-11-29T15:46:02Z",
-      "Content": "La vida y legado de Ayrton Senna, el legendario piloto brasileño que conquistó tres campeonatos de Fórmula 1, cobran vida en una esperada miniserie de seis capítulos titulada Senna. Este proyecto pro… [+3253 chars]"
     }
   ]
 }
