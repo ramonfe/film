@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 176,
+  "TotalResults": 177,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cnn",
+        "Name": "CNN"
+      },
+      "Author": "urielblanco",
+      "Title": "\"Moana 2\", \"Wicked\" y \"Gladiador II\" triunfan en taquillas de cine el fin de semana de Acción de Gracias",
+      "Description": "En lugar de quedarse en el sillón después del Día de Acción de Gracias, los estadounidenses acudieron a las salas de cine, donde el estreno de \"Moana 2\", de Disney, y el atractivo de \"Wicked\" y \"Gladiador II\" proporcionaron un gran impulso a la taquilla nacio…",
+      "Url": "https://cnnespanol.cnn.com/2024/12/01/moana-2-wicked-gladiador-ii-taquilla-cine-accion-de-gracias-trax",
+      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1789313-copia-de-foto-para-wp-2024-12-01t154829-263.jpg?c=16x9&q=w_800,c_fill",
+      "PublishedAt": "2024-12-02T03:58:41Z",
+      "Content": "(CNN) En lugar de quedarse en el sillón después del Día de Acción de Gracias, los estadounidenses acudieron a las salas de cine, donde el estreno de Moana 2, de Disney, y el atractivo de Wicked y Gla… [+3927 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/11/27/3219398.jpg",
       "PublishedAt": "2024-11-27T21:10:05Z",
       "Content": "De la mano de uno de los cineastas de terror mexicano llega Turno Nocturno, lapelícula inspirada en la leyenda de La Planchada, que promete alimentar tus miedos y retratar el lado más oscuro del famo… [+2606 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xatakamovil.com"
-      },
-      "Author": "Eduardo Marín",
-      "Title": "Wicked es la prueba de que la gente no para de grabar películas en el cine con el móvil, y a Hollywood parece no importarle",
-      "Description": "Wicked es el nuevo fenómeno que llegó a los cines. La película esta basada en la novela homónima escrita por Gregory Maguire, que al mismo tiempo está basada en la historia original de El maravilloso mago de Oz. Wicked es un musical de fantasía, y si no la ha…",
-      "Url": "https://www.xatakamovil.com/movil-y-sociedad/wicked-prueba-que-gente-no-para-grabar-peliculas-cine-movil-a-hollywood-parece-no-importarle",
-      "UrlToImage": "https://i.blogs.es/c368ee/wicked-pelicula-fotos-cine/840_560.jpeg",
-      "PublishedAt": "2024-11-27T18:31:40Z",
-      "Content": "Wicked es el nuevo fenómeno que llegó a los cines. La película esta basada en la novela homónima escrita por Gregory Maguire, que al mismo tiempo está basada en la historia original de El maravilloso… [+4329 chars]"
     }
   ]
 }
