@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 926,
+  "TotalResults": 927,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "La falta de conductores de autobús en Europa amenaza los servicios de transporte público",
+      "Description": "Según los estudios de IRU, de la que CONFEBUS es miembro, en 2023 había 105.000 puestos de conductores de autobús sin cubrir en Europa y que dicha cifra que podría duplicarse en 2028. Esta escasez amenaza con reducir la frecuencia o interrumpir los servicios …",
+      "Url": "https://www.abc.es/motor/economia/falta-conductores-autobus-europa-amenaza-servicios-transporte-20241203084900-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/motor/2024/12/03/aautobuses-europa-U58873445461yfB-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-12-03T07:49:00Z",
+      "Content": "Según los estudios de IRU, de la que CONFEBUS es miembro, en 2023 había 105.000 puestos de conductores de autobús sin cubrir en Europa y que dicha cifra que podría duplicarse en 2028. Esta escasez am… [+2399 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/02/3221780.jpg",
       "PublishedAt": "2024-12-02T14:16:22Z",
       "Content": "La actriz colombiana Sandra Reyes, reconocida por su icónico papel como Paula Dávila en la telenovela Pedro el Escamoso, falleció este domingo a los 49 años. La noticia fue confirmada por su represen… [+2652 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "La hija de José Luis Gil comparte una nueva imagen de su padre 3 años después del ictus",
-      "Description": "El 4 de noviembre de 2021 marcó un antes y un después en la vida de José Luis Gil . Un ictus isquémico obligó al actor de 'La que se avecina' a alejarse de los escenarios y las cámaras, dejando un vacío en el corazón de sus seguidores. Ahora, tres años despué…",
-      "Url": "https://www.abc.es/gente/hija-jose-luis-gil-comparte-nueva-imagen-20241202131529-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/gente/2024/12/02/jose-luis-gil-salud-portada-U72188536851ivg-1024x512@diario_abc.jpg",
-      "PublishedAt": "2024-12-02T12:15:30Z",
-      "Content": "El 4 de noviembre de 2021 marcó un antes y un después en la vida de José Luis Gil. Un ictus isquémico obligó al actor de 'La que se avecina' a alejarse de los escenarios y las cámaras, dejando un vac… [+3056 chars]"
     }
   ]
 }
