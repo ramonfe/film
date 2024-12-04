@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 555,
+  "TotalResults": 556,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-12-03T15:39:51Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://l-files.livejournal.net/og_image/3616053/506406?v=1733050177",
       "PublishedAt": "2024-12-01T10:49:35Z",
       "Content": "Demi Moore is a three-time Golden Globe Awardnominated actress and Hollywood icon who has been blazing trails and drawing us to the movie theater for decades. You can catch her now in the much-acclai… [+291 chars]"
-    },
-    {
-      "Source": {
-        "Id": "abc-news-au",
-        "Name": "ABC News (AU)"
-      },
-      "Author": "Laetitia Lemke",
-      "Title": "Born in the bush, Mawuyul Yanthalawuy survived Japanese bombs before becoming a teacher and a movie star",
-      "Description": "Award-winning actor, educator and community leader Mawuyul Yanthalawuy, who starred in the film Manganinnie, is being remembered as a \"national treasure\" after her death at the age of 85.",
-      "Url": "https://www.abc.net.au/news/2024-12-01/manganinnie-actor-mawuyul-yanthalawuy-am-dies-aged-85/104662838",
-      "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/b43a73ccbeddbde138a4d165e42cc125?impolicy=wcms_watermark_news&cropH=1363&cropW=2423&xPos=0&yPos=573&width=862&height=485&imformat=generic",
-      "PublishedAt": "2024-11-30T22:41:56Z",
-      "Content": "In 1979, 40-year-old Darwin preschool assistant Mawuyul Yanthalawuy answered a national casting call to play the leading lady in what would become an art-house feature film.\r\nNote to Aboriginal and T… [+5326 chars]"
     }
   ]
 }
