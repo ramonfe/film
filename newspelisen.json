@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 706,
+  "TotalResults": 708,
   "Articles": [
+    {
+      "Source": {
+        "Id": "newsweek",
+        "Name": "Newsweek"
+      },
+      "Author": "Griff Griffin",
+      "Title": "The Mandalorian and Grogu Movie Expands 'What We Can Do With the Puppetry'",
+      "Description": "Director Jon Favreau's Disney+ series has just wrapped filming ahead of a May 2026 release date.",
+      "Url": "https://www.newsweek.com/mandalorian-grogu-movie-expands-what-we-can-do-puppetry-1995500",
+      "UrlToImage": "https://d.newsweek.com/en/full/2536038/mandalorian-season-3.png",
+      "PublishedAt": "2024-12-04T16:30:01Z",
+      "Content": "The Mandalorian and Grogu features the best incarnation of Grogu yet, says co-writer Dave Filoni.\r\nThat's thanks to \"evolved\" puppetry that's many times more advanced than what we saw in The Mandalor… [+1402 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Apoorv Rastogi",
+      "Title": "The Last of Us Season 2 Release Date Window Revealed for HBO & Max",
+      "Description": "Fans of The Last of Us can rejoice as Season 2 of the show has finally received an official release date. Created by Craig Mazin and Neil Druckmann and based on a video game franchise of the same name, the HBO series garnered positive reviews when it debuted …",
+      "Url": "https://www.comingsoon.net/tv/news/1888677-the-last-of-us-season-2-release-date-window-hbo-max",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/The-Last-of-Us-Season-2-release-date-HBO-Max.jpg?resize=1200,630",
+      "PublishedAt": "2024-12-04T16:11:08Z",
+      "Content": "Fans of The Last of Us can rejoice as Season 2 of the show has finally received an official release date. Created by Craig Mazin and Neil Druckmann and based on a video game franchise of the same nam… [+1403 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://biztoc.com/cdn/460909f1dfef6403_s.webp",
       "PublishedAt": "2024-12-03T18:57:57Z",
       "Content": "TheStreet aims to feature only the best products and services. If you buy something via one of our links, we may earn a commission.If movie nights are a common occurrence in your household, a mini pr… [+146 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Deadline"
-      },
-      "Author": "anthonypauldalessandro",
-      "Title": "‘Moana 2’ Moola Now At $400M+ Worldwide – Box Office",
-      "Description": "After six days of release worldwide, Disney’s record-breaking Moana 2 stands at $404.5M, passing this year’s Kingdom of the Planet of the Apes ($397.4M) and Bad Boys: Ride or Die ($404.5M), already the No. 9 movie of the year. Yesterday, Moana 2 led at the do…",
-      "Url": "http://deadline.com/2024/12/moana-2-worldwide-box-office-monday-1236192699/",
-      "UrlToImage": "https://deadline.com/wp-content/uploads/2024/12/MOANA2-ONLINE-USE-mono_fullcomp.0082_4K.jpeg?w=1024",
-      "PublishedAt": "2024-12-03T17:44:38Z",
-      "Content": "After six days of release worldwide, Disney’s record-breaking Moana 2stands at $404.5M, passing this year’s Kingdom of the Planet of the Apes ($397.4M) and Bad Boys: Ride or Die ($404.5M), already th… [+1387 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Biztoc.com"
-      },
-      "Author": "siliconvalley.com",
-      "Title": "Alamo Drafthouse confirms plans to open two movie theaters in South Bay",
-      "Description": "Alamo Drafthouse — the hip Austin, Texas-based movie theater chain championed equally for its diversely appealing film offerings and its strict no-talking/texting policy — has announced plans to open two new locations in the South Bay.\nThe new theaters will b…",
-      "Url": "https://biztoc.com/x/94e6d4e4393406d4",
-      "UrlToImage": "https://biztoc.com/cdn/94e6d4e4393406d4_s.webp",
-      "PublishedAt": "2024-12-03T17:40:28Z",
-      "Content": "Alamo Drafthouse the hip Austin, Texas-based movie theater chain championed equally for its diversely appealing film offerings and its strict no-talking/texting policy has announced plans to open two… [+146 chars]"
     }
   ]
 }
