@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Streaming is just TV all over again",
+      "Description": "As Rust Cohle famously put it in HBO's True Detective, \"Time is a flat circle.\" So it's maybe not a huge surprise that Max is the latest service to bring cable-style linear channels to a premium streaming service.\nIt's starting to test such channels in the US…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175594059",
+      "UrlToImage": null,
+      "PublishedAt": "2024-12-04T18:32:08Z",
+      "Content": "As Rust Cohle famously put it in HBO's True Detective, \"Time is a flat circle.\" So it's maybe not a huge surprise that Max is the latest service to bring cable-style linear channels to a premium stre… [+2514 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-11-22T16:05:21Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MacRumors"
-      },
-      "Author": "Juli Clover",
-      "Title": "Will Apple Make a TV? What to Know as Rumors Resurface",
-      "Description": "Between 2011 and 2014, there were a glut of rumors suggesting that Apple was working on an Apple-branded television set, which would disrupt the TV industry. No such product ever emerged, but now the TV rumors are back.\n\n\n\n\n\nApple 'Evaluating' a TV\n\nAccording…",
-      "Url": "https://www.macrumors.com/guide/apple-tv-set/",
-      "UrlToImage": "https://images.macrumors.com/t/hKFknzKDbovpDNotdJNxsdkuCz4=/2322x/article-new/2023/10/Apple-TV-4K-hero-221018-feature.jpg",
-      "PublishedAt": "2024-11-22T00:09:12Z",
-      "Content": "Between 2011 and 2014, there were a glut of rumors suggesting that Apple was working on an Apple-branded television set, which would disrupt the TV industry. No such product ever emerged, but now the… [+6891 chars]"
     }
   ]
 }
