@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1005,
+  "TotalResults": 1008,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Aarón Márquez",
+      "Title": "Jean-Claude Van Damme se cuela en Hitman World of Assassination para dar vida a The Splitter",
+      "Description": "La legendaria estrella de cine llega a la saga Hitman\nJean-Claude Van Damme, un clásico actor de películas de acción, se adentra en el universo de Hitman.",
+      "Url": "https://es.ign.com/hitman-world-of-assassination/210627/news/jean-claude-van-damme-se-cuela-en-hitman-world-of-assassination-para-dar-vida-a-the-splitter",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/hitman-world-of-assassination-the-splitter-featuring-jcvdwor_ck4e.1200.jpg",
+      "PublishedAt": "2024-12-05T15:30:33Z",
+      "Content": "Ahora estamos viviendo una época de oro para los videojuegos en general (aunque no tanto para la industria como tal), y resulta paradójico que ahora un videojuego como es Hitman cruce sus destinos co… [+1547 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Alexandra González",
+      "Title": "Nueva serie de 'Harry Potter' quiere a Paapa Essiedu para el papel de Severus Snape",
+      "Description": "HBO está listo para revivir el universo de Harry Potter con una nueva serie que promete ser una adaptación fiel de los libros escritos por J.K. Rowling.Este proyecto, descrito como un remake de la icónica saga cinematográfica protagonizada por Daniel Radcliff…",
+      "Url": "https://www.milenio.com/espectaculos/television/paapa-essiedu-podria-ser-severus-snape-en-nueva-serie-de-harry-potter",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/05/serie-harry-potter-paapa-essiedu.jpg",
+      "PublishedAt": "2024-12-05T15:04:00Z",
+      "Content": "HBO está listo para revivir el universo de Harry Potter con una nueva serie que promete ser una adaptación fiel de los libros escritos por J.K. Rowling. \r\nEste proyecto, descrito como un remake de la… [+3533 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Miguel Solo",
+      "Title": "A esta actriz de Disney Channel la televisión y la música se le quedaron pequeñas. Así que ahora tiene su propia empresa espacial",
+      "Description": "Es difícil saber qué esperar con actores de la cantera de Disney. Por cada intérprete con el que la compañía acierta de pleno como Zendaya o Selena Gómez, hay otros que no terminan de encajar bien y la cosa acaba en divorcio. Claro que esto no siempre es una …",
+      "Url": "https://www.espinof.com/actores-y-actrices/a-esta-actriz-disney-channel-television-musica-se-le-quedaron-pequenas-asi-que-ahora-tiene-su-propia-empresa-espacial",
+      "UrlToImage": "https://i.blogs.es/5d08d0/charlie/840_560.jpeg",
+      "PublishedAt": "2024-12-05T15:00:24Z",
+      "Content": "Es difícil saber qué esperar con actores de la cantera de Disney. Por cada intérprete con el que la compañía acierta de pleno como Zendaya o Selena Gómez, hay otros que no terminan de encajar bien y … [+2183 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,45 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/04/charlotte-lewis-logro-perjudicar-roman.jpg",
       "PublishedAt": "2024-12-04T20:53:19Z",
       "Content": "En 2010, en una rueda de prensa en el \"Festival de Cannes\", Charlotte Lewis contó que fue agredida durante un casting organizado en casa de Roman Polanski en París, en 1983, cuando tenía 16 años.\r\nAn… [+2100 chars]"
-    },
-    {
-      "Source": {
-        "Id": "el-mundo",
-        "Name": "El Mundo"
-      },
-      "Author": "Charlotte Davies",
-      "Title": "Palomas Negras, el thriller de espionaje que marca el regreso de Keira Knightley a la televisión: \"Es un delicioso antídoto a la alegría navideña\"",
-      "Description": "La actriz británica recorre las calles de Londres en esta trepidante serie de Netflix, en la que interpreta a una espía encubierta que, bajo la fachada de madre y esposa devota, lleva 10 años filtrando secretos del Gobierno británico a la organización mercena…",
-      "Url": "https://www.elmundo.es/television/series/2024/12/04/6650fc8ce9cf4aeb358b4589.html",
-      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/a554f95aef7401a24fd2016b993f834c/crop/349x0/2941x1728/resize/1200/f/webp/assets/multimedia/imagenes/2024/11/28/17328338247867.jpg",
-      "PublishedAt": "2024-12-04T20:34:29Z",
-      "Content": "Hay algo casi hipnótico en Londres durante la Navidad. Las calles brillan bajo un manto de luces, los árboles adornan las vitrinas de las tiendas de Oxford Street y Covent Garden, y el gélido aire se… [+7178 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"Se inundó toda la isla\": John Rhys-Davies recuerda un complicado día de rodaje en El Señor de los Anillos y el ingenio de Peter Jackson para seguir filmando la película",
-      "Description": "Con el paso de los años, pocas sagas cinematográficas podrán igualar la grandeza de El Señor de los Anillos. La trilogía dirigida por Peter Jackson es una de las más queridas y alabadas en la historia del cine, con pocas franquicias capaces de competir con el…",
-      "Url": "https://www.vidaextra.com/cine/se-inundo-toda-isla-john-rhys-davies-recuerda-complicado-dia-rodaje-senor-anillos-ingenio-peter-jackson-para-seguir-filmando-pelicula",
-      "UrlToImage": "https://i.blogs.es/fa9056/el-senor-de-los-anillos/840_560.jpeg",
-      "PublishedAt": "2024-12-04T20:00:13Z",
-      "Content": "Con el paso de los años, pocas sagas cinematográficas podrán igualar la grandeza de El Señor de los Anillos. La trilogía dirigida por Peter Jackson es una de las más queridas y alabadas en la histori… [+2502 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "beatriz.rodriguez",
-      "Title": "Silvia Pinal sería propietaria de famoso centro comercial en la CDMX",
-      "Description": "B. Rodríguez\r\nTras la muerte de Silvia Pinal ocurrida la semana pasada luego de que permaneció varios días ingresada en un hospital, han surgido toda una serie de dudas y especulaciones sobre la herencia de la actriz y cómo sería repartida entre sus familiare…",
-      "Url": "https://www.excelsior.com.mx/funcion/silvia-pinal-seria-propietaria-de-famoso-centro-comercial-en-la-cdmx/1687887",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/04/3223160.jpg",
-      "PublishedAt": "2024-12-04T19:41:24Z",
-      "Content": "Tras la muerte de Silvia Pinal ocurrida la semana pasada luego de que permaneció varios días ingresada en un hospital, han surgido toda una serie de dudas y especulaciones sobre la herencia de la act… [+2393 chars]"
     }
   ]
 }
