@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Soundandvision.com"
+      },
+      "Author": "Barb Gonzalez",
+      "Title": "Festive Favorites: Where to Stream the Best Holiday Movies",
+      "Description": "Finding where to stream your favorite Christmas and holiday movies can feel like a treasure hunt. Movies no longer stay with the same service indefinitely as licensing rights frequently expire. Comparing last year’s list of holiday movie locations, many title…",
+      "Url": "https://www.soundandvision.com/content/festive-favorites-where-stream-best-holiday-movies",
+      "UrlToImage": "https://www.soundandvision.com/images/SV_holidaymoviecollage%20copy%202.jpg",
+      "PublishedAt": "2024-12-05T00:00:00Z",
+      "Content": "Finding where to stream your favorite Christmas and holiday movies can feel like a treasure hunt. Movies no longer stay with the same service indefinitely as licensing rights frequently expire. Compa… [+3956 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/a-man-on-the-inside-2.jpg?resize=1200,630",
       "PublishedAt": "2024-11-22T19:00:00Z",
       "Content": "A Man on the Inside stars Mary Elizabeth Ellis and Lilah Richcreek Estrada talked about working with Ted Danson in the Netflix comedy show. The duo also talked about family relationships and becoming… [+4536 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-22T16:05:21Z",
-      "Content": "[Removed]"
     }
   ]
 }
