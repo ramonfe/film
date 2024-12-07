@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "NPR",
+      "Title": "Rachel Bloom",
+      "Description": "Rachel Bloom is a comedian, songwriter and TV creator. She created and starred in one of the funniest and silliest television shows to run on a major network: Crazy Ex-Girlfriend.\nThe musical series ran for four seasons on the CW, winning several Emmys and to…",
+      "Url": "https://www.npr.org/2024/12/06/1217547163/rachel-bloom",
+      "UrlToImage": "https://media.npr.org/assets/img/2024/12/05/rachelbloom-4_wide-e27e3a1565f202496596e48c7903a3a05e7685f3.jpg?s=1400&c=100&f=jpeg",
+      "PublishedAt": "2024-12-06T08:00:59Z",
+      "Content": "Rachel Bloom at the Maximum Fun offices in Los Angeles, CA.\r\nDaniel Huecias/Maximum Fun\r\nRachel Bloom is a comedian, songwriter and TV creator. She created and starred in one of the funniest and sill… [+1215 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://tv.angus.plus/build/assets/social-1T0redO0.png",
       "PublishedAt": "2024-11-23T14:39:55Z",
       "Content": "angus tv+\r\nKeep track of what you've streamed, where you streamed it, and see what other\r\n people are streaming. Made specifically for Canadians 'cause our streaming services are ... different.\r\nTry … [+47 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "MacRumors"
-      },
-      "Author": "Juli Clover",
-      "Title": "Apple's Smart Home Command Center: What We Know So Far",
-      "Description": "Apple is working on a new Home accessory that is designed to serve as a central hub or \"Command Center\" for smart home management. The Apple TV and the HomePod are already home hubs and almost all Apple devices can control a HomeKit setup, but Apple is design…",
-      "Url": "https://www.macrumors.com/guide/apple-command-center/",
-      "UrlToImage": "https://images.macrumors.com/t/c-JxOppqgOfMA2iKB6isU6pTmcE=/2500x/article-new/2024/11/Apple-AI-Command-Center-Concept-Mock-5.png",
-      "PublishedAt": "2024-11-23T00:20:36Z",
-      "Content": "Apple is working on a new Home accessory that is designed to serve as a central hub or \"Command Center\" for smart home management. The Apple TV and the HomePod are already home hubs and almost all Ap… [+5426 chars]"
     }
   ]
 }
