@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 995,
+  "TotalResults": 996,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Cinema24: Luis Soto gana el Cervatillo de Bronce a 'Mejor película' por 'Sueños y pan'",
+      "Description": "Cinema24, la III Semana del Cine de Córdoba , ha otorgado el Cervatillo de Bronce a 'Mejor película' al joven director baenense Luis (Soto) Muñoz por su ópera prima 'Sueños y pan'. El Cervatillo de Bronce a 'Mejor cortometraje' lo ha recibido 'Cuarentena', de…",
+      "Url": "https://www.abc.es/espana/andalucia/cordoba/cinema24-luis-soto-gana-cervatillo-bronce-mejor-20241206083031-nts.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/12/06/cinema-premios-cordoba-kT9E--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-12-06T07:30:32Z",
+      "Content": "Cinema24, la III Semana del Cine de Córdoba, ha otorgado el Cervatillo de Bronce a 'Mejor película' al joven director baenense Luis (Soto) Muñoz por su ópera prima 'Sueños y pan'. El Cervatillo de Br… [+3392 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/8ac69669-d9af-4f7b-b2ca-ce1f8c7a72ae_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-12-05T14:12:31Z",
       "Content": "El pasado mes de septiembre, Elena Irureta (Zumaia, 1955) era reconocida con el premio Zinemira, un galardón honorífico otorgado por el Festival de San Sebastián a la trayectoria de una personalidad,… [+8770 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "Pablo Fernández Pérez",
-      "Title": "Un icónico actor de 'Anatomía de Grey' se une a 'Stranger Things: The First Shadow', el musical de la serie",
-      "Description": "BUEN FICHAJE El intérprete será el encargado de dar vida a Victor Creel, padre del temible villano Vecna.Un icónico actor de 'Anatomía de Grey' se une a 'Stranger Things: The First Shadow', el musical de la serie",
-      "Url": "https://www.formulatv.com/noticias/actor-anatomia-grey-se-une-stranger-things-musical-131212/",
-      "UrlToImage": "https://www.formulatv.com/images/articulos/131000/131212_oE6gvLN5cz23s8FRqkWtoBie4U79maPHY-hog.jpg",
-      "PublishedAt": "2024-12-05T13:14:00Z",
-      "Content": "La temporada 4 de 'Stranger Things' nos regaló a Vecna, uno de los villanos más potentes que nunca hemos visto en productos de este tipo, recordando incluso a algunos de los más famosos de los slashe… [+1887 chars]"
     }
   ]
 }
