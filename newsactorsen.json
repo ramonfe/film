@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 603,
+  "TotalResults": 604,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BBC News"
+      },
+      "Author": null,
+      "Title": "Dorothy's ruby slippers to be auctioned off",
+      "Description": "The shoes, which could fetch as much as $3m, were worn by actress Judy Garland in the classic 1939 movie The Wizard of Oz.",
+      "Url": "https://www.bbc.com/news/articles/crk008xemvno",
+      "UrlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ba6f/live/ab76d990-b4c3-11ef-961a-efab459204e3.jpg",
+      "PublishedAt": "2024-12-07T17:53:57Z",
+      "Content": "A pair of ruby red slippers worn by actress Judy Garland in the classic movie The Wizard of Oz is set to be auctioned off Saturday.\r\nThe iconic sequinned pumps were once stolen from a Minnesota museu… [+2494 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/12/anne-joseph.jpg",
       "PublishedAt": "2024-12-06T17:32:01Z",
       "Content": "Anne Hathaway has lined up her next starring role, and it’s in a movie directed and co-written by her former Batman costar Joseph Gordon-Levitt!\r\nThe 42-year-old actress will reportedly lead the myst… [+1033 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Director Todd Haynes Addresses Future of NC-17 Gay Romance After Joaquin Phoenix Drops Out of Project",
-      "Description": "Director Todd Haynes is speaking out about the future of his NC-17 gay romance movie after Joaquin Phoenix departed the project. The Joker actor belatedly backed out of the movie, which he was starring in with Danny Ramirez, in August 2024. His decision to qu…",
-      "Url": "https://www.justjared.com/2024/12/06/director-todd-haynes-addresses-future-of-nc-17-gay-romance-after-joaquin-phoenix-drops-out-of-project/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/12/todd-joaquin.jpg",
-      "PublishedAt": "2024-12-06T16:24:03Z",
-      "Content": "Director Todd Haynes is speaking out about the future of his NC-17 gay romance movie after Joaquin Phoenix departed the project. \r\nThe Joker actor belatedly backed out of the movie, which he was star… [+983 chars]"
     }
   ]
 }
