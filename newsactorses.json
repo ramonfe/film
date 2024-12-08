@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1001,
+  "TotalResults": 1002,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Excelsior.com.mx"
+      },
+      "Author": "vanessa.lozano",
+      "Title": "Película ‘Turno nocturno’ asusta con la leyenda de ‘La planchada’",
+      "Description": "Lucero Calderón\r\n\nEl director Rigoberto Castañeda estaba interesado en hacer una película de terror que estuviera arraigada a la cultura popular mexicana y sintió que la leyenda de La planchada, aquella enfermera a la que apodaban así debido a estar siempre b…",
+      "Url": "https://www.excelsior.com.mx/funcion/pelicula-turno-nocturno-asusta-con-la-leyenda-de-la-planchada/1688365",
+      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/07/3224643.jpg",
+      "PublishedAt": "2024-12-07T07:05:21Z",
+      "Content": "El director Rigoberto Castañeda estaba interesado en hacer una película de terror que estuviera arraigada a la cultura popular mexicana y sintió que la leyenda de La planchada, aquella enfermera a la… [+4562 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.meneame.net/backend/media?type=link&id=4007131&version=0&ts=1733485687&image.webp",
       "PublishedAt": "2024-12-06T11:45:18Z",
       "Content": ""
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Javier Chávez M",
-      "Title": "Muere el actor José de la Torre a los 37 años; participó en series como 'Toy Boy' y 'Vis a Vis'",
-      "Description": "Jose de la Torre, famoso actor español, murió la tarde del jueves a los 37 años de edad, tras una enfermedad que le fue diagnosticada hace unos meses, así lo reportó el diario Montilla Digital, de la localidad donde el actor de español tenía su residencia.El …",
-      "Url": "https://www.milenio.com/espectaculos/famosos/muere-jose-de-la-torre-actor-de-series-como-toy-boy-y-vis-a-vis",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/06/muere-actor-jose-torre-padecer.jpg",
-      "PublishedAt": "2024-12-06T11:41:00Z",
-      "Content": "Jose de la Torre, famoso actor español, murió la tarde del jueves a los 37 años de edad, tras una enfermedad que le fue diagnosticada hace unos meses, así lo reportó el diario Montilla Digital, de la… [+2754 chars]"
     }
   ]
 }
