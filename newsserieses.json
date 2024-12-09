@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 803,
+  "TotalResults": 804,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Los fantasmas de Álex de la Iglesia",
+      "Description": "Escribió Dickens en 'Historia de dos ciudades' que «era el mejor de los tiempos, era el peor de los tiempos; la edad de la sabiduría, y también de la locura». Y así es un poco como ve el mundo el poliédrico Álex de la Iglesia, que tiene claro que «vivimos en …",
+      "Url": "https://www.abc.es/play/series/noticias/fantasmas-alex-iglesia-20241207134822-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/play/2024/12/07/fuego-kdSH--1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-12-08T03:14:31Z",
+      "Content": "Escribió Dickens en 'Historia de dos ciudades' que «era el mejor de los tiempos, era el peor de los tiempos; la edad de la sabiduría, y también de la locura». Y así es un poco como ve el mundo el pol… [+4720 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/50fdea/kingsman/840_560.jpeg",
       "PublishedAt": "2024-12-06T10:00:04Z",
       "Content": "Las películas de acción descerebrada se han convertido en un entretenimiento muy popular gracias al éxito de John Wick. No hay que rebuscar demasiado para encontrar ejemplos: Tyler Rake de Netflix y … [+1838 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Albertini",
-      "Title": "Esta miniserie western es del guionista de una de las mejores películas de Leonardo DiCaprio. Es una de las primeras apuestas de Netflix en 2025 y su tráiler luce espectacular",
-      "Description": "{\"videoId\":\"x9abw8o\",\"autoplay\":true,\"title\":\"Érase una vez el Oeste - Trailer oficial del western de Netflix\",\"tag\":\"\",\"duration\":\"130\"}\n \r\n\n\r\n\n Último mes de 2024 y 2025 está en plan \"calienta que sales\". Y ojo que una de las series más esperadas para el in…",
-      "Url": "https://www.espinof.com/trailers/esta-miniserie-western-guionista-mejores-peliculas-leonardo-dicaprio-primeras-apuestas-netflix-2025-su-trailer-luce-espectacular",
-      "UrlToImage": "https://i.blogs.es/6cd5d5/x720/840_560.jpeg",
-      "PublishedAt": "2024-12-06T10:00:03Z",
-      "Content": "Último mes de 2024 y 2025 está en plan \"calienta que sales\". Y ojo que una de las series más esperadas para el inminente año acaba de desvelar un tráiler que luce espectacular. Estoy hablando de un p… [+1476 chars]"
     }
   ]
 }
