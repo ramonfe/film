@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 169,
+  "TotalResults": 170,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Cineteca celebra la Navidad con clásicos del cine alemán y películas para toda la familia",
+      "Description": "Cineteca Madrid , espacio del Área de Cultura, Turismo y Deporte, se suma a la celebración de la Navidad a través de una selección de grandes clásicos del cine familiar con estas fechas tan especiales como telón de fondo. Además, el ciclo 'Siempre clásicos' t…",
+      "Url": "https://www.abc.es/espana/madrid/cineteca-celebra-navidad-clasicos-cine-aleman-peliculas-20241208143254-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/espana/2024/12/08/1-roger-U46082547217uHv-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-12-08T15:59:01Z",
+      "Content": "Cineteca Madrid, espacio del Área de Cultura, Turismo y Deporte, se suma a la celebración de la Navidad a través de una selección de grandes clásicos del cine familiar con estas fechas tan especiales… [+617 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/c64e79/herstory/840_560.jpeg",
       "PublishedAt": "2024-12-03T16:30:20Z",
       "Content": "Aunque se suele tener mucho en cuenta la influencia de China en la taquilla, a menudo el país asiático va a su propio ritmo en cuanto a tendencias. Estas últimas semanas hemos vuelto a tener un buen … [+2936 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "Los directores de 'Vaiana 2' nos explican cómo una serie de televisión se ha convertido en el nuevo fenómeno de taquilla: \"No queríamos volver a hacer la misma película\"",
-      "Description": "El estreno de 'Vaiana 2' ('Moana 2') ha tenido un éxito impresionante en taquilla, por lo que llama más la atención que el proyecto de Disney se desarrollara inicialmente para convertirse en una serie de televisión y que a última hora se anunciase que finalme…",
-      "Url": "https://www.espinof.com/entrevistas/directores-vaiana-2-nos-explican-como-serie-television-se-ha-convertido-nuevo-fenomeno-taquilla-no-queriamos-volver-a-hacer-pelicula",
-      "UrlToImage": "https://i.blogs.es/d0d3fc/escena-vaiana-2-pelicula/840_560.jpeg",
-      "PublishedAt": "2024-12-03T14:30:17Z",
-      "Content": "El estreno de 'Vaiana 2' ('Moana 2') ha tenido un éxito impresionante en taquilla, por lo que llama más la atención que el proyecto de Disney se desarrollara inicialmente para convertirse en una seri… [+6995 chars]"
     }
   ]
 }
