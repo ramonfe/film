@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 780,
+  "TotalResults": 781,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "B. Moreno",
+      "Title": "Todo sobre 'Cien años de soledad', la ambiciosa adaptación de Netflix de la obra maestra de García Márquez",
+      "Description": "La serie llegará a la plataforma de streaming el 11 de diciembre",
+      "Url": "https://www.hola.com/actualidad/20241209732752/cien-anos-de-soledad-netflix-adaptacion-obra-maestra-garcia-marquez/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/92b180a51c2b-cads108-sc858s-34r-1.jpg?im=Resize=(1200)",
+      "PublishedAt": "2024-12-09T06:01:00Z",
+      "Content": "Cien años de soledad es una las novelas más emblemáticas de la literatura universal. Quienes han disfrutado de las historias de la obra maestra de Gabriel García Márquez, tendrán ahora la oportunidad… [+3925 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/2024-12/salvador-del-solar-en-cien-anos-de-soledad.png",
       "PublishedAt": "2024-12-06T22:45:59Z",
       "Content": "La adaptación de la novela clásica de Gabriel García Márquez, 'Cien Años de Soledad', es uno de los estrenos más esperados del año y la gran apuesta de Netflix. Audiencias latinoamericanas están dese… [+1165 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "El Mundo Mágico comenzará su renacimiento en 2025: HBO ofrece una importante actualización sobre el reboot de Harry Potter",
-      "Description": "El Mundo Mágico de Harry Potter está a punto de iniciar una transformación significativa con el esperado reboot de la saga literaria. Después de varios años en desarrollo, la producción comenzará oficialmente en 2025, y todo apunta a que el proceso para selec…",
-      "Url": "https://www.vidaextra.com/series/mundo-magico-comenzara-su-renacimiento-2025-hbo-ofrece-importante-actualizacion-reboot-harry-potter",
-      "UrlToImage": "https://i.blogs.es/3e1027/harry-potter/840_560.jpeg",
-      "PublishedAt": "2024-12-06T20:00:24Z",
-      "Content": "El Mundo Mágico de Harry Potter está a punto de iniciar una transformación significativa con el esperado reboot de la saga literaria. Después de varios años en desarrollo, la producción comenzará ofi… [+1420 chars]"
     }
   ]
 }
