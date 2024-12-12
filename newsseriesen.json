@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Steffen Zellfelder",
+      "Title": "Get more out of YouTube: 17 helpful tips, tricks, and tweaks",
+      "Description": "Some people can hardly remember the time before YouTube. The video host was founded in 2005, and year after year the platform got bigger and bigger. As early as 2006, around 100 million clips were viewed there every day. By 2010, this figure had risen to more…",
+      "Url": "https://www.pcworld.com/article/2542589/get-more-out-of-youtube-17-helpful-tips-and-tricks.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2024/12/shutterstock_2290358085.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2024-12-11T11:30:00Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nSome people can hard… [+10007 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/11/Missing_You_u_S1_E1_00_08_56_02_RT.jpg?resize=1200,630",
       "PublishedAt": "2024-11-25T16:32:09Z",
       "Content": "Netflix has released the official Missing You trailer for the upcoming limited drama starring Slow Horses Rosalind Eleazar. The new Harlan Coben series is scheduled to make its debut on January 1, 20… [+1451 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "Caroline Bologna",
-      "Title": "This New Mystery Comedy Is The Top Show On Netflix Right Now",
-      "Description": "An Irish black comedy and sci-fi series are also among the shows trending across streaming services like Max, Hulu, Apple TV+ and Amazon Prime Video.",
-      "Url": "https://www.huffpost.com/entry/a-man-on-the-inside-popular-netflix-shows_n_6743b350e4b03c8ec6f8da14",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/67449a3a1400002d009045a9.jpg?ops=1200_630",
-      "PublishedAt": "2024-11-25T15:55:14Z",
-      "Content": "A Man on the Inside is currently the most popular show on Netflix, according to the platforms public ranking system.\r\nThe new mystery comedy stars Ted Danson as a retired engineering professor who ta… [+1914 chars]"
     }
   ]
 }
