@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 848,
+  "TotalResults": 849,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Los Tinelli: salió el trailer del reality que mostrará la intimidad de la familia del conductor",
+      "Description": "Amazon Prime Video dio a conocer las primeras imágenes de la docu-serie que se estrenará en enero de 2025; los detalles que se conocieron y el conflicto detrás",
+      "Url": "https://www.lanacion.com.ar/espectaculos/los-tinelli-salio-el-trailer-del-reality-que-mostrara-la-intimidad-de-la-familia-del-conductor-nid12122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/se-estreno-el-trailer-del-reality-los-HHQ5QQQQNVHW7AOQZXFWTTCY3Q.jpg?auth=05ea3308fdf21446a3b9197b06c9de8e043df5d64afa8824520df52b01937222&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2024-12-12T22:19:02Z",
+      "Content": "Este jueves, Amazon Prime Video lanzó el primer trailer de Los Tinelli, la nueva producción protagonizada por la familia del conductor de ShowMatch. Según anunciaron, se trata de una docu-serie que o… [+3180 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://img.ecartelera.com/noticias/79200/79215-h2.jpg",
       "PublishedAt": "2024-12-12T11:20:00Z",
       "Content": "Disney parece que aún se quiere esperar a que el estreno de 'Daredevil: Born Again' esté más cerca para mostrar alguna imagen de cómo se verá el héroe de la Cocina del Infierno con su nuevo traje. De… [+2237 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Formulatv.com"
-      },
-      "Author": "Redacción",
-      "Title": "'Valeria' estrena su cuarta y última temporada el 14 de febrero en Netflix",
-      "Description": "SAN VALENTÍN La serie regresa con una tanda final después de haberse anunciado que la tercera sería la última.'Valeria' estrena su cuarta y última temporada el 14 de febrero en Netflix",
-      "Url": "https://www.formulatv.com/noticias/valeria-estrena-cuarta-ultima-temporada-14-febrero-131300/",
-      "UrlToImage": "https://www.formulatv.com/images/articulos/131000/131300_RYgcHz48o2B6xNis59e1qUtPRWFvEk703-hog.jpg",
-      "PublishedAt": "2024-12-12T11:13:00Z",
-      "Content": "¿Víctor o Bruno? ¿Ser madre o tener una carrera profesional? ¿Independencia laboral o emocional? ¿Es esto la crisis de los 30? Con estas cuatro preguntas, Netflix ya ha desvelado la fecha de estreno … [+1514 chars]"
     }
   ]
 }
