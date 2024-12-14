@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 184,
+  "TotalResults": 185,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "Leonardo D'Esposito",
+      "Title": "El mal año del cine argentino: las 224 películas estrenadas llevaron menos de 800.000 espectadores a las salas durante 2024",
+      "Description": "De entre ellas, solo 94 vendieron más de mil entradas, según datos del Incaa, de los que se desprende que el share de la taquilla del cine argentino es de 2,19%; a dos semanas de terminar el año, se vendieron 33 millones de entradas, diez millones menos que e…",
+      "Url": "https://www.lanacion.com.ar/espectaculos/cine/el-mal-ano-del-cine-argentino-las-224-peliculas-estrenadas-llevaron-menos-de-800000-espectadores-a-nid13122024/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/en-2024-un-ano-de-caida-de-concurrencia-a-las-4HUAUNZJYNDVJMLVETWX7U6MLQ.jpg?auth=4f75dbd23c98cec669859009914ee6db7ef7cfd7d4b2e86f8e7f23699c44962d&width=1200&quality=70&smart=false&height=799",
+      "PublishedAt": "2024-12-13T17:15:06Z",
+      "Content": "Aún con tres semanas de 2024 por delante -en las que habrá poca novedad por las fiestas de fin de año- podemos concluir que el negocio de la exhibición en salas de películas en la Argentina tuvo la m… [+9451 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/09/kraven-liberan-minutos-filme-puedes.jpg",
       "PublishedAt": "2024-12-10T00:33:00Z",
       "Content": "El universo de Sony Pictures inspirado en el superhéroe de 'Spider-Man' es uno de los más criticados y señalados por los fanáticos del personaje, pues en ninguna de las cintas ha aparecido Peter Park… [+2337 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Miguel Solo",
-      "Title": "Es un clásico imprescindible de la ciencia ficción y acaba de llegar a Netflix México. Steven Spielberg y Tom Cruise se reúnen en este intenso policiaco cyberpunk",
-      "Description": "Además de las constantes novedades de Netflix, es siempre interesante estar pendiente de los clásicos que llegan a las plataforma. Aunque puede que a algunos le pique considerar ya a 'Sentencia previa' ('Minority Report') un clásico, los 22 años desde su lanz…",
-      "Url": "https://www.espinof.com/netflix/clasico-imprescindible-ciencia-ficcion-acaba-llegar-a-netflix-mexico-steven-spielberg-tom-cruise-se-reunen-este-intenso-policiaco-cyberpunk",
-      "UrlToImage": "https://i.blogs.es/9b30fc/minority-report/840_560.jpeg",
-      "PublishedAt": "2024-12-09T19:00:58Z",
-      "Content": "Además de las constantes novedades de Netflix, es siempre interesante estar pendiente de los clásicos que llegan a las plataforma. Aunque puede que a algunos le pique considerar ya a 'Sentencia previ… [+1835 chars]"
     }
   ]
 }
