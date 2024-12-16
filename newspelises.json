@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 190,
+  "TotalResults": 186,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Fran Besora",
+      "Title": "El CEO de Netflix aparecerá en una serie de... Apple TV+",
+      "Description": "The Studio, la próxima comedia dirigida por Seth Rogen, contará con un cameo inesperado: el CEO de Netflix, Ted Sarandos. Esto es sorprendente, considerando que la serie se estrenará en Apple TV+ el 28 de marzo de 2025, una de las grandes plataformas competid…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/el-ceo-de-netflix-aparecera-en-una-serie-de-apple-tv",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/12/the-studio.jpg?width=1200",
+      "PublishedAt": "2024-12-15T14:31:58Z",
+      "Content": "The Studio se estrenará en marzo de 2025 en Apple TV+\r\nThe Studio, la próxima comedia dirigida por Seth Rogen, contará con un cameo inesperado: el CEO de Netflix, Ted Sarandos. Esto es sorprendente, … [+2086 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/queplan/2024/12/11/yerai-cortes-U08532883616hPB-1024x512@diario_abc.jpg",
       "PublishedAt": "2024-12-11T12:46:50Z",
       "Content": "El próximo 19 de diciembre, el reconocido artista C. Tangana, junto al talentoso guitarrista Yerai Cortés, presentarán en el cine MK2 Nervión un pase especial de su esperado documental 'La guitarra f… [+2757 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ecartelera.com"
-      },
-      "Author": "Luisa Nicolás",
-      "Title": "La taquilla Española va como un pepino gracias a 'Vaiana 2', 'Gladiator II' y 'Wicked' en cabeza",
-      "Description": "TAQUILLA ESPAÑA Además, también el cine español nos deja alegrías con dos estrenos en los puestos 4 y 5 del ranking: 'Al otro barrio' y 'Quién es quién'.La taquilla Española va como un pepino gracias a 'Vaiana 2', 'Gladiator II' y 'Wicked' en cabeza",
-      "Url": "https://www.ecartelera.com/noticias/taquilla-espana-6-8-diciembre-2024-79201/",
-      "UrlToImage": "https://img.ecartelera.com/noticias/79200/79201-h2.jpg",
-      "PublishedAt": "2024-12-11T10:10:00Z",
-      "Content": "Buenas noticias para la taquilla española y también para el cine español. Este fin de semana del 6 al 8 de diciembre ha aumentado la cifra de recaudación de los 20 títulos más vistos respecto a la se… [+2471 chars]"
     }
   ]
 }
