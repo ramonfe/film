@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 824,
+  "TotalResults": 825,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Norma Ponce",
+      "Title": "En Chihuahua, honran a Marisela Escobedo, madre que buscaba justicia por el feminicidio de su hija",
+      "Description": "A 14 años de su asesinato frente a las puertas de Palacio de Gobierno, mujeres y activistas de Chihuahua recordaron a Marisela Escobedo, quien buscaba justicia por el feminicidio de su hija, Rubí Marisol Frayre Escobedo, de 16 años, cometido a manos de su ex …",
+      "Url": "https://www.milenio.com/estados/chihuahua-recuerdan-a-marisela-escobedo-madre-buscadora-asesinada",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2024/12/16/chihuahua-recuerdan-feminicidio-madre-buscadora.jpeg",
+      "PublishedAt": "2024-12-16T22:04:00Z",
+      "Content": "A 14 años de su asesinato frente a las puertas de Palacio de Gobierno, mujeres y activistas de Chihuahua recordaron a Marisela Escobedo, quien buscaba justicia por el feminicidio de su hija, Rubí Mar… [+1043 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/f6e07fe8-fa02-4802-b394-4f22502e12ff_facebook-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2024-12-15T20:51:13Z",
       "Content": "Después de un largo día de trabajo, muchas personas cenan algo y se desploman en el sillón para ver su serie favorita en una plataforma de streaming. Pero no siempre consiguen terminar el episodio po… [+6584 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Lourdes Barragán",
-      "Title": "'Succession' en el Colegio de Médicos de Madrid: tres candidaturas, una dimisión explosiva y transparencia en entredicho",
-      "Description": "Solo ocho días antes de las elecciones para el órgano que reúne a más de 50.000 colegiados, la vicepresidenta de la actual directiva dijo adiós advirtiendo de supuestos impagos y cuentas opacas. Manuel Martínez-Sellés, el presidente, generó otras polémicas. E…",
-      "Url": "https://www.eldiario.es/madrid/somos/succession-colegio-medicos-madrid-tres-candidaturas-dimision-explosiva-transparencia-entredicho_1_11891865.html",
-      "UrlToImage": "https://static.eldiario.es/clip/0592e7ce-5e88-426a-bc48-188e373af13e_facebook-watermarked-aspect-ratio_default_0_x415y367.jpg",
-      "PublishedAt": "2024-12-15T20:51:13Z",
-      "Content": "Al más puro estilo de un thriller de ficción, la disputa por el control del Ilustre Colegio Oficial de Médicos de Madrid casi suena al argumento de una serie prototípica de HBO. El próximo martes, 17… [+15314 chars]"
     }
   ]
 }
