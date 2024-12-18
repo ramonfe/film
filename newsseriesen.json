@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-12-17T15:38:30Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://nofilmschool.com/media-library/how-hair-and-makeup-transform-lily-gladstone-in-fancy-dance.jpg?id=54988031&width=1200&height=600&coordinates=0%2C684%2C0%2C684",
       "PublishedAt": "2024-12-02T14:17:23Z",
       "Content": "Feature film Fancy Dance, starring Oscar-nominated Lily Gladstone, hit Apple TV+ earlier this year. The touching story follows Jax (Gladstone) who has cared for her niece, Roki, by scraping by on the… [+6016 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-11-29T16:35:51Z",
-      "Content": "[Removed]"
     }
   ]
 }
