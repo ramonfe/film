@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "You Season 5 Posters Unveil Release Date Window for Netflix’s Final Chapter",
+      "Description": "Netflix has shared the official You Season 5 posters for the upcoming final installment of the hit psychological thriller series, starring Gossip Girl vet Penn Badgley. The show is currently targeting a 2025 release date, after four months since wrapping up i…",
+      "Url": "https://www.comingsoon.net/tv/news/1896011-you-season-5-posters-release-date-window-netflix-final-chapter",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/Screenshot-2024-12-19-130909.png?resize=1200,630",
+      "PublishedAt": "2024-12-19T17:57:08Z",
+      "Content": "Netflix has shared the official You Season 5 posters for the upcoming final installment of the hit psychological thriller series, starring Gossip Girl vet Penn Badgley. The show is currently targetin… [+1741 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-12-04T18:32:08Z",
       "Content": "As Rust Cohle famously put it in HBO's True Detective, \"Time is a flat circle.\" So it's maybe not a huge surprise that Max is the latest service to bring cable-style linear channels to a premium stre… [+2514 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-12-04T16:51:16Z",
-      "Content": "[Removed]"
     }
   ]
 }
