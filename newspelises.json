@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 197,
+  "TotalResults": 198,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Los vallisoletanos Pedro Martín-Calero y Óscar de la Fuente, la segoviana Lucía Jiménez y el leonés Néstor López, nominados a los Goya 2025",
+      "Description": "Castilla y León tendrá una importante representación en la ceremonia de los Premios Goya, que en su 39 edición se celebrará el próximo 8 de febrero en el Palacio de Exposiciones y Congresos de Granada, tras su paso por Valladolid este año. Los vallisoletanos …",
+      "Url": "https://www.abc.es/espana/castilla-leon/vallisoletanos-pedro-martincalero-oscar-fuente-segoviana-lucia-20241219081924-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2024/12/19/premios-goya-U603400608253M3F-U73547778434Lko-1024x512@diario_abc.jpg",
+      "PublishedAt": "2024-12-19T07:19:25Z",
+      "Content": "Castilla y León tendrá una importante representación en la ceremonia de los Premios Goya, que en su 39 edición se celebrará el próximo 8 de febrero en el Palacio de Exposiciones y Congresos de Granad… [+3881 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/f3d2fb/joker-2/840_560.png",
       "PublishedAt": "2024-12-15T17:15:37Z",
       "Content": "En 2019 se estrenó una película que se convertiría en uno de los mayores éxitos del año, y estaba basada en un personaje de los cómics. Sin embargo, el film no sólo se inspiraba en la historia de est… [+3431 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Fran Besora",
-      "Title": "El CEO de Netflix aparecerá en una serie de... Apple TV+",
-      "Description": "The Studio, la próxima comedia dirigida por Seth Rogen, contará con un cameo inesperado: el CEO de Netflix, Ted Sarandos. Esto es sorprendente, considerando que la serie se estrenará en Apple TV+ el 28 de marzo de 2025, una de las grandes plataformas competid…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/el-ceo-de-netflix-aparecera-en-una-serie-de-apple-tv",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/12/the-studio.jpg?width=1200",
-      "PublishedAt": "2024-12-15T14:31:58Z",
-      "Content": "The Studio se estrenará en marzo de 2025 en Apple TV+\r\nThe Studio, la próxima comedia dirigida por Seth Rogen, contará con un cameo inesperado: el CEO de Netflix, Ted Sarandos. Esto es sorprendente, … [+2086 chars]"
     }
   ]
 }
