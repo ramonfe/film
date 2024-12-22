@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 886,
+  "TotalResults": 887,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Peru21.pe"
+      },
+      "Author": "Redacción",
+      "Title": "'Stranger Things': Netflix terminó de rodar la última temporada de su serie bandera (FOTOS)",
+      "Description": "La serie bandera de Netflix, Stranger Things, ha terminado el rodaje de su última temporada y ha celebrado con fotos del equipo",
+      "Url": "https://peru21.pe/espectaculos/termina-el-rodaje-de-la-ultima-temporada-de-stranger-things-de-netflix",
+      "UrlToImage": "https://peru21-pe.b-cdn.net/sites/default/efsfiles/2024-12/stranger-things-detras-camaras.jpg",
+      "PublishedAt": "2024-12-21T06:02:36Z",
+      "Content": "La plataforma de streaming de Netflix acaba de confirmar que se ha terminado de rodar la última temporada de una de sus series banderas, 'Stranger Things'. El final coincidirá con el décimo aniversar… [+1704 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2024/12/20/juego-calamar-2-U14752205470KJT-1024x512@diario_abc.PNG",
       "PublishedAt": "2024-12-20T06:52:00Z",
       "Content": "'El juego del calamar' se convirtió en un fenómeno global en 2021. Desde su estreno en Netflix, la serie logró captar la atención de todo el mundo gracias a su mezcla única de suspense, crítica socia… [+3890 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hola"
-      },
-      "Author": "B. Moreno",
-      "Title": "La petición del hijo de García Márquez para seguir la serie 'Cien años de soledad'",
-      "Description": "La ficción, basada en la obra maestra del premio Nobel colombiano, ya está disponible en Netflix",
-      "Url": "https://www.hola.com/actualidad/20241220736271/cien-anyos-de-soledad-hijo-garcia-marquez-no-comparar-serie-novela/",
-      "UrlToImage": "https://www.hola.com/horizon/landscape/51cea06ee730-esmxmainkeyart-treelocalizationsmainmainkeyart-treevertical27x40.jpg?im=Resize=(1200)",
-      "PublishedAt": "2024-12-20T06:02:00Z",
-      "Content": "El mundo de Macondo ha cobrado vida en nuestras pantallas con la llegada de Cien años de soledad a Netflix. Esta adaptación de la obra maestra de Gabriel García Márquez ha sido definida por el gigant… [+5732 chars]"
     }
   ]
 }
