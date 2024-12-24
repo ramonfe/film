@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 625,
+  "TotalResults": 626,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Lauryn Overhultz",
+      "Title": "‘James Bond’ star Ralph Fiennes says King Charles visiting movie set provoked ‘spectrum of responses’",
+      "Description": "\"No Time to Die\" actor Ralph Fiennes recalled King Charles' 2019 visit to the film set in a new interview. The royals appearance received mixed responses.",
+      "Url": "https://www.foxnews.com/entertainment/james-bond-star-ralph-fiennes-says-king-charles-visiting-movie-set-provoked-spectrum-responses",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/king_charles_james_bond.jpg",
+      "PublishedAt": "2024-12-23T01:30:41Z",
+      "Content": "King Charles' appearance on the \"No Time to Die\" film set brought a variety of surprising responses.\r\nRalph Fiennes revealed the \"spectrum\" of reactions the cast and crew had to the news of King Char… [+2495 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/12/pugh-time-london.jpg",
       "PublishedAt": "2024-12-20T23:27:19Z",
       "Content": "Florence Pugh is hitting the red carpet!\r\nThe 28-year-old Oscar-nominated actress stepped out for a special screening of her latest movie We Live in Time on Friday (December 20) held at the Ham Yard … [+971 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Jessica Alba Shares Passionate Kiss with Co-Star Lorenzo de Moor on 'Maserati' Movie Set",
-      "Description": "Jessica Alba is sharing a steamy moment with her handsome co-star Lorenzo de Moor! The 43-year-old actress was spotted kissing her co-star while filming a scene for their upcoming movie Maserati: The Brothers on Friday (December 20) in Rome, Italy. Lorenzo is…",
-      "Url": "https://www.justjared.com/2024/12/20/jessica-alba-shares-passionate-kiss-with-co-star-lorenzo-de-moor-on-maserati-movie-set/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/12/alba-kisses.jpg",
-      "PublishedAt": "2024-12-20T23:19:39Z",
-      "Content": "Jessica Alba is sharing a steamy moment with her handsome co-star Lorenzo de Moor!\r\nThe 43-year-old actress was spotted kissing her co-star while filming a scene for their upcoming movie Maserati: Th… [+656 chars]"
     }
   ]
 }
