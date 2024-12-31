@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 55,
+  "TotalResults": 56,
   "Articles": [
+    {
+      "Source": {
+        "Id": "polygon",
+        "Name": "Polygon"
+      },
+      "Author": "Petrana Radulovic",
+      "Title": "Every movie and show coming to Netflix in January",
+      "Description": "Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. The Netflix back catalogue is del…",
+      "Url": "https://www.polygon.com/entertainment/494357/new-on-netflix-january-2025-movies-tv-to-watch",
+      "UrlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25527419/MCDSPID_EC200.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "PublishedAt": "2024-12-30T21:31:18Z",
+      "Content": "Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s … [+16035 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/man-vs-bee.jpg?resize=1200,630",
       "PublishedAt": "2024-12-16T20:08:35Z",
       "Content": "Netflix has announced that Mr. Bean star Rowan Atkinson will officiially be reprising his role as Trevor Bingley from 2022s Man vs. Bee show in its next installment titled, Man vs Baby. Production on… [+1425 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "A Man on the Inside Season 2 Ordered at Netflix, Creator Issues Statement",
-      "Description": "Netflix has officially ordered the A Man on the Inside Season 2 renewal for its newest comedy show led by Ted Danson (The Good Place). At the moment, further details about the next installment’s characters and plot are still under wraps. This comes after near…",
-      "Url": "https://www.comingsoon.net/tv/news/1894213-a-man-on-the-inside-season-2-ordered-netflix-creator-issue-statement",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/A-Man-on-the-Inside-s2.jpg?resize=1200,630",
-      "PublishedAt": "2024-12-16T18:27:56Z",
-      "Content": "Netflix has officially ordered the A Man on the Inside Season 2 renewal for its newest comedy show led by Ted Danson (The Good Place). At the moment, further details about the next installments chara… [+1630 chars]"
     }
   ]
 }
