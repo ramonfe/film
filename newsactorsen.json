@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 644,
+  "TotalResults": 645,
   "Articles": [
+    {
+      "Source": {
+        "Id": "fox-news",
+        "Name": "Fox News"
+      },
+      "Author": "Lauryn Overhultz",
+      "Title": "Justin Baldoni calls Blake Lively's claims 'false and destructive,' lawyer says new lawsuit will expose truth",
+      "Description": "Justin Baldoni plans to sue \"It Ends With Us\" co-star Blake Lively over her sexual harassment allegations. The actress claimed she experienced a toxic workplace on the movie set.",
+      "Url": "https://www.foxnews.com/entertainment/justin-baldoni-calls-blake-livelys-claims-false-destructive-lawyer-says-new-lawsuit-expose-truth",
+      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/bda9a785-blake-lively-justin-baldoni.jpg",
+      "PublishedAt": "2024-12-30T22:08:41Z",
+      "Content": "Justin Baldoni plans to \"expose\" what his lawyer calls a \"false\" narrative created by Blake Lively's legal complaint against the actor.\r\nThe actor's impending lawsuit will share the \"truth\" after Liv… [+3347 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/12/tim-five.jpg",
       "PublishedAt": "2024-12-28T04:46:17Z",
       "Content": "Tim Allen has started work on the next installment of the Toy Story franchise!\r\nThe 71-year-old actor is set to reprise his voice role of Buzz Lightyear for the fifth movie, and he recently revealed … [+1395 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Extra"
-      },
-      "Author": "Extra Staff",
-      "Title": "Dayle Haddon Dies of Suspected Carbon Monoxide Poisoning at Hallmark Star's Home",
-      "Description": "Dayle Haddon, a '70s supermodel and actress who became a wellness advocate, was found dead Friday in a home owned by her daughter, journalist Ryan Haddon, and son-in-law, Hallmark star Marc Blucas. Her death is a case of suspected carbon monoxide poisoning.\n …",
-      "Url": "https://extratv.com/2024/12/27/dayle-haddon-supermodel-of-the-70s-carbon-monoxide-marc-blucas/",
-      "UrlToImage": "https://extra-images.akamaized.net/image/d0/16by9/2024/12/28/d0248b84647446a5a8821424ff8a2492_xl.jpg",
-      "PublishedAt": "2024-12-28T04:16:25Z",
-      "Content": "Dayle Haddon, a '70s supermodel and actress who became a wellness advocate, was found dead Friday in a home owned by her daughter, journalist Ryan Haddon, and son-in-law, Hallmark star Marc Blucas. H… [+1999 chars]"
     }
   ]
 }
