@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 54,
+  "TotalResults": 55,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "BetaNews"
+      },
+      "Author": "Brian Fagioli",
+      "Title": "The Apple TV+ free weekend could cost you dearly",
+      "Description": "Apple is starting the new year with what seems like a generous offer -- free access to its Apple TV+ streaming service from January 3 through January 5, 2025. With just an Apple ID, viewers can dive into the platform’s entire library on any device that suppor…",
+      "Url": "https://betanews.com/2024/12/30/apple-tv-plus-free-weekend/",
+      "UrlToImage": "https://betanews.com/wp-content/uploads/2024/12/Apple-TV-Plus-50x50.jpg",
+      "PublishedAt": "2024-12-30T20:00:44Z",
+      "Content": "Apple is starting the new year with what seems like a generous offer -- free access to its Apple TV+ streaming service from January 3 through January 5, 2025. With just an Apple ID, viewers can dive … [+1947 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/A-Man-on-the-Inside-s2.jpg?resize=1200,630",
       "PublishedAt": "2024-12-16T18:27:56Z",
       "Content": "Netflix has officially ordered the A Man on the Inside Season 2 renewal for its newest comedy show led by Ted Danson (The Good Place). At the moment, further details about the next installments chara… [+1630 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Maggie Dela Paz",
-      "Title": "Silo Renewal: Apple TV+ Show Gets 2 More Seasons, Rebecca Ferguson Issues Statement",
-      "Description": "Apple TV+ has announced the early Silo renewal for its popular sci-fi drama series, which is currently airing its second season. The Rebecca Ferguson-led show will officially run for two more seasons, with the fourth installment expected to wrap up the story.…",
-      "Url": "https://www.comingsoon.net/tv/news/1894173-silo-renewal-apple-tv-plus-2-more-seasons-rebecca-ferguson-statement",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/Silo_Photo_0202.jpg.photo_modal_show_home_large-e1734367705305.jpg?resize=1200,630",
-      "PublishedAt": "2024-12-16T17:06:40Z",
-      "Content": "Apple TV+ has announced the early Silo renewal for its popular sci-fi drama series, which is currently airing its second season. The Rebecca Ferguson-led show will officially run for two more seasons… [+1740 chars]"
     }
   ]
 }
