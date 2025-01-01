@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1100,
+  "TotalResults": 1101,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Adiós a este querido personaje de 'La Promesa': no volverá a aparecer en la serie en 2025",
+      "Description": "'La Promesa' se ha consolidado como una de las series diarias españolas más populares de los últimos años. La ficción, que se emite cada tarde en La 1 de RTVE, ganó recientemente el Premio Emmy Internacional en la categoría de Telenovela 2024. El serial de ép…",
+      "Url": "https://www.abc.es/play/television/noticias/adios-querido-personaje-promesa-volvera-aparecer-serie-20241231074500-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/play/2024/12/31/lapromesacuatro-klbH-U7044190835u8C-1200x840@diario_abc.jpg",
+      "PublishedAt": "2024-12-31T06:45:00Z",
+      "Content": "'La Promesa' se ha consolidado como una de las series diarias españolas más populares de los últimos años. La ficción, que se emite cada tarde en La 1 de RTVE, ganó recientemente el Premio Emmy Inter… [+3650 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/30/3235273.jpg",
       "PublishedAt": "2024-12-30T11:01:34Z",
       "Content": "Después de que Rigoberta Bandini viera completa la serie Pamela, A Love Storyse sintió profundamente conmovida por la vida de la actriz, modelo y explaymate, ya que de alguna manera la originaria de … [+2196 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "vanessa.lozano",
-      "Title": "‘Nosferatu’: La leyenda regresa con nueva adaptación",
-      "Description": "Fernanda Palacios\r\n\nAntes de Jason, Freddie Krueger, Terrifier, La Monja o cualquiera de las criaturas más memorables del cine de terror, existió una que marcó la pauta, y esa fue la del conde Orlok de Nosferatu. Una bestia que salida de la inspiración detrás…",
-      "Url": "https://www.excelsior.com.mx/funcion/nosferatu-la-leyenda-regresa-con-nueva-adaptacion/1691924",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2024/12/30/3235269.jpg",
-      "PublishedAt": "2024-12-30T10:46:17Z",
-      "Content": "Antes de Jason, Freddie Krueger, Terrifier, La Monja o cualquiera de las criaturas más memorables del cine de terror, existió una que marcó la pauta, y esa fue la del conde Orlok de Nosferatu. Una be… [+5217 chars]"
     }
   ]
 }
