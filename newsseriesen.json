@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 58,
+  "TotalResults": 59,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2024-12-31T20:51:13Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2024-12-17T15:38:30Z",
       "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "9to5Mac"
-      },
-      "Author": "Benjamin Mayo",
-      "Title": "You can now buy Severance on Blu-Ray disc",
-      "Description": "The Apple TV+ streaming hit Severance is now available on physical media: you can now .\n\n\n\nThe physical release has arrived a month ahead of the season two premiere, so if you have friends who haven’t watched the show yet, this might be a great little last-mi…",
-      "Url": "https://9to5mac.com/2024/12/17/you-can-now-buy-severance-on-blu-ray-disc/",
-      "UrlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-tv-severance-blu-ray.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "PublishedAt": "2024-12-17T14:56:30Z",
-      "Content": "The Apple TV+ streaming hit Severance is now available on physical media: you can now buy Severance season one on Blu-Ray.\r\nThe physical release has arrived a month ahead of the season two premiere, … [+1220 chars]"
     }
   ]
 }
