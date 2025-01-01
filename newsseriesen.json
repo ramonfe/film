@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 59,
+  "TotalResults": 60,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Squid Game's second season is officially Netflix's biggest TV debut",
+      "Description": "Squid Game has set a new high for Netflix's television programming. Variety reported that the second season of the Korean show drew in 68 million views over its first four days. That's the biggest debut for a TV show on the streaming platform, besting the 50.…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175809543",
+      "UrlToImage": null,
+      "PublishedAt": "2024-12-31T21:13:11Z",
+      "Content": "Squid Game has set a new high for Netflix's television programming. Variety reported that the second season of the Korean show drew in 68 million views over its first four days. That's the biggest de… [+810 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.theblaze.com/media-library/upstart-streamer-loor-tv-is-out-to-televise-the-conservative-revolution.jpg?id=55352010&width=1200&height=600&coordinates=0%2C29%2C0%2C30",
       "PublishedAt": "2024-12-17T23:00:00Z",
       "Content": "One of entrepreneur Marcus Pittmans biggest inspirations these days is Trump.\r\nBarron Trump, to be precise.\r\n'What happens if you combine funding and distribution on the same platform and you target … [+8774 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-12-17T15:38:30Z",
-      "Content": "[Removed]"
     }
   ]
 }
