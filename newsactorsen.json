@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 653,
+  "TotalResults": 654,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GeekTyrant"
+      },
+      "Author": "Joey Paur",
+      "Title": "IT Star Bill Skarsgård Says He Has a “Really F–king Cool” Idea for The Joker",
+      "Description": "It star Bill Skarsgård has been the topic of conversation among movie fans recently due to his recent performance as Count Orlock in Nosferatu.The actor is known for taking on these super creepy and strange characters and bringing them to life in terrifying w…",
+      "Url": "https://geektyrant.com/news/it-star-bill-skarsgrd-says-he-has-a-really-fking-cool-idea-for-the-joker",
+      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6774109f726e476f094053cd/1735750840882/IT+Star+Bill+Skarsga%CC%8Ard+Says+He+Has+a+%E2%80%9CReally+F%E2%80%93king+Cool%E2%80%9D+Idea+for+The+Joker.jpg?format=1500w",
+      "PublishedAt": "2025-01-01T17:00:00Z",
+      "Content": "It star Bill Skarsgård has been the topic of conversation among movie fans recently due to his recent performance as Count Orlock in Nosferatu.\r\nThe actor is known for taking on these super creepy an… [+1593 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.thewrap.com/wp-content/uploads/2024/01/Jason-Momoa.jpg",
       "PublishedAt": "2024-12-30T18:08:13Z",
       "Content": "Jason Momoa is staying in the DC Studios family.\r\nThe actor, who previously appeared as Aquaman in several DC comics films including two standalones, will co-star as Lobo the intergalactic bounty hun… [+1247 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "R-bloggers.com"
-      },
-      "Author": "Mark White",
-      "Title": "R and Python Together: Refactoring and Prompt Engineering A Previous Case Study, Using the Perplexity API",
-      "Description": "I wrote a post last year looking at how to employ tools in LangChain to have GPT-3.5 Turbo access information on the web, outside of its training data. The purpose of the present post is to revisit this post, improving the poor performance I saw there through…",
-      "Url": "https://www.r-bloggers.com/2024/12/r-and-python-together-refactoring-and-prompt-engineering-a-previous-case-study-using-the-perplexity-api/",
-      "UrlToImage": "https://images.squarespace-cdn.com/content/v1/58a7d1e52994ca398697a621/afebbab2-0beb-4dc2-b30e-2f3d03556a33/unnamed-chunk-15-1.png?format=1000w",
-      "PublishedAt": "2024-12-30T18:03:37Z",
-      "Content": "[This article was first published on Mark H. White II, PhD, and kindly contributed to R-bloggers]. (You can report issue about the content on this page here)\r\nWant to share your content on R-bloggers… [+26480 chars]"
     }
   ]
 }
