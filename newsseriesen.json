@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 60,
+  "TotalResults": 61,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-01T08:33:24Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/Girls5eva-netflix.jpg?resize=1200,630",
       "PublishedAt": "2024-12-18T14:56:28Z",
       "Content": "After three seasons, Girls5eva has been canceled by Netflix. Per Variety, the musical comedy series will not be returning for a fourth season.\r\nThis is the second time that Girls5eva has been cancele… [+1678 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "TheBlaze"
-      },
-      "Author": "Matt Himes",
-      "Title": "Upstart streamer Loor.TV is out to televise the conservative revolution",
-      "Description": "One of entrepreneur Marcus Pittman’s biggest inspirations these days is Trump.Barron Trump, to be precise.'What happens if you combine funding and distribution on the same platform and you target it towards younger viewers?'With his streaming startup, Loor.TV…",
-      "Url": "https://www.theblaze.com/align/upstart-streamer-loor-tv-is-out-to-televize-the-conservative-revolution",
-      "UrlToImage": "https://www.theblaze.com/media-library/upstart-streamer-loor-tv-is-out-to-televise-the-conservative-revolution.jpg?id=55352010&width=1200&height=600&coordinates=0%2C29%2C0%2C30",
-      "PublishedAt": "2024-12-17T23:00:00Z",
-      "Content": "One of entrepreneur Marcus Pittmans biggest inspirations these days is Trump.\r\nBarron Trump, to be precise.\r\n'What happens if you combine funding and distribution on the same platform and you target … [+8774 chars]"
     }
   ]
 }
