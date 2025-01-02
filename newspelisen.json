@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 789,
+  "TotalResults": 790,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Why the streaming release of 'Wicked' surprised NPR's film critic - NPR",
+      "Description": "Why the streaming release of 'Wicked' surprised NPR's film criticNPR ‘Wicked’ Is Now Streaming—How To Watch The Blockbuster Musical At HomeForbes 'Wicked' movie is now available on streaming. Here's where to rent or purchase itThe Cincinnati Enquirer All the …",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175810939",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-01T04:52:19Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://media2.fdncms.com/portmerc/imager/u/large/47573507/2024culturepicks.webp",
       "PublishedAt": "2024-12-30T21:00:00Z",
       "Content": "We went out a lot this year. We saw bands, rode bikes, ate snacksall the stuff of life. This list is a hodgepodge of experience, pulling from our culture writing teamwho are drawing from both wider a… [+12004 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComicBook.com"
-      },
-      "Author": "Michael Hein",
-      "Title": "Barbie Director’s Narnia Reboot Netflix Release Is Sooner Than Fans Think",
-      "Description": "Netflix is reportedly hoping to release Greta Gerwig’s The Chronicles of Narnia in December of 2026. There hasn’t been much news on the new adaptation lately, but this month Bloomberg learned that Netflix wants to get the gears turning soon. In the meantime, …",
-      "Url": "http://comicbook.com/movies/news/barbie-director-narnia-reboot-netflix-release-sooner-than-fans-think/",
-      "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/chronicles-of-narnia-greta-gerwig.png?w=1200",
-      "PublishedAt": "2024-12-30T19:47:00Z",
-      "Content": "Netflix is reportedly hoping to release Greta Gerwig’s The Chronicles of Narnia in December of 2026. There hasn’t been much news on the new adaptation lately, but this month Bloomberg learned that Ne… [+2388 chars]"
     }
   ]
 }
