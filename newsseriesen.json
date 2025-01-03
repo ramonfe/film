@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 61,
+  "TotalResults": 62,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-02T04:56:23Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://extra-images.akamaized.net/image/7a/16by9/2024/12/18/7a938aeb4e12446285225136972ce1a6_xl.jpg",
       "PublishedAt": "2024-12-18T18:31:03Z",
       "Content": "Taron Egerton is starring in the action-thriller “Carry-On” as a young TSA agent fighting to outsmart a mysterious traveler who blackmails him into letting a dangerous package slip onto a Christmas E… [+1748 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Dan Girolamo",
-      "Title": "Girls5eva Canceled at Netflix After Season 3, Busy Philipps Reacts",
-      "Description": "After three seasons, Girls5eva has been canceled by Netflix. Per Variety, the musical comedy series will not be returning for a fourth season. This is the second time that Girls5eva has been canceled. The show originally aired on Peacock for two seasons from …",
-      "Url": "https://www.comingsoon.net/tv/news/1895251-girls5eva-canceled-netflix-busy-philipps-reacts",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/Girls5eva-netflix.jpg?resize=1200,630",
-      "PublishedAt": "2024-12-18T14:56:28Z",
-      "Content": "After three seasons, Girls5eva has been canceled by Netflix. Per Variety, the musical comedy series will not be returning for a fourth season.\r\nThis is the second time that Girls5eva has been cancele… [+1678 chars]"
     }
   ]
 }
