@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1104,
+  "TotalResults": 1105,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "Alexandra González",
+      "Title": "Muere John Capodice, querido actor de 'Ace Ventura' y 'Seinfield' a los 83 años",
+      "Description": "John Capodice, un veterano actor conocido por sus papeles en producciones icónicas como 'Ace Ventura','Seinfeld' y 'Día de la Independencia', falleció a los 83 años.La noticia fue confirmada por el sitio web de la funeraria Pizzi de Nueva Jersey el jueves pas…",
+      "Url": "https://www.milenio.com/espectaculos/famosos/muere-john-capodice-actor-de-ace-ventura-y-seinfield",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/03/muere-john-capodice-actor-ace.jpg",
+      "PublishedAt": "2025-01-03T18:22:00Z",
+      "Content": "John Capodice, un veterano actor conocido por sus papeles en producciones icónicas como 'Ace Ventura', 'Seinfeld' y 'Día de la Independencia', falleció a los 83 años. \r\nLa noticia fue confirmada por … [+1982 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/deb0b56c-b54d-4a16-8f30-143b95f79f2f_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2025-01-02T16:50:26Z",
       "Content": "Dice Antonio Resines que no le sorprende que David Broncano (TVE) acusara a Pablo Motos (Antena 3) de presionar a los invitados de El Hormiguero para que visiten este programa antes de ir a La Revuel… [+2530 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "Rolando Gallego",
-      "Title": "Isabella Rossellini habló de sus inicios en el cine, del legado de sus padres y de su “mejor amiga” Norma Leandro",
-      "Description": "Con grandes posibilidades de obtener un Globo de Oro por su rol en Cónclave, de próximo estreno, la heredera de una dinastía cinematográfica, dialogó con LA NACIÓN sobre su presente y recordó su trabajo con la actriz argentina",
-      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/isabella-rossellini-hablo-de-sus-inicios-en-el-cine-del-legado-de-sus-padres-y-de-su-mejor-amiga-nid02012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/gracias-a-su-papel-en-conclave-isabella-5KLVAM7VIRBO3FHZ24HMVWYL7U.JPG?auth=3af11f1bcfba771984f6c3dd5348fbfda4c41fafb539b0509727359d6a73a35e&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-02T16:34:11Z",
-      "Content": "Isabella Rossellini vuelve a la pantalla grande con el filmCónclave del alemán Edward Berger, que viene pisando fuerte en la temporada de premios, y también se la puede ver esta semana en La quimera … [+6404 chars]"
     }
   ]
 }
