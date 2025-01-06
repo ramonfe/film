@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 62,
+  "TotalResults": 63,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "EditorDavid",
+      "Title": "Magnus Carlsen Gets Married, After Stirring More Controversy With 'Shared' 8th World Blitz Chess Title",
+      "Description": "Today 34-year-old chess champion Magnus Carlsen married 26-year-old Ella Victoria Malone, \"in a ceremony packed with guests on a sunny winter day in Oslo,\" reports Chess.com.\n\nAccording to Norwegian newspaper Dagbladet, a film crew from Netflix was also prese…",
+      "Url": "https://games.slashdot.org/story/25/01/05/0124240/magnus-carlsen-gets-married-after-stirring-more-controversy-with-shared-8th-world-blitz-chess-title",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/classicgames_64.png",
+      "PublishedAt": "2025-01-05T02:34:00Z",
+      "Content": "Today 34-year-old chess champion Magnus Carlsen married 26-year-old Ella Victoria Malone, \"in a ceremony packed with guests on a sunny winter day in Oslo,\" reports Chess.com.\r\nAccording to Norwegian … [+4254 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/12/Oscar-Isaac.jpg?resize=1200,630",
       "PublishedAt": "2024-12-20T14:08:53Z",
       "Content": "Apple has acquired the rights to a series featuring two big names in Hollywood, Oscar Isaac and Ana de Armas. The show, tentatively titled Bananas, drew stiff competition from prospective buyers befo… [+1551 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "Oscar Isaac, Ana De Armas-led drama ‘Bananas’ from five-time Oscar nominee David Russell in works at Apple TV+",
-      "Description": "A new drama series titled Bananas is in making from streaming service Apple TV+. Famed Hollywood actors Oscar Isaac and Ana de Armas are set to act in the drama. The show is created, written and executive produced by Carolina Paiz. Filmmaker David O Russell, …",
-      "Url": "https://economictimes.indiatimes.com/news/international/global-trends/oscar-isaac-ana-de-armas-led-drama-bananas-from-five-time-oscar-nominee-david-russell-in-works-at-apple-tv/articleshow/116497505.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-116500018,width-1200,height-630,imgsize-65446,overlay-economictimes/articleshow.jpg",
-      "PublishedAt": "2024-12-20T08:25:57Z",
-      "Content": "Artificial Intelligence(AI)\r\nCollaborative AI Foundations: Working Smarter with Machines\r\nBy - Prince Patni, Software Developer (BI, Data Science)\r\nView Program"
     }
   ]
 }
