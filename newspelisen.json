@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 729,
+  "TotalResults": 730,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Everything Announced by Sony at CES 2025 in 6 Minutes video",
+      "Description": "At CES 2025, Sony reveals a release date for its smart car, the Afeela along with new movie magic innovations from its film division. Watch our recap in 6 minutes.",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175843429",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-07T03:52:25Z",
+      "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
     {
       "Source": {
         "Id": "the-jerusalem-post",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://biztoc.com/cdn/f26f16a59d8f234f_s.webp",
       "PublishedAt": "2025-01-05T20:47:26Z",
       "Content": "Melania Trump will be the subject of an Amazon Prime Video documentary, an Amazon spokesperson said Sunday. The big picture: The movie, called an \"unprecedented, behind-the-scenes look\" into Trump's … [+136 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "LG's OLED evo TVs for 2025 come with AI and a 165Hz refresh rate",
-      "Description": "LG has unveiled its OLED evo TV lineup for 2025 and is showing them off at CES this year, along with its other home entertainment products. The new models are powered by the company's latest (Alpha) 11 AI processor Gen2, with deep learning algorithms that giv…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175834127",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-05T20:13:03Z",
-      "Content": "LG has unveiled its OLED evo TV lineup for 2025 and is showing them off at CES this year, along with its other home entertainment products. The new models are powered by the company's latest (Alpha) … [+2686 chars]"
     }
   ]
 }
