@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 65,
+  "TotalResults": 66,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Biztoc.com"
+      },
+      "Author": "npr.org",
+      "Title": "Why Netflix spent billions for WWE",
+      "Description": "Why Netflix spent billions for WWE\nLast night, after years on cable, WWE's flagship show, Monday Night Raw, made its debut on Netflix. It's another example of live sports programming making the move to streaming as more people abandon cable television.\nToday …",
+      "Url": "https://biztoc.com/x/a0f1037c65dec6e7",
+      "UrlToImage": "https://biztoc.com/cdn/a0f1037c65dec6e7_s.webp",
+      "PublishedAt": "2025-01-07T08:20:56Z",
+      "Content": "Why Netflix spent billions for WWELast night, after years on cable, WWE's flagship show, Monday Night Raw, made its debut on Netflix. It's another example of live sports programming making the move t… [+139 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "NPR"
+      },
+      "Author": "Adrian Ma",
+      "Title": "Why Netflix spent billions for WWE",
+      "Description": "Last night, after years on cable, WWE's flagship show, Monday Night Raw, made its debut on Netflix. It's another example of live sports programming making the move to streaming as more people abandon cable television. Today on the show, we talk to a TV analys…",
+      "Url": "https://www.npr.org/2025/01/07/1223358002/the-indicator-from-planet-money-why-netflix-spent-billions-for-wwe-01-07-2025",
+      "UrlToImage": "https://media.npr.org/assets/img/2025/01/06/show-artwork_wide-921955e8082e37845e4d20eb0a63532e79a2b21f.jpg?s=1400&c=100&f=jpeg",
+      "PublishedAt": "2025-01-07T08:00:59Z",
+      "Content": "Last night, after years on cable, WWE's flagship show, Monday Night Raw, made its debut on Netflix. It's another example of live sports programming making the move to streaming as more people abandon… [+414 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://biztoc.com/cdn/13b1913c201924b4_s.webp",
       "PublishedAt": "2024-12-27T00:20:20Z",
       "Content": "The NFLs Netflix debut was a success as far as streaming goes, anyway. But even with Beyoncé performing at halftime, the games ratings were roughly on par with last years Christmas viewership, which … [+146 chars]"
-    },
-    {
-      "Source": {
-        "Id": "cnn",
-        "Name": "CNN"
-      },
-      "Author": "David Goldman, Elizabeth Wagmeister",
-      "Title": "Netflix touts biggest-ever NFL streaming ratings, peaking with Beyoncé’s halftime show | CNN Business",
-      "Description": "The NFL’s Netflix debut was a success – as far as streaming goes, anyway. But even with Beyoncé performing at halftime, the games’ ratings were roughly on par with last year’s Christmas viewership, which was aired on broadcast and cable TV.",
-      "Url": "https://www.cnn.com/2024/12/26/media/netflix-nfl-ratings/index.html",
-      "UrlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24361843413330.jpg?c=16x9&q=w_800,c_fill",
-      "PublishedAt": "2024-12-27T00:15:47Z",
-      "Content": "The NFLs Netflix debut was a success as far as streaming goes, anyway. But even with Beyoncé performing at halftime, the games ratings were roughly on par with last years Christmas viewership, which … [+2315 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "The New Republic"
-      },
-      "Author": "Phillip Maciak",
-      "Title": "TV’s Year of Big Disappointments",
-      "Description": "It’s\nthe end of the year, and disappointment is in the air. It has been for a while\nnow. Given the current state of liberal politics in the United States, it’s easy to\nimagine why it might feel that way. 2024 has been a cascade of disappointments,\na series of…",
-      "Url": "https://newrepublic.com/article/188264/tvs-year-big-disappointments",
-      "UrlToImage": "https://images.newrepublic.com/b1f0ec032cde9ef1ef96273038834c8a7a45258e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-      "PublishedAt": "2024-12-26T11:00:00Z",
-      "Content": "This\r\nis, admittedly, and somewhat hyperbolically, a grim picture to paint. But Im\r\nnot writing about disappointment and the year in TV only because I feel\r\ndisappointed in the year in TV. Im also wr… [+2670 chars]"
     }
   ]
 }
