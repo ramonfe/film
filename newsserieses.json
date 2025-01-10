@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 990,
+  "TotalResults": 991,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Los seis clásicos del cine que llegan a Netflix para una maratón imperdible",
+      "Description": "El 16 de enero, una serie de películas desembarcarán en el gigante del streaming; desde Jurassic Park hasta Volver al futuro",
+      "Url": "https://www.lanacion.com.ar/espectaculos/los-seis-clasicos-del-cine-que-llegan-a-netflix-para-una-maraton-imperdible-nid08012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/netflix-no-deja-de-sorprender-con-su-amplio-BMDPJO7IMFDCHOKPHFOI46NEOE.jpg?auth=1b8d46d6f018fde8e760b2c8f01c4601ec8d49d536eb8e9883db717311eb291f&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-09T01:30:46Z",
+      "Content": "Hay clásicos que no importa las veces que los hayamos visto, siempre es un buen plan volverlos a ver. Debido a esto es que Netflix les trae una buena noticia a sus suscriptores fanáticos de las produ… [+1000 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://static.eldiario.es/clip/c81afefd-fd6b-4cb3-b18f-dc667fccebb8_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
       "PublishedAt": "2025-01-08T12:27:10Z",
       "Content": "El Hormiguero abrió este martes 7 de enero su 2025 con la visita de María Hervás y Fernando Gil, que acudieron a Antena 3 para promocionar la tercera temporada de Machos Alfa. Dos invitados, los prim… [+2566 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Jorge Loser",
-      "Title": "El patriarcado contraataca en la temporada 3 de 'Machos Alfa'. La serie de los creadores de 'La que se avecina' regresa a Netflix",
-      "Description": "La tercera temporada de la comedia creada por los hermanos Caballero, 'Machos Alfa', llega a Netflix de forma inminente: el viernes 10 de enero estarán los diez episodios disponibles en la plataforma, y para presentarla han publicado el tráiler oficial con al…",
-      "Url": "https://www.espinof.com/netflix/patriarcado-contraataca-temporada-3-machos-alfa-serie-creadores-que-se-avecina-regresa-a-netflix",
-      "UrlToImage": "https://i.blogs.es/8ec636/machosalfa3/840_560.jpeg",
-      "PublishedAt": "2025-01-08T12:17:01Z",
-      "Content": "La tercera temporada de la comedia creada por los hermanos Caballero, 'Machos Alfa', llega a Netflix de forma inminente: el viernes 10 de enero estarán los diez episodios disponibles en la plataforma… [+1426 chars]"
     }
   ]
 }
