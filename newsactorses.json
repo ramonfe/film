@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1055,
+  "TotalResults": 1056,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Protagonizó la serie de Disney ¡Buena suerte, Charlie!, y hoy es CEO de una compañía espacial",
+      "Description": "Además de ser actriz, se recibió de abogada en Harvard y a sus 31 años logró convertirse en la dueña de una de las empresas más importantes de tecnología espacial de los Estados Unidos",
+      "Url": "https://www.lanacion.com.ar/espectaculos/protagonizo-la-serie-de-disney-buena-suerte-charlie-y-hoy-es-ceo-de-una-compania-espacial-nid09012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/el-interprete-lidera-una-startup-tecnologica-que-7FN25REU6VFXXBDE6ENTQKP7NU.jpg?auth=7d029e3a4a9ae7b975254857b22d52369982dccafff785ec85b0cbf40282246e&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-09T23:45:05Z",
+      "Content": "Bridgit Mendler, conocida mundialmente por su papel como Teddy Duncan en la icónica serie de Disney Channel Buena Suerte, Charly, dejó atrás los reflectores para emprender una carrera sorprendente en… [+3021 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/2fa420/joaquin-phoenix/840_560.jpeg",
       "PublishedAt": "2025-01-09T11:00:37Z",
       "Content": "Si el 2020 empezó bien para Joaquin Phoenix gracias a su merecido Oscar por su papel protagonista en 'Joker', el 2024 lo hace de una forma mucho más agridulce (tirando más agria). La secuela de aquel… [+3871 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Pablo Naranjo",
-      "Title": "Paris Hilton, Adam Brody o Anthony Hopkins: todos los famosos que han perdido sus casas en los incendios de Los Ángeles",
-      "Description": "Los vídeos que han salido a la luz sobre los incendios forestales de California, en su mayoría de Los Ángeles, son totalmente desoladores. La catástrofe comenzó el pasado martes y ha arrasado gran parte de la zona de Pacific Palisades, conocida por reunir a u…",
-      "Url": "https://www.trendencias.com/celebrities/paris-hilton-adam-brody-anthony-hopkins-todos-famosos-que-han-perdido-sus-casas-incendios-angeles",
-      "UrlToImage": "https://i.blogs.es/d740c8/sin-titulo---2025-01-09t093447.368/840_560.jpeg",
-      "PublishedAt": "2025-01-09T09:52:20Z",
-      "Content": "Los vídeos que han salido a la luz sobre los incendios forestales de California, en su mayoría de Los Ángeles, son totalmente desoladores. La catástrofe comenzó el pasado martes y ha arrasado gran pa… [+2750 chars]"
     }
   ]
 }
