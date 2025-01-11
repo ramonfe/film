@@ -1,8 +1,34 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 625,
+  "TotalResults": 627,
   "Articles": [
+    {
+      "Source": {
+        "Id": "abc-news",
+        "Name": "ABC News"
+      },
+      "Author": "MORGAN LEE Associated Press",
+      "Title": "Alec Baldwin sues for malicious prosecution after judge dismissed case of fatal 'Rust' set shooting",
+      "Description": "Actor Alec Baldwin has filed a civil lawsuit for malicious prosecution and civil rights violations in the fatal shooting of a cinematographer on the set of the Western movie “Rust.”",
+      "Url": "https://abcnews.go.com/Entertainment/wireStory/alec-baldwin-sues-malicious-prosecution-after-judge-dismissed-117531363",
+      "UrlToImage": "https://i.abcnewsfe.com/a/167045bc-1b62-4488-a05d-64078f7d7b6a/wirestory_fcd473831a5ec0cdb11f0116efbb9682_16x9.jpg?w=1600",
+      "PublishedAt": "2025-01-10T00:49:50Z",
+      "Content": "SANTA FE, N.M. -- Actor Alec Baldwin has filed a civil lawsuit for malicious prosecution and civil rights violations in the fatal shooting of a cinematographer on the set of the Western movie Rust.\r\n… [+1172 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-10T00:17:50Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +392,6 @@
       "UrlToImage": "https://live-production.wcms.abc-cdn.net.au/ad2260f4a31fc3c0d73a99ff6c23e48f?impolicy=wcms_watermark_news&cropH=1500&cropW=2667&xPos=47&yPos=0&width=862&height=485&imformat=generic",
       "PublishedAt": "2025-01-08T19:15:52Z",
       "Content": "Smash hit musical Wicked has picked up the most nominations for the 31st Screen Actors Guild (SAG) Awards, including for best ensemble.\r\nCynthia Erivo, Ariana Grande and Jonathan Bailey also received… [+4858 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Joey Paur",
-      "Title": "DC Studios Reportedly Looking to Cast a “Much Younger” Actor for Clayface in the DCU",
-      "Description": "As you may have heard, there have been rumors about Josh Brolin possibly taking on the role of Clayface in the DCU in the film that Mike Flanagan developed for DC Studios. Well, a new report suggests that DC Studios is going in a very different direction. Acc…",
-      "Url": "https://geektyrant.com/news/dc-studios-reportedly-looking-to-cast-a-much-younger-actor-for-clayface-in-the-dcu",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/677bf4aed9fb0a6e8583b410/1736362945461/dc-studios-reportedly-looking-to-cast-a-much-younger-actor-for-clayface-in-the-dcu.jpg?format=1500w",
-      "PublishedAt": "2025-01-08T19:02:00Z",
-      "Content": "As you may have heard, there have been rumors about Josh Brolin possibly taking on the role of Clayface in the DCU in the film that Mike Flanagan developed for DC Studios. Well, a new report suggests… [+3363 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Tom Holland to Star In 'The Imitation Game' Movie Adaptation, First New Role Since Engagement News",
-      "Description": "Tom Holland is adding another film role to his slate! The 28-year-old actor was just announced to be starring in The Partner, an upcoming movie based on the John Grisham novel “The Imitation Game,” Deadline reports. This is the first project for the actor aft…",
-      "Url": "https://www.justjared.com/2025/01/08/tom-holland-to-star-in-the-imitation-game-movie-adaptation-first-new-role-since-engagement-news/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2025/01/tom-role.jpg",
-      "PublishedAt": "2025-01-08T18:39:22Z",
-      "Content": "Tom Holland is adding another film role to his slate!\r\nThe 28-year-old actor was just announced to be starring in The Partner, an upcoming movie based on the John Grisham novel “The Imitation Game,” … [+1157 chars]"
     }
   ]
 }
