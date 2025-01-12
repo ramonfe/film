@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Fast Company"
+      },
+      "Author": "Jared Newman",
+      "Title": "CES was a giant exercise in AI gaslighting",
+      "Description": "For a reporter covering CES, the booth for Samsung Display can seem like a pure distillation of what the tech trade show is all about.\n\n\n\nCES has always been a celebration of screens, and every year Samsung’s Display division, which manufactures screens for t…",
+      "Url": "https://www.fastcompany.com/91259002/ces-was-a-giant-exercise-in-ai-gaslighting",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-11T11:18:00Z",
+      "Content": "For a reporter covering CES, the booth for Samsung Display can seem like a pure distillation of what the tech trade show is all about.\r\nCES has always been a celebration of screens, and every year Sa… [+6491 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F12%2F31%2Fapple-tv-plus-free-weekend-information-2025-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "PublishedAt": "2024-12-31T16:46:54Z",
       "Content": "Apple TV+ is offering a special gift to ring in the new year. From January 3 until January 5, all that’s needed is a registered Apple ID for audiences to enjoy the company’s premium streaming service… [+779 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2024-12-31T15:40:36Z",
-      "Content": "[Removed]"
     }
   ]
 }
