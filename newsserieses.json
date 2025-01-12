@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 979,
+  "TotalResults": 980,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ELLE.com"
+      },
+      "Author": "Begoña Alonso",
+      "Title": "Esta es la saga de libros románticos cuyos derechos ha comprado Netflix para hacer una serie mejor que 'Los Bridgerton'",
+      "Description": "Netflix ha comprado los derechos de una saga de libros románticos para hacer una serie mejor que 'Los Bridgerton'.",
+      "Url": "https://www.elle.com/es/living/ocio-cultura/a63391749/twisted-love-serie-romantica-netflix/",
+      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/bridgerton-305-unit-03716r-678110fa1f5ac.jpg?crop=1.00xw:0.751xh;0,0.0415xh&resize=1200:*",
+      "PublishedAt": "2025-01-11T07:00:00Z",
+      "Content": "Si te gustan las series románticas de Netflix que adaptan libros como 'Los Bridgerton', 'Un lugar para soñar' o 'Siempre el mismo día', estás de enhorabuena, porque la plataforma ha comprado los dere… [+2176 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://estaticos-cdn.prensaiberica.es/clip/96e72590-2857-491f-973d-a9d66b861de8_16-9-discover-aspect-ratio_default_0.jpg",
       "PublishedAt": "2025-01-10T06:00:29Z",
       "Content": "Pedro Alonso, el Berlín de 'La Casa de Papel', reconoce que en los últimos 10 años le ha pasado de todo. \"Murió mi padre, me he separado, me he vuelto a enamorar, he escrito mucho, he vivido un fenóm… [+3835 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hola"
-      },
-      "Author": null,
-      "Title": "'Machos Alfa' vuelve con nuevas aventuras en su tercera temporada: conoce a sus cuatro protagonistas",
-      "Description": "La serie de los hermanos Caballero se estrena este viernes 10 de enero en Netflix",
-      "Url": "https://www.hola.com/actualidad/20250110739780/machos-alfa-vuelve-con-su-temporada-3-conoce-a-sus-protagonistas/",
-      "UrlToImage": "https://www.hola.com/horizon/landscape/aac25dcd6061-machosalfas03e2122-13-5-24-manuelfiestasmfm05910-1.jpg?im=Resize=(1200)",
-      "PublishedAt": "2025-01-10T06:00:00Z",
-      "Content": "Si hay una serie española de Netflix que nos ha hecho reír a carcajadas en los últimos tiempos, esa es, sin duda, Machos alfa. Esta delirante comedia, creada por los hermanos Caballero, responsables … [+10980 chars]"
     }
   ]
 }
