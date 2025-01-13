@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 694,
+  "TotalResults": 695,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "IndieWire"
+      },
+      "Author": "Tom Brueggemann",
+      "Title": "Tributes Pour in for Bob Laemmle, Titan of Los Angeles Specialized Movie Theaters",
+      "Description": "Theater owner Bob Laemmle remembered by peers as a champion of specialized cinema and the Los Angeles community.",
+      "Url": "https://www.indiewire.com/news/obituary/theater-owner-bob-laemmle-remembered-by-peers-1235084518/",
+      "UrlToImage": "https://www.indiewire.com/wp-content/uploads/2025/01/BobLaemmle.jpg?w=650",
+      "PublishedAt": "2025-01-12T23:46:48Z",
+      "Content": "Robert Laemmle, 89, President of Laemmle Theatres, whose family is a Hollywood dynasty (his father Max was a cousin of Carl Laemmle, founder of Universal Pictures), died January 9 in Santa Monica, Ca… [+9900 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.slashfilm.com/img/gallery/alien-romulus-director-fixed-the-movies-most-controversial-element-in-home-release/l-intro-1736536418.jpg",
       "PublishedAt": "2025-01-10T19:13:55Z",
       "Content": "What's the Xenomorph equivalent of putting lipstick on a pig? Whatever that is, that appears to be the \"solution\" to what easily became the biggest flashpoint surrounding the release of \"Alien: Romul… [+1621 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GameSpot"
-      },
-      "Author": "Jon Bitner",
-      "Title": "Five Nights At Freddy’s: Into The Pit And Help Wanted 2 Are Getting Physical Editions Later This Year",
-      "Description": "Five Nights at Freddy’s has become wildly popular in recent years, earning itself a movie adaptation in 2023 and boasting a catalog filled with over a dozen horror games. Later this year, two of its most recent games, Into the Pit and Help Wanted 2, are getti…",
-      "Url": "https://www.gamespot.com/articles/five-nights-at-freddys-into-the-pit-and-help-wanted-2-are-getting-physical-editions-later-this-year/1100-6528746/",
-      "UrlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1701/17013431/4425882-fnaf.jpg",
-      "PublishedAt": "2025-01-10T18:19:00Z",
-      "Content": "The physical edition of Into the Pit will eventually launch for PS5, Xbox, and PS4, though only the Switch version is currently available to preorder. Into the Pit is a big departure for the series, … [+594 chars]"
     }
   ]
 }
