@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 574,
+  "TotalResults": 569,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cisa.gov"
+      },
+      "Author": "CISA",
+      "Title": "Vulnerability Summary for the Week of January 6, 2025",
+      "Description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>5centsCDN--5centsCDN </td>\n<td>Improper Neutralization of Input During Web Page Generati…",
+      "Url": "https://www.cisa.gov/news-events/bulletins/sb25-013",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-13T15:59:42Z",
+      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s… [+899 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.abcotvs.com/dip/images/15787182_011025-wls-alec-baldwin-suit-6avo-vid.jpg?w=1600",
       "PublishedAt": "2025-01-10T21:17:11Z",
       "Content": "SANTA FE, N.M. -- Actor Alec Baldwin has filed a civil lawsuit for malicious prosecution and civil rights violations in the fatal shooting of a cinematographer on the set of the Western movie \"Rust.\"… [+3191 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Just Jared"
-      },
-      "Author": "Just Jared",
-      "Title": "Pamela Anderson Helps Sunny Hostin Adjust Her Dress During Appearance on 'The View'",
-      "Description": "Pamela Anderson is going viral over a moment that she shared with Sunny Hostin during an appearance on the January 10 episode of The View. The 57-year-old actress appeared on the talk show to promote her new movie The Last Showgirl. However, one of the takeaw…",
-      "Url": "https://www.justjared.com/2025/01/10/pamela-anderson-helps-sunny-hostin-adjust-her-dress-during-appearance-on-the-view/",
-      "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2025/01/pamela-sunny.jpg",
-      "PublishedAt": "2025-01-10T19:49:47Z",
-      "Content": "Pamela Anderson is going viral over a moment that she shared with Sunny Hostin during an appearance on the January 10 episode of The View.\r\nThe 57-year-old actress appeared on the talk show to promot… [+839 chars]"
     }
   ]
 }
