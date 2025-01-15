@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 70,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "The new Witcher animated film finally has a legit trailer",
+      "Description": "We’ve been hearing about the latest animated movie based on The Witcher franchise for a while now, but we’ve only ever gotten a short teaser and an equally short clip. Now, finally, there’s a legit full-fledged trailer. This is opportune timing, as The Witche…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175908405",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-14T20:13:21Z",
+      "Content": "We’ve been hearing about the latest animated movie based on The Witcher franchise for a while now, but we’ve only ever gotten a short teaser and an equally short clip. Now, finally, there’s a legit f… [+1766 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imageio.forbes.com/specials-images/imageserve/6776a4412a46df3bc23a9886/0x0.jpg?format=jpg&crop=1280,720,x0,y0,safe&height=900&width=1600&fit=bounds",
       "PublishedAt": "2025-01-02T14:42:11Z",
       "Content": "Netflix's \"The Night Agent\" and \"XO Kitty,\" and Apple TV+'s \"Severance.\"\r\nCourtesy of Netflix; Courtney of Apple TV+\r\nWhat better way to start the New Year than diving into a new binge-worthy show? F… [+7744 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-02T04:56:23Z",
-      "Content": "[Removed]"
     }
   ]
 }
