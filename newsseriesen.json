@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 70,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-14T19:54:57Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -378,19 +391,6 @@
       "Url": "https://removed.com",
       "UrlToImage": null,
       "PublishedAt": "2025-01-02T04:56:23Z",
-      "Content": "[Removed]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "[Removed]"
-      },
-      "Author": null,
-      "Title": "[Removed]",
-      "Description": "[Removed]",
-      "Url": "https://removed.com",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-01T08:33:24Z",
       "Content": "[Removed]"
     }
   ]
