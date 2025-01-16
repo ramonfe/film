@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 563,
+  "TotalResults": 564,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Amanda Mullen",
+      "Title": "Netflix’s New Witcher Movie Makes Henry Cavill’s Geralt Recast Even More Disappointing",
+      "Description": "The Witcher: Sirens of the Deep sees a new actor portraying Geralt of Rivia, and the anime movie makes Henry Cavill’s recast more disappointing.",
+      "Url": "https://screenrant.com/witcher-sirens-of-the-deep-geralt-recast-henry-cavill-character-looks-op-ed/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/12/the-witcher-geralt-looking-concerned.jpg",
+      "PublishedAt": "2025-01-15T00:00:10Z",
+      "Content": "Netflix dropped a trailer for The Witcher: Sirens of the Deep, and the upcoming anime movie makes Henry Cavill's Geralt recast even more disappointing. Based on Andrzej Sapkowksi's short story, \"A Li… [+5048 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-01-13T15:59:42Z",
       "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s… [+899 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Apoorv Rastogi",
-      "Title": "Landman Season 2 Gets Exciting Update From Billy Bob Thornton",
-      "Description": "While Taylor Sheridan’s latest neo-Western drama Landman has recently concluded its first chapter, actor Billy Bob Thornton has already given some updates regarding Season 2. The series made its small-screen debut in November last year and instantly garnered …",
-      "Url": "https://www.comingsoon.net/tv/news/1904246-landman-season-2-billy-bob-thornton-coyote-scene",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/01/Landman-Season-2-Billy-Bob-Thornton-coyote.jpg?resize=1200,630",
-      "PublishedAt": "2025-01-13T15:44:04Z",
-      "Content": "While Taylor Sheridans latest neo-Western drama Landman has recently concluded its first chapter, actor Billy Bob Thornton has already given some updates regarding Season 2. The series made its small… [+1641 chars]"
     }
   ]
 }
