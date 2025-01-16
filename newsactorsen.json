@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 564,
+  "TotalResults": 565,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Screen Rant"
+      },
+      "Author": "Adam Bentz",
+      "Title": "Daniel Craig's New A24 Movie Is Now Available To Watch At Home Following Golden Globe Nomination For Best Actor",
+      "Description": "Daniel Craig's new A24 movie is now available to watch at home on digital platforms following his Golden Globe nomination for Best Actor.",
+      "Url": "https://screenrant.com/queer-movie-digital-vod-release/",
+      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/01/untitled-33.jpg",
+      "PublishedAt": "2025-01-15T02:27:10Z",
+      "Content": "Daniel Craig's new A24 movie is now available to watch at home following his Golden Globe nomination. The English actor is widely known to audiences for his portrayal of the impossibly suave secret a… [+2688 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.slashfilm.com/img/gallery/the-quentin-tarantino-movie-that-you-probably-forgot-bruce-willis-cameoed-in/l-intro-1736267469.jpg",
       "PublishedAt": "2025-01-13T17:00:20Z",
       "Content": "The segment of \"Four Rooms\" written and directed by Quentin Tarantino marks the first time that the filmmaker tackled characters who work in the film industry. That's right; before Stuntman Mike and … [+2249 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Cisa.gov"
-      },
-      "Author": "CISA",
-      "Title": "Vulnerability Summary for the Week of January 6, 2025",
-      "Description": "High Vulnerabilities\r\n\n<table>\n\n<tr>\n<th>PrimaryVendor -- Product</th>\n<th>Description</th>\n<th>Published</th>\n<th>CVSS Score</th>\n<th>Source Info</th>\n</tr>\n\r\n\n\n<tr>\n<td>5centsCDN--5centsCDN </td>\n<td>Improper Neutralization of Input During Web Page Generati…",
-      "Url": "https://www.cisa.gov/news-events/bulletins/sb25-013",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-13T15:59:42Z",
-      "Content": "The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded in the past week. In some cases, the vulnerabilities in the bulletin may not yet have assigned CVSS s… [+899 chars]"
     }
   ]
 }
