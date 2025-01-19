@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Vulture"
+      },
+      "Author": "Alejandra Gularte",
+      "Title": "Christopher Walken Doesn’t Have the ‘Equipment’ to Stream Severance",
+      "Description": "It makes sense for Lumon to support physical media rather than streaming. Apple TV sends Christopher Walken DVD copies of Severance to watch because he doesn’t have the ‘equipment’ to stream the show.",
+      "Url": "http://www.vulture.com/article/christopher-walken-severance-dvd.html",
+      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/02a/ed0/e21868ce3700f1744cc458c7f0597e42e7-severance.1x.rsocial.w1200.jpg",
+      "PublishedAt": "2025-01-18T17:30:39Z",
+      "Content": "Christopher Walken isnt fiddling around with the TV remote and trying to figure out how to type a long and complicated password using the arrow keys. Hes making Apple TV+ walk to the mail box to send… [+710 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/01/Screenshot-2025-01-06-132654-e1736188070583.png?resize=1200,630",
       "PublishedAt": "2025-01-06T18:37:20Z",
       "Content": "Apple TV+ has shared The Studio clip from its newest comedy series starring Seth Rogen as a film studio head. The show is scheduled to make its debut on March 26, 2025, with the first two episodes.\r\n… [+1525 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "Caroline Bologna",
-      "Title": "This New British Crime Series Is A Top Show On Netflix Right Now",
-      "Description": "A new drama and a satirical horror comedy are also among the shows trending across streaming services including Peacock, Max, Hulu and Apple TV+.",
-      "Url": "https://www.huffpost.com/entry/missing-you-popular-netflix-shows_n_677b1a62e4b097010f5e192a",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/677bfb70170000170037439d.jpg?cache=ZQ0mBETUos&ops=1200_630",
-      "PublishedAt": "2025-01-06T16:01:21Z",
-      "Content": "Missing You is currently the second most popular show on Netflix, according to the platforms public ranking system.\r\nAdapted from a 2014 Harlan Coben novel, this new British crime series premiered on… [+2165 chars]"
     }
   ]
 }
