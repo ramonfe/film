@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 585,
+  "TotalResults": 586,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "[Removed]"
+      },
+      "Author": null,
+      "Title": "[Removed]",
+      "Description": "[Removed]",
+      "Url": "https://removed.com",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-18T06:00:00Z",
+      "Content": "[Removed]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2025/01/mark-football.jpg",
       "PublishedAt": "2025-01-16T23:37:29Z",
       "Content": "Mark Wahlberg is making time to have some fun and stay active while filming his new movie, The Family Plan 2.\r\nThe 53-year-old actor is currently filming the sequel to his 2023 Apple TV+ movie, which… [+935 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "GeekTyrant"
-      },
-      "Author": "Jessica Fisher",
-      "Title": "Renée Zellweger Says She Stopped Acting for Six Years Because \"I Was Sick of the Sound of My Own Voice\"",
-      "Description": "Two-time Academy Award winning actress Renée Zellweger is best known for her starring roles in movies like Jerry Maguire, the Bridget Jones’s Diary franchise, Chicago, Cold Mountain, Cinderella Man, and Judy, as well as a handful of animated features and TV s…",
-      "Url": "https://geektyrant.com/news/rene-zellweger-says-she-stopped-acting-for-six-years-because-i-was-sick-of-the-sound-of-my-own-voice",
-      "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/67882ca08356230428cc8520/1737068404031/renee+zellweger-Jerry-Maguire.jpg?format=1500w",
-      "PublishedAt": "2025-01-16T23:00:00Z",
-      "Content": "Two-time Academy Award winning actress Renée Zellweger is best known for her starring roles in movies like Jerry Maguire, the Bridget Joness Diary franchise, Chicago, Cold Mountain, Cinderella Man, a… [+1650 chars]"
     }
   ]
 }
