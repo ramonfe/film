@@ -1,8 +1,47 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 942,
+  "TotalResults": 945,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Los incendios de California atrasan la posible liberación de los hermanos Menéndez",
+      "Description": "A finales del pasado mes de noviembre, el caso de los hermanos Menéndez se sentó de nuevo en los tribunales . En 2023, los asesinos de José y Kitty Menéndez solicitaron un recurso de hábeas corpus respecto a sus condenas al considerarlas inconstitucionales, p…",
+      "Url": "https://www.abc.es/gente/incendios-california-atrasan-posible-liberacion-hermanos-menendez-20250119160000-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/gente/2025/01/19/incendios-aplazan-sentencia-hermanos-menendez-U43841256520sDK-1024x512@diario_abc.jpg",
+      "PublishedAt": "2025-01-19T14:44:08Z",
+      "Content": "A finales del pasado mes de noviembre, el caso de los hermanos Menéndez se sentó de nuevo en los tribunales. En 2023, los asesinos de José y Kitty Menéndez solicitaron un recurso de hábeas corpus res… [+2498 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Elespectador.com"
+      },
+      "Author": "Alexander Velásquez",
+      "Title": "¿Es Carolina Sanín la Lisa Simpson de la literatura colombiana?",
+      "Description": "¿Eres tú, Carolina Simpson? Respuesta cortés a la crítica que hizo la escritora bogotana sobre la serie “Cien años de soledad”, de Netflix.",
+      "Url": "https://blogs.elespectador.com/actualidad/cura-de-reposo/es-carolina-sanin-la-lisa-simpson-de-la-literatura-colombiana/",
+      "UrlToImage": "https://blogsnew.s3.amazonaws.com/wp-content/uploads/2025/01/17081232/A-SANIN-MIA.jpg",
+      "PublishedAt": "2025-01-19T14:11:45Z",
+      "Content": "Gabo se anticipó y descifró a Colombia mejor que muchos en este país.\r\nMe pareció realmente una porquería. Mierda de perro que estás haciendo pasar por oro.\r\nPalabras mayores. Son de Carolina Sanín h… [+7365 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mariló Delgado",
+      "Title": "'Spy x Family', todo lo que sabemos sobre la temporada 3 del fantástico anime de espías y la nueva misión de Twilight",
+      "Description": "Ya antes del estreno de su anime, 'Spy x Family' era un manga tremendamente popular gracias al dibujo y la historia tan maja que se ha marcado Tatsuya Endo. Pero obviamente el anime de Wit Studio y CloverWorks lo ha catapultado del todo a la fama y la serie s…",
+      "Url": "https://www.espinof.com/fecha-de-estreno/spy-x-family-todo-que-sabemos-temporada-3-fantastico-anime-espias-nueva-mision-twilight",
+      "UrlToImage": "https://i.blogs.es/ffa837/spy-x-family/840_560.jpeg",
+      "PublishedAt": "2025-01-19T14:01:30Z",
+      "Content": "Ya antes del estreno de su anime, 'Spy x Family' era un manga tremendamente popular gracias al dibujo y la historia tan maja que se ha marcado Tatsuya Endo. Pero obviamente el anime de Wit Studio y C… [+3263 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -240,19 +279,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Trendencias.com"
-      },
-      "Author": "Anabel Palomares",
-      "Title": "Nadie fue al cine cuando se estrenó. Ahora esta película de ciencia ficción arrasa en Netflix con razón",
-      "Description": "Para los expertos de Espinof es una eficaz serie B, sin que esto sea algo malo porque ellos mismos aseguraban cuando se estrenó en 2023, que era “'más divertida que 'Avatar 2' en la mitad de tiempo”, y que cumplia con “el difícil arte perdido del cine para ve…",
-      "Url": "https://www.trendencias.com/cine/nadie-fue-al-cine-cuando-se-estreno-ahora-esta-pelicula-ciencia-ficcion-arrasa-netflix-razon",
-      "UrlToImage": "https://i.blogs.es/890854/pelicula-de-ciencia-ficcion-arrasa-en-netflix/840_560.jpeg",
-      "PublishedAt": "2025-01-18T11:01:30Z",
-      "Content": "Para los expertos de Espinof es una eficaz serie B, sin que esto sea algo malo porque ellos mismos aseguraban cuando se estrenó en 2023, que era 'más divertida que 'Avatar 2' en la mitad de tiempo, y… [+2280 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Vida Extra"
       },
       "Author": "Alberto Martín",
@@ -262,6 +288,19 @@
       "UrlToImage": "https://i.blogs.es/567662/witcher-ronin-1/840_560.jpeg",
       "PublishedAt": "2025-01-18T11:01:30Z",
       "Content": "Hace unos años que presenciamos cómo triunfaba un Kickstarter cuyo objetivo era crear un manga de The Witcher. La meta se marcó en 90.000 euros, aunque el manga ya estaba terminado, pero se recaudaro… [+4677 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Trendencias.com"
+      },
+      "Author": "Anabel Palomares",
+      "Title": "Nadie fue al cine cuando se estrenó. Ahora esta película de ciencia ficción arrasa en Netflix con razón",
+      "Description": "Para los expertos de Espinof es una eficaz serie B, sin que esto sea algo malo porque ellos mismos aseguraban cuando se estrenó en 2023, que era “'más divertida que 'Avatar 2' en la mitad de tiempo”, y que cumplia con “el difícil arte perdido del cine para ve…",
+      "Url": "https://www.trendencias.com/cine/nadie-fue-al-cine-cuando-se-estreno-ahora-esta-pelicula-ciencia-ficcion-arrasa-netflix-razon",
+      "UrlToImage": "https://i.blogs.es/890854/pelicula-de-ciencia-ficcion-arrasa-en-netflix/840_560.jpeg",
+      "PublishedAt": "2025-01-18T11:01:30Z",
+      "Content": "Para los expertos de Espinof es una eficaz serie B, sin que esto sea algo malo porque ellos mismos aseguraban cuando se estrenó en 2023, que era 'más divertida que 'Avatar 2' en la mitad de tiempo, y… [+2280 chars]"
     },
     {
       "Source": {
@@ -353,45 +392,6 @@
       "UrlToImage": "https://www.sopitas.com/wp-content/uploads/2025/01/severance-segunda-temporada-cinematica-resena.jpg",
       "PublishedAt": "2025-01-17T18:12:48Z",
       "Content": "Una de las series más impresionantes de los últimos años está de regreso: Severance. Como parte de las producciones originales de Apple TV+, esta producción de Dan Erickson en colaboración con Ben St… [+2615 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "La serie de Netflix a la que le queda poco en el catálogo de la plataforma: un fenómeno mediático que marcó generaciones",
-      "Description": "Netflix cuenta con un amplio catálogo de series. Dentro de su oferta figuran títulos muy populares, como 'Stranger things', 'Los Bridgerton' o 'El juego del calamar' . En las últimas semanas, además, la plataforma ha incorporado algunas ficciones nuevas como …",
-      "Url": "https://www.abc.es/play/series/serie-netflix-queda-poco-catalogo-plataforma-fenomeno-20250117190000-nt.html",
-      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2025/01/17/AAAABU6OWbj4BOn-jvsZo-bpxlzg-9V9frRWo6xIZjgI_tSTRycRf89AFywDEHlBwFHwBFxPRa0lnFnCF7xLsCqkFc3pmrrMvQz0WiES-k0mE-U70120380245SHE-1200x840@diario_abc.jpg",
-      "PublishedAt": "2025-01-17T18:00:00Z",
-      "Content": "Netflix cuenta con un amplio catálogo de series. Dentro de su oferta figuran títulos muy populares, como 'Stranger things', 'Los Bridgerton' o 'El juego del calamar'. En las últimas semanas, además, … [+2722 chars]"
-    },
-    {
-      "Source": {
-        "Id": "la-nacion",
-        "Name": "La Nacion"
-      },
-      "Author": "LA NACION",
-      "Title": "Envidiosa presentó el desopilante tráiler de la segunda temporada que llega a Netflix",
-      "Description": "Las primeras imágenes de los siguientes capítulos y la fecha de estreno de la serie protagonizada por Griselda Siciliani ya salieron a la luz; esta nota puede contener spoilers",
-      "Url": "https://www.lanacion.com.ar/espectaculos/envidiosa-presento-el-desopilante-trailer-de-la-segunda-temporada-que-llega-a-netflix-nid17012025/",
-      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/ya-salio-a-la-luz-el-trailer-de-la-segunda-544XRLAXQZBXRFMQAO7VMOY474.jpg?auth=441ec51640e1780420c5c50bef16338271e04f63682ad6a12b87f5b9175df5f7&width=1200&quality=70&smart=false&height=800",
-      "PublishedAt": "2025-01-17T17:53:07Z",
-      "Content": "Sin dudas, Envidiosa se consolidó como uno de los grandes éxitos del año. La serie, protagonizada por Griselda Siciliani, bajo la dirección de Gabriel Medina y con guion de Carolina Aguirre, rápidame… [+2988 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "Creo que 'De vuelta a la acción' va a arrasar en Netflix pero no se lo merece. Cameron Diaz y Jamie Foxx dignifican una película que es mero contenido",
-      "Description": "Hace poco se supo gracias a un artículo de N+1 Magazine que Netflix pide a los guionistas que los personajes anuncien lo que están haciendo para que los espectadores que simplemente lo tienen de fondo se enteren de lo que sucede. Una nueva demostración de que…",
-      "Url": "https://www.espinof.com/criticas/creo-que-vuelta-a-accion-va-a-arrasar-netflix-no-se-merece-cameron-diaz-jamie-foxx-dignifican-pelicula-que-mero-contenido",
-      "UrlToImage": "https://i.blogs.es/aa2e8d/de-vuelta-a-la-accion/840_560.jpeg",
-      "PublishedAt": "2025-01-17T17:31:30Z",
-      "Content": "Hace poco se supo gracias a un artículo de N+1 Magazine que Netflix pide a los guionistas que los personajes anuncien lo que están haciendo para que los espectadores que simplemente lo tienen de fond… [+4360 chars]"
     }
   ]
 }
