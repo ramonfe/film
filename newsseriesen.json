@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 63,
+  "TotalResults": 64,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComingSoon.net"
+      },
+      "Author": "Maggie Dela Paz",
+      "Title": "Running Point Release Date Set for Kate Hudson Netflix Show",
+      "Description": "Netflix has announced the Running Point release date for the upcoming basketball comedy series led by Golden Globe winner Kate Hudson. This marks Hudson’s first major TV project as the solo lead, after previously appearing in shows like Glee and Truth Be Told…",
+      "Url": "https://www.comingsoon.net/tv/news/1908729-running-point-release-date-set-kate-hudson-netflix-show",
+      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/01/RunningPoint-7-3.jpg?resize=1200,630",
+      "PublishedAt": "2025-01-21T22:09:32Z",
+      "Content": "Netflix has announced the Running Point release date for the upcoming basketball comedy series led by Golden Globe winner Kate Hudson. This marks Hudsons first major TV project as the solo lead, afte… [+1202 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,19 +366,6 @@
       "UrlToImage": "https://biztoc.com/cdn/a0f1037c65dec6e7_s.webp",
       "PublishedAt": "2025-01-07T08:20:56Z",
       "Content": "Why Netflix spent billions for WWELast night, after years on cable, WWE's flagship show, Monday Night Raw, made its debut on Netflix. It's another example of live sports programming making the move t… [+139 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "NPR"
-      },
-      "Author": "Adrian Ma",
-      "Title": "Why Netflix spent billions for WWE",
-      "Description": "Last night, after years on cable, WWE's flagship show, Monday Night Raw, made its debut on Netflix. It's another example of live sports programming making the move to streaming as more people abandon cable television. Today on the show, we talk to a TV analys…",
-      "Url": "https://www.npr.org/2025/01/07/1223358002/the-indicator-from-planet-money-why-netflix-spent-billions-for-wwe-01-07-2025",
-      "UrlToImage": "https://media.npr.org/assets/img/2025/01/06/show-artwork_wide-921955e8082e37845e4d20eb0a63532e79a2b21f.jpg?s=1400&c=100&f=jpeg",
-      "PublishedAt": "2025-01-07T08:00:59Z",
-      "Content": "Last night, after years on cable, WWE's flagship show, Monday Night Raw, made its debut on Netflix. It's another example of live sports programming making the move to streaming as more people abandon… [+414 chars]"
     }
   ]
 }
