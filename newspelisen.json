@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 566,
+  "TotalResults": 567,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Mac Observer"
+      },
+      "Author": "Devesh Beri",
+      "Title": "Apple Seeds RC of watchOS 11.3, tvOS 18.3 and visionOS 2.3",
+      "Description": "Apple has released the Release Candidate (RC) versions of watchOS 11.3, tvOS 18.3, and visionOS 2.3 to developers for testing purposes. These RC builds come approximately one week after the third beta versions were made available.\n\n\n\nThe RC versions, which ar…",
+      "Url": "https://www.macobserver.com/news/apple-seeds-rc-of-watchos-11-3-tvos-18-3-and-visionos-2-3/",
+      "UrlToImage": "https://www.macobserver.com/wp-content/uploads/2024/12/watchOS-112-Features-December-2024-Featured.png",
+      "PublishedAt": "2025-01-22T05:33:08Z",
+      "Content": "Apple has released the Release Candidate (RC) versions of watchOS 11.3, tvOS 18.3, and visionOS 2.3 to developers for testing purposes. These RC builds come approximately one week after the third bet… [+982 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/01/Last-Week-Tonight-with-John-Oliver-Season-12.jpg?resize=1200,630",
       "PublishedAt": "2025-01-21T13:13:28Z",
       "Content": "The release date of Last Week Tonight with John Oliver Season 12 has been confirmed. The series originally premiered on HBO on April 27, 2014. Later, the episodes began streaming on Max. In December … [+1640 chars]"
-    },
-    {
-      "Source": {
-        "Id": "the-times-of-india",
-        "Name": "The Times of India"
-      },
-      "Author": "ET Online",
-      "Title": "Marco OTT release could get delayed. Here is an update about blockbuster Malayalam movie",
-      "Description": "Marco OTT : Unni Mukundan's Marco achieves an unprecedented milestone as the first A-rated Malayalam film to surpass Rs 100 crore at the global box office. Following remarkable success in multiple languages, its Kannada release is due soon. A sequel is confir…",
-      "Url": "https://economictimes.indiatimes.com/magazines/panache/marco-ott-release-could-get-delayed-here-is-an-update-about-blockbuster-malayalam-movie/articleshow/117423265.cms",
-      "UrlToImage": "https://img.etimg.com/thumb/msid-117423774,width-1200,height-630,imgsize-82748,overlay-etpanache/articleshow.jpg",
-      "PublishedAt": "2025-01-21T09:22:12Z",
-      "Content": "Unni Mukundans Marco has made box-office history to become the first A-rated Malayalam movie to cross the Rs 100 crore milestone at the global box office. Released on December 20, 2024, the film's co… [+3367 chars]"
     }
   ]
 }
