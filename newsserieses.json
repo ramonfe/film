@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 966,
+  "TotalResults": 967,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "El País (Uruguay)",
+      "Title": "Protagonizó una serie infantil cuando era chico y ahora es el actor principal de la película más vista de Netflix",
+      "Description": "El actor Gabriel Basso regresa como Peter Sutherland en la segunda temporada de “El agente nocturno”, uno de los grandes éxitos de la más grande del streaming",
+      "Url": "https://www.lanacion.com.ar/espectaculos/protagonizo-una-serie-infantil-cuando-era-chico-y-ahora-es-el-actor-principal-de-la-pelicula-mas-nid24012025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/gabriel-basso-regresa-como-peter-sutherland-en-la-FKC6L7MTKNH2PNWDWTSATWXAXU.jpg?auth=4225568e22add366c5f2d944fa1691186c00fbe374d3e9372d308dcf658d13f0&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-01-24T23:50:10Z",
+      "Content": "Comenzó a actuar cuando era un niño. Fue parte del elenco de la tira juvenil iCarly (Nickelodeon), integró la pandilla que, al filmar una película, termina registrando un extraño descarrilamiento en … [+3058 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/estilo/2025/01/24/camille-razat-U06162618777DGb-1024x512@diario_abc.jpg",
       "PublishedAt": "2025-01-24T07:07:34Z",
       "Content": "'Emily in Paris' es una de las series más exitosas de los últimos años y una de las favoritas de todos los tiempos, con permiso de 'Sexo en Nueva York' (detrás de ambas está el productor Darren Star)… [+3213 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "La vida personal de Eva Martín, la Marquesa de Luján en 'La Promesa': su papel con Almodóvar, su edad y su faceta como cantante",
-      "Description": "' La Promesa ' es la reina de las tardes en televisión, tal como prueban sus buenos datos de audiencia y el reconocimiento que recibió la telenovela a finales de 2024: el Premio Emmy a Mejor Telenovela . La serie de Televisión Española de La 1 parte de un dra…",
-      "Url": "https://www.abc.es/gente/vida-personal-eva-martin-marquesa-lujan-promesa-20250124080000-nt.html",
-      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2025/01/24/evamartin-lapromesa-kgpF-U7015125379842B-1200x840@diario_abc.jpg",
-      "PublishedAt": "2025-01-24T07:00:00Z",
-      "Content": "'La Promesa' es la reina de las tardes en televisión, tal como prueban sus buenos datos de audiencia y el reconocimiento que recibió la telenovela a finales de 2024: el Premio Emmy a Mejor Telenovela… [+3653 chars]"
     }
   ]
 }
