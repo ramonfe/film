@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 950,
+  "TotalResults": 951,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "B. Moreno",
+      "Title": "¿Preparado para despedirte de 'Valeria? Netflix descubre cómo será el adiós de estas cuatro amigas",
+      "Description": "El 14 de febrero llega a Netflix la cuarta y última temporada de la  serie",
+      "Url": "https://www.hola.com/actualidad/20250124763054/valeria-netflix-descubre-como-sera-el-adios-de-estas-cuatro-amigas/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/38f2dae7269e-valerias04e0305032024felipehernandezdscf6138.jpg?im=Resize=(1200)",
+      "PublishedAt": "2025-01-24T06:46:37Z",
+      "Content": "El 14 de febrero tienes una cita muy especial, no solo por ser San Valentín, sino porque llega a NetflixValeria. La exitosa serie, basada en las novelas de Elísabeth Benavent, estrena su cuarta y últ… [+4330 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2025/01/Invencible.jpg",
       "PublishedAt": "2025-01-23T09:35:56Z",
       "Content": "La tercera temporada de Invencible llegará a Amazon Prime Video en apenas unas semanas. Los nuevos episodios de la exitosa serie de animación para adultos continuarán expandiendo el rico universo de … [+2505 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ELLE.com"
-      },
-      "Author": "Begoña Alonso",
-      "Title": "Solo tienes 8 días para verla: esta adictiva serie de intriga española de Jose Coronado está a punto de abandonar Netflix",
-      "Description": "Una de las mejores series españolas de los últimos años, adictiva y muy bien interpretada, se marcha a finales de mes de Netflix. Esta es tu última oportunidad.",
-      "Url": "https://www.elle.com/es/living/ocio-cultura/a63509027/vivir-sin-permiso-jose-coronado-serie-se-va-de-netflix/",
-      "UrlToImage": "https://hips.hearstapps.com/hmg-prod/images/vivir-sin-permiso-67911240af400.jpg?crop=1xw:0.8897590361445783xh;center,top&resize=1200:*",
-      "PublishedAt": "2025-01-23T08:00:00Z",
-      "Content": "Si buscas una buena serie, un drama criminal con tintes de 'thriller' que además aúne una historia familiar de aúpa, tenemos una recomendación para ti que no te va a decepcionar... pero que te tienes… [+3270 chars]"
     }
   ]
 }
