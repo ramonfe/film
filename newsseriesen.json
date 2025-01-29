@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 71,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "How to stream video on Fire TV with a VPN",
+      "Description": "Amazon\nRoku, Apple TV and Google TV (aka Chromecast) are all worthwhile streaming platforms. Each of them lets you view thousands of movies and TV shows on major apps like Disney+ and Netflix. And seeing all your favorites on a big-screen TV is way better tha…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=176058619",
+      "UrlToImage": null,
+      "PublishedAt": "2025-01-28T00:52:07Z",
+      "Content": "Roku, Apple TV and Google TV (aka Chromecast) are all worthwhile streaming platforms. Each of them lets you view thousands of movies and TV shows on major apps like Disney+ and Netflix. And seeing al… [+3382 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +379,6 @@
       "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2025/01/youtubetvhome.jpg?quality=50&strip=all&w=1024",
       "PublishedAt": "2025-01-15T20:54:43Z",
       "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nIf YouTube TV’s late… [+9685 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Ishita Verma",
-      "Title": "Severance Season 2’s Adam Scott & Cast Shock Grand Central Station With Pop-up",
-      "Description": "Adam Scott and the other cast members of the upcoming Apple TV+ show Severance Season 2 recently surprised audiences at New York’s Grand Central station with a pop-up. Like its predecessor, the sophomore installment of the sci-fi psychological thriller series…",
-      "Url": "https://www.comingsoon.net/tv/news/1905640-severance-season-2-adam-scott-cast-nyc-grand-central",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/01/MixCollage-15-Jan-2025-10-55-PM-8857.jpg?resize=1200,630",
-      "PublishedAt": "2025-01-15T17:28:33Z",
-      "Content": "Adam Scott and the other cast members of the upcoming Apple TV+ show Severance Season 2 recently surprised audiences at New Yorks Grand Central station with a pop-up. Like its predecessor, the sophom… [+1629 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "The new Witcher animated film finally has a legit trailer",
-      "Description": "We’ve been hearing about the latest animated movie based on The Witcher franchise for a while now, but we’ve only ever gotten a short teaser and an equally short clip. Now, finally, there’s a legit full-fledged trailer. This is opportune timing, as The Witche…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=175908405",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-14T20:13:21Z",
-      "Content": "We’ve been hearing about the latest animated movie based on The Witcher franchise for a while now, but we’ve only ever gotten a short teaser and an equally short clip. Now, finally, there’s a legit f… [+1766 chars]"
     }
   ]
 }
