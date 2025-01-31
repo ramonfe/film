@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "GameSpot"
+      },
+      "Author": "Jason Fanelli",
+      "Title": "WWE And Netflix Games Tag Team To Bring WWE 2K To Mobile",
+      "Description": "Earlier this month, WWE Raw--the weekly flagship show for the largest professional wrestling company in the world--made the switch from traditional TV to weekly streaming on Netflix. Today, the two companies announced the next chapter in their partnership, wh…",
+      "Url": "https://www.gamespot.com/articles/wwe-and-netflix-games-tag-team-to-bring-wwe-2k-to-mobile/1100-6529143/",
+      "UrlToImage": "https://www.gamespot.com/a/uploads/original/3/37852/4436035-cmpunk.png",
+      "PublishedAt": "2025-01-30T14:00:00Z",
+      "Content": "Earlier this month, WWE Raw--the weekly flagship show for the largest professional wrestling company in the world--made the switch from traditional TV to weekly streaming on Netflix. Today, the two c… [+1192 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://www.soundandvision.com/images/SV_0125_rokuultra_2024.jpg",
       "PublishedAt": "2025-01-20T00:00:00Z",
       "Content": "PRICE $99 \r\nAT A GLANCEPlusExcellent Video Quality with Dolby Vision and HDR10+\r\nExcellent Dolby Atmos Sound Separation\r\nBacklit hands-free voice remote control with mute switch \r\nMinusNo headphone j… [+11009 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vulture"
-      },
-      "Author": "Alejandra Gularte",
-      "Title": "Christopher Walken Doesn’t Have the ‘Equipment’ to Stream Severance",
-      "Description": "It makes sense for Lumon to support physical media rather than streaming. Apple TV sends Christopher Walken DVD copies of Severance to watch because he doesn’t have the ‘equipment’ to stream the show.",
-      "Url": "http://www.vulture.com/article/christopher-walken-severance-dvd.html",
-      "UrlToImage": "https://pyxis.nymag.com/v1/imgs/02a/ed0/e21868ce3700f1744cc458c7f0597e42e7-severance.1x.rsocial.w1200.jpg",
-      "PublishedAt": "2025-01-18T17:30:39Z",
-      "Content": "Christopher Walken isnt fiddling around with the TV remote and trying to figure out how to type a long and complicated password using the arrow keys. Hes making Apple TV+ walk to the mail box to send… [+710 chars]"
     }
   ]
 }
