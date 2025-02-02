@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 227,
+  "TotalResults": 228,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Sello cordobés en la alfombra roja de los Premios Carmen de Cine Andaluz",
+      "Description": "Del vestido bordado de organza de la actriz cordobesa Macarena Gómez de la diseñadora Teresa Helbig al smoking de lentejuelas de la directora novel Paz Vega con su nominadísima película «Rita» pasando por la sobriedad del director de cine Benito Zambrano. La …",
+      "Url": "https://www.abc.es/espana/andalucia/cordoba/sello-cordobes-alfombra-roja-premios-carmen-cine-20250201230257-nts.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/02/01/gala-premios-carmen(47)-U44566710244ILz-1024x512@diario_abc.jpg",
+      "PublishedAt": "2025-02-01T22:12:07Z",
+      "Content": "Del vestido bordado de organza de la actriz cordobesa Macarena Gómez de la diseñadora Teresa Helbig al smoking de lentejuelas de la directora novel Paz Vega con su nominadísima película «Rita» pasand… [+4236 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/7c9efb/tarantino/840_560.jpeg",
       "PublishedAt": "2025-01-28T11:15:17Z",
       "Content": "Quentin Tarantino ha prometido en repetidas ocasiones que su próxima película será la última que dirija. Todo apuntaba a que ese honor iba a ser para 'The Movie Critic', pero ese proyecto fue finalme… [+2563 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Www.abc.es"
-      },
-      "Author": "(abc)",
-      "Title": "'Policán' conquista el cine y prepara un videojuego",
-      "Description": "Con más de 70 millones de libros vendidos en todo el mundo, de los cuales casi 2 millones han sido en España, la colección infantil de 'Policán' (SM) da el salto al cine de la mano de DreamWorks y prepara el próximo lanzamiento de su primer videojuego. Este m…",
-      "Url": "https://www.abc.es/cultura/polican-conquista-cine-prepara-videojuego-20250128084830-nt.html",
-      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/cultura/2025/01/27/polican-kWsC--1024x512@diario_abc.jpg",
-      "PublishedAt": "2025-01-28T07:49:18Z",
-      "Content": "Con más de 70 millones de libros vendidos en todo el mundo, de los cuales casi 2 millones han sido en España, la colección infantil de 'Policán' (SM) da el salto al cine de la mano de DreamWorks y pr… [+1067 chars]"
     }
   ]
 }
