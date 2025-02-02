@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 231,
+  "TotalResults": 232,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Cinemaldito.com"
+      },
+      "Author": "Cine maldito noticias",
+      "Title": "Primer trailer para la animada La petit cavale",
+      "Description": "Como cada año, el cine de animación continúa dejando perlas a tener en cuenta: de hecho, acabamos de terminar el primer mes de 2025, y en cartelera tenemos nada más …",
+      "Url": "https://www.cinemaldito.com/primer-trailer-para-la-animada-la-petit-cavale/",
+      "UrlToImage": "https://www.cinemaldito.com/wp-content/uploads/2025/02/La-petite-cavale-portada.jpg",
+      "PublishedAt": "2025-02-01T15:48:05Z",
+      "Content": "Como cada año, el cine de animación continúa dejando perlas a tener en cuenta: de hecho, acabamos de terminar el primer mes de 2025, y en cartelera tenemos nada más y nada menos que títulos como Memo… [+902 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2025/01/koo.jpg",
       "PublishedAt": "2025-01-28T01:09:07Z",
       "Content": "Hace un par de años se lanzó la película de Resident Evil Welcome to Raccoon City, cinta que a pesar de haber sido muy fiel al material original del videojuego, no logró realmente transmitir ese sent… [+1843 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Ricardo Cervantes Villegas",
-      "Title": "\"Aprendí la lección\": Autocinema Coyote se echa para atrás y NO transmitirá 'Emilia Pérez' ante queja de los usuarios",
-      "Description": "Tras el polémico estreno del filme 'Emilia Pérez', muchos usuarios han demostrado su inconformidad de que diversas cadenas de cines le den una gran publicidad y diversas salas de sus sucursales para transmitir la película, pues alrededor de la misma existe mu…",
-      "Url": "https://www.milenio.com/espectaculos/cine/autocinema-coyote-no-estrena-emilia-perez-tras-quejas-de-los-usuarios",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/01/27/autocinema-coyote-estrena-emilia-perez.jpg",
-      "PublishedAt": "2025-01-28T00:39:00Z",
-      "Content": "Tras el polémico estreno del filme 'Emilia Pérez', muchos usuarios han demostrado su inconformidad de que diversas cadenas de cines le den una gran publicidad y diversas salas de sus sucursales para … [+2397 chars]"
     }
   ]
 }
