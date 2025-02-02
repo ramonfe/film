@@ -1,8 +1,73 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 986,
+  "TotalResults": 991,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Gizmodo.com"
+      },
+      "Author": "Lucas Handley",
+      "Title": "Netflix cancela “Sandman” tras las acusaciones contra Neil Gaiman",
+      "Description": "La adaptación de la serie de cómics de fantasía de DC creada por Neil Gaiman concluirá con la próxima temporada 2, luego de que varias mujeres lo acusaran de conducta sexual inapropiada.",
+      "Url": "https://es.gizmodo.com/netflix-cancela-sandman-tras-las-acusaciones-contra-neil-gaiman-2000147062",
+      "UrlToImage": "https://es.gizmodo.com/app/uploads/2025/02/Diseno-sin-titulo-53.jpg",
+      "PublishedAt": "2025-02-01T13:15:48Z",
+      "Content": "Después de evitar discretamente la promoción de la serie tras una serie de acusaciones de acoso sexual contra el escritor y creador Neil Gaiman, Netflix ha anunciado que su adaptación de Sandman term… [+2826 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "5000 millones de dólares para esto. La gran apuesta de Netflix para 2025 se enfrenta hoy mismo a su gran prueba de fuego",
+      "Description": "Hace apenas unos días tuvo lugar una presentación de Netflix en la que la plataforma anunció algunas de sus grandes novedades para este 2025. Un detalle que me llamó la atención es que todo comenzó con unas palabras de Rhea Ripley y CM Punk, dos luchadores de…",
+      "Url": "https://www.espinof.com/deportes/5000-millones-dolares-para-esto-gran-apuesta-netflix-para-2025-se-enfrenta-hoy-a-su-gran-prueba-fuego",
+      "UrlToImage": "https://i.blogs.es/ddbd72/the-rock-raw/840_560.jpeg",
+      "PublishedAt": "2025-02-01T13:01:58Z",
+      "Content": "Hace apenas unos días tuvo lugar una presentación de Netflix en la que la plataforma anunció algunas de sus grandes novedades para este 2025. Un detalle que me llamó la atención es que todo comenzó c… [+5429 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Espinof.com"
+      },
+      "Author": "Mikel Zorrilla",
+      "Title": "Los hermanos Duffer tienen malas noticias para los fans de 'Stranger Things'. La temporada 5 y final de la serie de ciencia ficción no está tan cerca como parecía",
+      "Description": "Netflix había anunciado en múltiples ocasiones que la temporada 5 y final de 'Stranger Things' iba a estrenarse a lo largo de 2025. De hecho, la última vez que lo dijo fue esta misma semana, pero ahora parece que la cosa no está tan clara, pues los creadores …",
+      "Url": "https://www.espinof.com/netflix/hermanos-duffer-tienen-malas-noticias-para-fans-stranger-things-temporada-5-final-serie-ciencia-ficcion-no-esta-cerca-como-parecia",
+      "UrlToImage": "https://i.blogs.es/2eb54c/things-stranger/840_560.jpeg",
+      "PublishedAt": "2025-02-01T11:40:10Z",
+      "Content": "Netflix había anunciado en múltiples ocasiones que la temporada 5 y final de 'Stranger Things' iba a estrenarse a lo largo de 2025. De hecho, la última vez que lo dijo fue esta misma semana, pero aho… [+2126 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Milenio"
+      },
+      "Author": "David Streitfeld",
+      "Title": "Bill Gates. “Me involucraré con este gobierno lo mejor que pueda”",
+      "Description": "Mientras más envejece, más se sorprende Bill Gates de los giros que da el mundo. Por ejemplo, los multimillonarios. Ahora hay muchos de la industria tecnológica, bastantes con políticas que se inclinan enérgicamente hacia la derecha.“Siempre he pensado que Si…",
+      "Url": "https://www.milenio.com/internacional/bill-gates-me-involucrare-con-este-gobierno-lo-mejor-que-pueda",
+      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/02/01/empresario-escribe-infancia-exigencia-madre.jpeg",
+      "PublishedAt": "2025-02-01T10:31:00Z",
+      "Content": "Mientras más envejece, más se sorprende Bill Gates de los giros que da el mundo. Por ejemplo, los multimillonarios. Ahora hay muchos de la industria tecnológica, bastantes con políticas que se inclin… [+11110 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Fran Besora",
+      "Title": "La serie favorita de Stephen King es como \"From\" y resulta ciertamente claustrofóbica: la tienes en streaming",
+      "Description": "Si te gustan las series de terror y suspense al más puro estilo From, te traigo una estupenda recomendación para el fin de semana. Se trata de una miniserie de ocho capítulos que ha cautivado al mismísimo Stephen King, por lo que te podrás hacer una idea de q…",
+      "Url": "https://www.lavanguardia.com/andro4all/series/la-serie-favorita-de-stephen-king-es-como-from-y-resulta-ciertamente-claustrofobica-la-tienes-en-streaming",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2025/01/teacup-serie.jpeg?width=1200",
+      "PublishedAt": "2025-02-01T08:01:26Z",
+      "Content": "Esta serie la ha recomendado Stephen King y te volará el cerebro\r\nSi te gustan las series de terror y suspense al más puro estilo From, te traigo una estupenda recomendación para el fin de semana. Se… [+2917 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -327,71 +392,6 @@
       "UrlToImage": "https://i.blogs.es/3dc718/netfilx-1-/840_560.jpeg",
       "PublishedAt": "2025-01-31T13:14:01Z",
       "Content": "Netflix simplificó la forma en que los usuarios de iPhone y iPad pueden descargar temporadas completas de sus series favoritas. A partir de ahora, ya no es necesario descargar los episodios uno por u… [+1327 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "La Vanguardia"
-      },
-      "Author": "Silvia Fernández",
-      "Title": "No estás listo para lo nuevo de Netflix: estos son los 63 estrenos que van a llegar a la plataforma en 2025",
-      "Description": "Netflix sí que sabe montárselo bien. El miércoles pasado, la mayor plataforma de streaming a nivel mundial reunió a prensa, influencers y celebridades del mundo del entretenimiento, el deporte y la música en El Beatriz, el mismo espacio que acogió los Premios…",
-      "Url": "https://www.lavanguardia.com/andro4all/series/no-estas-listo-para-lo-nuevo-de-netflix-estos-son-los-63-estrenos-que-van-a-llegar-a-la-plataforma-en-2025",
-      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2025/01/portada-next-on-netflix.png?width=1200",
-      "PublishedAt": "2025-01-31T13:14:01Z",
-      "Content": "La entrada al evento 'Next on Netflix', celebrado en Madrid, al que Andro4all tuvo el placer de acudir el pasado miércoles\r\nNetflix sí que sabe montárselo bien. El miércoles pasado, la mayor platafor… [+8047 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Mundodeportivo.com"
-      },
-      "Author": "Anna Martín Oliveras",
-      "Title": "Lleva un día en Netflix y ya es Top 5: esta exitosa serie ha vuelto con una nueva temporada",
-      "Description": "Las plataformas de contenido en 'streaming' como Netflix, Max o Prime Video siguen ampliando semanalmente su catálogo de series, películas y programas. Sus nuevas propuestas llegan a diario y, a menudo, suelen colarse en el Top de lo más visto con facilidad. …",
-      "Url": "https://www.mundodeportivo.com/elotromundo/television/20250131/1002398262/lleva-dia-netflix-top-5-exitosa-serie-vuelto-nueva-temporada-tvp-dct.html",
-      "UrlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2025/01/31/679cc9fa5aee3.jpeg",
-      "PublishedAt": "2025-01-31T13:09:59Z",
-      "Content": "Las plataformas de contenido en 'streaming' como Netflix, Max o Prime Video siguen ampliando semanalmente su catálogo de series, películas y programas. Sus nuevas propuestas llegan a diario y, a menu… [+1321 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Applesfera.com"
-      },
-      "Author": "Álvaro García M.",
-      "Title": "Después de Matrix, las hermanas Wachowski quisieron hacer historia con esta película de ciencia ficción. Hasta los actores olieron el fracaso antes del rodaje",
-      "Description": "El género de ciencia ficción con extraterrestres está muy visto y el listón muy alto con sagas como 'Alien' o 'Predator' y, si nos apuras, incluso con títulos como 'E.T el extraterrestre'. De ahí que quien quiera hacer una apuesta por ello deba tener bien ata…",
-      "Url": "https://www.applesfera.com/servicios-apple/despues-matrix-hermanas-wachowski-quisieron-hacer-historia-esta-pelicula-ciencia-ficcion-actores-olieron-fracaso-antes-rodaje",
-      "UrlToImage": "https://i.blogs.es/cedc4d/warner/840_560.jpeg",
-      "PublishedAt": "2025-01-31T13:01:58Z",
-      "Content": "El género de ciencia ficción con extraterrestres está muy visto y el listón muy alto con sagas como 'Alien' o 'Predator' y, si nos apuras, incluso con títulos como 'E.T el extraterrestre'. De ahí que… [+4598 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "4 años después, vuelve la mejor saga de películas original de Netflix con el director de una joya oculta de la plataforma",
-      "Description": "Netflix tiene muchas películas originales, pero, siendo justos, la mayoría de ellas no merece demasiado la pena. Sin embargo, la plataforma también tiene unas cuantas que merece rescatar y en 2021 estrenó una trilogía que sigue estando entre sus mejores produ…",
-      "Url": "https://www.espinof.com/netflix/4-anos-despues-vuelve-mejor-saga-peliculas-original-netflix-director-joya-oculta-plataforma",
-      "UrlToImage": "https://i.blogs.es/986c8a/la-calle-miedo/840_560.jpeg",
-      "PublishedAt": "2025-01-31T12:15:57Z",
-      "Content": "Netflix tiene muchas películas originales, pero, siendo justos, la mayoría de ellas no merece demasiado la pena. Sin embargo, la plataforma también tiene unas cuantas que merece rescatar y en 2021 es… [+1976 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "Jokin Castellón mostró y respondió en 'Conspiranoicos' a las amenazas del líder de Desokupa: “No tenemos miedo\"",
-      "Description": "El presentador de laSexta algunos de los insultos y amenazas que recibe \"de forma semanal\" por parte de Daniel Esteve. \"Cierto cariño puede haber, pero no es mutua\", dijo con sorna Castellón tras leer algunos de estos mensajes\r\nCrítica - 'La chica de nieve' c…",
-      "Url": "https://www.eldiario.es/vertele/noticias/jokin-castellon-mostro-respondio-conspiranoicos-amenazas-lider-desokupa-no-miedo_1_12008994.html",
-      "UrlToImage": "https://static.eldiario.es/clip/83bfb872-ec84-43e9-b817-3505dd2be48c_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2025-01-31T10:50:27Z",
-      "Content": "Jokin Castellón mostró este jueves en Conspiranoicos algunos de los muchos mensajes amenazantes y despectivos que Daniel Esteve le ha dedicado en los últimos meses. El presentador de laSexta los most… [+5246 chars]"
     }
   ]
 }

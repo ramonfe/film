@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 87,
+  "TotalResults": 88,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "TVLine"
+      },
+      "Author": "Nick Caruso",
+      "Title": "Home Improvement on Netflix, WWE Royal Rumble, Lisa Lisa Biopic and More",
+      "Description": "On TV this Saturday: Home Improvement hits Netflix, Lisa Lisa gets a Lifetime biopic, and Cody Rhodes and Kevin Owens face off in WWE’s Royal Rumble. Here are 10 programs to keep on your radar. (Also check out our weekly TVLine-Up of premieres and finales, ou…",
+      "Url": "https://tvline.com/what-to-watch/home-improvement-tim-allen-complete-series-netflix/",
+      "UrlToImage": "https://tvline.com/wp-content/uploads/2025/01/home-improvement-netflix.jpg?w=650",
+      "PublishedAt": "2025-02-01T12:00:00Z",
+      "Content": "On TV this Saturday: Home Improvement hits Netflix, Lisa Lisa gets a Lifetime biopic, and Cody Rhodes and Kevin Owens face off in WWE’s Royal Rumble. Here are 10 programs to keep on your radar. (Also… [+1508 chars]"
+    },
     {
       "Source": {
         "Id": "polygon",
@@ -366,19 +379,6 @@
       "UrlToImage": "https://tvline.com/wp-content/uploads/2025/01/saturday-night-netflix.jpg?w=650",
       "PublishedAt": "2025-01-25T12:00:00Z",
       "Content": "On TV this Saturday: Timothée Chalamet pulls double duty on SNL, CNN debuts its Kobe Bryant docuseries and Saturday Night streams on Netflix. Here are 10 programs to keep on your radar. (Also check o… [+1798 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "Netflix's push into gaming will add party and couch co-op",
-      "Description": "Netflix's co-chief executive officer Gregory Peters said that the company has made some \"good early progress\" since it launched games during a call for the streaming service's Q4 2024 earnings. He also mentioned the company's plans for the future of gaming on…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=176032003",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-24T14:33:29Z",
-      "Content": "Netflix's co-chief executive officer Gregory Peters said that the company has made some \"good early progress\" since it launched games during a call for the streaming service's Q4 2024 earnings. He al… [+1617 chars]"
     }
   ]
 }
