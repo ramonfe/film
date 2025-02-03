@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 984,
+  "TotalResults": 985,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "La Vanguardia"
+      },
+      "Author": "Silvia Fernández",
+      "Title": "Esta es, para mí, la mejor serie de la historia. No la cambiaría por nada del mundo y todavía sigue siendo perfecta",
+      "Description": "Todos tenemos una película o una serie que nos ha marcado, y en mi caso es la obra maestra de J.J. Abrams, que acaba de celebrar su 20º aniversario. Esta serie, cuya trama gira en torno a un grupo de supervivientes de un vuelo, marcó un antes y un después en …",
+      "Url": "https://www.lavanguardia.com/andro4all/series/esta-es-para-mi-la-mejor-serie-de-la-historia-no-la-cambiaria-por-nada-del-mundo-y-todavia-sigue-siendo-perfecta",
+      "UrlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/ojo-de-jack-en-perdidos-lost.jpg?width=1200",
+      "PublishedAt": "2025-02-02T16:30:42Z",
+      "Content": "La serie comienza con el ojo de Jack Shepard, interpretado por Matthew Fox\r\nTodos tenemos una película o una serie que nos ha marcado, y en mi caso es la obra maestra de J.J. Abrams, que acaba de cel… [+3395 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -19,19 +32,6 @@
     {
       "Source": {
         "Id": null,
-        "Name": "Xataka.com"
-      },
-      "Author": "John Tones",
-      "Title": "Esta serie de aires western ha sido aclamada por su apabullante calidad, y al fin llega a Netflix y Prime Video",
-      "Description": "Es una de las series más unánimemente aclamadas de los últimos tiempos, pero en España partía de un considerable obstáculo: puedes ver 'Yellowstone' en SkyShowtime, pero la penetración de la plataforma entre el público es indudablemente menor al de otras plat…",
-      "Url": "https://www.xataka.com/streaming/esta-serie-aires-western-ha-sido-aclamada-su-apabullante-calidad-al-fin-llega-a-netflix-prime-video",
-      "UrlToImage": "https://i.blogs.es/c4a4ef/captura-de-pantalla-2025-01-31-a-las-18.34.08/840_560.jpeg",
-      "PublishedAt": "2025-02-02T15:01:58Z",
-      "Content": "Es una de las series más unánimemente aclamadas de los últimos tiempos, pero en España partía de un considerable obstáculo: puedes ver 'Yellowstone' en SkyShowtime, pero la penetración de la platafor… [+1985 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
         "Name": "Espinof.com"
       },
       "Author": "Albertini",
@@ -41,6 +41,19 @@
       "UrlToImage": "https://i.blogs.es/a9f568/monty-python-conquers-america/840_560.jpeg",
       "PublishedAt": "2025-02-02T15:01:58Z",
       "Content": "Al contrario de lo que pasó años antes con The Beatles, el aterrizaje de una troupe tan mítica de la comedia como los Monty Python en Estados Unidos tuvo más de uno y dos contratiempos. De hecho, a l… [+3218 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Xataka.com"
+      },
+      "Author": "John Tones",
+      "Title": "Esta serie de aires western ha sido aclamada por su apabullante calidad, y al fin llega a Netflix y Prime Video",
+      "Description": "Es una de las series más unánimemente aclamadas de los últimos tiempos, pero en España partía de un considerable obstáculo: puedes ver 'Yellowstone' en SkyShowtime, pero la penetración de la plataforma entre el público es indudablemente menor al de otras plat…",
+      "Url": "https://www.xataka.com/streaming/esta-serie-aires-western-ha-sido-aclamada-su-apabullante-calidad-al-fin-llega-a-netflix-prime-video",
+      "UrlToImage": "https://i.blogs.es/c4a4ef/captura-de-pantalla-2025-01-31-a-las-18.34.08/840_560.jpeg",
+      "PublishedAt": "2025-02-02T15:01:58Z",
+      "Content": "Es una de las series más unánimemente aclamadas de los últimos tiempos, pero en España partía de un considerable obstáculo: puedes ver 'Yellowstone' en SkyShowtime, pero la penetración de la platafor… [+1985 chars]"
     },
     {
       "Source": {
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/13b004/vix-atres/840_560.jpeg",
       "PublishedAt": "2025-01-31T23:47:40Z",
       "Content": "Atresplayer, el servicio de streaming de Atresmedia, ha dado un golpe sobre la mesa y ha integrado el contenido de ViX en el servicio. Se trata de una alianza que llevará miles de horas de contenido … [+2401 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Mikel Zorrilla",
-      "Title": "Netflix acaba de cancelar 'Sandman' sin contemplaciones. La temporada 2 será la última de la serie de fantasía basada en el cómic de Neil Gaiman",
-      "Description": "Netflix ha tomado la decisión de que la temporada 2 de 'Sandman' sea la última de la serie. Desde la plataforma prefieren decir que la próxima tanda de episodios será la última y su showrunner Allan Heinberg ha querido dar una explicación al respecto, pero la…",
-      "Url": "https://www.espinof.com/series-de-ficcion/netflix-acaba-de-cancelar-sandman-sin-contemplaciones-la-temporada-2-sera-la-ultima-de-la-serie-de-fantasia-basada-en-el-comic-de-neil-gaiman",
-      "UrlToImage": "https://i.blogs.es/149ff2/sandman-netflix/840_560.jpeg",
-      "PublishedAt": "2025-01-31T23:12:04Z",
-      "Content": "Netflix ha tomado la decisión de que la temporada 2 de 'Sandman' sea la última de la serie. Desde la plataforma prefieren decir que la próxima tanda de episodios será la última y su showrunner Allan … [+1644 chars]"
     }
   ]
 }
