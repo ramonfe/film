@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 83,
+  "TotalResults": 84,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hicks.design"
+      },
+      "Author": null,
+      "Title": "My perfect Music app doesn’t exist",
+      "Description": "Music streaming apps leave me wanting. \nWhile I collect albums both physically (Vinyl + CD) and digitally (from Bandcamp), there are still missing pieces that streaming services provide: discovering new music, sharing playlists and seeing what friends are pla…",
+      "Url": "https://hicks.design/journal/my-perfect-music-app-doesnt-exist",
+      "UrlToImage": "https://hicks.design/media/pages/journal/my-perfect-music-app-doesnt-exist/998f68a874-1738585592/Hayden.webp",
+      "PublishedAt": "2025-02-03T11:00:00Z",
+      "Content": "A long dive into the features that make my ideal music app, and why nothing currently fulfils the brief.\r\nMusic streaming apps leave me wanting. \r\nWhile I collect albums both physically (Vinyl + CD) … [+19057 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/01/download-46.jpg?resize=1200,630",
       "PublishedAt": "2025-01-27T18:46:46Z",
       "Content": "Jeremy Allen White has been cast in Enigma Variations, a new Netflix limited series that adapts André Acimans novel of the same name.\r\nAciman is known for writing 2007s Call Me by Your Name, which di… [+1558 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "HuffPost"
-      },
-      "Author": "Caroline Bologna",
-      "Title": "This Political Thriller Is The Top Show On Netflix Right Now",
-      "Description": "A shocking docuseries and a court show are also among the series trending across streaming services including Amazon Prime Video, Max and Apple TV+.",
-      "Url": "https://www.huffpost.com/entry/the-night-agent-popular-netflix-shows_n_679702ebe4b0e33f6ee62816",
-      "UrlToImage": "https://img.huffingtonpost.com/asset/67971ca01a000016009f09dd.jpg?cache=lOBy9cpAuV&ops=1200_630",
-      "PublishedAt": "2025-01-27T14:51:27Z",
-      "Content": "The Night Agent is currently the most popular show on Netflix, according to the platforms public ranking system.\r\nBased on a 2019 novel by Matthew Quirk, the political thriller tells the story of an … [+1944 chars]"
     }
   ]
 }
