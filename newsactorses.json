@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1313,
+  "TotalResults": 1314,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "El divertido video de Envidiosa que incluyó la participación de Dibu Martínez: “Mirá que te cobro, hermano”",
+      "Description": "El arquero campeón del mundo se puso en “modo actor” y protagonizó un clip para promocionar la segunda temporada de la serie que acaba de desembarcar en Netflix",
+      "Url": "https://www.lanacion.com.ar/espectaculos/el-divertido-video-de-envidiosa-que-incluyo-la-participacion-de-dibu-martinez-mira-que-te-cobro-nid05022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/dibu-martinez-fue-actor-por-un-dia-y-protagonizo-3PIHSZSQXFDKVGXPK6EHXQOT5M.jpg?auth=1db0483a31b5773c9ff3eb8d07544b28da1fb12f8cb6228e282de9070e41f5fb&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-05T18:45:23Z",
+      "Content": "Es oficial: la segunda temporada de Envidiosa llegó a Netflix. Este miércoles la plataforma de streaming agregó once nuevos episodios de la serie argentina protagonizada por Griselda Siciliani. Mient… [+3643 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://e00-xlk-ue-marca.uecdn.es/files/phantom_desktop_1200w/uploads/2025/02/04/67a25f4261602.jpeg",
       "PublishedAt": "2025-02-05T05:10:53Z",
       "Content": "Del volante a la gran pantalla. Esteban Ocon ha dejado de lado su monoplaza para debutar como un actor de película. En una de las nuevas producciones que presentó Netflix para este mes, lo que más de… [+1498 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Ricardo Cervantes Villegas",
-      "Title": "¿Quién es Bárbara Mori, protagonista de 'Los dos hemisferios de Lucca'?",
-      "Description": "La cinta de 'Los dos hemisferios de Lucca' ha logrado ser un fenómeno nacional, pues la exitosa película ha estado dentro de los filmes más vistos de las últimas semanas en la plataforma de Netflix, esto gracias a la profunda historia que narra el proyecto.Es…",
-      "Url": "https://www.milenio.com/espectaculos/television/barbara-mori-quien-es-la-actriz-de-los-dos-hemisferios-de-lucca",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/02/04/barbara-mori-actriz-hemisferios-lucca.jpg",
-      "PublishedAt": "2025-02-05T03:00:00Z",
-      "Content": "La cinta de 'Los dos hemisferios de Lucca' ha logrado ser un fenómeno nacional, pues la exitosa película ha estado dentro de los filmes más vistos de las últimas semanas en la plataforma de Netflix, … [+2295 chars]"
     }
   ]
 }
