@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 955,
+  "TotalResults": 956,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": "LA NACION",
+      "Title": "Netflix: la guionista de Envidiosa reveló cuál es su personaje favorito y si habrá o no otra temporada",
+      "Description": "Carolina Aguirre dio algunos datos de la exitosa serie, la cual acaba de desembarcar con su segunda entrega en la plataforma de streaming",
+      "Url": "https://www.lanacion.com.ar/espectaculos/netflix-la-guionista-de-envidiosa-revelo-cual-es-su-personaje-favorito-y-si-habra-o-no-otra-nid05022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/carolina-aguirre-la-guionista-de-envidiosa-revelo-BKJ2QU5Y4NEABEI3R6XOZJ5WJM.png?auth=c89e124eedf5b2301ce9ea27124f37ac557e22728de336fb41a659f551efdec5&width=1200&quality=70&smart=false&height=847",
+      "PublishedAt": "2025-02-05T14:01:37Z",
+      "Content": "Sin duda alguna Envidiosa, la serie deNetflix protagonizada por Griselda Siciliani se convirtió en uno de los mayores éxitos del streaming. El público pidió una segunda temporada y sus deseos se cump… [+3655 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/ab48ba/serie-western-netflix-1/840_560.png",
       "PublishedAt": "2025-02-04T21:58:51Z",
       "Content": "El género de películas western es uno de los más populares en el cine, tanto en Estados Unidos como en Europa; después de todo, fue en el viejo continente donde el legendario director Sergio Leone di… [+2897 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Vida Extra"
-      },
-      "Author": "Iván González",
-      "Title": "\"No es un adiós\": los creadores de Stranger Things aseguran que la serie tiene cuerda para rato y hay \"muchas historias que contar\" sobre su universo",
-      "Description": "Netflix tiene claro que 2025 será un año destacado en cuanto a estrenos, ya que, además de la última temporada de El juego del Calamar, también se estrenará el final de Stranger Things, que, tras casi una década, llegará a su conclusión. Sin embargo, su unive…",
-      "Url": "https://www.vidaextra.com/series/no-adios-creadores-stranger-things-aseguran-que-serie-tiene-cuerda-para-rato-hay-muchas-historias-que-contar-su-universo",
-      "UrlToImage": "https://i.blogs.es/1c2135/stranger-things/840_560.jpeg",
-      "PublishedAt": "2025-02-04T21:30:30Z",
-      "Content": "Netflix tiene claro que 2025 será un año destacado en cuanto a estrenos, ya que, además de la última temporada de El juego del Calamar, también se estrenará el final de Stranger Things, que, tras cas… [+1240 chars]"
     }
   ]
 }

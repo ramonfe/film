@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1302,
+  "TotalResults": 1303,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Jorge Javier Vázquez arremete contra Karla Sofía Gascón: «Tiene serias dificultades a la hora de expresarse»",
+      "Description": "Continúa la polémica por Karla Sofía Gascón (52 años ). La carrera en Hollywood de la actriz de 'Emilia Pérez' ha quedado en entredicho tras la recuperación de unos antiguos tuits de contenido xenófobo. La intérprete, que hizo historia al convertirse en la pr…",
+      "Url": "https://www.abc.es/gente/jorge-javier-vazquez-arremete-karla-sofia-gascon-20250205155129-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/gente/2025/02/05/jorge-karla-sofia-U16826166081fYn-1024x512@diario_abc.png",
+      "PublishedAt": "2025-02-05T14:51:30Z",
+      "Content": "Continúa la polémica por Karla Sofía Gascón (52 años). La carrera en Hollywood de la actriz de 'Emilia Pérez' ha quedado en entredicho tras la recuperación de unos antiguos tuits de contenido xenófob… [+1936 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/ab48ba/serie-western-netflix-1/840_560.png",
       "PublishedAt": "2025-02-04T21:58:51Z",
       "Content": "El género de películas western es uno de los más populares en el cine, tanto en Estados Unidos como en Europa; después de todo, fue en el viejo continente donde el legendario director Sergio Leone di… [+2897 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Laura García Higueras",
-      "Title": "Maria Arnal: \"La IA no es un personaje que va a controlar el mundo, serán Trump y Elon Musk los que destruyan todo\"",
-      "Description": "La artista está nominada al Goya a Mejor canción original por su trabajo en 'La Virgen Roja', creó la banda sonora de 'Polvo serán' y está preparando su primer disco en solitario\r\n“Sin Dover nunca habría tenido una banda”: cómo las hermanas Llanos invitaron a…",
-      "Url": "https://www.eldiario.es/cultura/musica/maria-arnal-ia-no-personaje-controlar-mundo-seran-trump-elon-musk-destruyan_1_12024276.html",
-      "UrlToImage": "https://static.eldiario.es/clip/cc7356e6-8630-48d3-a79a-43c862d7797e_facebook-watermarked-aspect-ratio_default_0_x895y517.jpg",
-      "PublishedAt": "2025-02-04T21:23:11Z",
-      "Content": "La artista Maria Arnal ha entrado en el mundo del cine por la puerta grande. Hace unas semanas ganaba el premio Gaudí a Mejor música original por la banda sonora que creó para Polvo serán, el musical… [+607 chars]"
     }
   ]
 }
