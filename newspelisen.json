@@ -1,8 +1,60 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 671,
+  "TotalResults": 675,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "What's on Netflix"
+      },
+      "Author": "Jacob Robinson",
+      "Title": "‘The Great Flood’ Korean Netflix Disaster Movie: Q4 2025 Release & First Look",
+      "Description": "Kim Byung Woo's Netflix disaster thriller The Great Flood is coming in Q4 2025.",
+      "Url": "https://www.whats-on-netflix.com/news/k-dramas/korean-netflix-disaster-movie-the-great-flood-everything-we-know-so-far-02-2025/",
+      "UrlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2024/01/great-flood-netflix-k-drama-disaster-movie-q4-2025-release.jpg",
+      "PublishedAt": "2025-02-06T13:32:10Z",
+      "Content": "Picture: Kim Da Mi in The Great Flood – Netflix\r\nItaewon Class’s Kim Da Mi and Squid Games’ Park Hae Soo will co-star in Netflix’s exciting new disaster thriller movie, The Great Flood. The film will… [+1929 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "The Daily Dot"
+      },
+      "Author": "Kira Deshler",
+      "Title": "Here’s why some fans are boycotting the upcoming ‘Scream 7’ film",
+      "Description": "When pop culture and politics collide online, the discourse heats up.\nA couple of years ago, we discussed a controversy that had movie fans up in arms. Melissa Barrera, an actress who starred in the fifth and sixth Scream movies, was fired from \r\nScream 7\r\n b…",
+      "Url": "https://www.dailydot.com/pop-culture/decoding-fandom-scream-7-boycott/",
+      "UrlToImage": "https://uploads.dailydot.com/2025/02/Decoding-Fandom-02-06-2025.png?auto=compress&fm=png",
+      "PublishedAt": "2025-02-06T12:00:00Z",
+      "Content": "Decoding Fandom is a weekly column that dives deep into the world of fan culture and runs on Wednesdays in the Daily Dots web_crawlr newsletter. If you want to get this column a day before we publish… [+4592 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Stackoverflow.com"
+      },
+      "Author": "Stack Overflow",
+      "Title": "Order by subset of related field?",
+      "Description": "I have a model Release. Each release has a type, and depending on that type different types of Credit are considered primary credits. I want to be able to order releases by the Entity names of their primary credits.\nclass Release(models.Model):\n TYPES = { \"GA…",
+      "Url": "https://stackoverflow.com/questions/79417785/order-by-subset-of-related-field",
+      "UrlToImage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+      "PublishedAt": "2025-02-06T11:58:21Z",
+      "Content": "I have a model Release. Each release has a type, and depending on that type different types of Credit are considered primary credits. I want to be able to order releases by the Entity names of their … [+931 chars]"
+    },
+    {
+      "Source": {
+        "Id": null,
+        "Name": "ComicBook.com"
+      },
+      "Author": "Cameron Bonomolo",
+      "Title": "X-Men: Marvel Studios Reportedly Casting MCU Movie",
+      "Description": "Enrollment is underway at Xavier’s School for Gifted Youngsters. Marvel Studios’ X-Men movie is reportedly casting lead roles, and the long-awaited reboot bringing the mutant team into the Marvel Cinematic Universe could begin filming in 2026 for a post-Aveng…",
+      "Url": "http://comicbook.com/movies/news/marvel-x-men-movie-cast-release-date-2027-mcu-xmen-reboot/",
+      "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/Marvel-Studios-X-Men-MCU.png?resize=2000,1125",
+      "PublishedAt": "2025-02-06T09:22:20Z",
+      "Content": "Enrollment is underway at Xavier’s School for Gifted Youngsters. Marvel Studios’ X-Men movie is reportedly casting lead roles, and the long-awaited reboot bringing the mutant team into the Marvel Cin… [+2907 chars]"
+    },
     {
       "Source": {
         "Id": "the-times-of-india",
@@ -340,58 +392,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/67a24093adda881bcacc9024/1738760767956/joaquin-phoenix-pedro-pascal-emma-stone-audtin-bulter-and-more-join-director-ari-asters-eddington.jpg?format=1500w",
       "PublishedAt": "2025-02-05T13:06:00Z",
       "Content": "Director Ari Asteris currently working on his next movie Eddington, and A24 is looking to release the film this summer. \r\nThis is the fourth film from Aster, who previously helmed Hereditary, Midsomm… [+644 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Ozbargain.com.au"
-      },
-      "Author": "n3ck3ntry8bort0rgasm",
-      "Title": "Detained (2024) Crime Mystery Thriller Movie $0.99 to Rent @ Apple TV",
-      "Description": "normally $6.99 to rent, occasionally $2.99 to rent when they have “recent release sales”.\n\nstory sounds attention holding enough for me. something else is happening while the main character is being kept from what is actually happening.\nstarring Australian ac…",
-      "Url": "https://www.ozbargain.com.au/node/892143",
-      "UrlToImage": "https://files.ozbargain.com.au/n/43/892143x.jpg?h=fd4a60fb",
-      "PublishedAt": "2025-02-05T11:40:50Z",
-      "Content": "Crime Mystery Thriller Movie\r\nnormally $6.99 to rent, occasionally new recent releases can be $2.99 to rent when they have recent release sales.\r\nstory sounds attention holding enough for me. somethi… [+436 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "What's on Netflix"
-      },
-      "Author": "Jacob Robinson",
-      "Title": "‘Lost in Starlight’ Netflix’s First Animated Korean Movie: Q2 2025 Release & First Look",
-      "Description": "Netflix's first South Korean animated movie is coming in Q2 2025.",
-      "Url": "https://www.whats-on-netflix.com/news/k-dramas/lost-in-starlight-netflixs-first-animated-movie-everything-we-know-so-far-02-2025/",
-      "UrlToImage": "https://www.whats-on-netflix.com/wp-content/uploads/2023/08/lost-in-starlight-netflix-k-drama-animated-movie.jpg",
-      "PublishedAt": "2025-02-05T11:40:21Z",
-      "Content": "Picture: Lost in Starlight – Netflix\r\nNetflix’s first South Korean animated feature, Lost in Starlight, is coming in Q2 2025, with Revenant pair Kim Tae Ri and Hong Kyung reuniting to play the lead r… [+2290 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Computerworld"
-      },
-      "Author": "choffman",
-      "Title": "Hands-on with the Windows answer to Apple’s Vision Pro",
-      "Description": "Hey, remember the Apple Vision Pro? For a while there, everyone was talking about Apple’s $3,499 headset being the future of productivity. You’d strap a headset to your face and work on large monitors floating in a “mixed reality” world.\r\n\n\n\n\nWell, that visio…",
-      "Url": "https://www.computerworld.com/article/3816567/apple-vision-pro-windows.html",
-      "UrlToImage": "https://www.computerworld.com/wp-content/uploads/2025/02/3816567-0-80491200-1738753398-0-windows-desktop-on-meta-quest-headset.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2025-02-05T11:00:00Z",
-      "Content": "The ability to have multiple virtual displays — and make them as big as you want — is the most interesting productivity feature here.\r\nChris Hoffman, IDG\r\nThat’s one of the most significant downsides… [+1063 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Screen Rant"
-      },
-      "Author": "Megan Hemenway",
-      "Title": "Every Sophie Thatcher Horror Movie, Ranked Worst To Best",
-      "Description": "Sophie Thatcher is a rising star in Hollywood, and with the release of her newest movie alongside Jack Quaid, these are her best horror films, ranked.",
-      "Url": "https://screenrant.com/sophie-thatcher-horror-movies-ranked-worst-best/",
-      "UrlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/02/imagery-from-companion-heretic.jpg",
-      "PublishedAt": "2025-02-05T10:20:15Z",
-      "Content": "In recent years, Sophie Thatcher has proven herself to be a rapidly rising star in Hollywood, especially in the horrorscene, and with the release of her new film alongside Jack Quaid, it is the perfe… [+5940 chars]"
     }
   ]
 }
