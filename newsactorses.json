@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1343,
+  "TotalResults": 1344,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Envejecer como Richard Gere, el galán de 75 años que recibe el Goya Internacional 2025",
+      "Description": "Richard Gere es el primer hombre que recibirá el Goya Internacional, un galardón que nació en 2022 y que ha recaído, hasta el momento, en tres mujeres: Cate Blanchett, Juliette Binoche y Sigourney Weaver. El actor, protagonista de títulos tan conocidos como '…",
+      "Url": "https://www.abc.es/summum/gente-vip/envejecer-richard-gere-galan-anos-recibe-goya-20250207163052-nt.html",
+      "UrlToImage": "https://s3.abcstatics.com/abc/www/multimedia/summum/2025/02/07/richard_gere-U11263012211SZy-1024x512@diario_abc.jpg",
+      "PublishedAt": "2025-02-07T06:20:20Z",
+      "Content": "Richard Gere es el primer hombre que recibirá el Goya Internacional, un galardón que nació en 2022 y que ha recaído, hasta el momento, en tres mujeres: Cate Blanchett, Juliette Binoche y Sigourney We… [+3838 chars]"
+    },
     {
       "Source": {
         "Id": "la-nacion",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/06/3254440.jpg",
       "PublishedAt": "2025-02-06T17:59:50Z",
       "Content": "El elenco de Emilia Pérez está decidido a darle la espalda a Karla Sofía Gascón luego de que una serie de polémicos tuits desenmascararon el racismo y clasismo de la actriz, quien no se ha disculpado… [+3107 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Perfil.com"
-      },
-      "Author": "Vanesa Odino",
-      "Title": "Sarah Michelle Gellar confirmó el regreso de Buffy, la cazavampiros: cómo será su rol en el reboot",
-      "Description": "La actriz lanzó un comunicado en sus redes sociales luego de que se confirmara un reinicio de la serie y la posibilidad de su regreso. Leer más",
-      "Url": "https://caras.perfil.com/noticias/espectaculos/sarah-michelle-gellar-dijo-toda-la-verdad-sobre-el-regreso-de-buffy-la-cazavampiros-y-su-rol-en-el-reboot.phtml",
-      "UrlToImage": "https://fotos.perfil.com/2025/02/06/trim/1140/641/sarah-michelle-gellar-confirmo-el-regreso-de-buffy-la-cazavampiros-como-sera-su-rol-en-el-reboot-1962324.jpg",
-      "PublishedAt": "2025-02-06T17:55:31Z",
-      "Content": "La icónica cazadora de vampiros está de vuelta. Después de días de especulaciones sobre la posibilidad de verla en la pantalla chica, Sarah Michelle Gellar sorprendió a sus seguidores al confirmar of… [+2806 chars]"
     }
   ]
 }
