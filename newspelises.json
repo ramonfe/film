@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 235,
+  "TotalResults": 236,
   "Articles": [
+    {
+      "Source": {
+        "Id": "el-mundo",
+        "Name": "El Mundo"
+      },
+      "Author": "Luis Martínez",
+      "Title": "Hablan los cinco directores nominados al Goya a mejor película: \"Una mujer que sufría una depresión me dijo que llevaba cuatro días sin llorar por nuestra historia\"",
+      "Description": "Marcel Barrena, Arantxa Echevarría, Dani de la Orden, Isaki Lacuesta y Javier Macipe discuten sobre el año en el que el cine español se apropió de la taquilla y de la conversación. \"Basta ya de 'remakes', de cine familiar y de superhéroes\" Leer",
+      "Url": "https://www.elmundo.es/la-lectura/2025/02/07/67a3b659e4d4d83f468b4597.html",
+      "UrlToImage": "https://phantom-elmundo.unidadeditorial.es/a4bc070a89028e67def72a81f5e9f321/resize/1200/f/webp/assets/multimedia/imagenes/2025/02/06/17388502539768.jpg",
+      "PublishedAt": "2025-02-07T22:59:41Z",
+      "Content": "El encuentro fortuito de una máquina de coser y un paraguas en una mesa de disección es lo que, según la más citada de las tradiciones surrealistas, dio como resultado un cadáver exquisito. A veces, … [+11977 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/04/3253479.jpg",
       "PublishedAt": "2025-02-05T03:15:59Z",
       "Content": "La película animada Flow ha conquistado al público con su historia y su protagonista, un gato de color gris oscuro que ha generado gran impacto a nivel mundial. En reconocimiento a su éxito, la ciuda… [+1697 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Milenio"
-      },
-      "Author": "Ricardo Cervantes Villegas",
-      "Title": "Lanzan tráiler de 'Hurry Up Tomorrow', filme protagonizado por The Weeknd y Jenna Ortega; esto sabemos del proyecto",
-      "Description": "El día de hoy se ha lanzado un primer adelanto dela nueva cinta dirigida porTrey Edward Shults y escrita por Abel Tesfaye, mejor conocido como 'The Weeknd'; una película que lleva el mismo nombre de uno de los álbumes y éxitos del cantante.La cinta estará sie…",
-      "Url": "https://www.milenio.com/espectaculos/cine/hurry-up-tomorrow-de-que-trata-y-cuando-se-estrena-la-pelicula",
-      "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/02/04/hurry-up-tomorrow-estrena-pelicula.jpg",
-      "PublishedAt": "2025-02-05T00:48:00Z",
-      "Content": "El día de hoy se ha lanzado un primer adelanto de la nueva cinta dirigida por Trey Edward Shults y escrita por Abel Tesfaye, mejor conocido como 'The Weeknd'; una película que lleva el mismo nombre d… [+1855 chars]"
     }
   ]
 }
