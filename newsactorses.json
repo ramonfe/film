@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 1342,
+  "TotalResults": 1343,
   "Articles": [
+    {
+      "Source": {
+        "Id": "la-nacion",
+        "Name": "La Nacion"
+      },
+      "Author": null,
+      "Title": "Angelina Jolie recordó el triste momento en el que su madre vio por televisión a Jon Voight asistiendo a los Oscar junto a otra mujer",
+      "Description": "La actriz fue galardonada en el Festival de Cine de Santa Bárbara y rememoró una de las situaciones más angustiantes de su infancia",
+      "Url": "https://www.lanacion.com.ar/espectaculos/personajes/angelina-jolie-recordo-el-triste-momento-en-el-que-su-madre-vio-por-television-a-jon-voight-nid07022025/",
+      "UrlToImage": "https://resizer.glanacion.com/resizer/v2/angelina-jolie-recordo-el-triste-momento-en-el-JGFVVABF3NDELFBYT6GLLHKPPM.jpg?auth=69e65487956138396462f0399da1a3cad186a5eccc91c73b3afc5884f7f4faf9&width=1200&quality=70&smart=false&height=800",
+      "PublishedAt": "2025-02-07T05:07:59Z",
+      "Content": "Angelina Jolie recibió este miércoles el premio Modern Master en el Festival Internacional de Cine de Santa Bárbara, y en ese contexto, se prestó a una entrevista con el reconocido crítico de cine Le… [+4801 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://fotos.perfil.com/2025/02/06/trim/1140/641/sarah-michelle-gellar-confirmo-el-regreso-de-buffy-la-cazavampiros-como-sera-su-rol-en-el-reboot-1962324.jpg",
       "PublishedAt": "2025-02-06T17:55:31Z",
       "Content": "La icónica cazadora de vampiros está de vuelta. Después de días de especulaciones sobre la posibilidad de verla en la pantalla chica, Sarah Michelle Gellar sorprendió a sus seguidores al confirmar of… [+2806 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Eldiario.es"
-      },
-      "Author": "Redacción verTele",
-      "Title": "'One Piece' y 'Dragon Ball', en peligro por un escándalo de abuso sexual en la cadena japonesa Fuji TV",
-      "Description": "La emisión de los animes 'One Piece' y 'Dragon Ball' podría verse perjudicada por el escándalo sexual que afecta al cantante y presentador de Fuji TV Masahiro Nakai. Mientras se despeja el futuro de ambas, la serie de acción real de 'Once Piece' (Netflix) ha …",
-      "Url": "https://www.eldiario.es/vertele/series/one-piece-dragon-ball-peligro-escandalo-abuso-sexual-cadena-japonesa-fuji-tv_1_12032755.html",
-      "UrlToImage": "https://static.eldiario.es/clip/d37f7499-d0a3-4acc-8009-d60027e6a5f1_facebook-vertele-watermarked-aspect-ratio_default_0.jpg",
-      "PublishedAt": "2025-02-06T17:49:53Z",
-      "Content": "El futuro de One Piece y Dragon Ball se ha ennegrecido de manera totalmente inesperada. Las dos series de animación más populares de Japón se han visto afectadas por una importante crisis interna en … [+3394 chars]"
     }
   ]
 }
