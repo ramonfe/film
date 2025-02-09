@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 240,
+  "TotalResults": 241,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Este es el dinero que se lleva el ganador de un Premio Goya",
+      "Description": "Los Premios Goya , el máximo reconocimiento del cine español , brindan gloria y reconocimiento a los talentosos artistas detrás de las películas que ponen la marca España en el punto de mira internacional. Sin embargo, detrás de las elegantes galas y los disc…",
+      "Url": "https://www.abc.es/play/cine/noticias/dinero-lleva-ganador-premio-goya-20250208133000-nt.html",
+      "UrlToImage": "https://s2.abcstatics.com/abc/www/multimedia/diario_abc/2025/02/06/malena-k80D-U70220083775BAF-1024x512@abc.jpg",
+      "PublishedAt": "2025-02-08T17:16:54Z",
+      "Content": "Los Premios Goya, el máximo reconocimiento del cine español, brindan gloria y reconocimiento a los talentosos artistas detrás de las películas que ponen la marca España en el punto de mira internacio… [+2476 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.milenio.com/uploads/media/2025/02/05/mejores-memes-del-trailer-de.jfif",
       "PublishedAt": "2025-02-05T19:17:37Z",
       "Content": "El primer tráiler de la esperada película de 'Los 4 Fantásticos' fue un hecho que emocionó a todos los fanáticos del Universo Cinematográfico de Marvel (UCM) y no solo eso, sino que también inspiró a… [+1374 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Espinof.com"
-      },
-      "Author": "Randy Meeks",
-      "Title": "Marvel responde a las acusaciones y afirma que no usaron IA en los carteles de 'Los 4 Fantásticos'. Pero la polémica puede dañar la película",
-      "Description": "A veces no hace falta tener el ojo más entrenado del mundo para detectar errores en una imagen creada con uso de la inteligencia artificial, porque aún le queda mucho para engañarnos como pretende hacer. Una mano con seis dedos, un pie bastante más grande que…",
-      "Url": "https://www.espinof.com/entretenimiento/disney-asegura-que-posters-4-fantasticos-no-tienen-ia-a-pesar-tener-detalles-errores-que-ningun-artista-habria-pasado-alto",
-      "UrlToImage": "https://i.blogs.es/fe33e2/4f/840_560.jpeg",
-      "PublishedAt": "2025-02-05T15:46:30Z",
-      "Content": "A veces no hace falta tener el ojo más entrenado del mundo para detectar errores en una imagen creada con uso de la inteligencia artificial, porque aún le queda mucho para engañarnos como pretende ha… [+2918 chars]"
     }
   ]
 }
