@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 621,
+  "TotalResults": 622,
   "Articles": [
+    {
+      "Source": {
+        "Id": "the-irish-times",
+        "Name": "The Irish Times"
+      },
+      "Author": "Donald Clarke",
+      "Title": "Harrison Ford: ‘I always want to be involved with people who are ambitious’",
+      "Description": "The veteran actor has great fun in Captain America: Brave New World but he insists it’s just a movie about ‘guys in suits who can fly’",
+      "Url": "https://www.irishtimes.com/culture/film/2025/02/08/harrison-ford-i-always-want-to-be-involved-with-people-who-are-ambitious/",
+      "UrlToImage": "https://www.irishtimes.com/resizer/v2/LTO7JTL4OJCJ7MP3G4CTMBHP3M.jpg?smart=true&auth=9c93c0747dc8b6edff0377885bcb1e9b7aee22c9d168b3d4aa212478c6f28b9f&width=1200&height=630",
+      "PublishedAt": "2025-02-08T05:20:00Z",
+      "Content": "Im no political semiotician, but I sense something afoot in early footage of Captain America: Brave New World. At least one character is reticent to work with the incoming president of the United Sta… [+11057 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://comicbookmovie.com/images/articles/banners/blue-beetle-star-xolo-mariduea-responds-to-rumors-hell-star-in-marvel-studios-nova-tv-series-ab216055.jpg",
       "PublishedAt": "2025-02-07T10:53:00Z",
       "Content": "Last October, there were rumblings online that Marvel Studios had cast Blue Beetle star Xolo Maridueña in its planned Nova TV series. We didn't pay too much attention to it at the time, though many f… [+2280 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Evolve Editors",
-      "Title": "Marvel’s Vision Adds Ruaridh Mollica to Cast in Key Role",
-      "Description": "Scottish-Italian actor Ruaridh Mollica has joined the cast of the upcoming Marvel’s Vision series, sometimes referred to as Vision Quest. Mollica is probably best known for essaying the role of Max Williamson in the 2024 feature Sebastian, for which he receiv…",
-      "Url": "https://www.comingsoon.net/tv/news/1917644-vision-cast-ruaridh-mollica-the-franchise-marvel-disney-plus",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/02/Ruaridh-Mollica-Vision-CS.jpg?resize=1200,630",
-      "PublishedAt": "2025-02-07T09:12:25Z",
-      "Content": "Scottish-Italian actor Ruaridh Mollica has joined the cast of the upcoming Marvels Vision series, sometimes referred to as Vision Quest. Mollica is probably best known for essaying the role of Max Wi… [+1802 chars]"
     }
   ]
 }
