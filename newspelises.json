@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 235,
+  "TotalResults": 236,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Www.abc.es"
+      },
+      "Author": "(abc)",
+      "Title": "Dónde ver 'La estrella azul', de Javier Macipe, nominada a mejor película en los Goya 2025",
+      "Description": "Este 8 de febrero se celebra en Granada la 39ª edición de los Premios Goya . Estos galardones del cine español son los más perstigiosos a nivel nacional y reconocen tanto la calidad del cine de nuestro país como la labor de todo aquel que dedica su carrera pr…",
+      "Url": "https://www.abc.es/play/cine/noticias/ver-estrella-azul-javier-macipe-nominada-mejor-20250208071500-nt.html",
+      "UrlToImage": "https://s1.abcstatics.com/abc/www/multimedia/play/2025/02/08/laestrellaazul-kLX-U70186415572rmH-1200x840@diario_abc.jpg",
+      "PublishedAt": "2025-02-08T06:15:00Z",
+      "Content": "Este 8 de febrero se celebra en Granada la 39ª edición de los Premios Goya. Estos galardones del cine español son los más perstigiosos a nivel nacional y reconocen tanto la calidad del cine de nuestr… [+2272 chars]"
+    },
     {
       "Source": {
         "Id": "el-mundo",
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/8fee3e/sin-titulo---2025-02-05t102821.674/840_560.jpeg",
       "PublishedAt": "2025-02-05T10:28:20Z",
       "Content": "Anoche, 'La Revuelta' tuvo el honor, y nunca mejor dicho, de recibir a la gran Aitana Sánchez-Gijón. Y es que la estrella de cine, que se encuentra en plena promoción de 'Tierra Baja', será galardona… [+1750 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Excelsior.com.mx"
-      },
-      "Author": "brandon.pacheco",
-      "Title": "FOTOS: Letonia instala estatua en honor a Flow, la película animada del año",
-      "Description": "G. Pacheco\r\nLa película animada Flow ha conquistado al público con su historia y su protagonista, un gato de color gris oscuro que ha generado gran impacto a nivel mundial. En reconocimiento a su éxito, la ciudad de Riga, capital de Letonia, ha instalado una …",
-      "Url": "https://www.excelsior.com.mx/funcion/fotos-flow-tiene-su-estatua-en-letonia/1698047",
-      "UrlToImage": "https://www.excelsior.com.mx/media/pictures/2025/02/04/3253479.jpg",
-      "PublishedAt": "2025-02-05T03:15:59Z",
-      "Content": "La película animada Flow ha conquistado al público con su historia y su protagonista, un gato de color gris oscuro que ha generado gran impacto a nivel mundial. En reconocimiento a su éxito, la ciuda… [+1697 chars]"
     }
   ]
 }
