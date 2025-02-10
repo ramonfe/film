@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 614,
+  "TotalResults": 615,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbs-news",
+        "Name": "CBS News"
+      },
+      "Author": "Seth Doane",
+      "Title": "\"Wicked\" star Cynthia Erivo on soaring to success",
+      "Description": "The dynamic vocalist who is up for a best actress Oscar for playing Elphaba in the movie version of \"Wicked\" discusses what she brought to the role of the Wicked Witch of the West.",
+      "Url": "https://www.cbsnews.com/news/wicked-star-cynthia-erivo-on-soaring-to-success/",
+      "UrlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/02/09/8dd7babb-5451-4afe-9286-0f18dd6a29cb/thumbnail/1200x630/bdf8a87e238c3f97864e3169b15742b5/cynthia-a-1280.jpg?v=c6b5070a57014f3b00753bf0e763f9c3",
+      "PublishedAt": "2025-02-09T15:01:50Z",
+      "Content": "Before gracing such grand venues as the Academy Awards, Cynthia Erivo could be found at the Stratford East Theatre in London, not far from where she grew up, and where she'd filled any role she could… [+5795 chars]"
+    },
     {
       "Source": {
         "Id": "cbs-news",
@@ -353,19 +366,6 @@
       "UrlToImage": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/67a5611bab6e4b4726d0466d/1738958452044/ruaridh+mollica+the+franchise.png?format=1500w",
       "PublishedAt": "2025-02-07T20:00:00Z",
       "Content": "Actor Ruaridh Mollica, who most recently appeared in HBOs The Franchise, has signed on to a starring role in Marvels upcoming series Vision at Disney+. \r\nThe Vision spinoff, headlined by Paul Bettany… [+863 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComicBook.com"
-      },
-      "Author": "Joe Garza",
-      "Title": "All 7 Batman Live-Action Movie Batmobiles Ranked",
-      "Description": "The Batman movie's Batmobile\nBatman has had a long and storied onscreen history. He evolved from the campy, lighthearted hero seen in the 1960s TV show to the brooding, morally complex vigilante seen in the various movies. Every actor who’s portrayed him brou…",
-      "Url": "http://comicbook.com/movies/news/batman-movies-batmobiles-ranked-worst-best/",
-      "UrlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2022/03/d0a52043-e3c2-4209-8a09-a82ed33701eb.jpg?w=1200",
-      "PublishedAt": "2025-02-07T20:00:00Z",
-      "Content": "Batman has had a long and storied onscreen history. He evolved from the campy, lighthearted hero seen in the 1960s TV show to the brooding, morally complex vigilante seen in the various movies. Every… [+4438 chars]"
     }
   ]
 }
