@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "MacRumors"
+      },
+      "Author": "Joe Rossignol",
+      "Title": "Kendrick Lamar Halftime Show: Watch for Free on iPhone, iPad, Mac, and Apple TV",
+      "Description": "Super Bowl LIX kicks off today. In the U.S., the game will be streaming for free in upscaled 4K on FOX's ad-supported streaming service Tubi,...",
+      "Url": "https://www.macrumors.com/2025/02/09/how-to-watch-super-bowl-lix-halftime-show/",
+      "UrlToImage": "https://images.macrumors.com/t/QIryk8ql_9-GA33KldGPr7mbGn4=/1960x/article-new/2025/02/Apple-Music-Super-Bowl-LIX-Halftime-Show-Kendrick-Lamar.jpg",
+      "PublishedAt": "2025-02-09T19:36:47Z",
+      "Content": "Super Bowl LIX kicks off today. In the U.S., the game will be streaming for free in upscaled 4K on FOX's ad-supported streaming service Tubi, which is available on the iPhone, iPad, Mac, Apple TV, Ap… [+834 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://images.newrepublic.com/f1569a5b39d3f81048c10fff6edc439ab11c2e99.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "PublishedAt": "2025-01-28T11:00:00Z",
       "Content": "Legally speaking, ER is not technically back. Yes, The Pittis executive-produced by John Wells, an original producer of ER; yes, its a serial drama about the high-intensity environment of a hospital … [+2566 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Slashdot.org"
-      },
-      "Author": "feedfeeder",
-      "Title": "How to stream video on Fire TV with a VPN",
-      "Description": "Amazon\nRoku, Apple TV and Google TV (aka Chromecast) are all worthwhile streaming platforms. Each of them lets you view thousands of movies and TV shows on major apps like Disney+ and Netflix. And seeing all your favorites on a big-screen TV is way better tha…",
-      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=176058619",
-      "UrlToImage": null,
-      "PublishedAt": "2025-01-28T00:52:07Z",
-      "Content": "Roku, Apple TV and Google TV (aka Chromecast) are all worthwhile streaming platforms. Each of them lets you view thousands of movies and TV shows on major apps like Disney+ and Netflix. And seeing al… [+3382 chars]"
     }
   ]
 }
