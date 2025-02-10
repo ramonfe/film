@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 928,
+  "TotalResults": 929,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Hola"
+      },
+      "Author": "B. Moreno",
+      "Title": "Así es 'Señor Reina', la serie surcoreana censurada en su país de origen que causa furor en Netflix",
+      "Description": "La ficción mezcla historia, romance y fantasía",
+      "Url": "https://www.hola.com/actualidad/20250209811693/mr-queen-serie-surceoreana-censurada-en-su-pais-triunfa-en-netflix/",
+      "UrlToImage": "https://www.hola.com/horizon/landscape/5eb855e6c6ab-portada.jpg?im=Resize=(1200)",
+      "PublishedAt": "2025-02-09T07:36:09Z",
+      "Content": "Las series coreanas han logrado abrirse un hueco en las plataformas digitales y también en el corazón de los espectadores. En Netflix, títulos como The 8 Show, Viaje al infierno o El juego del calama… [+4208 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://i.blogs.es/62c216/yaiba/840_560.jpeg",
       "PublishedAt": "2025-02-07T18:15:44Z",
       "Content": "Después del enorme éxito del remake de Ranma ½, es el turno de una nueva adaptación de otro anime icónico de los 90: Yaiba. Hace varios meses se anunció que Wit Studio se encargaría de la producción … [+1317 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Xataka.com.mx"
-      },
-      "Author": "Luis Acosta",
-      "Title": "Calificación perfecta: es la mejor serie de Prime Video y no es The Boys ni Los anillos de poder",
-      "Description": "Ha pasado casi un año desde que terminó la segunda temporada, pero Mark por fin regresa con una nueva y brutal aventura Viltrumita que parece va a sorprender a todos. Sí, hablamos de la tercera temporada de Invincible, que para sorpresa de nadie debuta con gr…",
-      "Url": "https://www.xataka.com.mx/cine-y-tv/calificacion-perfecta-mejor-serie-prime-video-no-the-boys-anillos-poder",
-      "UrlToImage": "https://i.blogs.es/16069d/invincible-temporada-3/840_560.jpeg",
-      "PublishedAt": "2025-02-07T18:01:45Z",
-      "Content": "Ha pasado casi un año desde que terminó la segunda temporada, pero Mark por fin regresa con una nueva y brutal aventura Viltrumita que parece va a sorprender a todos. Sí, hablamos de la tercera tempo… [+2150 chars]"
     }
   ]
 }
