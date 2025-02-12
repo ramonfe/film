@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 646,
+  "TotalResults": 647,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "msmash",
+      "Title": "Connecticut Bill Requires Movie Theaters To Reveal How Long Those 'Coming Soon' Trailers Really Are",
+      "Description": "Connecticut's highest-ranking state legislator has proposed a bill requiring movie theaters to disclose both preview and feature film start times, setting up a clash with theater operators who say the measure threatens their advertising revenue. \n\nSenate Pres…",
+      "Url": "https://entertainment.slashdot.org/story/25/02/11/0218218/connecticut-bill-requires-movie-theaters-to-reveal-how-long-those-coming-soon-trailers-really-are",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/movies_64.png",
+      "PublishedAt": "2025-02-11T02:30:00Z",
+      "Content": "The system is ridiculous. The theatres have to pile on the ads and charge an arm and a leg for concessions because the movie fees from the studios are so high. Why? Sure, location shoots, high-end CG… [+309 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://pyxis.nymag.com/v1/imgs/4e3/190/85f5a7dc7123c40838861beed0aa8fbba2-flow-movie.1x.rsocial.w1200.jpg",
       "PublishedAt": "2025-02-08T22:32:19Z",
       "Content": "Capybaras and silent film actors have a lot in common. While pleasant to look at on screen, their voices were made for silent films. The team behind Flow, a Latvian animated movie about animals survi… [+1423 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Dark Horizons"
-      },
-      "Author": "Garth Franklin",
-      "Title": "Pharrell Williams Film “Golden” Won’t Be Released",
-      "Description": "The Michel Gondry-directed movie musical “Golden,” about the childhood of singer and music producer Pharrell Williams, has been permanently scrapped with the movie not to be released in any capacity. Variety broke the news, saying the film was originally aimi…",
-      "Url": "https://www.darkhorizons.com/pharrell-williams-film-golden-wont-be-released/",
-      "UrlToImage": "https://cdndark.darkhorizons.com/wp-content/uploads/2025/02/pharrell-williams-film-golden-wont-be-released.jpg",
-      "PublishedAt": "2025-02-08T13:56:30Z",
-      "Content": "The Michel Gondry-directed movie musical “Golden,” about the childhood of singer and music producer Pharrell Williams, has been permanently scrapped with the movie not to be released in any capacity.… [+1598 chars]"
     }
   ]
 }
