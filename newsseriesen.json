@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 69,
+  "TotalResults": 71,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "An Apple TV app is finally available for Android devices",
+      "Description": "After years of waiting, the Apple TV app is finally available natively on Android devices. This version was “built from the ground up” to take advantage of the Android operating system and is currently ready for download from the Google Play Store. It was des…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=176211407",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-12T20:12:11Z",
+      "Content": "After years of waiting, the Apple TV app is finally available natively on Android devices. This version was “built from the ground up” to take advantage of the Android operating system and is current… [+1748 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,32 +379,6 @@
       "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2025/01/Apple-TV-MLS-Season-hero.jpg?quality=50&strip=all&w=1024",
       "PublishedAt": "2025-01-29T17:58:30Z",
       "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nSome big changes are… [+3163 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PCWorld"
-      },
-      "Author": "Author: Matthew S. Smith",
-      "Title": "Asus ZenScreen Smart Monitor MS27UC review: Smart TV features in a small display",
-      "Description": "At a glanceExpert's Rating\r\n\n\nPros\r\n\n<ul>\n<li>Attractive and approachable design</li>\n\n\n\n<li>Good connectivity including USB-C with 90 watts Power Delivery</li>\n\n\n\n<li>Google TV is easy to use and supports many entertainment apps</li>\n\n\n\n<li>Bright, crisp ima…",
-      "Url": "https://www.pcworld.com/article/2587275/asus-zenscreen-smart-monitor-ms27uc-review.html",
-      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2025/01/asus-ms27uc-5.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2025-01-29T16:00:00Z",
-      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nAt a glance<ul><li>A… [+14009 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PCWorld"
-      },
-      "Author": "Michael Ansaldo",
-      "Title": "How to stream the 2025 Super Bowl in 4K for free",
-      "Description": "Will the Kansas City Chiefs become the first NFL team to win three consecutive Super Bowls? Or can the Philadelphia Eagles soar back from their 2023 Super Bowl loss to the Chiefs and secure another title? We’re about to find out.\r\n\n\n\n\nSuper Bowl LIX promises …",
-      "Url": "https://www.pcworld.com/article/582674/how-to-watch-the-super-bowl.html",
-      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2025/01/superbowl-lviii-3000x2000-editorial-use-only-1.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2025-01-29T15:00:00Z",
-      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWill the Kansas City… [+8804 chars]"
     }
   ]
 }
