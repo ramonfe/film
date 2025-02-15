@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 81,
+  "TotalResults": 82,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "BeauHD",
+      "Title": "Netflix Accidentally Made Its Content Show Up In the Apple TV App",
+      "Description": "Netflix content briefly appeared in the Apple TV app due to an unintentional glitch, sparking excitement among users before the company swiftly rolled back the integration. Engadget reports: A Netflix spokesperson told The Verge on Friday that the Apple TV ap…",
+      "Url": "https://apple.slashdot.org/story/25/02/14/2213202/netflix-accidentally-made-its-content-show-up-in-the-apple-tv-app",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/tv_64.png",
+      "PublishedAt": "2025-02-14T23:20:00Z",
+      "Content": "A Netflix spokesperson told The Verge on Friday that the Apple TV app integration was an error that has been rolled back. Indeed, Redditors who had been tracking the forbidden fruit with unbridled gl… [+593 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,19 +366,6 @@
       "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/01/Stranger-Things-Season-5-jane-hopper-missing-poster.jpg?resize=1200,630",
       "PublishedAt": "2025-01-31T16:33:52Z",
       "Content": "The story for Stranger Things Season 5 appears to have been teased in a missing poster for Millie Bobby Browns Jane Hopper which was recently shared online.\r\nThe final season of the hit show is expec… [+1605 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PCWorld"
-      },
-      "Author": "Michael Crider",
-      "Title": "How I save big money on streaming services: Ruthless disloyalty",
-      "Description": "Remember when you first signed up for Netflix streaming? It was nice. A few bucks a month for tons of good movies, some pretty decent original shows, zero ads, and you could finally ditch the nightmare that was cable. \r\n\n\n\n\nFast forward to 2025, and streaming…",
-      "Url": "https://www.pcworld.com/article/2587114/how-i-save-big-money-on-streaming-services-ruthless-disloyalty.html",
-      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2025/01/streaming-services-disney-hulu-netflix-amazon-2.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2025-01-31T14:10:03Z",
-      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nRemember when you fi… [+10073 chars]"
     }
   ]
 }
