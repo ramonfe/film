@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 77,
+  "TotalResults": 78,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "PCWorld"
+      },
+      "Author": "Ben Patterson",
+      "Title": "Netflix comes to the Apple TV app (sort of)",
+      "Description": "One of the biggest gaps in the Apple TV app looks like it’s about to be filled with Netflix making a long-awaited appearance. Just don’t expect a fully integrated experience or at least not yet. \r\n\n\n\n\nApple TV users on Reddit recently began reporting that the…",
+      "Url": "https://www.pcworld.com/article/2609395/netflix-comes-to-the-apple-tv-app-sort-of.html",
+      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2025/02/Apple-TV-app-prompt.jpg?quality=50&strip=all&w=1024",
+      "PublishedAt": "2025-02-14T16:16:31Z",
+      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nOne of the biggest g… [+3255 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/apple-tv-silo-nielsen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "PublishedAt": "2025-01-30T23:47:38Z",
       "Content": "In perhaps yet another sign of the growing reach of Apple TV+ content, the sci-fi series Silo has ranked on the Nielsen U.S. streaming originals chart for the first time ever. The show ranked 9th wit… [+2016 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Worldsoccertalk.com"
-      },
-      "Author": "Christopher Harris",
-      "Title": "Free MLS Season Pass: Will It Pay Off for the League?",
-      "Description": "T-Mobile is bringing back its offer to allow customers to get a free MLS Season Pass subscription. After offering it for free to T-Mobile subscribers in 2023, MLS decided to skip the offer in 2024. Thankfully for T-Mobile customers, MLS Season Pass will be fr…",
-      "Url": "https://worldsoccertalk.com/tv/free-mls-season-pass-price/",
-      "UrlToImage": "https://worldsoccertalk.com/api/request-image/?proxy=https://ds-images.bolavip.com/news/image?src=https%3A%2F%2Fimages.worldsoccertalk.com%2Fjpg%2Ffull%2FWST_20250130_WST_551251_price-is-right-gameshow.jpg[ampersand]width=1200[ampersand]height=740",
-      "PublishedAt": "2025-01-30T20:42:37Z",
-      "Content": "T-Mobile is bringing back its offer to allow customers to get a free MLS Season Pass subscription.\r\nAfter offering it for free to T-Mobile subscribers in 2023, MLS decided to skip the offer in 2024. … [+4897 chars]"
     }
   ]
 }
