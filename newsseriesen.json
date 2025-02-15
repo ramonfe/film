@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 81,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "feedfeeder",
+      "Title": "Netflix accidentally made its content show up in the Apple TV app",
+      "Description": "Breaking: Netflix made an oopsie. On Thursday, word spread online that some of its content began appearing in the Apple TV app. The lack of an official announcement (and extremely buggy nature) of the integration was enough to cast doubt on the news. But that…",
+      "Url": "https://slashdot.org/firehose.pl?op=view&amp;id=176250631",
+      "UrlToImage": null,
+      "PublishedAt": "2025-02-14T21:33:10Z",
+      "Content": "Breaking: Netflix made an oopsie. On Thursday, word spread online that some of its content began appearing in the Apple TV app. The lack of an official announcement (and extremely buggy nature) of th… [+1581 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,32 +366,6 @@
       "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2025/01/streaming-services-disney-hulu-netflix-amazon-2.jpg?quality=50&strip=all&w=1024",
       "PublishedAt": "2025-01-31T14:10:03Z",
       "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nRemember when you fi… [+10073 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "PCWorld"
-      },
-      "Author": "Michael Crider",
-      "Title": "The secret to saving big on streaming services: Be ruthlessly disloyal",
-      "Description": "Remember when you first signed up for Netflix streaming? It was nice. A few bucks a month for tons of good movies, some pretty decent original shows, zero ads, and you could finally ditch the nightmare that was cable. \r\n\n\n\n\nFast forward to 2025, and streaming…",
-      "Url": "https://www.pcworld.com/article/2587114/to-save-on-streaming-tv-switch-services-constantly.html",
-      "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2025/01/streaming-services-disney-hulu-netflix-amazon-1.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2025-01-31T14:00:00Z",
-      "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nRemember when you fi… [+10073 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "ComingSoon.net"
-      },
-      "Author": "Tamal Kundu",
-      "Title": "Stranger Things Season 5 Episodes Will Be Like ‘8 Blockbuster Movies’",
-      "Description": "Matt and Ross Duffer, known professionally together as the Duffer Brothers, released their show Stranger Things on Netflix on July 15, 2016, and the rest, as they say, is history. The series became one of Netflix’s flagship shows, and its immense popularity c…",
-      "Url": "https://www.comingsoon.net/tv/news/1914206-stranger-things-season-5-future-duffer-bros-blockbuster-movies",
-      "UrlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2025/01/Stranger-Things-Season-5.jpg?resize=1200,630",
-      "PublishedAt": "2025-01-31T12:43:00Z",
-      "Content": "Matt and Ross Duffer, known professionally together as the Duffer Brothers, released their show Stranger Things on Netflix on July 15, 2016, and the rest, as they say, is history. The series became o… [+2111 chars]"
     }
   ]
 }
