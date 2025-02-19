@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 634,
+  "TotalResults": 635,
   "Articles": [
+    {
+      "Source": {
+        "Id": "nbc-news",
+        "Name": "NBC News"
+      },
+      "Author": "Sarah Whitten, CNBC",
+      "Title": "How crazy popcorn buckets became big business for movie theaters",
+      "Description": "For decades, popcorn has been a staple of the movie theater experience and exhibitors’ bottom lines.",
+      "Url": "https://www.nbcnews.com/business/business-news/crazy-popcorn-buckets-became-big-business-movie-theaters-rcna192657",
+      "UrlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250218-Taylor-Swift-popcorn-aa-204-395a27.jpg",
+      "PublishedAt": "2025-02-18T19:13:27Z",
+      "Content": "For decades, popcorn has been a staple of the movie theater experience and exhibitors bottom lines. Now, the receptacle it comes in is becoming just as important.\r\nAs recently as three years ago, AMC… [+6994 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://miro.medium.com/v2/resize:fit:700/1*J-4pO9gdIPil3qSLJpMjiQ.jpeg",
       "PublishedAt": "2025-02-17T14:01:45Z",
       "Content": "During the Vietnam War, two American prisoners are forced to play Russian roulette.\r\nI can still remember seeing The Deer Hunter for the first time. I was living in Aspen, Colorado. Had a rare night … [+516 chars]"
-    },
-    {
-      "Source": {
-        "Id": "techradar",
-        "Name": "TechRadar"
-      },
-      "Author": "lucy.buglass@futurenet.com (Lucy Buglass)",
-      "Title": "Nosferatu is getting a streaming release on Peacock and I'm so excited to watch the extended cut",
-      "Description": "Nosferatu is coming to Peacock in the US and bringing an extended cut of the movie along with it.",
-      "Url": "https://www.techradar.com/streaming/nosferatu-is-getting-a-streaming-release-on-peacock-and-im-so-excited-to-watch-the-extended-cut",
-      "UrlToImage": "https://cdn.mos.cms.futurecdn.net/saR8fkK5cDtgR7K3RcasW4-1200-80.jpg",
-      "PublishedAt": "2025-02-17T13:43:07Z",
-      "Content": "<ul><li>Nosferatu is arriving on Peacock on February 21</li><li>Subscribers will be able to watch both the theatrical and extended cut </li><li>If you don't have Peacock, Nosferatu can also be rented… [+2129 chars]"
     }
   ]
 }
