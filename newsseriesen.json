@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 72,
+  "TotalResults": 73,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Mactrast.com"
+      },
+      "Author": "Chris Hauk",
+      "Title": "Apple TV+ Says Severance Is More Popular Than Ted Lasso",
+      "Description": "Apple TV+ has confirmed that \"Severance\" is the streaming service's most popular show ever.Read More...",
+      "Url": "https://www.mactrast.com/2025/02/apple-tv-says-severance-is-more-popular-than-ted-lasso/",
+      "UrlToImage": "https://www.mactrast.com/wp-content/uploads/2022/04/Severence-Banner.jpg",
+      "PublishedAt": "2025-02-20T13:50:46Z",
+      "Content": "Apple TV+ has confirmed that “Severance” is the streaming service’s most popular show ever, even edging out the popular “Ted Lasso” comedy series.\r\nAs reported by Deadline, Apple confirmed that Sever… [+2197 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -353,19 +366,6 @@
       "UrlToImage": "https://img.huffingtonpost.com/asset/67a065c81600002500afec93.jpg?cache=JSJIW8wCEJ&ops=1200_630",
       "PublishedAt": "2025-02-03T14:28:38Z",
       "Content": "American Manhunt: O.J. Simpson is currently the most popular show on Netflix, according to the platforms public ranking system.\r\nReleased on Jan. 29, the new docuseries dives into the 1994 murders of… [+1918 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Hicks.design"
-      },
-      "Author": null,
-      "Title": "My perfect Music app doesn’t exist",
-      "Description": "Music streaming apps leave me wanting. \nWhile I collect albums both physically (Vinyl + CD) and digitally (from Bandcamp), there are still missing pieces that streaming services provide: discovering new music, sharing playlists and seeing what friends are pla…",
-      "Url": "https://hicks.design/journal/my-perfect-music-app-doesnt-exist",
-      "UrlToImage": "https://hicks.design/media/pages/journal/my-perfect-music-app-doesnt-exist/998f68a874-1738585592/Hayden.webp",
-      "PublishedAt": "2025-02-03T11:00:00Z",
-      "Content": "A long dive into the features that make my ideal music app, and why nothing currently fulfils the brief.\r\nMusic streaming apps leave me wanting. \r\nWhile I collect albums both physically (Vinyl + CD) … [+19057 chars]"
     }
   ]
 }
