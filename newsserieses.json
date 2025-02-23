@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 963,
+  "TotalResults": 964,
   "Articles": [
+    {
+      "Source": {
+        "Id": "ign",
+        "Name": "IGN"
+      },
+      "Author": "Raquel Morales",
+      "Title": "En esta serie de Netflix nada es lo que parece y me gustó incluso más que El juego del Calamar",
+      "Description": "Nada es lo que parece\nEste año se estrena la temporada 3 de Alice in Borderland, una serie de Netflix que tiene un final totalmente inesperado",
+      "Url": "https://es.ign.com/netflix/213169/opinion/en-esta-serie-de-netflix-nada-es-lo-que-parece-y-me-gusto-incluso-mas-que-el-juego-del-calamar",
+      "UrlToImage": "https://sm.ign.com/t/ign_es/screenshot/default/alice-in-borderland_dnsk.1200.jpg",
+      "PublishedAt": "2025-02-22T14:00:45Z",
+      "Content": "Cuando tengo la ocasión, siempre recomiendo las mismas series en Netflix. Si te gustó El juego del Calamar que acaba de terminar su segunda temporada, tienes que darle una oportunidad a una serie jap… [+2249 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -379,19 +392,6 @@
       "UrlToImage": "https://cdn.atomix.vg/wp-content/uploads/2025/02/poalk.jpg",
       "PublishedAt": "2025-02-21T01:43:20Z",
       "Content": "En diciembre de 2023 se estrenó en Netflix una serie muy querida, Pokémon Concierge, la cual se salió de los estándares que manejaba la franquicia para ese momento, ya que utilizaron la técnica de an… [+1551 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Perfil.com"
-      },
-      "Author": "Victoria del VAL",
-      "Title": "La serie de Netflix que todos están viendo: Dolores Fonzi y Esteban Lamothe en una historia real impactante",
-      "Description": "Esteban y Dolores le dan vida a una increíble producción de Pol-ka que relata la corrupción de las barras bravas del fútbol. Leer más",
-      "Url": "https://caras.perfil.com/noticias/celebridades/serie-netflix-todos-estan-viendo-dolores-fonzi-esteban-lamothe-historia-real-impactante.phtml",
-      "UrlToImage": "https://fotos.perfil.com/2025/02/20/trim/1140/641/esteban-lamothe-y-dolores-fonzi-1971217.jpg",
-      "PublishedAt": "2025-02-20T23:43:54Z",
-      "Content": "Esteban Lamothe y Dolores Fonzi dan vida a los personajes principales de una increíble nueva serie de Netflix de apenas ocho episodios. Una vez más las, la plataforma de streaming apuesta por conteni… [+2419 chars]"
     }
   ]
 }
