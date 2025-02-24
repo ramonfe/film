@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 608,
+  "TotalResults": 609,
   "Articles": [
+    {
+      "Source": {
+        "Id": "cbc-news",
+        "Name": "CBC News"
+      },
+      "Author": null,
+      "Title": "Anora wins best movie, director and actor at Film Independent Spirit Awards",
+      "Description": "In accepting the directing prize for Anora, Sean Baker spoke passionately about the difficulty of making independent films in an industry that is no longer able to fund riskier projects.",
+      "Url": "https://www.cbc.ca/news/entertainment/anora-independent-spirit-awards-1.7466186",
+      "UrlToImage": "https://i.cbc.ca/1.7466212.1740277286!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/aptopix-2025-film-independent-spirit-awards.jpg?im=Resize%3D620",
+      "PublishedAt": "2025-02-23T01:35:01Z",
+      "Content": "Sean Baker's Anora won best film, best director and best actor for Mikey Madison at the Film Independent Spirit Awards on Saturday in what could be a preview of next Sunday's Academy Awards: The film… [+3424 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://variety.com/wp-content/uploads/2025/02/daniel-craig-DC-Comics.jpg?w=999&h=563&crop=1",
       "PublishedAt": "2025-02-20T01:11:47Z",
       "Content": "Daniel Craig isn’t enlisting into the DC Universe after all. The actor has dropped out of consideration for the title role in “Sgt. Rock,” the DC Comics adaptation from Craig’s “Queer” director Luca … [+1520 chars]"
-    },
-    {
-      "Source": {
-        "Id": "fox-news",
-        "Name": "Fox News"
-      },
-      "Author": "Janelle Ash",
-      "Title": "Ethan Hawke shocked young actors allegedly landing roles based on social media follower count",
-      "Description": "Veteran actor and filmmaker Ethan Hawke is reacting to his daughter's claims that young stars are landing big movie and TV roles due to their Instagram following. Hawke gave an example that Robert De Niro didn't find fame due to his \"six-pack\" abs.",
-      "Url": "https://www.foxnews.com/entertainment/ethan-hawke-shocked-young-actors-allegedly-landing-roles-based-social-media-follower-count",
-      "UrlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/02/ethan-hawke.jpg",
-      "PublishedAt": "2025-02-20T00:52:22Z",
-      "Content": "Ethan Hawke is commenting on his daughter's claims that young actors' Instagram followings are landing them huge movie and television roles.\r\n\"Stranger Things\" star Maya Hawke recently shared on the … [+4956 chars]"
     }
   ]
 }
