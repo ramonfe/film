@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 79,
+  "TotalResults": 80,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Slashdot.org"
+      },
+      "Author": "msmash",
+      "Title": "Who's Watching What on TV? Who's To Say?",
+      "Description": "An anonymous reader shares a report: People now watch so many programs at so many different times in so many different ways -- with an antenna, on cable, in an app or from a website, as well as live, recorded or on demand -- that it is increasingly challengin…",
+      "Url": "https://entertainment.slashdot.org/story/25/02/26/1858226/whos-watching-what-on-tv-whos-to-say",
+      "UrlToImage": "https://a.fsdn.com/sd/topics/tv_64.png",
+      "PublishedAt": "2025-02-26T19:25:00Z",
+      "Content": "People now watch so many programs at so many different times in so many different ways -- with an antenna, on cable, in an app or from a website, as well as live, recorded or on demand -- that it is … [+1512 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": "https://www.pcworld.com/wp-content/uploads/2025/02/Apple-TV-app-prompt.jpg?quality=50&strip=all&w=1024",
       "PublishedAt": "2025-02-14T16:16:31Z",
       "Content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nOne of the biggest g… [+3255 chars]"
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "Computerworld"
-      },
-      "Author": "Jonny Evans",
-      "Title": "Apple and the big store",
-      "Description": "Apple has made a small but significant move by introducing its Apple TV app to Android. It might seem like a minor step, but it marks a major pivot in strategy as the company expands its services beyond its own ecosystem. Across the years, rumors and recruitm…",
-      "Url": "https://www.computerworld.com/article/3825110/apple-and-the-big-store.html",
-      "UrlToImage": "https://www.computerworld.com/wp-content/uploads/2025/02/3825110-0-41203800-1739537231-Apple-TV-app-available-on-Android.jpg?quality=50&strip=all&w=1024",
-      "PublishedAt": "2025-02-14T12:46:27Z",
-      "Content": "Apple has made a small but significant move by introducing its Apple TV app to Android. It might seem like a minor step, but it marks a major pivot in strategy as the company expands its services bey… [+911 chars]"
     }
   ]
 }
