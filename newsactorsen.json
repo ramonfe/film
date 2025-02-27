@@ -1,8 +1,21 @@
 {
   "Status": 0,
   "Error": null,
-  "TotalResults": 582,
+  "TotalResults": 583,
   "Articles": [
+    {
+      "Source": {
+        "Id": null,
+        "Name": "Irishtimes.comhttps"
+      },
+      "Author": "Maureen Dowd",
+      "Title": "George Clooney: ‘I told Amal, I can still do everything I did when I was 30. But in 30 years, I’m 90. That’s a real number’",
+      "Description": "The actor is making his Broadway debut in a stage adaptation of his 2005 movie Good Night, and Good Luck",
+      "Url": "https://www.irishtimes.comhttps://www.nytimes.com/2025/02/20/theater/george-clooney-broadway-good-night-good-luck.html",
+      "UrlToImage": "https://www.irishtimes.com/resizer/v2/GG4PKPIZEHTMHQTZOIO2RDN5GI.jpg?smart=true&auth=d43e8d53c973fa04d998a8c1d86289cbb02ee9750bb6e9c07343a65281a3540a&width=1200&height=630",
+      "PublishedAt": "2025-02-26T05:56:00Z",
+      "Content": "George Clooney has been sneaking outside to smoke.\r\nNot like his friend Barack Obama used to, when he was running for US president and his wife, Michelle, was after him to quit. Clooney doesnt even l… [+17497 chars]"
+    },
     {
       "Source": {
         "Id": null,
@@ -366,19 +379,6 @@
       "UrlToImage": null,
       "PublishedAt": "2025-02-25T01:12:41Z",
       "Content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "Source": {
-        "Id": null,
-        "Name": "VOA News"
-      },
-      "Author": "webdesk@voanews.com (Associated Press)",
-      "Title": "Oscar performers include Cynthia Erivo, Ariana Grande and Doja Cat",
-      "Description": "After devastating wildfires tore through Los Angeles, the 97th Academy Awards are going forward. \n\n\nLike the Grammys and other awards shows this year, the ceremony will be transformed by the fires and the Academy of Motion Picture Arts and Sciences has pledge…",
-      "Url": "https://www.voanews.com/a/oscar-performers-include-cynthia-erivo-ariana-grande-and-doja-cat/7986581.html",
-      "UrlToImage": "https://gdb.voanews.com/08ED9E31-0B2B-4F77-9971-FFF739D53343.jpg",
-      "PublishedAt": "2025-02-24T22:24:48Z",
-      "Content": "After devastating wildfires tore through Los Angeles, the 97th Academy Awards are going forward. \r\nLike the Grammys and other awards shows this year, the ceremony will be transformed by the fires and… [+5361 chars]"
     }
   ]
 }
